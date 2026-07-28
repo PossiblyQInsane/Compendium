@@ -2212,6 +2212,12 @@ settings:
     span.statblock-table-header {
       display: block;
     }
+    span.sb-monster-subheading {
+      display: block;
+    }
+    &.property-container {
+      display: block;
+    }
     &.statblock-table {
       display: flex;
     }
@@ -2475,10 +2481,6 @@ settings:
   font-variant: var(--active-property-name-font-variant);
   font-size: var(--active-property-name-font-size);
   font-weight: var(--active-property-name-font-weight);
-}
-
-.property-text {
-  display: block;
 }
 
 .section-header {
