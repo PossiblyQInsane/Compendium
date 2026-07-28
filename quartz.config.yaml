@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: compendium-dse.pages.dev/compendium
+  baseUrl: possiblyqinsane.github.io/Compendium
   ignorePatterns:
     - private
     - templates
