@@ -2261,7 +2261,7 @@ settings:
 
   --statblock-heading-font: "Playfair Display", "Lora", "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
   --statblock-heading-font-color: #cdb278;
-  --statblock-heading-font-size: 23px;
+  --statblock-heading-font-size: 30px;
   --statblock-heading-font-variant: small-caps;
   --statblock-heading-font-weight: var(--statblock-font-weight);
   --statblock-heading-line-height: inherit;
@@ -2570,7 +2570,7 @@ settings:
       margin: 0;
     }
     .property-text::after {
-       content: "\A"
+       content: "\A";
        white-space: pre;
     }
   }
