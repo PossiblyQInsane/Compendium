@@ -13,14 +13,12 @@ senses: Darkvision 60 ft.; Passive Perception 10
 languages: Understands the languages you know
 cr: None (XP 0; PB equals your Proficiency Bonus)
 traits:
-  - name: Steel Bond
-    desc: Add your Proficiency Bonus to any ability check or saving throw the defender makes.
+  - name: 
+    desc: ___Steel Bond.___ Add your Proficiency Bonus to any ability check or saving throw the defender makes.
 actions:
-  - name: Force-Empowered Rend 
-    desc: _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d8 + 2 plus your Intelligence modifier Force damage.
-  - name: Repair (3/Day)
-    desc: The defender, or one Construct or object it can see within 5 feet of itself, regains a number of Hit Points equal to 2d8 plus your Intelligence modifier.
+  - name: 
+    desc: ___Force-Empowered Rend.___ _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d8 + 2 plus your Intelligence modifier Force damage.<br><br>___Repair (3/Day).___ The defender, or one Construct or object it can see within 5 feet of itself, regains a number of Hit Points equal to 2d8 plus your Intelligence modifier.
 reactions:
-  - name: Deflect Attack
-    desc:  _Trigger:_ A creature the defender can see within 5 feet of itself makes an attack roll against a creature other than the defender. _Response:_ The triggering creature makes the attack roll with Disadvantage.
+  - name: 
+    desc: ___Deflect Attack.___ _Trigger:_ A creature the defender can see within 5 feet of itself makes an attack roll against a creature other than the defender. _Response:_ The triggering creature makes the attack roll with Disadvantage.
 ```

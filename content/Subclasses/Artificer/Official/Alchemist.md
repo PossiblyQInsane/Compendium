@@ -4,6 +4,8 @@ Source:
 tags:
   - Official
 ---
+# Alchemist
+
 ![[Alchemist.png|right|325]]
 *Craft Magic Elixirs and Potions*
 

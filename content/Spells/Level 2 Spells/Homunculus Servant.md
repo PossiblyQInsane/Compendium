@@ -29,8 +29,11 @@ name: Homunculus Servant
 size: Tiny
 type: Construct
 alignment: Neutral<br>
+
 ac: 13<br>
+
 hp: 5 + 5 per spell level (the homunculus has a number of Hit Dice [d4s] equal to the spell’s level)<br>
+
 speed: 20 ft., Fly 30 ft.
 stats: [4, 15, 12, 10, 10, 7]
 damage_immunities: Poison; [[Exhaustion]], [[Poisoned]]
