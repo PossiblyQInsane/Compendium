@@ -2268,7 +2268,7 @@ settings:
 
   --statblock-property-line-height: 1.4;
   --statblock-property-font-color: var(--statblock-font-color);
-  --statblock-property-name-font-color: var(--statblock-font-color);
+  --statblock-property-name-font-color: var(--statblock-primary-color);
   --statblock-property-name-font-weight: bold;
 
   --statblock-section-heading-border-size: 1px;
@@ -2568,6 +2568,10 @@ settings:
     .property-text {
       display: inline;
       margin: 0;
+    }
+    .property-text::after {
+       content: "\A"
+       white-space: pre;
     }
   }
 }
