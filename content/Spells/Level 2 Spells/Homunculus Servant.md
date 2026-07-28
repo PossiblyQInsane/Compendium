@@ -28,9 +28,9 @@ layout: Basic 5e 2025 Layout
 name: Homunculus Servant
 size: Tiny
 type: Construct
-alignment: Neutral
-ac: 13
-hp: 5 + 5 per spell level (the homunculus has a number of Hit Dice [d4s] equal to the spell’s level)
+alignment: Neutral<br>
+ac: 13<br>
+hp: 5 + 5 per spell level (the homunculus has a number of Hit Dice [d4s] equal to the spell’s level)<br>
 speed: 20 ft., Fly 30 ft.
 stats: [4, 15, 12, 10, 10, 7]
 damage_immunities: Poison; [[Exhaustion]], [[Poisoned]]
@@ -38,14 +38,14 @@ senses: [[Darkvision|Darkvision]] 60 ft.; Passive Perception 10
 languages: Telepathy 1 mile (works only with you)
 cr: None (XP 0; PB equals your Proficiency Bonus)
 traits:
-  - name: Evasion
+  - name: Evasion.
     desc: If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the homunculus instead takes no damage if it succeeds on the save and only half damage if it fails. It can’t use this trait if it has the [[Incapacitated]] condition.
-  - name: Magic Bond
+  - name: Magic Bond.
     desc: Add the spell’s level to any ability check or saving throw the homunculus makes.
 actions:
-  - name: Force Strike
+  - name: Force Strike.
     desc: _Melee or Ranged Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. or range 30 ft. _Hit:_ 1d6 plus the spell’s level Force damage.
 reactions:
-  - name: Channel Magic
+  - name: Channel Magic.
     desc: _Trigger:_ You cast a spell that has a range of touch while the homunculus is within 120 feet of you. _Response:_ The homunculus delivers the spell through its touch.
 ```
