@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: possiblyqinsane.github.io/Compendium
+  baseUrl: possiblyqinsane.github.io/Compendium/
   ignorePatterns:
     - private
     - templates
