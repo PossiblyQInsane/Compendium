@@ -2231,6 +2231,9 @@ settings:
       font-weight: var(--active-traits-font-weight);
       font-style: var(--active-traits-font-style);
     }
+    &.statblock-trait-prop {
+      margin-bottom: 1em;
+    }
   }
   p {
     color: inherit;
@@ -2523,7 +2526,6 @@ settings:
   font-size: var(--active-traits-font-size);
   font-weight: var(--active-traits-font-weight);
   font-style: var(--active-traits-font-style);
-  margin-bottom: 1em;
 }
 
 .trait-name {
