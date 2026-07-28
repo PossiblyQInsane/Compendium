@@ -24,6 +24,7 @@ _**Combat.**_ The homunculus is an ally to you and your allies. In combat, it s
 _**Using a Higher-Level Spell Slot.**_ Use the spell slot’s level for the spell’s level in the stat block.
 
 ```statblock
+cssclass: statblock
 layout: Basic 5e 2025 Layout
 name: Homunculus Servant
 size: Tiny
