@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T19:22:20.550-04:00
-modified: 2026-07-26T21:26:58.834-04:00
+modified: 2026-07-27T21:07:11.225-04:00
 tags:
   - Official
 ---
 
 # Alchemist
 
-![|right|325](https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/01-002.alchemist-subclass.png)
+![[Images/Alchemist.png|right|325]]
 _Craft Magic Elixirs and Potions_
 
 An Alchemist is an expert at combining reagents to produce magical effects. Alchemists use their creations to give life and to leech it away.

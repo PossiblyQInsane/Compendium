@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T21:11:12.643-04:00
-modified: 2026-07-26T23:10:29.700-04:00
+modified: 2026-07-27T21:07:43.589-04:00
 tags:
   - Official
 ---
 
 # Armorer
 
-![|left|355](https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/01-003.armorer-subclass.png)
+![[Images/Armorer.png|left|355]]
 
 _Craft Magic Armor to Enhance Your Abilities_
 
