@@ -1,12 +1,14 @@
 ---
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-24T10:52:31.099-04:00
+modified: 2026-07-26T17:08:19.951-04:00
 tags:
   - Official
 ---
+
 # Spellcasting
 
-![*Archmages of Greyhawk—Jallarzi, Mordenkainen, and Bigby—prepare their magic as they open a gate to another plane*](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/08-001.jallarzi-mordenkainen-bigby.png)
+![Archmages of Greyhawk—Jallarzi, Mordenkainen, and Bigby—prepare their magic as they open a gate to another plane](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/08-001.jallarzi-mordenkainen-bigby.png)
 
 ## Gaining Spells
 
@@ -36,12 +38,9 @@ Most spellcasting monsters don’t change their lists of prepared spells, but th
 
 Certain features might give you a spell that you always have prepared. If you also have a list of prepared spells that you can change, a spell that you always have prepared doesn’t count against the number of spells on that list.
 
-
-
 > [!recite|no-i]  Casting in Armor
-> 
->  You must have training with any armor you are wearing to cast spells while wearing it. You are otherwise too hampered by the armor for spellcasting.
-> 
+>
+> You must have training with any armor you are wearing to cast spells while wearing it. You are otherwise too hampered by the armor for spellcasting.
 
 ## Casting Spells
 
@@ -55,7 +54,7 @@ Every spell has a level from 0 to 9, which is indicated in a spell’s descripti
 
 Spellcasting is taxing, so a spellcaster can cast only a limited number of level 1+ spells before resting. Spell slots are the main way a spellcaster’s magical potential is represented. Each spellcasting class gives its members a limited number of spell slots of certain spell levels. For example, a level 3 Wizard has four level 1 spell slots and two level 2 slots.
 
-When you cast a spell, you expend a slot of that spell’s level or higher, effectively “filling” a slot with the spell. Imagine a spell slot is a groove of a certain size—small for a level 1 slot and larger for a higher-level spell. A level 1 spell fits into a slot of any size, but a level 2 spell fits only into a slot that’s at least level 2. So when a level 3 Wizard casts *[[Magic Missile]]*, a level 1 spell, that Wizard spends one of four level 1 slots and has three remaining.
+When you cast a spell, you expend a slot of that spell’s level or higher, effectively “filling” a slot with the spell. Imagine a spell slot is a groove of a certain size—small for a level 1 slot and larger for a higher-level spell. A level 1 spell fits into a slot of any size, but a level 2 spell fits only into a slot that’s at least level 2. So when a level 3 Wizard casts _[[Magic Missile]]_, a level 1 spell, that Wizard spends one of four level 1 slots and has three remaining.
 
 Finishing a [[Long Rest]] restores any expended spell slots.
 
@@ -73,9 +72,9 @@ There are several ways to cast a spell without expending a spell slot:
 
 #### **Using a Higher-Level Spell Slot**
 
-When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell takes on the higher level for that casting. For instance, if a Wizard casts *[[Magic Missile]]* using a level 2 slot, that *Magic Missile* is level 2. Effectively, the spell expands to fill the slot it is put into.
+When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell takes on the higher level for that casting. For instance, if a Wizard casts _[[Magic Missile]]_ using a level 2 slot, that _Magic Missile_ is level 2. Effectively, the spell expands to fill the slot it is put into.
 
-Some spells, such as *[[Magic Missile]]* and *[[Cure Wounds]]*, have more powerful effects when cast at a higher level, as detailed in a spell’s description.
+Some spells, such as _[[Magic Missile]]_ and _[[Cure Wounds]]_, have more powerful effects when cast at a higher level, as detailed in a spell’s description.
 
 ### School of Magic
 
@@ -129,8 +128,8 @@ A range usually takes one of the following forms:
 If a spell has movable effects, they aren’t restricted by its range unless the spell’s description says otherwise.
 
 ### Components
-![*An aasimar Wizard uses a crystal material component to focus the magic of [[Cone of Cold]]*](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/08-002.aasimar-wizard.png)
 
+![An aasimar Wizard uses a crystal material component to focus the magic of ](https://media.dndbeyond.com/compendium-images/phb/MKDHZ1nxSXDDLOw2/08-002.aasimar-wizard.png)
 
 A spell’s components are physical requirements the spellcaster must meet to cast the spell. Each spell’s description indicates whether it requires Verbal (V), Somatic (S), or Material (M) components. If the spellcaster can’t provide one or more of a spell’s components, the spellcaster can’t cast the spell.
 
@@ -138,11 +137,9 @@ A spell’s components are physical requirements the spellcaster must meet to ca
 
 A Verbal component is the chanting of esoteric words that sound like nonsense to the uninitiated. The words must be uttered in a normal speaking voice. The words themselves aren’t the source of the spell’s power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a creature who is gagged or in an area of magical silence can’t cast a spell with a Verbal component.
 
-
-
 > [!recite|no-i] Creating Verbal Components
-> 
-> If you’d like to say a spell’s Verbal component, you may make up the words. However you make them, the goal is to create something that’s easy to say and that doesn’t mean anything in the real world. Consider this method: take the name of the spell, keep only one instance of each of its letters, and rearrange the remaining letters into words. For example, remove the second l from *[[Fireball]]* and rearrange the remaining letters to create _Ber Fila_ or _Fel Bira_.
+>
+> If you’d like to say a spell’s Verbal component, you may make up the words. However you make them, the goal is to create something that’s easy to say and that doesn’t mean anything in the real world. Consider this method: take the name of the spell, keep only one instance of each of its letters, and rearrange the remaining letters into words. For example, remove the second l from _[[Fireball]]_ and rearrange the remaining letters to create _Ber Fila_ or _Fel Bira_.
 
 #### Somatic (S)
 
@@ -176,7 +173,7 @@ _**A Clear Path to the Target.**_ To target something with a spell, a caster mu
 
 _**Targeting Yourself.**_ If a spell targets a creature of your choice, you can choose yourself unless the creature must be [[Hostile]] or specifically a creature other than you.
 
-_**Areas of Effect.**_ Some spells, such as *[[Thunderwave]]*, cover an area called an area of effect. The area determines what the spell targets. The description of a spell specifies whether it has an [[Area of Effect|area of effect]], which is typically one of these shapes: [[Cone]], [[Cube]], [[Cylinder]], [[Emanation]], [[Line]], or [[Sphere]].
+_**Areas of Effect.**_ Some spells, such as _[[Thunderwave]]_, cover an area called an area of effect. The area determines what the spell targets. The description of a spell specifies whether it has an [[Area of Effect|area of effect]], which is typically one of these shapes: [[Cone]], [[Cube]], [[Cylinder]], [[Emanation]], [[Line]], or [[Sphere]].
 
 _**Awareness of Being Targeted.**_ Unless a spell has a perceptible effect, a creature doesn’t know it was targeted by the spell. An effect like lightning is obvious, but a more subtle effect, such as an attempt to read thoughts, goes unnoticed unless a spell’s description says otherwise.
 
@@ -200,9 +197,8 @@ Some spells require the caster to make an attack roll to determine whether the s
 </div>
 #### Combining Spell Effects
 
-The effects of different spells add together while their durations overlap. In contrast, the effects of the same spell cast multiple times don’t combine. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap. The most recent effect applies if the castings are equally potent and their durations overlap. For example, if two Clerics cast *[[Bless]]* on the same target, that target gains the spell’s benefit only once; the target doesn’t receive two bonus dice. But if the durations of the spells overlap, the effect continues until the duration of the second *Bless* ends.
+The effects of different spells add together while their durations overlap. In contrast, the effects of the same spell cast multiple times don’t combine. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap. The most recent effect applies if the castings are equally potent and their durations overlap. For example, if two Clerics cast _[[Bless]]_ on the same target, that target gains the spell’s benefit only once; the target doesn’t receive two bonus dice. But if the durations of the spells overlap, the effect continues until the duration of the second _Bless_ ends.
 
 > [!recite|no-i]  Identifying an Ongoing Spell
-> 
+>
 > You can try to identify a non-instantaneous spell by its observable effects if its duration is ongoing. To identify it, you must take the [[Study]] action and succeed on a DC 15 Intelligence ([[Arcana]]) check.
-> 

@@ -1,22 +1,22 @@
 ---
-Name: "[[Bigby's Hand]]"
-Spell Level: Level 5
-School: Evocation
-Components: V, S, M
-Classes: Artificer, Sorcerer, Wizard
-Special: C
+publish: true
+created: 2026-07-26T17:32:43.309-04:00
+modified: 2026-07-27T18:35:47.412-04:00
 tags:
   - Official
-Source:
-  - Player's Handbook (5.5e)
 ---
+
 _Level 5 Evocation ([[Artificer|Artificer]], [[Sorcerer]], [[Wizard]])_
-***
-**Casting Time:** Action  
-**Range:** 120 feet  
-**Components:** V, S, M (an eggshell and a glove)  
+
+---
+
+**Casting Time:** Action\
+**Range:** 120 feet\
+**Components:** V, S, M (an eggshell and a glove)\
 **Duration:** [[Concentration]], up to 1 minute
-***
+
+---
+
 You create a Large hand of shimmering magical energy in an unoccupied space that you can see within range. The hand lasts for the duration, and it moves at your command, mimicking the movements of your own hand.
 
 The hand is an object that has AC 20 and [[Hit Points]] equal to your Hit Point maximum. If it drops to 0 Hit Points, the spell ends. The hand doesn’t occupy its space.

@@ -1,22 +1,22 @@
 ---
-Name: "[[Mordenkainen's Private Sanctum]]"
-Spell Level: Level 4
-School: Abjuration
-Components: V, S, M
-Classes: Artificer, Wizard
-Special: —
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-26T15:18:58.490-04:00
+modified: 2026-07-27T18:48:30.222-04:00
 tags:
   - Official
 ---
+
 _Level 4 Abjuration ([[Artificer|Artificer]], [[Wizard]])_
-***
-**Casting Time:** 10 minutes  
-**Range:** 120 feet  
-**Components:** V, S, M (a thin sheet of lead)  
+
+---
+
+**Casting Time:** 10 minutes\
+**Range:** 120 feet\
+**Components:** V, S, M (a thin sheet of lead)\
 **Duration:** 24 hours
-***
+
+---
+
 You make an area within range magically secure. The area is a [[Cube]] that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration.
 
 When you cast the spell, you decide what sort of security the spell provides, choosing any of the following properties:

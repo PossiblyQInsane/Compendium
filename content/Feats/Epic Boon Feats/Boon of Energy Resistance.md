@@ -1,14 +1,14 @@
 ---
-Category: Epic Boon Feat
-Prerequisite: Level 19+
-Ability Score: Any +1
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-25T21:07:31.194-04:00
+modified: 2026-07-27T18:00:53.168-04:00
 tags:
   - Official
 ---
+
 _Epic Boon Feat (Prerequisite: Level 19+)_
-***
+
+---
 
 You gain the following benefits.
 

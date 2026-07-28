@@ -1,22 +1,22 @@
 ---
-Name: "[[Glyph of Warding]]"
-Spell Level: Level 3
-School: Abjuration
-Components: V, S, M
-Classes: Artificer, Bard, Cleric, Wizard
-Special: M
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-26T13:48:34.301-04:00
+modified: 2026-07-27T18:51:48.954-04:00
 tags:
   - Official
 ---
+
 _Level 3 Abjuration ([[Artificer|Artificer]], [[Bard]], [[Cleric]], [[Wizard]])_
-***
-**Casting Time:** 1 hour  
-**Range:** Touch  
-**Components:** V, S, M (powdered diamond worth 200+ GP, which the spell consumes)  
+
+---
+
+**Casting Time:** 1 hour\
+**Range:** Touch\
+**Components:** V, S, M (powdered diamond worth 200+ GP, which the spell consumes)\
 **Duration:** Until dispelled or triggered
-***
+
+---
+
 You inscribe a glyph that later unleashes a magical effect. You inscribe it either on a surface (such as a table or a section of floor) or within an object that can be closed (such as a book or chest) to conceal the glyph. The glyph can cover an area no larger than 10 feet in diameter. If the surface or object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 
 The glyph is nearly imperceptible and requires a successful Wisdom ([[Perception]]) check against your spell save DC to notice.

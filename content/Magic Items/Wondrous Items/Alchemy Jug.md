@@ -1,13 +1,14 @@
 ---
-Category: Wondrous Item
-Rarity: Uncommon
-Source:
-  - Dungeon Master's Guide (5.5e)
+publish: true
+created: 2026-07-25T16:51:22.830-04:00
+modified: 2026-07-27T18:10:03.538-04:00
 tags:
   - Official
 ---
+
 _Wondrous Item, Uncommon_
-***
+
+---
 
 This ceramic jug appears to be able to hold a gallon of liquid and weighs 12 pounds whether full or empty. The jug sloshes when it is shaken, even if the jug is empty.
 
@@ -16,6 +17,7 @@ You can take a [[Magic|Magic]] action and name one liquid from the Alchemy Jug 
 Once the jug starts producing a liquid, it can’t produce a different one, or more of one that has reached its maximum, until the next dawn.
 
 ##### Alchemy Jug Liquids
+
 | Liquid           | Max. Amount |
 | ---------------- | ----------- |
 | [[Acid]]         | 8 ounces    |

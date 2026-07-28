@@ -1,22 +1,22 @@
 ---
-Name: "[[Greater Restoration]]"
-Spell Level: Level 5
-School: Abjuration
-Components: V, S, M
-Classes: Artificer, Bard, Cleric, Druid, Paladin, Ranger
-Special: M
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-26T17:46:33.922-04:00
+modified: 2026-07-27T18:34:57.030-04:00
 tags:
   - Official
 ---
+
 _Level 5 Abjuration ([[Artificer|Artificer]], [[Bard]], [[Cleric]], [[Druid]], [[Paladin]], [[Ranger]])_
-***
-**Casting Time:** Action  
-**Range:** Touch  
-**Components:** V, S, M (diamond dust worth 100+ GP, which the spell consumes)  
+
+---
+
+**Casting Time:** Action\
+**Range:** Touch\
+**Components:** V, S, M (diamond dust worth 100+ GP, which the spell consumes)\
 **Duration:** Instantaneous
-***
+
+---
+
 You touch a creature and magically remove one of the following effects from it:
 
 - 1 [[Exhaustion]] level

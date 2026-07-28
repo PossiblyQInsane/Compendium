@@ -1,13 +1,14 @@
 ---
-Category: Weapon
-Rarity: Rare
-Source:
-  - "Eberron: Forge of the Artificer"
+publish: true
+created: 2026-07-25T17:43:33.756-04:00
+modified: 2026-07-27T18:08:23.171-04:00
 tags:
   - Official
 ---
+
 _Weapon (Any Simple or Martial), Rare (Requires Attunement)_
-***
+
+---
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, you can take a [[Bonus Action]] to cause it to shed [[Bright Light]] in a 30-foot radius and [[Dim Light]] for an additional 30 feet. You can extinguish the light as a Bonus Action.
 

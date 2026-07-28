@@ -1,13 +1,14 @@
 ---
-Category: Wondrous Item
-Rarity: Uncommon
-Source:
-  - Dungeon Master's Guide (5.5e)
+publish: true
+created: 2026-07-25T17:08:55.037-04:00
+modified: 2026-07-27T18:13:11.628-04:00
 tags:
   - Official
 ---
+
 _Wondrous Item, Uncommon_
-***
+
+---
 
 This 60-foot length of rope can hold up to 3,000 pounds. While holding one end of the rope, you can take a [[Magic]] action to command the other end of the rope to animate and move toward a destination you choose, up to the rope’s length away from you. That end moves 10 feet on your turn when you first command it and 10 feet at the start of each of your subsequent turns until reaching its destination or until you tell it to stop. You can also tell the rope to fasten itself securely to an object or to unfasten itself, to knot or unknot itself, or to coil itself for carrying.
 

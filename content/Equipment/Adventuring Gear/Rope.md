@@ -1,14 +1,15 @@
 ---
-Weight: 5 lb.
-Cost: 1 GP
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-25T14:15:11.789-04:00
+modified: 2026-07-27T17:55:59.088-04:00
 tags:
   - Official
 ---
+
 **Cost:** 1 GP
 **Weight:** 5 lb.
-***
+
+---
 
 As a [[Utilize]] action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity ([[Sleight of Hand]]) check. The Rope can be burst with a successful DC 20 Strength ([[Athletics]]) check.
 

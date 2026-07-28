@@ -1,22 +1,21 @@
 ---
-Name: "[[Dancing Lights|Dancing Lights]]"
-Spell Level: Cantrip
-School: Illusion
-Components: V, S, M
-Classes: Artificer, Bard, Sorcerer, Wizard
-Special: C
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-25T21:16:36.373-04:00
+modified: 2026-07-27T18:16:35.490-04:00
 tags:
   - Official
 ---
-*Illusion Cantrip ([[Artificer]], [[Bard]], [[Sorcerer]], [[Wizard]])*
-***
-**Casting Time:** Action  
-**Range:** 120 feet  
-**Components:** V, S, M (a bit of phosphorus)  
+
+_Illusion Cantrip ([[Artificer]], [[Bard]], [[Sorcerer]], [[Wizard]])_
+
+---
+
+**Casting Time:** Action\
+**Range:** 120 feet\
+**Components:** V, S, M (a bit of phosphorus)\
 **Duration:** [[Concentration]], up to 1 minute
-***
+
+---
 
 You create up to four torch-size lights within range, making them appear as torches, lanterns, or glowing orbs that hover for the duration. Alternatively, you combine the four lights into one glowing Medium form that is vaguely humanlike. Whichever form you choose, each light sheds [[Dim Light]] in a 10-foot radius.
 

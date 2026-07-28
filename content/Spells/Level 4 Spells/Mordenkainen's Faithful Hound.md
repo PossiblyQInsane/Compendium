@@ -1,22 +1,22 @@
 ---
-Name: "[[Mordenkainen's Faithful Hound]]"
-Spell Level: Level 4
-School: Conjuration
-Components: V, S, M
-Classes: Artificer, Wizard
-Special: —
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-26T15:15:10.705-04:00
+modified: 2026-07-27T18:48:42.781-04:00
 tags:
   - Official
 ---
+
 _Level 4 Conjuration ([[Artificer|Artificer]]. [[Wizard]])_
-***
-**Casting Time:** Action  
-**Range:** 30 feet  
-**Components:** V, S, M (a silver whistle)  
+
+---
+
+**Casting Time:** Action\
+**Range:** 30 feet\
+**Components:** V, S, M (a silver whistle)\
 **Duration:** 8 hours
-***
+
+---
+
 You conjure a phantom watchdog in an unoccupied space that you can see within range. The hound remains for the duration or until the two of you are more than 300 feet apart from each other.
 
 No one but you can see the hound, and it is intangible and invulnerable. When a Small or larger creature comes within 30 feet of it without first speaking the password that you specify when you cast this spell, the hound starts barking loudly. The hound has [[Truesight]] with a range of 30 feet.

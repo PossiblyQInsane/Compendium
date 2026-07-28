@@ -1,13 +1,14 @@
 ---
-Category: Weapon
-Rarity: Uncommon
-Source:
-  - Dungeon Master's Guide (5.5e)
+publish: true
+created: 2026-07-25T18:41:36.154-04:00
+modified: 2026-07-27T18:09:40.973-04:00
 tags:
   - Official
 ---
+
 _Weapon (Any Simple or Martial), Uncommon (Requires Attunement)_
-***
+
+---
 
 As long as this weapon is within your reach and you are attuned to it, you and allies within 30 feet of you gain the following benefits.
 

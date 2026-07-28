@@ -1,9 +1,11 @@
 ---
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-25T16:15:14.727-04:00
+modified: 2026-07-27T20:20:30.026-04:00
 tags:
   - Official
 ---
+
 Some magic items require a creature to form a bond—called Attunement—with them before the creature can use an item’s magical properties. Without becoming attuned to an item that requires Attunement, you gain only its nonmagical benefits unless its description states otherwise. For example, a magic [[Shield]] that requires Attunement provides the benefits of a normal Shield if you aren’t attuned to it, but none of its magical properties.
 
 #### Attune during a Short Rest
@@ -12,7 +14,7 @@ Attuning to an item requires you to spend a [[Short Rest]] focused on only that
 
 #### No More Than Three Items
 
-You can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; you must end your Attunement to an item first. Additionally, you can’t attune to more than one copy of an item. For example, you can’t attune to more than one *[[Ring of Protection]]* at a time.
+You can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; you must end your Attunement to an item first. Additionally, you can’t attune to more than one copy of an item. For example, you can’t attune to more than one _[[Ring of Protection]]_ at a time.
 
 #### Ending Attunement
 

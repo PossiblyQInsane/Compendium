@@ -1,22 +1,22 @@
 ---
-Name: "[[Flaming Sphere]]"
-Spell Level: Level 2
-School: Conjuration
-Components: V, S, M
-Classes: Druid, Sorcerer, Wizard
-Special: C
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-26T20:01:12.755-04:00
+modified: 2026-07-27T18:30:56.623-04:00
 tags:
   - Official
 ---
+
 _Level 2 Conjuration ([[Druid]], [[Sorcerer]], [[Wizard]])_
-***
-**Casting Time:** Action  
-**Range:** 60 feet  
-**Components:** V, S, M (a ball of wax)  
+
+---
+
+**Casting Time:** Action\
+**Range:** 60 feet\
+**Components:** V, S, M (a ball of wax)\
 **Duration:** [[Concentration]], up to 1 minute
-***
+
+---
+
 You create a 5-foot-diameter sphere of fire in an unoccupied space on the ground within range. It lasts for the duration. Any creature that ends its turn within 5 feet of the sphere makes a Dexterity saving throw, taking 2d6 Fire damage on a failed save or half as much damage on a successful one.
 
 As a [[Bonus Action]], you can move the sphere up to 30 feet, rolling it along the ground. If you move the sphere into a creature’s space, that creature makes the save against the sphere, and the sphere stops moving for the turn.

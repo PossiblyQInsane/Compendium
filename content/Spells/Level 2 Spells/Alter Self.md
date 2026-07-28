@@ -1,22 +1,22 @@
 ---
-Name: "[[Alter Self|Alter Self]]"
-Spell Level: Level 2
-School: Transmutation
-Components: V, S
-Classes: Artificer, Sorcerer, Wizard
-Special: C
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-25T23:15:57.094-04:00
+modified: 2026-07-27T18:28:28.975-04:00
 tags:
   - Official
 ---
+
 _Level 2 Transmutation ([[Artificer]], [[Sorcerer]], [[Wizard]])_
-***
+
+---
+
 **Casting Time:** Action
-**Range:** Self  
-**Components:** V, S  
+**Range:** Self\
+**Components:** V, S\
 **Duration:** [[Concentration]], up to 1 hour
-***
+
+---
+
 You alter your physical form. Choose one of the following options. Its effects last for the duration, during which you can take a [[Magic]] action to replace the option you chose with a different one.
 
 _**Aquatic Adaptation.**_ You sprout gills and grow webs between your fingers. You can breathe underwater and gain a [[Swim Speed]] equal to your [[Speed]].

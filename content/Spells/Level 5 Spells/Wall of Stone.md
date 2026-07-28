@@ -1,22 +1,22 @@
 ---
-Name: "[[Wall of Stone]]"
-Spell Level: Level 5
-School: Evocation
-Components: V, S, M
-Classes: Artificer, Druid, Sorcerer, Wizard
-Special: C
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-26T17:51:35.263-04:00
+modified: 2026-07-27T18:34:37.317-04:00
 tags:
   - Official
 ---
+
 _Level 5 Evocation ([[Artificer|Artificer]], [[Druid]], [[Sorcerer]], [[Wizard]])_
-***
-**Casting Time:** Action  
-**Range:** 120 feet  
-**Components:** V, S, M (a cube of granite)  
+
+---
+
+**Casting Time:** Action\
+**Range:** 120 feet\
+**Components:** V, S, M (a cube of granite)\
 **Duration:** [[Concentration]], up to 10 minutes
-***
+
+---
+
 A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.
 
 If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (you choose which side). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its [[Reaction]] to move up to its [[Speed]] so that it is no longer enclosed by the wall.

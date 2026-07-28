@@ -1,22 +1,22 @@
 ---
-Name: "[[Web]]"
-Spell Level: Level 2
-School: Conjuration
-Components: V, S, M
-Classes: Artificer, Sorcerer, Wizard
-Special: C
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-26T13:18:06.455-04:00
+modified: 2026-07-27T18:53:18.382-04:00
 tags:
   - Official
 ---
+
 _Level 2 Conjuration ([[Artificer|Artificer]], [[Sorcerer]], [[Wizard]])_
-***
-**Casting Time:** Action  
-**Range:** 60 feet  
-**Components:** V, S, M (a bit of spiderweb)  
+
+---
+
+**Casting Time:** Action\
+**Range:** 60 feet\
+**Components:** V, S, M (a bit of spiderweb)\
 **Duration:** [[Concentration]], up to 1 hour
-***
+
+---
+
 You conjure a mass of sticky webbing at a point within range. The webs fill a 20-foot [[Cube]] there for the duration. The webs are [[Difficult Terrain]], and the area within them is [[Lightly Obscured]].
 
 If the webs aren’t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.

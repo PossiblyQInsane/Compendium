@@ -1,13 +1,14 @@
 ---
-Category: Armor
-Rarity: Rare
-Source:
-  - Dungeon Master's Guide (5.5e)
+publish: true
+created: 2026-07-25T18:56:37.540-04:00
+modified: 2026-07-27T18:00:40.722-04:00
 tags:
   - Official
 ---
+
 _Armor ([[Shield]]), Rare (Requires Attunement)_
-***
+
+---
 
 You gain a +2 bonus to [[Armor Class]] against ranged attack rolls while you wield this Shield. This bonus is in addition to the Shield’s normal bonus to AC.
 

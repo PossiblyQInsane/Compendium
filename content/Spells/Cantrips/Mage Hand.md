@@ -1,22 +1,22 @@
 ---
-Name: "[[Mage Hand|Mage Hand]]"
-Spell Level: Cantrip
-School: Conjuration
-Components: V, S
-Classes: Artificer, Bard, Sorcerer, Warlock, Wizard
-Special: —
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-25T21:45:08.179-04:00
+modified: 2026-07-27T18:18:14.199-04:00
 tags:
   - Official
 ---
-*Conjuration Cantrip ([[Artificer]], [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])*
-***
-**Casting Time:** Action  
-**Range:** 30 feet  
-**Components:** V, S  
+
+_Conjuration Cantrip ([[Artificer]], [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
+
+---
+
+**Casting Time:** Action\
+**Range:** 30 feet\
+**Components:** V, S\
 **Duration:** 1 minute
-***
+
+---
+
 A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
 
 When you cast the spell, you can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial.

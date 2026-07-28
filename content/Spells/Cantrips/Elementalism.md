@@ -1,22 +1,22 @@
 ---
-Name: "[[Elementalism|Elementalism]]"
-Spell Level: Cantrip
-School: Transmutation
-Components: V, S
-Classes: Artificer, Druid, Sorcerer, Wizard
-Special: —
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-25T21:22:26.674-04:00
+modified: 2026-07-27T18:17:10.978-04:00
 tags:
   - Official
 ---
-*Transmutation Cantrip ([[Artificer]], [[Druid]], [[Sorcerer]], [[Wizard]])*
-***
-**Casting Time:** Action  
-**Range:** 30 feet  
-**Components:** V, S  
+
+_Transmutation Cantrip ([[Artificer]], [[Druid]], [[Sorcerer]], [[Wizard]])_
+
+---
+
+**Casting Time:** Action\
+**Range:** 30 feet\
+**Components:** V, S\
 **Duration:** Instantaneous
-***
+
+---
+
 You exert control over the elements, creating one of the following effects within range.
 
 _**Beckon Air.**_ You create a breeze strong enough to ripple cloth, stir dust, rustle leaves, and close open doors and shutters, all in a 5-foot [[Cube]]. Doors and shutters being held open by someone or something aren’t affected.

@@ -1,9 +1,11 @@
 ---
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-26T20:46:09.643-04:00
+modified: 2026-07-27T18:14:45.923-04:00
 tags:
   - Official
 ---
+
 A creature has a Speed, which is the distance in feet the creature can cover when it moves on its turn.
 
 **_Special Speeds._** Some creatures have special speeds, such as a [[Burrow Speed]], [[Climb Speed]], [[Fly Speed]], or [[Swim Speed]]. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can’t use the new speed during the current move. For example, if you have a Speed of 30 and a Fly Speed of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.

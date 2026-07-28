@@ -1,22 +1,22 @@
 ---
-Name: "[[Raise Dead]]"
-Spell Level: Level 5
-School: Necromancy
-Components: V, S, M
-Classes: Bard, Cleric, Paladin
-Special: M
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-26T20:39:58.657-04:00
+modified: 2026-07-27T18:34:46.878-04:00
 tags:
   - Official
 ---
+
 _Level 5 Necromancy ([[Bard]], [[Cleric]], [[Paladin]])_
-***
-**Casting Time:** 1 hour  
-**Range:** Touch  
-**Components:** V, S, M (a diamond worth 500+ GP, which the spell consumes)  
+
+---
+
+**Casting Time:** 1 hour\
+**Range:** Touch\
+**Components:** V, S, M (a diamond worth 500+ GP, which the spell consumes)\
 **Duration:** Instantaneous
-***
+
+---
+
 With a touch, you revive a dead creature if it has been dead no longer than 10 days and it wasn’t Undead when it died.
 
 The creature returns to life with 1 [[Hit Points|Hit Point]]. This spell also neutralizes any poisons that affected the creature at the time of death.

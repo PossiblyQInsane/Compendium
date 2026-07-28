@@ -1,22 +1,22 @@
 ---
-Name: "[[Prestidigitation|Prestidigitation]]"
-Spell Level: Cantrip
-School: Transmutation
-Components: V, S
-Classes: Artificer, Bard, Sorcerer, Warlock, Wizard
-Special: —
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-24T02:47:04.001-04:00
+modified: 2026-07-27T18:19:30.664-04:00
 tags:
   - Official
 ---
+
 _Transmutation Cantrip ([[Artificer]], [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
-***
-**Casting Time:** Action  
-**Range:** 10 feet  
-**Components:** V, S  
+
+---
+
+**Casting Time:** Action\
+**Range:** 10 feet\
+**Components:** V, S\
 **Duration:** Up to 1 hour
-***
+
+---
+
 You create a magical effect within range. Choose the effect from the options below. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time.
 
 _**Sensory Effect.**_ You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.

@@ -1,22 +1,22 @@
 ---
-Name: "[[Creation]]"
-Spell Level: Level 5
-School: Illusion
-Components: V, S, M
-Classes: Artificer, Sorcerer, Wizard
-Special: —
-Source:
-  - Player's Handbook (5.5e)
+publish: true
+created: 2026-07-26T17:42:19.565-04:00
+modified: 2026-07-27T18:35:07.765-04:00
 tags:
   - Official
 ---
+
 _Level 5 Illusion ([[Artificer|Artificer]], [[Sorcerer]], [[Wizard]])_
-***
-**Casting Time:** 1 minute  
-**Range:** 30 feet  
-**Components:** V, S, M (a paintbrush)  
+
+---
+
+**Casting Time:** 1 minute\
+**Range:** 30 feet\
+**Components:** V, S, M (a paintbrush)\
 **Duration:** Special
-***
+
+---
+
 You pull wisps of shadow material from the Shadowfell to create an object within range. It is either an object of vegetable matter (soft goods, rope, wood, and the like) or mineral matter (stone, crystal, metal, and the like). The object must be no larger than a 5-foot [[Cube]], and the object must be of a form and material that you have seen.
 
 The spell’s duration depends on the object’s material, as shown in the Materials table. If the object is composed of multiple materials, use the shortest duration. Using any object created by this spell as another spell’s Material component causes the other spell to fail.
