@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T21:11:12.643-04:00
-modified: 2026-07-27T21:07:43.589-04:00
-published: 2026-07-27T21:07:43.589-04:00
+modified: 2026-07-28T11:49:52.496-04:00
+published: 2026-07-28T11:49:52.496-04:00
 tags:
   - Official
 Source:
@@ -112,3 +112,11 @@ You can take this [[Reaction]] a number of times equal to your Intelligence modi
 _**Infiltrator.**_ The damage die of your Lightning Launcher increases to 2d6 Lightning damage. Any creature that takes Lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds [[Dim Light]] in a 5-foot radius, and it has [[Disadvantage]] on attack rolls against you, as the light jolts it if it attacks you.
 
 Additionally, as a [[Bonus Action]], you can gain a [[Fly Speed]] equal to twice your [[Speed]] until the end of the current turn. You can take this Bonus Action a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
+
+> [!recite|no-i] Alternate Artificer Capstone (Exploring Eberron)
+>
+> ### Level 20: Overcharge
+>
+> As a [[Magic]] action, you can overcharge your armor to unleash a torrent of energy forming a 100-foot-long, 15-foot-wide [[Line]] that blasts out from you in a direction you choose. The type of energy unleashed by the Line depends on your current armor model: Dreadnaught deals Force damage, Guardian deals Thunder damage, and Infiltrator deals Lightning damage. Each creature in the Line makes a Dexterity saving throw, taking 30d6 damage of the appropriate type on a failed save or half as much on a successful one.
+>
+> Once you use this feature, you can’t use it again until you finish a [[Long Rest]].
