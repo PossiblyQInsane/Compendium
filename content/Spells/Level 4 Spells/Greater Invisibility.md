@@ -1,0 +1,29 @@
+---
+publish: true
+created: 2026-07-28T10:36:36.371-04:00
+modified: 2026-07-28T10:39:40.839-04:00
+published: 2026-07-28T10:39:40.839-04:00
+tags:
+  - Official
+Name: "[[Greater Invisibility]]"
+Spell Level: Level 4
+School: Illusion
+Components: V, S
+Classes: Bard, Sorcerer, Wizard
+Special: C
+Source:
+  - Player's Handbook (5.5e)
+---
+
+_Level 4 Illusion ([[Bard]], [[Sorcerer]], [[Wizard]])_
+
+---
+
+**Casting Time:** Action\
+**Range:** Touch\
+**Components:** V, S\
+**Duration:** [[Concentration]], up to 1 minute
+
+---
+
+A creature you touch has the [[Invisible]] condition until the spell ends.

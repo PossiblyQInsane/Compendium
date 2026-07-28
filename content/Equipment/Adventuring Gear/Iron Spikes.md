@@ -1,11 +1,10 @@
 ---
 publish: true
 created: 2026-07-25T14:27:07.413-04:00
-modified: 2026-07-27T17:51:49.209-04:00
-published: 2026-07-27T17:51:49.209-04:00
+modified: 2026-07-28T10:38:25.814-04:00
+published: 2026-07-28T10:38:25.814-04:00
 tags:
   - Official
-  - Players_Handbook_5-5e
 Weight: 5 lb.
 Cost: 1 GP
 Source:
