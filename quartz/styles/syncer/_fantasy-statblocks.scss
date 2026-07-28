@@ -27,9 +27,9 @@
 // Quartz fixes end
 
 :root {
-  --statblock-primary-color: #7a200d;
+  --statblock-primary-color: #c14343;
   --statblock-rule-color: #922610;
-  --statblock-background-color: #fdf1dc;
+  --statblock-background-color: #12161b;
 
   --statblock-bar-color: #e69a28;
   --statblock-bar-border-size: 1px;
@@ -51,10 +51,10 @@
   --statblock-font-color: var(--statblock-primary-color);
   --statblock-font-weight: 700;
 
-  --statblock-content-font: "Noto Sans", "Myriad Pro", Calibri, Helvetica, Arial, sans-serif;
+  --statblock-content-font: "Libre Baskerville", "Myriad Pro", Calibri, Helvetica, Arial, sans-serif;
   --statblock-content-font-size: 14px;
 
-  --statblock-heading-font: "Libre Baskerville", "Lora", "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+  --statblock-heading-font: "Playfair Display", "Lora", "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
   --statblock-heading-font-color: var(--statblock-font-color);
   --statblock-heading-font-size: 23px;
   --statblock-heading-font-variant: small-caps;
