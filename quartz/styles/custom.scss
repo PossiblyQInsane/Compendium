@@ -2216,10 +2216,7 @@ settings:
     span.sb-monster-subheading {
       display: block;
       font-style: italic;
-    }
-    span.sb-monster-subheading::after {
-      content: "\A";
-      white-space: pre;
+      margin-bottom: 1em;
     }
     &.property-container {
       display: block;
