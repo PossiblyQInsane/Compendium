@@ -5,6 +5,7 @@
 
 a.internal {
   background-color: transparent !important;
+  color: blue;
 }
 
 a.broken {
@@ -2214,6 +2215,11 @@ settings:
     }
     span.sb-monster-subheading {
       display: block;
+      font-style: italic;
+    }
+    span.sb-monster-subheading::after {
+      content: "\A";
+      white-space: pre;
     }
     &.property-container {
       display: block;
@@ -2436,6 +2442,7 @@ settings:
 
 .heading,
 .statblock-heading {
+  border-bottom: var(--active-section-heading-border-size) solid var(--active-section-heading-border-color);
   font-family: var(--active-heading-font);
   color: var(--active-heading-font-color);
   font-weight: var(--active-heading-font-weight);
