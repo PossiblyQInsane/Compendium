@@ -1,0 +1,13 @@
+---
+Weight: 55 lb.
+Cost: 12 GP
+Source:
+  - Player's Handbook (5.5e)
+tags:
+  - Official
+---
+**Cost:** 12 GP
+**Weight:** 55 lb.
+***
+
+A Dungeoneer's Pack contains the following items: [[Backpack]], [[Caltrops]], [[Crowbar]], 2 flasks of [[Oil]], 10 days of [[Rations]], [[Rope]], [[Tinderbox]], 10 [[Torch|Torches]], and [[Waterskin]]. 
