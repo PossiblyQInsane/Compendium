@@ -1,0 +1,9 @@
+---
+publish: true
+created: 2026-07-24T02:44:43.210-04:00
+modified: 2026-07-27T18:15:05.234-04:00
+tags:
+  - Official
+---
+
+A Spellcasting Focus is an object that certain creatures can use in place of a spell’s Material components if those materials aren’t consumed by the spell and don’t have a cost specified. Some classes allow its members to use certain types of Spellcasting Focuses.
