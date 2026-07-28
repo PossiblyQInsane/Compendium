@@ -12,7 +12,6 @@ views:
     order:
       - Spell Level
       - Name
-      - file.name
       - School
       - Classes
       - Special
