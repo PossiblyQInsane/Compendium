@@ -1,1 +1,3 @@
-# Front Page
+---
+title: Front Page
+---
