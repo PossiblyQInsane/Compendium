@@ -2477,6 +2477,10 @@ settings:
   font-weight: var(--active-property-name-font-weight);
 }
 
+.property-text {
+  display: block;
+}
+
 .section-header {
   border-bottom: var(--active-section-heading-border-size) solid var(--active-section-heading-border-color);
   color: var(--active-section-heading-font-color);
@@ -2569,10 +2573,7 @@ settings:
       display: inline;
       margin: 0;
     }
-    .property-text::after {
-       content: "\A";
-       white-space: pre;
-    }
+    
   }
 }
 
