@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-07-29T01:15:28.075-04:00
-published: 2026-07-29T01:15:28.075-04:00
+modified: 2026-07-29T01:38:06.406-04:00
+published: 2026-07-29T01:38:06.406-04:00
 tags:
   - "#Official"
 Source: "Eberron: Forge of the Artificer"
@@ -71,6 +71,319 @@ As an Artificer, you gain the following class features when you reach the specif
 |                   18                    |                            +6                            | [[#Level 18 Magic Item Master\|Magic Item Master]]                                   |                       8                       |                       6                       |                     4                      |                        14                         |                  4                  |                  3                  |                  3                  |                  3                  |                  1                  |
 |                   19                    |                            +6                            | [[#Level 19 Epic Boon\|Epic Boon]]                                                   |                       8                       |                       6                       |                     4                      |                        15                         |                  4                  |                  3                  |                  3                  |                  3                  |                  2                  |
 |                   20                    |                            +6                            | [[#Level 20 Soul of Artifice\|Soul of Artifice]]                                     |                       8                       |                       6                       |                     4                      |                        15                         |                  4                  |                  3                  |                  3                  |                  3                  |                  2                  |
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-170d{background-color:#efefef;border-color:#333333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-rr9t{background-color:#efefef;border-color:#333333;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7h26{color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-rr9t" rowspan="2">Level</th>
+    <th class="tg-rr9t" rowspan="2">Proficiency Bonus</th>
+    <th class="tg-170d" rowspan="2">Class Features</th>
+    <th class="tg-rr9t" rowspan="2">Plans Known</th>
+    <th class="tg-rr9t" rowspan="2">Magic Items</th>
+    <th class="tg-rr9t" rowspan="2">Cantrips</th>
+    <th class="tg-rr9t" rowspan="2">Prepared Spells</th>
+    <th class="tg-rr9t" colspan="5">--Spell Slots per Spell Level--</th>
+  </tr>
+  <tr>
+    <th class="tg-rr9t">1</th>
+    <th class="tg-rr9t">2</th>
+    <th class="tg-rr9t">3</th>
+    <th class="tg-rr9t">4</th>
+    <th class="tg-rr9t">5</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1">1</td>
+    <td class="tg-cly1">+2</td>
+    <td class="tg-7h26"><a href="#Level%201%20Spellcasting" target="_blank" rel="noopener noreferrer">Spellcasting</a>, <a href="https://www.tablesgenerator.com/html_tables#Level%201%20Tinker%E2%80%99s%20Magic" target="_blank" rel="noopener noreferrer">Tinker's Magic</a></td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">+2</td>
+    <td class="tg-7h26"><a href="#Level%202%20Replicate%20Magic%20Item">Replicate Magic Item</a></td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">+2</td>
+    <td class="tg-7h26"><a href="#Level%203%20Artificer%20Subclass">Artificer Subclass</a></td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">+2</td>
+    <td class="tg-7h26"><a href="https://www.tablesgenerator.com/html_tables#Level%204%20Ability%20Score%20Improvement" target="_blank" rel="noopener noreferrer">Ability Score Improvement</a></td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">5</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">5</td>
+    <td class="tg-cly1">+3</td>
+    <td class="tg-cly1">Subclass feature</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">6</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">6</td>
+    <td class="tg-cly1">+3</td>
+    <td class="tg-7h26"><a href="https://www.tablesgenerator.com/html_tables#Level%206%20Magic%20Item%20Tinker" target="_blank" rel="noopener noreferrer">Magic Item Tinker</a></td>
+    <td class="tg-cly1">5</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">6</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">7</td>
+    <td class="tg-cly1">+3</td>
+    <td class="tg-7h26"><a href="https://www.tablesgenerator.com/html_tables#Level%207%20Flash%20of%20Genius" target="_blank" rel="noopener noreferrer">Flash of Genius</a></td>
+    <td class="tg-cly1">5</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">7</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">8</td>
+    <td class="tg-cly1">+3</td>
+    <td class="tg-7h26"><a href="https://www.tablesgenerator.com/html_tables#Level%204%20Ability%20Score%20Improvement">Ability Score Improvement</a></td>
+    <td class="tg-cly1">5</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">7</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">9</td>
+    <td class="tg-cly1">+4</td>
+    <td class="tg-cly1">Subclass feature</td>
+    <td class="tg-cly1">5</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">9</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">10</td>
+    <td class="tg-cly1">+4</td>
+    <td class="tg-7h26"><a href="https://www.tablesgenerator.com/html_tables#Level%2010%20Magic%20Item%20Adept">Magic Item Adept</a></td>
+    <td class="tg-cly1">6</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">9</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">11</td>
+    <td class="tg-cly1">+4</td>
+    <td class="tg-7h26"><a href="#Level%2011%20Spell-Storing%20Item">Spell-Storing Item</a></td>
+    <td class="tg-cly1">6</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">10</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">12</td>
+    <td class="tg-cly1">+4</td>
+    <td class="tg-7h26"><a href="#Level%204%20Ability%20Score%20Improvement">Ability Score Improvement</a></td>
+    <td class="tg-cly1">6</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">10</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">—</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">13</td>
+    <td class="tg-cly1">+5</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">6</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">11</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">1</td>
+    <td class="tg-cly1">—</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">14</td>
+    <td class="tg-cly1">+5</td>
+    <td class="tg-7h26"><a href="https://www.tablesgenerator.com/html_tables#Level%2014%20Advanced%20Artifice">Advanced Artifice</a></td>
+    <td class="tg-cly1">7</td>
+    <td class="tg-cly1">5</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">11</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">1</td>
+    <td class="tg-cly1">—</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">15</td>
+    <td class="tg-cly1">+5</td>
+    <td class="tg-cly1">Subclass feature</td>
+    <td class="tg-cly1">7</td>
+    <td class="tg-cly1">5</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">12</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">—</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">16</td>
+    <td class="tg-cly1">+5</td>
+    <td class="tg-7h26"><a href="https://www.tablesgenerator.com/html_tables#Level%204%20Ability%20Score%20Improvement">Ability Score Improvement</a></td>
+    <td class="tg-cly1">7</td>
+    <td class="tg-cly1">5</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">12</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">2</td>
+    <td class="tg-cly1">—</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">17</td>
+    <td class="tg-cly1">+6</td>
+    <td class="tg-cly1">—</td>
+    <td class="tg-cly1">7</td>
+    <td class="tg-cly1">5</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">14</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">1</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">18</td>
+    <td class="tg-cly1">+6</td>
+    <td class="tg-7h26"><a href="https://www.tablesgenerator.com/html_tables#Level%2018%20Magic%20Item%20Master">Magic Item Master</a></td>
+    <td class="tg-cly1">8</td>
+    <td class="tg-cly1">6</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">14</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">1</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">19</td>
+    <td class="tg-cly1">+6</td>
+    <td class="tg-7h26"><a href="https://www.tablesgenerator.com/html_tables#Level%2019%20Epic%20Boon">Epic Boon</a></td>
+    <td class="tg-cly1">8</td>
+    <td class="tg-cly1">6</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">15</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">2</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">20</td>
+    <td class="tg-cly1">+6</td>
+    <td class="tg-7h26"><a href="#Level 20 Soul of Artifice">Soul of Artifice</a></td>
+    <td class="tg-cly1">8</td>
+    <td class="tg-cly1">6</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">15</td>
+    <td class="tg-cly1">4</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">3</td>
+    <td class="tg-cly1">2</td>
+  </tr>
+</tbody></table>
 
 ### Level 1: Spellcasting
 
