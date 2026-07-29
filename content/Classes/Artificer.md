@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-07-29T00:50:02.898-04:00
-published: 2026-07-29T00:50:02.898-04:00
+modified: 2026-07-29T00:58:55.295-04:00
+published: 2026-07-29T00:58:55.295-04:00
 tags:
   - "#Official"
 Source: "Eberron: Forge of the Artificer"
@@ -102,18 +102,18 @@ You know the _[[Mending]]_ cantrip.
 
 As a [[Magic|Magic]] action while holding [[Tinker's Tools|Tinker's Tools]], you can create one item in an unoccupied space within 5 feet of yourself, choosing the item from the following list:
 
-| [[Ball Bearings]]               | [[Flask]]          | [[Pouch]]                     |
-| :------------------------------ | :----------------- | :---------------------------- |
-| [[Basket]]                      | [[Grappling Hook]] | [[Rope]]                      |
-| [[Bedroll]]                     | [[Hunting Trap]]   | [[Sack]]                      |
-| [[Bell]]                        | [[Jug]]            | [[Shovel]]                    |
-| [[Blanket]]                     | [[Lamp]]           | [[Iron Spikes\|Spikes, Iron]] |
-| [[Block and Tackle]]            | [[Manacles]]       | [[String]]                    |
-| [[Glass Bottle\|Bottle, Glass]] | [[Net]]            | [[Tinderbox]]                 |
-| [[Bucket]]                      | [[Oil]]            | [[Torch]]                     |
-| [[Caltrops]]                    | [[Paper]]          | [[Vial]]                      |
-| [[Candle]]                      | [[Parchment]]      |                               |
-| [[Crowbar]]                     | [[Pole]]           |                               |
+| <div style="width: 10em">[[Ball Bearings]]</div> | <div style="width: 10em">[[Flask]]</div> | <div style="width: 10em">[[Pouch]]</div> |
+| :----------------------------------------------- | :--------------------------------------- | :--------------------------------------- |
+| [[Basket]]                                       | [[Grappling Hook]]                       | [[Rope]]                                 |
+| [[Bedroll]]                                      | [[Hunting Trap]]                         | [[Sack]]                                 |
+| [[Bell]]                                         | [[Jug]]                                  | [[Shovel]]                               |
+| [[Blanket]]                                      | [[Lamp]]                                 | [[Iron Spikes\|Spikes, Iron]]            |
+| [[Block and Tackle]]                             | [[Manacles]]                             | [[String]]                               |
+| [[Glass Bottle\|Bottle, Glass]]                  | [[Net]]                                  | [[Tinderbox]]                            |
+| [[Bucket]]                                       | [[Oil]]                                  | [[Torch]]                                |
+| [[Caltrops]]                                     | [[Paper]]                                | [[Vial]]                                 |
+| [[Candle]]                                       | [[Parchment]]                            |                                          |
+| [[Crowbar]]                                      | [[Pole]]                                 |                                          |
 
 The item lasts until you finish a [[Long Rest]], at which point it vanishes.
 
@@ -147,7 +147,7 @@ _**Spellcasting Focus.**_ You can use any Wand or Weapon created by this feature
 
 ##### Magic Item Plans (Artificer Level 2+)
 
-| Magic Item Plan                                                | Attunement |
+| <div style="width: 25em">Magic Item Plan</div>                 | Attunement |
 | :------------------------------------------------------------- | :--------: |
 | _[[Alchemy Jug]]_                                              |     No     |
 | _[[Bag of Holding]]_                                           |     No     |
@@ -168,34 +168,34 @@ _**Spellcasting Focus.**_ You can use any Wand or Weapon created by this feature
 
 ##### Magic Item Plans (Artificer Level 6+)
 
-| Magic Item Plan                       | Attunement |
-| :------------------------------------ | :--------: |
-| _[[Armor, +1, +2, or +3\|Armor, +1]]_ |     No     |
-| _[[Boots of Elvenkind]]_              |     No     |
-| _[[Boots of the Winding Path]]_       |    Yes     |
-| _[[Cloak of Elvenkind]]_              |    Yes     |
-| _[[Cloak of the Manta Ray]]_          |    Yes     |
-| _[[Dazzling Weapon]]_                 |    Yes     |
-| _[[Eyes of Charming]]_                |    Yes     |
-| _[[Eyes of Minute Seeing]]_           |     No     |
-| _[[Gloves of Thievery]]_              |     No     |
-| _[[Helm of Awareness]]_               |     No     |
-| _[[Lantern of Revealing]]_            |     No     |
-| _[[Mind Sharpener]]_                  |    Yes     |
-| _[[Necklace of Adaptation]]_          |    Yes     |
-| _[[Pipes of Haunting]]_               |     No     |
-| _[[Repulsion Shield]]_                |     No     |
-| _[[Ring of Swimming]]_                |     No     |
-| _[[Ring of Water Walking]]_           |     No     |
-| _[[Sentinel Shield]]_                 |     No     |
-| _[[Spell-Refueling Ring]]_            |    Yes     |
-| _[[Wand of Magic Missiles]]_          |     No     |
-| _[[Wand of Web]]_                     |    Yes     |
-| _[[Weapon of Warning]]_               |    Yes     |
+| <div style="width: 25em">Magic Item Plan</div> | Attunement |
+| :--------------------------------------------- | :--------: |
+| _[[Armor, +1, +2, or +3\|Armor, +1]]_          |     No     |
+| _[[Boots of Elvenkind]]_                       |     No     |
+| _[[Boots of the Winding Path]]_                |    Yes     |
+| _[[Cloak of Elvenkind]]_                       |    Yes     |
+| _[[Cloak of the Manta Ray]]_                   |    Yes     |
+| _[[Dazzling Weapon]]_                          |    Yes     |
+| _[[Eyes of Charming]]_                         |    Yes     |
+| _[[Eyes of Minute Seeing]]_                    |     No     |
+| _[[Gloves of Thievery]]_                       |     No     |
+| _[[Helm of Awareness]]_                        |     No     |
+| _[[Lantern of Revealing]]_                     |     No     |
+| _[[Mind Sharpener]]_                           |    Yes     |
+| _[[Necklace of Adaptation]]_                   |    Yes     |
+| _[[Pipes of Haunting]]_                        |     No     |
+| _[[Repulsion Shield]]_                         |     No     |
+| _[[Ring of Swimming]]_                         |     No     |
+| _[[Ring of Water Walking]]_                    |     No     |
+| _[[Sentinel Shield]]_                          |     No     |
+| _[[Spell-Refueling Ring]]_                     |    Yes     |
+| _[[Wand of Magic Missiles]]_                   |     No     |
+| _[[Wand of Web]]_                              |    Yes     |
+| _[[Weapon of Warning]]_                        |    Yes     |
 
 ##### Magic Item Plans (Artificer Level 10+)
 
-| Magic Item Plan                                          | Attunement |
+| <div style="width: 25em">Magic Item Plan</div>           | Attunement |
 | :------------------------------------------------------- | :--------: |
 | _[[Armor of Resistance]]_                                |    Yes     |
 | _[[Dagger of Venom]]_                                    |     No     |
@@ -211,15 +211,15 @@ _**Spellcasting Focus.**_ You can use any Wand or Weapon created by this feature
 
 ##### Magic Item Plans (Artificer Level 14+)
 
-| Magic Item Plan                          | Attunement |
-| :--------------------------------------- | :--------: |
-| _[[Armor, +1, +2, or +3\|Armor, +2]]_    |     No     |
-| _[[Arrow-Catching Shield]]_              |    Yes     |
-| _[[Flame Tongue]]_                       |    Yes     |
-| Rare Wondrous Item that isn’t cursed[^1] |     No     |
-| _[[Ring of Free Action]]_                |    Yes     |
-| _[[Ring of Protection]]_                 |    Yes     |
-| _[[Ring of the Ram]]_                    |    Yes     |
+| <div style="width: 25em">Magic Item Plan</div> | Attunement |
+| :--------------------------------------------- | :--------: |
+| _[[Armor, +1, +2, or +3\|Armor, +2]]_          |     No     |
+| _[[Arrow-Catching Shield]]_                    |    Yes     |
+| _[[Flame Tongue]]_                             |    Yes     |
+| Rare Wondrous Item that isn’t cursed[^1]       |     No     |
+| _[[Ring of Free Action]]_                      |    Yes     |
+| _[[Ring of Protection]]_                       |    Yes     |
+| _[[Ring of the Ram]]_                          |    Yes     |
 
 ### Level 3: Artificer Subclass
 
