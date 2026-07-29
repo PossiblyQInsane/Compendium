@@ -12,6 +12,10 @@ a.broken {
  color: red !important;
 }
 
+body {
+  --table-column-min-width: 20px;
+}
+
 /* Center alignment */
 .markdown-rendered img[alt*="center"],
 .cm-embed-block:has(img[alt*="center"]) {
