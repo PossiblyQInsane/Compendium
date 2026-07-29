@@ -1,10 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T11:33:17.921-04:00
-modified: 2026-07-29T10:00:32.138-04:00
-published: 2026-07-29T10:00:32.138-04:00
-tags:
-  - Official
+modified: 2026-07-29T11:32:41.374-04:00
+published: 2026-07-29T11:32:41.374-04:00
 Weight: 2 lb.
 Cost: 4 SP
 Source:

@@ -1,12 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-07-29T09:33:01.320-04:00
-published: 2026-07-29T09:33:01.320-04:00
-tags:
-  - "#Official"
-  - class
-  - eberron_forge_of_the_artificer
+modified: 2026-07-29T11:32:27.016-04:00
+published: 2026-07-29T11:32:27.016-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 ---

@@ -39,13 +39,9 @@ views:
       - Source
       - Official
     sort:
-      - property: School
-        direction: DESC
+      - property: Official
+        direction: ASC
       - property: Name
-        direction: ASC
-      - property: Spell Level
-        direction: ASC
-      - property: file.name
         direction: ASC
     columnSize:
       note.Name: 243

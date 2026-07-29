@@ -1,12 +1,8 @@
 ---
 publish: true
 created: 2026-07-28T11:54:00.956-04:00
-modified: 2026-07-29T10:19:44.609-04:00
-published: 2026-07-29T10:19:44.609-04:00
-tags:
-  - Official
-  - subclass
-  - artificer_subclass
+modified: 2026-07-29T12:14:09.841-04:00
+published: 2026-07-29T12:14:09.841-04:00
 Source:
   - "Eberron: Forge of the Artificer"
 Official: true
@@ -55,35 +51,49 @@ Once you create a cannon, you can’t do so again until you finish a [[Long Rest
 _Small or Tiny Object_
 
 **Armor Class:** 18
-**Hit Points:** 5 × your Artificer level (casting _Mending_ on the cannon restores 2d6 Hit Points to it)
+**Hit Points:** 5 × your Artificer level (casting _[[Mending]]_ on the cannon restores 2d6 Hit Points to it)
 **Immunities:** Poison, Psychic
 
-_**Activate Cannon (Requires You to Be within 60 Feet of the Cannon).**_ As a Bonus Action, you order the cannon to use the Flamethrower, Force Ballista, or Protector option below; you can direct the cannon to move up to 15 feet before or after that option:
+_**Activate Cannon (Requires You to Be within 60 Feet of the Cannon).**_ As a [[Bonus Action]], you order the cannon to use the Flamethrower, Force Ballista, or Protector option below; you can direct the cannon to move up to 15 feet before or after that option:
 
-**Flamethrower.**  The cannon blasts fire in a 15-foot Cone. Each creature in that area makes a Dexterity saving throw against your spell save DC, taking 2d8 Fire damage on a failed save or half as much damage on a successful one. Flammable objects in the Cone that aren’t being worn or carried start burning.
+**Flamethrower.**  The cannon blasts fire in a 15-foot [[Cone]]. Each creature in that area makes a Dexterity saving throw against your spell save DC, taking 2d8 Fire damage on a failed save or half as much damage on a successful one. Flammable objects in the Cone that aren’t being worn or carried start [[Burning|burning]].
 
 **Force Ballista.** Make a ranged spell attack originating from the cannon at one creature or object within 120 feet of it. On a hit, the target takes 2d8 Force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.
 
-**Protector.**  The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of the cannon a number of Temporary Hit Points equal to 1d8 plus your Intelligence modifier (minimum of +1).
+**Protector.**  The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of the cannon a number of [[Temporary Hit Points]] equal to 1d8 plus your Intelligence modifier (minimum of +1).
 
 ### Level 5: Arcane Firearm
 
-When you finish a Long Rest, you can use Woodcarver’s Tools to carve special sigils into a Rod, Staff, Wand, or Martial Ranged weapon and thereby turn it into your Arcane Firearm. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.
+When you finish a [[Long Rest]], you can use [[Woodcarver's Tools]] to carve special sigils into a [[Arcane Focus|Rod]], [[Arcane Focus|Staff]], [[Arcane Focus|Wand]], or [[Equipment.base#Martial Ranged Weapons|Martial Ranged weapon]] and thereby turn it into your Arcane Firearm. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.
 
-You can use your Arcane Firearm as a Spellcasting Focus for your Artificer spells. When you cast an Artificer spell through the firearm, roll 1d8, and you gain a bonus to one of the spell’s damage rolls equal to the number rolled.
+You can use your Arcane Firearm as a [[Spellcasting Focus]] for your Artificer spells. When you cast an Artificer spell through the firearm, roll 1d8, and you gain a bonus to one of the spell’s damage rolls equal to the number rolled.
 
 ### Level 9: Explosive Cannon
 
 Every Eldritch Cannon you create is now more destructive. You gain the following benefits.
 
-_**Detonate.**_ When your cannon takes damage, you can take a Reaction to command the cannon to detonate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your spell save DC, taking 3d10 Force damage on a failed save or half as much damage on a successful one.
+_**Detonate.**_ When your cannon takes damage, you can take a [[Reaction]] to command the cannon to detonate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your spell save DC, taking 3d10 Force damage on a failed save or half as much damage on a successful one.
 
-_**Firepower.**_ The cannon’s damage rolls and the number of Temporary Hit Points granted by Protector increase by 1d8.
+_**Firepower.**_ The cannon’s damage rolls and the number of [[Temporary Hit Points]] granted by Protector increase by 1d8.
 
 ### Level 15: Fortified Position
 
 You’re a master at forming well-defended emplacements using your Eldritch Cannon. You gain the following benefits.
 
-_**Double Firepower.**_ You can now have two cannons at the same time, and you can create two with the same Magic action. (If you expend a spell slot to create the first cannon, you must expend another spell slot to create the second.) You can activate both of them with the same Bonus Action, ordering them to use the same activation option or different ones. You can’t create a third cannon while you have two.
+_**Double Firepower.**_ You can now have two cannons at the same time, and you can create two with the same [[Magic]] action. (If you expend a spell slot to create the first cannon, you must expend another spell slot to create the second.) You can activate both of them with the same [[Bonus Action]], ordering them to use the same activation option or different ones. You can’t create a third cannon while you have two.
 
-_**Shimmering Field Projection.**_ You and your allies have Half Cover while within 10 feet of your Eldritch Cannon.
+_**Shimmering Field Projection.**_ You and your allies have [[Cover|Half Cover]] while within 10 feet of your Eldritch Cannon.
+
+> [!recite|no-i] Alternate Artificer Capstone (Exploring Eberron)
+>
+> ### Level 20: Infused Cannon
+>
+> You can infuse your cannons with eldritch energy, empowering them to produce more powerful effects. As a [[Magic]] action, you can cause one or both of your cannons to produce one of the effects listed below. Multiple cannons can use the same option or different ones.
+>
+> Once you use this feature, you can’t use it again until you finish a [[Long Rest]]. You can also restore your use of it by expending a level 5 spell slot (no action required).
+>
+> _**Dragonflame.**_ The cannon exhales fire in a 60-foot [[Cone]]. Each creature in that area makes a Dexterity saving throw against your spell save DC, taking 5d8 Fire damage on a failed save or half as much damage on a successful one. Flammable objects in the Cone that aren’t being worn or carried start [[Burning|burning]].
+>
+> _**Barrage.**_ The cannon lobs a ball of concentrated energy at a point you choose within 120 feet of it. Each creature in a 20-foot-radius [[Sphere]] centered on that point makes a Constitution saving throw, taking 5d8 Force damage on a failed save or half as much damage on a successful one. A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the target area, and this damage ignores the [[Damage Threshold|damage threshold]] of objects.
+>
+> _**Restoration.**_ The cannon emits a wave of curative energy, targeting itself and each creature of your choice within 10 feet of it. Each target regains 25 [[Hit Points]] and is cured of the [[Blinded]], [[Deafened]], [[Paralyzed]], and [[Poisoned]] conditions.

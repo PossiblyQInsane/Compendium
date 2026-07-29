@@ -1,10 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T11:51:10.076-04:00
-modified: 2026-07-29T10:00:33.070-04:00
-published: 2026-07-29T10:00:33.070-04:00
-tags:
-  - Official
+modified: 2026-07-29T11:32:49.672-04:00
+published: 2026-07-29T11:32:49.672-04:00
 Cost: 1 GP
 Source:
   - Player's Handbook (5.5e)

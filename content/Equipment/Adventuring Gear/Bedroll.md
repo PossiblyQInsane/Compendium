@@ -1,10 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T11:40:35.473-04:00
-modified: 2026-07-29T10:00:32.620-04:00
-published: 2026-07-29T10:00:32.620-04:00
-tags:
-  - Official
+modified: 2026-07-29T11:32:45.145-04:00
+published: 2026-07-29T11:32:45.145-04:00
 Weight: 7 lb.
 Cost: 1 GP
 Source:

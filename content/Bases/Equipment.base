@@ -13,6 +13,11 @@ views:
       - Cost
       - Source
       - Official
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Official
+        direction: DESC
   - type: table
     name: Weapons
     filters:
@@ -88,7 +93,7 @@ views:
     name: Simple Weapons
     filters:
       and:
-        - file.tags.contains("simple_weapon")
+        - Category.contains("Simple")
     order:
       - file.name
       - Damage
@@ -105,17 +110,17 @@ views:
     name: Martial Weapons
     filters:
       and:
-        - file.tags.contains("martial_weapon")
+        - Category.contains("Martial")
   - type: table
     name: Martial Ranged Weapons
     filters:
       and:
-        - file.tags.containsAll("martial_weapon", "ranged_weapon")
+        - Category.contains("Martial Ranged")
   - type: table
     name: Light Armor
     filters:
       and:
-        - file.tags.contains("light_armor")
+        - Category.contains("Light")
     order:
       - file.name
       - Armor Class (AC)
@@ -129,12 +134,12 @@ views:
     name: Medium Armor
     filters:
       and:
-        - file.tags.contains("medium_armor")
+        - Category.contains("Medium")
   - type: table
     name: Heavy Armor
     filters:
       and:
-        - file.tags.contains("heavy_armor")
+        - Category.contains("Heavy")
   - type: table
     name: Shields
     filters:
