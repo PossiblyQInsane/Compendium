@@ -259,10 +259,9 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - description
-        - tags
-        - aliases
         - Source
+        - Official
+        - Publisher
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
