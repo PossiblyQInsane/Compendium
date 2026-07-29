@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-28T10:36:36.371-04:00
-modified: 2026-07-28T10:39:40.839-04:00
-published: 2026-07-28T10:39:40.839-04:00
+modified: 2026-07-29T09:57:50.620-04:00
+published: 2026-07-29T09:57:50.620-04:00
 tags:
   - Official
 Name: "[[Greater Invisibility]]"
@@ -13,6 +13,7 @@ Classes: Bard, Sorcerer, Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 4 Illusion ([[Bard]], [[Sorcerer]], [[Wizard]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T23:14:07.232-04:00
-modified: 2026-07-27T18:27:41.501-04:00
-published: 2026-07-27T18:27:41.501-04:00
+modified: 2026-07-29T09:57:18.718-04:00
+published: 2026-07-29T09:57:18.718-04:00
 tags:
   - Official
 Name: "[[Thunderwave]]"
@@ -13,6 +13,7 @@ Classes: Bard, Druid, Sorcerer, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 1 Evocation ([[Bard]], [[Druid]], [[Sorcerer]], [[Wizard]])_

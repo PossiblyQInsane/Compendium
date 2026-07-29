@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T20:24:40.705-04:00
-modified: 2026-07-27T18:49:38.851-04:00
-published: 2026-07-27T18:49:38.851-04:00
+modified: 2026-07-29T09:57:47.416-04:00
+published: 2026-07-29T09:57:47.416-04:00
 tags:
   - Official
 Name: "[[Death Ward]]"
@@ -13,6 +13,7 @@ Classes: Cleric, Paladin
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 4 Abjuration ([[Cleric]], [[Paladin]])_

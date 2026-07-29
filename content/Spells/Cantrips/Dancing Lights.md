@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T21:16:36.373-04:00
-modified: 2026-07-27T18:16:35.490-04:00
-published: 2026-07-27T18:16:35.490-04:00
+modified: 2026-07-29T09:56:50.914-04:00
+published: 2026-07-29T09:56:50.914-04:00
 tags:
   - Official
 Name: "[[Dancing Lights|Dancing Lights]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Bard, Sorcerer, Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Illusion Cantrip ([[Artificer]], [[Bard]], [[Sorcerer]], [[Wizard]])_

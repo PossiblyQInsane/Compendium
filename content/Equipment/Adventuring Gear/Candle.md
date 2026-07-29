@@ -1,14 +1,15 @@
 ---
 publish: true
 created: 2026-07-25T12:28:30.420-04:00
-modified: 2026-07-27T17:52:43.398-04:00
-published: 2026-07-27T17:52:43.398-04:00
+modified: 2026-07-29T10:00:35.741-04:00
+published: 2026-07-29T10:00:35.741-04:00
 tags:
   - Official
 Cost: 1 CP
 Source:
   - Player's Handbook (5.5e)
 Weight: —
+Official: true
 ---
 
 **Cost:** 1 CP

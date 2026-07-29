@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-28T10:44:38.262-04:00
-modified: 2026-07-28T10:48:15.439-04:00
-published: 2026-07-28T10:48:15.439-04:00
+modified: 2026-07-29T09:58:05.472-04:00
+published: 2026-07-29T09:58:05.472-04:00
 tags:
   - Official
 Name: "[[Wall of Force]]"
@@ -13,6 +13,7 @@ Classes: Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 5 Evocation ([[Wizard]])_

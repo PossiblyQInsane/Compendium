@@ -1,17 +1,23 @@
 ---
 publish: true
 created: 2026-07-23T11:10:02.614-04:00
-modified: 2026-07-27T18:16:43.896-04:00
-published: 2026-07-27T18:16:43.896-04:00
+modified: 2026-07-29T09:56:17.026-04:00
+published: 2026-07-29T09:56:17.026-04:00
 tags:
   - Official
+  - spell
+  - cantrip
+  - evocation
+  - v
+  - s
+  - action
 Name: "[[Acid Splash|Acid Splash]]"
 Spell Level: Cantrip
 School: Evocation
-Components: V, S
 Classes: Artificer, Sorcerer, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
+Official: true
 ---
 
 _Evocation Cantrip ([[Artificer]], [[Sorcerer]], [[Wizard]])_

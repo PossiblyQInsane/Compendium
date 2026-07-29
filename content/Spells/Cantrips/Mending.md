@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-24T11:59:48.097-04:00
-modified: 2026-07-27T18:18:30.666-04:00
-published: 2026-07-27T18:18:30.666-04:00
+modified: 2026-07-29T09:56:54.282-04:00
+published: 2026-07-29T09:56:54.282-04:00
 tags:
   - Official
 Name: "[[Mending|Mending]]"
@@ -13,6 +13,7 @@ Classes: Bard, Cleric, Druid, Sorcerer, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Transmutation Cantrip ([[Bard]], [[Cleric]], [[Druid]], [[Sorcerer]], [[Wizard]])_

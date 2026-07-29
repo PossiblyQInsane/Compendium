@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T13:18:06.455-04:00
-modified: 2026-07-27T18:53:18.382-04:00
-published: 2026-07-27T18:53:18.382-04:00
+modified: 2026-07-29T09:57:36.250-04:00
+published: 2026-07-29T09:57:36.250-04:00
 tags:
   - Official
 Name: "[[Web]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Sorcerer, Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 2 Conjuration ([[Artificer|Artificer]], [[Sorcerer]], [[Wizard]])_

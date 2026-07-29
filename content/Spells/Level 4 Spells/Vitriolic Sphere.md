@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T20:29:48.641-04:00
-modified: 2026-07-27T18:37:44.937-04:00
-published: 2026-07-27T18:37:44.937-04:00
+modified: 2026-07-29T09:57:55.418-04:00
+published: 2026-07-29T09:57:55.418-04:00
 tags:
   - Official
 Name: "[[Vitriolic Sphere]]"
@@ -13,6 +13,7 @@ Classes: Sorcerer, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 4 Evocation ([[Sorcerer]], [[Wizard]])_

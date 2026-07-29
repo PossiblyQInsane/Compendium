@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-28T10:40:19.744-04:00
-modified: 2026-07-28T10:44:20.832-04:00
-published: 2026-07-28T10:44:20.832-04:00
+modified: 2026-07-29T09:58:04.170-04:00
+published: 2026-07-29T09:58:04.170-04:00
 tags:
   - Official
 Name: "[[Passwall]]"
@@ -13,6 +13,7 @@ Classes: Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 5 Transmutation ([[Wizard]])_

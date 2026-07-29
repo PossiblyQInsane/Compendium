@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T13:48:34.301-04:00
-modified: 2026-07-27T18:51:48.954-04:00
-published: 2026-07-27T18:51:48.954-04:00
+modified: 2026-07-29T09:57:40.696-04:00
+published: 2026-07-29T09:57:40.696-04:00
 tags:
   - Official
 Name: "[[Glyph of Warding]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Bard, Cleric, Wizard
 Special: M
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 3 Abjuration ([[Artificer|Artificer]], [[Bard]], [[Cleric]], [[Wizard]])_

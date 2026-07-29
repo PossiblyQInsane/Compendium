@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T14:38:05.010-04:00
-modified: 2026-07-27T18:50:25.231-04:00
-published: 2026-07-27T18:50:25.231-04:00
+modified: 2026-07-29T09:57:45.387-04:00
+published: 2026-07-29T09:57:45.387-04:00
 tags:
   - Official
 Name: "[[Water Breathing]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Druid, Ranger, Sorcerer, Wizard
 Special: R
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 3 Transmutation ([[Artificer|Artificer]], [[Druid]], [[Ranger]], [[Sorcerer]], [[Wizard]])_

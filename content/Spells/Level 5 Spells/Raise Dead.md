@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T20:39:58.657-04:00
-modified: 2026-07-27T18:34:46.878-04:00
-published: 2026-07-27T18:34:46.878-04:00
+modified: 2026-07-29T09:58:05.027-04:00
+published: 2026-07-29T09:58:05.027-04:00
 tags:
   - Official
 Name: "[[Raise Dead]]"
@@ -13,6 +13,7 @@ Classes: Bard, Cleric, Paladin
 Special: M
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 5 Necromancy ([[Bard]], [[Cleric]], [[Paladin]])_

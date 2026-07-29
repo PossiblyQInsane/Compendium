@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T14:58:47.322-04:00
-modified: 2026-07-27T18:49:26.243-04:00
-published: 2026-07-27T18:49:26.243-04:00
+modified: 2026-07-29T09:57:47.993-04:00
+published: 2026-07-29T09:57:47.993-04:00
 tags:
   - Official
 Name: "[[Fabricate]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 4 Transmutation ([[Artificer|Artificer]], [[Wizard]])_

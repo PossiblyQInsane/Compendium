@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T12:33:14.969-04:00
-modified: 2026-07-27T18:31:53.604-04:00
-published: 2026-07-27T18:31:53.604-04:00
+modified: 2026-07-29T09:57:28.667-04:00
+published: 2026-07-29T09:57:28.667-04:00
 tags:
   - Official
 Name: "[[Lesser Restoration]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Bard, Cleric, Druid, Paladin, Ranger
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 2 Abjuration ([[Artificer|Artificer]], [[Bard]], [[Cleric]], [[Druid]], [[Paladin]], [[Ranger]])_

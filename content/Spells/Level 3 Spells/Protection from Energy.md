@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T13:59:37.518-04:00
-modified: 2026-07-27T18:50:47.985-04:00
-published: 2026-07-27T18:50:47.985-04:00
+modified: 2026-07-29T09:57:44.177-04:00
+published: 2026-07-29T09:57:44.177-04:00
 tags:
   - Official
 Name: "[[Protection from Energy]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 3 Abjuration ([[Artificer|Artificer]], [[Cleric]], [[Druid]], [[Ranger]], [[Sorcerer]], [[Wizard]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T15:29:09.666-04:00
-modified: 2026-07-27T18:47:51.418-04:00
-published: 2026-07-27T18:47:51.418-04:00
+modified: 2026-07-29T09:57:53.138-04:00
+published: 2026-07-29T09:57:53.138-04:00
 tags:
   - Official
 Name: "[[Stone Shape]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Cleric, Druid, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 4 Transmutation ([[Artificer|Artificer]], [[Cleric]], [[Druid]], [[Wizard]])_

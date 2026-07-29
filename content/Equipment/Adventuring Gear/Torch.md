@@ -1,14 +1,15 @@
 ---
 publish: true
 created: 2026-07-25T14:36:19.339-04:00
-modified: 2026-07-27T17:56:56.474-04:00
-published: 2026-07-27T17:56:56.474-04:00
+modified: 2026-07-29T10:00:55.957-04:00
+published: 2026-07-29T10:00:55.957-04:00
 tags:
   - Official
 Weight: 1 lb.
 Cost: 1 CP
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 **Cost:** 1 CP

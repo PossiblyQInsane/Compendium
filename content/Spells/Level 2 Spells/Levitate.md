@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T12:38:21.698-04:00
-modified: 2026-07-27T18:32:05.768-04:00
-published: 2026-07-27T18:32:05.768-04:00
+modified: 2026-07-29T09:57:29.404-04:00
+published: 2026-07-29T09:57:29.404-04:00
 tags:
   - Official
 Name: "[[Levitate]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Sorcerer, Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 2 Transmutation ([[Artificer|Artificer]], [[Sorcerer]], [[Wizard]])_

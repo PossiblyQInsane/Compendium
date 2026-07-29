@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T21:45:08.179-04:00
-modified: 2026-07-27T18:18:14.199-04:00
-published: 2026-07-27T18:18:14.199-04:00
+modified: 2026-07-29T09:56:53.514-04:00
+published: 2026-07-29T09:56:53.514-04:00
 tags:
   - Official
 Name: "[[Mage Hand|Mage Hand]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Bard, Sorcerer, Warlock, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Conjuration Cantrip ([[Artificer]], [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

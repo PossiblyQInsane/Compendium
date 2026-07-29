@@ -1,15 +1,17 @@
 ---
 publish: true
 created: 2026-07-26T19:22:20.550-04:00
-modified: 2026-07-27T21:07:11.225-04:00
-published: 2026-07-27T21:07:11.225-04:00
+modified: 2026-07-29T09:37:02.873-04:00
+published: 2026-07-29T09:37:02.873-04:00
 tags:
   - Official
+  - subclass
+  - artificer_subclass
+  - eberron_forge_of_the_artificer
 Source:
   - "Eberron: Forge of the Artificer"
+Official: true
 ---
-
-# Alchemist
 
 ![[Images/Alchemist.png|right|325]]
 _Craft Magic Elixirs and Potions_

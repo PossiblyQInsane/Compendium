@@ -1,11 +1,14 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-07-29T08:31:42.737-04:00
-published: 2026-07-29T08:31:42.737-04:00
+modified: 2026-07-29T09:33:01.320-04:00
+published: 2026-07-29T09:33:01.320-04:00
 tags:
   - "#Official"
+  - class
+  - eberron_forge_of_the_artificer
 Source: "Eberron: Forge of the Artificer"
+Official: true
 ---
 
 ![The Artificers of Eberron are responsible for many amazing inventions, but none more miraculous than the Warforged](https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/01-001.Artificer-working-on-an-unfinished-Warforged.jpg)

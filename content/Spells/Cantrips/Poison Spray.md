@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T21:56:38.914-04:00
-modified: 2026-07-27T18:19:15.484-04:00
-published: 2026-07-27T18:19:15.484-04:00
+modified: 2026-07-29T09:56:55.234-04:00
+published: 2026-07-29T09:56:55.234-04:00
 tags:
   - Official
 Name: "[[Poison Spray|Poison Spray]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Druid, Sorcerer, Warlock, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Necromancy Cantrip ([[Artificer]], [[Druid]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

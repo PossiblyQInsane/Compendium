@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T22:11:25.617-04:00
-modified: 2026-07-27T18:20:32.352-04:00
-published: 2026-07-27T18:20:32.352-04:00
+modified: 2026-07-29T09:56:58.214-04:00
+published: 2026-07-29T09:56:58.214-04:00
 tags:
   - Official
 Name: "[[Shocking Grasp|Shocking Grasp]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Sorcerer, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Evocation Cantrip ([[Artificer]], [[Sorcerer]], [[Wizard]])_

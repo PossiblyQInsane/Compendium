@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T23:19:08.464-04:00
-modified: 2026-07-27T18:28:42.031-04:00
-published: 2026-07-27T18:28:42.031-04:00
+modified: 2026-07-29T09:57:21.161-04:00
+published: 2026-07-29T09:57:21.161-04:00
 tags:
   - Official
 Name: "[[Arcane Lock|Arcane Lock]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Wizard
 Special: M
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 2 Abjuration ([[Artificer]], [[Wizard]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T15:23:26.443-04:00
-modified: 2026-07-27T18:48:02.759-04:00
-published: 2026-07-27T18:48:02.759-04:00
+modified: 2026-07-29T09:57:52.606-04:00
+published: 2026-07-29T09:57:52.606-04:00
 tags:
   - Official
 Name: "[[Otiluke's Resilient Sphere]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 4 Abjuration ([[Artificer|Artificer]], [[Wizard]])_

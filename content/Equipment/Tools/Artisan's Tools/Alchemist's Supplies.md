@@ -1,10 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T19:28:35.816-04:00
-modified: 2026-07-27T17:57:41.516-04:00
-published: 2026-07-27T17:57:41.516-04:00
+modified: 2026-07-29T10:00:30.611-04:00
+published: 2026-07-29T10:00:30.611-04:00
 tags:
   - Official
+  - equipment
+  - artisans_tools
+  - tools
+  - players_handbook_5-5e
 Category: Artisan's Tools
 Cost: 50 GP
 Weight: 8 lb.
@@ -12,6 +16,7 @@ Ability: Intelligence
 Craft: Acid, Alchemist's Fire, Component Pouch, Oil, Paper, Perfume
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 **Cost:** 50 GP

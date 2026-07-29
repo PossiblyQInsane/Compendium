@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T23:15:57.094-04:00
-modified: 2026-07-27T18:28:28.975-04:00
-published: 2026-07-27T18:28:28.975-04:00
+modified: 2026-07-29T09:57:19.807-04:00
+published: 2026-07-29T09:57:19.807-04:00
 tags:
   - Official
 Name: "[[Alter Self|Alter Self]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Sorcerer, Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 2 Transmutation ([[Artificer]], [[Sorcerer]], [[Wizard]])_

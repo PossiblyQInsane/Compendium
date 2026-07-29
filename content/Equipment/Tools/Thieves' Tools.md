@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-24T00:36:34.676-04:00
-modified: 2026-07-27T17:58:52.520-04:00
-published: 2026-07-27T17:58:52.520-04:00
+modified: 2026-07-29T10:00:53.761-04:00
+published: 2026-07-29T10:00:53.761-04:00
 tags:
   - Official
 Category: Other Tools
@@ -12,6 +12,7 @@ Ability: Dexterity
 Craft: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 # Thieves' Tools

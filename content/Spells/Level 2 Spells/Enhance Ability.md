@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T00:51:16.236-04:00
-modified: 2026-07-27T18:30:21.872-04:00
-published: 2026-07-27T18:30:21.872-04:00
+modified: 2026-07-29T09:57:24.456-04:00
+published: 2026-07-29T09:57:24.456-04:00
 tags:
   - Official
 Name: "[[Enhance Ability]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 2 Transmutation ([[Artificer|Artificer]], [[Bard]], [[Cleric]], [[Druid]], [[Ranger]], [[Sorcerer]], [[Wizard]])_

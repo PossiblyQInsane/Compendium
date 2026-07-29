@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-24T02:47:04.001-04:00
-modified: 2026-07-27T18:19:30.664-04:00
-published: 2026-07-27T18:19:30.664-04:00
+modified: 2026-07-29T09:56:55.715-04:00
+published: 2026-07-29T09:56:55.715-04:00
 tags:
   - Official
 Name: "[[Prestidigitation|Prestidigitation]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Bard, Sorcerer, Warlock, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Transmutation Cantrip ([[Artificer]], [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

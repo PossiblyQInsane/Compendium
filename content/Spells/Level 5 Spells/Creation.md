@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T17:42:19.565-04:00
-modified: 2026-07-27T18:35:07.765-04:00
-published: 2026-07-27T18:35:07.765-04:00
+modified: 2026-07-29T09:58:02.924-04:00
+published: 2026-07-29T09:58:02.924-04:00
 tags:
   - Official
 Name: "[[Creation]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Sorcerer, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 5 Illusion ([[Artificer|Artificer]], [[Sorcerer]], [[Wizard]])_

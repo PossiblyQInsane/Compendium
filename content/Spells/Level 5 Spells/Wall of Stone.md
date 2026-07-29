@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T17:51:35.263-04:00
-modified: 2026-07-27T18:34:37.317-04:00
-published: 2026-07-27T18:34:37.317-04:00
+modified: 2026-07-29T09:58:06.165-04:00
+published: 2026-07-29T09:58:06.165-04:00
 tags:
   - Official
 Name: "[[Wall of Stone]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Druid, Sorcerer, Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 5 Evocation ([[Artificer|Artificer]], [[Druid]], [[Sorcerer]], [[Wizard]])_

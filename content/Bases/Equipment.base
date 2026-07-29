@@ -1,22 +1,38 @@
 filters:
   and:
     - file.inFolder("Equipment")
+properties:
+  file.name:
+    displayName: Name
 views:
+  - type: table
+    name: Equipment
+    order:
+      - file.name
+      - Weight
+      - Cost
+      - Source
+      - Official
   - type: table
     name: Weapons
     filters:
       and:
-        - file.inFolder("Equipment/Weapons")
+        - file.tags.contains("weapon")
+    groupBy:
+      property: Category
+      direction: ASC
     order:
       - file.name
-      - Category
       - Damage
       - Properties
       - Mastery
       - Weight
       - Cost
       - Source
-      - tags
+      - Official
+    sort:
+      - property: Category
+        direction: ASC
     columnSize:
       file.name: 121
   - type: table
@@ -29,27 +45,26 @@ views:
       direction: ASC
     order:
       - file.name
-      - Category
       - Armor Class (AC)
       - Weight
       - Cost
       - Source
-      - tags
-    columnSize: {}
+      - Official
+    columnSize:
+      note.Cost: 113
   - type: table
     name: Tools
     filters:
       and:
-        - file.inFolder("Equipment/Tools")
+        - file.tags.contains("tools")
     order:
       - file.name
-      - Category
       - Cost
       - Weight
       - Ability
       - Craft
       - Source
-      - tags
+      - Official
     sort:
       - property: file.name
         direction: ASC
@@ -65,46 +80,61 @@ views:
       - Weight
       - Cost
       - Source
-      - tags
+      - Official
+    sort:
+      - property: tags
+        direction: ASC
   - type: table
     name: Simple Weapons
     filters:
       and:
-        - Category.contains("Simple")
+        - file.tags.contains("simple_weapon")
     order:
       - file.name
-      - Category
       - Damage
       - Properties
       - Mastery
       - Weight
       - Cost
       - Source
-      - tags
+      - Official
+    sort:
+      - property: Category
+        direction: ASC
+  - type: table
+    name: Martial Weapons
+    filters:
+      and:
+        - file.tags.contains("martial_weapon")
+  - type: table
+    name: Martial Ranged Weapons
+    filters:
+      and:
+        - file.tags.containsAll("martial_weapon", "ranged_weapon")
   - type: table
     name: Light Armor
     filters:
       and:
-        - Category == "Light Armor"
+        - file.tags.contains("light_armor")
     order:
       - file.name
       - Armor Class (AC)
       - Weight
       - Cost
       - Source
-      - tags
+      - Official
     columnSize:
       note.Cost: 113
   - type: table
     name: Medium Armor
     filters:
       and:
-        - Category == "Medium Armor"
+        - file.tags.contains("medium_armor")
   - type: table
     name: Heavy Armor
     filters:
       and:
-        - Category.contains("Heavy")
+        - file.tags.contains("heavy_armor")
   - type: table
     name: Shields
     filters:
@@ -120,16 +150,13 @@ views:
       - Cost
       - Weight
       - Source
-      - tags
+      - Official
     sort:
+      - property: tags
+        direction: ASC
       - property: file.name
         direction: ASC
     columnSize:
       file.name: 251
       note.Cost: 113
     indentProperties: true
-  - type: table
-    name: Martial Weapons
-    filters:
-      and:
-        - Category.contains("Martial")

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T21:32:41.127-04:00
-modified: 2026-07-27T18:17:35.968-04:00
-published: 2026-07-27T18:17:35.968-04:00
+modified: 2026-07-29T09:56:52.405-04:00
+published: 2026-07-29T09:56:52.405-04:00
 tags:
   - Official
 Name: "[[Guidance|Guidance]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Cleric, Druid
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Divination Cantrip ([[Artificer]], [[Cleric]], [[Druid]])_

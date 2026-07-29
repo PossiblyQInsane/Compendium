@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T22:27:58.335-04:00
-modified: 2026-07-27T18:22:16.657-04:00
-published: 2026-07-27T18:22:16.657-04:00
+modified: 2026-07-29T09:57:00.725-04:00
+published: 2026-07-29T09:57:00.725-04:00
 tags:
   - Official
 Name: "[[Alarm|Alarm]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Ranger, Wizard
 Special: R
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 1 Abjuration ([[Artificer]], [[Ranger]], [[Wizard]])_

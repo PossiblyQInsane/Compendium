@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T22:37:54.050-04:00
-modified: 2026-07-27T18:23:27.509-04:00
-published: 2026-07-27T18:23:27.509-04:00
+modified: 2026-07-29T09:57:03.873-04:00
+published: 2026-07-29T09:57:03.873-04:00
 tags:
   - Official
 Name: "[[Disguise Self|Disguise Self]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Bard, Sorcerer, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 1 Illusion ([[Artificer]], [[Bard]], [[Sorcerer]], [[Wizard]])_

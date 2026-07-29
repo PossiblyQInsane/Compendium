@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T15:04:39.447-04:00
-modified: 2026-07-27T18:49:05.771-04:00
-published: 2026-07-27T18:49:05.771-04:00
+modified: 2026-07-29T09:57:49.998-04:00
+published: 2026-07-29T09:57:49.998-04:00
 tags:
   - Official
 Name: "[[Freedom of Movement]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Bard, Cleric, Druid, Ranger
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 4 Abjuration ([[Artificer|Artificer]], [[Bard]], [[Cleric]], [[Druid]], [[Ranger]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T13:13:41.567-04:00
-modified: 2026-07-27T18:53:28.896-04:00
-published: 2026-07-27T18:53:28.896-04:00
+modified: 2026-07-29T09:57:35.752-04:00
+published: 2026-07-29T09:57:35.752-04:00
 tags:
   - Official
 Name: "[[Spider Climb]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Sorcerer, Warlock, Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 2 Transmutation ([[Artificer|Artificer]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

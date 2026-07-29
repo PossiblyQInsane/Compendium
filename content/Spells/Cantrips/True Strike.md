@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T22:24:19.153-04:00
-modified: 2026-07-27T18:21:55.185-04:00
-published: 2026-07-27T18:21:55.185-04:00
+modified: 2026-07-29T09:57:00.209-04:00
+published: 2026-07-29T09:57:00.209-04:00
 tags:
   - Official
 Name: "[[True Strike|True Strike]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Bard, Sorcerer, Warlock, Wizard
 Special: M
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Divination Cantrip ([[Artificer]], [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

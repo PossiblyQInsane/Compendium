@@ -1,15 +1,17 @@
 ---
 publish: true
 created: 2026-07-26T21:11:12.643-04:00
-modified: 2026-07-28T11:49:52.496-04:00
-published: 2026-07-28T11:49:52.496-04:00
+modified: 2026-07-29T09:53:08.567-04:00
+published: 2026-07-29T09:53:08.567-04:00
 tags:
   - Official
+  - subclass
+  - artificer_subclass
+  - eberron_forge_of_the_artificer
 Source:
   - "Eberron: Forge of the Artificer"
+Official: true
 ---
-
-# Armorer
 
 ![[Images/Armorer.png|left|355]]
 
@@ -21,7 +23,7 @@ An Armorer modifies armor to function almost like a second skin. The armor is en
 
 You gain the following benefits.
 
-_**Armor Training.**_ You gain training with Heavy armor.
+_**Armor Training.**_ You gain training with [[Equipment.base#Heavy Armor|Heavy armor]].
 
 _**Tool Proficiency.**_ You gain proficiency with [[Smith's Tools]]. If you already have this tool proficiency, you gain proficiency with one other type of [[Artisan's Tools|Artisan's Tools]] of your choice.
 

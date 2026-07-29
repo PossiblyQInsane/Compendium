@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T16:19:39.504-04:00
-modified: 2026-07-27T20:20:37.824-04:00
-published: 2026-07-27T20:20:37.824-04:00
+modified: 2026-07-29T10:08:37.505-04:00
+published: 2026-07-29T10:08:37.505-04:00
 tags:
   - Official
 Source:
@@ -84,11 +84,11 @@ The Magic Item Tools table lists which tool is required to make a magic item of 
 | Armor         | [[Leatherworker’s Tools]], [[Smith's Tools]], or [[Weaver’s Tools]] depending on the kind of armor as noted in the tools’ descriptions      |
 | Potion        | [[Alchemist’s Supplies\|Alchemist's Supplies]] or [[Herbalism Kit]]                                                                                               |
 | Ring          | [[Jeweler’s Tools]]                                                                                                                         |
-| Rod           | [[Woodcarver’s Tools]]                                                                                                                      |
+| Rod           | [[Woodcarver's Tools]]                                                                                                                      |
 | Scroll        | [[Calligrapher’s Supplies]]                                                                                                                 |
-| Staff         | [[Woodcarver’s Tools]]                                                                                                                      |
-| Wand          | [[Woodcarver’s Tools]]                                                                                                                      |
-| Weapon        | [[Leatherworker’s Tools]], [[Smith's Tools]], or [[Woodcarver’s Tools]] depending on the kind of weapon as noted in the tools’ descriptions |
+| Staff         | [[Woodcarver's Tools]]                                                                                                                      |
+| Wand          | [[Woodcarver's Tools]]                                                                                                                      |
+| Weapon        | [[Leatherworker’s Tools]], [[Smith's Tools]], or [[Woodcarver's Tools]] depending on the kind of weapon as noted in the tools’ descriptions |
 | Wondrous Item | [[Tinker’s Tools\|Tinker's Tools]] or the tool required to make the nonmagical item on which the magic item is based                                        |
 
 #### Spells

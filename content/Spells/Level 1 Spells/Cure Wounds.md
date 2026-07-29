@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-24T11:46:46.797-04:00
-modified: 2026-07-27T18:22:35.852-04:00
-published: 2026-07-27T18:22:35.852-04:00
+modified: 2026-07-29T09:57:01.439-04:00
+published: 2026-07-29T09:57:01.439-04:00
 tags:
   - Official
 Name: "[[Cure Wounds|Cure Wounds]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Bard, Cleric, Druid, Paladin, Ranger
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 1 Abjuration ([[Artificer]], [[Bard]], [[Cleric]], [[Druid]], [[Paladin]], [[Ranger]])_

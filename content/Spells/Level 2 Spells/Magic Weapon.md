@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T12:46:07.351-04:00
-modified: 2026-07-27T18:32:31.321-04:00
-published: 2026-07-27T18:32:31.321-04:00
+modified: 2026-07-29T09:57:31.164-04:00
+published: 2026-07-29T09:57:31.164-04:00
 tags:
   - Official
 Name: "[[Magic Weapon]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Paladin, Ranger, Sorcerer, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 2 Transmutation ([[Artificer|Artificer]], [[Paladin]], [[Ranger]], [[Sorcerer]], [[Wizard]])_

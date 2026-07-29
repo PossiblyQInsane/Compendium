@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T15:15:10.705-04:00
-modified: 2026-07-27T18:48:42.781-04:00
-published: 2026-07-27T18:48:42.781-04:00
+modified: 2026-07-29T09:57:51.598-04:00
+published: 2026-07-29T09:57:51.598-04:00
 tags:
   - Official
 Name: "[[Mordenkainen's Faithful Hound]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 4 Conjuration ([[Artificer|Artificer]]. [[Wizard]])_

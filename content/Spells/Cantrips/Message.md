@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T21:49:02.339-04:00
-modified: 2026-07-27T18:18:43.631-04:00
-published: 2026-07-27T18:18:43.631-04:00
+modified: 2026-07-29T09:56:54.739-04:00
+published: 2026-07-29T09:56:54.739-04:00
 tags:
   - Official
 Name: "[[Message|Message]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Bard, Druid, Sorcerer, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Transmutation Cantrip ([[Artificer]], [[Bard]], [[Druid]], [[Sorcerer]], [[Wizard]])_

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-24T01:00:22.880-04:00
-modified: 2026-07-27T17:58:28.178-04:00
-published: 2026-07-27T17:58:28.178-04:00
+modified: 2026-07-29T10:08:37.487-04:00
+published: 2026-07-29T10:08:37.487-04:00
 tags:
   - Official
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 Artisan’s Tools are each focused on crafting items and pursuing a trade. Each of these tools requires a separate proficiency.
@@ -29,4 +30,4 @@ Artisan’s Tools are each focused on crafting items and pursuing a trade. Each 
 - [[Smith's Tools]]
 - [[Tinker's Tools|Tinker's Tools]]
 - [[Weaver’s Tools]]
-- [[Woodcarver’s Tools]]
+- [[Woodcarver's Tools]]

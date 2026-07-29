@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T12:51:02.504-04:00
-modified: 2026-07-27T18:33:21.376-04:00
-published: 2026-07-27T18:33:21.376-04:00
+modified: 2026-07-29T09:57:32.620-04:00
+published: 2026-07-29T09:57:32.620-04:00
 tags:
   - Official
 Name: "[[Protection from Poison]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Cleric, Druid, Paladin, Ranger
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 2 Abjuration ([[Artificer|Artificer]], [[Cleric]], [[Druid]], [[Paladin]], [[Ranger]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T22:42:28.137-04:00
-modified: 2026-07-27T18:23:46.192-04:00
-published: 2026-07-27T18:23:46.192-04:00
+modified: 2026-07-29T09:57:04.519-04:00
+published: 2026-07-29T09:57:04.519-04:00
 tags:
   - Official
 Name: "[[Expeditious Retreat|Expeditious Retreat]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Sorcerer, Warlock, Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 1 Transmutation ([[Artificer]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

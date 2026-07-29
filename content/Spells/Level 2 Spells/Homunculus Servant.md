@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T01:04:05.736-04:00
-modified: 2026-07-28T10:22:26.631-04:00
-published: 2026-07-28T10:22:26.631-04:00
+modified: 2026-07-29T09:57:27.436-04:00
+published: 2026-07-29T09:57:27.436-04:00
 tags:
   - Official
 Name: "[[Homunculus Servant]]"
@@ -13,6 +13,7 @@ Classes: Artificer
 Special: R, M
 Source:
   - "Eberron: Forge of the Artificer"
+Official: true
 ---
 
 _Level 2 Conjuration ([[Artificer|Artificer]])_

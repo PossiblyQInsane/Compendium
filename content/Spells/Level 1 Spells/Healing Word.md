@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T19:50:53.533-04:00
-modified: 2026-07-27T18:25:42.205-04:00
-published: 2026-07-27T18:25:42.205-04:00
+modified: 2026-07-29T09:57:10.105-04:00
+published: 2026-07-29T09:57:10.105-04:00
 tags:
   - Official
 Name: "[[Healing Word]]"
@@ -13,6 +13,7 @@ Classes: Bard, Cleric, Druid
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 1 Abjuration ([[Bard]], [[Cleric]], [[Druid]])_

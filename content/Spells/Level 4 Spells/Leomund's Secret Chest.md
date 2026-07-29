@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T15:10:54.856-04:00
-modified: 2026-07-27T18:48:55.663-04:00
-published: 2026-07-27T18:48:55.663-04:00
+modified: 2026-07-29T09:57:51.104-04:00
+published: 2026-07-29T09:57:51.104-04:00
 tags:
   - Official
 Name: "[[Leomund's Secret Chest]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Wizard
 Special: M
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 4 Conjuration ([[Artificer|Artificer]], [[Wizard]])_

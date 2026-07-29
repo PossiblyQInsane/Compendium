@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T17:37:49.679-04:00
-modified: 2026-07-27T18:35:33.369-04:00
-published: 2026-07-27T18:35:33.369-04:00
+modified: 2026-07-29T09:57:57.137-04:00
+published: 2026-07-29T09:57:57.137-04:00
 tags:
   - Official
 Name: "[[Circle of Power]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Cleric, Paladin, Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 5 Abjuration ([[Artificer|Artificer]], [[Cleric]], [[Paladin]], [[Wizard]])_

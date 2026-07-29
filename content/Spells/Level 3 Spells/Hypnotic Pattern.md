@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T23:25:43.583-04:00
-modified: 2026-07-27T18:51:23.707-04:00
-published: 2026-07-27T18:51:23.707-04:00
+modified: 2026-07-29T09:57:42.756-04:00
+published: 2026-07-29T09:57:42.756-04:00
 tags:
   - Official
 Name: "[[Hypnotic Pattern]]"
@@ -13,6 +13,7 @@ Classes: Bard, Sorcerer, Warlock, Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 3 Illusion ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

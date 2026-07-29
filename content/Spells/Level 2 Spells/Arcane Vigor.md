@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T23:22:08.658-04:00
-modified: 2026-07-27T18:29:05.816-04:00
-published: 2026-07-27T18:29:05.816-04:00
+modified: 2026-07-29T09:57:21.593-04:00
+published: 2026-07-29T09:57:21.593-04:00
 tags:
   - Official
 Name: "[[Arcane Vigor|Arcane Vigor]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Sorcerer, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 2 Abjuration ([[Artificer]], [[Sorcerer]], [[Wizard]])_

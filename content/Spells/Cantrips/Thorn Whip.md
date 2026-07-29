@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T22:18:33.063-04:00
-modified: 2026-07-27T18:21:14.383-04:00
-published: 2026-07-27T18:21:14.383-04:00
+modified: 2026-07-29T09:56:59.415-04:00
+published: 2026-07-29T09:56:59.415-04:00
 tags:
   - Official
 Name: "[[Thorn Whip|Thorn Whip]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Druid
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Transmutation Cantrip ([[Artificer]], [[Druid]])_

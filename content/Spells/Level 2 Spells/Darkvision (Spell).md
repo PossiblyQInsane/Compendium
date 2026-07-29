@@ -2,8 +2,8 @@
 publish: true
 title: Darkvision
 created: 2026-07-25T23:31:39.059-04:00
-modified: 2026-07-27T18:29:58.584-04:00
-published: 2026-07-27T18:29:58.584-04:00
+modified: 2026-07-29T09:57:23.129-04:00
+published: 2026-07-29T09:57:23.129-04:00
 tags:
   - Official
 Name: "[[Darkvision (Spell)|Darkvision]]"
@@ -14,6 +14,7 @@ Classes: Artificer, Druid, Ranger, Sorcerer, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 2 Transmutation ([[Artificer]], [[Druid]], [[Ranger]], [[Sorcerer]], [[Wizard]])_

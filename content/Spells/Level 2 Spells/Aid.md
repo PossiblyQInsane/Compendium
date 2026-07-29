@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T23:12:27.045-04:00
-modified: 2026-07-27T18:28:06.543-04:00
-published: 2026-07-27T18:28:06.543-04:00
+modified: 2026-07-29T09:57:19.280-04:00
+published: 2026-07-29T09:57:19.280-04:00
 tags:
   - Official
 Name: "[[Aid|Aid]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Bard, Cleric, Druid, Paladin, Ranger
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 2 Abjuration ([[Artificer]], [[Bard]], [[Cleric]], [[Druid]], [[Paladin]], [[Ranger]])_

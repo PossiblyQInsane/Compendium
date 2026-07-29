@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T12:55:58.405-04:00
-modified: 2026-07-27T18:54:02.227-04:00
-published: 2026-07-27T18:54:02.227-04:00
+modified: 2026-07-29T09:57:33.137-04:00
+published: 2026-07-29T09:57:33.137-04:00
 tags:
   - Official
 Name: "[[Rope Trick]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 2 Transmutation ([[Artificer|Artificer]], [[Wizard]])_

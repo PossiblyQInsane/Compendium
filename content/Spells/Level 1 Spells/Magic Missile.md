@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T23:10:47.074-04:00
-modified: 2026-07-27T18:26:34.568-04:00
-published: 2026-07-27T18:26:34.568-04:00
+modified: 2026-07-29T09:57:15.171-04:00
+published: 2026-07-29T09:57:15.171-04:00
 tags:
   - Official
 Name: "[[Magic Missile]]"
@@ -13,6 +13,7 @@ Classes: Sorcerer, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 1 Evocation ([[Sorcerer]], [[Wizard]])_

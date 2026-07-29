@@ -2,8 +2,8 @@
 publish: true
 title: Enlarge/Reduce
 created: 2026-07-26T00:55:07.457-04:00
-modified: 2026-07-27T18:30:36.177-04:00
-published: 2026-07-27T18:30:36.177-04:00
+modified: 2026-07-29T09:57:25.927-04:00
+published: 2026-07-29T09:57:25.927-04:00
 tags:
   - Official
 Name: "[[Enlarge-Reduce|Enlarge/Reduce]]"
@@ -14,6 +14,7 @@ Classes: Artificer, Bard, Druid, Sorcerer, Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 2 Transmutation ([[Artificer|Artificer]], [[Bard]], [[Druid]], [[Sorcerer]], [[Wizard]])_

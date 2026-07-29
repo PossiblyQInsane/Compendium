@@ -16,7 +16,7 @@ views:
       - Classes
       - Special
       - Source
-      - tags
+      - Official
     sort:
       - property: Spell Level
         direction: ASC
@@ -33,12 +33,16 @@ views:
       property: Spell Level
       direction: ASC
     order:
-      - Spell Level
       - Name
       - School
       - Special
       - Source
+      - Official
     sort:
+      - property: School
+        direction: DESC
+      - property: Name
+        direction: ASC
       - property: Spell Level
         direction: ASC
       - property: file.name

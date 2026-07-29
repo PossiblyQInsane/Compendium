@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T22:00:47.793-04:00
-modified: 2026-07-27T18:19:49.734-04:00
-published: 2026-07-27T18:19:49.734-04:00
+modified: 2026-07-29T09:56:57.074-04:00
+published: 2026-07-29T09:56:57.074-04:00
 tags:
   - Official
 Name: "[[Ray of Frost|Ray of Frost]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Sorcerer, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Evocation Cantrip ([[Artificer]], [[Sorcerer]], [[Wizard]])_

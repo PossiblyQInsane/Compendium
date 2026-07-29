@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T17:46:33.922-04:00
-modified: 2026-07-27T18:34:57.030-04:00
-published: 2026-07-27T18:34:57.030-04:00
+modified: 2026-07-29T09:58:03.650-04:00
+published: 2026-07-29T09:58:03.650-04:00
 tags:
   - Official
 Name: "[[Greater Restoration]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Bard, Cleric, Druid, Paladin, Ranger
 Special: M
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 5 Abjuration ([[Artificer|Artificer]], [[Bard]], [[Cleric]], [[Druid]], [[Paladin]], [[Ranger]])_

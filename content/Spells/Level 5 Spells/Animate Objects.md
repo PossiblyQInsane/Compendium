@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T16:23:10.008-04:00
-modified: 2026-07-28T10:21:38.915-04:00
-published: 2026-07-28T10:21:38.915-04:00
+modified: 2026-07-29T09:57:56.138-04:00
+published: 2026-07-29T09:57:56.138-04:00
 tags:
   - Official
 Name: "[[Animate Objects]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Bard, Sorcerer, Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 5 Transmutation ([[Artificer|Artificer]], [[Bard]], [[Sorcerer]], [[Wizard]])_

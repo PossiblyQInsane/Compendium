@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T19:56:01.590-04:00
-modified: 2026-07-27T18:27:09.097-04:00
-published: 2026-07-27T18:27:09.097-04:00
+modified: 2026-07-29T09:57:17.265-04:00
+published: 2026-07-29T09:57:17.265-04:00
 tags:
   - Official
 Name: "[[Ray of Sickness]]"
@@ -13,6 +13,7 @@ Classes: Sorcerer, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 1 Necromancy ([[Sorcerer]], [[Wizard]])_

@@ -1,10 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T21:25:48.615-04:00
-modified: 2026-07-27T17:57:57.523-04:00
-published: 2026-07-27T17:57:57.523-04:00
+modified: 2026-07-29T10:00:50.895-04:00
+published: 2026-07-29T10:00:50.895-04:00
 tags:
   - Official
+  - equipment
+  - tools
+  - artisans_tools
+  - players_handbook_5-5e
 Category: Artisan's Tools
 Cost: 20 GP
 Weight: 8 lb.
@@ -12,6 +16,7 @@ Ability: Strength
 Craft: Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, Ball Bearings, Bucket, Caltrops, Chain, Crowbar, Firearm Bullets, Grappling Hook, Iron Pot, Iron Spikes, Sling Bullets
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 **Cost:** 20 GP

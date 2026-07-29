@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T17:32:43.309-04:00
-modified: 2026-07-27T18:35:47.412-04:00
-published: 2026-07-27T18:35:47.412-04:00
+modified: 2026-07-29T09:57:56.610-04:00
+published: 2026-07-29T09:57:56.610-04:00
 tags:
   - Official
 Name: "[[Bigby's Hand]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Sorcerer, Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 5 Evocation ([[Artificer|Artificer]], [[Sorcerer]], [[Wizard]])_

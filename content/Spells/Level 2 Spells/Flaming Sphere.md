@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T20:01:12.755-04:00
-modified: 2026-07-27T18:30:56.623-04:00
-published: 2026-07-27T18:30:56.623-04:00
+modified: 2026-07-29T09:57:26.379-04:00
+published: 2026-07-29T09:57:26.379-04:00
 tags:
   - Official
 Name: "[[Flaming Sphere]]"
@@ -13,6 +13,7 @@ Classes: Druid, Sorcerer, Wizard
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 2 Conjuration ([[Druid]], [[Sorcerer]], [[Wizard]])_

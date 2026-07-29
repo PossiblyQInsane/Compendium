@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T15:37:24.546-04:00
-modified: 2026-07-28T10:21:56.207-04:00
-published: 2026-07-28T10:21:56.207-04:00
+modified: 2026-07-29T09:57:55.008-04:00
+published: 2026-07-29T09:57:55.008-04:00
 tags:
   - Official
 Name: "[[Summon Construct]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Wizard
 Special: C, M
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 4 Conjuration ([[Artificer|Artificer]], [[Wizard]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T22:15:54.693-04:00
-modified: 2026-07-27T18:21:02.401-04:00
-published: 2026-07-27T18:21:02.401-04:00
+modified: 2026-07-29T09:56:58.716-04:00
+published: 2026-07-29T09:56:58.716-04:00
 tags:
   - Official
 Name: "[[Spare the Dying|Spare the Dying]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Cleric, Druid
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Necromancy Cantrip ([[Artificer]], [[Cleric]], [[Druid]])_

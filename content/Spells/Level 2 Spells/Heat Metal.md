@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T00:59:59.738-04:00
-modified: 2026-07-27T18:31:07.236-04:00
-published: 2026-07-27T18:31:07.236-04:00
+modified: 2026-07-29T09:57:26.889-04:00
+published: 2026-07-29T09:57:26.889-04:00
 tags:
   - Official
 Name: "[[Heat Metal]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Bard, Druid
 Special: C
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 2 Transmutation ([[Artificer|Artificer]], [[Bard]], [[Druid]])_

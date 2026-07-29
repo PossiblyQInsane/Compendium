@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T14:42:53.264-04:00
-modified: 2026-07-27T18:50:14.343-04:00
-published: 2026-07-27T18:50:14.343-04:00
+modified: 2026-07-29T09:57:46.214-04:00
+published: 2026-07-29T09:57:46.214-04:00
 tags:
   - Official
 Name: "[[Water Walk]]"
@@ -13,6 +13,7 @@ Classes: Artificer, Cleric, Druid, Ranger, Sorcerer
 Special: R
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 3 Transmutation ([[Artificer|Artificer]], [[Cleric]], [[Druid]], [[Ranger]], [[Sorcerer]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-28T10:31:28.005-04:00
-modified: 2026-07-28T10:36:18.134-04:00
-published: 2026-07-28T10:36:18.134-04:00
+modified: 2026-07-29T09:57:49.575-04:00
+published: 2026-07-29T09:57:49.575-04:00
 tags:
   - Official
 Name: "[[Fire Shield]]"
@@ -13,6 +13,7 @@ Classes: Druid, Sorcerer, Wizard
 Special: —
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 _Level 4 Evocation ([[Druid]], [[Sorcerer]], [[Wizard]])_
