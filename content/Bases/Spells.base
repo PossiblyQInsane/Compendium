@@ -41,6 +41,8 @@ views:
     sort:
       - property: Official
         direction: ASC
+      - property: Spell Level
+        direction: ASC
       - property: Name
         direction: ASC
     columnSize:

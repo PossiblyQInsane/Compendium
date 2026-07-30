@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-24T01:00:22.880-04:00
-modified: 2026-07-29T10:08:37.487-04:00
-published: 2026-07-29T10:08:37.487-04:00
+modified: 2026-07-30T10:09:08.128-04:00
+published: 2026-07-30T10:09:08.128-04:00
 tags:
   - Official
 Source:
@@ -16,9 +16,9 @@ Artisan’s Tools are each focused on crafting items and pursuing a trade. Each 
 
 - [[Alchemist's Supplies|Alchemist's Supplies]]
 - [[Brewer’s Supplies]]
-- [[Calligrapher’s Supplies]]
+- [[Calligrapher's Supplies]]
 - [[Carpenter’s Tools]]
-- [[Cartographer’s Tools]]
+- [[Cartographer's Tools]]
 - [[Cobbler’s Tools]]
 - [[Cook’s Utensils]]
 - [[Glassblower’s Tools]]

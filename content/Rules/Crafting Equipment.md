@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T16:19:39.504-04:00
-modified: 2026-07-29T10:08:37.505-04:00
-published: 2026-07-29T10:08:37.505-04:00
+modified: 2026-07-30T10:03:40.398-04:00
+published: 2026-07-30T10:03:40.398-04:00
 tags:
   - Official
 Source:
@@ -46,7 +46,7 @@ Scribing a scroll takes an amount of time and money based on the level of the sp
 
 #### Prerequisites for the Scribe
 
-To scribe a scroll, you must have proficiency in the [[Arcana]] skill or with [[Calligrapher’s Supplies]] and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll’s spell uses your spell save DC and spell attack bonus.
+To scribe a scroll, you must have proficiency in the [[Arcana]] skill or with [[Calligrapher's Supplies]] and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll’s spell uses your spell save DC and spell attack bonus.
 
 #### Cantrips
 
@@ -85,7 +85,7 @@ The Magic Item Tools table lists which tool is required to make a magic item of 
 | Potion        | [[Alchemist’s Supplies\|Alchemist's Supplies]] or [[Herbalism Kit]]                                                                                               |
 | Ring          | [[Jeweler’s Tools]]                                                                                                                         |
 | Rod           | [[Woodcarver's Tools]]                                                                                                                      |
-| Scroll        | [[Calligrapher’s Supplies]]                                                                                                                 |
+| Scroll        | [[Calligrapher's Supplies]]                                                                                                                 |
 | Staff         | [[Woodcarver's Tools]]                                                                                                                      |
 | Wand          | [[Woodcarver's Tools]]                                                                                                                      |
 | Weapon        | [[Leatherworker’s Tools]], [[Smith's Tools]], or [[Woodcarver's Tools]] depending on the kind of weapon as noted in the tools’ descriptions |

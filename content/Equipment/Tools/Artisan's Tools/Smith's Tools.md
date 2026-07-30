@@ -1,14 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T21:25:48.615-04:00
-modified: 2026-07-29T10:00:50.895-04:00
-published: 2026-07-29T10:00:50.895-04:00
-tags:
-  - Official
-  - equipment
-  - tools
-  - artisans_tools
-  - players_handbook_5-5e
+modified: 2026-07-30T10:04:58.836-04:00
+published: 2026-07-30T10:04:58.836-04:00
 Category: Artisan's Tools
 Cost: 20 GP
 Weight: 8 lb.

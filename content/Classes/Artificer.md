@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-07-29T11:32:27.016-04:00
-published: 2026-07-29T11:32:27.016-04:00
+modified: 2026-07-30T09:55:14.415-04:00
+published: 2026-07-30T09:55:14.415-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 ---
@@ -302,5 +302,7 @@ An Artificer subclass is a specialization that grants you features at certain Ar
 
 - [[Forge Adept]] - Exploring Eberron
 - [[Maverick]] - Exploring Eberron
+
+---
 
 [^1]: You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan.
