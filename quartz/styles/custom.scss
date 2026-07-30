@@ -2248,7 +2248,7 @@ settings:
   --statblock-rule-color: #922610;
   --statblock-background-color: #12161b;
 
-  --statblock-bar-color: #3a4655;
+  --statblock-bar-color: var(--statblock-primary-color);
   --statblock-bar-border-size: 1px;
   --statblock-bar-border-color: #000;
 
@@ -2454,6 +2454,7 @@ settings:
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-bottom: 0.2em;
 }
 
 .flex-container {
