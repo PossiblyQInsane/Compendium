@@ -5,11 +5,11 @@
 
 a.internal {
   background-color: transparent !important;
-  color: skyblue;
+  color: deepskyblue;
 }
 
 a.broken {
- color: red !important;
+ color: salmon !important;
 }
 
 /* Center alignment */
@@ -2458,6 +2458,7 @@ settings:
   margin-bottom: 0.25rem;
   break-inside: avoid-column;
   break-after: avoid-column;
+  width: var(--statblock-column-width);
 }
 
 .flex-container {
