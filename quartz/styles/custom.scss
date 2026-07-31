@@ -2258,7 +2258,7 @@ settings:
   --statblock-image-border-color: var(--statblock-primary-color);
 
   --statblock-border-size: 1px;
-  --statblock-border-color: #ddd;
+  --statblock-border-color: var(--statblock-rule-color);
 
   --statblock-box-shadow-color: #ddd;
   --statblock-box-shadow-x-offset: 0;
