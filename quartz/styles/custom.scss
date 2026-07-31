@@ -2421,10 +2421,10 @@ settings:
     gap: 1rem;
 
     > .column {
-      width: var(--statblock-column-width, 375px);
+      width: var(--statblock-column-width, 350px);
     }
 
-    @media screen and (max-width: 400px) {
+    @media screen and (max-width: 350px) {
       > .column {
         width: 75vw;
       }
