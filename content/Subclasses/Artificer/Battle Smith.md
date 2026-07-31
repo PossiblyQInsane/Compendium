@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T02:30:17.849-04:00
-modified: 2026-07-31T01:17:27.992-04:00
-published: 2026-07-31T01:17:27.992-04:00
+modified: 2026-07-31T01:34:08.382-04:00
+published: 2026-07-31T01:34:08.382-04:00
 Source:
   - "Eberron: Forge of the Artificer"
 Official: true
@@ -95,3 +95,5 @@ _**Improved Deflection.**_ Whenever your Steel Defender uses its Deflect Attack,
 > _**Limitless Jolt.**_ Using Arcane Jolt does not expend uses.
 >
 > Once you use this feature, you can’t use it again until you finish a [[Long Rest]] unless you expend a level 5 spell slot (no action required) to restore your use of it.
+
+![[Test Statblock]]
