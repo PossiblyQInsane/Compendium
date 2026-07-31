@@ -2621,3 +2621,9 @@ settings:
     object-position: center;
   }
 }
+
+.block-language-statblock.statblock-plugin-container {
+  width: calc(var(--statblock-column-width) + 1em);
+  display: flex;
+  justify-content: center;
+}
