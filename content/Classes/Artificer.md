@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-07-30T09:55:14.415-04:00
-published: 2026-07-30T09:55:14.415-04:00
+modified: 2026-07-31T00:50:02.991-04:00
+published: 2026-07-31T00:50:02.991-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 ---
@@ -48,28 +48,28 @@ As an Artificer, you gain the following class features when you reach the specif
 —Spell Slots per Spell Level—
 </div>
 
-| Level | Proficiency Bonus | Class Features                                                                       | Plans Known | Magic Items | Cantrips | Prepared Spells |  1  |  2  |  3  |  4  |  5  |
-| :---: | :---------------: | :----------------------------------------------------------------------------------- | :---------: | :---------: | :------: | :-------------: | :-: | :-: | :-: | :-: | :-: |
-|   1   |        +2         | [[#Level 1 Spellcasting\|Spellcasting]], [[#Level 1 Tinker’s Magic\|Tinker's Magic]] |      —      |      —      |    2     |        2        |  2  |  —  |  —  |  —  |  —  |
-|   2   |        +2         | [[#Level 2 Replicate Magic Item\|Replicate Magic Item]]                              |      4      |      2      |    2     |        3        |  2  |  —  |  —  |  —  |  —  |
-|   3   |        +2         | [[#Level 3 Artificer Subclass\|Artificer Subclass]]                                  |      4      |      2      |    2     |        4        |  3  |  —  |  —  |  —  |  —  |
-|   4   |        +2         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                    |      4      |      2      |    2     |        5        |  3  |  —  |  —  |  —  |  —  |
-|   5   |        +3         | Subclass feature                                                                     |      4      |      2      |    2     |        6        |  4  |  2  |  —  |  —  |  —  |
-|   6   |        +3         | [[#Level 6 Magic Item Tinker\|Magic Item Tinker]]                                    |      5      |      3      |    2     |        6        |  4  |  2  |  —  |  —  |  —  |
-|   7   |        +3         | [[#Level 7 Flash of Genius\|Flash of Genius]]                                        |      5      |      3      |    2     |        7        |  4  |  3  |  —  |  —  |  —  |
-|   8   |        +3         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                    |      5      |      3      |    2     |        7        |  4  |  3  |  —  |  —  |  —  |
-|   9   |        +4         | Subclass feature                                                                     |      5      |      3      |    2     |        9        |  4  |  3  |  2  |  —  |  —  |
-|  10   |        +4         | [[#Level 10 Magic Item Adept\|Magic Item Adept]]                                     |      6      |      4      |    3     |        9        |  4  |  3  |  2  |  —  |  —  |
-|  11   |        +4         | [[#Level 11 Spell-Storing Item\|Spell-Storing Item]]                                 |      6      |      4      |    3     |       10        |  4  |  3  |  3  |  —  |  —  |
-|  12   |        +4         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                    |      6      |      4      |    3     |       10        |  4  |  3  |  3  |  —  |  —  |
-|  13   |        +5         | —                                                                                    |      6      |      4      |    3     |       11        |  4  |  3  |  3  |  1  |  —  |
-|  14   |        +5         | [[#Level 14 Advanced Artifice\|Advanced Artifice]]                                   |      7      |      5      |    4     |       11        |  4  |  3  |  3  |  1  |  —  |
-|  15   |        +5         | Subclass feature                                                                     |      7      |      5      |    4     |       12        |  4  |  3  |  3  |  2  |  —  |
-|  16   |        +5         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                    |      7      |      5      |    4     |       12        |  4  |  3  |  3  |  2  |  —  |
-|  17   |        +6         | —                                                                                    |      7      |      5      |    4     |       14        |  4  |  3  |  3  |  3  |  1  |
-|  18   |        +6         | [[#Level 18 Magic Item Master\|Magic Item Master]]                                   |      8      |      6      |    4     |       14        |  4  |  3  |  3  |  3  |  1  |
-|  19   |        +6         | [[#Level 19 Epic Boon\|Epic Boon]]                                                   |      8      |      6      |    4     |       15        |  4  |  3  |  3  |  3  |  2  |
-|  20   |        +6         | [[#Level 20 Soul of Artifice\|Soul of Artifice]]                                     |      8      |      6      |    4     |       15        |  4  |  3  |  3  |  3  |  2  |
+| Level | Proficiency  Bonus | Class Features                                                                       | Plans Known | Magic Items | Cantrips | Prepared Spells |  1  |  2  |  3  |  4  |  5  |
+| :---: | :---------------------: | :----------------------------------------------------------------------------------- | :---------: | :---------: | :------: | :-------------: | :-: | :-: | :-: | :-: | :-: |
+|   1   |           +2            | [[#Level 1 Spellcasting\|Spellcasting]], [[#Level 1 Tinker’s Magic\|Tinker's Magic]] |      —      |      —      |    2     |        2        |  2  |  —  |  —  |  —  |  —  |
+|   2   |           +2            | [[#Level 2 Replicate Magic Item\|Replicate Magic Item]]                              |      4      |      2      |    2     |        3        |  2  |  —  |  —  |  —  |  —  |
+|   3   |           +2            | [[#Level 3 Artificer Subclass\|Artificer Subclass]]                                  |      4      |      2      |    2     |        4        |  3  |  —  |  —  |  —  |  —  |
+|   4   |           +2            | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                    |      4      |      2      |    2     |        5        |  3  |  —  |  —  |  —  |  —  |
+|   5   |           +3            | Subclass feature                                                                     |      4      |      2      |    2     |        6        |  4  |  2  |  —  |  —  |  —  |
+|   6   |           +3            | [[#Level 6 Magic Item Tinker\|Magic Item Tinker]]                                    |      5      |      3      |    2     |        6        |  4  |  2  |  —  |  —  |  —  |
+|   7   |           +3            | [[#Level 7 Flash of Genius\|Flash of Genius]]                                        |      5      |      3      |    2     |        7        |  4  |  3  |  —  |  —  |  —  |
+|   8   |           +3            | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                    |      5      |      3      |    2     |        7        |  4  |  3  |  —  |  —  |  —  |
+|   9   |           +4            | Subclass feature                                                                     |      5      |      3      |    2     |        9        |  4  |  3  |  2  |  —  |  —  |
+|  10   |           +4            | [[#Level 10 Magic Item Adept\|Magic Item Adept]]                                     |      6      |      4      |    3     |        9        |  4  |  3  |  2  |  —  |  —  |
+|  11   |           +4            | [[#Level 11 Spell-Storing Item\|Spell-Storing Item]]                                 |      6      |      4      |    3     |       10        |  4  |  3  |  3  |  —  |  —  |
+|  12   |           +4            | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                    |      6      |      4      |    3     |       10        |  4  |  3  |  3  |  —  |  —  |
+|  13   |           +5            | —                                                                                    |      6      |      4      |    3     |       11        |  4  |  3  |  3  |  1  |  —  |
+|  14   |           +5            | [[#Level 14 Advanced Artifice\|Advanced Artifice]]                                   |      7      |      5      |    4     |       11        |  4  |  3  |  3  |  1  |  —  |
+|  15   |           +5            | Subclass feature                                                                     |      7      |      5      |    4     |       12        |  4  |  3  |  3  |  2  |  —  |
+|  16   |           +5            | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                    |      7      |      5      |    4     |       12        |  4  |  3  |  3  |  2  |  —  |
+|  17   |           +6            | —                                                                                    |      7      |      5      |    4     |       14        |  4  |  3  |  3  |  3  |  1  |
+|  18   |           +6            | [[#Level 18 Magic Item Master\|Magic Item Master]]                                   |      8      |      6      |    4     |       14        |  4  |  3  |  3  |  3  |  1  |
+|  19   |           +6            | [[#Level 19 Epic Boon\|Epic Boon]]                                                   |      8      |      6      |    4     |       15        |  4  |  3  |  3  |  3  |  2  |
+|  20   |           +6            | [[#Level 20 Soul of Artifice\|Soul of Artifice]]                                     |      8      |      6      |    4     |       15        |  4  |  3  |  3  |  3  |  2  |
 
 ### Level 1: Spellcasting
 
