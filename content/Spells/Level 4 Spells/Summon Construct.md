@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T15:37:24.546-04:00
-modified: 2026-07-30T01:33:31.218-04:00
-published: 2026-07-30T01:33:31.218-04:00
+modified: 2026-07-31T00:28:49.515-04:00
+published: 2026-07-31T00:28:49.515-04:00
 tags:
   - Official
 Name: "[[Summon Construct]]"

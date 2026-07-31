@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T01:04:05.736-04:00
-modified: 2026-07-29T09:57:27.436-04:00
-published: 2026-07-29T09:57:27.436-04:00
+modified: 2026-07-31T00:29:40.970-04:00
+published: 2026-07-31T00:29:40.970-04:00
 tags:
   - Official
 Name: "[[Homunculus Servant]]"
