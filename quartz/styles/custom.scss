@@ -2421,7 +2421,7 @@ settings:
     gap: 1rem;
 
     > .column {
-      width: var(--statblock-column-width, 400px);
+      width: var(--statblock-column-width, 375px);
     }
 
     @media screen and (max-width: 400px) {
