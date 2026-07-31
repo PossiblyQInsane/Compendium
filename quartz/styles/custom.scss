@@ -2456,6 +2456,8 @@ settings:
   align-items: center;
   padding-bottom: 0.25rem;
   margin-bottom: 0.25rem;
+  break-inside: avoid-column;
+  break-after: avoid-column;
 }
 
 .flex-container {
