@@ -2627,10 +2627,11 @@ settings:
 
 .block-language-statblock.statblock-plugin-container {
   width: calc(var(--statblock-column-width) + 1em);
+  font-size: 80%;
   display: flex;
   justify-content: center;
 }
 
 .table-container {
-  font-size: 80%
+  font-size: 80%;
 }
