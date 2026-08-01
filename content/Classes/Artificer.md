@@ -421,6 +421,7 @@ An Artificer subclass is a specialization that grants you features at certain Ar
 | Name                                                             | Source            | Publisher                       |
 | ---------------------------------------------------------------- | ----------------- | ------------------------------- |
 | [[Subclasses/Artificer/Third Party/Forge Adept.md\|Forge Adept]] | Exploring Eberron | Visionary Production and Design |
+| [[Subclasses/Artificer/Third Party/Maverick.md\|Maverick]]       | Exploring Eberron | Visionary Production and Design |
 
 ---
 
