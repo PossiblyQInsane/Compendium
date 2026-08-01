@@ -1,11 +1,10 @@
 ---
 publish: true
 created: 2026-07-31T09:37:39.767-04:00
-modified: 2026-07-31T10:35:22.814-04:00
-published: 2026-07-31T10:35:22.814-04:00
+modified: 2026-08-01T02:33:37.276-04:00
+published: 2026-08-01T02:33:37.276-04:00
 Parent Class: "[[Artificer]]"
-Source:
-  - "Ravenloft: The Horrors Within"
+Source: "Ravenloft: The Horrors Within"
 Official: true
 ---
 

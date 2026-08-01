@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T22:11:25.617-04:00
-modified: 2026-07-29T09:56:58.214-04:00
-published: 2026-07-29T09:56:58.214-04:00
+modified: 2026-08-01T02:26:59.612-04:00
+published: 2026-08-01T02:26:59.612-04:00
 tags:
   - Official
 Name: "[[Shocking Grasp|Shocking Grasp]]"
@@ -11,8 +11,7 @@ School: Evocation
 Components: V, S
 Classes: Artificer, Sorcerer, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T22:27:58.335-04:00
-modified: 2026-07-29T09:57:00.725-04:00
-published: 2026-07-29T09:57:00.725-04:00
+modified: 2026-08-01T02:27:20.235-04:00
+published: 2026-08-01T02:27:20.235-04:00
 tags:
   - Official
 Name: "[[Alarm|Alarm]]"
@@ -11,8 +11,7 @@ School: Abjuration
 Components: V, S, M
 Classes: Artificer, Ranger, Wizard
 Special: R
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

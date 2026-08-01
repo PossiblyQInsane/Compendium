@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-24T11:46:46.797-04:00
-modified: 2026-07-29T09:57:01.439-04:00
-published: 2026-07-29T09:57:01.439-04:00
+modified: 2026-08-01T02:27:22.712-04:00
+published: 2026-08-01T02:27:22.712-04:00
 tags:
   - Official
 Name: "[[Cure Wounds|Cure Wounds]]"
@@ -11,8 +11,7 @@ School: Abjuration
 Components: V, S
 Classes: Artificer, Bard, Cleric, Druid, Paladin, Ranger
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

@@ -2,8 +2,8 @@
 publish: true
 title: Light
 created: 2026-07-25T21:36:37.629-04:00
-modified: 2026-07-29T09:56:52.880-04:00
-published: 2026-07-29T09:56:52.880-04:00
+modified: 2026-08-01T02:26:26.645-04:00
+published: 2026-08-01T02:26:26.645-04:00
 tags:
   - Official
 Name: "[[Light (Spell)|Light]]"
@@ -12,8 +12,7 @@ School: Evocation
 Components: V, M
 Classes: Artificer, Bard, Cleric, Sorcerer, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

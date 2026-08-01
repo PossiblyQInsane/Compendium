@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T21:22:26.674-04:00
-modified: 2026-07-29T09:56:51.354-04:00
-published: 2026-07-29T09:56:51.354-04:00
+modified: 2026-08-01T02:26:09.468-04:00
+published: 2026-08-01T02:26:09.468-04:00
 tags:
   - Official
 Name: "[[Elementalism|Elementalism]]"
@@ -11,8 +11,7 @@ School: Transmutation
 Components: V, S
 Classes: Artificer, Druid, Sorcerer, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-24T01:35:32.711-04:00
-modified: 2026-07-29T10:00:13.714-04:00
-published: 2026-07-29T10:00:13.714-04:00
+modified: 2026-08-01T01:37:42.080-04:00
+published: 2026-08-01T01:37:42.080-04:00
 tags:
   - Official
   - equipment

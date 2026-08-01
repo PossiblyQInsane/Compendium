@@ -2,8 +2,8 @@
 publish: true
 title: Resistance
 created: 2026-07-25T22:05:27.156-04:00
-modified: 2026-07-29T09:56:57.641-04:00
-published: 2026-07-29T09:56:57.641-04:00
+modified: 2026-08-01T02:26:56.119-04:00
+published: 2026-08-01T02:26:56.119-04:00
 tags:
   - Official
 Name: "[[Resistance (Spell)|Resistance]]"
@@ -12,8 +12,7 @@ School: Abjuration
 Components: V, S
 Classes: Artificer, Cleric, Druid
 Special: C
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

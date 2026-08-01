@@ -24,26 +24,3 @@ views:
         direction: ASC
     columnSize:
       note.Name: 216
-  - type: table
-    name: Artificer Spell List
-    filters:
-      and:
-        - Classes.contains("Artificer")
-    groupBy:
-      property: Spell Level
-      direction: ASC
-    order:
-      - Name
-      - School
-      - Special
-      - Source
-      - Official
-    sort:
-      - property: Official
-        direction: ASC
-      - property: Spell Level
-        direction: ASC
-      - property: Name
-        direction: ASC
-    columnSize:
-      note.Name: 243

@@ -1,11 +1,10 @@
 ---
 publish: true
 created: 2026-07-23T02:30:17.849-04:00
-modified: 2026-07-31T02:25:27.497-04:00
-published: 2026-07-31T02:25:27.497-04:00
+modified: 2026-08-01T02:33:30.813-04:00
+published: 2026-08-01T02:33:30.813-04:00
 Parent Class: "[[Artificer]]"
-Source:
-  - "Eberron: Forge of the Artificer"
+Source: "Eberron: Forge of the Artificer"
 Official: true
 ---
 

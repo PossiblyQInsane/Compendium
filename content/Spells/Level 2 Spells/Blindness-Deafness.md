@@ -2,9 +2,10 @@
 publish: true
 title: Blindness/Deafness
 created: 2026-07-31T10:03:06.117-04:00
-modified: 2026-07-31T10:12:18.485-04:00
-published: 2026-07-31T10:12:18.485-04:00
+modified: 2026-08-01T02:14:18.253-04:00
+published: 2026-08-01T02:14:18.253-04:00
 Name: "[[Blindness-Deafness|Blindness/Deafness]]"
+Spell Level: Level 2
 School: Transmutation
 Classes: Bard, Cleric, Sorcerer, Wizard
 Special: —

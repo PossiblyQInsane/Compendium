@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T21:56:38.914-04:00
-modified: 2026-07-29T09:56:55.234-04:00
-published: 2026-07-29T09:56:55.234-04:00
+modified: 2026-08-01T02:26:48.057-04:00
+published: 2026-08-01T02:26:48.057-04:00
 tags:
   - Official
 Name: "[[Poison Spray|Poison Spray]]"
@@ -11,8 +11,7 @@ School: Necromancy
 Components: V, S
 Classes: Artificer, Druid, Sorcerer, Warlock, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

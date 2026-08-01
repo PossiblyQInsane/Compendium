@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T22:21:00.831-04:00
-modified: 2026-07-29T09:57:00.032-04:00
-published: 2026-07-29T09:57:00.032-04:00
+modified: 2026-08-01T02:27:08.897-04:00
+published: 2026-08-01T02:27:08.897-04:00
 tags:
   - Official
 Name: "[[Thunderclap|Thunderclap]]"
@@ -11,8 +11,7 @@ School: Evocation
 Components: S
 Classes: Artificer, Bard, Druid, Sorcerer, Warlock, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 
