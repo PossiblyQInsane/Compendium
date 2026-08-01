@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T18:27:15.097-04:00
-modified: 2026-07-27T18:01:13.186-04:00
-published: 2026-07-27T18:01:13.186-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:10:18.249-04:00
+published: 2026-08-01T11:10:18.249-04:00
 Category: Armor
 Rarity: Uncommon
-Source:
-  - "Eberron: Forge of the Artificer"
+Attunement: false
+Source: "Eberron: Forge of the Artificer"
+Official: true
 ---
 
 _Armor ([[Shield]]), Uncommon_

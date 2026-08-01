@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-25T22:46:33.483-04:00
-modified: 2026-07-29T09:57:05.112-04:00
-published: 2026-07-29T09:57:05.112-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:56:06.137-04:00
+published: 2026-08-01T11:56:06.137-04:00
 Name: "[[Faerie Fire|Faerie Fire]]"
 Spell Level: Level 1
 School: Evocation
-Components: V
 Classes: Artificer, Bard, Druid
 Special: C
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

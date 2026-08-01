@@ -1,15 +1,13 @@
 ---
 publish: true
 created: 2026-07-30T10:08:32.460-04:00
-modified: 2026-07-30T10:12:14.590-04:00
-published: 2026-07-30T10:12:14.590-04:00
+modified: 2026-08-01T12:12:38.288-04:00
+published: 2026-08-01T12:12:38.288-04:00
 Category: Artisan's Tools
 Cost: 15 GP
 Weight: 6 lb.
 Ability: Wisdom
-Craft: Map
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

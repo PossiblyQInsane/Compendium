@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T17:06:05.586-04:00
-modified: 2026-07-27T18:09:28.700-04:00
-published: 2026-07-27T18:09:28.700-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:28:43.652-04:00
+published: 2026-08-01T11:28:43.652-04:00
 Category: Weapon
 Rarity: Uncommon
-Source:
-  - "Eberron: Forge of the Artificer"
+Attunement: false
+Source: "Eberron: Forge of the Artificer"
+Official: true
 ---
 
 _Weapon (Any Simple or Martial with the [[Thrown]] Property), Uncommon_

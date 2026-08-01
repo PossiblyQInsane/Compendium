@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-07-29T11:57:27.350-04:00
-modified: 2026-07-29T11:58:56.319-04:00
-published: 2026-07-29T11:58:56.319-04:00
-Source:
-  - Player's Handbook (5.5e)
+modified: 2026-08-01T11:43:16.592-04:00
+published: 2026-08-01T11:43:16.592-04:00
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

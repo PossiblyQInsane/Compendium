@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T18:41:36.154-04:00
-modified: 2026-07-27T18:09:40.973-04:00
-published: 2026-07-27T18:09:40.973-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:29:34.557-04:00
+published: 2026-08-01T11:29:34.557-04:00
 Category: Weapon
 Rarity: Uncommon
-Source:
-  - Dungeon Master's Guide (5.5e)
+Attunement: true
+Source: Dungeon Master's Guide (5.5e)
+Official: true
 ---
 
 _Weapon (Any Simple or Martial), Uncommon (Requires Attunement)_

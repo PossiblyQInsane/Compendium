@@ -1,15 +1,14 @@
 ---
 publish: true
 created: 2026-07-30T00:19:08.474-04:00
-modified: 2026-07-30T00:22:01.615-04:00
-published: 2026-07-30T00:22:01.615-04:00
+modified: 2026-08-01T02:44:18.097-04:00
+published: 2026-08-01T02:44:18.097-04:00
 Name: "[[Heroism]]"
 Spell Level: Level 1
 School: Enchantment
 Classes: Bard, Paladin
 Special: C
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

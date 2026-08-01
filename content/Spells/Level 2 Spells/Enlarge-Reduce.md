@@ -2,18 +2,14 @@
 publish: true
 title: Enlarge/Reduce
 created: 2026-07-26T00:55:07.457-04:00
-modified: 2026-07-29T09:57:25.927-04:00
-published: 2026-07-29T09:57:25.927-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:58:38.380-04:00
+published: 2026-08-01T11:58:38.380-04:00
 Name: "[[Enlarge-Reduce|Enlarge/Reduce]]"
 Spell Level: Level 2
 School: Transmutation
-Components: V, S, M
 Classes: Artificer, Bard, Druid, Sorcerer, Wizard
 Special: C
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

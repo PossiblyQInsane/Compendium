@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T18:43:17.396-04:00
-modified: 2026-07-27T18:00:45.494-04:00
-published: 2026-07-27T18:00:45.494-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:08:04.863-04:00
+published: 2026-08-01T11:08:04.863-04:00
 Category: Armor
 Rarity: Rare
-Source:
-  - Dungeon Master's Guide (5.5e)
+Attunement: true
+Source: Dungeon Master's Guide (5.5e)
+Official: true
 ---
 
 _Armor (Any Light, Medium, or Heavy), Rare (Requires Attunement)_

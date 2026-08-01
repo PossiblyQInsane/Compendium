@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T18:33:02.226-04:00
-modified: 2026-07-27T18:01:31.404-04:00
-published: 2026-07-27T18:01:31.404-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:11:49.005-04:00
+published: 2026-08-01T11:11:49.005-04:00
 Category: Armor
 Rarity: Uncommon
-Source:
-  - Dungeon Master's Guide (5.5e)
+Attunement: false
+Source: Dungeon Master's Guide (5.5e)
+Official: true
 ---
 
 _Armor ([[Shield]]), Uncommon_

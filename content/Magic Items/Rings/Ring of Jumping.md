@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T18:53:27.146-04:00
-modified: 2026-07-27T18:02:36.709-04:00
-published: 2026-07-27T18:02:36.709-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:14:34.776-04:00
+published: 2026-08-01T11:14:34.776-04:00
 Category: Ring
 Rarity: Uncommon
-Source:
-  - Dungeon Master's Guide (5.5e)
+Attunement: true
+Source: Dungeon Master's Guide (5.5e)
+Official: true
 ---
 
 _Ring, Uncommon (Requires Attunement)_

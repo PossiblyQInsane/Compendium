@@ -1,14 +1,11 @@
 ---
 publish: true
 created: 2026-07-24T11:59:48.097-04:00
-modified: 2026-08-01T02:26:40.738-04:00
-published: 2026-08-01T02:26:40.738-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:52:30.836-04:00
+published: 2026-08-01T11:52:30.836-04:00
 Name: "[[Mending|Mending]]"
 Spell Level: Cantrip
 School: Transmutation
-Components: V, S, M
 Classes: Bard, Cleric, Druid, Sorcerer, Wizard
 Special: —
 Source: Player's Handbook (5.5e)

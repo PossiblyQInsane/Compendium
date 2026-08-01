@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T15:29:09.666-04:00
-modified: 2026-07-29T09:57:53.138-04:00
-published: 2026-07-29T09:57:53.138-04:00
-tags:
-  - Official
+modified: 2026-08-01T12:07:56.886-04:00
+published: 2026-08-01T12:07:56.886-04:00
 Name: "[[Stone Shape]]"
 Spell Level: Level 4
 School: Transmutation
-Components: V, S, M
 Classes: Artificer, Cleric, Druid, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

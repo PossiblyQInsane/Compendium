@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T13:48:34.301-04:00
-modified: 2026-07-29T09:57:40.696-04:00
-published: 2026-07-29T09:57:40.696-04:00
-tags:
-  - Official
+modified: 2026-08-01T12:02:44.781-04:00
+published: 2026-08-01T12:02:44.781-04:00
 Name: "[[Glyph of Warding]]"
 Spell Level: Level 3
 School: Abjuration
-Components: V, S, M
 Classes: Artificer, Bard, Cleric, Wizard
 Special: M
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

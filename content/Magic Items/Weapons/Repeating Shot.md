@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T17:02:33.060-04:00
-modified: 2026-07-27T18:09:14.075-04:00
-published: 2026-07-27T18:09:14.075-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:28:02.698-04:00
+published: 2026-08-01T11:28:02.698-04:00
 Category: Weapon
 Rarity: Uncommon
-Source:
-  - "Eberron: Forge of the Artificer"
+Attunement: true
+Source: "Eberron: Forge of the Artificer"
+Official: true
 ---
 
 _Weapon (Any Simple or Martial with the [[Ammunition (Property)|Ammunition]] Property), Uncommon (Requires Attunement)_

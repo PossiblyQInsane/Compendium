@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T00:51:16.236-04:00
-modified: 2026-07-29T09:57:24.456-04:00
-published: 2026-07-29T09:57:24.456-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:58:32.399-04:00
+published: 2026-08-01T11:58:32.399-04:00
 Name: "[[Enhance Ability]]"
 Spell Level: Level 2
 School: Transmutation
-Components: V, S, M
 Classes: Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard
 Special: C
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

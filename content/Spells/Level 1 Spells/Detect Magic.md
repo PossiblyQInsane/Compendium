@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-25T22:32:38.765-04:00
-modified: 2026-07-29T09:57:02.842-04:00
-published: 2026-07-29T09:57:02.842-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:55:49.973-04:00
+published: 2026-08-01T11:55:49.973-04:00
 Name: "[[Detect Magic|Detect Magic]]"
 Spell Level: Level 1
 School: Divination
-Components: V, S
 Classes: Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard
 Special: C, R
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

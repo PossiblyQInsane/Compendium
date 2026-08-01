@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T18:56:37.540-04:00
-modified: 2026-07-27T18:00:40.722-04:00
-published: 2026-07-27T18:00:40.722-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:09:16.340-04:00
+published: 2026-08-01T11:09:16.340-04:00
 Category: Armor
 Rarity: Rare
-Source:
-  - Dungeon Master's Guide (5.5e)
+Attunement: true
+Source: Dungeon Master's Guide (5.5e)
+Official: true
 ---
 
 _Armor ([[Shield]]), Rare (Requires Attunement)_

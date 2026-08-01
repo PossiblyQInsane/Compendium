@@ -1,15 +1,14 @@
 ---
 publish: true
 created: 2026-07-31T10:13:29.535-04:00
-modified: 2026-07-31T10:17:08.540-04:00
-published: 2026-07-31T10:17:08.540-04:00
+modified: 2026-08-01T12:09:47.754-04:00
+published: 2026-08-01T12:09:47.754-04:00
 Name: "[[Blight]]"
 Spell Level: Level 4
 School: Necromancy
 Classes: Druid, Sorcerer, Warlock, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

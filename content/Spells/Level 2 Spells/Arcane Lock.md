@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-25T23:19:08.464-04:00
-modified: 2026-07-29T09:57:21.161-04:00
-published: 2026-07-29T09:57:21.161-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:57:52.329-04:00
+published: 2026-08-01T11:57:52.329-04:00
 Name: "[[Arcane Lock|Arcane Lock]]"
 Spell Level: Level 2
 School: Abjuration
-Components: V, S, M
 Classes: Artificer, Wizard
 Special: M
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

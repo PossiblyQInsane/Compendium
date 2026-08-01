@@ -1,14 +1,11 @@
 ---
 publish: true
 created: 2026-07-25T21:26:54.553-04:00
-modified: 2026-08-01T02:26:18.045-04:00
-published: 2026-08-01T02:26:18.045-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:52:03.576-04:00
+published: 2026-08-01T11:52:03.576-04:00
 Name: "[[Fire Bolt|Fire Bolt]]"
 Spell Level: Cantrip
 School: Evocation
-Components: V, S
 Classes: Artificer, Sorcerer, Wizard
 Special: —
 Source: Player's Handbook (5.5e)

@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T17:00:20.189-04:00
-modified: 2026-07-27T18:12:37.034-04:00
-published: 2026-07-27T18:12:37.034-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:37:41.107-04:00
+published: 2026-08-01T11:37:41.107-04:00
 Category: Wondrous Item
 Rarity: Common
-Source:
-  - "Eberron: Forge of the Artificer"
+Attunement: true
+Source: "Eberron: Forge of the Artificer"
+Official: true
 ---
 
 _Wondrous Item, Common (Requires Attunement)_

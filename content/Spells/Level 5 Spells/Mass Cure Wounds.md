@@ -1,15 +1,14 @@
 ---
 publish: true
 created: 2026-07-30T00:47:08.668-04:00
-modified: 2026-07-30T00:50:17.723-04:00
-published: 2026-07-30T00:50:17.723-04:00
+modified: 2026-08-01T12:06:08.776-04:00
+published: 2026-08-01T12:06:08.776-04:00
 Name: "[[Mass Cure Wounds]]"
 Spell Level: Level 5
 School: Abjuration
 Classes: Bard, Cleric, Druid
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

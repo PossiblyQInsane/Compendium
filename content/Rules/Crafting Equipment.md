@@ -1,13 +1,10 @@
 ---
 publish: true
 created: 2026-07-25T16:19:39.504-04:00
-modified: 2026-07-30T10:03:40.398-04:00
-published: 2026-07-30T10:03:40.398-04:00
-tags:
-  - Official
-Source:
-  - Player's Handbook (5.5e)
-  - Dungeon Master's Guide (5.5e)
+modified: 2026-08-01T11:49:07.985-04:00
+published: 2026-08-01T11:49:07.985-04:00
+Source: Player's Handbook (5.5e), Dungeon Master's Guide (5.5e)
+Official: true
 ---
 
 ### Crafting Nonmagical Items

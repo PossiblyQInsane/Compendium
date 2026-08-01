@@ -1,12 +1,10 @@
 ---
 publish: true
 created: 2026-07-24T02:00:42.854-04:00
-modified: 2026-07-27T20:20:56.449-04:00
-published: 2026-07-27T20:20:56.449-04:00
-tags:
-  - Official
-Source:
-  - Player's Handbook (5.5e)
+modified: 2026-08-01T11:50:56.793-04:00
+published: 2026-08-01T11:50:56.793-04:00
+Source: Player's Handbook (5.5e)
+Official: true
 ---
 
 Multiclassing allows you to gain levels in multiple classes. With this rule, you have the option of gaining a level in a new class whenever you advance in level instead of gaining a level in your current class. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in a single class.

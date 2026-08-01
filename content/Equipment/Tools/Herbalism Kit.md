@@ -1,17 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T19:38:41.859-04:00
-modified: 2026-07-29T10:00:39.911-04:00
-published: 2026-07-29T10:00:39.911-04:00
-tags:
-  - Official
+modified: 2026-08-01T12:12:49.528-04:00
+published: 2026-08-01T12:12:49.528-04:00
 Category: Other Tools
 Cost: 5 GP
 Weight: 3 lb.
 Ability: Intelligence
-Craft: Antitoxin, Candle, Healer's Kit, Potion of Healing
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

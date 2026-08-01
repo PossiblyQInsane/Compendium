@@ -1,15 +1,14 @@
 ---
 publish: true
 created: 2026-07-30T00:39:22.445-04:00
-modified: 2026-07-30T00:43:05.021-04:00
-published: 2026-07-30T00:43:05.021-04:00
+modified: 2026-08-01T12:04:32.408-04:00
+published: 2026-08-01T12:04:32.408-04:00
 Name: "[[Aura of Purity]]"
 Spell Level: Level 4
 School: Abjuration
 Classes: Cleric, Paladin
 Special: C
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

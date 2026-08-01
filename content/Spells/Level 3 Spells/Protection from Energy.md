@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T13:59:37.518-04:00
-modified: 2026-07-29T09:57:44.177-04:00
-published: 2026-07-29T09:57:44.177-04:00
-tags:
-  - Official
+modified: 2026-08-01T12:03:33.449-04:00
+published: 2026-08-01T12:03:33.449-04:00
 Name: "[[Protection from Energy]]"
 Spell Level: Level 3
 School: Abjuration
-Components: V, S
 Classes: Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
 Special: C
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

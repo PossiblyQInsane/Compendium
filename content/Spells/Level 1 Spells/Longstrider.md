@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-25T23:01:54.147-04:00
-modified: 2026-07-29T09:57:14.408-04:00
-published: 2026-07-29T09:57:14.408-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:56:50.511-04:00
+published: 2026-08-01T11:56:50.511-04:00
 Name: "[[Longstrider|Longstrider]]"
 Spell Level: Level 1
 School: Transmutation
-Components: V, S, M
 Classes: Artificer, Bard, Druid, Ranger, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

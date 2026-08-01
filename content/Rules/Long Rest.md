@@ -1,12 +1,10 @@
 ---
 publish: true
 created: 2026-07-24T11:33:37.736-04:00
-modified: 2026-07-27T20:20:52.305-04:00
-published: 2026-07-27T20:20:52.305-04:00
-tags:
-  - Official
-Source:
-  - Player's Handbook (5.5e)
+modified: 2026-08-01T11:50:45.728-04:00
+published: 2026-08-01T11:50:45.728-04:00
+Source: Player's Handbook (5.5e)
+Official: true
 ---
 
 A Long Rest is a period of extended downtime—at least 8 hours—available to any creature. During a Long Rest, you sleep for at least 6 hours and perform no more than 2 hours of light activity, such as reading, talking, eating, or standing watch.

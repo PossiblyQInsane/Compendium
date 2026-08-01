@@ -1,21 +1,13 @@
 ---
 publish: true
 created: 2026-07-29T10:08:26.599-04:00
-modified: 2026-07-29T10:16:09.390-04:00
-published: 2026-07-29T10:16:09.390-04:00
-tags:
-  - Official
-  - equipment
-  - tools
-  - artisans_tools
-  - players_handbook_5-5e
+modified: 2026-08-01T12:12:44.756-04:00
+published: 2026-08-01T12:12:44.756-04:00
 Category: Artisan's Tools
 Cost: 1 GP
 Weight: 5 lb.
 Ability: Dexterity
-Craft: Club, Greatclub, Quarterstaff, Ranged weapons (except Pistol, Musket, and Sling), Arcane Focus, Arrows, Bolts, Druidic Focus, Ink Pen, Needles
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

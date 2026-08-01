@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T23:25:43.583-04:00
-modified: 2026-07-29T09:57:42.756-04:00
-published: 2026-07-29T09:57:42.756-04:00
-tags:
-  - Official
+modified: 2026-08-01T12:03:04.598-04:00
+published: 2026-08-01T12:03:04.598-04:00
 Name: "[[Hypnotic Pattern]]"
 Spell Level: Level 3
 School: Illusion
-Components: S, M
 Classes: Bard, Sorcerer, Warlock, Wizard
 Special: C
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

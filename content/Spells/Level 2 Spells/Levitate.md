@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T12:38:21.698-04:00
-modified: 2026-07-29T09:57:29.404-04:00
-published: 2026-07-29T09:57:29.404-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:59:06.607-04:00
+published: 2026-08-01T11:59:06.607-04:00
 Name: "[[Levitate]]"
 Spell Level: Level 2
 School: Transmutation
-Components: V, S, M
 Classes: Artificer, Sorcerer, Wizard
 Special: C
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

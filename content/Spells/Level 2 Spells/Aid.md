@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-25T23:12:27.045-04:00
-modified: 2026-07-29T09:57:19.280-04:00
-published: 2026-07-29T09:57:19.280-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:57:44.770-04:00
+published: 2026-08-01T11:57:44.770-04:00
 Name: "[[Aid|Aid]]"
 Spell Level: Level 2
 School: Abjuration
-Components: V, S, M
 Classes: Artificer, Bard, Cleric, Druid, Paladin, Ranger
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

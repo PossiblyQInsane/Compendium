@@ -1,14 +1,11 @@
 ---
 publish: true
 created: 2026-07-25T22:15:54.693-04:00
-modified: 2026-08-01T02:27:02.827-04:00
-published: 2026-08-01T02:27:02.827-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:54:54.089-04:00
+published: 2026-08-01T11:54:54.089-04:00
 Name: "[[Spare the Dying|Spare the Dying]]"
 Spell Level: Cantrip
 School: Necromancy
-Components: V, S
 Classes: Artificer, Cleric, Druid
 Special: —
 Source: Player's Handbook (5.5e)

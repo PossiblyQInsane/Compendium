@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T17:42:19.565-04:00
-modified: 2026-07-29T09:58:02.924-04:00
-published: 2026-07-29T09:58:02.924-04:00
-tags:
-  - Official
+modified: 2026-08-01T12:06:30.760-04:00
+published: 2026-08-01T12:06:30.760-04:00
 Name: "[[Creation]]"
 Spell Level: Level 5
 School: Illusion
-Components: V, S, M
 Classes: Artificer, Sorcerer, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

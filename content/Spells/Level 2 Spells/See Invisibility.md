@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T13:08:05.660-04:00
-modified: 2026-07-29T09:57:33.634-04:00
-published: 2026-07-29T09:57:33.634-04:00
-tags:
-  - Official
+modified: 2026-08-01T12:00:04.704-04:00
+published: 2026-08-01T12:00:04.704-04:00
 Name: "[[See Invisibility]]"
 Spell Level: Level 2
 School: Divination
-Components: V, S, M
 Classes: Artificer, Bard, Sorcerer, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

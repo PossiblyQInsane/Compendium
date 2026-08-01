@@ -1,14 +1,11 @@
 ---
 publish: true
 created: 2026-07-25T21:45:08.179-04:00
-modified: 2026-08-01T02:26:34.329-04:00
-published: 2026-08-01T02:26:34.329-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:52:25.210-04:00
+published: 2026-08-01T11:52:25.210-04:00
 Name: "[[Mage Hand|Mage Hand]]"
 Spell Level: Cantrip
 School: Conjuration
-Components: V, S
 Classes: Artificer, Bard, Sorcerer, Warlock, Wizard
 Special: —
 Source: Player's Handbook (5.5e)

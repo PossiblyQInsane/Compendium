@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T17:51:35.263-04:00
-modified: 2026-07-29T09:58:06.165-04:00
-published: 2026-07-29T09:58:06.165-04:00
-tags:
-  - Official
+modified: 2026-08-01T12:05:32.172-04:00
+published: 2026-08-01T12:05:32.172-04:00
 Name: "[[Wall of Stone]]"
 Spell Level: Level 5
 School: Evocation
-Components: V, S, M
 Classes: Artificer, Druid, Sorcerer, Wizard
 Special: C
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

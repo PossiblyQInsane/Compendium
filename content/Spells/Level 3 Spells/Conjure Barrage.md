@@ -1,15 +1,14 @@
 ---
 publish: true
 created: 2026-07-30T00:35:22.669-04:00
-modified: 2026-07-30T00:41:35.512-04:00
-published: 2026-07-30T00:41:35.512-04:00
+modified: 2026-08-01T12:01:00.008-04:00
+published: 2026-08-01T12:01:00.008-04:00
 Name: "[[Conjure Barrage]]"
 Spell Level: Level 3
 School: Conjuration
 Classes: Ranger
 Special: M
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

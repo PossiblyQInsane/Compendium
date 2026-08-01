@@ -1,12 +1,10 @@
 ---
 publish: true
 created: 2026-07-26T01:23:25.113-04:00
-modified: 2026-07-28T11:52:19.902-04:00
-published: 2026-07-28T11:52:19.902-04:00
-tags:
-  - Official
-Source:
-  - Player's Handbook (5.5e)
+modified: 2026-08-01T11:42:13.467-04:00
+published: 2026-08-01T11:42:13.467-04:00
+Source: Player's Handbook (5.5e)
+Official: true
 ---
 
 While you have the Exhaustion [[Condition|condition]], you experience the following effects.

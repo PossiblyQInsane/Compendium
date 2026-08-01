@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T17:32:22.304-04:00
-modified: 2026-07-27T18:10:25.345-04:00
-published: 2026-07-27T18:10:25.345-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:31:16.053-04:00
+published: 2026-08-01T11:31:16.053-04:00
 Category: Wondrous Item
 Rarity: Uncommon
-Source:
-  - Dungeon Master's Guide (5.5e)
+Attunement: false
+Source: Dungeon Master's Guide (5.5e)
+Official: true
 ---
 
 _Wondrous Item, Uncommon_

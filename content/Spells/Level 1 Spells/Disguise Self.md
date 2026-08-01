@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-25T22:37:54.050-04:00
-modified: 2026-07-29T09:57:03.873-04:00
-published: 2026-07-29T09:57:03.873-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:55:54.425-04:00
+published: 2026-08-01T11:55:54.425-04:00
 Name: "[[Disguise Self|Disguise Self]]"
 Spell Level: Level 1
 School: Illusion
-Components: V, S
 Classes: Artificer, Bard, Sorcerer, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

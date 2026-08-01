@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T17:37:49.679-04:00
-modified: 2026-07-29T09:57:57.137-04:00
-published: 2026-07-29T09:57:57.137-04:00
-tags:
-  - Official
+modified: 2026-08-01T12:07:05.353-04:00
+published: 2026-08-01T12:07:05.353-04:00
 Name: "[[Circle of Power]]"
 Spell Level: Level 5
 School: Abjuration
-Components: V
 Classes: Artificer, Cleric, Paladin, Wizard
 Special: C
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

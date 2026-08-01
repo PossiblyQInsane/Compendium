@@ -2,24 +2,14 @@
 publish: true
 title: Shield
 created: 2026-07-29T10:20:00.473-04:00
-modified: 2026-07-30T10:23:42.372-04:00
-published: 2026-07-30T10:23:42.372-04:00
-tags:
-  - spell
-  - reaction
-  - v
-  - s
-  - level_1
-  - abjuration
-  - Official
-  - players_handbook_5-5e
+modified: 2026-08-01T02:44:50.321-04:00
+published: 2026-08-01T02:44:50.321-04:00
 Name: "[[Shield (Spell)|Shield]]"
 Spell Level: Level 1
 School: Abjuration
 Classes: Sorcerer, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

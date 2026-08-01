@@ -2,14 +2,11 @@
 publish: true
 title: Resistance
 created: 2026-07-25T22:05:27.156-04:00
-modified: 2026-08-01T02:26:56.119-04:00
-published: 2026-08-01T02:26:56.119-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:54:43.170-04:00
+published: 2026-08-01T11:54:43.170-04:00
 Name: "[[Resistance (Spell)|Resistance]]"
 Spell Level: Cantrip
 School: Abjuration
-Components: V, S
 Classes: Artificer, Cleric, Druid
 Special: C
 Source: Player's Handbook (5.5e)

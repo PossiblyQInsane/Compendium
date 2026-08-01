@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T12:42:27.859-04:00
-modified: 2026-07-29T09:57:29.876-04:00
-published: 2026-07-29T09:57:29.876-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:59:16.528-04:00
+published: 2026-08-01T11:59:16.528-04:00
 Name: "[[Magic Mouth]]"
 Spell Level: Level 2
 School: Illusion
-Components: V, S, M
 Classes: Artificer, Bard, Wizard
 Special: R, M
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

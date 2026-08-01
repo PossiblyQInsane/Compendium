@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-25T23:28:03.232-04:00
-modified: 2026-07-29T09:57:22.585-04:00
-published: 2026-07-29T09:57:22.585-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:58:07.167-04:00
+published: 2026-08-01T11:58:07.167-04:00
 Name: "[[Continual Flame|Continual Flame]]"
 Spell Level: Level 2
 School: Evocation
-Components: V, S, M
 Classes: Artificer, Cleric, Druid, Wizard
 Special: M
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

@@ -1,17 +1,13 @@
 ---
 publish: true
 created: 2026-07-24T00:36:34.676-04:00
-modified: 2026-07-29T10:00:53.761-04:00
-published: 2026-07-29T10:00:53.761-04:00
-tags:
-  - Official
+modified: 2026-08-01T12:12:52.194-04:00
+published: 2026-08-01T12:12:52.194-04:00
 Category: Other Tools
 Cost: 25 GP
 Weight: 1 lb.
 Ability: Dexterity
-Craft: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

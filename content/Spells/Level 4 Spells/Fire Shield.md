@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-28T10:31:28.005-04:00
-modified: 2026-07-29T09:57:49.575-04:00
-published: 2026-07-29T09:57:49.575-04:00
-tags:
-  - Official
+modified: 2026-08-01T12:09:21.482-04:00
+published: 2026-08-01T12:09:21.482-04:00
 Name: "[[Fire Shield]]"
 Spell Level: Level 4
 School: Evocation
-Components: V, S, M
 Classes: Druid, Sorcerer, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

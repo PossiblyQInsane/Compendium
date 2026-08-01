@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T23:14:07.232-04:00
-modified: 2026-07-29T09:57:18.718-04:00
-published: 2026-07-29T09:57:18.718-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:57:23.530-04:00
+published: 2026-08-01T11:57:23.530-04:00
 Name: "[[Thunderwave]]"
 Spell Level: Level 1
 School: Evocation
-Components: V, S
 Classes: Bard, Druid, Sorcerer, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

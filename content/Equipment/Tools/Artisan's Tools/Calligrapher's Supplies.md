@@ -1,15 +1,13 @@
 ---
 publish: true
 created: 2026-07-30T10:03:15.572-04:00
-modified: 2026-07-30T10:10:25.483-04:00
-published: 2026-07-30T10:10:25.483-04:00
+modified: 2026-08-01T12:12:34.296-04:00
+published: 2026-08-01T12:12:34.296-04:00
 Category: Artisan's Tools
 Cost: 10 GP
 Weight: 5 lb.
 Ability: Dexterity
-Craft: Ink, Spell Scroll
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

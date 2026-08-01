@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-25T22:49:54.306-04:00
-modified: 2026-07-29T09:57:05.588-04:00
-published: 2026-07-29T09:57:05.588-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:56:18.743-04:00
+published: 2026-08-01T11:56:18.743-04:00
 Name: "[[False Life|False Life]]"
 Spell Level: Level 1
 School: Necromancy
-Components: V, S, M
 Classes: Artificer, Sorcerer, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

@@ -1,13 +1,10 @@
 ---
 publish: true
 created: 2026-07-25T14:29:16.060-04:00
-modified: 2026-07-29T10:00:51.518-04:00
-published: 2026-07-29T10:00:51.518-04:00
-tags:
-  - Official
+modified: 2026-08-01T10:58:16.298-04:00
+published: 2026-08-01T10:58:16.298-04:00
 Cost: 1 SP
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Weight: —
 Official: true
 ---

@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-24T11:55:05.495-04:00
-modified: 2026-07-29T09:57:13.081-04:00
-published: 2026-07-29T09:57:13.081-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:56:28.481-04:00
+published: 2026-08-01T11:56:28.481-04:00
 Name: "[[Grease|Grease]]"
 Spell Level: Level 1
 School: Conjuration
-Components: V, S, M
 Classes: Artificer, Sorcerer, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

@@ -1,15 +1,14 @@
 ---
 publish: true
 created: 2026-07-29T11:34:38.842-04:00
-modified: 2026-07-29T11:39:16.930-04:00
-published: 2026-07-29T11:39:16.930-04:00
+modified: 2026-08-01T12:01:45.848-04:00
+published: 2026-08-01T12:01:45.848-04:00
 Name: "[[Fireball]]"
 Spell Level: Level 3
 School: Evocation
 Classes: Sorcerer, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

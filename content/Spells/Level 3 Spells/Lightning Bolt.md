@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T23:30:11.735-04:00
-modified: 2026-07-29T09:57:43.242-04:00
-published: 2026-07-29T09:57:43.242-04:00
-tags:
-  - Official
+modified: 2026-08-01T12:03:19.024-04:00
+published: 2026-08-01T12:03:19.024-04:00
 Name: "[[Lightning Bolt]]"
 Spell Level: Level 3
 School: Evocation
-Components: V, S, M
 Classes: Sorcerer, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

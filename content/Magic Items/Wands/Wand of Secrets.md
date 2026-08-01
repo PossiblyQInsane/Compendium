@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T17:20:12.917-04:00
-modified: 2026-07-27T18:07:19.995-04:00
-published: 2026-07-27T18:07:19.995-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:23:44.394-04:00
+published: 2026-08-01T11:23:44.394-04:00
 Category: Wand
 Rarity: Uncommon
-Source:
-  - Dungeon Master's Guide (5.5e)
+Attunement: false
+Source: Dungeon Master's Guide (5.5e)
+Official: true
 ---
 
 _Wand, Uncommon_

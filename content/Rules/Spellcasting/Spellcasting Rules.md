@@ -2,10 +2,9 @@
 publish: true
 title: Spellcasting
 created: 2026-07-27T20:53:04.987-04:00
-modified: 2026-07-29T11:39:58.146-04:00
-published: 2026-07-29T11:39:58.146-04:00
-Source:
-  - Player's Handbook (5.5e)
+modified: 2026-08-01T11:47:03.305-04:00
+published: 2026-08-01T11:47:03.305-04:00
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

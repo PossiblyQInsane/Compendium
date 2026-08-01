@@ -1,13 +1,12 @@
 ---
 publish: true
 created: 2026-07-25T17:51:31.874-04:00
-modified: 2026-07-27T18:14:13.503-04:00
-published: 2026-07-27T18:14:13.503-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:43:58.415-04:00
+published: 2026-08-01T11:43:58.415-04:00
 Ability: Intelligence
 Source:
   - Player's Handbook (5.5e)
+Official: true
 ---
 
 **Ability:** Intelligence

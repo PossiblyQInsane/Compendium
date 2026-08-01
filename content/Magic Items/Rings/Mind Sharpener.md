@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T18:17:55.926-04:00
-modified: 2026-07-27T18:01:58.518-04:00
-published: 2026-07-27T18:01:58.518-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:12:55.447-04:00
+published: 2026-08-01T11:12:55.447-04:00
 Category: Ring
 Rarity: Uncommon
-Source:
-  - "Eberron: Forge of the Artificer"
+Attunement: true
+Source: "Eberron: Forge of the Artificer"
+Official: true
 ---
 
 _Ring, Uncommon (Requires Attunement)_

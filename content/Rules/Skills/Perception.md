@@ -1,13 +1,11 @@
 ---
 publish: true
 created: 2026-07-25T18:02:17.933-04:00
-modified: 2026-07-27T18:14:33.199-04:00
-published: 2026-07-27T18:14:33.199-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:44:53.337-04:00
+published: 2026-08-01T11:44:53.337-04:00
 Ability: Wisdom
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
+Official: true
 ---
 
 **Ability:** Wisdom

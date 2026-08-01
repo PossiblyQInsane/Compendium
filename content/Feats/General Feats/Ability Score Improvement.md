@@ -1,15 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T20:54:55.849-04:00
-modified: 2026-07-27T18:00:47.511-04:00
-published: 2026-07-27T18:00:47.511-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:07:26.247-04:00
+published: 2026-08-01T11:07:26.247-04:00
 Category: General Feat
 Prerequisite: Level 4+
 Ability Score: Any +2 or any 2 +1
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
+Official: true
 ---
 
 _General Feat (Prerequisite: Level 4+)_

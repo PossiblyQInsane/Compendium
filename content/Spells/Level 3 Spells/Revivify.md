@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T14:31:20.221-04:00
-modified: 2026-07-29T09:57:44.929-04:00
-published: 2026-07-29T09:57:44.929-04:00
-tags:
-  - Official
+modified: 2026-08-01T12:03:43.384-04:00
+published: 2026-08-01T12:03:43.384-04:00
 Name: "[[Revivify]]"
 Spell Level: Level 3
 School: Necromancy
-Components: V, S, M
 Classes: Artificer, Cleric, Druid, Paladin, Ranger
 Special: M
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

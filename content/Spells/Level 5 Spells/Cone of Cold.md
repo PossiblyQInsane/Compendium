@@ -1,15 +1,14 @@
 ---
 publish: true
 created: 2026-07-29T11:51:36.592-04:00
-modified: 2026-07-29T11:54:05.596-04:00
-published: 2026-07-29T11:54:05.596-04:00
+modified: 2026-08-01T12:06:38.169-04:00
+published: 2026-08-01T12:06:38.169-04:00
 Name: "[[Cone of Cold]]"
 Spell Level: Level 5
 School: Evocation
 Classes: Druid, Sorcerer, Wizard
 Special: —
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 

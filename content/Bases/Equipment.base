@@ -61,13 +61,12 @@ views:
     name: Tools
     filters:
       and:
-        - file.tags.contains("tools")
+        - file.inFolder("Equipment/Tools")
     order:
       - file.name
       - Cost
       - Weight
       - Ability
-      - Craft
       - Source
       - Official
     sort:

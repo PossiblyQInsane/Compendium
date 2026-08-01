@@ -1,18 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T20:01:12.755-04:00
-modified: 2026-07-29T09:57:26.379-04:00
-published: 2026-07-29T09:57:26.379-04:00
-tags:
-  - Official
+modified: 2026-08-01T11:58:43.033-04:00
+published: 2026-08-01T11:58:43.033-04:00
 Name: "[[Flaming Sphere]]"
 Spell Level: Level 2
 School: Conjuration
-Components: V, S, M
 Classes: Druid, Sorcerer, Wizard
 Special: C
-Source:
-  - Player's Handbook (5.5e)
+Source: Player's Handbook (5.5e)
 Official: true
 ---
 
