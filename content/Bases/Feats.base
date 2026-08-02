@@ -1,0 +1,35 @@
+filters:
+  and:
+    - file.inFolder("Feats")
+views:
+  - type: table
+    name: Feats
+    order:
+      - file.name
+      - Category
+      - Prerequisite
+      - Ability Score
+      - Source
+      - Official
+  - type: table
+    name: General Feats
+    filters:
+      and:
+        - Category == "General Feat"
+    order:
+      - file.name
+      - Prerequisite
+      - Ability Score
+      - Source
+      - Official
+  - type: table
+    name: Epic Boon Feats
+    filters:
+      and:
+        - Category == "Epic Boon Feat"
+    order:
+      - file.name
+      - Prerequisite
+      - Ability Score
+      - Source
+      - Official

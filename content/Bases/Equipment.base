@@ -22,7 +22,7 @@ views:
     name: Weapons
     filters:
       and:
-        - file.tags.contains("weapon")
+        - file.inFolder("Equipment/Weapons")
     groupBy:
       property: Category
       direction: ASC
@@ -64,9 +64,10 @@ views:
         - file.inFolder("Equipment/Tools")
     order:
       - file.name
-      - Cost
-      - Weight
+      - Category
       - Ability
+      - Weight
+      - Cost
       - Source
       - Official
     sort:
@@ -88,79 +89,3 @@ views:
     sort:
       - property: tags
         direction: ASC
-  - type: table
-    name: Simple Weapons
-    filters:
-      and:
-        - Category.contains("Simple")
-    order:
-      - file.name
-      - Damage
-      - Properties
-      - Mastery
-      - Weight
-      - Cost
-      - Source
-      - Official
-    sort:
-      - property: Category
-        direction: ASC
-  - type: table
-    name: Martial Weapons
-    filters:
-      and:
-        - Category.contains("Martial")
-  - type: table
-    name: Martial Ranged Weapons
-    filters:
-      and:
-        - Category.contains("Martial Ranged")
-  - type: table
-    name: Light Armor
-    filters:
-      and:
-        - Category.contains("Light")
-    order:
-      - file.name
-      - Armor Class (AC)
-      - Weight
-      - Cost
-      - Source
-      - Official
-    columnSize:
-      note.Cost: 113
-  - type: table
-    name: Medium Armor
-    filters:
-      and:
-        - Category.contains("Medium")
-  - type: table
-    name: Heavy Armor
-    filters:
-      and:
-        - Category.contains("Heavy")
-  - type: table
-    name: Shields
-    filters:
-      and:
-        - Category == "Shield"
-  - type: table
-    name: Artisan's Tools
-    filters:
-      and:
-        - Category == "Artisan's Tools"
-    order:
-      - file.name
-      - Cost
-      - Weight
-      - Source
-      - Official
-    sort:
-      - property: tags
-        direction: ASC
-      - property: file.name
-        direction: ASC
-    columnSize:
-      file.name: 251
-      note.Cost: 113
-    indentProperties: true
