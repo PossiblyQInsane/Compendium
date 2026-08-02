@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-08-01T12:20:15.141-04:00
-published: 2026-08-01T12:20:15.141-04:00
+modified: 2026-08-01T20:32:00.269-04:00
+published: 2026-08-01T20:32:00.269-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 ---
@@ -44,7 +44,7 @@ As an Artificer, you gain the following class features when you reach the specif
 
 ##### Artificer Features
 
-<div align="right">
+<div align="right" style="font-size: 80%">
 —Spell Slots per Spell Level—
 </div>
 

@@ -1,0 +1,32 @@
+---
+publish: true
+created: 2026-08-01T19:56:04.544-04:00
+modified: 2026-08-01T19:59:27.536-04:00
+published: 2026-08-01T19:59:27.536-04:00
+Category: Martial Melee Weapons
+Damage: 1d8 Slashing
+Properties: Versatile (1d10)
+Mastery: Topple
+Weight: 4 lb.
+Cost: 10 GP
+Source: Player's Handbook (5.5e)
+Official: true
+---
+
+_Martial Melee Weapon_
+
+---
+
+**Damage:** 1d8 Slashing
+**Weight:** 4 lb.
+**Cost:** 10 GP
+
+---
+
+**Properties:**
+
+- [[Versatile]] (1d10): A Versatile weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.
+
+**[[Mastery Properties|Mastery]]:**
+
+- [[Topple]]: If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the [[Prone]] condition.

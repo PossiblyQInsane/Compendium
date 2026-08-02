@@ -15,6 +15,8 @@ Each weapon has a mastery property, which is usable only by a character who has 
 
 | Name                                           | Source                   |
 | ---------------------------------------------- | ------------------------ |
+| [[Rules/Mastery Properties/Cleave.md\|Cleave]] | Player's Handbook (5.5e) |
+| [[Rules/Mastery Properties/Graze.md\|Graze]]   | Player's Handbook (5.5e) |
 | [[Rules/Mastery Properties/Nick.md\|Nick]]     | Player's Handbook (5.5e) |
 | [[Rules/Mastery Properties/Push.md\|Push]]     | Player's Handbook (5.5e) |
 | [[Rules/Mastery Properties/Sap.md\|Sap]]       | Player's Handbook (5.5e) |
