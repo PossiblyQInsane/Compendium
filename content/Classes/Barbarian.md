@@ -192,8 +192,12 @@ A Barbarian subclass is a specialization that grants you features at certain Bar
 
 ### Official Barbarian Subclasses
 
-| Name | Source |
-| ---- | ------ |
+| Name                                                                       | Source                   |
+| -------------------------------------------------------------------------- | ------------------------ |
+| [[Subclasses/Barbarian/Path of the Berserker.md\|Path of the Berserker]]   | Player's Handbook (5.5e) |
+| [[Subclasses/Barbarian/Path of the Wild Heart.md\|Path of the Wild Heart]] | Player's Handbook (5.5e) |
+| [[Subclasses/Barbarian/Path of the World Tree.md\|Path of the World Tree]] | Player's Handbook (5.5e) |
+| [[Subclasses/Barbarian/Path of the Zealot.md\|Path of the Zealot]]         | Player's Handbook (5.5e) |
 
 ### Third Party Barbarian Subclasses
 

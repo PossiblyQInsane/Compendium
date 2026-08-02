@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T10:40:54.449-04:00
-modified: 2026-08-02T10:43:21.707-04:00
-published: 2026-08-02T10:43:21.707-04:00
+modified: 2026-08-02T11:46:53.260-04:00
+published: 2026-08-02T11:46:53.260-04:00
 Source: Player's Handbook (5.5e)
 Official: true
 ---
 
-While you have the Unconscious condition, you experience the following effects.
+While you have the Unconscious [[Condition|condition]], you experience the following effects.
 
 **_Inert._** You have the [[Incapacitated]] and [[Prone]] conditions, and you drop whatever you’re holding. When this condition ends, you remain Prone.
 
