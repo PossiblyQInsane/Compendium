@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T14:11:07.456-04:00
-modified: 2026-08-02T14:47:35.665-04:00
-published: 2026-08-02T14:47:35.665-04:00
+modified: 2026-08-02T15:40:39.190-04:00
+published: 2026-08-02T15:40:39.190-04:00
 Parent Class: "[[Barbarian]]"
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false
@@ -11,8 +11,10 @@ Publisher: MonkeyDM
 
 ![[Images/Path of the Lightning Vessel.png|right}|319]]
 
-> [!quote|bg-brown] _Unknown survivor of the 26th Eldritch hunt_
+> [!quote|bg-brown no-t]
 > “Even while her body was falling apart, she was still fighting. Even when her arm was being torn to shreds, she was still fighting. When all her allies fell, she stood and kept fighting. Only when the battle was won did she draw her last breath, but she was still standing. Not even death could break her.”
+>
+> <div align="right" style="font-style: italic"> —Unknown survivor of the 26th Eldritch hunt</div>
 
 A Lightning Vessel is a brute, a monster of battle. Their bodies overflowing with lightning, they arrive unexpectedly, often dropping from buildings or leaping impossible distances, before crashing down amidst the fight. The presence of a single Lightning Vessel is often enough to turn the tides of battle. Their ferocious electricity rampages through their enemies, leaving a trail of charred corpses in their wake. If one ends up face to face against such a monster, there is no running away—they will catch you, electrocute you, and rend your corpse. Although vital in the fight against the Scourge, their recklessness causes fear in the heart of friends and foes alike.
 
