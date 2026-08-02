@@ -259,10 +259,10 @@ plugins:
     options:
       includeAll: false
       includedProperties:
+        - Parent Class
         - Source
         - Official
         - Publisher
-        - Parent Class
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
