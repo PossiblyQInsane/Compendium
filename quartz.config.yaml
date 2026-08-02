@@ -262,6 +262,7 @@ plugins:
         - Source
         - Official
         - Publisher
+        - Parent Class
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
