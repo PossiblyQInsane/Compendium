@@ -33,3 +33,13 @@ views:
       - Ability Score
       - Source
       - Official
+  - type: table
+    name: Fighting Style Feats
+    filters:
+      and:
+        - Category.contains("Fighting Style Feat")
+    order:
+      - file.name
+      - Prerequisite
+      - Source
+      - Official
