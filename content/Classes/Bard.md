@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T18:31:37.539-04:00
-modified: 2026-08-03T02:52:41.582-04:00
-published: 2026-08-03T02:52:41.582-04:00
+modified: 2026-08-03T12:12:01.418-04:00
+published: 2026-08-03T12:12:01.418-04:00
 Source: Player's Handbook (5.5e)
 Official: true
 ---
@@ -24,6 +24,7 @@ _**</div>**_
 | **Tool Proficiencies**         | Choose 3 [[Musical Instrument\|Musical Instruments]]                                                                                                  |
 | **Armor Training**             | [[Light armor]]                                                                                                                                       |
 | **Starting Equipment**         | _Choose A or B:_ (A) [[Leather Armor]], 2 [[Dagger\|Daggers]], [[Musical Instrument]] of your choice, [[Entertainer's Pack]], and 19 GP; or (B) 90 GP |
+
 Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions. Bards believe the multiverse was spoken into existence and that remnants of its Words of Creation still resound and glimmer on every plane of existence. Bardic magic attempts to harness those words, which transcend any language.
 
 Anything can inspire a new song or tale, so Bards are fascinated by almost everything. They become masters of many things, including performing music, working magic, and making jests.
