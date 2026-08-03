@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-08-02T16:07:55.207-04:00
-published: 2026-08-02T16:07:55.207-04:00
+modified: 2026-08-02T19:39:38.413-04:00
+published: 2026-08-02T19:39:38.413-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 ---
@@ -77,7 +77,7 @@ You have learned how to channel magical energy through objects. See [[Spellcasti
 
 _**Tools Required.**_ You produce your Artificer spells through tools. You can use [[Thieves' Tools|Thieves' Tools]], [[Tinker's Tools|Tinker's Tools]], or another kind of [[Artisan's Tools|Artisan's Tools]] with which you have proficiency as a [[Spellcasting Focus|Spellcasting Focus]], and you must have one of those focuses in hand when you cast an Artificer spell (meaning the spell has an _M_ component when you cast it).
 
-_**Cantrips.**_ You know two Artificer cantrips of your choice. _[[Acid Splash]]_ and _[[Prestidigitation]]_ are recommended.
+_**Cantrips.**_ You know two [[Artificer#Cantrips (Level 0 Artificer Spells)|Artificer cantrips]] of your choice. _[[Acid Splash]]_ and _[[Prestidigitation]]_ are recommended.
 
 Whenever you finish a [[Long Rest]], you can replace one of your cantrips from this feature with another Artificer cantrip of your choice.
 
@@ -85,7 +85,7 @@ When you reach Artificer levels 10 and 14, you learn another Artificer cantrip o
 
 _**Spell Slots.**_ The [[#Artificer Features]] table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
 
-_**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Artificer spells. _[[Cure Wounds]]_ and _[[Grease]]_ are recommended.
+_**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two [[Artificer#Level 1 Artificer spells|level 1 Artificer Spells]]. _[[Cure Wounds]]_ and _[[Grease]]_ are recommended.
 
 The number of spells on your list increases as you gain Artificer levels, as shown in the Prepared Spells column of the [[#Artificer Features]] table. Whenever that number increases, choose additional Artificer spells until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Artificer, your list of prepared spells can include six Artificer spells of levels 1 and 2 in any combination.
 
@@ -288,7 +288,7 @@ This section presents the Artificer spell list. The spells are organized by spel
 
 #### Official
 
-| <div style='width: 8em'>Name</div>                          | School        | Special | Source                   |
+| Name                                                        | School        | Special | Source                   |
 | ----------------------------------------------------------- | ------------- | ------- | ------------------------ |
 | _[[Spells/Cantrips/Acid Splash.md\|Acid Splash]]_           | Evocation     | —       | Player's Handbook (5.5e) |
 | _[[Spells/Cantrips/Dancing Lights.md\|Dancing Lights]]_     | Illusion      | C       | Player's Handbook (5.5e) |
@@ -310,12 +310,12 @@ This section presents the Artificer spell list. The spells are organized by spel
 
 #### Third Party
 
-| <div style='width: 8em'>Name</div> | School | Special | Source | Publisher |
-| ---------------------------------- | ------ | ------- | ------ | --------- |
+| Name | School | Special | Source | Publisher |
+| ---- | ------ | ------- | ------ | --------- |
 
 ### Level 1 Artificer Spells
 
-| <div style='width: 8em'>Name</div>                                          | School        | Special | Source                   |
+| Name                                                                        | School        | Special | Source                   |
 | --------------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
 | _[[Spells/Level 1 Spells/Alarm.md\|Alarm]]_                                 | Abjuration    | R       | Player's Handbook (5.5e) |
 | _[[Spells/Level 1 Spells/Cure Wounds.md\|Cure Wounds]]_                     | Abjuration    | —       | Player's Handbook (5.5e) |
@@ -334,7 +334,7 @@ This section presents the Artificer spell list. The spells are organized by spel
 
 ### Level 2 Artificer Spells
 
-| <div style='width: 8em'>Name</div>                                            | School        | Special | Source                          |
+| Name                                                                          | School        | Special | Source                          |
 | ----------------------------------------------------------------------------- | ------------- | ------- | ------------------------------- |
 | _[[Spells/Level 2 Spells/Aid.md\|Aid]]_                                       | Abjuration    | —       | Player's Handbook (5.5e)        |
 | _[[Spells/Level 2 Spells/Alter Self.md\|Alter Self]]_                         | Transmutation | C       | Player's Handbook (5.5e)        |
@@ -361,7 +361,7 @@ This section presents the Artificer spell list. The spells are organized by spel
 
 ### Level 3 Artificer Spells
 
-| <div style='width: 8em'>Name</div>                                            | School        | Special | Source                   |
+| Name                                                                          | School        | Special | Source                   |
 | ----------------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
 | _[[Spells/Level 3 Spells/Blink.md\|Blink]]_                                   | Transmutation | —       | Player's Handbook (5.5e) |
 | _[[Spells/Level 3 Spells/Create Food and Water.md\|Create Food and Water]]_   | Conjuration   | —       | Player's Handbook (5.5e) |
@@ -377,7 +377,7 @@ This section presents the Artificer spell list. The spells are organized by spel
 
 ### Level 4 Artificer Spells
 
-| <div style='width: 8em'>Name</div>                                                            | School        | Special | Source                   |
+| Name                                                                                          | School        | Special | Source                   |
 | --------------------------------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
 | _[[Spells/Level 4 Spells/Arcane Eye.md\|Arcane Eye]]_                                         | Divination    | C       | Player's Handbook (5.5e) |
 | _[[Spells/Level 4 Spells/Fabricate.md\|Fabricate]]_                                           | Transmutation | —       | Player's Handbook (5.5e) |
@@ -392,7 +392,7 @@ This section presents the Artificer spell list. The spells are organized by spel
 
 ### Level 5 Artificer Spells
 
-| <div style='width: 8em'>Name</div>                                      | School        | Special | Source                   |
+| Name                                                                    | School        | Special | Source                   |
 | ----------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
 | _[[Spells/Level 5 Spells/Animate Objects.md\|Animate Objects]]_         | Transmutation | C       | Player's Handbook (5.5e) |
 | _[[Spells/Level 5 Spells/Bigby's Hand.md\|Bigby's Hand]]_               | Evocation     | C       | Player's Handbook (5.5e) |

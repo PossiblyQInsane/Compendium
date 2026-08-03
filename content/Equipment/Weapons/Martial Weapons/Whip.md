@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T21:09:37.192-04:00
-modified: 2026-08-01T21:12:29.889-04:00
-published: 2026-08-01T21:12:29.889-04:00
+modified: 2026-08-02T23:50:51.602-04:00
+published: 2026-08-02T23:50:51.602-04:00
 Category: Martial Melee Weapons
 Damage: 1d4 Slashing
 Properties: Finesse, Reach
@@ -30,4 +30,4 @@ _Martial Melee Weapon_
 
 **[[Mastery Properties|Mastery]]:**
 
-- [[Slow]]: If you hit a creature with this weapon and deal damage to it, you can reduce its [[Speed]] by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn’t exceed 10 feet.
+- [[Rules/Mastery Properties/Slow|Slow]]: If you hit a creature with this weapon and deal damage to it, you can reduce its [[Speed]] by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn’t exceed 10 feet.

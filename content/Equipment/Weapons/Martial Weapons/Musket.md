@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T21:32:58.934-04:00
-modified: 2026-08-01T21:37:36.659-04:00
-published: 2026-08-01T21:37:36.659-04:00
+modified: 2026-08-02T23:51:49.092-04:00
+published: 2026-08-02T23:51:49.092-04:00
 Category: Martial Ranged Weapons
 Damage: 1d12 Piercing
 Properties: Ammunition (Range 40/120; Bullet), Loading, Two-Handed
@@ -31,4 +31,4 @@ _Martial Ranged Weapon_
 
 **[[Mastery Properties|Mastery]]:**
 
-- [[Slow]]: If you hit a creature with this weapon and deal damage to it, you can reduce its [[Speed]] by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn’t exceed 10 feet.
+- [[Rules/Mastery Properties/Slow|Slow]]: If you hit a creature with this weapon and deal damage to it, you can reduce its [[Speed]] by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn’t exceed 10 feet.

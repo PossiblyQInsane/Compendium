@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:34:20.769-04:00
-modified: 2026-08-01T17:39:53.269-04:00
-published: 2026-08-01T17:39:53.269-04:00
+modified: 2026-08-02T23:51:17.456-04:00
+published: 2026-08-02T23:51:17.456-04:00
 Category: Simple Melee Weapons
 Damage: 1d6 Piercing
 Properties: Thrown (Range 30/120)
@@ -29,4 +29,4 @@ _Simple Melee Weapon_
 
 **[[Mastery Properties|Mastery]]:**
 
-- [[Slow]]: If you hit a creature with this weapon and deal damage to it, you can reduce its [[Speed]] by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn’t exceed 10 feet.
+- [[Rules/Mastery Properties/Slow|Slow]]: If you hit a creature with this weapon and deal damage to it, you can reduce its [[Speed]] by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn’t exceed 10 feet.

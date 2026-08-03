@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T18:27:10.018-04:00
-modified: 2026-08-01T18:31:01.892-04:00
-published: 2026-08-01T18:31:01.892-04:00
+modified: 2026-08-02T23:52:01.388-04:00
+published: 2026-08-02T23:52:01.388-04:00
 Category: Simple Ranged Weapons
 Damage: 1d4 Bludgeoning
 Properties: Ammunition (Range 30/120; Bullet)
@@ -29,4 +29,4 @@ _Simple Ranged Weapon_
 
 **[[Mastery Properties|Mastery]]:**
 
-- [[Slow]]: If you hit a creature with this weapon and deal damage to it, you can reduce its [[Speed]] by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn’t exceed 10 feet.
+- [[Rules/Mastery Properties/Slow|Slow]]: If you hit a creature with this weapon and deal damage to it, you can reduce its [[Speed]] by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn’t exceed 10 feet.
