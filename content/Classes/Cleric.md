@@ -239,8 +239,9 @@ This section presents the Cleric spell list. The spells are organized by spell l
 
 #### Third Party
 
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
+| Name                                                                  | School    | Special | Source           | Publisher              |
+| --------------------------------------------------------------------- | --------- | ------- | ---------------- | ---------------------- |
+| _[[Spells/Level 2 Spells/Third Party/Summer Winds.md\|Summer Winds]]_ | Evocation | —       | The Crooked Moon | Avantris Entertainment |
 
 ### Level 3 Cleric Spells
 
@@ -272,8 +273,10 @@ This section presents the Cleric spell list. The spells are organized by spell l
 
 #### Third Party
 
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
+| Name                                                                          | School     | Special | Source                | Publisher              |
+| ----------------------------------------------------------------------------- | ---------- | ------- | --------------------- | ---------------------- |
+| _[[Spells/Level 3 Spells/Third Party/Doom.md\|Doom]]_                         | Necromancy | C       | Cthulhu by Torchlight | Chaosium               |
+| _[[Spells/Level 3 Spells/Third Party/Harvest Moonglow.md\|Harvest Moonglow]]_ | Evocation  | —       | The Crooked Moon      | Avantris Entertainment |
 
 ### Level 4 Cleric Spells
 
@@ -294,8 +297,9 @@ This section presents the Cleric spell list. The spells are organized by spell l
 
 #### Third Party
 
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
+| Name                                                                                        | School     | Special | Source           | Publisher              |
+| ------------------------------------------------------------------------------------------- | ---------- | ------- | ---------------- | ---------------------- |
+| _[[Spells/Level 4 Spells/Third Party/Sanctum of the Shepherd.md\|Sanctum of the Shepherd]]_ | Abjuration | M       | The Crooked Moon | Avantris Entertainment |
 
 ### Level 5 Cleric Spells
 
@@ -321,8 +325,9 @@ This section presents the Cleric spell list. The spells are organized by spell l
 
 #### Third Party
 
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
+| Name                                                                          | School     | Special | Source           | Publisher              |
+| ----------------------------------------------------------------------------- | ---------- | ------- | ---------------- | ---------------------- |
+| _[[Spells/Level 5 Spells/Third Party/Field of Reaping.md\|Field of Reaping]]_ | Necromancy | C       | The Crooked Moon | Avantris Entertainment |
 
 ### Level 6 Cleric Spells
 
@@ -408,10 +413,25 @@ A Cleric subclass is a specialization that grants you features at certain Cleric
 
 ### Official Cleric Subclasses
 
-| Name | Source |
-| ---- | ------ |
+| Name                                                        | Source                             |
+| ----------------------------------------------------------- | ---------------------------------- |
+| [[Subclasses/Cleric/Grave Domain.md\|Grave Domain]]         | Ravenloft: The Horrors Within      |
+| [[Subclasses/Cleric/Knowledge Domain.md\|Knowledge Domain]] | Forgotten Realms: Heroes of Faerûn |
+| [[Subclasses/Cleric/Life Domain.md\|Life Domain]]           | Player's Handbook (5.5e)           |
+| [[Subclasses/Cleric/Light Domain.md\|Light Domain]]         | Player's Handbook (5.5e)           |
+| [[Subclasses/Cleric/Trickery Domain.md\|Trickery Domain]]   | Player's Handbook (5.5e)           |
+| [[Subclasses/Cleric/War Domain.md\|War Domain]]             | Player's Handbook (5.5e)           |
 
 ### Third Party Cleric Subclasses
 
-| Name | Source | Publisher |
-| ---- | ------ | --------- |
+| Name                                                                          | Source                            | Publisher                       |
+| ----------------------------------------------------------------------------- | --------------------------------- | ------------------------------- |
+| [[Subclasses/Cleric/Third Party/Apocalypse Domain.md\|Apocalypse Domain]]     | Cthulhu by Torchlight             | Chaosium                        |
+| [[Subclasses/Cleric/Third Party/Astral Domain.md\|Astral Domain]]             | The Griffon's Saddlebag: Book One | The Griffon's Saddlebag         |
+| [[Subclasses/Cleric/Third Party/Dragon Domain.md\|Dragon Domain]]             | Valda's Spire of Secrets          | Mage Hand Press                 |
+| [[Subclasses/Cleric/Third Party/Eldritch Domain.md\|Eldritch Domain]]         | Grim Hollow: Player's Guide       | Ghostfire Gaming                |
+| [[Subclasses/Cleric/Third Party/Harvest Domain.md\|Harvest Domain]]           | The Crooked Moon                  | Avantris Entertainment          |
+| [[Subclasses/Cleric/Third Party/Inquisition Domain.md\|Inquisition Domain]]   | Grim Hollow: Player's Guide       | Ghostfire Gaming                |
+| [[Subclasses/Cleric/Third Party/Mind Domain.md\|Mind Domain]]                 | Exploring Eberron                 | Visionary Production and Design |
+| [[Subclasses/Cleric/Third Party/Nornbound.md\|Nornbound]]                     | Northlands Worldbook              | Kobold Press                    |
+| [[Subclasses/Cleric/Third Party/Purification Domain.md\|Purification Domain]] | Grim Hollow: Player's Guide       | Ghostfire Gaming                |

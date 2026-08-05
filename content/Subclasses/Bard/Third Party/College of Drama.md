@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-03T16:20:14.149-04:00
-modified: 2026-08-03T16:27:56.191-04:00
-published: 2026-08-03T16:27:56.191-04:00
+modified: 2026-08-05T01:11:57.938-04:00
+published: 2026-08-05T01:11:57.938-04:00
 Parent Class: "[[Bard]]"
 Source: Cthulhu by Torchlight
 Official: false
 Publisher: Chaosium
 ---
 
-![[Images/College of Drama.jpg]]
+![[Images/College of Drama.jpg|left|343]]
 
 > [!quote|no-t no-i bg-brown]
 > All the world’s a stage,\
