@@ -2619,24 +2619,6 @@ settings:
   content: ", ";
 }
 
-.image {
-  width: var(--active-image-width);
-  height: var(--active-image-height);
-
-  &.pointer {
-    cursor: pointer;
-  }
-
-  img {
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
-    border-radius: 100%;
-    border: var(--active-image-border-size) solid var(--active-image-border-color);
-    object-position: center;
-  }
-}
-
 .block-language-statblock.statblock-plugin-container {
   width: calc(var(--statblock-column-width) + 1em);
   font-size: 80%;
