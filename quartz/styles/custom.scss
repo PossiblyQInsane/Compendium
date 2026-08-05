@@ -10,7 +10,7 @@ a.internal {
   margin-right: 0;
   padding-left: 0;
   padding-right: 0;
-  text-decoration: underline;
+  text-decoration: underline !important;
 }
 
 hr {
@@ -2465,7 +2465,7 @@ settings:
   line-height: var(--active-heading-line-height);
   margin: 0px;
   letter-spacing: 1px;
-  display: block;
+  display: block !important;
   align-items: center;
   padding-bottom: 0.25rem;
   margin-bottom: 0.25rem;
