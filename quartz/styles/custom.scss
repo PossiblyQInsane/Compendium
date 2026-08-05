@@ -2464,14 +2464,12 @@ settings:
   line-height: var(--active-heading-line-height);
   margin: 0px;
   letter-spacing: 1px;
-  display: flex;
   justify-content: space-between;
   align-items: center;
   padding-bottom: 0.25rem;
   margin-bottom: 0.25rem;
   break-inside: avoid-column;
   break-after: avoid-column;
-  width: var(--statblock-column-width);
 }
 
 .flex-container {
