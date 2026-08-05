@@ -2464,7 +2464,7 @@ settings:
   line-height: var(--active-heading-line-height);
   margin: 0px;
   letter-spacing: 1px;
-  justify-content: space-between;
+  display: block;
   align-items: center;
   padding-bottom: 0.25rem;
   margin-bottom: 0.25rem;
@@ -2550,6 +2550,7 @@ settings:
   font-size: var(--active-traits-name-font-size);
   font-weight: var(--active-traits-name-font-weight);
   font-style: var(--active-traits-name-font-style);
+  padding-right: 0;
 }
 
 .trait-name::after {
