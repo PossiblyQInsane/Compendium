@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T16:19:39.504-04:00
-modified: 2026-08-01T11:49:07.985-04:00
-published: 2026-08-01T11:49:07.985-04:00
+modified: 2026-08-06T01:01:03.567-04:00
+published: 2026-08-06T01:01:03.567-04:00
 Source: Player's Handbook (5.5e), Dungeon Master's Guide (5.5e)
 Official: true
 ---
@@ -78,15 +78,15 @@ The Magic Item Tools table lists which tool is required to make a magic item of 
 
 | Item Category | Required Tool                                                                                                                               |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Armor         | [[Leatherworker’s Tools]], [[Smith's Tools]], or [[Weaver’s Tools]] depending on the kind of armor as noted in the tools’ descriptions      |
-| Potion        | [[Alchemist’s Supplies\|Alchemist's Supplies]] or [[Herbalism Kit]]                                                                                               |
-| Ring          | [[Jeweler’s Tools]]                                                                                                                         |
+| Armor         | [[Leatherworker's Tools]], [[Smith's Tools]], or [[Weaver's Tools]] depending on the kind of armor as noted in the tools’ descriptions      |
+| Potion        | [[Alchemist's Supplies]] or [[Herbalism Kit]]                                                                                               |
+| Ring          | [[Jeweler's Tools]]                                                                                                                         |
 | Rod           | [[Woodcarver's Tools]]                                                                                                                      |
 | Scroll        | [[Calligrapher's Supplies]]                                                                                                                 |
 | Staff         | [[Woodcarver's Tools]]                                                                                                                      |
 | Wand          | [[Woodcarver's Tools]]                                                                                                                      |
-| Weapon        | [[Leatherworker’s Tools]], [[Smith's Tools]], or [[Woodcarver's Tools]] depending on the kind of weapon as noted in the tools’ descriptions |
-| Wondrous Item | [[Tinker’s Tools\|Tinker's Tools]] or the tool required to make the nonmagical item on which the magic item is based                                        |
+| Weapon        | [[Leatherworker's Tools]], [[Smith's Tools]], or [[Woodcarver's Tools]] depending on the kind of weapon as noted in the tools’ descriptions |
+| Wondrous Item | [[Tinker's Tools]] or the tool required to make the nonmagical item on which the magic item is based                                        |
 
 #### Spells
 
@@ -115,6 +115,3 @@ If a magic item incorporates an item that has a purchase cost (such as a weapon 
 | Legendary   | 250 days | 100,000 GP |
 
 [^1]: The time and cost are halved for a consumable item other than a _[[Spell Scroll]]_, whose crafting time and cost are given in the [[#Spell Scroll Costs]] table.
-
-![image](https://media.dndbeyond.com/compendium-images/dmg/Bk0e1TBRN0uPvprV/07-004.crafting-magic-items.png)
-_Crafting magic items requires time and research_

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T12:40:20.572-04:00
-modified: 2026-08-02T12:42:15.336-04:00
-published: 2026-08-02T12:42:15.336-04:00
+modified: 2026-08-06T01:13:37.802-04:00
+published: 2026-08-06T01:13:37.802-04:00
 Source: Player's Handbook (5.5e)
 Official: true
 ---
 
-While you have the Stunned [[Condition|condition]], you experience the following effects.
+While you have the Stunned condition, you experience the following effects.
 
 **_Incapacitated._** You have the [[Incapacitated]] condition.
 

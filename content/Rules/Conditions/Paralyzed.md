@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-29T12:19:35.624-04:00
-modified: 2026-08-01T11:42:36.864-04:00
-published: 2026-08-01T11:42:36.864-04:00
+modified: 2026-08-06T01:13:03.404-04:00
+published: 2026-08-06T01:13:03.404-04:00
 Source: Player's Handbook (5.5e)
 Official: true
 ---
 
-While you have the Paralyzed [[Condition|condition]], you experience the following effects.
+While you have the Paralyzed condition, you experience the following effects.
 
 **_Incapacitated._** You have the [[Incapacitated]] condition.
 

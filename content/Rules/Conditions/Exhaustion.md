@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T01:23:25.113-04:00
-modified: 2026-08-01T11:42:13.467-04:00
-published: 2026-08-01T11:42:13.467-04:00
+modified: 2026-08-06T01:12:10.630-04:00
+published: 2026-08-06T01:12:10.630-04:00
 Source: Player's Handbook (5.5e)
 Official: true
 ---
 
-While you have the Exhaustion [[Condition|condition]], you experience the following effects.
+While you have the Exhaustion condition, you experience the following effects.
 
 **_Exhaustion Levels._** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
 

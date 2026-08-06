@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T14:04:00.224-04:00
-modified: 2026-08-02T14:05:25.234-04:00
-published: 2026-08-02T14:05:25.234-04:00
+modified: 2026-08-06T01:12:49.335-04:00
+published: 2026-08-06T01:12:49.335-04:00
 Source: Player's Handbook (5.5e)
 Official: true
 ---
 
-While you have the Invisible [[Condition|condition]], you experience the following effects.
+While you have the Invisible condition, you experience the following effects.
 
 **_Surprise._** If you’re Invisible when you roll [[Initiative]], you have [[Advantage]] on the roll.
 
