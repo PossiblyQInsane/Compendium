@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T11:37:31.505-04:00
-modified: 2026-08-07T00:39:27.517-04:00
-published: 2026-08-07T00:39:27.517-04:00
+modified: 2026-08-07T00:47:44.920-04:00
+published: 2026-08-07T00:47:44.920-04:00
 Creature Type: Undead
 Size: Medium
 Alignment: Chaotic Evil
@@ -21,7 +21,7 @@ Ghouls rise from the bodies of cannibals and villains with depraved hungers. The
 
 ---
 
-### Ghouls
+## Ghouls
 
 _Eaters of the Dead_
 

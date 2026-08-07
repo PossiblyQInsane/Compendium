@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T10:54:13.570-04:00
-modified: 2026-08-07T00:40:11.070-04:00
-published: 2026-08-07T00:40:11.070-04:00
+modified: 2026-08-07T00:48:02.752-04:00
+published: 2026-08-07T00:48:02.752-04:00
 Creature Type: Undead
 Size: Medium
 Alignment: Neutral Evil
@@ -13,7 +13,7 @@ Source: Monster Manual (5.5e)
 Official: true
 ---
 
-![[Images/Zombie.jpeg|right|319]]
+![[Images/Zombie.jpeg|right|304]]
 
 Humanoid zombies usually serve as guardians, servants, or soldiers for evil magic-users. In rare cases, foul magic might result in widespread reanimation of the dead, unleashing hordes of zombies to terrorize the living.
 
@@ -21,7 +21,7 @@ Humanoid zombies usually serve as guardians, servants, or soldiers for evil magi
 
 ---
 
-### Zombies
+## Zombies
 
 _Relentless Reanimated Corpses_
 

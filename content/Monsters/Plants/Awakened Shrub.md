@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T11:16:30.891-04:00
-modified: 2026-08-07T00:38:45.240-04:00
-published: 2026-08-07T00:38:45.240-04:00
+modified: 2026-08-07T00:48:07.225-04:00
+published: 2026-08-07T00:48:07.225-04:00
 Creature Type: Plant
 Size: Small
 Alignment: Neutral
@@ -13,7 +13,7 @@ Source: Monster Manual (5.5e)
 Official: true
 ---
 
-![[Images/Awakened Shrub.png|right|327]]
+![[Images/Awakened Shrub.png|right|303]]
 
 Awakened shrubs can be any sort of small plant, from forest bushes to clustered flowers. They often appear near [[Awakened Tree|awakened trees]] or in regions imbued with primal magic. Some have whimsical appearances or foliage resembling rudimentary facial features, while others look like animate topiary creatures.
 
@@ -21,7 +21,7 @@ Awakened shrubs can be any sort of small plant, from forest bushes to clustered 
 
 ---
 
-### Awakened Plants
+## Awakened Plants
 
 _Vegetation Given Magical Life_
 

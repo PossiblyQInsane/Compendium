@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T11:29:16.894-04:00
-modified: 2026-08-07T00:38:51.643-04:00
-published: 2026-08-07T00:38:51.643-04:00
+modified: 2026-08-07T00:48:12.904-04:00
+published: 2026-08-07T00:48:12.904-04:00
 Creature Type: Plant
 Size: Huge
 Alignment: Neutral
@@ -11,7 +11,7 @@ Habitat: Forest
 Treasure: None
 ---
 
-![[Images/Awakened Tree.jpeg|right|347]]
+![[Images/Awakened Tree.jpeg|right|306]]
 
 Some awakened trees stand in still, meditative states for long periods, making them easy to mistake for normal plants, while others patrol regions of natural power. Awakened trees are sometimes brought to life by influences from the Feywild, which make them colorful and endlessly blooming, or by Shadowfell energy, which covers them with grotesque burls or makes them look lifeless.
 
@@ -19,7 +19,7 @@ Some awakened trees stand in still, meditative states for long periods, making t
 
 ---
 
-### Awakened Plants
+## Awakened Plants
 
 _Vegetation Given Magical Life_
 

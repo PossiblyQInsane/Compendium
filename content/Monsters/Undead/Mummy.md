@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T12:22:38.909-04:00
-modified: 2026-08-07T00:39:45.394-04:00
-published: 2026-08-07T00:39:45.394-04:00
+modified: 2026-08-07T00:47:50.795-04:00
+published: 2026-08-07T00:47:50.795-04:00
 Creature Type: Undead
 Size: Medium or Small
 Alignment: Lawful Evil
@@ -36,7 +36,7 @@ Roll on or choose a result from the Mummy Resurrections table to determine why a
 
 ---
 
-### Mummies
+## Mummies
 
 _Deathless Ancients with Ageless Ambitions_
 

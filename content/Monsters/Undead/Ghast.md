@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T11:50:16.611-04:00
-modified: 2026-08-07T00:39:15.318-04:00
-published: 2026-08-07T00:39:15.318-04:00
+modified: 2026-08-07T00:47:39.904-04:00
+published: 2026-08-07T00:47:39.904-04:00
 Creature Type: Undead
 Size: Medium
 Alignment: Chaotic Evil
@@ -21,7 +21,7 @@ Ghasts frequently organize ghouls into packs to despoil crypts and steal the wea
 
 ---
 
-### Ghasts
+## Ghasts
 
 _Tyrants among Corpses_
 

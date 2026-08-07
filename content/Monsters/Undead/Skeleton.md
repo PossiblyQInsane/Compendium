@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T10:28:25.439-04:00
-modified: 2026-08-07T00:39:54.446-04:00
-published: 2026-08-07T00:39:54.446-04:00
+modified: 2026-08-07T00:47:55.852-04:00
+published: 2026-08-07T00:47:55.852-04:00
 Creature Type: Undead
 Size: Medium
 Alignment: Lawful Evil
@@ -13,7 +13,7 @@ Source: Monster Manual (5.5e)
 Official: true
 ---
 
-![[Images/Skeleton.jpeg|right|401]]
+![[Images/Skeleton.jpeg|right|334]]
 
 Skeletons are reanimated Humanoid bones bearing the equipment they had in life. They have rudimentary faculties and greater agility than [[Zombie|zombies]] and similar shambling corpses. While they aren’t capable of creating plans of their own, they avoid obvious barriers and self-destructive situations.
 
@@ -21,7 +21,7 @@ Skeletons are reanimated Humanoid bones bearing the equipment they had in life. 
 
 ---
 
-### Skeletons
+## Skeletons
 
 _Ossified Evil_
 
