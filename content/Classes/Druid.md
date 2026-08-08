@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T10:07:32.423-04:00
-modified: 2026-08-07T10:35:26.926-04:00
-published: 2026-08-07T10:35:26.926-04:00
+modified: 2026-08-08T00:42:19.492-04:00
+published: 2026-08-08T00:42:19.492-04:00
 Source: Player's Handbook (5.5e)
 Official: true
 ---
@@ -393,13 +393,18 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 #### Official
 
-| Name                                                          | School        | Special | Source                   |
-| ------------------------------------------------------------- | ------------- | ------- | ------------------------ |
-| _[[Spells/Level 6 Spells/Find the Path.md\|Find the Path]]_   | Divination    | C, M    | Player's Handbook (5.5e) |
-| _[[Spells/Level 6 Spells/Flesh to Stone.md\|Flesh to Stone]]_ | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 6 Spells/Heal.md\|Heal]]_                     | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 6 Spells/Heroes' Feast.md\|Heroes' Feast]]_   | Conjuration   | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 6 Spells/Sunbeam.md\|Sunbeam]]_               | Evocation     | C       | Player's Handbook (5.5e) |
+| Name                                                                      | School        | Special | Source                   |
+| ------------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
+| _[[Spells/Level 6 Spells/Conjure Fey.md\|Conjure Fey]]_                   | Conjuration   | C       | Player's Handbook (5.5e) |
+| _[[Spells/Level 6 Spells/Find the Path.md\|Find the Path]]_               | Divination    | C, M    | Player's Handbook (5.5e) |
+| _[[Spells/Level 6 Spells/Flesh to Stone.md\|Flesh to Stone]]_             | Transmutation | C       | Player's Handbook (5.5e) |
+| _[[Spells/Level 6 Spells/Heal.md\|Heal]]_                                 | Abjuration    | —       | Player's Handbook (5.5e) |
+| _[[Spells/Level 6 Spells/Heroes' Feast.md\|Heroes' Feast]]_               | Conjuration   | M       | Player's Handbook (5.5e) |
+| _[[Spells/Level 6 Spells/Move Earth.md\|Move Earth]]_                     | Transmutation | C       | Player's Handbook (5.5e) |
+| _[[Spells/Level 6 Spells/Sunbeam.md\|Sunbeam]]_                           | Evocation     | C       | Player's Handbook (5.5e) |
+| _[[Spells/Level 6 Spells/Transport via Plants.md\|Transport via Plants]]_ | Conjuration   | —       | Player's Handbook (5.5e) |
+| _[[Spells/Level 6 Spells/Wall of Thorns.md\|Wall of Thorns]]_             | Conjuration   | C       | Player's Handbook (5.5e) |
+| _[[Spells/Level 6 Spells/Wind Walk.md\|Wind Walk]]_                       | Transmutation | —       | Player's Handbook (5.5e) |
 
 #### Third Party
 
@@ -410,13 +415,14 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 #### Official
 
-| Name                                                        | School        | Special | Source                   |
-| ----------------------------------------------------------- | ------------- | ------- | ------------------------ |
-| _[[Spells/Level 7 Spells/Fire Storm.md\|Fire Storm]]_       | Evocation     | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 7 Spells/Mirage Arcane.md\|Mirage Arcane]]_ | Illusion      | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 7 Spells/Plane Shift.md\|Plane Shift]]_     | Conjuration   | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 7 Spells/Regenerate.md\|Regenerate]]_       | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 7 Spells/Symbol.md\|Symbol]]_               | Abjuration    | M       | Player's Handbook (5.5e) |
+| Name                                                            | School        | Special | Source                   |
+| --------------------------------------------------------------- | ------------- | ------- | ------------------------ |
+| _[[Spells/Level 7 Spells/Fire Storm.md\|Fire Storm]]_           | Evocation     | —       | Player's Handbook (5.5e) |
+| _[[Spells/Level 7 Spells/Mirage Arcane.md\|Mirage Arcane]]_     | Illusion      | —       | Player's Handbook (5.5e) |
+| _[[Spells/Level 7 Spells/Plane Shift.md\|Plane Shift]]_         | Conjuration   | M       | Player's Handbook (5.5e) |
+| _[[Spells/Level 7 Spells/Regenerate.md\|Regenerate]]_           | Transmutation | —       | Player's Handbook (5.5e) |
+| _[[Spells/Level 7 Spells/Reverse Gravity.md\|Reverse Gravity]]_ | Transmutation | C       | Player's Handbook (5.5e) |
+| _[[Spells/Level 7 Spells/Symbol.md\|Symbol]]_                   | Abjuration    | M       | Player's Handbook (5.5e) |
 
 #### Third Party
 
@@ -429,11 +435,14 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 | Name                                                                  | School        | Special | Source                   |
 | --------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
+| _[[Spells/Level 8 Spells/Animal Shapes.md\|Animal Shapes]]_           | Transmutation | —       | Player's Handbook (5.5e) |
 | _[[Spells/Level 8 Spells/Antipathy-Sympathy.md\|Antipathy/Sympathy]]_ | Enchantment   | —       | Player's Handbook (5.5e) |
 | _[[Spells/Level 8 Spells/Befuddlement.md\|Befuddlement]]_             | Enchantment   | —       | Player's Handbook (5.5e) |
 | _[[Spells/Level 8 Spells/Control Weather.md\|Control Weather]]_       | Transmutation | C       | Player's Handbook (5.5e) |
 | _[[Spells/Level 8 Spells/Earthquake.md\|Earthquake]]_                 | Transmutation | C       | Player's Handbook (5.5e) |
+| _[[Spells/Level 8 Spells/Incendiary Cloud.md\|Incendiary Cloud]]_     | Conjuration   | C       | Player's Handbook (5.5e) |
 | _[[Spells/Level 8 Spells/Sunburst.md\|Sunburst]]_                     | Evocation     | —       | Player's Handbook (5.5e) |
+| _[[Spells/Level 8 Spells/Tsunami.md\|Tsunami]]_                       | Conjuration   | C       | Player's Handbook (5.5e) |
 
 #### Third Party
 
@@ -444,10 +453,12 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 #### Official
 
-| Name                                                                | School     | Special | Source                   |
-| ------------------------------------------------------------------- | ---------- | ------- | ------------------------ |
-| _[[Spells/Level 9 Spells/Foresight.md\|Foresight]]_                 | Divination | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 9 Spells/True Resurrection.md\|True Resurrection]]_ | Necromancy | M       | Player's Handbook (5.5e) |
+| Name                                                                  | School        | Special | Source                   |
+| --------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
+| _[[Spells/Level 9 Spells/Foresight.md\|Foresight]]_                   | Divination    | —       | Player's Handbook (5.5e) |
+| _[[Spells/Level 9 Spells/Shapechange.md\|Shapechange]]_               | Transmutation | C, M    | Player's Handbook (5.5e) |
+| _[[Spells/Level 9 Spells/Storm of Vengeance.md\|Storm of Vengeance]]_ | Conjuration   | C       | Player's Handbook (5.5e) |
+| _[[Spells/Level 9 Spells/True Resurrection.md\|True Resurrection]]_   | Necromancy    | M       | Player's Handbook (5.5e) |
 
 #### Third Party
 
@@ -460,10 +471,14 @@ A Druid subclass is a specialization that grants you features at certain Druid l
 
 ### Official Druid Subclasses
 
-| Name | Source |
-| ---- | ------ |
+| Name                                                             | Source                   |
+| ---------------------------------------------------------------- | ------------------------ |
+| [[Subclasses/Druid/Circle of the Land.md\|Circle of the Land]]   | Player's Handbook (5.5e) |
+| [[Subclasses/Druid/Circle of the Moon.md\|Circle of the Moon]]   | Player's Handbook (5.5e) |
+| [[Subclasses/Druid/Circle of the Sea.md\|Circle of the Sea]]     | Player's Handbook (5.5e) |
+| [[Subclasses/Druid/Circle of the Stars.md\|Circle of the Stars]] | Player's Handbook (5.5e) |
 
-### Third Party Cleric Subclasses
+### Third Party Druid Subclasses
 
 | Name | Source | Publisher |
 | ---- | ------ | --------- |
