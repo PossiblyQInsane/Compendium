@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T10:07:32.423-04:00
-modified: 2026-08-08T00:42:19.492-04:00
-published: 2026-08-08T00:42:19.492-04:00
+modified: 2026-08-09T09:55:18.468-04:00
+published: 2026-08-09T09:55:18.468-04:00
 Source: Player's Handbook (5.5e)
 Official: true
 ---
@@ -256,8 +256,9 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 #### Third Party
 
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
+| Name                                                              | School                      | Special | Source                      | Publisher        |
+| ----------------------------------------------------------------- | --------------------------- | ------- | --------------------------- | ---------------- |
+| _[[Spells/Level 1 Spells/Third Party/Blood Rush.md\|Blood Rush]]_ | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide | Ghostfire Gaming |
 
 ### Level 2 Druid Spells
 
@@ -291,9 +292,10 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 #### Third Party
 
-| Name                                                                  | School    | Special | Source           | Publisher              |
-| --------------------------------------------------------------------- | --------- | ------- | ---------------- | ---------------------- |
-| _[[Spells/Level 2 Spells/Third Party/Summer Winds.md\|Summer Winds]]_ | Evocation | —       | The Crooked Moon | Avantris Entertainment |
+| Name                                                                        | School                   | Special | Source                      | Publisher              |
+| --------------------------------------------------------------------------- | ------------------------ | ------- | --------------------------- | ---------------------- |
+| _[[Spells/Level 2 Spells/Third Party/Sense Lifeblood.md\|Sense Lifeblood]]_ | Divination (Sangromancy) | C       | Grim Hollow: Player's Guide | Ghostfire Gaming       |
+| _[[Spells/Level 2 Spells/Third Party/Summer Winds.md\|Summer Winds]]_       | Evocation                | —       | The Crooked Moon            | Avantris Entertainment |
 
 ### Level 3 Druid Spells
 
@@ -321,11 +323,12 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 #### Third Party
 
-| Name                                                                          | School     | Special | Source                      | Publisher              |
-| ----------------------------------------------------------------------------- | ---------- | ------- | --------------------------- | ---------------------- |
-| _[[Spells/Level 3 Spells/Third Party/Culling Sickle.md\|Culling Sickle]]_     | Necromancy | C       | The Crooked Moon            | Avantris Entertainment |
-| _[[Spells/Level 3 Spells/Third Party/Flash Fever.md\|Flash Fever]]_           | Necromancy | C       | Grim Hollow: Player's Guide | Ghostfire Gaming       |
-| _[[Spells/Level 3 Spells/Third Party/Harvest Moonglow.md\|Harvest Moonglow]]_ | Evocation  | —       | The Crooked Moon            | Avantris Entertainment |
+| Name                                                                          | School                    | Special | Source                      | Publisher              |
+| ----------------------------------------------------------------------------- | ------------------------- | ------- | --------------------------- | ---------------------- |
+| _[[Spells/Level 3 Spells/Third Party/Blood Bond.md\|Blood Bond]]_             | Enchantment (Sangromancy) | —       | Grim Hollow: Player's Guide | Ghostfire Gaming       |
+| _[[Spells/Level 3 Spells/Third Party/Culling Sickle.md\|Culling Sickle]]_     | Necromancy                | C       | The Crooked Moon            | Avantris Entertainment |
+| _[[Spells/Level 3 Spells/Third Party/Flash Fever.md\|Flash Fever]]_           | Necromancy                | C       | Grim Hollow: Player's Guide | Ghostfire Gaming       |
+| _[[Spells/Level 3 Spells/Third Party/Harvest Moonglow.md\|Harvest Moonglow]]_ | Evocation                 | —       | The Crooked Moon            | Avantris Entertainment |
 
 ### Level 4 Druid Spells
 
@@ -480,5 +483,10 @@ A Druid subclass is a specialization that grants you features at certain Druid l
 
 ### Third Party Druid Subclasses
 
-| Name | Source | Publisher |
-| ---- | ------ | --------- |
+| Name                                                                       | Source                                | Publisher        |
+| -------------------------------------------------------------------------- | ------------------------------------- | ---------------- |
+| [[Subclasses/Druid/Third Party/Circle of Blood.md\|Circle of Blood]]       | Grim Hollow: Player's Guide           | Ghostfire Gaming |
+| [[Subclasses/Druid/Third Party/Circle of Cycles.md\|Circle of Cycles]]     | Dr. Dhrolin's Dictionary of Dinosaurs | Palaeo Games     |
+| [[Subclasses/Druid/Third Party/Circle of Entropy.md\|Circle of Entropy]]   | Grim Hollow: Player's Guide           | Ghostfire Gaming |
+| [[Subclasses/Druid/Third Party/Circle of Fenris.md\|Circle of Fenris]]     | Northlands Worldbook                  | Kobold Press     |
+| [[Subclasses/Druid/Third Party/Circle of Mutation.md\|Circle of Mutation]] | Grim Hollow: Player's Guide           | Ghostfire Gaming |

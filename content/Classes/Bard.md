@@ -292,8 +292,9 @@ This section presents the Bard spell list. The spells are organized by spell lev
 
 #### Third Party
 
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
+| Name                                                                        | School                      | Special | Source                      | Publisher        |
+| --------------------------------------------------------------------------- | --------------------------- | ------- | --------------------------- | ---------------- |
+| _[[Spells/Level 3 Spells/Third Party/Sanguine Poppet.md\|Sanguine Poppet]]_ | Transmutation (Sangromancy) | C, M    | Grim Hollow: Player's Guide | Ghostfire Gaming |
 
 ### Level 4 Bard Spells
 
