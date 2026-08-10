@@ -210,8 +210,9 @@ This section presents the Cleric spell list. The spells are organized by spell l
 
 #### Third Party
 
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
+| Name                                                                                | School     | Special | Source           | Publisher              |
+| ----------------------------------------------------------------------------------- | ---------- | ------- | ---------------- | ---------------------- |
+| _[[Spells/Level 1 Spells/Third Party/Ancestral Communion.md\|Ancestral Communion]]_ | Divination | C       | The Crooked Moon | Avantris Entertainment |
 
 ### Level 2 Cleric Spells
 

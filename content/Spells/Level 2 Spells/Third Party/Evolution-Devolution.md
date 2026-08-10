@@ -2,8 +2,9 @@
 publish: true
 title: Evolution/Devolution
 created: 2026-08-09T10:40:50.625-04:00
-modified: 2026-08-09T10:42:37.753-04:00
-published: 2026-08-09T10:42:37.753-04:00
+modified: 2026-08-10T13:40:51.025-04:00
+published: 2026-08-10T13:40:51.025-04:00
+Name: "[[Evolution-Devolution|Evolution/Devolution]]"
 Spell Level: Level 2
 School: Transmutation
 Classes: —

@@ -316,8 +316,9 @@ This section presents the Bard spell list. The spells are organized by spell lev
 
 #### Third Party
 
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
+| Name                                                                        | School                | Special | Source                                  | Publisher |
+| --------------------------------------------------------------------------- | --------------------- | ------- | --------------------------------------- | --------- |
+| _[[Spells/Level 4 Spells/Third Party/Dread Scarecrow.md\|Dread Scarecrow]]_ | Illusion (Osteomancy) | C, M    | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM  |
 
 ### Level 5 Bard Spells
 
@@ -347,8 +348,9 @@ This section presents the Bard spell list. The spells are organized by spell lev
 
 #### Third Party
 
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
+| Name                                                                | School        | Special | Source           | Publisher              |
+| ------------------------------------------------------------------- | ------------- | ------- | ---------------- | ---------------------- |
+| _[[Spells/Level 5 Spells/Third Party/Lucky Charm.md\|Lucky Charm]]_ | Transmutation | C       | The Crooked Moon | Avantris Entertainment |
 
 ### Level 6 Bard Spells
 

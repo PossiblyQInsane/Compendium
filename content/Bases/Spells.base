@@ -24,3 +24,18 @@ views:
         direction: ASC
     columnSize:
       note.Name: 216
+  - type: table
+    name: Osteomancy Spells
+    filters:
+      and:
+        - School.contains("Osteomancy")
+    order:
+      - Spell Level
+      - Name
+      - School
+      - Classes
+      - Special
+      - Source
+    sort:
+      - property: Spell Level
+        direction: ASC

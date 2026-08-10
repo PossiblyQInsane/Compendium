@@ -256,9 +256,10 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 #### Third Party
 
-| Name                                                              | School                      | Special | Source                      | Publisher        |
-| ----------------------------------------------------------------- | --------------------------- | ------- | --------------------------- | ---------------- |
-| _[[Spells/Level 1 Spells/Third Party/Blood Rush.md\|Blood Rush]]_ | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| Name                                                                                | School                      | Special | Source                      | Publisher              |
+| ----------------------------------------------------------------------------------- | --------------------------- | ------- | --------------------------- | ---------------------- |
+| _[[Spells/Level 1 Spells/Third Party/Ancestral Communion.md\|Ancestral Communion]]_ | Divination                  | C       | The Crooked Moon            | Avantris Entertainment |
+| _[[Spells/Level 1 Spells/Third Party/Blood Rush.md\|Blood Rush]]_                   | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide | Ghostfire Gaming       |
 
 ### Level 2 Druid Spells
 
@@ -483,10 +484,17 @@ A Druid subclass is a specialization that grants you features at certain Druid l
 
 ### Third Party Druid Subclasses
 
-| Name                                                                       | Source                                | Publisher        |
-| -------------------------------------------------------------------------- | ------------------------------------- | ---------------- |
-| [[Subclasses/Druid/Third Party/Circle of Blood.md\|Circle of Blood]]       | Grim Hollow: Player's Guide           | Ghostfire Gaming |
-| [[Subclasses/Druid/Third Party/Circle of Cycles.md\|Circle of Cycles]]     | Dr. Dhrolin's Dictionary of Dinosaurs | Palaeo Games     |
-| [[Subclasses/Druid/Third Party/Circle of Entropy.md\|Circle of Entropy]]   | Grim Hollow: Player's Guide           | Ghostfire Gaming |
-| [[Subclasses/Druid/Third Party/Circle of Fenris.md\|Circle of Fenris]]     | Northlands Worldbook                  | Kobold Press     |
-| [[Subclasses/Druid/Third Party/Circle of Mutation.md\|Circle of Mutation]] | Grim Hollow: Player's Guide           | Ghostfire Gaming |
+| Name                                                                               | Source                                  | Publisher                       |
+| ---------------------------------------------------------------------------------- | --------------------------------------- | ------------------------------- |
+| [[Subclasses/Druid/Third Party/Circle of Blood.md\|Circle of Blood]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| [[Subclasses/Druid/Third Party/Circle of Cycles.md\|Circle of Cycles]]             | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games                    |
+| [[Subclasses/Druid/Third Party/Circle of Entropy.md\|Circle of Entropy]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| [[Subclasses/Druid/Third Party/Circle of Fenris.md\|Circle of Fenris]]             | Northlands Worldbook                    | Kobold Press                    |
+| [[Subclasses/Druid/Third Party/Circle of Mutation.md\|Circle of Mutation]]         | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| [[Subclasses/Druid/Third Party/Circle of Symbiosis.md\|Circle of Symbiosis]]       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
+| [[Subclasses/Druid/Third Party/Circle of the City.md\|Circle of the City]]         | Valda's Spire of Secrets                | Mage Hand Press                 |
+| [[Subclasses/Druid/Third Party/Circle of the Forged.md\|Circle of the Forged]]     | Exploring Eberron                       | Visionary Production and Design |
+| [[Subclasses/Druid/Third Party/Circle of the Old Ways.md\|Circle of the Old Ways]] | The Crooked Moon                        | Avantris Entertainment          |
+| [[Subclasses/Druid/Third Party/Circle of the Symbiote.md\|Circle of the Symbiote]] | Cthulhu by Torchlight                   | Chaosium                        |
+| [[Subclasses/Druid/Third Party/Circle of Wicker.md\|Circle of Wicker]]             | The Crooked Moon                        | Avantris Entertainment          |
+| [[Subclasses/Druid/Third Party/The Unbroken Circle.md\|The Unbroken Circle]]       | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag         |
