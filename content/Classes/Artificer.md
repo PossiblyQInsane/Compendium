@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-08-02T19:39:38.413-04:00
-published: 2026-08-02T19:39:38.413-04:00
+modified: 2026-08-11T11:04:28.256-04:00
+published: 2026-08-11T11:04:28.256-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 ---
@@ -146,24 +146,26 @@ _**Spellcasting Focus.**_ You can use any Wand or Weapon created by this feature
 
 ##### Magic Item Plans (Artificer Level 2+)
 
-| <div style="width: 31em">Magic Item Plan</div>                 | Attunement |
-| :------------------------------------------------------------- | :--------: |
-| _[[Alchemy Jug]]_                                              |     No     |
-| _[[Bag of Holding]]_                                           |     No     |
-| _[[Cap of Water Breathing]]_                                   |     No     |
-| Common magic item that isn’t a Potion, a Scroll, or cursed[^1] |   Varies   |
-| _[[Goggles of Night]]_                                         |     No     |
-| _[[Manifold Tool]]_                                            |    Yes     |
-| _[[Repeating Shot]]_                                           |    Yes     |
-| _[[Returning Weapon]]_                                         |     No     |
-| _[[Rope of Climbing]]_                                         |     No     |
-| _[[Sending Stones]]_                                           |     No     |
-| _[[Shield, +1, +2, or +3\|Shield, +1]]_                        |     No     |
-| _[[Wand of Magic Detection]]_                                  |     No     |
-| _[[Wand of Secrets]]_                                          |     No     |
-| _[[Wand of the War Mage\|Wand of the War Mage, +1]]_           |    Yes     |
-| _[[Weapon, +1, +2, or +3\|Weapon, +1]]_                        |     No     |
-| _[[Wraps of Unarmed Power\|Wraps of Unarmed Power, +1]]_       |     No     |
+| <div style="width: 31em">Magic Item Plan</div>              | Attunement |     |
+| :---------------------------------------------------------- | :--------: | --- |
+| _[[Alchemy Jug]]_                                           |     No     |     |
+| _[[Bag of Holding]]_                                        |     No     |     |
+| _[[Cap of Water Breathing]]_                                |     No     |     |
+| Common magic item that isn’t a Potion, a Scroll, or cursed\* |   Varies   |     |
+| _[[Goggles of Night]]_                                      |     No     |     |
+| _[[Manifold Tool]]_                                         |    Yes     |     |
+| _[[Repeating Shot]]_                                        |    Yes     |     |
+| _[[Returning Weapon]]_                                      |     No     |     |
+| _[[Rope of Climbing]]_                                      |     No     |     |
+| _[[Sending Stones]]_                                        |     No     |     |
+| _[[Shield, +1, +2, or +3\|Shield, +1]]_                     |     No     |     |
+| _[[Wand of Magic Detection]]_                               |     No     |     |
+| _[[Wand of Secrets]]_                                       |     No     |     |
+| _[[Wand of the War Mage\|Wand of the War Mage, +1]]_        |    Yes     |     |
+| _[[Weapon, +1, +2, or +3\|Weapon, +1]]_                     |     No     |     |
+| _[[Wraps of Unarmed Power\|Wraps of Unarmed Power, +1]]_    |     No     |     |
+
+<div style="margin-top: 0; font-style: italic; font-size: 70%">*You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan.</div>
 
 ##### Magic Item Plans (Artificer Level 6+)
 
@@ -203,10 +205,12 @@ _**Spellcasting Focus.**_ You can use any Wand or Weapon created by this feature
 | _[[Ring of Jumping]]_                                    |    Yes     |
 | _[[Ring of Mind Shielding]]_                             |    Yes     |
 | _[[Shield, +1, +2, or +3\|Shield, +2]]_                  |     No     |
-| Uncommon Wondrous Item that isn’t cursed[^1]             |   Varies   |
+| Uncommon Wondrous Item that isn’t cursed\*                |   Varies   |
 | _[[Wand of the War Mage\|Wand of the War Mage, +2]]_     |    Yes     |
 | _[[Weapon, +1, +2, or +3\|Weapon, +2]]_                  |     No     |
 | _[[Wraps of Unarmed Power\|Wraps of Unarmed Power, +2]]_ |     No     |
+
+<div style="margin-top: 0; font-style: italic; font-size: 70%">*You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan.</div>
 
 ##### Magic Item Plans (Artificer Level 14+)
 
@@ -215,10 +219,12 @@ _**Spellcasting Focus.**_ You can use any Wand or Weapon created by this feature
 | _[[Armor, +1, +2, or +3\|Armor, +2]]_          |     No     |
 | _[[Arrow-Catching Shield]]_                    |    Yes     |
 | _[[Flame Tongue]]_                             |    Yes     |
-| Rare Wondrous Item that isn’t cursed[^1]       |     No     |
+| Rare Wondrous Item that isn’t cursed\*          |     No     |
 | _[[Ring of Free Action]]_                      |    Yes     |
 | _[[Ring of Protection]]_                       |    Yes     |
 | _[[Ring of the Ram]]_                          |    Yes     |
+
+<div style="margin-top: 0; font-style: italic; font-size: 70%">*You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan.</div>
 
 ### Level 3: Artificer Subclass
 
@@ -422,7 +428,3 @@ An Artificer subclass is a specialization that grants you features at certain Ar
 | ---------------------------------------------------------------- | ----------------- | ------------------------------- |
 | [[Subclasses/Artificer/Third Party/Forge Adept.md\|Forge Adept]] | Exploring Eberron | Visionary Production and Design |
 | [[Subclasses/Artificer/Third Party/Maverick.md\|Maverick]]       | Exploring Eberron | Visionary Production and Design |
-
----
-
-[^1]: You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan.

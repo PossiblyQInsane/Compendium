@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T10:15:16.942-04:00
-modified: 2026-08-04T10:24:00.613-04:00
-published: 2026-08-04T10:24:00.613-04:00
+modified: 2026-08-11T11:02:03.868-04:00
+published: 2026-08-11T11:02:03.868-04:00
 Parent Class: "[[Cleric]]"
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true
@@ -33,8 +33,10 @@ When you reach a Cleric level specified in the Knowledge Domain Spells table, yo
 |    **7**     | _[[Arcane Eye]]_\*, _[[Banishment]]_, _[[Confusion]]_                                                                            |
 |    **9**     | _[[Legend Lore]]_\*, _[[Scrying]]_\*, _[[Synaptic Static]]_                                                                      |
 
-<div style="margin-top: 0"><sup>*Spell of the Divination school</sup></div>
+<div style="margin-top: 0; font-style: italic; font-size: 70%">*Spell of the Divination school</div>
+
 ### Level 3: Mind Magic
+
 As a [[Magic]] action, you can expend one use of your Channel Divinity to manifest your magical knowledge. Choose one spell from the Divination school on the Knowledge Domain Spells table that you have prepared. As part of that action, you cast that spell without expending a spell slot or needing Material components.
 
 ### Level 6: Unfettered Mind
