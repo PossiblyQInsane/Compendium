@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T16:19:39.504-04:00
-modified: 2026-08-11T11:09:12.421-04:00
-published: 2026-08-11T11:09:12.421-04:00
+modified: 2026-08-11T11:15:53.425-04:00
+published: 2026-08-11T11:15:53.425-04:00
 Source: Player's Handbook (5.5e), Dungeon Master's Guide (5.5e)
 Official: true
 ---
@@ -114,4 +114,4 @@ If a magic item incorporates an item that has a purchase cost (such as a weapon 
 | Very Rare   | 125 days | 20,000 GP  |
 | Legendary   | 250 days | 100,000 GP |
 
-<div style="margin-top: 0; font-style: italic; font-size: 70%">*The time and cost are halved for a consumable item other than a [[Spell Scroll]], whose crafting time and cost are given in the Spell Scroll Costs table.</div>
+<div style="margin-top: 0; font-style: italic; font-size: 70%">*The time and cost are halved for a consumable item other than a Spell Scroll, whose crafting time and cost are given in the Spell Scroll Costs table.</div>
