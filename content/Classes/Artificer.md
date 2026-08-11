@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-08-11T11:04:28.256-04:00
-published: 2026-08-11T11:04:28.256-04:00
+modified: 2026-08-11T11:18:16.794-04:00
+published: 2026-08-11T11:18:16.794-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 ---
@@ -165,7 +165,7 @@ _**Spellcasting Focus.**_ You can use any Wand or Weapon created by this feature
 | _[[Weapon, +1, +2, or +3\|Weapon, +1]]_                     |     No     |     |
 | _[[Wraps of Unarmed Power\|Wraps of Unarmed Power, +1]]_    |     No     |     |
 
-<div style="margin-top: 0; font-style: italic; font-size: 70%">*You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan.</div>
+<div style="margin-top: 0.1rem; font-style: italic; font-size: 70%">*You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan.</div>
 
 ##### Magic Item Plans (Artificer Level 6+)
 
@@ -210,7 +210,7 @@ _**Spellcasting Focus.**_ You can use any Wand or Weapon created by this feature
 | _[[Weapon, +1, +2, or +3\|Weapon, +2]]_                  |     No     |
 | _[[Wraps of Unarmed Power\|Wraps of Unarmed Power, +2]]_ |     No     |
 
-<div style="margin-top: 0; font-style: italic; font-size: 70%">*You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan.</div>
+<div style="margin-top: 0.1rem; font-style: italic; font-size: 70%">*You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan.</div>
 
 ##### Magic Item Plans (Artificer Level 14+)
 
@@ -224,7 +224,7 @@ _**Spellcasting Focus.**_ You can use any Wand or Weapon created by this feature
 | _[[Ring of Protection]]_                       |    Yes     |
 | _[[Ring of the Ram]]_                          |    Yes     |
 
-<div style="margin-top: 0; font-style: italic; font-size: 70%">*You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan.</div>
+<div style="margin-top: 0.1rem; font-style: italic; font-size: 70%">*You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan.</div>
 
 ### Level 3: Artificer Subclass
 
