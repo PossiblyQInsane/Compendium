@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T10:07:32.423-04:00
-modified: 2026-08-09T09:55:18.468-04:00
-published: 2026-08-09T09:55:18.468-04:00
+modified: 2026-08-11T13:21:54.127-04:00
+published: 2026-08-11T13:21:54.127-04:00
 Source: Player's Handbook (5.5e)
 Official: true
 ---
@@ -188,13 +188,13 @@ While using Wild Shape, you can cast spells in Beast form, except for any spell 
 
 ### Level 19: Epic Boon
 
-You gain an [[Feats.base#Epic Boon Feats|Epic Boon feat]] or another [[Feats.base|feat ]]of your choice for which you qualify. [[Boon of Dimensional Travel]] is recommended.
+You gain an [[Feats.base#Epic Boon Feats|Epic Boon feat]] or another [[Feats.base|feat]] of your choice for which you qualify. [[Boon of Dimensional Travel]] is recommended.
 
 ### Level 20: Archdruid
 
 The vitality of nature constantly blooms within you, granting you the following benefits.
 
-_**Evergreen Wild Shape.**_ Whenever you roll[[Initiative]] and have no uses of Wild Shape left, you regain one expended use of it.
+_**Evergreen Wild Shape.**_ Whenever you roll [[Initiative]] and have no uses of Wild Shape left, you regain one expended use of it.
 
 _**Nature Magician.**_ You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can’t do so again until you finish a [[Long Rest]].
 
