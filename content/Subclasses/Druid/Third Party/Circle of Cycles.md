@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-09T10:27:29.080-04:00
-modified: 2026-08-09T10:40:29.780-04:00
-published: 2026-08-09T10:40:29.780-04:00
+modified: 2026-08-12T01:33:10.631-04:00
+published: 2026-08-12T01:33:10.631-04:00
 Parent Class: "[[Druid]]"
 Source: Dr. Dhrolin's Dictionary of Dinosaurs
 Official: false
@@ -68,9 +68,9 @@ You have [[Advantage]] on Dexterity Saving Throws. When an ally that you can see
 
 You gain better control over how you manipulate a creature’s evolution. You can push or pull parts of their body through time, rapidly evolving or devolving them, sometimes painfully so.
 
-Your spell _[[Evolution/Devolution]]_ gains a range of 30 ft. and a casting time of one Bonus Action. If you choose a harmful Devolution effect, it also deals 1d8 + your Wisdom modifier as Necrotic damage on a failed save, or half as much on a successful save.
+Your spell _[[Evolution-Devolution|Evolution/Devolution]]_ gains a range of 30 ft. and a casting time of one Bonus Action. If you choose a harmful Devolution effect, it also deals 1d8 + your Wisdom modifier as Necrotic damage on a failed save, or half as much on a successful save.
 
-Additionally, you can cast the spell _[[Evolution/Devolution]]_ at 2nd level without expending a spell slot. You may do this once, then must complete a [[Long Rest]] before you can do so again.
+Additionally, you can cast the spell _[[Evolution-Devolution|Evolution/Devolution]]_ at 2nd level without expending a spell slot. You may do this once, then must complete a [[Long Rest]] before you can do so again.
 
 ### Level 6: Deep Hibernation
 
@@ -106,7 +106,7 @@ As an Action, you may enact one of the following events, then must complete a [[
 
 ### Level 14: Guided Evolution
 
-When casting _[[Evolution/Devolution]]_, you may [[Concentration|Concentrate]] on that spell for 10 minutes. If you do, the changes become permanent until _Evolution/Devolution_ is cast on this creature again or until that creature completes a [[Long Rest]].
+When casting _[[Evolution-Devolution|Evolution/Devolution]]_, you may [[Concentration|Concentrate]] on that spell for 10 minutes. If you do, the changes become permanent until _Evolution/Devolution_ is cast on this creature again or until that creature completes a [[Long Rest]].
 
 ### Level 17: Future Sight
 
