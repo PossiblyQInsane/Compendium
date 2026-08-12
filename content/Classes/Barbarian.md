@@ -201,14 +201,15 @@ A Barbarian subclass is a specialization that grants you features at certain Bar
 
 ### Third Party Barbarian Subclasses
 
-| Name                                                                                               | Source                                  | Publisher               |
-| -------------------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------- |
-| [[Subclasses/Barbarian/Third Party/Path of the Experiment.md\|Path of the Experiment]]             | The Crooked Moon                        | Avantris Entertainment  |
-| [[Subclasses/Barbarian/Third Party/Path of the Fractured.md\|Path of the Fractured]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming        |
-| [[Subclasses/Barbarian/Third Party/Path of the Glacier.md\|Path of the Glacier]]                   | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag |
-| [[Subclasses/Barbarian/Third Party/Path of the Lightning Vessel.md\|Path of the Lightning Vessel]] | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                |
-| [[Subclasses/Barbarian/Third Party/Path of the Muscle Wizard.md\|Path of the Muscle Wizard]]       | Valda's Spire of Secrets                | Mage Hand Press         |
-| [[Subclasses/Barbarian/Third Party/Path of the Primal Spirit.md\|Path of the Primal Spirit]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming        |
-| [[Subclasses/Barbarian/Third Party/Path of the Spell Scorned.md\|Path of the Spell Scorned]]       | Cthulhu by Torchlight                   | Chaosium                |
-| [[Subclasses/Barbarian/Third Party/Path of the Titan.md\|Path of the Titan]]                       | Northlands Worldbook                    | Kobold Press            |
-| [[Subclasses/Barbarian/Third Party/Path of the Wrathful Dead.md\|Path of the Wrathful Dead]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming        |
+| Name                                                                                               | Source                                  | Publisher                       |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------- | ------------------------------- |
+| [[Subclasses/Barbarian/Third Party/Path of the Demonshard.md\|Path of the Demonshard]]             | Frontiers of Eberron: Quickstone        | Visionary Production and Design |
+| [[Subclasses/Barbarian/Third Party/Path of the Experiment.md\|Path of the Experiment]]             | The Crooked Moon                        | Avantris Entertainment          |
+| [[Subclasses/Barbarian/Third Party/Path of the Fractured.md\|Path of the Fractured]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| [[Subclasses/Barbarian/Third Party/Path of the Glacier.md\|Path of the Glacier]]                   | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag         |
+| [[Subclasses/Barbarian/Third Party/Path of the Lightning Vessel.md\|Path of the Lightning Vessel]] | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
+| [[Subclasses/Barbarian/Third Party/Path of the Muscle Wizard.md\|Path of the Muscle Wizard]]       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| [[Subclasses/Barbarian/Third Party/Path of the Primal Spirit.md\|Path of the Primal Spirit]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| [[Subclasses/Barbarian/Third Party/Path of the Spell Scorned.md\|Path of the Spell Scorned]]       | Cthulhu by Torchlight                   | Chaosium                        |
+| [[Subclasses/Barbarian/Third Party/Path of the Titan.md\|Path of the Titan]]                       | Northlands Worldbook                    | Kobold Press                    |
+| [[Subclasses/Barbarian/Third Party/Path of the Wrathful Dead.md\|Path of the Wrathful Dead]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |

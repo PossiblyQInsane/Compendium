@@ -147,10 +147,13 @@ A Fighter subclass is a specialization that grants you features at certain Fight
 
 ### Official Fighter Subclasses
 
-| Name                                                   | Source                   |
-| ------------------------------------------------------ | ------------------------ |
-| [[Subclasses/Fighter/Battle Master.md\|Battle Master]] | Player's Handbook (5.5e) |
-| [[Subclasses/Fighter/Champion.md\|Champion]]           | Player's Handbook (5.5e) |
+| Name                                                       | Source                             |
+| ---------------------------------------------------------- | ---------------------------------- |
+| [[Subclasses/Fighter/Banneret.md\|Banneret]]               | Forgotten Realms: Heroes of Faerûn |
+| [[Subclasses/Fighter/Battle Master.md\|Battle Master]]     | Player's Handbook (5.5e)           |
+| [[Subclasses/Fighter/Champion.md\|Champion]]               | Player's Handbook (5.5e)           |
+| [[Subclasses/Fighter/Eldritch Knight.md\|Eldritch Knight]] | Player's Handbook (5.5e)           |
+| [[Subclasses/Fighter/Psi Warrior.md\|Psi Warrior]]         | Player's Handbook (5.5e)           |
 
 ### Third Party Fighter Subclasses
 

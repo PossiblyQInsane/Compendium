@@ -457,5 +457,6 @@ A Bard subclass is a specialization that grants you features at certain Bard lev
 | [[Subclasses/Bard/Third Party/College of Masks.md\|College of Masks]]                       | Valda's Spire of Secrets          | Mage Hand Press                 |
 | [[Subclasses/Bard/Third Party/College of Requiems.md\|College of Requiems]]                 | Grim Hollow: Player's Guide       | Ghostfire Gaming                |
 | [[Subclasses/Bard/Third Party/College of the Dirge Singer.md\|College of the Dirge Singer]] | Exploring Eberron                 | Visionary Production and Design |
+| [[Subclasses/Bard/Third Party/College of Wands.md\|College of Wands]]                       | Frontiers of Eberron: Quickstone  | Visionary Production and Design |
 | [[Subclasses/Bard/Third Party/College of Whistles.md\|College of Whistles]]                 | The Crooked Moon                  | Avantris Entertainment          |
 | [[Subclasses/Bard/Third Party/Skald.md\|Skald]]                                             | Northlands Worldbook              | Kobold Press                    |

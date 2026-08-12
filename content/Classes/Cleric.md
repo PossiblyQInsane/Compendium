@@ -429,6 +429,7 @@ A Cleric subclass is a specialization that grants you features at certain Cleric
 | ----------------------------------------------------------------------------- | --------------------------------- | ------------------------------- |
 | [[Subclasses/Cleric/Third Party/Apocalypse Domain.md\|Apocalypse Domain]]     | Cthulhu by Torchlight             | Chaosium                        |
 | [[Subclasses/Cleric/Third Party/Astral Domain.md\|Astral Domain]]             | The Griffon's Saddlebag: Book One | The Griffon's Saddlebag         |
+| [[Subclasses/Cleric/Third Party/Commerce Domain.md\|Commerce Domain]]         | Frontiers of Eberron: Quickstone  | Visionary Production and Design |
 | [[Subclasses/Cleric/Third Party/Dragon Domain.md\|Dragon Domain]]             | Valda's Spire of Secrets          | Mage Hand Press                 |
 | [[Subclasses/Cleric/Third Party/Eldritch Domain.md\|Eldritch Domain]]         | Grim Hollow: Player's Guide       | Ghostfire Gaming                |
 | [[Subclasses/Cleric/Third Party/Harvest Domain.md\|Harvest Domain]]           | The Crooked Moon                  | Avantris Entertainment          |
