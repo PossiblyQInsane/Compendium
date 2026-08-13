@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-12T01:02:39.697-04:00
-modified: 2026-08-12T01:10:50.073-04:00
-published: 2026-08-12T01:10:50.073-04:00
+modified: 2026-08-13T00:38:12.479-04:00
+published: 2026-08-13T00:38:12.479-04:00
 Parent Class: "[[Fighter]]"
 Source: Player's Handbook (5.5e)
 Official: true
@@ -26,30 +26,165 @@ _**Spell Slots.**_ The Eldritch Knight Spellcasting table shows how many spell s
 
 ##### Eldritch Knight Spellcasting
 
-<div align="right" style="font-size: 80%">
-—Spell Slots per Spell Level—
-</div>
-
-| Fighter Level | Prepared Spells |  1  |  2  |  3  |  4  |
-| :-----------: | :-------------: | :-: | :-: | :-: | :-: |
-|       3       |        3        |  2  |  —  |  —  |  —  |
-|       4       |        4        |  3  |  —  |  —  |  —  |
-|       5       |        4        |  3  |  —  |  —  |  —  |
-|       6       |        4        |  3  |  —  |  —  |  —  |
-|       7       |        5        |  4  |  2  |  —  |  —  |
-|       8       |        6        |  4  |  2  |  —  |  —  |
-|       9       |        6        |  4  |  2  |  —  |  —  |
-|      10       |        7        |  4  |  3  |  —  |  —  |
-|      11       |        8        |  4  |  3  |  —  |  —  |
-|      12       |        8        |  4  |  3  |  —  |  —  |
-|      13       |        9        |  4  |  3  |  2  |  —  |
-|      14       |       10        |  4  |  3  |  2  |  —  |
-|      15       |       10        |  4  |  3  |  2  |  —  |
-|      16       |       11        |  4  |  3  |  3  |  —  |
-|      17       |       11        |  4  |  3  |  3  |  —  |
-|      18       |       11        |  4  |  3  |  3  |  —  |
-|      19       |       12        |  4  |  3  |  3  |  1  |
-|      20       |       13        |  4  |  3  |  3  |  1  |
+<table>
+  <tbody>
+    <tr>
+      <th rowspan="2" data-better-raw="Fighter Level" style="text-align: center">Fighter Level</th>
+      <th rowspan="2" data-better-raw="Prepared Spells" style="text-align: center">Prepared Spells</th>
+      <th colspan="4" data-better-raw="—Spell Slots per Spell Level—" style="text-align: center">—Spell Slots per Spell Level—</th>
+    </tr>
+    <tr>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <th data-better-raw="2" style="text-align: center">2</th>
+      <th data-better-raw="3" style="text-align: center">3</th>
+      <th data-better-raw="4" style="text-align: center">4</th>
+    </tr>
+    <tr>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="8" style="text-align: center">8</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="9" style="text-align: center">9</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="10" style="text-align: center">10</td>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="11" style="text-align: center">11</td>
+      <td data-better-raw="8" style="text-align: center">8</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="12" style="text-align: center">12</td>
+      <td data-better-raw="8" style="text-align: center">8</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="13" style="text-align: center">13</td>
+      <td data-better-raw="9" style="text-align: center">9</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="14" style="text-align: center">14</td>
+      <td data-better-raw="10" style="text-align: center">10</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="15" style="text-align: center">15</td>
+      <td data-better-raw="10" style="text-align: center">10</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="16" style="text-align: center">16</td>
+      <td data-better-raw="11" style="text-align: center">11</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="17" style="text-align: center">17</td>
+      <td data-better-raw="11" style="text-align: center">11</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="18" style="text-align: center">18</td>
+      <td data-better-raw="11" style="text-align: center">11</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="19" style="text-align: center">19</td>
+      <td data-better-raw="12" style="text-align: center">12</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td data-better-raw="20" style="text-align: center">20</td>
+      <td data-better-raw="13" style="text-align: center">13</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+    </tr>
+  </tbody>
+</table>
 
 _**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the [[Wizard#Wizard Spell List|Wizard spell list]]. _[[Burning Hands]]_, _[[Jump]]_, and _[[Shield (Spell)|Shield]]_ are recommended.
 

@@ -157,5 +157,11 @@ A Fighter subclass is a specialization that grants you features at certain Fight
 
 ### Third Party Fighter Subclasses
 
-| Name | Source | Publisher |
-| ---- | ------ | --------- |
+| Name                                                                   | Source                                  | Publisher              |
+| ---------------------------------------------------------------------- | --------------------------------------- | ---------------------- |
+| [[Subclasses/Fighter/Third Party/Barrow Guard.md\|Barrow Guard]]       | The Crooked Moon                        | Avantris Entertainment |
+| [[Subclasses/Fighter/Third Party/Blood Hound.md\|Blood Hound]]         | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
+| [[Subclasses/Fighter/Third Party/Bonesmith.md\|Bonesmith]]             | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games           |
+| [[Subclasses/Fighter/Third Party/Bulwark Warrior.md\|Bulwark Warrior]] | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| [[Subclasses/Fighter/Third Party/Living Crucible.md\|Living Crucible]] | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| [[Subclasses/Fighter/Third Party/Nightwatcher.md\|Nightwatcher]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
