@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-07-30T09:57:16.518-04:00
-modified: 2026-08-01T02:33:33.809-04:00
-published: 2026-08-01T02:33:33.809-04:00
+modified: 2026-08-14T01:26:27.350-04:00
+published: 2026-08-14T01:26:27.350-04:00
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"
 Official: true
+Edition: 5.5e
 ---
 
 ![[Images/Cartographer.png|left|360]]

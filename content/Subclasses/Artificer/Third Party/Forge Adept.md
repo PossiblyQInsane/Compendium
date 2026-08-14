@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-01T12:55:23.389-04:00
-modified: 2026-08-01T13:24:36.355-04:00
-published: 2026-08-01T13:24:36.355-04:00
+modified: 2026-08-14T01:26:53.798-04:00
+published: 2026-08-14T01:26:53.798-04:00
 Parent Class: "[[Artificer]]"
 Source: Exploring Eberron
 Official: false
 Publisher: Visionary Production and Design
+Edition: 5.5e
 ---
 
 ![[Images/Forge Adept.png|left|325]]
