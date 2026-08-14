@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-08-14T01:25:04.364-04:00
-published: 2026-08-14T01:25:04.364-04:00
+modified: 2026-08-14T03:00:02.940-04:00
+published: 2026-08-14T03:00:02.940-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 Edition: 5.5e
@@ -47,303 +47,303 @@ As an Artificer, you gain the following class features when you reach the specif
 
 <table>
   <tbody>
-‌    <tr>
-‌      <th rowspan="2" data-better-raw="Level" style="text-align: center">Level</th>
-‌      <th rowspan="2" data-better-raw="Proficiency Bonus" style="text-align: center">Proficiency Bonus</th>
-‌      <th rowspan="2" data-better-raw="Class Features">Class Features</th>
-‌      <th rowspan="2" data-better-raw="Plans Known" style="text-align: center">Plans Known</th>
-‌      <th rowspan="2" data-better-raw="Magic Items" style="text-align: center">Magic Items</th>
-‌      <th rowspan="2" data-better-raw="Cantrips" style="text-align: center">Cantrips</th>
-‌      <th rowspan="2" data-better-raw="Prepared Spells" style="text-align: center">Prepared Spells</th>
-‌      <th colspan="5" data-better-raw="—Spell Slots per Spell Level—" style="text-align: center">—Spell Slots per Spell Level—</th>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="1" style="text-align: center">1</td>
-‌      <th data-better-raw="2" style="text-align: center">2</th>
-‌      <th data-better-raw="3" style="text-align: center">3</th>
-‌      <th data-better-raw="4" style="text-align: center">4</th>
-‌      <th data-better-raw="5" style="text-align: center">5</th>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="1" style="text-align: center">1</td>
-‌      <td data-better-raw="+2" style="text-align: center">+2</td>
-‌      <td data-better-raw="Spellcasting, Tinker's Magic">Spellcasting, Tinker's Magic</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="+2" style="text-align: center">+2</td>
-‌      <td data-better-raw="Replicate Magic Item">Replicate Magic Item</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="+2" style="text-align: center">+2</td>
-‌      <td data-better-raw="Artificer Subclass">Artificer Subclass</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="+2" style="text-align: center">+2</td>
-‌      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="5" style="text-align: center">5</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="5" style="text-align: center">5</td>
-‌      <td data-better-raw="+3" style="text-align: center">+3</td>
-‌      <td data-better-raw="Subclass feature">Subclass feature</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="6" style="text-align: center">6</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="6" style="text-align: center">6</td>
-‌      <td data-better-raw="+3" style="text-align: center">+3</td>
-‌      <td data-better-raw="Magic Item Tinker">Magic Item Tinker</td>
-‌      <td data-better-raw="5" style="text-align: center">5</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="6" style="text-align: center">6</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="7" style="text-align: center">7</td>
-‌      <td data-better-raw="+3" style="text-align: center">+3</td>
-‌      <td data-better-raw="Flash of Genius">Flash of Genius</td>
-‌      <td data-better-raw="5" style="text-align: center">5</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="7" style="text-align: center">7</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="8" style="text-align: center">8</td>
-‌      <td data-better-raw="+3" style="text-align: center">+3</td>
-‌      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
-‌      <td data-better-raw="5" style="text-align: center">5</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="7" style="text-align: center">7</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="9" style="text-align: center">9</td>
-‌      <td data-better-raw="+4" style="text-align: center">+4</td>
-‌      <td data-better-raw="Subclass feature">Subclass feature</td>
-‌      <td data-better-raw="5" style="text-align: center">5</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="9" style="text-align: center">9</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="10" style="text-align: center">10</td>
-‌      <td data-better-raw="+4" style="text-align: center">+4</td>
-‌      <td data-better-raw="Magic Item Adept">Magic Item Adept</td>
-‌      <td data-better-raw="6" style="text-align: center">6</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="9" style="text-align: center">9</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="11" style="text-align: center">11</td>
-‌      <td data-better-raw="+4" style="text-align: center">+4</td>
-‌      <td data-better-raw="Spell-Storing Item">Spell-Storing Item</td>
-‌      <td data-better-raw="6" style="text-align: center">6</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="10" style="text-align: center">10</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="12" style="text-align: center">12</td>
-‌      <td data-better-raw="+4" style="text-align: center">+4</td>
-‌      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
-‌      <td data-better-raw="6" style="text-align: center">6</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="10" style="text-align: center">10</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="13" style="text-align: center">13</td>
-‌      <td data-better-raw="+5" style="text-align: center">+5</td>
-‌      <td data-better-raw="—">—</td>
-‌      <td data-better-raw="6" style="text-align: center">6</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="11" style="text-align: center">11</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="1" style="text-align: center">1</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="14" style="text-align: center">14</td>
-‌      <td data-better-raw="+5" style="text-align: center">+5</td>
-‌      <td data-better-raw="Advanced Artifice">Advanced Artifice</td>
-‌      <td data-better-raw="7" style="text-align: center">7</td>
-‌      <td data-better-raw="5" style="text-align: center">5</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="11" style="text-align: center">11</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="1" style="text-align: center">1</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="15" style="text-align: center">15</td>
-‌      <td data-better-raw="+5" style="text-align: center">+5</td>
-‌      <td data-better-raw="Subclass feature">Subclass feature</td>
-‌      <td data-better-raw="7" style="text-align: center">7</td>
-‌      <td data-better-raw="5" style="text-align: center">5</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="12" style="text-align: center">12</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="16" style="text-align: center">16</td>
-‌      <td data-better-raw="+5" style="text-align: center">+5</td>
-‌      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
-‌      <td data-better-raw="7" style="text-align: center">7</td>
-‌      <td data-better-raw="5" style="text-align: center">5</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="12" style="text-align: center">12</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌      <td data-better-raw="—" style="text-align: center">—</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="17" style="text-align: center">17</td>
-‌      <td data-better-raw="+6" style="text-align: center">+6</td>
-‌      <td data-better-raw="—">—</td>
-‌      <td data-better-raw="7" style="text-align: center">7</td>
-‌      <td data-better-raw="5" style="text-align: center">5</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="14" style="text-align: center">14</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="1" style="text-align: center">1</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="18" style="text-align: center">18</td>
-‌      <td data-better-raw="+6" style="text-align: center">+6</td>
-‌      <td data-better-raw="Magic Item Master">Magic Item Master</td>
-‌      <td data-better-raw="8" style="text-align: center">8</td>
-‌      <td data-better-raw="6" style="text-align: center">6</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="14" style="text-align: center">14</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="1" style="text-align: center">1</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="19" style="text-align: center">19</td>
-‌      <td data-better-raw="+6" style="text-align: center">+6</td>
-‌      <td data-better-raw="Epic Boon">Epic Boon</td>
-‌      <td data-better-raw="8" style="text-align: center">8</td>
-‌      <td data-better-raw="6" style="text-align: center">6</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="15" style="text-align: center">15</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌    </tr>
-‌    <tr>
-‌      <td data-better-raw="20" style="text-align: center">20</td>
-‌      <td data-better-raw="+6" style="text-align: center">+6</td>
-‌      <td data-better-raw="Soul of Artifice">Soul of Artifice</td>
-‌      <td data-better-raw="8" style="text-align: center">8</td>
-‌      <td data-better-raw="6" style="text-align: center">6</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="15" style="text-align: center">15</td>
-‌      <td data-better-raw="4" style="text-align: center">4</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="3" style="text-align: center">3</td>
-‌      <td data-better-raw="2" style="text-align: center">2</td>
-‌    </tr>
+    <tr>
+      <th rowspan="2" data-better-raw="Level" style="text-align: center">Level</th>
+      <th rowspan="2" data-better-raw="Proficiency Bonus" style="text-align: center">Proficiency Bonus</th>
+      <th rowspan="2" data-better-raw="Class Features">Class Features</th>
+      <th rowspan="2" data-better-raw="Plans Known" style="text-align: center">Plans Known</th>
+      <th rowspan="2" data-better-raw="Magic Items" style="text-align: center">Magic Items</th>
+      <th rowspan="2" data-better-raw="Cantrips" style="text-align: center">Cantrips</th>
+      <th rowspan="2" data-better-raw="Prepared Spells" style="text-align: center">Prepared Spells</th>
+      <th colspan="5" data-better-raw="—Spell Slots per Spell Level—" style="text-align: center">—Spell Slots per Spell Level—</th>
+    </tr>
+    <tr>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <th data-better-raw="2" style="text-align: center">2</th>
+      <th data-better-raw="3" style="text-align: center">3</th>
+      <th data-better-raw="4" style="text-align: center">4</th>
+      <th data-better-raw="5" style="text-align: center">5</th>
+    </tr>
+    <tr>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="+2" style="text-align: center">+2</td>
+      <td data-better-raw="Spellcasting, Tinker's Magic">Spellcasting, Tinker's Magic</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="+2" style="text-align: center">+2</td>
+      <td data-better-raw="Replicate Magic Item">Replicate Magic Item</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="+2" style="text-align: center">+2</td>
+      <td data-better-raw="Artificer Subclass">Artificer Subclass</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="+2" style="text-align: center">+2</td>
+      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="+3" style="text-align: center">+3</td>
+      <td data-better-raw="Subclass feature">Subclass feature</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="+3" style="text-align: center">+3</td>
+      <td data-better-raw="Magic Item Tinker">Magic Item Tinker</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="+3" style="text-align: center">+3</td>
+      <td data-better-raw="Flash of Genius">Flash of Genius</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="8" style="text-align: center">8</td>
+      <td data-better-raw="+3" style="text-align: center">+3</td>
+      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="9" style="text-align: center">9</td>
+      <td data-better-raw="+4" style="text-align: center">+4</td>
+      <td data-better-raw="Subclass feature">Subclass feature</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="9" style="text-align: center">9</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="10" style="text-align: center">10</td>
+      <td data-better-raw="+4" style="text-align: center">+4</td>
+      <td data-better-raw="Magic Item Adept">Magic Item Adept</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="9" style="text-align: center">9</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="11" style="text-align: center">11</td>
+      <td data-better-raw="+4" style="text-align: center">+4</td>
+      <td data-better-raw="Spell-Storing Item">Spell-Storing Item</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="10" style="text-align: center">10</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="12" style="text-align: center">12</td>
+      <td data-better-raw="+4" style="text-align: center">+4</td>
+      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="10" style="text-align: center">10</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="13" style="text-align: center">13</td>
+      <td data-better-raw="+5" style="text-align: center">+5</td>
+      <td data-better-raw="—">—</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="11" style="text-align: center">11</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="14" style="text-align: center">14</td>
+      <td data-better-raw="+5" style="text-align: center">+5</td>
+      <td data-better-raw="Advanced Artifice">Advanced Artifice</td>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="11" style="text-align: center">11</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="15" style="text-align: center">15</td>
+      <td data-better-raw="+5" style="text-align: center">+5</td>
+      <td data-better-raw="Subclass feature">Subclass feature</td>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="12" style="text-align: center">12</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="16" style="text-align: center">16</td>
+      <td data-better-raw="+5" style="text-align: center">+5</td>
+      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="12" style="text-align: center">12</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="17" style="text-align: center">17</td>
+      <td data-better-raw="+6" style="text-align: center">+6</td>
+      <td data-better-raw="—">—</td>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="14" style="text-align: center">14</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td data-better-raw="18" style="text-align: center">18</td>
+      <td data-better-raw="+6" style="text-align: center">+6</td>
+      <td data-better-raw="Magic Item Master">Magic Item Master</td>
+      <td data-better-raw="8" style="text-align: center">8</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="14" style="text-align: center">14</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td data-better-raw="19" style="text-align: center">19</td>
+      <td data-better-raw="+6" style="text-align: center">+6</td>
+      <td data-better-raw="Epic Boon">Epic Boon</td>
+      <td data-better-raw="8" style="text-align: center">8</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="15" style="text-align: center">15</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+    </tr>
+    <tr>
+      <td data-better-raw="20" style="text-align: center">20</td>
+      <td data-better-raw="+6" style="text-align: center">+6</td>
+      <td data-better-raw="Soul of Artifice">Soul of Artifice</td>
+      <td data-better-raw="8" style="text-align: center">8</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="15" style="text-align: center">15</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+    </tr>
   </tbody>
 </table>
 

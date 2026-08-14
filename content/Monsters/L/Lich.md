@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T12:04:25.200-04:00
-modified: 2026-08-14T02:47:17.547-04:00
-published: 2026-08-14T02:47:17.547-04:00
+modified: 2026-08-14T09:15:42.286-04:00
+published: 2026-08-14T09:15:42.286-04:00
 Creature Type: Undead (Wizard)
 Size: Medium
 Alignment: Neutral Evil
@@ -56,9 +56,9 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
 
 The region containing a lich’s lair is warped by its presence, creating the following effects:
 
-**All-Seeing.** While in its lair, the lich can cast _Clair_, requiring no spell components and using the same spellcasting ability as its Spellcasting action.
+**All-Seeing.** While in its lair, the lich can cast _[[Clairvoyance]]_, requiring no spell components and using the same spellcasting ability as its Spellcasting action.
 
-**Inevitable Siphon.** Whenever a Humanoid dies within 1 mile of the lair, its soul is immediately consumed by the lich. A Humanoid whose soul is consumed in this way can be brought back to life only by a [True Resurrection](https://www.dndbeyond.com/spells/2619199-true-resurrection) or [Wish](https://www.dndbeyond.com/spells/2619213-wish) spell.
+**Inevitable Siphon.** Whenever a Humanoid dies within 1 mile of the lair, its soul is immediately consumed by the lich. A Humanoid whose soul is consumed in this way can be brought back to life only by a _[[True Resurrection]]_ or _[[Wish]]_ spell.
 
 If the lich is destroyed or moves its lair elsewhere, these effects end immediately. These effects resume if the lich gains a new body (see its Spirit Jar trait).
 
