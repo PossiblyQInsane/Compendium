@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-11T11:24:50.805-04:00
-modified: 2026-08-11T11:51:34.243-04:00
-published: 2026-08-11T11:51:34.243-04:00
+modified: 2026-08-13T11:28:12.833-04:00
+published: 2026-08-13T11:28:12.833-04:00
 Source: Player's Handbook (5.5e)
 Official: true
 ---
@@ -46,28 +46,28 @@ As a Fighter, you gain the following class features when you reach the specified
 
 ##### Fighter Features
 
-| Level | Proficiency Bonus | Class Features                                                                                                                  | Second Wind | Weapon Mastery |     |
-| :---: | :---------------: | :------------------------------------------------------------------------------------------------------------------------------ | :---------: | :------------: | --- |
-|   1   |        +2         | [[#Level 1 Fighting Style\|Fighting Style]], [[#Level 1 Second Wind\|Second Wind]], [[#Level 1 Weapon Mastery\|Weapon Mastery]] |      2      |       3        |     |
-|   2   |        +2         | [[#Level 2 Action Surge\|Action Surge]] (one use), [[#Level 2 Tactical Mind\|Tactical Mind]]                                    |      2      |       3        |     |
-|   3   |        +2         | [[#Level 3 Fighter Subclass\|Fighter Subclass]]                                                                                 |      2      |       3        |     |
-|   4   |        +2         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                               |      3      |       4        |     |
-|   5   |        +3         | [[#Level 5 Extra Attack\|Extra Attack]], [[#Level 5 Tactical Shift\|Tactical Shift]]                                            |      3      |       4        |     |
-|   6   |        +3         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                               |      3      |       4        |     |
-|   7   |        +3         | Subclass feature                                                                                                                |      3      |       4        |     |
-|   8   |        +3         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                               |      3      |       4        |     |
-|   9   |        +4         | [[#Level 9 Indomitable\|Indomitable]] (one use), [[#Level 9 Tactical Master\|Tactical Master]]                                  |      3      |       4        |     |
-|  10   |        +4         | Subclass feature                                                                                                                |      4      |       5        |     |
-|  11   |        +4         | [[#Level 11 Two Extra Attacks\|Two Extra Attacks]]                                                                              |      4      |       5        |     |
-|  12   |        +4         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                               |      4      |       5        |     |
-|  13   |        +5         | [[#Level 9 Indomitable\|Indomitable]] (two uses), [[#Level 13 Studied Attacks\|Studied Attacks]]                                |      4      |       5        |     |
-|  14   |        +5         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                               |      4      |       5        |     |
-|  15   |        +5         | Subclass feature                                                                                                                |      4      |       5        |     |
-|  16   |        +5         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                               |      4      |       6        |     |
-|  17   |        +6         | [[#Level 2 Action Surge\|Action Surge]] (two uses), [[#Level 9 Indomitable\|Indomitable]] (three uses)                          |      4      |       6        |     |
-|  18   |        +6         | Subclass feature                                                                                                                |      4      |       6        |     |
-|  19   |        +6         | [[#Level 19 Epic Boon\|Epic Boon]]                                                                                              |      4      |       6        |     |
-|  20   |        +6         | [[#Level 20 Three Extra Attacks\|Three Extra Attacks]]                                                                          |      4      |       6        |     |
+| Level | Proficiency Bonus | Class Features                                                                                                                  | Second Wind | Weapon Mastery |
+| :---: | :---------------: | :------------------------------------------------------------------------------------------------------------------------------ | :---------: | :------------: |
+|   1   |        +2         | [[#Level 1 Fighting Style\|Fighting Style]], [[#Level 1 Second Wind\|Second Wind]], [[#Level 1 Weapon Mastery\|Weapon Mastery]] |      2      |       3        |
+|   2   |        +2         | [[#Level 2 Action Surge\|Action Surge]] (one use), [[#Level 2 Tactical Mind\|Tactical Mind]]                                    |      2      |       3        |
+|   3   |        +2         | [[#Level 3 Fighter Subclass\|Fighter Subclass]]                                                                                 |      2      |       3        |
+|   4   |        +2         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                               |      3      |       4        |
+|   5   |        +3         | [[#Level 5 Extra Attack\|Extra Attack]], [[#Level 5 Tactical Shift\|Tactical Shift]]                                            |      3      |       4        |
+|   6   |        +3         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                               |      3      |       4        |
+|   7   |        +3         | Subclass feature                                                                                                                |      3      |       4        |
+|   8   |        +3         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                               |      3      |       4        |
+|   9   |        +4         | [[#Level 9 Indomitable\|Indomitable]] (one use), [[#Level 9 Tactical Master\|Tactical Master]]                                  |      3      |       4        |
+|  10   |        +4         | Subclass feature                                                                                                                |      4      |       5        |
+|  11   |        +4         | [[#Level 11 Two Extra Attacks\|Two Extra Attacks]]                                                                              |      4      |       5        |
+|  12   |        +4         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                               |      4      |       5        |
+|  13   |        +5         | [[#Level 9 Indomitable\|Indomitable]] (two uses), [[#Level 13 Studied Attacks\|Studied Attacks]]                                |      4      |       5        |
+|  14   |        +5         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                               |      4      |       5        |
+|  15   |        +5         | Subclass feature                                                                                                                |      4      |       5        |
+|  16   |        +5         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                               |      4      |       6        |
+|  17   |        +6         | [[#Level 2 Action Surge\|Action Surge]] (two uses), [[#Level 9 Indomitable\|Indomitable]] (three uses)                          |      4      |       6        |
+|  18   |        +6         | Subclass feature                                                                                                                |      4      |       6        |
+|  19   |        +6         | [[#Level 19 Epic Boon\|Epic Boon]]                                                                                              |      4      |       6        |
+|  20   |        +6         | [[#Level 20 Three Extra Attacks\|Three Extra Attacks]]                                                                          |      4      |       6        |
 
 ### Level 1: Fighting Style
 
@@ -163,5 +163,7 @@ A Fighter subclass is a specialization that grants you features at certain Fight
 | [[Subclasses/Fighter/Third Party/Blood Hound.md\|Blood Hound]]         | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | [[Subclasses/Fighter/Third Party/Bonesmith.md\|Bonesmith]]             | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games           |
 | [[Subclasses/Fighter/Third Party/Bulwark Warrior.md\|Bulwark Warrior]] | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| [[Subclasses/Fighter/Third Party/Dungeoneer.md\|Dungeoneer]]           | Valda's Spire of Secrets                | Mage Hand Press        |
 | [[Subclasses/Fighter/Third Party/Living Crucible.md\|Living Crucible]] | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | [[Subclasses/Fighter/Third Party/Nightwatcher.md\|Nightwatcher]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+_Survive the Dungeo&#x6E;_&#x4D;

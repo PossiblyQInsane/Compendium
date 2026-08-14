@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T11:16:30.891-04:00
-modified: 2026-08-07T00:48:07.000-04:00
-published: 2026-08-07T00:48:07.000-04:00
+modified: 2026-08-13T12:10:38.765-04:00
+published: 2026-08-13T12:10:38.765-04:00
 Creature Type: Plant
 Size: Small
 Alignment: Neutral
@@ -30,7 +30,7 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
 > [!quote|no-t no-i bg-brown]
 > Just because we protect the forest doesn’t mean it’s defenseless.
 >
->  <div align="right" style="font-style: italic"> —Rivergleam, Pixie</div>
+>  <div align="right"> —Rivergleam, Pixie</div>
 
 **Habitat:** Forest
 **Treasure:** None

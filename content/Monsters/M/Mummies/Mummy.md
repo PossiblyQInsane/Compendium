@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T12:22:38.909-04:00
-modified: 2026-08-07T00:47:50.795-04:00
-published: 2026-08-07T00:47:50.795-04:00
+modified: 2026-08-13T12:12:08.583-04:00
+published: 2026-08-13T12:12:08.583-04:00
 Creature Type: Undead
 Size: Medium or Small
 Alignment: Lawful Evil
@@ -49,7 +49,7 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
 > [!quote|no-t no-i bg-brown]
 > Rule 7: Before opening a sarcophagus, light a torch.
 >
->  <div align="right" style="font-style: italic"> —X the Mystic’s <br>Rules of Dungeon Survival</div>
+>  <div align="right"> —X the Mystic’s<br><div style="font-style: italic">Rules of Dungeon Survival</div></div>
 
 **Habitat:** Desert, Swamp
 **Treasure:** Relics

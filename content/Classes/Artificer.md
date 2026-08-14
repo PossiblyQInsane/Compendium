@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-08-13T00:39:49.363-04:00
-published: 2026-08-13T00:39:49.363-04:00
+modified: 2026-08-14T01:14:07.664-04:00
+published: 2026-08-14T01:14:07.664-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
+Edition: 5.5e
 ---
 
 ![The Artificers of Eberron are responsible for many amazing inventions, but none more miraculous than the Warforged](https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/01-001.Artificer-working-on-an-unfinished-Warforged.jpg)
@@ -40,36 +41,311 @@ Masters of invention, Artificers use ingenuity and magic to unlock extraordinary
 
 ## Artificer Class Features
 
-As an Artificer, you gain the following class features when you reach the specified Artificer levels. These features are listed on the Artificer Features table.
+As an Artificer, you gain the following class features when you reach the specified Artificer levels. These features 2are listed on the Artificer Features table.
 
 ##### Artificer Features
 
-<div align="right" style="font-size: 80%">
-—Spell Slots per Spell Level—
-</div>
-
-| Level | Proficiency  Bonus | Class Features                                                                       | Plans Known | Magic Items | Cantrips | Prepared Spells |  1  |  2  |  3  |  4  |  5  |
-| :---: | :---------------------: | :----------------------------------------------------------------------------------- | :---------: | :---------: | :------: | :-------------: | :-: | :-: | :-: | :-: | :-: |
-|   1   |           +2            | [[#Level 1 Spellcasting\|Spellcasting]], [[#Level 1 Tinker’s Magic\|Tinker's Magic]] |      —      |      —      |    2     |        2        |  2  |  —  |  —  |  —  |  —  |
-|   2   |           +2            | [[#Level 2 Replicate Magic Item\|Replicate Magic Item]]                              |      4      |      2      |    2     |        3        |  2  |  —  |  —  |  —  |  —  |
-|   3   |           +2            | [[#Level 3 Artificer Subclass\|Artificer Subclass]]                                  |      4      |      2      |    2     |        4        |  3  |  —  |  —  |  —  |  —  |
-|   4   |           +2            | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                    |      4      |      2      |    2     |        5        |  3  |  —  |  —  |  —  |  —  |
-|   5   |           +3            | Subclass feature                                                                     |      4      |      2      |    2     |        6        |  4  |  2  |  —  |  —  |  —  |
-|   6   |           +3            | [[#Level 6 Magic Item Tinker\|Magic Item Tinker]]                                    |      5      |      3      |    2     |        6        |  4  |  2  |  —  |  —  |  —  |
-|   7   |           +3            | [[#Level 7 Flash of Genius\|Flash of Genius]]                                        |      5      |      3      |    2     |        7        |  4  |  3  |  —  |  —  |  —  |
-|   8   |           +3            | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                    |      5      |      3      |    2     |        7        |  4  |  3  |  —  |  —  |  —  |
-|   9   |           +4            | Subclass feature                                                                     |      5      |      3      |    2     |        9        |  4  |  3  |  2  |  —  |  —  |
-|  10   |           +4            | [[#Level 10 Magic Item Adept\|Magic Item Adept]]                                     |      6      |      4      |    3     |        9        |  4  |  3  |  2  |  —  |  —  |
-|  11   |           +4            | [[#Level 11 Spell-Storing Item\|Spell-Storing Item]]                                 |      6      |      4      |    3     |       10        |  4  |  3  |  3  |  —  |  —  |
-|  12   |           +4            | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                    |      6      |      4      |    3     |       10        |  4  |  3  |  3  |  —  |  —  |
-|  13   |           +5            | —                                                                                    |      6      |      4      |    3     |       11        |  4  |  3  |  3  |  1  |  —  |
-|  14   |           +5            | [[#Level 14 Advanced Artifice\|Advanced Artifice]]                                   |      7      |      5      |    4     |       11        |  4  |  3  |  3  |  1  |  —  |
-|  15   |           +5            | Subclass feature                                                                     |      7      |      5      |    4     |       12        |  4  |  3  |  3  |  2  |  —  |
-|  16   |           +5            | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                    |      7      |      5      |    4     |       12        |  4  |  3  |  3  |  2  |  —  |
-|  17   |           +6            | —                                                                                    |      7      |      5      |    4     |       14        |  4  |  3  |  3  |  3  |  1  |
-|  18   |           +6            | [[#Level 18 Magic Item Master\|Magic Item Master]]                                   |      8      |      6      |    4     |       14        |  4  |  3  |  3  |  3  |  1  |
-|  19   |           +6            | [[#Level 19 Epic Boon\|Epic Boon]]                                                   |      8      |      6      |    4     |       15        |  4  |  3  |  3  |  3  |  2  |
-|  20   |           +6            | [[#Level 20 Soul of Artifice\|Soul of Artifice]]                                     |      8      |      6      |    4     |       15        |  4  |  3  |  3  |  3  |  2  |
+<table>
+  <tbody>
+    <tr>
+      <th rowspan="2" data-better-raw="Level" style="text-align: center">Level</th>
+      <th rowspan="2" data-better-raw="Proficiency Bonus" style="text-align: center">Proficiency Bonus</th>
+      <th rowspan="2" data-better-raw="Class Features">Class Features</th>
+      <th rowspan="2" data-better-raw="Plans Known" style="text-align: center">Plans Known</th>
+      <th rowspan="2" data-better-raw="Magic Items" style="text-align: center">Magic Items</th>
+      <th rowspan="2" data-better-raw="Cantrips" style="text-align: center">Cantrips</th>
+      <th rowspan="2" data-better-raw="Prepared Spells" style="text-align: center">Prepared Spells</th>
+      <th colspan="5" data-better-raw="—Spell Slots per Spell Level—" style="text-align: center">—Spell Slots per Spell Level—</th>
+    </tr>
+    <tr>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <th data-better-raw="2" style="text-align: center">2</th>
+      <th data-better-raw="3" style="text-align: center">3</th>
+      <th data-better-raw="4" style="text-align: center">4</th>
+      <th data-better-raw="5" style="text-align: center">5</th>
+    </tr>
+    <tr>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="+2" style="text-align: center">+2</td>
+      <td data-better-raw="Spellcasting, Tinker's Magic">Spellcasting, Tinker's Magic</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="+2" style="text-align: center">+2</td>
+      <td data-better-raw="Replicate Magic Item">Replicate Magic Item</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="+2" style="text-align: center">+2</td>
+      <td data-better-raw="Artificer Subclass">Artificer Subclass</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="+2" style="text-align: center">+2</td>
+      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="+3" style="text-align: center">+3</td>
+      <td data-better-raw="Subclass feature">Subclass feature</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="+3" style="text-align: center">+3</td>
+      <td data-better-raw="Magic Item Tinker">Magic Item Tinker</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="+3" style="text-align: center">+3</td>
+      <td data-better-raw="Flash of Genius">Flash of Genius</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="8" style="text-align: center">8</td>
+      <td data-better-raw="+3" style="text-align: center">+3</td>
+      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="9" style="text-align: center">9</td>
+      <td data-better-raw="+4" style="text-align: center">+4</td>
+      <td data-better-raw="Subclass feature">Subclass feature</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="9" style="text-align: center">9</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="10" style="text-align: center">10</td>
+      <td data-better-raw="+4" style="text-align: center">+4</td>
+      <td data-better-raw="Magic Item Adept">Magic Item Adept</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="9" style="text-align: center">9</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="11" style="text-align: center">11</td>
+      <td data-better-raw="+4" style="text-align: center">+4</td>
+      <td data-better-raw="Spell-Storing Item">Spell-Storing Item</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="10" style="text-align: center">10</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="12" style="text-align: center">12</td>
+      <td data-better-raw="+4" style="text-align: center">+4</td>
+      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="10" style="text-align: center">10</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="13" style="text-align: center">13</td>
+      <td data-better-raw="+5" style="text-align: center">+5</td>
+      <td data-better-raw="—">—</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="11" style="text-align: center">11</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="14" style="text-align: center">14</td>
+      <td data-better-raw="+5" style="text-align: center">+5</td>
+      <td data-better-raw="Advanced Artifice">Advanced Artifice</td>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="11" style="text-align: center">11</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="15" style="text-align: center">15</td>
+      <td data-better-raw="+5" style="text-align: center">+5</td>
+      <td data-better-raw="Subclass feature">Subclass feature</td>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="12" style="text-align: center">12</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="16" style="text-align: center">16</td>
+      <td data-better-raw="+5" style="text-align: center">+5</td>
+      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="12" style="text-align: center">12</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="17" style="text-align: center">17</td>
+      <td data-better-raw="+6" style="text-align: center">+6</td>
+      <td data-better-raw="—">—</td>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="14" style="text-align: center">14</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td data-better-raw="18" style="text-align: center">18</td>
+      <td data-better-raw="+6" style="text-align: center">+6</td>
+      <td data-better-raw="Magic Item Master">Magic Item Master</td>
+      <td data-better-raw="8" style="text-align: center">8</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="14" style="text-align: center">14</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td data-better-raw="19" style="text-align: center">19</td>
+      <td data-better-raw="+6" style="text-align: center">+6</td>
+      <td data-better-raw="Epic Boon">Epic Boon</td>
+      <td data-better-raw="8" style="text-align: center">8</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="15" style="text-align: center">15</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+    </tr>
+    <tr>
+      <td data-better-raw="20" style="text-align: center">20</td>
+      <td data-better-raw="+6" style="text-align: center">+6</td>
+      <td data-better-raw="Soul of Artifice">Soul of Artifice</td>
+      <td data-better-raw="8" style="text-align: center">8</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="15" style="text-align: center">15</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Level 1: Spellcasting
 
@@ -288,11 +564,9 @@ _**Magical Guidance.**_ When you finish a [[Short Rest]], you regain all expende
 
 ## Artificer Spell List
 
-This section presents the Artificer spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, _C_ means the spell requires [[Concentration]], _R_ means it’s a [[Ritual]], and _M_ means it requires a specific Material component.
+This section presents the Artificer spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, _C_ means the spell requires [[Concentration]], _R_ means it’s a [[Ritual]], and _M_ means it requires a specific Material component. For additional spells, see [[Third Party Artificer Spells]]
 
 ### Cantrips (Level 0 Artificer Spells)
-
-#### Official
 
 | Name                                                        | School        | Special | Source                   |
 | ----------------------------------------------------------- | ------------- | ------- | ------------------------ |
@@ -313,11 +587,6 @@ This section presents the Artificer spell list. The spells are organized by spel
 | _[[Spells/Cantrips/Thorn Whip.md\|Thorn Whip]]_             | Transmutation | —       | Player's Handbook (5.5e) |
 | _[[Spells/Cantrips/Thunderclap.md\|Thunderclap]]_           | Evocation     | —       | Player's Handbook (5.5e) |
 | _[[Spells/Cantrips/True Strike.md\|True Strike]]_           | Divination    | M       | Player's Handbook (5.5e) |
-
-#### Third Party
-
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
 
 ### Level 1 Artificer Spells
 
@@ -413,18 +682,18 @@ An Artificer subclass is a specialization that grants you features at certain Ar
 
 ### Official Artificer Subclasses
 
-| Name                                                   | Source                          |
-| ------------------------------------------------------ | ------------------------------- |
-| [[Subclasses/Artificer/Alchemist.md\|Alchemist]]       | Eberron: Forge of the Artificer |
-| [[Subclasses/Artificer/Armorer.md\|Armorer]]           | Eberron: Forge of the Artificer |
-| [[Subclasses/Artificer/Artillerist.md\|Artillerist]]   | Eberron: Forge of the Artificer |
-| [[Subclasses/Artificer/Battle Smith.md\|Battle Smith]] | Eberron: Forge of the Artificer |
-| [[Subclasses/Artificer/Cartographer.md\|Cartographer]] | Eberron: Forge of the Artificer |
-| [[Subclasses/Artificer/Reanimator.md\|Reanimator]]     | Ravenloft: The Horrors Within   |
+| Name                                                   | Source                          | Edition |
+| ------------------------------------------------------ | ------------------------------- | ------- |
+| [[Subclasses/Artificer/Alchemist.md\|Alchemist]]       | Eberron: Forge of the Artificer | -      |
+| [[Subclasses/Artificer/Armorer.md\|Armorer]]           | Eberron: Forge of the Artificer | -      |
+| [[Subclasses/Artificer/Artillerist.md\|Artillerist]]   | Eberron: Forge of the Artificer | -      |
+| [[Subclasses/Artificer/Battle Smith.md\|Battle Smith]] | Eberron: Forge of the Artificer | -      |
+| [[Subclasses/Artificer/Cartographer.md\|Cartographer]] | Eberron: Forge of the Artificer | -      |
+| [[Subclasses/Artificer/Reanimator.md\|Reanimator]]     | Ravenloft: The Horrors Within   | -      |
 
 ### Third Party Artificer Subclasses
 
-| Name                                                             | Source            | Publisher                       |
-| ---------------------------------------------------------------- | ----------------- | ------------------------------- |
-| [[Subclasses/Artificer/Third Party/Forge Adept.md\|Forge Adept]] | Exploring Eberron | Visionary Production and Design |
-| [[Subclasses/Artificer/Third Party/Maverick.md\|Maverick]]       | Exploring Eberron | Visionary Production and Design |
+| Name                                                             | Source            | Publisher                       | Edition |
+| ---------------------------------------------------------------- | ----------------- | ------------------------------- | ------- |
+| [[Subclasses/Artificer/Third Party/Forge Adept.md\|Forge Adept]] | Exploring Eberron | Visionary Production and Design | -      |
+| [[Subclasses/Artificer/Third Party/Maverick.md\|Maverick]]       | Exploring Eberron | Visionary Production and Design | -      |

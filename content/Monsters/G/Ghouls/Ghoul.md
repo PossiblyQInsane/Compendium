@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T11:37:31.505-04:00
-modified: 2026-08-07T00:47:44.920-04:00
-published: 2026-08-07T00:47:44.920-04:00
+modified: 2026-08-13T12:11:12.004-04:00
+published: 2026-08-13T12:11:12.004-04:00
 Creature Type: Undead
 Size: Medium
 Alignment: Chaotic Evil
@@ -30,7 +30,7 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
 > [!quote|no-t no-i bg-brown]
 > On a plain of teeth, in a temple of filth, the starving king wastes no morsel. Every coffin a banquet. Every slab a platter. Now is the time of feasting!
 >
->  <div align="right" style="font-style: italic"> —Invocation of Doresain, King of Ghouls</div>
+>  <div align="right"> —Invocation of Doresain, King of Ghouls</div>
 
 **Habitat:** Swamp, Underdark, Urban
 **Treasure:** Any
