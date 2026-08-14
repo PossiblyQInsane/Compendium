@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-28T11:54:00.956-04:00
-modified: 2026-08-14T01:25:55.307-04:00
-published: 2026-08-14T01:25:55.307-04:00
+modified: 2026-08-14T11:31:44.758-04:00
+published: 2026-08-14T11:31:44.758-04:00
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"
 Official: true
@@ -57,11 +57,9 @@ _Small or Tiny Object_
 
 _**Activate Cannon (Requires You to Be within 60 Feet of the Cannon).**_ As a [[Bonus Action]], you order the cannon to use the Flamethrower, Force Ballista, or Protector option below; you can direct the cannon to move up to 15 feet before or after that option:
 
-**Flamethrower.**  The cannon blasts fire in a 15-foot [[Cone]]. Each creature in that area makes a Dexterity saving throw against your spell save DC, taking 2d8 Fire damage on a failed save or half as much damage on a successful one. Flammable objects in the Cone that aren’t being worn or carried start [[Burning|burning]].
-
-**Force Ballista.** Make a ranged spell attack originating from the cannon at one creature or object within 120 feet of it. On a hit, the target takes 2d8 Force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.
-
-**Protector.**  The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of the cannon a number of [[Temporary Hit Points]] equal to 1d8 plus your Intelligence modifier (minimum of +1).
+- **Flamethrower.**  The cannon blasts fire in a 15-foot [[Cone]]. Each creature in that area makes a Dexterity saving throw against your spell save DC, taking 2d8 Fire damage on a failed save or half as much damage on a successful one. Flammable objects in the Cone that aren’t being worn or carried start [[Burning|burning]].
+- **Force Ballista.** Make a ranged spell attack originating from the cannon at one creature or object within 120 feet of it. On a hit, the target takes 2d8 Force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.
+- **Protector.**  The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of the cannon a number of [[Temporary Hit Points]] equal to 1d8 plus your Intelligence modifier (minimum of +1).
 
 ### Level 5: Arcane Firearm
 
