@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-08-14T03:00:02.940-04:00
-published: 2026-08-14T03:00:02.940-04:00
+modified: 2026-08-14T09:17:56.044-04:00
+published: 2026-08-14T09:17:56.044-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 Edition: 5.5e
@@ -41,7 +41,7 @@ Masters of invention, Artificers use ingenuity and magic to unlock extraordinary
 
 ## Artificer Class Features
 
-As an Artificer, you gain the following class features when you reach the specified Artificer levels. These features 2are listed on the Artificer Features table.
+As an Artificer, you gain the following class features when you reach the specified Artificer levels. These features are listed on the Artificer Features table.
 
 ##### Artificer Features
 
