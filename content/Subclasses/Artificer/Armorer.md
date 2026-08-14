@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T21:11:12.643-04:00
-modified: 2026-08-14T02:55:26.408-04:00
-published: 2026-08-14T02:55:26.408-04:00
+modified: 2026-08-14T02:55:50.199-04:00
+published: 2026-08-14T02:55:50.199-04:00
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"
 Official: true
@@ -61,9 +61,7 @@ You can change the armor’s model whenever you finish a [[Short Rest|Short]] or
 
 _**Dreadnaught.**_ You design your armor to become a towering juggernaut in battle. It has the following features:
 
-```
-**Force Demolisher.**  An arcane wrecking ball or sledgehammer projects from your armor. The demolisher counts as a Simple Melee weapon with the Reach property, and it deals 1d10 Force damage on a hit. If you hit a creature that is at least one size smaller than you with the demolisher, you can push the creature up to 10 feet straight away from yourself or pull the creature up to 10 feet toward yourself.
-```
+**Force Demolisher.**  An arcane wrecking ball or sledgehammer projects from your armor. The demolisher counts as a Simple Melee weapon with the [[Reach]] property, and it deals 1d10 Force damage on a hit. If you hit a creature that is at least one size smaller than you with the demolisher, you can push the creature up to 10 feet straight away from yourself or pull the creature up to 10 feet toward yourself.
 
 **Giant Stature.** As a [[Bonus Action]], you transform and enlarge your armor for 1 minute. For the duration, your reach increases by 5 feet, and if you are smaller than Large, you become Large, along with anything you are wearing. If there isn’t enough room for you to increase your size, your size doesn’t change. You can use this Bonus Action a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a [[Long Rest]].
 
