@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-11T11:24:50.805-04:00
-modified: 2026-08-13T11:28:12.833-04:00
-published: 2026-08-13T11:28:12.833-04:00
+modified: 2026-08-14T02:49:15.106-04:00
+published: 2026-08-14T02:49:15.106-04:00
 Source: Player's Handbook (5.5e)
 Official: true
 ---
@@ -166,4 +166,3 @@ A Fighter subclass is a specialization that grants you features at certain Fight
 | [[Subclasses/Fighter/Third Party/Dungeoneer.md\|Dungeoneer]]           | Valda's Spire of Secrets                | Mage Hand Press        |
 | [[Subclasses/Fighter/Third Party/Living Crucible.md\|Living Crucible]] | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | [[Subclasses/Fighter/Third Party/Nightwatcher.md\|Nightwatcher]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
-_Survive the Dungeo&#x6E;_&#x4D;
