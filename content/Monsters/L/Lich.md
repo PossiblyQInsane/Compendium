@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T12:04:25.200-04:00
-modified: 2026-08-14T09:15:42.286-04:00
-published: 2026-08-14T09:15:42.286-04:00
+modified: 2026-08-14T09:18:47.868-04:00
+published: 2026-08-14T09:18:47.868-04:00
 Creature Type: Undead (Wizard)
 Size: Medium
 Alignment: Neutral Evil
