@@ -2317,7 +2317,7 @@ settings:
   --statblock-traits-name-font-weight: bold;
   --statblock-traits-name-font-style: italic;
 
-  --statblock-link-style: normal;
+  --statblock-link-style: inherit;
 }
 
 .statblock-item-container {
@@ -2413,6 +2413,8 @@ settings:
   margin: 0 auto;
   position: relative;
 
+  a {
+    font-style: inherit;
 }
 
 .statblock-content-container {
