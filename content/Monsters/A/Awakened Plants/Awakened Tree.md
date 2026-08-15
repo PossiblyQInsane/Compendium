@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T11:29:16.894-04:00
-modified: 2026-08-15T15:19:23.397-04:00
-published: 2026-08-15T15:19:23.397-04:00
+modified: 2026-08-15T17:55:40.454-04:00
+published: 2026-08-15T17:55:40.454-04:00
 Creature Type: Plant
 Size: Huge
 Alignment: Neutral
@@ -26,12 +26,11 @@ Some awakened trees stand in still, meditative states for long periods, making t
 
 _Vegetation Given Magical Life_
 
+> [!Habitat] **Habitat:** Forest; **Treasure:** None
+
 Magic can invest plants with mobility, sapience, and even a voice. Spells such as _[[Awaken]]_ or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
 
 > [!quote|no-t no-i bg-brown]
 > Just because we protect the forest doesn’t mean it’s defenseless.
 >
 >  <div align="right"> —Rivergleam, Pixie</div>
-
-**Habitat:** Forest
-**Treasure:** None

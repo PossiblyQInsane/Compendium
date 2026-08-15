@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T00:00:49.000-04:00
-modified: 2026-08-15T15:05:26.782-04:00
-published: 2026-08-15T15:05:26.782-04:00
+modified: 2026-08-15T17:56:25.402-04:00
+published: 2026-08-15T17:56:25.402-04:00
 Parent Class: "[[Fighter]]"
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false
@@ -26,7 +26,7 @@ You learn an additional Blood Strike option of your choice when you reach Fighte
 
 _**Blood Strike Save DC.**_ If a feature of this subclass requires a saving throw, the DC equals 8 plus your Constitution modifier and Proficiency Bonus.
 
-> [!NOTE|no-i bg-black color-white] BLOOD STRIKE OPTIONS
+> [!blood] BLOOD STRIKE OPTIONS
 >
 > The Blood Strike feature lets you choose options at certain levels, which are presented here in alphabetical order. These options use your Blood Strike save DC.
 >
