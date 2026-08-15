@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T20:24:40.705-04:00
-modified: 2026-08-01T12:09:42.040-04:00
-published: 2026-08-01T12:09:42.040-04:00
+modified: 2026-08-15T15:08:54.564-04:00
+published: 2026-08-15T15:08:54.564-04:00
 Name: "[[Death Ward]]"
 Spell Level: Level 4
 School: Abjuration
@@ -10,6 +10,7 @@ Classes: Cleric, Paladin
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 4 Abjuration ([[Cleric]], [[Paladin]])_

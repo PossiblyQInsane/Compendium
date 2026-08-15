@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T20:40:22.822-04:00
-modified: 2026-08-02T20:43:37.829-04:00
-published: 2026-08-02T20:43:37.829-04:00
+modified: 2026-08-15T15:12:45.294-04:00
+published: 2026-08-15T15:12:45.294-04:00
 Name: "[[Silent Image]]"
 Spell Level: Level 1
 School: Illusion
@@ -10,6 +10,7 @@ Classes: Bard, Sorcerer, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Illusion ([[Bard]], [[Sorcerer]], [[Wizard]])_

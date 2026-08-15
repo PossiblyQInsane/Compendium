@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T13:25:45.479-04:00
-modified: 2026-08-03T15:14:47.900-04:00
-published: 2026-08-03T15:14:47.900-04:00
+modified: 2026-08-15T15:05:48.398-04:00
+published: 2026-08-15T15:05:48.398-04:00
 Parent Class: "[[Bard]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false
 Publisher: Ghostfire Gaming
+Edition: 5.5e
 ---
 
 ![[Images/College of Adventurers.png|right|331]]

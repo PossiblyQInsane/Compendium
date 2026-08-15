@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T23:29:18.511-04:00
-modified: 2026-08-02T23:32:07.503-04:00
-published: 2026-08-02T23:32:07.503-04:00
+modified: 2026-08-15T15:09:38.751-04:00
+published: 2026-08-15T15:09:38.751-04:00
 Name: "[[Feign Death]]"
 Spell Level: Level 3
 School: Necromancy
@@ -10,6 +10,7 @@ Classes: Bard, Cleric, Druid, Wizard
 Special: R
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 3 Necromancy ([[Bard]], [[Cleric]], [[Druid]], [[Wizard]])_

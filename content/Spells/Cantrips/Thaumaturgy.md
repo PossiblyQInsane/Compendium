@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T22:12:52.735-04:00
-modified: 2026-08-03T22:14:38.543-04:00
-published: 2026-08-03T22:14:38.543-04:00
+modified: 2026-08-15T15:13:21.682-04:00
+published: 2026-08-15T15:13:21.682-04:00
 Name: "[[Thaumaturgy]]"
 Spell Level: Cantrip
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Cleric
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Transmutation Cantrip ([[Cleric]])_

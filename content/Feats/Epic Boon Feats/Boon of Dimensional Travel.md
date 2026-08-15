@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-08-07T10:11:03.901-04:00
-modified: 2026-08-07T10:13:05.241-04:00
-published: 2026-08-07T10:13:05.241-04:00
+modified: 2026-08-15T15:14:22.228-04:00
+published: 2026-08-15T15:14:22.228-04:00
 Category: Epic Boon Feat
 Prerequisite: Level 19+
 Ability Score: Any +1
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Epic Boon Feat (Prerequisite: Level 19+)_

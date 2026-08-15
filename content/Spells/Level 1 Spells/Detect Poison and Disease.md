@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T22:35:12.915-04:00
-modified: 2026-08-03T22:37:22.412-04:00
-published: 2026-08-03T22:37:22.412-04:00
+modified: 2026-08-15T15:08:57.028-04:00
+published: 2026-08-15T15:08:57.028-04:00
 Name: "[[Detect Poison and Disease]]"
 Spell Level: Level 1
 School: Divination
@@ -10,6 +10,7 @@ Classes: Cleric, Druid, Paladin, Ranger
 Special: C, R
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Divination ([[Cleric]], [[Druid]], [[Paladin]], [[Ranger]])_

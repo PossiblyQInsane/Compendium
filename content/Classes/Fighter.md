@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-11T11:24:50.805-04:00
-modified: 2026-08-14T02:49:15.106-04:00
-published: 2026-08-14T02:49:15.106-04:00
+modified: 2026-08-15T15:04:54.435-04:00
+published: 2026-08-15T15:04:54.435-04:00
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 ![[Images/Fighter.png]]

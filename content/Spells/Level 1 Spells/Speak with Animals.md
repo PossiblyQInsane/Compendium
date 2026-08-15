@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T11:34:48.575-04:00
-modified: 2026-08-02T11:38:40.523-04:00
-published: 2026-08-02T11:38:40.523-04:00
+modified: 2026-08-15T15:12:50.429-04:00
+published: 2026-08-15T15:12:50.429-04:00
 Name: "[[Speak with Animals]]"
 Spell Level: Level 1
 School: Divination
@@ -10,6 +10,7 @@ Classes: Bard, Druid, Ranger, Warlock
 Special: R
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Divination ([[Bard]], [[Druid]], [[Ranger]], [[Warlock]])_

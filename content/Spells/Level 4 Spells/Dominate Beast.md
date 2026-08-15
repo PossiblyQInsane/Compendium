@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-07T11:27:55.880-04:00
-modified: 2026-08-07T11:30:03.122-04:00
-published: 2026-08-07T11:30:03.122-04:00
+modified: 2026-08-15T15:09:09.447-04:00
+published: 2026-08-15T15:09:09.447-04:00
 Name: "[[Dominate Beast]]"
 Spell Level: Level 4
 School: Enchantment
@@ -10,6 +10,7 @@ Classes: Druid, Ranger, Sorcerer
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 4 Enchantment ([[Druid]], [[Ranger]], [[Sorcerer]])_

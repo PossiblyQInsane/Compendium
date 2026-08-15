@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T00:26:09.317-04:00
-modified: 2026-08-01T02:47:06.557-04:00
-published: 2026-08-01T02:47:06.557-04:00
+modified: 2026-08-15T15:13:44.085-04:00
+published: 2026-08-15T15:13:44.085-04:00
 Name: "[[Warding Bond]]"
 Spell Level: Level 2
 School: Abjuration
@@ -10,6 +10,7 @@ Classes: Cleric, Paladin
 Special: M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 2 Abjuration ([[Cleric]], [[Paladin]])_

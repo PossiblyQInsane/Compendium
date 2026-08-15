@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-07T11:41:47.293-04:00
-modified: 2026-08-07T11:43:52.658-04:00
-published: 2026-08-07T11:43:52.658-04:00
+modified: 2026-08-15T15:10:12.478-04:00
+published: 2026-08-15T15:10:12.478-04:00
 Name: "[[Grasping Vine]]"
 Spell Level: Level 4
 School: Conjuration
@@ -10,6 +10,7 @@ Classes: Druid, Ranger
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 4 Conjuration ([[Druid]], [[Ranger]])_

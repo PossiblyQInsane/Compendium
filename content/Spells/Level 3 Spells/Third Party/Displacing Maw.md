@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-10T13:38:46.345-04:00
-modified: 2026-08-10T13:43:15.859-04:00
-published: 2026-08-10T13:43:15.859-04:00
+modified: 2026-08-15T15:09:06.037-04:00
+published: 2026-08-15T15:09:06.037-04:00
 Name: "[[Displacing Maw]]"
 Spell Level: Level 3
 School: Conjuration (Osteomancy)
@@ -11,6 +11,7 @@ Special: —
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false
 Publisher: MonkeyDM
+Edition: 5.5e
 ---
 
 _Level 3 Conjuration (Osteomancy) ([[Warlock]], [[Wizard]])_

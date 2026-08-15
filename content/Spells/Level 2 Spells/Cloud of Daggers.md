@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T21:00:44.529-04:00
-modified: 2026-08-02T21:03:08.222-04:00
-published: 2026-08-02T21:03:08.222-04:00
+modified: 2026-08-15T15:08:07.957-04:00
+published: 2026-08-15T15:08:07.957-04:00
 Name: "[[Cloud of Daggers]]"
 Spell Level: Level 2
 School: Conjuration
@@ -10,6 +10,7 @@ Classes: Bard, Sorcerer, Warlock, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 2 Conjuration ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

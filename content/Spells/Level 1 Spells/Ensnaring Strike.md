@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-09T10:59:15.940-04:00
-modified: 2026-08-09T11:01:14.367-04:00
-published: 2026-08-09T11:01:14.367-04:00
+modified: 2026-08-15T15:09:24.713-04:00
+published: 2026-08-15T15:09:24.713-04:00
 Name: "[[Ensnaring Strike]]"
 Spell Level: Level 1
 School: Conjuration
@@ -10,6 +10,7 @@ Classes: Ranger
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Conjuration ([[Ranger]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:27:30.739-04:00
-modified: 2026-08-01T17:31:49.347-04:00
-published: 2026-08-01T17:31:49.347-04:00
+modified: 2026-08-15T15:16:00.846-04:00
+published: 2026-08-15T15:16:00.846-04:00
 Category: Simple Melee Weapons
 Damage: 1d6 Slashing
 Properties: Light, Thrown (Range 20/60)
@@ -11,6 +11,7 @@ Weight: 2 lb.
 Cost: 5 GP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Simple Melee Weapon_

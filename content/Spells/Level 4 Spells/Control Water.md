@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T23:09:45.282-04:00
-modified: 2026-08-03T23:12:06.771-04:00
-published: 2026-08-03T23:12:06.771-04:00
+modified: 2026-08-15T15:08:35.590-04:00
+published: 2026-08-15T15:08:35.590-04:00
 Name: "[[Control Water]]"
 Spell Level: Level 4
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Cleric, Druid, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 4 Transmutation ([[Cleric]], [[Druid]], [[Wizard]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T21:56:38.914-04:00
-modified: 2026-08-01T11:53:30.986-04:00
-published: 2026-08-01T11:53:30.986-04:00
+modified: 2026-08-15T15:11:52.230-04:00
+published: 2026-08-15T15:11:52.230-04:00
 Name: "[[Poison Spray|Poison Spray]]"
 Spell Level: Cantrip
 School: Necromancy
@@ -10,6 +10,7 @@ Classes: Artificer, Druid, Sorcerer, Warlock, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Necromancy Cantrip ([[Artificer]], [[Druid]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

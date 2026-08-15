@@ -2,8 +2,8 @@
 publish: true
 title: Darkvision
 created: 2026-07-25T23:31:39.059-04:00
-modified: 2026-08-01T11:58:14.826-04:00
-published: 2026-08-01T11:58:14.826-04:00
+modified: 2026-08-15T15:08:51.799-04:00
+published: 2026-08-15T15:08:51.799-04:00
 Name: "[[Darkvision (Spell)|Darkvision]]"
 Spell Level: Level 2
 School: Transmutation
@@ -11,6 +11,7 @@ Classes: Artificer, Druid, Ranger, Sorcerer, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 2 Transmutation ([[Artificer]], [[Druid]], [[Ranger]], [[Sorcerer]], [[Wizard]])_

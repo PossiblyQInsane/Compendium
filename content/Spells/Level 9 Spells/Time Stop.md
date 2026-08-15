@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-09T10:50:08.203-04:00
-modified: 2026-08-09T10:51:55.161-04:00
-published: 2026-08-09T10:51:55.161-04:00
+modified: 2026-08-15T15:13:25.703-04:00
+published: 2026-08-15T15:13:25.703-04:00
 Name: "[[Time Stop]]"
 Spell Level: Level 9
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Sorcerer, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 9 Transmutation ([[Sorcerer]], [[Wizard]])_

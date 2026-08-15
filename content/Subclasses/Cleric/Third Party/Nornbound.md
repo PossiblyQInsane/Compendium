@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-04T11:45:12.391-04:00
-modified: 2026-08-04T11:50:08.680-04:00
-published: 2026-08-04T11:50:08.680-04:00
+modified: 2026-08-15T15:06:23.208-04:00
+published: 2026-08-15T15:06:23.208-04:00
 Parent Class: "[[Cleric]]"
 Source: Northlands Worldbook
 Official: false
 Publisher: Kobold Press
+Edition: 5.5e
 ---
 
 ![[Images/Nornbound.png|left|335]]

@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-04T09:56:50.974-04:00
-modified: 2026-08-04T10:04:40.641-04:00
-published: 2026-08-04T10:04:40.641-04:00
+modified: 2026-08-15T15:06:47.427-04:00
+published: 2026-08-15T15:06:47.427-04:00
 Parent Class: "[[Cleric]]"
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 ![[Images/Trickery Domain.png|left|323]]

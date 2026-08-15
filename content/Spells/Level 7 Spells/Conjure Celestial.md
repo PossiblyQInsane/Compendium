@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T00:24:03.332-04:00
-modified: 2026-08-04T00:26:04.569-04:00
-published: 2026-08-04T00:26:04.569-04:00
+modified: 2026-08-15T15:08:23.726-04:00
+published: 2026-08-15T15:08:23.726-04:00
 Name: "[[Conjure Celestial]]"
 Spell Level: Level 7
 School: Conjuration
@@ -10,6 +10,7 @@ Classes: Cleric
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 7 Conjuration ([[Cleric]])_

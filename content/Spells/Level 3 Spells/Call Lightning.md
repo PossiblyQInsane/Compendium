@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T10:30:58.023-04:00
-modified: 2026-08-01T12:00:43.081-04:00
-published: 2026-08-01T12:00:43.081-04:00
+modified: 2026-08-15T15:07:56.049-04:00
+published: 2026-08-15T15:07:56.049-04:00
 Name: "[[Call Lightning]]"
 Spell Level: Level 3
 School: Conjuration
@@ -10,6 +10,7 @@ Classes: Druid
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 3 Conjuration ([[Druid]])_

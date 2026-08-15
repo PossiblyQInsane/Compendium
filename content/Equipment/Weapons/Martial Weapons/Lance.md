@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T20:27:22.304-04:00
-modified: 2026-08-01T20:30:44.808-04:00
-published: 2026-08-01T20:30:44.808-04:00
+modified: 2026-08-15T15:16:24.339-04:00
+published: 2026-08-15T15:16:24.339-04:00
 Category: Martial Melee Weapons
 Damage: 1d10 Piercing
 Properties: Heavy, Reach, Two-Handed (unless mounted)
@@ -11,6 +11,7 @@ Weight: 6 lb.
 Cost: 10 GP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Martial Melee Weapon_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T01:57:49.793-04:00
-modified: 2026-08-03T01:59:53.148-04:00
-published: 2026-08-03T01:59:53.148-04:00
+modified: 2026-08-15T15:11:33.046-04:00
+published: 2026-08-15T15:11:33.046-04:00
 Name: "[[Mordenkainen's Sword]]"
 Spell Level: Level 7
 School: Evocation
@@ -10,6 +10,7 @@ Classes: Bard, Wizard
 Special: C, M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 7 Evocation ([[Bard]], [[Wizard]])_

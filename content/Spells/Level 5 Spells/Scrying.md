@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T10:45:58.019-04:00
-modified: 2026-08-01T12:05:47.141-04:00
-published: 2026-08-01T12:05:47.141-04:00
+modified: 2026-08-15T15:12:27.849-04:00
+published: 2026-08-15T15:12:27.849-04:00
 Name: "[[Scrying]]"
 Spell Level: Level 5
 School: Divination
@@ -10,6 +10,7 @@ Classes: Bard, Cleric, Druid, Warlock, Wizard
 Special: C, M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 5 Divination ([[Bard]], [[Cleric]], [[Druid]], [[Warlock]], [[Wizard]])_

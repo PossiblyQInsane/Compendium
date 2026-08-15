@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T19:48:25.382-04:00
-modified: 2026-08-02T19:50:33.434-04:00
-published: 2026-08-02T19:50:33.434-04:00
+modified: 2026-08-15T15:08:11.914-04:00
+published: 2026-08-15T15:08:11.914-04:00
 Name: "[[Color Spray]]"
 Spell Level: Level 1
 School: Illusion
@@ -10,6 +10,7 @@ Classes: Bard, Sorcerer, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Illusion ([[Bard]], [[Sorcerer]], [[Wizard]])_

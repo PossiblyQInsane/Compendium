@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T20:34:56.247-04:00
-modified: 2026-08-02T20:36:48.551-04:00
-published: 2026-08-02T20:36:48.551-04:00
+modified: 2026-08-15T15:08:16.313-04:00
+published: 2026-08-15T15:08:16.313-04:00
 Name: "[[Comprehend Languages]]"
 Spell Level: Level 1
 School: Divination
@@ -10,6 +10,7 @@ Classes: Bard, Sorcerer, Warlock, Wizard
 Special: R
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Divination ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

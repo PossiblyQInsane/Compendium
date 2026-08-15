@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-04T10:55:28.240-04:00
-modified: 2026-08-04T11:05:46.232-04:00
-published: 2026-08-04T11:05:46.232-04:00
+modified: 2026-08-15T15:06:41.205-04:00
+published: 2026-08-15T15:06:41.205-04:00
 Parent Class: "[[Cleric]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false
 Publisher: Ghostfire Gaming
+Edition: 5.5e
 ---
 
 ![[Images/Purification Domain.png|right|360]]

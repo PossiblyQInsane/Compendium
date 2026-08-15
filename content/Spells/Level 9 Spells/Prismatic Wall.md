@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T02:42:22.633-04:00
-modified: 2026-08-03T02:47:35.324-04:00
-published: 2026-08-03T02:47:35.324-04:00
+modified: 2026-08-15T15:12:01.515-04:00
+published: 2026-08-15T15:12:01.515-04:00
 Name: "[[Prismatic Wall]]"
 Spell Level: Level 9
 School: Abjuration
@@ -10,6 +10,7 @@ Classes: Bard, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 9 Abjuration ([[Bard]], [[Wizard]])_

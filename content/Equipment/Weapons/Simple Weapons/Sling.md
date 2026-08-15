@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T18:27:10.018-04:00
-modified: 2026-08-02T23:52:01.388-04:00
-published: 2026-08-02T23:52:01.388-04:00
+modified: 2026-08-15T15:17:21.670-04:00
+published: 2026-08-15T15:17:21.670-04:00
 Category: Simple Ranged Weapons
 Damage: 1d4 Bludgeoning
 Properties: Ammunition (Range 30/120; Bullet)
@@ -11,6 +11,7 @@ Weight: —
 Cost: 1 SP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Simple Ranged Weapon_

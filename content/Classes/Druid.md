@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-05T10:07:32.423-04:00
-modified: 2026-08-14T11:22:49.261-04:00
-published: 2026-08-14T11:22:49.261-04:00
+modified: 2026-08-15T15:04:53.642-04:00
+published: 2026-08-15T15:04:53.642-04:00
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 ![[Images/Druid.png]]

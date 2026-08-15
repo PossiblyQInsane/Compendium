@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T20:34:02.194-04:00
-modified: 2026-08-01T12:06:46.920-04:00
-published: 2026-08-01T12:06:46.920-04:00
+modified: 2026-08-15T15:08:08.877-04:00
+published: 2026-08-15T15:08:08.877-04:00
 Name: "[[Cloudkill]]"
 Spell Level: Level 5
 School: Conjuration
@@ -10,6 +10,7 @@ Classes: Sorcerer, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 5 Conjuration ([[Sorcerer]], [[Wizard]])_

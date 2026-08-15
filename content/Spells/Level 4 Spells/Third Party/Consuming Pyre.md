@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T11:34:42.281-04:00
-modified: 2026-08-04T11:36:41.371-04:00
-published: 2026-08-04T11:36:41.371-04:00
+modified: 2026-08-15T15:08:29.645-04:00
+published: 2026-08-15T15:08:29.645-04:00
 Name: "[[Consuming Pyre]]"
 Spell Level: Level 4
 School: Evocation
@@ -11,6 +11,7 @@ Special: C
 Source: The Crooked Moon
 Official: false
 Publisher: Avantris Entertainment
+Edition: 5.5e
 ---
 
 _Level 4 Evocation ([[Druid]], [[Paladin]], [[Warlock]])_

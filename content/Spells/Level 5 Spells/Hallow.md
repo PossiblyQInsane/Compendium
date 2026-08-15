@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T23:30:11.318-04:00
-modified: 2026-08-03T23:32:35.557-04:00
-published: 2026-08-03T23:32:35.557-04:00
+modified: 2026-08-15T15:10:21.822-04:00
+published: 2026-08-15T15:10:21.822-04:00
 Name: "[[Hallow]]"
 Spell Level: Level 5
 School: Abjuration
@@ -10,6 +10,7 @@ Classes: Cleric
 Special: M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 5 Abjuration ([[Cleric]])_

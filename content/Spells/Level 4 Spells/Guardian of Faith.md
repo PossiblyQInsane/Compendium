@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T23:16:02.829-04:00
-modified: 2026-08-03T23:17:40.231-04:00
-published: 2026-08-03T23:17:40.231-04:00
+modified: 2026-08-15T15:10:17.641-04:00
+published: 2026-08-15T15:10:17.641-04:00
 Name: "[[Guardian of Faith]]"
 Spell Level: Level 4
 School: Conjuration
@@ -10,6 +10,7 @@ Classes: Cleric
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 4 Conjuration ([[Cleric]])_

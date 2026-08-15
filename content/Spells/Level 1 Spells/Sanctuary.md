@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T23:08:13.572-04:00
-modified: 2026-08-01T11:57:14.303-04:00
-published: 2026-08-01T11:57:14.303-04:00
+modified: 2026-08-15T15:12:23.852-04:00
+published: 2026-08-15T15:12:23.852-04:00
 Name: "[[Sanctuary|Sanctuary]]"
 Spell Level: Level 1
 School: Abjuration
@@ -10,6 +10,7 @@ Classes: Artificer, Cleric
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Abjuration ([[Artificer]], [[Cleric]])_

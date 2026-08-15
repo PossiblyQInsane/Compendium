@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T19:51:04.372-04:00
-modified: 2026-08-02T19:52:57.574-04:00
-published: 2026-08-02T19:52:57.574-04:00
+modified: 2026-08-15T15:09:06.791-04:00
+published: 2026-08-15T15:09:06.791-04:00
 Name: "[[Dissonant Whispers]]"
 Spell Level: Level 1
 School: Enchantment
@@ -10,6 +10,7 @@ Classes: Bard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Enchantment ([[Bard]])_

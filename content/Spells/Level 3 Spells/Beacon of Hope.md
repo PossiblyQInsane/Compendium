@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T13:31:37.409-04:00
-modified: 2026-08-01T13:34:13.972-04:00
-published: 2026-08-01T13:34:13.972-04:00
+modified: 2026-08-15T15:07:31.911-04:00
+published: 2026-08-15T15:07:31.911-04:00
 Name: "[[Beacon of Hope]]"
 Spell Level: Level 3
 School: Abjuration
@@ -10,6 +10,7 @@ Classes: Cleric
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 3 Abjuration ([[Cleric]])_

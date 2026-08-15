@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T23:24:58.244-04:00
-modified: 2026-08-01T11:58:03.119-04:00
-published: 2026-08-01T11:58:03.119-04:00
+modified: 2026-08-15T15:07:50.401-04:00
+published: 2026-08-15T15:07:50.401-04:00
 Name: "[[Blur|Blur]]"
 Spell Level: Level 2
 School: Illusion
@@ -10,6 +10,7 @@ Classes: Artificer, Sorcerer, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 2 Illusion ([[Artificer]], [[Sorcerer]], [[Wizard]])_

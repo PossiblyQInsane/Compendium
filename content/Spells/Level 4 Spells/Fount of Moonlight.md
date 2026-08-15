@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T00:24:42.756-04:00
-modified: 2026-08-03T00:27:11.573-04:00
-published: 2026-08-03T00:27:11.573-04:00
+modified: 2026-08-15T15:09:59.337-04:00
+published: 2026-08-15T15:09:59.337-04:00
 Name: "[[Fount of Moonlight]]"
 Spell Level: Level 4
 School: Evocation
@@ -10,6 +10,7 @@ Classes: Bard, Druid
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 4 Evocation ([[Bard]], [[Druid]])_

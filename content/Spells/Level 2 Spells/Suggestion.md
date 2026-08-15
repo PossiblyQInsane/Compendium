@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T21:28:20.646-04:00
-modified: 2026-08-02T21:30:20.241-04:00
-published: 2026-08-02T21:30:20.241-04:00
+modified: 2026-08-15T15:13:04.735-04:00
+published: 2026-08-15T15:13:04.735-04:00
 Name: "[[Suggestion]]"
 Spell Level: Level 2
 School: Enchantment
@@ -10,6 +10,7 @@ Classes: Bard, Sorcerer, Warlock, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 2 Enchantment ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

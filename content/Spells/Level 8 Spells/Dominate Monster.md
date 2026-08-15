@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T02:29:01.725-04:00
-modified: 2026-08-03T02:31:31.110-04:00
-published: 2026-08-03T02:31:31.110-04:00
+modified: 2026-08-15T15:09:10.358-04:00
+published: 2026-08-15T15:09:10.358-04:00
 Name: "[[Dominate Monster]]"
 Spell Level: Level 8
 School: Enchantment
@@ -10,6 +10,7 @@ Classes: Bard, Sorcerer, Warlock, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 8 Enchantment ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

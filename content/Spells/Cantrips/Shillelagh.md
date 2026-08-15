@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-07T10:18:15.972-04:00
-modified: 2026-08-07T10:22:52.622-04:00
-published: 2026-08-07T10:22:52.622-04:00
+modified: 2026-08-15T15:12:39.631-04:00
+published: 2026-08-15T15:12:39.631-04:00
 Name: "[[Shillelagh]]"
 Spell Level: Cantrip
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Druid
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Transmutation Cantrip ([[Druid]])_

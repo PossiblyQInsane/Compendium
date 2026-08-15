@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T02:48:08.114-04:00
-modified: 2026-08-03T02:50:43.880-04:00
-published: 2026-08-03T02:50:43.880-04:00
+modified: 2026-08-15T15:13:30.525-04:00
+published: 2026-08-15T15:13:30.525-04:00
 Name: "[[True Polymorph]]"
 Spell Level: Level 9
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Bard, Warlock, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 9 Transmutation ([[Bard]], [[Warlock]], [[Wizard]])_

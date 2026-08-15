@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T11:13:55.900-04:00
-modified: 2026-08-04T11:15:55.984-04:00
-published: 2026-08-04T11:15:55.984-04:00
+modified: 2026-08-15T15:09:17.304-04:00
+published: 2026-08-15T15:09:17.304-04:00
 Name: "[[Druidcraft]]"
 Spell Level: Cantrip
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Druid
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Transmutation Cantrip ([[Druid]])_

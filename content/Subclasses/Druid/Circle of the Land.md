@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-08T01:06:10.334-04:00
-modified: 2026-08-08T01:15:02.524-04:00
-published: 2026-08-08T01:15:02.524-04:00
+modified: 2026-08-15T15:05:41.971-04:00
+published: 2026-08-15T15:05:41.971-04:00
 Parent Class: "[[Druid]]"
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 ![[Images/Circle of the Land.png|left|264]]

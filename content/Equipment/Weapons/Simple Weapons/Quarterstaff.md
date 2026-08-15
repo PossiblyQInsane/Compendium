@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:51:38.897-04:00
-modified: 2026-08-01T17:57:24.992-04:00
-published: 2026-08-01T17:57:24.992-04:00
+modified: 2026-08-15T15:17:01.030-04:00
+published: 2026-08-15T15:17:01.030-04:00
 Category: Simple Melee Weapons
 Damage: 1d6 Bludgeoning
 Properties: Versatile (1d8)
@@ -11,6 +11,7 @@ Weight: 4 lb.
 Cost: 2 SP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Simple Melee Weapon_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T00:04:52.598-04:00
-modified: 2026-08-03T00:07:11.212-04:00
-published: 2026-08-03T00:07:11.212-04:00
+modified: 2026-08-15T15:13:28.325-04:00
+published: 2026-08-15T15:13:28.325-04:00
 Name: "[[Tongues]]"
 Spell Level: Level 3
 School: Divination
@@ -10,6 +10,7 @@ Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 3 Divination ([[Bard]], [[Cleric]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

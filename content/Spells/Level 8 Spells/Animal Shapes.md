@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-08T00:51:46.368-04:00
-modified: 2026-08-08T00:53:41.553-04:00
-published: 2026-08-08T00:53:41.553-04:00
+modified: 2026-08-15T15:07:11.055-04:00
+published: 2026-08-15T15:07:11.055-04:00
 Name: "[[Animal Shapes]]"
 Spell Level: Level 8
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Druid
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 8 Transmutation ([[Druid]])_

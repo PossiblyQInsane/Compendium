@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-08T01:25:33.352-04:00
-modified: 2026-08-08T01:30:59.331-04:00
-published: 2026-08-08T01:30:59.331-04:00
+modified: 2026-08-15T15:05:45.748-04:00
+published: 2026-08-15T15:05:45.748-04:00
 Parent Class: "[[Druid]]"
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 ![[Images/Circle of the Stars.png|right|270]]

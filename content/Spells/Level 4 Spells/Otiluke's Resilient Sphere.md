@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T15:23:26.443-04:00
-modified: 2026-08-01T12:08:06.602-04:00
-published: 2026-08-01T12:08:06.602-04:00
+modified: 2026-08-15T15:11:40.205-04:00
+published: 2026-08-15T15:11:40.205-04:00
 Name: "[[Otiluke's Resilient Sphere]]"
 Spell Level: Level 4
 School: Abjuration
@@ -10,6 +10,7 @@ Classes: Artificer, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 4 Abjuration ([[Artificer|Artificer]], [[Wizard]])_

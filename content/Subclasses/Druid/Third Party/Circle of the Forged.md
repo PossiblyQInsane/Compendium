@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-10T15:00:05.446-04:00
-modified: 2026-08-10T15:09:10.284-04:00
-published: 2026-08-10T15:09:10.284-04:00
+modified: 2026-08-15T15:05:38.417-04:00
+published: 2026-08-15T15:05:38.417-04:00
 Parent Class: "[[Druid]]"
 Source: Exploring Eberron
 Official: false
 Publisher: Visionary Production and Design
+Edition: 5.5e
 ---
 
 ![[Images/Circle of the Forged.png|right|296]]

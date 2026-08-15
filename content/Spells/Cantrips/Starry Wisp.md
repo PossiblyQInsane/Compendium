@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T20:24:33.929-04:00
-modified: 2026-08-02T20:26:25.732-04:00
-published: 2026-08-02T20:26:25.732-04:00
+modified: 2026-08-15T15:12:59.344-04:00
+published: 2026-08-15T15:12:59.344-04:00
 Name: "[[Starry Wisp]]"
 Spell Level: Cantrip
 School: Evocation
@@ -10,6 +10,7 @@ Classes: Bard, Druid
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Evocation Cantrip ([[Bard]], [[Druid]])_

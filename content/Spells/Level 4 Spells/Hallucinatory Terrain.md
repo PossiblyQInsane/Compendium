@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T00:27:54.704-04:00
-modified: 2026-08-03T00:30:21.584-04:00
-published: 2026-08-03T00:30:21.584-04:00
+modified: 2026-08-15T15:10:22.718-04:00
+published: 2026-08-15T15:10:22.718-04:00
 Name: "[[Hallucinatory Terrain]]"
 Spell Level: Level 4
 School: Illusion
@@ -10,6 +10,7 @@ Classes: Bard, Druid, Warlock, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 4 Illusion ([[Bard]], [[Druid]], [[Warlock]], [[Wizard]])_

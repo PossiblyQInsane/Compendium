@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-04T09:37:41.899-04:00
-modified: 2026-08-04T09:55:19.556-04:00
-published: 2026-08-04T09:55:19.556-04:00
+modified: 2026-08-15T15:06:18.271-04:00
+published: 2026-08-15T15:06:18.271-04:00
 Parent Class: "[[Cleric]]"
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 ![[Images/Light Domain.png|left|292]]

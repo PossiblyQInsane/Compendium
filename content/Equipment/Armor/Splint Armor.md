@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T19:51:09.816-04:00
-modified: 2026-08-01T19:52:43.734-04:00
-published: 2026-08-01T19:52:43.734-04:00
+modified: 2026-08-15T15:17:25.535-04:00
+published: 2026-08-15T15:17:25.535-04:00
 Category: Heavy Armor
 Armor Class (AC): "17"
 Strength: Str 15
@@ -11,6 +11,7 @@ Weight: 60 lb.
 Cost: 200 GP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Heavy Armor (10 Minutes to Don and 5 Minutes to Doff)_

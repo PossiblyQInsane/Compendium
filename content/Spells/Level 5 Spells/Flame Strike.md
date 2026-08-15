@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T23:27:58.455-04:00
-modified: 2026-08-03T23:29:36.430-04:00
-published: 2026-08-03T23:29:36.430-04:00
+modified: 2026-08-15T15:09:49.053-04:00
+published: 2026-08-15T15:09:49.053-04:00
 Name: "[[Flame Strike]]"
 Spell Level: Level 5
 School: Evocation
@@ -10,6 +10,7 @@ Classes: Cleric
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 5 Evocation ([[Cleric]])_

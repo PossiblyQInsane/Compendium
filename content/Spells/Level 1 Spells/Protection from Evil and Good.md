@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T22:40:12.595-04:00
-modified: 2026-08-03T22:42:50.585-04:00
-published: 2026-08-03T22:42:50.585-04:00
+modified: 2026-08-15T15:12:06.574-04:00
+published: 2026-08-15T15:12:06.574-04:00
 Name: "[[Protection from Evil and Good]]"
 Spell Level: Level 1
 School: Abjuration
@@ -10,6 +10,7 @@ Classes: Cleric, Druid, Paladin, Warlock, Wizard
 Special: C, M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Abjuration ([[Cleric]], [[Druid]], [[Paladin]], [[Warlock]], [[Wizard]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T20:29:25.121-04:00
-modified: 2026-08-02T20:31:23.665-04:00
-published: 2026-08-02T20:31:23.665-04:00
+modified: 2026-08-15T15:07:28.784-04:00
+published: 2026-08-15T15:07:28.784-04:00
 Name: "[[Bane]]"
 Spell Level: Level 1
 School: Enchantment
@@ -10,6 +10,7 @@ Classes: Bard, Cleric, Warlock
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Enchantment ([[Bard]], [[Cleric]], [[Warlock]])_

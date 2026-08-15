@@ -1,14 +1,15 @@
 ---
 publish: true
 created: 2026-08-02T18:57:17.360-04:00
-modified: 2026-08-02T18:58:31.974-04:00
-published: 2026-08-02T18:58:31.974-04:00
+modified: 2026-08-15T15:16:33.135-04:00
+published: 2026-08-15T15:16:33.135-04:00
 Category: Musical Instrument
 Ability: Charisma
 Weight: 2 lb.
 Cost: 35 GP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 **Ability:** Charisma

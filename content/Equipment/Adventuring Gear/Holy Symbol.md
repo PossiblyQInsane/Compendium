@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T21:36:22.000-04:00
-modified: 2026-08-03T21:39:33.176-04:00
-published: 2026-08-03T21:39:33.176-04:00
+modified: 2026-08-15T15:16:08.152-04:00
+published: 2026-08-15T15:16:08.152-04:00
 Weight: Varies
 Cost: Varies
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 A Holy Symbol takes one of the forms in the Holy Symbol table and is bejeweled or painted to channel divine magic. A [[Cleric]] or [[Paladin]] can use a Holy Symbol as a [[Spellcasting Focus]].

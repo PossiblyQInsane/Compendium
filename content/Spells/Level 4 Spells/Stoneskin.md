@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T15:33:05.987-04:00
-modified: 2026-08-01T12:07:46.414-04:00
-published: 2026-08-01T12:07:46.414-04:00
+modified: 2026-08-15T15:13:03.216-04:00
+published: 2026-08-15T15:13:03.216-04:00
 Name: "[[Stoneskin]]"
 Spell Level: Level 4
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Artificer, Druid, Ranger, Sorcerer, Wizard
 Special: C, M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 4 Transmutation ([[Artificer|Artificer]], [[Druid]], [[Ranger]], [[Sorcerer]], [[Wizard]])_

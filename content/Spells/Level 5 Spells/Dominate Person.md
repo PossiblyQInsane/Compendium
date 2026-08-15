@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T00:45:07.026-04:00
-modified: 2026-08-03T00:47:34.885-04:00
-published: 2026-08-03T00:47:34.885-04:00
+modified: 2026-08-15T15:09:13.063-04:00
+published: 2026-08-15T15:09:13.063-04:00
 Name: "[[Dominate Person]]"
 Spell Level: Level 5
 School: Enchantment
@@ -10,6 +10,7 @@ Classes: Bard, Sorcerer, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 5 Enchantment ([[Bard]], [[Sorcerer]], [[Wizard]])_

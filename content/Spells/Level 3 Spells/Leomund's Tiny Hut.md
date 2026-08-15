@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T23:32:37.540-04:00
-modified: 2026-08-02T23:35:39.271-04:00
-published: 2026-08-02T23:35:39.271-04:00
+modified: 2026-08-15T15:10:52.976-04:00
+published: 2026-08-15T15:10:52.976-04:00
 Name: "[[Leomund's Tiny Hut]]"
 Spell Level: Level 3
 School: Evocation
@@ -10,6 +10,7 @@ Classes: Bard, Wizard
 Special: R
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 3 Evocation ([[Bard]], [[Wizard]])_

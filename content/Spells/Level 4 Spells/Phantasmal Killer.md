@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T00:30:59.488-04:00
-modified: 2026-08-03T00:37:56.525-04:00
-published: 2026-08-03T00:37:56.525-04:00
+modified: 2026-08-15T15:11:48.077-04:00
+published: 2026-08-15T15:11:48.077-04:00
 Name: "[[Phantasmal Killer]]"
 Spell Level: Level 4
 School: Illusion
@@ -10,6 +10,7 @@ Classes: Bard, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 4 Illusion ([[Bard]], [[Wizard]])_

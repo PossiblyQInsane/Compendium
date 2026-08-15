@@ -2,8 +2,8 @@
 publish: true
 title: Antipathy/Sympathy
 created: 2026-08-03T02:22:24.368-04:00
-modified: 2026-08-03T02:25:12.091-04:00
-published: 2026-08-03T02:25:12.091-04:00
+modified: 2026-08-15T15:07:16.142-04:00
+published: 2026-08-15T15:07:16.142-04:00
 Name: "[[Antipathy-Sympathy|Antipathy/Sympathy]]"
 Spell Level: Level 8
 School: Enchantment
@@ -11,6 +11,7 @@ Classes: Bard, Druid, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 8 Enchantment ([[Bard]],  [[Druid]], [[Wizard]])_

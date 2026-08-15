@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T20:15:08.627-04:00
-modified: 2026-08-01T20:19:01.393-04:00
-published: 2026-08-01T20:19:01.393-04:00
+modified: 2026-08-15T15:15:55.512-04:00
+published: 2026-08-15T15:15:55.512-04:00
 Category: Martial Melee Weapons
 Damage: 1d12 Slashing
 Properties: Heavy, Two-Handed
@@ -11,6 +11,7 @@ Weight: 7 lb.
 Cost: 30 GP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Martial Melee Weapon_

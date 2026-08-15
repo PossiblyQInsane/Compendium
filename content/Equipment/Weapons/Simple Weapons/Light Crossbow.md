@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T18:12:09.569-04:00
-modified: 2026-08-02T23:51:26.795-04:00
-published: 2026-08-02T23:51:26.795-04:00
+modified: 2026-08-15T15:16:27.622-04:00
+published: 2026-08-15T15:16:27.622-04:00
 Category: Simple Ranged Weapons
 Damage: 1d8 Piercing
 Properties: Ammunition (Range 80/320; Bolt), Loading, Two-Handed
@@ -11,6 +11,7 @@ Weight: 5 lb.
 Cost: 25 GP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Simple Ranged Weapon_

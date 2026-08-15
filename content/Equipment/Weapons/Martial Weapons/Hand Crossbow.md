@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T21:18:02.429-04:00
-modified: 2026-08-01T21:24:15.680-04:00
-published: 2026-08-01T21:24:15.680-04:00
+modified: 2026-08-15T15:15:59.276-04:00
+published: 2026-08-15T15:15:59.276-04:00
 Category: Martial Ranged Weapons
 Damage: 1d6 Piercing
 Properties: Ammunition (Range 30/120; Bolt), Light, Loading
@@ -11,6 +11,7 @@ Weight: 3 lb.
 Cost: 75 GP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Martial Ranged Weapon_

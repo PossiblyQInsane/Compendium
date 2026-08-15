@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T17:40:21.305-04:00
-modified: 2026-08-01T17:44:47.345-04:00
-published: 2026-08-01T17:44:47.345-04:00
+modified: 2026-08-15T15:16:28.641-04:00
+published: 2026-08-15T15:16:28.641-04:00
 Category: Simple Melee Weapons
 Damage: 1d4 Bludgeoning
 Properties: Light, Thrown (Range 20/60)
@@ -11,6 +11,7 @@ Weight: 2 lb.
 Cost: 2 GP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Simple Melee Weapon_

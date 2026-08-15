@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T10:11:56.692-04:00
-modified: 2026-08-04T10:13:31.876-04:00
-published: 2026-08-04T10:13:31.876-04:00
+modified: 2026-08-15T15:13:00.358-04:00
+published: 2026-08-15T15:13:00.358-04:00
 Name: "[[Steel Wind Strike]]"
 Spell Level: Level 5
 School: Conjuration
@@ -10,6 +10,7 @@ Classes: Ranger, Wizard
 Special: M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 5 Conjuration ([[Ranger]], [[Wizard]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T00:26:56.041-04:00
-modified: 2026-08-04T00:30:02.978-04:00
-published: 2026-08-04T00:30:02.978-04:00
+modified: 2026-08-15T15:09:08.718-04:00
+published: 2026-08-15T15:09:08.718-04:00
 Name: "[[Divine Word]]"
 Spell Level: Level 7
 School: Evocation
@@ -10,6 +10,7 @@ Classes: Cleric
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 7 Evocation ([[Cleric]])_

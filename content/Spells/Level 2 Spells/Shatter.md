@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T23:22:26.665-04:00
-modified: 2026-08-01T12:00:09.001-04:00
-published: 2026-08-01T12:00:09.001-04:00
+modified: 2026-08-15T15:12:37.231-04:00
+published: 2026-08-15T15:12:37.231-04:00
 Name: "[[Shatter]]"
 Spell Level: Level 2
 School: Evocation
@@ -10,6 +10,7 @@ Classes: Bard, Sorcerer, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 2 Evocation ([[Bard]], [[Sorcerer]], [[Wizard]])_

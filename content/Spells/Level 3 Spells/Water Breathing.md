@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T14:38:05.010-04:00
-modified: 2026-08-01T12:03:55.652-04:00
-published: 2026-08-01T12:03:55.652-04:00
+modified: 2026-08-15T15:13:46.096-04:00
+published: 2026-08-15T15:13:46.096-04:00
 Name: "[[Water Breathing]]"
 Spell Level: Level 3
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Artificer, Druid, Ranger, Sorcerer, Wizard
 Special: R
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 3 Transmutation ([[Artificer|Artificer]], [[Druid]], [[Ranger]], [[Sorcerer]], [[Wizard]])_

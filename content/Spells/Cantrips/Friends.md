@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T20:18:26.169-04:00
-modified: 2026-08-02T20:20:50.921-04:00
-published: 2026-08-02T20:20:50.921-04:00
+modified: 2026-08-15T15:10:01.893-04:00
+published: 2026-08-15T15:10:01.893-04:00
 Name: "[[Friends]]"
 Spell Level: Cantrip
 School: Enchantment
@@ -10,6 +10,7 @@ Classes: Bard, Sorcerer, Warlock, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Enchantment Cantrip ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-10T15:20:51.891-04:00
-modified: 2026-08-10T15:31:24.815-04:00
-published: 2026-08-10T15:31:24.815-04:00
+modified: 2026-08-15T15:05:37.503-04:00
+published: 2026-08-15T15:05:37.503-04:00
 Parent Class: "[[Druid]]"
 Source: Valda's Spire of Secrets
 Official: false
 Publisher: Mage Hand Press
+Edition: 5.5e
 ---
 
 ![[Images/Circle of the City.png|right|364]]

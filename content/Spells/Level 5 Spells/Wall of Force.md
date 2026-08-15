@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-28T10:44:38.262-04:00
-modified: 2026-08-01T12:05:40.974-04:00
-published: 2026-08-01T12:05:40.974-04:00
+modified: 2026-08-15T15:13:41.790-04:00
+published: 2026-08-15T15:13:41.790-04:00
 Name: "[[Wall of Force]]"
 Spell Level: Level 5
 School: Evocation
@@ -10,6 +10,7 @@ Classes: Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 5 Evocation ([[Wizard]])_

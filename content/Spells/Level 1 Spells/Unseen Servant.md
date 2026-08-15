@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T20:50:55.006-04:00
-modified: 2026-08-02T20:53:22.679-04:00
-published: 2026-08-02T20:53:22.679-04:00
+modified: 2026-08-15T15:13:37.296-04:00
+published: 2026-08-15T15:13:37.296-04:00
 Name: "[[Unseen Servant]]"
 Spell Level: Level 1
 School: Conjuration
@@ -10,6 +10,7 @@ Classes: Bard, Warlock, Wizard
 Special: R
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Conjuration ([[Bard]], [[Warlock]], [[Wizard]])_

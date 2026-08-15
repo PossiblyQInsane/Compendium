@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T00:17:30.605-04:00
-modified: 2026-08-03T00:20:13.168-04:00
-published: 2026-08-03T00:20:13.168-04:00
+modified: 2026-08-15T15:08:19.470-04:00
+published: 2026-08-15T15:08:19.470-04:00
 Name: "[[Confusion]]"
 Spell Level: Level 4
 School: Enchantment
@@ -10,6 +10,7 @@ Classes: Bard, Druid, Sorcerer, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 4 Enchantment ([[Bard]], [[Druid]], [[Sorcerer]], [[Wizard]])_

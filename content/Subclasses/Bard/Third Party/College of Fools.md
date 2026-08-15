@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T15:15:23.035-04:00
-modified: 2026-08-03T15:19:58.001-04:00
-published: 2026-08-03T15:19:58.001-04:00
+modified: 2026-08-15T15:05:54.625-04:00
+published: 2026-08-15T15:05:54.625-04:00
 Parent Class: "[[Bard]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false
 Publisher: Ghostfire Gaming
+Edition: 5.5e
 ---
 
 ![[Images/College of Fools.png|right|315]]

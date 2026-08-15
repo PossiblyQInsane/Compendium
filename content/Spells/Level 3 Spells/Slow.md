@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T23:48:22.828-04:00
-modified: 2026-08-02T23:53:50.510-04:00
-published: 2026-08-02T23:53:50.510-04:00
+modified: 2026-08-15T15:12:49.115-04:00
+published: 2026-08-15T15:12:49.115-04:00
 Name: "[[Spells/Level 3 Spells/Slow|Slow]]"
 Spell Level: Level 3
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Bard, Sorcerer, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 3 Transmutation ([[Bard]], [[Sorcerer]], [[Wizard]])_

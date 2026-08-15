@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T01:40:15.773-04:00
-modified: 2026-08-03T01:42:33.892-04:00
-published: 2026-08-03T01:42:33.892-04:00
+modified: 2026-08-15T15:12:03.414-04:00
+published: 2026-08-15T15:12:03.414-04:00
 Name: "[[Programmed Illusion]]"
 Spell Level: Level 6
 School: Illusion
@@ -10,6 +10,7 @@ Classes: Bard, Wizard
 Special: M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 6 Illusion ([[Bard]], [[Wizard]])_

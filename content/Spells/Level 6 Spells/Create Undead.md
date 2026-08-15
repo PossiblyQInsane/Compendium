@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T23:59:08.144-04:00
-modified: 2026-08-04T00:04:24.818-04:00
-published: 2026-08-04T00:04:24.818-04:00
+modified: 2026-08-15T15:08:41.478-04:00
+published: 2026-08-15T15:08:41.478-04:00
 Name: "[[Create Undead]]"
 Spell Level: Level 6
 School: Necromancy
@@ -10,6 +10,7 @@ Classes: Cleric, Warlock, Wizard
 Special: M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 6 Necromancy ([[Cleric]], [[Warlock]], [[Wizard]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T20:37:40.873-04:00
-modified: 2026-08-02T20:39:44.468-04:00
-published: 2026-08-02T20:39:44.468-04:00
+modified: 2026-08-15T15:10:44.514-04:00
+published: 2026-08-15T15:10:44.514-04:00
 Name: "[[Illusory Script]]"
 Spell Level: Level 1
 School: Illusion
@@ -10,6 +10,7 @@ Classes: Bard, Warlock, Wizard
 Special: R, M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Illusion ([[Bard]], [[Warlock]], [[Wizard]])_

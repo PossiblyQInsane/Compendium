@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T01:11:34.248-04:00
-modified: 2026-08-03T01:13:27.236-04:00
-published: 2026-08-03T01:13:27.236-04:00
+modified: 2026-08-15T15:12:12.766-04:00
+published: 2026-08-15T15:12:12.766-04:00
 Name: "[[Rary's Telepathic Bond]]"
 Spell Level: Level 5
 School: Divination
@@ -10,6 +10,7 @@ Classes: Bard, Wizard
 Special: R
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 5 Divination ([[Bard]], [[Wizard]])_

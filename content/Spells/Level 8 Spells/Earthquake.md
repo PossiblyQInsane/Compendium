@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T00:43:55.566-04:00
-modified: 2026-08-04T00:46:31.199-04:00
-published: 2026-08-04T00:46:31.199-04:00
+modified: 2026-08-15T15:09:18.154-04:00
+published: 2026-08-15T15:09:18.154-04:00
 Name: "[[Earthquake]]"
 Spell Level: Level 8
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Cleric, Druid, Sorcerer
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 8 Transmutation ([[Cleric]], [[Druid]], [[Sorcerer]])_

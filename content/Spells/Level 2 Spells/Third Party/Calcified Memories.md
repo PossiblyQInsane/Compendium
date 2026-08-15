@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-10T13:28:36.632-04:00
-modified: 2026-08-10T13:31:36.183-04:00
-published: 2026-08-10T13:31:36.183-04:00
+modified: 2026-08-15T15:07:53.209-04:00
+published: 2026-08-15T15:07:53.209-04:00
 Name: "[[Calcified Memories]]"
 Spell Level: Level 2
 School: Divination (Osteomancy)
@@ -11,6 +11,7 @@ Special: R
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false
 Publisher: MonkeyDM
+Edition: 5.5e
 ---
 
 _Level 2 Divination (Osteomancy) ([[Warlock]], [[Wizard]])_

@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-03T12:19:55.753-04:00
-modified: 2026-08-03T12:26:57.515-04:00
-published: 2026-08-03T12:26:57.515-04:00
+modified: 2026-08-15T15:05:55.486-04:00
+published: 2026-08-15T15:05:55.486-04:00
 Parent Class: "[[Bard]]"
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 ![[Images/College of Glamour.png|left|362]]

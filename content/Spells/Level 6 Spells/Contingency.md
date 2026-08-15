@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-09T10:43:21.620-04:00
-modified: 2026-08-09T10:45:35.206-04:00
-published: 2026-08-09T10:45:35.206-04:00
+modified: 2026-08-15T15:08:33.537-04:00
+published: 2026-08-15T15:08:33.537-04:00
 Name: "[[Contingency]]"
 Spell Level: Level 6
 School: Abjuration
@@ -10,6 +10,7 @@ Classes: Wizard
 Special: M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 6 Abjuration ([[Wizard]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T21:03:13.775-04:00
-modified: 2026-08-01T21:05:47.959-04:00
-published: 2026-08-01T21:05:47.959-04:00
+modified: 2026-08-15T15:17:40.246-04:00
+published: 2026-08-15T15:17:40.246-04:00
 Category: Martial Melee Weapons
 Damage: 1d8 Bludgeoning
 Properties: Versatile (1d10)
@@ -11,6 +11,7 @@ Weight: 5 lb.
 Cost: 15 GP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Martial Melee Weapon_

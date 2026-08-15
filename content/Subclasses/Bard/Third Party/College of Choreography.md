@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T15:59:06.943-04:00
-modified: 2026-08-03T16:04:20.128-04:00
-published: 2026-08-03T16:04:20.128-04:00
+modified: 2026-08-15T15:05:50.522-04:00
+published: 2026-08-15T15:05:50.522-04:00
 Parent Class: "[[Bard]]"
 Source: "The Griffon's Saddlebag: Book One"
 Official: false
 Publisher: The Griffon's Saddlebag
+Edition: 5.5e
 ---
 
 ![[Images/College of Choreography.png|right|336]]

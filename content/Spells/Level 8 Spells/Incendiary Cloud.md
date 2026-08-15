@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-08T00:54:04.207-04:00
-modified: 2026-08-08T00:56:28.936-04:00
-published: 2026-08-08T00:56:28.936-04:00
+modified: 2026-08-15T15:10:45.278-04:00
+published: 2026-08-15T15:10:45.278-04:00
 Name: "[[Incendiary Cloud]]"
 Spell Level: Level 8
 School: Conjuration
@@ -10,6 +10,7 @@ Classes: Druid, Sorcerer, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 8 Conjuration ([[Druid]], [[Sorcerer]], [[Wizard]])_

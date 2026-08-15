@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T18:01:51.960-04:00
-modified: 2026-08-01T18:06:49.513-04:00
-published: 2026-08-01T18:06:49.513-04:00
+modified: 2026-08-15T15:17:23.469-04:00
+published: 2026-08-15T15:17:23.469-04:00
 Category: Simple Melee Weapons
 Damage: 1d6 Piercing
 Properties: Thrown (Range 20/60), Versatile (1d8)
@@ -11,6 +11,7 @@ Weight: 3 lb.
 Cost: 1 GP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Simple Melee Weapon_

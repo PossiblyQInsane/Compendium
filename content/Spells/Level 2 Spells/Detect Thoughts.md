@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T21:06:45.139-04:00
-modified: 2026-08-02T21:09:10.195-04:00
-published: 2026-08-02T21:09:10.195-04:00
+modified: 2026-08-15T15:08:57.910-04:00
+published: 2026-08-15T15:08:57.910-04:00
 Name: "[[Detect Thoughts]]"
 Spell Level: Level 2
 School: Divination
@@ -10,6 +10,7 @@ Classes: Bard, Sorcerer, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 2 Divination ([[Bard]], [[Sorcerer]], [[Wizard]])_

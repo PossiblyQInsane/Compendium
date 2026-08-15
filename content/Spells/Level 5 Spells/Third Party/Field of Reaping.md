@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T11:37:19.859-04:00
-modified: 2026-08-04T11:39:59.700-04:00
-published: 2026-08-04T11:39:59.700-04:00
+modified: 2026-08-15T15:09:39.857-04:00
+published: 2026-08-15T15:09:39.857-04:00
 Name: "[[Field of Reaping]]"
 Spell Level: Level 5
 School: Necromancy
@@ -11,6 +11,7 @@ Special: C
 Source: The Crooked Moon
 Official: false
 Publisher: Avantris Entertainment
+Edition: 5.5e
 ---
 
 _Level 5 Necromancy ([[Cleric]], [[Druid]], [[Warlock]])_

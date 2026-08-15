@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-24T01:00:22.880-04:00
-modified: 2026-08-01T22:01:05.121-04:00
-published: 2026-08-01T22:01:05.121-04:00
+modified: 2026-08-15T15:14:58.718-04:00
+published: 2026-08-15T15:14:58.718-04:00
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 Artisan’s Tools are each focused on crafting items and pursuing a trade. Each of these tools requires a separate proficiency.

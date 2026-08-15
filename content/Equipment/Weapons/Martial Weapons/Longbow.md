@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T21:26:44.072-04:00
-modified: 2026-08-02T23:51:37.011-04:00
-published: 2026-08-02T23:51:37.011-04:00
+modified: 2026-08-15T15:16:30.159-04:00
+published: 2026-08-15T15:16:30.159-04:00
 Category: Martial Ranged Weapons
 Damage: 1d8 Piercing
 Properties: Ammunition (Range 150/600; Arrow), Heavy, Two-Handed
@@ -11,6 +11,7 @@ Weight: 2 lb.
 Cost: 50 GP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Martial Ranged Weapon_

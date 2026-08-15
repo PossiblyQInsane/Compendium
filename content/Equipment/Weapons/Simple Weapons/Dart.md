@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T18:07:21.257-04:00
-modified: 2026-08-01T18:11:15.569-04:00
-published: 2026-08-01T18:11:15.569-04:00
+modified: 2026-08-15T15:15:37.557-04:00
+published: 2026-08-15T15:15:37.557-04:00
 Category: Simple Ranged Weapons
 Damage: 1d4 Piercing
 Properties: Finesse, Thrown (Range 20/60)
@@ -11,6 +11,7 @@ Weight: 1/4 lb.
 Cost: 5 CP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Simple Ranged Weapon_

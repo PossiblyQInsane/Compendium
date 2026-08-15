@@ -1,14 +1,15 @@
 ---
 publish: true
 created: 2026-08-01T21:57:21.458-04:00
-modified: 2026-08-01T22:00:31.508-04:00
-published: 2026-08-01T22:00:31.508-04:00
+modified: 2026-08-15T15:15:33.374-04:00
+published: 2026-08-15T15:15:33.374-04:00
 Category: Artisan's Tools
 Ability: Wisdom
 Weight: 8 lb.
 Cost: 1 GP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 **Ability:** Wisdom

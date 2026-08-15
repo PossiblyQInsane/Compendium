@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T22:43:57.797-04:00
-modified: 2026-08-03T22:45:55.136-04:00
-published: 2026-08-03T22:45:55.136-04:00
+modified: 2026-08-15T15:07:23.551-04:00
+published: 2026-08-15T15:07:23.551-04:00
 Name: "[[Augury]]"
 Spell Level: Level 2
 School: Divination
@@ -10,6 +10,7 @@ Classes: Cleric, Druid, Wizard
 Special: R, M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 2 Divination ([[Cleric]], [[Druid]], [[Wizard]])_

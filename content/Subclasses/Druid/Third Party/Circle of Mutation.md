@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-09T10:13:46.048-04:00
-modified: 2026-08-09T10:25:30.584-04:00
-published: 2026-08-09T10:25:30.584-04:00
+modified: 2026-08-15T15:05:35.469-04:00
+published: 2026-08-15T15:05:35.469-04:00
 Parent Class: "[[Druid]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false
 Publisher: Ghostfire Gaming
+Edition: 5.5e
 ---
 
 ![[Images/Circle of Mutation.png|right|352]]

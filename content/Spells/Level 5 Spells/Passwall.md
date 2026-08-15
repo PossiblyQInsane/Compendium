@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-28T10:40:19.744-04:00
-modified: 2026-08-01T12:06:04.035-04:00
-published: 2026-08-01T12:06:04.035-04:00
+modified: 2026-08-15T15:11:44.407-04:00
+published: 2026-08-15T15:11:44.407-04:00
 Name: "[[Passwall]]"
 Spell Level: Level 5
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 5 Transmutation ([[Wizard]])_

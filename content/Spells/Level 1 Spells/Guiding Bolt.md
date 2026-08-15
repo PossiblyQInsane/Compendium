@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T10:21:29.116-04:00
-modified: 2026-08-01T02:44:10.947-04:00
-published: 2026-08-01T02:44:10.947-04:00
+modified: 2026-08-15T15:10:20.310-04:00
+published: 2026-08-15T15:10:20.310-04:00
 Name: "[[Guiding Bolt]]"
 Spell Level: Level 1
 School: Evocation
@@ -10,6 +10,7 @@ Classes: Cleric
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Evocation ([[Cleric]])_

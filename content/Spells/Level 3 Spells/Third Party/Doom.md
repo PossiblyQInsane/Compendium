@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T01:21:49.456-04:00
-modified: 2026-08-05T01:24:20.369-04:00
-published: 2026-08-05T01:24:20.369-04:00
+modified: 2026-08-15T15:09:13.931-04:00
+published: 2026-08-15T15:09:13.931-04:00
 Name: "[[Doom]]"
 Spell Level: Level 3
 School: Necromancy
@@ -11,6 +11,7 @@ Special: C
 Source: Cthulhu by Torchlight
 Official: false
 Publisher: Chaosium
+Edition: 5.5e
 ---
 
 _Level 3 Necromancy ([[Cleric]])_

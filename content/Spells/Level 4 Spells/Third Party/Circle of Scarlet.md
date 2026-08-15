@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-09T09:37:45.513-04:00
-modified: 2026-08-09T09:41:19.770-04:00
-published: 2026-08-09T09:41:19.770-04:00
+modified: 2026-08-15T15:08:06.021-04:00
+published: 2026-08-15T15:08:06.021-04:00
 Name: "[[Circle of Scarlet]]"
 Spell Level: Level 4
 School: Evocation (Sangromancy)
@@ -11,6 +11,7 @@ Special: —
 Source: "Grim Hollow: Player's Guide"
 Official: false
 Publisher: Ghostfire Gaming
+Edition: 5.5e
 ---
 
 _Level 4 Evocation (Sangromancy) ([[Sorcerer]], [[Warlock]])_

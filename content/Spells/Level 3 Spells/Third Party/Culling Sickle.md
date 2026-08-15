@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T11:29:23.525-04:00
-modified: 2026-08-04T11:31:54.522-04:00
-published: 2026-08-04T11:31:54.522-04:00
+modified: 2026-08-15T15:08:47.263-04:00
+published: 2026-08-15T15:08:47.263-04:00
 Name: "[[Culling Sickle]]"
 Spell Level: Level 3
 School: Necromancy
@@ -11,6 +11,7 @@ Special: C
 Source: The Crooked Moon
 Official: false
 Publisher: Avantris Entertainment
+Edition: 5.5e
 ---
 
 _Level 3 Necromancy ([[Druid]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

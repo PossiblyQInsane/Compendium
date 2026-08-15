@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-29T11:43:49.832-04:00
-modified: 2026-08-01T12:08:47.626-04:00
-published: 2026-08-01T12:08:47.626-04:00
+modified: 2026-08-15T15:10:41.302-04:00
+published: 2026-08-15T15:10:41.302-04:00
 Name: "[[Ice Storm]]"
 Spell Level: Level 4
 School: Evocation
@@ -10,6 +10,7 @@ Classes: Druid, Sorcerer, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 4 Evocation ([[Druid]], [[Sorcerer]], [[Wizard]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T20:59:14.396-04:00
-modified: 2026-08-01T21:02:36.197-04:00
-published: 2026-08-01T21:02:36.197-04:00
+modified: 2026-08-15T15:17:36.193-04:00
+published: 2026-08-15T15:17:36.193-04:00
 Category: Martial Melee Weapons
 Damage: 1d8 Piercing
 Properties: Thrown (Range 20/60), Versatile (1d10)
@@ -11,6 +11,7 @@ Weight: 4 lb.
 Cost: 5 GP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Martial Melee Weapon_

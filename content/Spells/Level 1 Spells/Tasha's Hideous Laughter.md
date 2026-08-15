@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T20:47:43.306-04:00
-modified: 2026-08-02T20:50:03.730-04:00
-published: 2026-08-02T20:50:03.730-04:00
+modified: 2026-08-15T15:13:17.454-04:00
+published: 2026-08-15T15:13:17.454-04:00
 Name: "[[Tasha's Hideous Laughter]]"
 Spell Level: Level 1
 School: Enchantment
@@ -10,6 +10,7 @@ Classes: Bard, Warlock, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Enchantment ([[Bard]], [[Warlock]], [[Wizard]])_

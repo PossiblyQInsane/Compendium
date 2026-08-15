@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-09T09:31:46.326-04:00
-modified: 2026-08-09T09:36:38.258-04:00
-published: 2026-08-09T09:36:38.258-04:00
+modified: 2026-08-15T15:12:25.333-04:00
+published: 2026-08-15T15:12:25.333-04:00
 Name: "[[Sanguine Poppet]]"
 Spell Level: Level 3
 School: Transmutation (Sangromancy)
@@ -11,6 +11,7 @@ Special: C, M
 Source: "Grim Hollow: Player's Guide"
 Official: false
 Publisher: Ghostfire Gaming
+Edition: 5.5e
 ---
 
 _Level 3 Transmutation (Sangromancy) ([[Bard]], [[Warlock]])_

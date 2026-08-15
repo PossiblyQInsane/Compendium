@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T16:48:11.776-04:00
-modified: 2026-08-01T17:26:35.437-04:00
-published: 2026-08-01T17:26:35.437-04:00
+modified: 2026-08-15T15:15:56.206-04:00
+published: 2026-08-15T15:15:56.206-04:00
 Category: Simple Melee Weapons
 Damage: 1d8 Bludgeoning
 Properties: Two-Handed
@@ -11,6 +11,7 @@ Weight: 10 lb.
 Cost: 2 SP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Simple Melee Weapon_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-29T11:40:39.734-04:00
-modified: 2026-08-01T12:04:18.656-04:00
-published: 2026-08-01T12:04:18.656-04:00
+modified: 2026-08-15T15:13:51.382-04:00
+published: 2026-08-15T15:13:51.382-04:00
 Name: "[[Wind Wall]]"
 Spell Level: Level 3
 School: Evocation
@@ -10,6 +10,7 @@ Classes: Druid, Ranger
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 3 Evocation ([[Druid]], [[Ranger]])_

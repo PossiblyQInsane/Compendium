@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T00:51:01.995-04:00
-modified: 2026-08-03T00:54:31.582-04:00
-published: 2026-08-03T00:54:31.582-04:00
+modified: 2026-08-15T15:10:07.858-04:00
+published: 2026-08-15T15:10:07.858-04:00
 Name: "[[Geas]]"
 Spell Level: Level 5
 School: Enchantment
@@ -10,6 +10,7 @@ Classes: Bard, Cleric, Druid, Paladin, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 5 Enchantment ([[Bard]], [[Cleric]], [[Druid]], [[Paladin]], [[Wizard]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T21:16:36.373-04:00
-modified: 2026-08-01T11:51:49.699-04:00
-published: 2026-08-01T11:51:49.699-04:00
+modified: 2026-08-15T15:08:48.934-04:00
+published: 2026-08-15T15:08:48.934-04:00
 Name: "[[Dancing Lights|Dancing Lights]]"
 Spell Level: Cantrip
 School: Illusion
@@ -10,6 +10,7 @@ Classes: Artificer, Bard, Sorcerer, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Illusion Cantrip ([[Artificer]], [[Bard]], [[Sorcerer]], [[Wizard]])_

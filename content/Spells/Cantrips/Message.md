@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T21:49:02.339-04:00
-modified: 2026-08-01T11:52:37.622-04:00
-published: 2026-08-01T11:52:37.622-04:00
+modified: 2026-08-15T15:11:20.454-04:00
+published: 2026-08-15T15:11:20.454-04:00
 Name: "[[Message|Message]]"
 Spell Level: Cantrip
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Artificer, Bard, Druid, Sorcerer, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Transmutation Cantrip ([[Artificer]], [[Bard]], [[Druid]], [[Sorcerer]], [[Wizard]])_

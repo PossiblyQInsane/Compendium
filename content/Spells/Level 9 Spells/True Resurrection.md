@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T00:56:26.391-04:00
-modified: 2026-08-04T00:58:18.806-04:00
-published: 2026-08-04T00:58:18.806-04:00
+modified: 2026-08-15T15:13:31.286-04:00
+published: 2026-08-15T15:13:31.286-04:00
 Name: "[[True Resurrection]]"
 Spell Level: Level 9
 School: Necromancy
@@ -10,6 +10,7 @@ Classes: Cleric, Druid
 Special: M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 9 Necromancy ([[Cleric]], [[Druid]])_

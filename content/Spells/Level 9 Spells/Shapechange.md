@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-08T00:59:13.285-04:00
-modified: 2026-08-08T01:01:47.049-04:00
-published: 2026-08-08T01:01:47.049-04:00
+modified: 2026-08-15T15:12:34.104-04:00
+published: 2026-08-15T15:12:34.104-04:00
 Name: "[[Shapechange]]"
 Spell Level: Level 9
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Druid, Wizard
 Special: C, M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 9 Transmutation ([[Druid]], [[Wizard]])_

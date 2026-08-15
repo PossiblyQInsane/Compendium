@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T00:49:13.715-04:00
-modified: 2026-08-04T00:51:21.758-04:00
-published: 2026-08-04T00:51:21.758-04:00
+modified: 2026-08-15T15:13:13.116-04:00
+published: 2026-08-15T15:13:13.116-04:00
 Name: "[[Sunburst]]"
 Spell Level: Level 8
 School: Evocation
@@ -10,6 +10,7 @@ Classes: Cleric, Druid, Sorcerer, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 8 Evocation ([[Cleric]], [[Druid]], [[Sorcerer]], [[Wizard]])_

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T12:28:30.420-04:00
-modified: 2026-08-01T10:54:58.528-04:00
-published: 2026-08-01T10:54:58.528-04:00
+modified: 2026-08-15T15:15:19.402-04:00
+published: 2026-08-15T15:15:19.402-04:00
 Cost: 1 CP
 Source: Player's Handbook (5.5e)
 Weight: —
 Official: true
+Edition: 5.5e
 ---
 
 **Cost:** 1 CP

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T21:09:37.192-04:00
-modified: 2026-08-02T23:50:51.602-04:00
-published: 2026-08-02T23:50:51.602-04:00
+modified: 2026-08-15T15:17:43.439-04:00
+published: 2026-08-15T15:17:43.439-04:00
 Category: Martial Melee Weapons
 Damage: 1d4 Slashing
 Properties: Finesse, Reach
@@ -11,6 +11,7 @@ Weight: 3 lb.
 Cost: 2 GP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Martial Melee Weapon_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T00:22:29.045-04:00
-modified: 2026-08-01T02:47:01.510-04:00
-published: 2026-08-01T02:47:01.510-04:00
+modified: 2026-08-15T15:12:40.510-04:00
+published: 2026-08-15T15:12:40.510-04:00
 Name: "[[Shining Smite]]"
 Spell Level: Level 2
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Paladin
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 2 Transmutation ([[Paladin]])_

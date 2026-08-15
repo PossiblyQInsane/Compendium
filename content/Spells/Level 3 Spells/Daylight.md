@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T22:55:51.488-04:00
-modified: 2026-08-03T22:58:44.937-04:00
-published: 2026-08-03T22:58:44.937-04:00
+modified: 2026-08-15T15:08:53.669-04:00
+published: 2026-08-15T15:08:53.669-04:00
 Name: "[[Daylight]]"
 Spell Level: Level 3
 School: Evocation
@@ -10,6 +10,7 @@ Classes: Cleric, Druid, Paladin, Ranger, Sorcerer
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 3 Evocation ([[Cleric]], [[Druid]], [[Paladin]], [[Ranger]], [[Sorcerer]])_

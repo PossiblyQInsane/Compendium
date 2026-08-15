@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T13:20:00.069-04:00
-modified: 2026-08-03T13:22:14.499-04:00
-published: 2026-08-03T13:22:14.499-04:00
+modified: 2026-08-15T15:12:54.766-04:00
+published: 2026-08-15T15:12:54.766-04:00
 Name: "[[Spirit Guardians]]"
 Spell Level: Level 3
 School: Conjuration
@@ -10,6 +10,7 @@ Classes: Cleric
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 3 Conjuration ([[Cleric]])_

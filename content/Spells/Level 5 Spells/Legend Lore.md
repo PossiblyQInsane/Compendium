@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T00:58:25.567-04:00
-modified: 2026-08-03T01:00:29.551-04:00
-published: 2026-08-03T01:00:29.551-04:00
+modified: 2026-08-15T15:10:51.365-04:00
+published: 2026-08-15T15:10:51.365-04:00
 Name: "[[Legend Lore]]"
 Spell Level: Level 5
 School: Divination
@@ -10,6 +10,7 @@ Classes: Bard, Cleric, Wizard
 Special: M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 5 Divination ([[Bard]], [[Cleric]], [[Wizard]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T10:28:01.164-04:00
-modified: 2026-08-01T02:46:29.211-04:00
-published: 2026-08-01T02:46:29.211-04:00
+modified: 2026-08-15T15:11:22.454-04:00
+published: 2026-08-15T15:11:22.454-04:00
 Name: "[[Mind Spike]]"
 Spell Level: Level 2
 School: Divination
@@ -10,6 +10,7 @@ Classes: Sorcerer, Warlock, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 2 Divination ([[Sorcerer]], [[Warlock]], [[Wizard]])_

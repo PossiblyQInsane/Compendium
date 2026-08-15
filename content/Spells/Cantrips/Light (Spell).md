@@ -2,8 +2,8 @@
 publish: true
 title: Light
 created: 2026-07-25T21:36:37.629-04:00
-modified: 2026-08-01T11:52:18.420-04:00
-published: 2026-08-01T11:52:18.420-04:00
+modified: 2026-08-15T15:10:56.445-04:00
+published: 2026-08-15T15:10:56.445-04:00
 Name: "[[Light (Spell)|Light]]"
 Spell Level: Cantrip
 School: Evocation
@@ -11,6 +11,7 @@ Classes: Artificer, Bard, Cleric, Sorcerer, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Evocation Cantrip ([[Artificer]], [[Bard]], [[Cleric]], [[Sorcerer]], [[Wizard]])_

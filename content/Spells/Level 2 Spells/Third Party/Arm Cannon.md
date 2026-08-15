@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-10T13:24:52.214-04:00
-modified: 2026-08-10T13:28:09.321-04:00
-published: 2026-08-10T13:28:09.321-04:00
+modified: 2026-08-15T15:07:20.591-04:00
+published: 2026-08-15T15:07:20.591-04:00
 Name: "[[Arm Cannon]]"
 Spell Level: Level 2
 School: Evocation (Osteomancy)
@@ -11,6 +11,7 @@ Special: —
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false
 Publisher: MonkeyDM
+Edition: 5.5e
 ---
 
 _Level 2 Evocation (Osteomancy) ([[Sorcerer]], [[Warlock]], [[Wizard]])_

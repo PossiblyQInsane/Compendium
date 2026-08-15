@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T21:22:26.674-04:00
-modified: 2026-08-01T11:51:55.946-04:00
-published: 2026-08-01T11:51:55.946-04:00
+modified: 2026-08-15T15:09:20.183-04:00
+published: 2026-08-15T15:09:20.183-04:00
 Name: "[[Elementalism|Elementalism]]"
 Spell Level: Cantrip
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Artificer, Druid, Sorcerer, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Transmutation Cantrip ([[Artificer]], [[Druid]], [[Sorcerer]], [[Wizard]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-07T10:29:21.185-04:00
-modified: 2026-08-07T10:31:48.396-04:00
-published: 2026-08-07T10:31:48.396-04:00
+modified: 2026-08-15T15:10:40.398-04:00
+published: 2026-08-15T15:10:40.398-04:00
 Name: "[[Ice Knife]]"
 Spell Level: Level 1
 School: Conjuration
@@ -10,6 +10,7 @@ Classes: Druid, Sorcerer, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Conjuration ([[Druid]], [[Sorcerer]], [[Wizard]])_

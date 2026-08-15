@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T12:28:09.983-04:00
-modified: 2026-08-01T11:58:58.178-04:00
-published: 2026-08-01T11:58:58.178-04:00
+modified: 2026-08-15T15:10:48.397-04:00
+published: 2026-08-15T15:10:48.397-04:00
 Name: "[[Invisibility]]"
 Spell Level: Level 2
 School: Illusion
@@ -10,6 +10,7 @@ Classes: Artificer, Bard, Sorcerer, Warlock, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 2 Illusion ([[Artificer|Artificer]], [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

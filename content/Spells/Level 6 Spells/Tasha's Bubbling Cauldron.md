@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T20:55:56.537-04:00
-modified: 2026-08-01T12:05:17.195-04:00
-published: 2026-08-01T12:05:17.195-04:00
+modified: 2026-08-15T15:13:16.710-04:00
+published: 2026-08-15T15:13:16.710-04:00
 Name: "[[Tasha's Bubbling Cauldron]]"
 Spell Level: Level 6
 School: Conjuration
@@ -10,6 +10,7 @@ Classes: Warlock, Wizard
 Special: M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 6 Conjuration ([[Warlock]], [[Wizard]])_

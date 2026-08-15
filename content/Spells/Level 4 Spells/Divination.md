@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T23:12:33.512-04:00
-modified: 2026-08-03T23:15:31.532-04:00
-published: 2026-08-03T23:15:31.532-04:00
+modified: 2026-08-15T15:09:07.588-04:00
+published: 2026-08-15T15:09:07.588-04:00
 Name: "[[Divination]]"
 Spell Level: Level 4
 School: Divination
@@ -10,6 +10,7 @@ Classes: Cleric, Druid, Wizard
 Special: R, M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 4 Divination ([[Cleric]], [[Druid]], [[Wizard]])_

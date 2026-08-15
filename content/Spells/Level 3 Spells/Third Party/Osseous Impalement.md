@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-10T13:44:08.031-04:00
-modified: 2026-08-10T13:46:43.166-04:00
-published: 2026-08-10T13:46:43.166-04:00
+modified: 2026-08-15T15:11:39.379-04:00
+published: 2026-08-15T15:11:39.379-04:00
 Name: "[[Osseous Impalement]]"
 Spell Level: Level 3
 School: Conjuration (Osteomancy)
@@ -11,6 +11,7 @@ Special: C
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false
 Publisher: MonkeyDM
+Edition: 5.5e
 ---
 
 _Level 3 Conjuration (Osteomancy) ([[Sorcerer]], [[Warlock]], [[Wizard]])_

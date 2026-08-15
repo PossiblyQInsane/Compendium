@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T02:03:01.442-04:00
-modified: 2026-08-03T02:06:36.278-04:00
-published: 2026-08-03T02:06:36.278-04:00
+modified: 2026-08-15T15:12:00.431-04:00
+published: 2026-08-15T15:12:00.431-04:00
 Name: "[[Prismatic Spray]]"
 Spell Level: Level 7
 School: Evocation
@@ -10,6 +10,7 @@ Classes: Bard, Sorcerer, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 7 Evocation ([[Bard]], [[Sorcerer]], [[Wizard]])_

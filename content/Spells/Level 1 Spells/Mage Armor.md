@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T00:13:06.093-04:00
-modified: 2026-08-13T00:14:52.605-04:00
-published: 2026-08-13T00:14:52.605-04:00
+modified: 2026-08-15T15:11:03.956-04:00
+published: 2026-08-15T15:11:03.956-04:00
 Name: "[[Mage Armor]]"
 Spell Level: Level 1
 School: Abjuration
@@ -10,6 +10,7 @@ Classes: Sorcerer, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Abjuration ([[Sorcerer]], [[Wizard]])_

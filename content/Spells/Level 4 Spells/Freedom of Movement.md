@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T15:04:39.447-04:00
-modified: 2026-08-01T12:09:00.570-04:00
-published: 2026-08-01T12:09:00.570-04:00
+modified: 2026-08-15T15:10:01.109-04:00
+published: 2026-08-15T15:10:01.109-04:00
 Name: "[[Freedom of Movement]]"
 Spell Level: Level 4
 School: Abjuration
@@ -10,6 +10,7 @@ Classes: Artificer, Bard, Cleric, Druid, Ranger
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 4 Abjuration ([[Artificer|Artificer]], [[Bard]], [[Cleric]], [[Druid]], [[Ranger]])_

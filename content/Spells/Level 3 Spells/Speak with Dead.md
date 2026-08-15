@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T23:55:28.118-04:00
-modified: 2026-08-02T23:57:31.285-04:00
-published: 2026-08-02T23:57:31.285-04:00
+modified: 2026-08-15T15:12:51.167-04:00
+published: 2026-08-15T15:12:51.167-04:00
 Name: "[[Speak with Dead]]"
 Spell Level: Level 3
 School: Necromancy
@@ -10,6 +10,7 @@ Classes: Bard, Cleric, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 3 Necromancy ([[Bard]], [[Cleric]], [[Wizard]])_

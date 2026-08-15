@@ -1,14 +1,15 @@
 ---
 publish: true
 created: 2026-07-24T00:49:42.576-04:00
-modified: 2026-08-01T22:23:17.449-04:00
-published: 2026-08-01T22:23:17.449-04:00
+modified: 2026-08-15T15:17:32.030-04:00
+published: 2026-08-15T15:17:32.030-04:00
 Category: Artisan's Tools
 Cost: 50 GP
 Weight: 10 lb.
 Ability: Dexterity
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 **Ability:** Dexterity

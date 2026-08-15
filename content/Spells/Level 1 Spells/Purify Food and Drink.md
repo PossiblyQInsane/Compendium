@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T23:04:55.856-04:00
-modified: 2026-08-01T11:57:03.264-04:00
-published: 2026-08-01T11:57:03.264-04:00
+modified: 2026-08-15T15:12:08.660-04:00
+published: 2026-08-15T15:12:08.660-04:00
 Name: "[[Purify Food and Drink|Purify Food and Drink]]"
 Spell Level: Level 1
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Artificer, Cleric, Druid, Paladin
 Special: R
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Transmutation ([[Artificer]], [[Cleric]], [[Druid]], [[Paladin]])_

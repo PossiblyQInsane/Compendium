@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T11:23:00.010-04:00
-modified: 2026-08-04T11:26:17.369-04:00
-published: 2026-08-04T11:26:17.369-04:00
+modified: 2026-08-15T15:13:05.606-04:00
+published: 2026-08-15T15:13:05.606-04:00
 Name: "[[Summer Winds]]"
 Spell Level: Level 2
 School: Evocation
@@ -11,6 +11,7 @@ Special: —
 Source: The Crooked Moon
 Official: false
 Publisher: Avantris Entertainment
+Edition: 5.5e
 ---
 
 _Level 2 Evocation ([[Cleric]], [[Druid]], [[Paladin]], [[Ranger]])_

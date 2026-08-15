@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T10:29:51.042-04:00
-modified: 2026-08-04T10:31:59.194-04:00
-published: 2026-08-04T10:31:59.194-04:00
+modified: 2026-08-15T15:12:13.453-04:00
+published: 2026-08-15T15:12:13.453-04:00
 Name: "[[Ray of Enfeeblement]]"
 Spell Level: Level 2
 School: Necromancy
@@ -10,6 +10,7 @@ Classes: Warlock, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 2 Necromancy ([[Warlock]], [[Wizard]])_

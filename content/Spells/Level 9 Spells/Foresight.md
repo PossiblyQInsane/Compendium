@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T02:39:22.675-04:00
-modified: 2026-08-03T02:42:05.268-04:00
-published: 2026-08-03T02:42:05.268-04:00
+modified: 2026-08-15T15:09:57.504-04:00
+published: 2026-08-15T15:09:57.504-04:00
 Name: "[[Foresight]]"
 Spell Level: Level 9
 School: Divination
@@ -10,6 +10,7 @@ Classes: Bard, Druid, Warlock, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 9 Divination ([[Bard]], [[Druid]], [[Warlock]], [[Wizard]])_

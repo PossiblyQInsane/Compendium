@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T13:09:53.278-04:00
-modified: 2026-08-01T13:15:17.492-04:00
-published: 2026-08-01T13:15:17.492-04:00
+modified: 2026-08-15T15:07:21.366-04:00
+published: 2026-08-15T15:07:21.366-04:00
 Name: "[[Armor of Agathys]]"
 Spell Level: Level 1
 School: Abjuration
@@ -10,6 +10,7 @@ Classes: Warlock
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Abjuration ([[Warlock]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T20:35:21.397-04:00
-modified: 2026-08-01T20:38:07.368-04:00
-published: 2026-08-01T20:38:07.368-04:00
+modified: 2026-08-15T15:16:39.461-04:00
+published: 2026-08-15T15:16:39.461-04:00
 Category: Martial Melee Weapons
 Damage: 2d6 Bludgeoning
 Properties: Heavy, Two-Handed
@@ -11,6 +11,7 @@ Weight: 10 lb.
 Cost: 10 GP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Martial Melee Weapon_

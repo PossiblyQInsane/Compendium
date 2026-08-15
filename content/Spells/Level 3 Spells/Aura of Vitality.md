@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T00:29:59.910-04:00
-modified: 2026-08-01T12:00:30.906-04:00
-published: 2026-08-01T12:00:30.906-04:00
+modified: 2026-08-15T15:07:26.165-04:00
+published: 2026-08-15T15:07:26.165-04:00
 Name: "[[Aura of Vitality]]"
 Spell Level: Level 3
 School: Abjuration
@@ -10,6 +10,7 @@ Classes: Cleric, Druid, Paladin
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 3 Abjuration ([[Cleric]], [[Druid]], [[Paladin]])_

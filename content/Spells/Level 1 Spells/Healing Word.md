@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T19:50:53.533-04:00
-modified: 2026-08-01T11:56:36.401-04:00
-published: 2026-08-01T11:56:36.401-04:00
+modified: 2026-08-15T15:10:28.693-04:00
+published: 2026-08-15T15:10:28.693-04:00
 Name: "[[Healing Word]]"
 Spell Level: Level 1
 School: Abjuration
@@ -10,6 +10,7 @@ Classes: Bard, Cleric, Druid
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Abjuration ([[Bard]], [[Cleric]], [[Druid]])_

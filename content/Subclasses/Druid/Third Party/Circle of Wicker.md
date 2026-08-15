@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-10T13:02:10.964-04:00
-modified: 2026-08-10T13:16:35.001-04:00
-published: 2026-08-10T13:16:35.001-04:00
+modified: 2026-08-15T15:05:47.463-04:00
+published: 2026-08-15T15:05:47.463-04:00
 Parent Class: "[[Druid]]"
 Source: The Crooked Moon
 Official: false
 Publisher: Avantris Entertainment
+Edition: 5.5e
 ---
 
 ![[Images/Circle of Wicker.png|left|324]]

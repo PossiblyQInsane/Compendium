@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-31T09:59:10.596-04:00
-modified: 2026-08-01T02:45:05.365-04:00
-published: 2026-08-01T02:45:05.365-04:00
+modified: 2026-08-15T15:13:53.222-04:00
+published: 2026-08-15T15:13:53.222-04:00
 Name: "[[Witch Bolt]]"
 Spell Level: Level 1
 School: Evocation
@@ -10,6 +10,7 @@ Classes: Sorcerer, Warlock, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 1 Evocation ([[Sorcerer]], [[Warlock]], [[Wizard]])_

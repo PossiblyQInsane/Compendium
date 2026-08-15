@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T02:25:55.800-04:00
-modified: 2026-08-06T02:28:42.965-04:00
-published: 2026-08-06T02:28:42.965-04:00
+modified: 2026-08-15T15:09:51.997-04:00
+published: 2026-08-15T15:09:51.997-04:00
 Name: "[[Flesh to Stone]]"
 Spell Level: Level 6
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Druid, Sorcerer, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 6 Transmutation ([[Druid]], [[Sorcerer]], [[Wizard]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T02:23:22.028-04:00
-modified: 2026-08-06T02:25:32.481-04:00
-published: 2026-08-06T02:25:32.481-04:00
+modified: 2026-08-15T15:10:21.047-04:00
+published: 2026-08-15T15:10:21.047-04:00
 Name: "[[Gust of Wind]]"
 Spell Level: Level 2
 School: Evocation
@@ -10,6 +10,7 @@ Classes: Druid, Ranger, Sorcerer, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 2 Evocation ([[Druid]], [[Ranger]], [[Sorcerer]], [[Wizard]])_

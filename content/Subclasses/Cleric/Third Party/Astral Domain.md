@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-05T00:32:52.877-04:00
-modified: 2026-08-05T00:50:57.399-04:00
-published: 2026-08-05T00:50:57.399-04:00
+modified: 2026-08-15T15:05:21.360-04:00
+published: 2026-08-15T15:05:21.360-04:00
 Parent Class: "[[Cleric]]"
 Source: "The Griffon's Saddlebag: Book One"
 Official: false
 Publisher: The Griffon's Saddlebag
+Edition: 5.5e
 ---
 
 ![[Images/Astral Domain.png|right|373]]

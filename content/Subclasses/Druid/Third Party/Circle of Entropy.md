@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-09T09:56:26.234-04:00
-modified: 2026-08-09T10:03:51.404-04:00
-published: 2026-08-09T10:03:51.404-04:00
+modified: 2026-08-15T15:05:33.246-04:00
+published: 2026-08-15T15:05:33.246-04:00
 Parent Class: "[[Druid]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false
 Publisher: Ghostfire Gaming
+Edition: 5.5e
 ---
 
 ![[Images/Circle of Entropy.png|right|336]]

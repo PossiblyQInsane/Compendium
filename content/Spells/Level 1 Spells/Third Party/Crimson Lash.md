@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-09T09:14:21.314-04:00
-modified: 2026-08-09T09:21:02.926-04:00
-published: 2026-08-09T09:21:02.926-04:00
+modified: 2026-08-15T15:08:43.063-04:00
+published: 2026-08-15T15:08:43.063-04:00
 Name: "[[Crimson Lash]]"
 Spell Level: Level 1
 School: Conjuration (Sangromancy)
@@ -11,6 +11,7 @@ Special: —
 Source: "Grim Hollow: Player's Guide"
 Official: false
 Publisher: Ghostfire Gaming
+Edition: 5.5e
 ---
 
 _Level 1 Conjuration (Sangromancy) ([[Warlock]], [[Wizard]])_

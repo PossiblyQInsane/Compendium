@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-05T00:45:59.666-04:00
-modified: 2026-08-05T01:10:01.124-04:00
-published: 2026-08-05T01:10:01.124-04:00
+modified: 2026-08-15T15:06:07.801-04:00
+published: 2026-08-15T15:06:07.801-04:00
 Parent Class: "[[Cleric]]"
 Source: Valda's Spire of Secrets
 Official: false
 Publisher: Mage Hand Press
+Edition: 5.5e
 ---
 
 ![[Images/Dragon Domain.png|left|367]]

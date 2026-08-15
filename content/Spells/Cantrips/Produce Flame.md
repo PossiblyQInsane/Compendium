@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T10:44:46.072-04:00
-modified: 2026-08-05T10:46:57.327-04:00
-published: 2026-08-05T10:46:57.327-04:00
+modified: 2026-08-15T15:12:02.579-04:00
+published: 2026-08-15T15:12:02.579-04:00
 Name: "[[Produce Flame]]"
 Spell Level: Cantrip
 School: Conjuration
@@ -10,6 +10,7 @@ Classes: Druid
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Conjuration Cantrip ([[Druid]])_

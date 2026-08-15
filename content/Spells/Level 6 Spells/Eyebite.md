@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T01:22:25.197-04:00
-modified: 2026-08-03T01:25:00.184-04:00
-published: 2026-08-03T01:25:00.184-04:00
+modified: 2026-08-15T15:09:31.759-04:00
+published: 2026-08-15T15:09:31.759-04:00
 Name: "[[Eyebite]]"
 Spell Level: Level 6
 School: Necromancy
@@ -10,6 +10,7 @@ Classes: Bard, Sorcerer, Warlock, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 6 Necromancy ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

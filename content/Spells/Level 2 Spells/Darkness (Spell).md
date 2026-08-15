@@ -2,8 +2,8 @@
 publish: true
 title: Darkness
 created: 2026-08-04T09:50:10.915-04:00
-modified: 2026-08-04T09:53:39.318-04:00
-published: 2026-08-04T09:53:39.318-04:00
+modified: 2026-08-15T15:08:50.779-04:00
+published: 2026-08-15T15:08:50.779-04:00
 Name: "[[Darkness (Spell)|Darkness]]"
 Spell Level: Level 2
 School: Evocation
@@ -11,6 +11,7 @@ Classes: Sorcerer, Warlock, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 2 Evocation ([[Sorcerer]], [[Warlock]], [[Wizard]])_

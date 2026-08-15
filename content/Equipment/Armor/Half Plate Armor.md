@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T19:35:02.133-04:00
-modified: 2026-08-01T19:37:40.151-04:00
-published: 2026-08-01T19:37:40.151-04:00
+modified: 2026-08-15T15:15:58.373-04:00
+published: 2026-08-15T15:15:58.373-04:00
 Category: Medium Armor
 Armor Class (AC): 15 + Dex modifier (max 2)
 Strength: —
@@ -11,6 +11,7 @@ Weight: 40 lb.
 Cost: 750 GP
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Medium Armor (5 Minutes to Don and 1 Minute to Doff)_

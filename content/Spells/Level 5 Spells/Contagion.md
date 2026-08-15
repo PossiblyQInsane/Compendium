@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T23:21:05.448-04:00
-modified: 2026-08-03T23:22:51.497-04:00
-published: 2026-08-03T23:22:51.497-04:00
+modified: 2026-08-15T15:08:32.734-04:00
+published: 2026-08-15T15:08:32.734-04:00
 Name: "[[Contagion]]"
 Spell Level: Level 5
 School: Necromancy
@@ -10,6 +10,7 @@ Classes: Cleric, Druid
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 5 Necromancy ([[Cleric]], [[Druid]])_

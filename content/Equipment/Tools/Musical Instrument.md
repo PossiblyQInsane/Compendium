@@ -1,14 +1,15 @@
 ---
 publish: true
 created: 2026-08-02T18:43:16.799-04:00
-modified: 2026-08-02T19:04:42.821-04:00
-published: 2026-08-02T19:04:42.821-04:00
+modified: 2026-08-15T15:16:43.430-04:00
+published: 2026-08-15T15:16:43.430-04:00
 Category: Other Tools
 Ability: Charisma
 Weight: Varies
 Cost: Varies
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 **Ability:** Charisma

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T22:11:25.617-04:00
-modified: 2026-08-01T20:11:57.691-04:00
-published: 2026-08-01T20:11:57.691-04:00
+modified: 2026-08-15T15:12:41.912-04:00
+published: 2026-08-15T15:12:41.912-04:00
 Name: "[[Shocking Grasp|Shocking Grasp]]"
 Spell Level: Cantrip
 School: Evocation
@@ -10,6 +10,7 @@ Classes: Artificer, Sorcerer, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Evocation Cantrip ([[Artificer]], [[Sorcerer]], [[Wizard]])_

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T00:41:43.510-04:00
-modified: 2026-08-05T00:44:26.028-04:00
-published: 2026-08-05T00:44:26.028-04:00
+modified: 2026-08-15T15:11:27.430-04:00
+published: 2026-08-15T15:11:27.430-04:00
 Name: "[[Misty Step]]"
 Spell Level: Level 2
 School: Conjuration
@@ -10,6 +10,7 @@ Classes: Sorcerer, Warlock, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 2 Conjuration ([[Sorcerer]], [[Warlock]], [[Wizard]])_

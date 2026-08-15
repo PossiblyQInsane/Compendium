@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T01:19:43.899-04:00
-modified: 2026-08-03T01:21:35.771-04:00
-published: 2026-08-03T01:21:35.771-04:00
+modified: 2026-08-15T15:13:55.997-04:00
+published: 2026-08-15T15:13:55.997-04:00
 Name: "[[Yolande's Regal Presence]]"
 Spell Level: Level 5
 School: Enchantment
@@ -10,6 +10,7 @@ Classes: Bard, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 5 Enchantment ([[Bard]], [[Wizard]])_

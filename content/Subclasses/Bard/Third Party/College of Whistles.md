@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T15:30:00.923-04:00
-modified: 2026-08-03T15:44:08.899-04:00
-published: 2026-08-03T15:44:08.899-04:00
+modified: 2026-08-15T15:06:06.123-04:00
+published: 2026-08-15T15:06:06.123-04:00
 Parent Class: "[[Bard]]"
 Source: The Crooked Moon
 Official: false
 Publisher: Avantris Entertainment
+Edition: 5.5e
 ---
 
 ![[Images/College of Whistles.png|left|340]]

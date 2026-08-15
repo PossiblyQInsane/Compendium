@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T00:20:47.143-04:00
-modified: 2026-08-03T00:22:55.886-04:00
-published: 2026-08-03T00:22:55.886-04:00
+modified: 2026-08-15T15:08:58.800-04:00
+published: 2026-08-15T15:08:58.800-04:00
 Name: "[[Dimension Door]]"
 Spell Level: Level 4
 School: Conjuration
@@ -10,6 +10,7 @@ Classes: Bard, Sorcerer, Warlock, Wizard
 Special: —
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 4 Conjuration ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_

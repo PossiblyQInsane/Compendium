@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-12T00:28:41.425-04:00
-modified: 2026-08-12T00:34:20.479-04:00
-published: 2026-08-12T00:34:20.479-04:00
+modified: 2026-08-15T15:06:25.127-04:00
+published: 2026-08-15T15:06:25.127-04:00
 Parent Class: "[[Barbarian]]"
 Source: "Frontiers of Eberron: Quickstone"
 Official: false
 Publisher: Visionary Production and Design
+Edition: 5.5e
 ---
 
 ![[Images/Path of the Demonshard.png|left|232]]

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T00:59:59.738-04:00
-modified: 2026-08-01T11:58:47.026-04:00
-published: 2026-08-01T11:58:47.026-04:00
+modified: 2026-08-15T15:10:29.541-04:00
+published: 2026-08-15T15:10:29.541-04:00
 Name: "[[Heat Metal]]"
 Spell Level: Level 2
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Artificer, Bard, Druid
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 2 Transmutation ([[Artificer|Artificer]], [[Bard]], [[Druid]])_

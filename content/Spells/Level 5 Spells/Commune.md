@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T23:18:40.142-04:00
-modified: 2026-08-03T23:20:18.205-04:00
-published: 2026-08-03T23:20:18.205-04:00
+modified: 2026-08-15T15:08:13.520-04:00
+published: 2026-08-15T15:08:13.520-04:00
 Name: "[[Commune]]"
 Spell Level: Level 5
 School: Divination
@@ -10,6 +10,7 @@ Classes: Cleric
 Special: R
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 5 Divination ([[Cleric]])_

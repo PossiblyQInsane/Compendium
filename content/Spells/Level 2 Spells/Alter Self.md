@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T23:15:57.094-04:00
-modified: 2026-08-01T11:57:48.874-04:00
-published: 2026-08-01T11:57:48.874-04:00
+modified: 2026-08-15T15:07:07.878-04:00
+published: 2026-08-15T15:07:07.878-04:00
 Name: "[[Alter Self|Alter Self]]"
 Spell Level: Level 2
 School: Transmutation
@@ -10,6 +10,7 @@ Classes: Artificer, Sorcerer, Wizard
 Special: C
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 2 Transmutation ([[Artificer]], [[Sorcerer]], [[Wizard]])_

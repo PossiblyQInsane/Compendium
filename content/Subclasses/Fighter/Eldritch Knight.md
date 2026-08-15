@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-12T01:02:39.697-04:00
-modified: 2026-08-13T00:38:12.479-04:00
-published: 2026-08-13T00:38:12.479-04:00
+modified: 2026-08-15T15:06:10.750-04:00
+published: 2026-08-15T15:06:10.750-04:00
 Parent Class: "[[Fighter]]"
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 ![[Images/Eldritch Knight.png]]

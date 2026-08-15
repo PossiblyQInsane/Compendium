@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-03T12:12:47.931-04:00
-modified: 2026-08-03T12:19:04.389-04:00
-published: 2026-08-03T12:19:04.389-04:00
+modified: 2026-08-15T15:05:52.607-04:00
+published: 2026-08-15T15:05:52.607-04:00
 Parent Class: "[[Bard]]"
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 ![[Images/College of Dance.png|right|383]]

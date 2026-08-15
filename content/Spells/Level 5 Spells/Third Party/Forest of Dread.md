@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-10T13:56:27.991-04:00
-modified: 2026-08-10T13:59:33.413-04:00
-published: 2026-08-10T13:59:33.413-04:00
+modified: 2026-08-15T15:09:58.223-04:00
+published: 2026-08-15T15:09:58.223-04:00
 Name: "[[Forest of Dread]]"
 Spell Level: Level 5
 School: Conjuration (Osteomancy)
@@ -11,6 +11,7 @@ Special: C
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false
 Publisher: MonkeyDM
+Edition: 5.5e
 ---
 
 _Level 5 Conjuration (Osteomancy) ([[Sorcerer]], [[Warlock]], [[Wizard]])_

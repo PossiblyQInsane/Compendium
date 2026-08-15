@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-05T01:12:24.746-04:00
-modified: 2026-08-05T01:27:43.017-04:00
-published: 2026-08-05T01:27:43.017-04:00
+modified: 2026-08-15T15:05:20.211-04:00
+published: 2026-08-15T15:05:20.211-04:00
 Parent Class: "[[Cleric]]"
 Source: Cthulhu by Torchlight
 Official: false
 Publisher: Chaosium
+Edition: 5.5e
 ---
 
 ![[Images/Apocalypse Domain.jpg|left|377]]

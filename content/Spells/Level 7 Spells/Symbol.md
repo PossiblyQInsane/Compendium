@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T02:15:21.254-04:00
-modified: 2026-08-03T02:18:25.122-04:00
-published: 2026-08-03T02:18:25.122-04:00
+modified: 2026-08-15T15:13:13.791-04:00
+published: 2026-08-15T15:13:13.791-04:00
 Name: "[[Symbol]]"
 Spell Level: Level 7
 School: Abjuration
@@ -10,6 +10,7 @@ Classes: Bard, Cleric, Druid, Wizard
 Special: M
 Source: Player's Handbook (5.5e)
 Official: true
+Edition: 5.5e
 ---
 
 _Level 7 Abjuration ([[Bard]], [[Cleric]], [[Druid]], [[Wizard]])_
