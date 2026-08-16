@@ -573,113 +573,139 @@ This section presents the Artificer spell list. The spells are organized by spel
 
 ### Cantrips (Level 0 Artificer Spells)
 
-| Name                                                        | School        | Special | Source                   |
-| ----------------------------------------------------------- | ------------- | ------- | ------------------------ |
-| _[[Spells/Cantrips/Acid Splash.md\|Acid Splash]]_           | Evocation     | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Dancing Lights.md\|Dancing Lights]]_     | Illusion      | C       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Elementalism.md\|Elementalism]]_         | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Fire Bolt.md\|Fire Bolt]]_               | Evocation     | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Guidance.md\|Guidance]]_                 | Divination    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Light (Spell).md\|Light]]_               | Evocation     | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Mage Hand.md\|Mage Hand]]_               | Conjuration   | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Message.md\|Message]]_                   | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Poison Spray.md\|Poison Spray]]_         | Necromancy    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Prestidigitation.md\|Prestidigitation]]_ | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Ray of Frost.md\|Ray of Frost]]_         | Evocation     | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Resistance (Spell).md\|Resistance]]_     | Abjuration    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Shocking Grasp.md\|Shocking Grasp]]_     | Evocation     | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Spare the Dying.md\|Spare the Dying]]_   | Necromancy    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Thorn Whip.md\|Thorn Whip]]_             | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Thunderclap.md\|Thunderclap]]_           | Evocation     | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/True Strike.md\|True Strike]]_           | Divination    | M       | Player's Handbook (5.5e) |
+| Name                                                          | School        | Special | Source                            |
+| ------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
+| _[[Spells/Cantrips/Acid Splash.md\|Acid Splash]]_             | Evocation     | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Booming Blade.md\|Booming Blade]]_         | Evocation     | M       | Sword Coast Adventurer's Guide    |
+| _[[Spells/Cantrips/Create Bonfire.md\|Create Bonfire]]_       | Conjuration   | C       | Elemental Evil Player's Companion |
+| _[[Spells/Cantrips/Dancing Lights.md\|Dancing Lights]]_       | Illusion      | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Elementalism.md\|Elementalism]]_           | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Fire Bolt.md\|Fire Bolt]]_                 | Evocation     | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Frostbite.md\|Frostbite]]_                 | Evocation     | —       | Elemental Evil Player's Companion |
+| _[[Spells/Cantrips/Green-Flame Blade.md\|Green-Flame Blade]]_ | Evocation     | M       | Sword Coast Adventurer's Guide    |
+| _[[Spells/Cantrips/Guidance.md\|Guidance]]_                   | Divination    | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Light (Spell).md\|Light]]_                 | Evocation     | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Lightning Lure.md\|Lightning Lure]]_       | Evocation     | —       | Sword Coast Adventurer's Guide    |
+| _[[Spells/Cantrips/Mage Hand.md\|Mage Hand]]_                 | Conjuration   | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Magic Stone.md\|Magic Stone]]_             | Transmutation | —       | Elemental Evil Player's Companion |
+| _[[Spells/Cantrips/Message.md\|Message]]_                     | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Poison Spray.md\|Poison Spray]]_           | Necromancy    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Prestidigitation.md\|Prestidigitation]]_   | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Ray of Frost.md\|Ray of Frost]]_           | Evocation     | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Resistance (Spell).md\|Resistance]]_       | Abjuration    | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Shocking Grasp.md\|Shocking Grasp]]_       | Evocation     | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Spare the Dying.md\|Spare the Dying]]_     | Necromancy    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Sword Burst.md\|Sword Burst]]_             | Conjuration   | —       | Sword Coast Adventurer's Guide    |
+| _[[Spells/Cantrips/Thorn Whip.md\|Thorn Whip]]_               | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Thunderclap.md\|Thunderclap]]_             | Evocation     | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/True Strike.md\|True Strike]]_             | Divination    | M       | Player's Handbook (5.5e)          |
 
 ### Level 1 Artificer Spells
 
-| Name                                                                        | School        | Special | Source                   |
-| --------------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
-| _[[Spells/Level 1 Spells/Alarm.md\|Alarm]]_                                 | Abjuration    | R       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Cure Wounds.md\|Cure Wounds]]_                     | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Detect Magic.md\|Detect Magic]]_                   | Divination    | C, R    | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Disguise Self.md\|Disguise Self]]_                 | Illusion      | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Expeditious Retreat.md\|Expeditious Retreat]]_     | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Faerie Fire.md\|Faerie Fire]]_                     | Evocation     | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/False Life.md\|False Life]]_                       | Necromancy    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Feather Fall.md\|Feather Fall]]_                   | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Grease.md\|Grease]]_                               | Conjuration   | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Identify.md\|Identify]]_                           | Divination    | R, M    | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Jump.md\|Jump]]_                                   | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Longstrider.md\|Longstrider]]_                     | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Purify Food and Drink.md\|Purify Food and Drink]]_ | Transmutation | R       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Sanctuary.md\|Sanctuary]]_                         | Abjuration    | —       | Player's Handbook (5.5e) |
+| Name                                                                        | School        | Special | Source                            |
+| --------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
+| _[[Spells/Level 1 Spells/Absorb Elements.md\|Absorb Elements]]_             | Abjuration    | —       | Elemental Evil Player's Companion |
+| _[[Spells/Level 1 Spells/Alarm.md\|Alarm]]_                                 | Abjuration    | R       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Catapult.md\|Catapult]]_                           | Transmutation | —       | Elemental Evil Player's Companion |
+| _[[Spells/Level 1 Spells/Cure Wounds.md\|Cure Wounds]]_                     | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Detect Magic.md\|Detect Magic]]_                   | Divination    | C, R    | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Disguise Self.md\|Disguise Self]]_                 | Illusion      | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Expeditious Retreat.md\|Expeditious Retreat]]_     | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Faerie Fire.md\|Faerie Fire]]_                     | Evocation     | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/False Life.md\|False Life]]_                       | Necromancy    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Feather Fall.md\|Feather Fall]]_                   | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Grease.md\|Grease]]_                               | Conjuration   | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Identify.md\|Identify]]_                           | Divination    | R, M    | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Jump.md\|Jump]]_                                   | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Longstrider.md\|Longstrider]]_                     | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Purify Food and Drink.md\|Purify Food and Drink]]_ | Transmutation | R       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Sanctuary.md\|Sanctuary]]_                         | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Snare.md\|Snare]]_                                 | Abjuration    | M       | Xanathar's Guide to Everything    |
+| _[[Spells/Level 1 Spells/Tasha's Caustic Brew.md\|Tasha's Caustic Brew]]_   | Evocation     | C       | Tasha's Cauldron of Everything    |
 
 ### Level 2 Artificer Spells
 
-| Name                                                                          | School        | Special | Source                          |
-| ----------------------------------------------------------------------------- | ------------- | ------- | ------------------------------- |
-| _[[Spells/Level 2 Spells/Aid.md\|Aid]]_                                       | Abjuration    | —       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Alter Self.md\|Alter Self]]_                         | Transmutation | C       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Arcane Lock.md\|Arcane Lock]]_                       | Abjuration    | M       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Arcane Vigor.md\|Arcane Vigor]]_                     | Abjuration    | —       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Blur.md\|Blur]]_                                     | Illusion      | C       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Continual Flame.md\|Continual Flame]]_               | Evocation     | M       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Darkvision (Spell).md\|Darkvision]]_                 | Transmutation | —       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Dragon's Breath.md\|Dragon's Breath]]_               | Transmutation | C       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_               | Transmutation | C       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Enlarge-Reduce.md\|Enlarge/Reduce]]_                 | Transmutation | C       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Heat Metal.md\|Heat Metal]]_                         | Transmutation | C       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Homunculus Servant.md\|Homunculus Servant]]_         | Conjuration   | R, M    | Eberron: Forge of the Artificer |
-| _[[Spells/Level 2 Spells/Invisibility.md\|Invisibility]]_                     | Illusion      | C       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Lesser Restoration.md\|Lesser Restoration]]_         | Abjuration    | —       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Levitate.md\|Levitate]]_                             | Transmutation | C       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Magic Mouth.md\|Magic Mouth]]_                       | Illusion      | R, M    | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Magic Weapon.md\|Magic Weapon]]_                     | Transmutation | —       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Protection from Poison.md\|Protection from Poison]]_ | Abjuration    | —       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Rope Trick.md\|Rope Trick]]_                         | Transmutation | —       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/See Invisibility.md\|See Invisibility]]_             | Divination    | —       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Spider Climb.md\|Spider Climb]]_                     | Transmutation | C       | Player's Handbook (5.5e)        |
-| _[[Spells/Level 2 Spells/Web.md\|Web]]_                                       | Conjuration   | C       | Player's Handbook (5.5e)        |
+| Name                                                                          | School        | Special | Source                            |
+| ----------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
+| _[[Spells/Level 2 Spells/Aid.md\|Aid]]_                                       | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Air Bubble.md\|Air Bubble]]_                         | Conjuration   | —       | Spelljammer: Adventures in Space  |
+| _[[Spells/Level 2 Spells/Alter Self.md\|Alter Self]]_                         | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Arcane Lock.md\|Arcane Lock]]_                       | Abjuration    | M       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Arcane Vigor.md\|Arcane Vigor]]_                     | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Blur.md\|Blur]]_                                     | Illusion      | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Continual Flame.md\|Continual Flame]]_               | Evocation     | M       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Darkvision (Spell).md\|Darkvision]]_                 | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Dragon's Breath.md\|Dragon's Breath]]_               | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_               | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Enlarge-Reduce.md\|Enlarge/Reduce]]_                 | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Heat Metal.md\|Heat Metal]]_                         | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Homunculus Servant.md\|Homunculus Servant]]_         | Conjuration   | R, M    | Eberron: Forge of the Artificer   |
+| _[[Spells/Level 2 Spells/Invisibility.md\|Invisibility]]_                     | Illusion      | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Kinetic Jaunt.md\|Kinetic Jaunt]]_                   | Transmutation | C       | Strixhaven: A Curriculum of Chaos |
+| _[[Spells/Level 2 Spells/Lesser Restoration.md\|Lesser Restoration]]_         | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Levitate.md\|Levitate]]_                             | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Magic Mouth.md\|Magic Mouth]]_                       | Illusion      | R, M    | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Magic Weapon.md\|Magic Weapon]]_                     | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Protection from Poison.md\|Protection from Poison]]_ | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Pyrotechnics.md\|Pyrotechnics]]_                     | Transmutation | —       | Elemental Evil Player's Companion |
+| _[[Spells/Level 2 Spells/Rope Trick.md\|Rope Trick]]_                         | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/See Invisibility.md\|See Invisibility]]_             | Divination    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Skywrite.md\|Skywrite]]_                             | Transmutation | C, R    | Elemental Evil Player's Companion |
+| _[[Spells/Level 2 Spells/Spider Climb.md\|Spider Climb]]_                     | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Tortoise Shell.md\|Tortoise Shell]]_                 | Abjuration    | C       | D\&D Beyond Drops                  |
+| _[[Spells/Level 2 Spells/Vortex Warp.md\|Vortex Warp]]_                       | Conjuration   | —       | Strixhaven: A Curriculum of Chaos |
+| _[[Spells/Level 2 Spells/Web.md\|Web]]_                                       | Conjuration   | C       | Player's Handbook (5.5e)          |
 
 ### Level 3 Artificer Spells
 
-| Name                                                                          | School        | Special | Source                   |
-| ----------------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
-| _[[Spells/Level 3 Spells/Blink.md\|Blink]]_                                   | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Create Food and Water.md\|Create Food and Water]]_   | Conjuration   | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Dispel Magic.md\|Dispel Magic]]_                     | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Elemental Weapon.md\|Elemental Weapon]]_             | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Fly.md\|Fly]]_                                       | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Glyph of Warding.md\|Glyph of Warding]]_             | Abjuration    | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Haste.md\|Haste]]_                                   | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Protection from Energy.md\|Protection from Energy]]_ | Abjuration    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Revivify.md\|Revivify]]_                             | Necromancy    | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Water Breathing.md\|Water Breathing]]_               | Transmutation | R       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Water Walk.md\|Water Walk]]_                         | Transmutation | R       | Player's Handbook (5.5e) |
+| Name                                                                          | School        | Special | Source                            |
+| ----------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
+| _[[Spells/Level 3 Spells/Ashardalon's Stride.md\|Ashardalon's Stride]]_       | Transmutation | C       | Fizban's Treasury of Dragons      |
+| _[[Spells/Level 3 Spells/Blink.md\|Blink]]_                                   | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Catnap.md\|Catnap]]_                                 | Enchantment   | —       | Xanathar's Guide to Everything    |
+| _[[Spells/Level 3 Spells/Create Food and Water.md\|Create Food and Water]]_   | Conjuration   | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Dispel Magic.md\|Dispel Magic]]_                     | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Elemental Weapon.md\|Elemental Weapon]]_             | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Flame Arrows.md\|Flame Arrows]]_                     | Transmutation | C       | Elemental Evil Player's Companion |
+| _[[Spells/Level 3 Spells/Fly.md\|Fly]]_                                       | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Glyph of Warding.md\|Glyph of Warding]]_             | Abjuration    | M       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Haste.md\|Haste]]_                                   | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Intellect Fortress.md\|Intellect Fortress]]_         | Abjuration    | C       | Tasha's Cauldron of Everything    |
+| _[[Spells/Level 3 Spells/Protection from Energy.md\|Protection from Energy]]_ | Abjuration    | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Revivify.md\|Revivify]]_                             | Necromancy    | M       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Tiny Servant.md\|Tiny Servant]]_                     | Transmutation | —       | Xanathar's Guide to Everything    |
+| _[[Spells/Level 3 Spells/Water Breathing.md\|Water Breathing]]_               | Transmutation | R       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Water Walk.md\|Water Walk]]_                         | Transmutation | R       | Player's Handbook (5.5e)          |
 
 ### Level 4 Artificer Spells
 
-| Name                                                                                          | School        | Special | Source                   |
-| --------------------------------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
-| _[[Spells/Level 4 Spells/Arcane Eye.md\|Arcane Eye]]_                                         | Divination    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Fabricate.md\|Fabricate]]_                                           | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Freedom of Movement.md\|Freedom of Movement]]_                       | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Leomund's Secret Chest.md\|Leomund's Secret Chest]]_                 | Conjuration   | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Mordenkainen's Faithful Hound.md\|Mordenkainen's Faithful Hound]]_   | Conjuration   | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Mordenkainen's Private Sanctum.md\|Mordenkainen's Private Sanctum]]_ | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Otiluke's Resilient Sphere.md\|Otiluke's Resilient Sphere]]_         | Abjuration    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Stone Shape.md\|Stone Shape]]_                                       | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Stoneskin.md\|Stoneskin]]_                                           | Transmutation | C, M    | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Summon Construct.md\|Summon Construct]]_                             | Conjuration   | C, M    | Player's Handbook (5.5e) |
+| Name                                                                                          | School        | Special | Source                            |
+| --------------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
+| _[[Spells/Level 4 Spells/Arcane Eye.md\|Arcane Eye]]_                                         | Divination    | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Elemental Bane.md\|Elemental Bane]]_                                 | Transmutation | C       | Elemental Evil Player's Companion |
+| _[[Spells/Level 4 Spells/Fabricate.md\|Fabricate]]_                                           | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Freedom of Movement.md\|Freedom of Movement]]_                       | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Leomund's Secret Chest.md\|Leomund's Secret Chest]]_                 | Conjuration   | M       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Mordenkainen's Faithful Hound.md\|Mordenkainen's Faithful Hound]]_   | Conjuration   | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Mordenkainen's Private Sanctum.md\|Mordenkainen's Private Sanctum]]_ | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Otiluke's Resilient Sphere.md\|Otiluke's Resilient Sphere]]_         | Abjuration    | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Stone Shape.md\|Stone Shape]]_                                       | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Stoneskin.md\|Stoneskin]]_                                           | Transmutation | C, M    | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Summon Construct.md\|Summon Construct]]_                             | Conjuration   | C, M    | Player's Handbook (5.5e)          |
 
 ### Level 5 Artificer Spells
 
-| Name                                                                    | School        | Special | Source                   |
-| ----------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
-| _[[Spells/Level 5 Spells/Animate Objects.md\|Animate Objects]]_         | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Bigby's Hand.md\|Bigby's Hand]]_               | Evocation     | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Circle of Power.md\|Circle of Power]]_         | Abjuration    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Creation.md\|Creation]]_                       | Illusion      | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Greater Restoration.md\|Greater Restoration]]_ | Abjuration    | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Wall of Stone.md\|Wall of Stone]]_             | Evocation     | C       | Player's Handbook (5.5e) |
+| Name                                                                              | School        | Special | Source                            |
+| --------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
+| _[[Spells/Level 5 Spells/Animate Objects.md\|Animate Objects]]_                   | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Bigby's Hand.md\|Bigby's Hand]]_                         | Evocation     | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Circle of Power.md\|Circle of Power]]_                   | Abjuration    | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Create Spelljamming Helm.md\|Create Spelljamming Helm]]_ | Transmutation | M       | Spelljammer: Adventures in Space  |
+| _[[Spells/Level 5 Spells/Creation.md\|Creation]]_                                 | Illusion      | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Greater Restoration.md\|Greater Restoration]]_           | Abjuration    | M       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Skill Empowerment.md\|Skill Empowerment]]_               | Transmutation | C       | Xanathar's Guide to Everything    |
+| _[[Spells/Level 5 Spells/Transmute Rock.md\|Transmute Rock]]_                     | Transmutation | —       | Elemental Evil Player's Companion |
+| _[[Spells/Level 5 Spells/Wall of Stone.md\|Wall of Stone]]_                       | Evocation     | C       | Player's Handbook (5.5e)          |
 
 ## Artificer Subclasses
 

@@ -9,6 +9,9 @@ properties:
 views:
   - type: table
     name: Spells
+    filters:
+      and:
+        - Official == true
     order:
       - Spell Level
       - Name

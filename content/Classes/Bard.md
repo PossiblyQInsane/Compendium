@@ -233,33 +233,36 @@ This section presents the Bard spell list. The spells are organized by spell lev
 
 #### Official
 
-| Name                                                                              | School        | Special | Source                   |
-| --------------------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
-| _[[Spells/Level 2 Spells/Aid.md\|Aid]]_                                           | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Animal Messenger.md\|Animal Messenger]]_                 | Enchantment   | R       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Blindness-Deafness.md\|Blindness/Deafness]]_             | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Calm Emotions.md\|Calm Emotions]]_                       | Enchantment   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Cloud of Daggers.md\|Cloud of Daggers]]_                 | Conjuration   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Crown of Madness.md\|Crown of Madness]]_                 | Enchantment   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Detect Thoughts.md\|Detect Thoughts]]_                   | Divination    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_                   | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Enlarge-Reduce.md\|Enlarge/Reduce]]_                     | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Enthrall.md\|Enthrall]]_                                 | Enchantment   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Heat Metal.md\|Heat Metal]]_                             | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Hold Person.md\|Hold Person]]_                           | Enchantment   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Invisibility.md\|Invisibility]]_                         | Illusion      | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Knock.md\|Knock]]_                                       | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Lesser Restoration.md\|Lesser Restoration]]_             | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Locate Animals or Plants.md\|Locate Animals or Plants]]_ | Divination    | R       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Locate Object.md\|Locate Object]]_                       | Divination    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Magic Mouth.md\|Magic Mouth]]_                           | Illusion      | R, M    | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Mirror Image.md\|Mirror Image]]_                         | Illusion      | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Phantasmal Force.md\|Phantasmal Force]]_                 | Illusion      | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/See Invisibility.md\|See Invisibility]]_                 | Divination    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Shatter.md\|Shatter]]_                                   | Evocation     | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Silence.md\|Silence]]_                                   | Illusion      | C, R    | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Suggestion.md\|Suggestion]]_                             | Enchantment   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Zone of Truth.md\|Zone of Truth]]_                       | Enchantment   | —       | Player's Handbook (5.5e) |
+| Name                                                                              | School        | Special | Source                            |
+| --------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
+| _[[Spells/Level 2 Spells/Aid.md\|Aid]]_                                           | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Animal Messenger.md\|Animal Messenger]]_                 | Enchantment   | R       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Blindness-Deafness.md\|Blindness/Deafness]]_             | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Calm Emotions.md\|Calm Emotions]]_                       | Enchantment   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Cloud of Daggers.md\|Cloud of Daggers]]_                 | Conjuration   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Crown of Madness.md\|Crown of Madness]]_                 | Enchantment   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Detect Thoughts.md\|Detect Thoughts]]_                   | Divination    | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_                   | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Enlarge-Reduce.md\|Enlarge/Reduce]]_                     | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Enthrall.md\|Enthrall]]_                                 | Enchantment   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Heat Metal.md\|Heat Metal]]_                             | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Hold Person.md\|Hold Person]]_                           | Enchantment   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Invisibility.md\|Invisibility]]_                         | Illusion      | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Kinetic Jaunt.md\|Kinetic Jaunt]]_                       | Transmutation | C       | Strixhaven: A Curriculum of Chaos |
+| _[[Spells/Level 2 Spells/Knock.md\|Knock]]_                                       | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Lesser Restoration.md\|Lesser Restoration]]_             | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Locate Animals or Plants.md\|Locate Animals or Plants]]_ | Divination    | R       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Locate Object.md\|Locate Object]]_                       | Divination    | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Magic Mouth.md\|Magic Mouth]]_                           | Illusion      | R, M    | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Mirror Image.md\|Mirror Image]]_                         | Illusion      | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Phantasmal Force.md\|Phantasmal Force]]_                 | Illusion      | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Pyrotechnics.md\|Pyrotechnics]]_                         | Transmutation | —       | Elemental Evil Player's Companion |
+| _[[Spells/Level 2 Spells/See Invisibility.md\|See Invisibility]]_                 | Divination    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Shatter.md\|Shatter]]_                                   | Evocation     | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Silence.md\|Silence]]_                                   | Illusion      | C, R    | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Skywrite.md\|Skywrite]]_                                 | Transmutation | C, R    | Elemental Evil Player's Companion |
+| _[[Spells/Level 2 Spells/Suggestion.md\|Suggestion]]_                             | Enchantment   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Zone of Truth.md\|Zone of Truth]]_                       | Enchantment   | —       | Player's Handbook (5.5e)          |
 
 #### Third Party
 
@@ -270,26 +273,28 @@ This section presents the Bard spell list. The spells are organized by spell lev
 
 #### Official
 
-| Name                                                                  | School        | Special | Source                   |
-| --------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
-| _[[Spells/Level 3 Spells/Bestow Curse.md\|Bestow Curse]]_             | Necromancy    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Clairvoyance.md\|Clairvoyance]]_             | Divination    | C, M    | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Dispel Magic.md\|Dispel Magic]]_             | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Fear.md\|Fear]]_                             | Illusion      | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Feign Death.md\|Feign Death]]_               | Necromancy    | R       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Glyph of Warding.md\|Glyph of Warding]]_     | Abjuration    | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Hypnotic Pattern.md\|Hypnotic Pattern]]_     | Illusion      | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Leomund's Tiny Hut.md\|Leomund's Tiny Hut]]_ | Evocation     | R       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Major Image.md\|Major Image]]_               | Illusion      | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Mass Healing Word.md\|Mass Healing Word]]_   | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Nondetection.md\|Nondetection]]_             | Abjuration    | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Plant Growth.md\|Plant Growth]]_             | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Sending.md\|Sending]]_                       | Divination    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Slow.md\|Slow]]_                             | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Speak with Dead.md\|Speak with Dead]]_       | Necromancy    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Speak with Plants.md\|Speak with Plants]]_   | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Stinking Cloud.md\|Stinking Cloud]]_         | Conjuration   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Tongues.md\|Tongues]]_                       | Divination    | —       | Player's Handbook (5.5e) |
+| Name                                                                  | School        | Special | Source                         |
+| --------------------------------------------------------------------- | ------------- | ------- | ------------------------------ |
+| _[[Spells/Level 3 Spells/Bestow Curse.md\|Bestow Curse]]_             | Necromancy    | C       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 3 Spells/Catnap.md\|Catnap]]_                         | Enchantment   | —       | Xanathar's Guide to Everything |
+| _[[Spells/Level 3 Spells/Clairvoyance.md\|Clairvoyance]]_             | Divination    | C, M    | Player's Handbook (5.5e)       |
+| _[[Spells/Level 3 Spells/Dispel Magic.md\|Dispel Magic]]_             | Abjuration    | —       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 3 Spells/Fear.md\|Fear]]_                             | Illusion      | C       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 3 Spells/Feign Death.md\|Feign Death]]_               | Necromancy    | R       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 3 Spells/Glyph of Warding.md\|Glyph of Warding]]_     | Abjuration    | M       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 3 Spells/Hypnotic Pattern.md\|Hypnotic Pattern]]_     | Illusion      | C       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 3 Spells/Intellect Fortress.md\|Intellect Fortress]]_ | Abjuration    | C       | Tasha's Cauldron of Everything |
+| _[[Spells/Level 3 Spells/Leomund's Tiny Hut.md\|Leomund's Tiny Hut]]_ | Evocation     | R       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 3 Spells/Major Image.md\|Major Image]]_               | Illusion      | C       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 3 Spells/Mass Healing Word.md\|Mass Healing Word]]_   | Abjuration    | —       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 3 Spells/Nondetection.md\|Nondetection]]_             | Abjuration    | M       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 3 Spells/Plant Growth.md\|Plant Growth]]_             | Transmutation | —       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 3 Spells/Sending.md\|Sending]]_                       | Divination    | —       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 3 Spells/Slow.md\|Slow]]_                             | Transmutation | C       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 3 Spells/Speak with Dead.md\|Speak with Dead]]_       | Necromancy    | —       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 3 Spells/Speak with Plants.md\|Speak with Plants]]_   | Transmutation | —       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 3 Spells/Stinking Cloud.md\|Stinking Cloud]]_         | Conjuration   | C       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 3 Spells/Tongues.md\|Tongues]]_                       | Divination    | —       | Player's Handbook (5.5e)       |
 
 #### Third Party
 
@@ -325,27 +330,28 @@ This section presents the Bard spell list. The spells are organized by spell lev
 
 #### Official
 
-| Name                                                                              | School        | Special | Source                   |
-| --------------------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
-| _[[Spells/Level 5 Spells/Animate Objects.md\|Animate Objects]]_                   | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Awaken.md\|Awaken]]_                                     | Transmutation | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Dominate Person.md\|Dominate Person]]_                   | Enchantment   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Dream.md\|Dream]]_                                       | Illusion      | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Geas.md\|Geas]]_                                         | Enchantment   | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Greater Restoration.md\|Greater Restoration]]_           | Abjuration    | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Hold Monster.md\|Hold Monster]]_                         | Enchantment   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Legend Lore.md\|Legend Lore]]_                           | Divination    | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Mass Cure Wounds.md\|Mass Cure Wounds]]_                 | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Mislead.md\|Mislead]]_                                   | Illusion      | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Modify Memory.md\|Modify Memory]]_                       | Enchantment   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Planar Binding.md\|Planar Binding]]_                     | Abjuration    | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Raise Dead.md\|Raise Dead]]_                             | Necromancy    | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Rary's Telepathic Bond.md\|Rary's Telepathic Bond]]_     | Divination    | R       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Scrying.md\|Scrying]]_                                   | Divination    | C, M    | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Seeming.md\|Seeming]]_                                   | Illusion      | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Synaptic Static.md\|Synaptic Static]]_                   | Enchantment   | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Teleportation Circle.md\|Teleportation Circle]]_         | Conjuration   | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Yolande's Regal Presence.md\|Yolande's Regal Presence]]_ | Enchantment   | C       | Player's Handbook (5.5e) |
+| Name                                                                              | School        | Special | Source                         |
+| --------------------------------------------------------------------------------- | ------------- | ------- | ------------------------------ |
+| _[[Spells/Level 5 Spells/Animate Objects.md\|Animate Objects]]_                   | Transmutation | C       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Awaken.md\|Awaken]]_                                     | Transmutation | M       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Dominate Person.md\|Dominate Person]]_                   | Enchantment   | C       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Dream.md\|Dream]]_                                       | Illusion      | —       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Geas.md\|Geas]]_                                         | Enchantment   | —       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Greater Restoration.md\|Greater Restoration]]_           | Abjuration    | M       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Hold Monster.md\|Hold Monster]]_                         | Enchantment   | C       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Legend Lore.md\|Legend Lore]]_                           | Divination    | M       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Mass Cure Wounds.md\|Mass Cure Wounds]]_                 | Abjuration    | —       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Mislead.md\|Mislead]]_                                   | Illusion      | C       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Modify Memory.md\|Modify Memory]]_                       | Enchantment   | C       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Planar Binding.md\|Planar Binding]]_                     | Abjuration    | M       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Raise Dead.md\|Raise Dead]]_                             | Necromancy    | M       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Rary's Telepathic Bond.md\|Rary's Telepathic Bond]]_     | Divination    | R       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Scrying.md\|Scrying]]_                                   | Divination    | C, M    | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Seeming.md\|Seeming]]_                                   | Illusion      | —       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Skill Empowerment.md\|Skill Empowerment]]_               | Transmutation | C       | Xanathar's Guide to Everything |
+| _[[Spells/Level 5 Spells/Synaptic Static.md\|Synaptic Static]]_                   | Enchantment   | —       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Teleportation Circle.md\|Teleportation Circle]]_         | Conjuration   | M       | Player's Handbook (5.5e)       |
+| _[[Spells/Level 5 Spells/Yolande's Regal Presence.md\|Yolande's Regal Presence]]_ | Enchantment   | C       | Player's Handbook (5.5e)       |
 
 #### Third Party
 

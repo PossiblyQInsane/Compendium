@@ -210,21 +210,24 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 #### Official
 
-| Name                                                      | School        | Special | Source                   |
-| --------------------------------------------------------- | ------------- | ------- | ------------------------ |
-| _[[Spells/Cantrips/Druidcraft.md\|Druidcraft]]_           | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Elementalism.md\|Elementalism]]_       | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Guidance.md\|Guidance]]_               | Divination    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Mending.md\|Mending]]_                 | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Message.md\|Message]]_                 | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Poison Spray.md\|Poison Spray]]_       | Necromancy    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Produce Flame.md\|Produce Flame]]_     | Conjuration   | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Resistance (Spell).md\|Resistance]]_   | Abjuration    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Shillelagh.md\|Shillelagh]]_           | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Spare the Dying.md\|Spare the Dying]]_ | Necromancy    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Starry Wisp.md\|Starry Wisp]]_         | Evocation     | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Thorn Whip.md\|Thorn Whip]]_           | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Cantrips/Thunderclap.md\|Thunderclap]]_         | Evocation     | —       | Player's Handbook (5.5e) |
+| Name                                                      | School        | Special | Source                            |
+| --------------------------------------------------------- | ------------- | ------- | --------------------------------- |
+| _[[Spells/Cantrips/Create Bonfire.md\|Create Bonfire]]_   | Conjuration   | C       | Elemental Evil Player's Companion |
+| _[[Spells/Cantrips/Druidcraft.md\|Druidcraft]]_           | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Elementalism.md\|Elementalism]]_       | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Frostbite.md\|Frostbite]]_             | Evocation     | —       | Elemental Evil Player's Companion |
+| _[[Spells/Cantrips/Guidance.md\|Guidance]]_               | Divination    | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Magic Stone.md\|Magic Stone]]_         | Transmutation | —       | Elemental Evil Player's Companion |
+| _[[Spells/Cantrips/Mending.md\|Mending]]_                 | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Message.md\|Message]]_                 | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Poison Spray.md\|Poison Spray]]_       | Necromancy    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Produce Flame.md\|Produce Flame]]_     | Conjuration   | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Resistance (Spell).md\|Resistance]]_   | Abjuration    | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Shillelagh.md\|Shillelagh]]_           | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Spare the Dying.md\|Spare the Dying]]_ | Necromancy    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Starry Wisp.md\|Starry Wisp]]_         | Evocation     | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Thorn Whip.md\|Thorn Whip]]_           | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Cantrips/Thunderclap.md\|Thunderclap]]_         | Evocation     | —       | Player's Handbook (5.5e)          |
 
 #### Third Party
 
@@ -235,26 +238,28 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 #### Official
 
-| Name                                                                                        | School        | Special | Source                   |
-| ------------------------------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
-| _[[Spells/Level 1 Spells/Animal Friendship.md\|Animal Friendship]]_                         | Enchantment   | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Charm Person.md\|Charm Person]]_                                   | Enchantment   | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Create or Destroy Water.md\|Create or Destroy Water]]_             | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Cure Wounds.md\|Cure Wounds]]_                                     | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Detect Magic.md\|Detect Magic]]_                                   | Divination    | C, R    | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Detect Poison and Disease.md\|Detect Poison and Disease]]_         | Divination    | C, R    | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Entangle.md\|Entangle]]_                                           | Conjuration   | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Faerie Fire.md\|Faerie Fire]]_                                     | Evocation     | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Fog Cloud.md\|Fog Cloud]]_                                         | Conjuration   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Goodberry.md\|Goodberry]]_                                         | Conjuration   | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Healing Word.md\|Healing Word]]_                                   | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Ice Knife.md\|Ice Knife]]_                                         | Conjuration   | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Jump.md\|Jump]]_                                                   | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Longstrider.md\|Longstrider]]_                                     | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Protection from Evil and Good.md\|Protection from Evil and Good]]_ | Abjuration    | C, M    | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Purify Food and Drink.md\|Purify Food and Drink]]_                 | Transmutation | R       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Speak with Animals.md\|Speak with Animals]]_                       | Divination    | R       | Player's Handbook (5.5e) |
-| _[[Spells/Level 1 Spells/Thunderwave.md\|Thunderwave]]_                                     | Evocation     | —       | Player's Handbook (5.5e) |
+| Name                                                                                        | School        | Special | Source                            |
+| ------------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
+| _[[Spells/Level 1 Spells/Absorb Elements.md\|Absorb Elements]]_                             | Abjuration    | —       | Elemental Evil Player's Companion |
+| _[[Spells/Level 1 Spells/Animal Friendship.md\|Animal Friendship]]_                         | Enchantment   | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Charm Person.md\|Charm Person]]_                                   | Enchantment   | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Create or Destroy Water.md\|Create or Destroy Water]]_             | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Cure Wounds.md\|Cure Wounds]]_                                     | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Detect Magic.md\|Detect Magic]]_                                   | Divination    | C, R    | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Detect Poison and Disease.md\|Detect Poison and Disease]]_         | Divination    | C, R    | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Entangle.md\|Entangle]]_                                           | Conjuration   | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Faerie Fire.md\|Faerie Fire]]_                                     | Evocation     | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Fog Cloud.md\|Fog Cloud]]_                                         | Conjuration   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Goodberry.md\|Goodberry]]_                                         | Conjuration   | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Healing Word.md\|Healing Word]]_                                   | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Ice Knife.md\|Ice Knife]]_                                         | Conjuration   | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Jump.md\|Jump]]_                                                   | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Longstrider.md\|Longstrider]]_                                     | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Protection from Evil and Good.md\|Protection from Evil and Good]]_ | Abjuration    | C, M    | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Purify Food and Drink.md\|Purify Food and Drink]]_                 | Transmutation | R       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Snare.md\|Snare]]_                                                 | Abjuration    | M       | Xanathar's Guide to Everything    |
+| _[[Spells/Level 1 Spells/Speak with Animals.md\|Speak with Animals]]_                       | Divination    | R       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 1 Spells/Thunderwave.md\|Thunderwave]]_                                     | Evocation     | —       | Player's Handbook (5.5e)          |
 
 #### Third Party
 
@@ -267,31 +272,34 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 #### Official
 
-| Name                                                                              | School        | Special | Source                   |
-| --------------------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
-| _[[Spells/Level 2 Spells/Aid.md\|Aid]]_                                           | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Animal Messenger.md\|Animal Messenger]]_                 | Enchantment   | R       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Augury.md\|Augury]]_                                     | Divination    | R, M    | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Barkskin.md\|Barkskin]]_                                 | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Beast Sense.md\|Beast Sense]]_                           | Divination    | C, R    | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Continual Flame.md\|Continual Flame]]_                   | Evocation     | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Darkvision (Spell).md\|Darkvision]]_                     | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_                   | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Enlarge-Reduce.md\|Enlarge/Reduce]]_                     | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Find Traps.md\|Find Traps]]_                             | Divination    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Flame Blade.md\|Flame Blade]]_                           | Evocation     | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Flaming Sphere.md\|Flaming Sphere]]_                     | Conjuration   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Gust of Wind.md\|Gust of Wind]]_                         | Evocation     | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Heat Metal.md\|Heat Metal]]_                             | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Hold Person.md\|Hold Person]]_                           | Enchantment   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Lesser Restoration.md\|Lesser Restoration]]_             | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Locate Animals or Plants.md\|Locate Animals or Plants]]_ | Divination    | R       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Locate Object.md\|Locate Object]]_                       | Divination    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Moonbeam.md\|Moonbeam]]_                                 | Evocation     | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Pass without Trace.md\|Pass without Trace]]_             | Abjuration    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Protection from Poison.md\|Protection from Poison]]_     | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Spike Growth.md\|Spike Growth]]_                         | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 2 Spells/Summon Beast.md\|Summon Beast]]_                         | Conjuration   | C, M    | Player's Handbook (5.5e) |
+| Name                                                                              | School        | Special | Source                            |
+| --------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
+| _[[Spells/Level 2 Spells/Aid.md\|Aid]]_                                           | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Air Bubble.md\|Air Bubble]]_                             | Conjuration   | —       | Spelljammer: Adventures in Space  |
+| _[[Spells/Level 2 Spells/Animal Messenger.md\|Animal Messenger]]_                 | Enchantment   | R       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Augury.md\|Augury]]_                                     | Divination    | R, M    | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Barkskin.md\|Barkskin]]_                                 | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Beast Sense.md\|Beast Sense]]_                           | Divination    | C, R    | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Continual Flame.md\|Continual Flame]]_                   | Evocation     | M       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Darkvision (Spell).md\|Darkvision]]_                     | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_                   | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Enlarge-Reduce.md\|Enlarge/Reduce]]_                     | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Find Traps.md\|Find Traps]]_                             | Divination    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Flame Blade.md\|Flame Blade]]_                           | Evocation     | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Flaming Sphere.md\|Flaming Sphere]]_                     | Conjuration   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Gust of Wind.md\|Gust of Wind]]_                         | Evocation     | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Heat Metal.md\|Heat Metal]]_                             | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Hold Person.md\|Hold Person]]_                           | Enchantment   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Lesser Restoration.md\|Lesser Restoration]]_             | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Locate Animals or Plants.md\|Locate Animals or Plants]]_ | Divination    | R       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Locate Object.md\|Locate Object]]_                       | Divination    | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Moonbeam.md\|Moonbeam]]_                                 | Evocation     | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Pass without Trace.md\|Pass without Trace]]_             | Abjuration    | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Protection from Poison.md\|Protection from Poison]]_     | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Skywrite.md\|Skywrite]]_                                 | Transmutation | C, R    | Elemental Evil Player's Companion |
+| _[[Spells/Level 2 Spells/Spike Growth.md\|Spike Growth]]_                         | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Summon Beast.md\|Summon Beast]]_                         | Conjuration   | C, M    | Player's Handbook (5.5e)          |
+| _[[Spells/Level 2 Spells/Tortoise Shell.md\|Tortoise Shell]]_                     | Abjuration    | C       | D\&D Beyond Drops                  |
 
 #### Third Party
 
@@ -304,25 +312,26 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 #### Official
 
-| Name                                                                          | School        | Special | Source                   |
-| ----------------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
-| _[[Spells/Level 3 Spells/Aura of Vitality.md\|Aura of Vitality]]_             | Abjuration    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Call Lightning.md\|Call Lightning]]_                 | Conjuration   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Conjure Animals.md\|Conjure Animals]]_               | Conjuration   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Daylight.md\|Daylight]]_                             | Evocation     | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Dispel Magic.md\|Dispel Magic]]_                     | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Elemental Weapon.md\|Elemental Weapon]]_             | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Feign Death.md\|Feign Death]]_                       | Necromancy    | R       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Meld into Stone.md\|Meld into Stone]]_               | Transmutation | R       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Plant Growth.md\|Plant Growth]]_                     | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Protection from Energy.md\|Protection from Energy]]_ | Abjuration    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Revivify.md\|Revivify]]_                             | Necromancy    | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Sleet Storm.md\|Sleet Storm]]_                       | Conjuration   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Speak with Plants.md\|Speak with Plants]]_           | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Summon Fey.md\|Summon Fey]]_                         | Conjuration   | C, M    | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Water Breathing.md\|Water Breathing]]_               | Transmutation | R       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Water Walk.md\|Water Walk]]_                         | Transmutation | R       | Player's Handbook (5.5e) |
-| _[[Spells/Level 3 Spells/Wind Wall.md\|Wind Wall]]_                           | Evocation     | C       | Player's Handbook (5.5e) |
+| Name                                                                          | School        | Special | Source                            |
+| ----------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
+| _[[Spells/Level 3 Spells/Aura of Vitality.md\|Aura of Vitality]]_             | Abjuration    | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Call Lightning.md\|Call Lightning]]_                 | Conjuration   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Conjure Animals.md\|Conjure Animals]]_               | Conjuration   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Daylight.md\|Daylight]]_                             | Evocation     | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Dispel Magic.md\|Dispel Magic]]_                     | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Elemental Weapon.md\|Elemental Weapon]]_             | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Feign Death.md\|Feign Death]]_                       | Necromancy    | R       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Flame Arrows.md\|Flame Arrows]]_                     | Transmutation | C       | Elemental Evil Player's Companion |
+| _[[Spells/Level 3 Spells/Meld into Stone.md\|Meld into Stone]]_               | Transmutation | R       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Plant Growth.md\|Plant Growth]]_                     | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Protection from Energy.md\|Protection from Energy]]_ | Abjuration    | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Revivify.md\|Revivify]]_                             | Necromancy    | M       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Sleet Storm.md\|Sleet Storm]]_                       | Conjuration   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Speak with Plants.md\|Speak with Plants]]_           | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Summon Fey.md\|Summon Fey]]_                         | Conjuration   | C, M    | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Water Breathing.md\|Water Breathing]]_               | Transmutation | R       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Water Walk.md\|Water Walk]]_                         | Transmutation | R       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 3 Spells/Wind Wall.md\|Wind Wall]]_                           | Evocation     | C       | Player's Handbook (5.5e)          |
 
 #### Third Party
 
@@ -337,29 +346,30 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 #### Official
 
-| Name                                                                              | School        | Special | Source                   |
-| --------------------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
-| _[[Spells/Level 4 Spells/Blight.md\|Blight]]_                                     | Necromancy    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Charm Monster.md\|Charm Monster]]_                       | Enchantment   | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Confusion.md\|Confusion]]_                               | Enchantment   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Conjure Minor Elementals.md\|Conjure Minor Elementals]]_ | Conjuration   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Conjure Woodland Beings.md\|Conjure Woodland Beings]]_   | Conjuration   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Control Water.md\|Control Water]]_                       | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Divination.md\|Divination]]_                             | Divination    | R, M    | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Dominate Beast.md\|Dominate Beast]]_                     | Enchantment   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Fire Shield.md\|Fire Shield]]_                           | Evocation     | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Fount of Moonlight.md\|Fount of Moonlight]]_             | Evocation     | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Freedom of Movement.md\|Freedom of Movement]]_           | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Giant Insect.md\|Giant Insect]]_                         | Conjuration   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Grasping Vine.md\|Grasping Vine]]_                       | Conjuration   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Hallucinatory Terrain.md\|Hallucinatory Terrain]]_       | Illusion      | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Ice Storm.md\|Ice Storm]]_                               | Evocation     | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Locate Creature.md\|Locate Creature]]_                   | Divination    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Polymorph.md\|Polymorph]]_                               | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Stone Shape.md\|Stone Shape]]_                           | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Stoneskin.md\|Stoneskin]]_                               | Transmutation | C, M    | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Summon Elemental.md\|Summon Elemental]]_                 | Conjuration   | C, M    | Player's Handbook (5.5e) |
-| _[[Spells/Level 4 Spells/Wall of Fire.md\|Wall of Fire]]_                         | Evocation     | C       | Player's Handbook (5.5e) |
+| Name                                                                              | School        | Special | Source                            |
+| --------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
+| _[[Spells/Level 4 Spells/Blight.md\|Blight]]_                                     | Necromancy    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Charm Monster.md\|Charm Monster]]_                       | Enchantment   | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Confusion.md\|Confusion]]_                               | Enchantment   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Conjure Minor Elementals.md\|Conjure Minor Elementals]]_ | Conjuration   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Conjure Woodland Beings.md\|Conjure Woodland Beings]]_   | Conjuration   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Control Water.md\|Control Water]]_                       | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Divination.md\|Divination]]_                             | Divination    | R, M    | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Dominate Beast.md\|Dominate Beast]]_                     | Enchantment   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Elemental Bane.md\|Elemental Bane]]_                     | Transmutation | C       | Elemental Evil Player's Companion |
+| _[[Spells/Level 4 Spells/Fire Shield.md\|Fire Shield]]_                           | Evocation     | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Fount of Moonlight.md\|Fount of Moonlight]]_             | Evocation     | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Freedom of Movement.md\|Freedom of Movement]]_           | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Giant Insect.md\|Giant Insect]]_                         | Conjuration   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Grasping Vine.md\|Grasping Vine]]_                       | Conjuration   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Hallucinatory Terrain.md\|Hallucinatory Terrain]]_       | Illusion      | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Ice Storm.md\|Ice Storm]]_                               | Evocation     | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Locate Creature.md\|Locate Creature]]_                   | Divination    | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Polymorph.md\|Polymorph]]_                               | Transmutation | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Stone Shape.md\|Stone Shape]]_                           | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Stoneskin.md\|Stoneskin]]_                               | Transmutation | C, M    | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Summon Elemental.md\|Summon Elemental]]_                 | Conjuration   | C, M    | Player's Handbook (5.5e)          |
+| _[[Spells/Level 4 Spells/Wall of Fire.md\|Wall of Fire]]_                         | Evocation     | C       | Player's Handbook (5.5e)          |
 
 #### Third Party
 
@@ -371,23 +381,24 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 #### Official
 
-| Name                                                                    | School        | Special | Source                   |
-| ----------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
-| _[[Spells/Level 5 Spells/Antilife Shell.md\|Antilife Shell]]_           | Abjuration    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Awaken.md\|Awaken]]_                           | Transmutation | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Commune with Nature.md\|Commune with Nature]]_ | Divination    | R       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Cone of Cold.md\|Cone of Cold]]_               | Evocation     | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Conjure Elemental.md\|Conjure Elemental]]_     | Conjuration   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Contagion.md\|Contagion]]_                     | Necromancy    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Geas.md\|Geas]]_                               | Enchantment   | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Greater Restoration.md\|Greater Restoration]]_ | Abjuration    | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Insect Plague.md\|Insect Plague]]_             | Conjuration   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Mass Cure Wounds.md\|Mass Cure Wounds]]_       | Abjuration    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Planar Binding.md\|Planar Binding]]_           | Abjuration    | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Reincarnate.md\|Reincarnate]]_                 | Necromancy    | M       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Scrying.md\|Scrying]]_                         | Divination    | C, M    | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Tree Stride.md\|Tree Stride]]_                 | Conjuration   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Level 5 Spells/Wall of Stone.md\|Wall of Stone]]_             | Evocation     | C       | Player's Handbook (5.5e) |
+| Name                                                                    | School        | Special | Source                            |
+| ----------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
+| _[[Spells/Level 5 Spells/Antilife Shell.md\|Antilife Shell]]_           | Abjuration    | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Awaken.md\|Awaken]]_                           | Transmutation | M       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Commune with Nature.md\|Commune with Nature]]_ | Divination    | R       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Cone of Cold.md\|Cone of Cold]]_               | Evocation     | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Conjure Elemental.md\|Conjure Elemental]]_     | Conjuration   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Contagion.md\|Contagion]]_                     | Necromancy    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Geas.md\|Geas]]_                               | Enchantment   | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Greater Restoration.md\|Greater Restoration]]_ | Abjuration    | M       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Insect Plague.md\|Insect Plague]]_             | Conjuration   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Mass Cure Wounds.md\|Mass Cure Wounds]]_       | Abjuration    | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Planar Binding.md\|Planar Binding]]_           | Abjuration    | M       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Reincarnate.md\|Reincarnate]]_                 | Necromancy    | M       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Scrying.md\|Scrying]]_                         | Divination    | C, M    | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Transmute Rock.md\|Transmute Rock]]_           | Transmutation | —       | Elemental Evil Player's Companion |
+| _[[Spells/Level 5 Spells/Tree Stride.md\|Tree Stride]]_                 | Conjuration   | C       | Player's Handbook (5.5e)          |
+| _[[Spells/Level 5 Spells/Wall of Stone.md\|Wall of Stone]]_             | Evocation     | C       | Player's Handbook (5.5e)          |
 
 #### Third Party
 
