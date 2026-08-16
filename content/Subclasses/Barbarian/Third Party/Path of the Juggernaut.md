@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T14:48:46.441-04:00
-modified: 2026-08-16T15:19:17.965-04:00
-published: 2026-08-16T15:19:17.965-04:00
+modified: 2026-08-16T15:28:19.673-04:00
+published: 2026-08-16T15:28:19.673-04:00
 Parent Class: "[[Barbarian]]"
 Source: Tal'Dorei Campaign Setting Reborn
 Official: false
@@ -12,10 +12,7 @@ Edition: 5e
 
 > [!caption|left wm-sm]
 > ![[Images/Path of the Juggernaut.webp]]
->
-> > [!recite| no-i] Kel'jaia Uloeh
-> > _Gnome Path of the Juggernaut barbarian (she/her)_
-> > When Kel'jaia sets her eyes on something, nothing can stop her from achieving it. Her small size has no bearing on her unbelievable strength, which can overpower creatures many times her size. She came to Tal'Dorei after the village on the Rifenmist Peninsula she was defending was razed by the Iron Authority. She first arrived in Syngorn, and through the connections and friendships she made there, was chosen to be a Syngornian delegate to the Tal'Dorei Council. She strongly believes that Tal'Dorei should take a stand against the cruelty of the Authority. Should strife come to Tal'Dorei, Kel'jaia is thought by all to be the council's first choice for Master of War, due to her valor, tactical cunning, and battle prowess.
+> Kel'jaia Uloeh
 
 Barbarians who follow the Path of the Juggernaut stand so resolutely that none can deter them, and they swing their weapons with such force that all who stand against them are flung aside. In might and in spirit, juggernauts are immovable object and unstoppable force all at once.
 
@@ -55,3 +52,8 @@ Additionally, whenever you push a creature into a space within 5 feet of one of 
 At 14th level, your fury in battle makes you unstoppable. While you're raging, your [[Speed|speed]] cannot be reduced, and you are immune to the [[Frightened|frightened]], [[Paralyzed|paralyzed]], [[Prone|prone]], and [[Stunned|stunned]] conditions.
 
 If you are [[Frightened|frightened]], [[Paralyzed|paralyzed]], or [[Stunned|stunned]], you can still use a [[Bonus Action|bonus action]] to enter a rage (even if you can't otherwise take actions). You aren't affected by any of these conditions while you're raging.
+
+> [!recite| no-i] Kel'jaia Uloeh
+> _Gnome Path of the Juggernaut barbarian (she/her)_
+>
+> When Kel'jaia sets her eyes on something, nothing can stop her from achieving it. Her small size has no bearing on her unbelievable strength, which can overpower creatures many times her size. She came to Tal'Dorei after the village on the Rifenmist Peninsula she was defending was razed by the Iron Authority. She first arrived in Syngorn, and through the connections and friendships she made there, was chosen to be a Syngornian delegate to the Tal'Dorei Council. She strongly believes that Tal'Dorei should take a stand against the cruelty of the Authority. Should strife come to Tal'Dorei, Kel'jaia is thought by all to be the council's first choice for Master of War, due to her valor, tactical cunning, and battle prowess.
