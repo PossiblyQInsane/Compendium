@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T09:34:35.165-04:00
-modified: 2026-08-16T01:01:47.955-04:00
-published: 2026-08-16T01:01:47.955-04:00
+modified: 2026-08-16T15:23:02.365-04:00
+published: 2026-08-16T15:23:02.365-04:00
 Source: Player's Handbook (5.5e)
 Official: true
 Edition: 5.5e
@@ -48,28 +48,28 @@ As a Barbarian, you gain the following class features when you reach the specifi
 
 ##### Barbarian Features
 
-| Level | Proficiency Bonus | Class Features                                                                                                                                     | Rages | Rage Damage | Weapon Mastery |     |
-| :---: | :---------------: | :------------------------------------------------------------------------------------------------------------------------------------------------- | :---: | :---------: | :------------: | --- |
-|   1   |        +2         | [[Barbarian#Level 1 Rage\|Rage]], [[Barbarian#Level 1 Unarmored Defense\|Unarmored Defense]], [[Barbarian#Level 1 Weapon Mastery\|Weapon Mastery]] |   2   |     +2      |       2        |     |
-|   2   |        +2         | [[Barbarian#Level 2 Danger Sense\|Danger Sense]], [[Barbarian#Level 2 Reckless Attack\|Reckless Attack]]                                           |   2   |     +2      |       2        |     |
-|   3   |        +2         | [[Barbarian#Level 3 Barbarian Subclass\|Barbarian Subclass]], [[Barbarian#Level 3 Primal Knowledge\|Primal Knowledge]]                             |   3   |     +2      |       2        |     |
-|   4   |        +2         | [[Barbarian#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                                         |   3   |     +2      |       3        |     |
-|   5   |        +3         | [[Barbarian#Level 5 Extra Attack\|Extra Attack]], [[Barbarian#Level 5 Fast Movement\|Fast Movement]]                                               |   3   |     +2      |       3        |     |
-|   6   |        +3         | Subclass feature                                                                                                                                   |   4   |     +2      |       3        |     |
-|   7   |        +3         | [[Barbarian#Level 7 Feral Instinct\|Feral Instinct]], [[Barbarian#Level 7 Instinctive Pounce\|Instinctive Pounce]]                                 |   4   |     +2      |       3        |     |
-|   8   |        +3         | [[Barbarian#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                                         |   4   |     +2      |       3        |     |
-|   9   |        +4         | [[Barbarian#Level 9 Brutal Strike\|Brutal Strike]]                                                                                                 |   4   |     +3      |       3        |     |
-|  10   |        +4         | Subclass feature                                                                                                                                   |   4   |     +3      |       4        |     |
-|  11   |        +4         | [[Barbarian#Level 11 Relentless Rage\|Relentless Rage]]                                                                                            |   4   |     +3      |       4        |     |
-|  12   |        +4         | [[Barbarian#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                                         |   5   |     +3      |       4        |     |
-|  13   |        +5         | [[Barbarian#Level 13 Improved Brutal Strike\|Improved Brutal Strike]]                                                                              |   5   |     +3      |       4        |     |
-|  14   |        +5         | Subclass feature                                                                                                                                   |   5   |     +3      |       4        |     |
-|  15   |        +5         | [[Barbarian#Level 15 Persistent Rage\|Persistent Rage]]                                                                                            |   5   |     +3      |       4        |     |
-|  16   |        +5         | [[Barbarian#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                                         |   5   |     +4      |       4        |     |
-|  17   |        +6         | [[Barbarian#Level 17 Improved Brutal Strike\|Improved Brutal Strike]]                                                                              |   6   |     +4      |       4        |     |
-|  18   |        +6         | [[Barbarian#Level 18 Indomitable Might\|Indomitable Might]]                                                                                        |   6   |     +4      |       4        |     |
-|  19   |        +6         | [[Barbarian#Level 19 Epic Boon\|Epic Boon]]                                                                                                        |   6   |     +4      |       4        |     |
-|  20   |        +6         | [[Barbarian#Level 20 Primal Champion\|Primal Champion]]                                                                                            |   6   |     +4      |       4        |     |
+| Level | Proficiency Bonus | Class Features                          | Rages | Rage Damage | Weapon Mastery |     |
+| :---: | :---------------: | :-------------------------------------- | :---: | :---------: | :------------: | --- |
+|   1   |        +2         | Rage, Unarmored Defense, Weapon Mastery |   2   |     +2      |       2        |     |
+|   2   |        +2         | Danger Sense, Reckless Attack           |   2   |     +2      |       2        |     |
+|   3   |        +2         | Barbarian Subclass, Primal Knowledge    |   3   |     +2      |       2        |     |
+|   4   |        +2         | Ability Score Improvement               |   3   |     +2      |       3        |     |
+|   5   |        +3         | Extra Attack, Fast Movement             |   3   |     +2      |       3        |     |
+|   6   |        +3         | Subclass feature                        |   4   |     +2      |       3        |     |
+|   7   |        +3         | Feral Instinct, Instinctive Pounce      |   4   |     +2      |       3        |     |
+|   8   |        +3         | Ability Score Improvement               |   4   |     +2      |       3        |     |
+|   9   |        +4         | Brutal Strike                           |   4   |     +3      |       3        |     |
+|  10   |        +4         | Subclass feature                        |   4   |     +3      |       4        |     |
+|  11   |        +4         | Relentless Rage                         |   4   |     +3      |       4        |     |
+|  12   |        +4         | Ability Score Improvement               |   5   |     +3      |       4        |     |
+|  13   |        +5         | Improved Brutal Strike                  |   5   |     +3      |       4        |     |
+|  14   |        +5         | Subclass feature                        |   5   |     +3      |       4        |     |
+|  15   |        +5         | Persistent Rage                         |   5   |     +3      |       4        |     |
+|  16   |        +5         | Ability Score Improvement               |   5   |     +4      |       4        |     |
+|  17   |        +6         | Improved Brutal Strike                  |   6   |     +4      |       4        |     |
+|  18   |        +6         | Indomitable Might                       |   6   |     +4      |       4        |     |
+|  19   |        +6         | Epic Boon                               |   6   |     +4      |       4        |     |
+|  20   |        +6         | Primal Champion                         |   6   |     +4      |       4        |     |
 
 ### Level 1: Rage
 
@@ -193,24 +193,33 @@ A Barbarian subclass is a specialization that grants you features at certain Bar
 
 ### Official Barbarian Subclasses
 
-| Name                                                                       | Source                   | Edition |
-| -------------------------------------------------------------------------- | ------------------------ | ------- |
-| [[Subclasses/Barbarian/Path of the Berserker.md\|Path of the Berserker]]   | Player's Handbook (5.5e) | 5.5e    |
-| [[Subclasses/Barbarian/Path of the Wild Heart.md\|Path of the Wild Heart]] | Player's Handbook (5.5e) | 5.5e    |
-| [[Subclasses/Barbarian/Path of the World Tree.md\|Path of the World Tree]] | Player's Handbook (5.5e) | 5.5e    |
-| [[Subclasses/Barbarian/Path of the Zealot.md\|Path of the Zealot]]         | Player's Handbook (5.5e) | 5.5e    |
+| Name                                                                                       | Source                              | Edition |
+| ------------------------------------------------------------------------------------------ | ----------------------------------- | ------- |
+| [[Subclasses/Barbarian/Path of the Ancestral Guardian.md\|Path of the Ancestral Guardian]] | Xanathar's Guide to Everything      | 5e      |
+| [[Subclasses/Barbarian/Path of the Battlerager.md\|Path of the Battlerager]]               | Sword Coast Adventurer's Guide      | 5e      |
+| [[Subclasses/Barbarian/Path of the Beast.md\|Path of the Beast]]                           | Tasha's Cauldron of Everything      | 5e      |
+| [[Subclasses/Barbarian/Path of the Berserker.md\|Path of the Berserker]]                   | Player's Handbook (5.5e)            | 5.5e    |
+| [[Subclasses/Barbarian/Path of the Giant.md\|Path of the Giant]]                           | Bigby Presents: Glory of the Giants | 5e      |
+| [[Subclasses/Barbarian/Path of the Storm Herald.md\|Path of the Storm Herald]]             | Xanathar's Guide to Everything      | 5e      |
+| [[Subclasses/Barbarian/Path of the Wild Heart.md\|Path of the Wild Heart]]                 | Player's Handbook (5.5e)            | 5.5e    |
+| [[Subclasses/Barbarian/Path of the World Tree.md\|Path of the World Tree]]                 | Player's Handbook (5.5e)            | 5.5e    |
+| [[Subclasses/Barbarian/Path of the Zealot.md\|Path of the Zealot]]                         | Player's Handbook (5.5e)            | 5.5e    |
+| [[Subclasses/Barbarian/Path of Wild Magic.md\|Path of Wild Magic]]                         | Tasha's Cauldron of Everything      | 5e      |
 
 ### Third Party Barbarian Subclasses
 
-| Name                                                                                               | Source                                  | Publisher                       | Edition |
-| -------------------------------------------------------------------------------------------------- | --------------------------------------- | ------------------------------- | ------- |
-| [[Subclasses/Barbarian/Third Party/Path of the Demonshard.md\|Path of the Demonshard]]             | Frontiers of Eberron: Quickstone        | Visionary Production and Design | 5.5e    |
-| [[Subclasses/Barbarian/Third Party/Path of the Experiment.md\|Path of the Experiment]]             | The Crooked Moon                        | Avantris Entertainment          | 5.5e    |
-| [[Subclasses/Barbarian/Third Party/Path of the Fractured.md\|Path of the Fractured]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming                | 5.5e    |
-| [[Subclasses/Barbarian/Third Party/Path of the Glacier.md\|Path of the Glacier]]                   | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag         | 5.5e    |
-| [[Subclasses/Barbarian/Third Party/Path of the Lightning Vessel.md\|Path of the Lightning Vessel]] | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        | 5.5e    |
-| [[Subclasses/Barbarian/Third Party/Path of the Muscle Wizard.md\|Path of the Muscle Wizard]]       | Valda's Spire of Secrets                | Mage Hand Press                 | 5.5e    |
-| [[Subclasses/Barbarian/Third Party/Path of the Primal Spirit.md\|Path of the Primal Spirit]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming                | 5.5e    |
-| [[Subclasses/Barbarian/Third Party/Path of the Spell Scorned.md\|Path of the Spell Scorned]]       | Cthulhu by Torchlight                   | Chaosium                        | 5.5e    |
-| [[Subclasses/Barbarian/Third Party/Path of the Titan.md\|Path of the Titan]]                       | Northlands Worldbook                    | Kobold Press                    | 5.5e    |
-| [[Subclasses/Barbarian/Third Party/Path of the Wrathful Dead.md\|Path of the Wrathful Dead]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming                | 5.5e    |
+| Name                                                                                               | Source                                    | Publisher                       | Edition |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------- | ------- |
+| [[Subclasses/Barbarian/Third Party/Path of the Carrion Raven.md\|Path of the Carrion Raven]]       | Grim Hollow: The Raider's Guide to Valika | Ghostfire Gaming                | 5e      |
+| [[Subclasses/Barbarian/Third Party/Path of the Demonshard.md\|Path of the Demonshard]]             | Frontiers of Eberron: Quickstone          | Visionary Production and Design | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Experiment.md\|Path of the Experiment]]             | The Crooked Moon                          | Avantris Entertainment          | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Fractured.md\|Path of the Fractured]]               | Grim Hollow: Player's Guide               | Ghostfire Gaming                | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Glacier.md\|Path of the Glacier]]                   | The Griffon's Saddlebag: Book One         | The Griffon's Saddlebag         | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Infernal.md\|Path of the Infernal]]                 | The Griffon's Saddlebag: Book Two         | The Griffon's Saddlebag         | 5e      |
+| [[Subclasses/Barbarian/Third Party/Path of the Juggernaut.md\|Path of the Juggernaut]]             | Tal'Dorei Campaign Setting Reborn         | Darrington Press                | 5e      |
+| [[Subclasses/Barbarian/Third Party/Path of the Lightning Vessel.md\|Path of the Lightning Vessel]] | Steinhardt's Guide to the Eldritch Hunt   | MonkeyDM                        | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Muscle Wizard.md\|Path of the Muscle Wizard]]       | Valda's Spire of Secrets                  | Mage Hand Press                 | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Primal Spirit.md\|Path of the Primal Spirit]]       | Grim Hollow: Player's Guide               | Ghostfire Gaming                | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Spell Scorned.md\|Path of the Spell Scorned]]       | Cthulhu by Torchlight                     | Chaosium                        | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Titan.md\|Path of the Titan]]                       | Northlands Worldbook                      | Kobold Press                    | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Wrathful Dead.md\|Path of the Wrathful Dead]]       | Grim Hollow: Player's Guide               | Ghostfire Gaming                | 5.5e    |

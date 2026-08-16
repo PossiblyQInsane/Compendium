@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T13:46:02.892-04:00
-modified: 2026-08-15T15:06:37.716-04:00
-published: 2026-08-15T15:06:37.716-04:00
+modified: 2026-08-16T14:36:18.191-04:00
+published: 2026-08-16T14:36:18.191-04:00
 Parent Class: "[[Barbarian]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false
@@ -62,10 +62,8 @@ _**Return the Spirit.**_ You can call the spirits of the deceased to restore lif
 
 Once you use this feature, you can’t use it again until you finish a [[Long Rest]] unless you expend two uses of your Rage (no action required) to restore your use of it.
 
-> [!quote|bg-brown no-t]
+> [!quote|bg-brown author c-white] _Mercenary Veteran_
 > He’s a creepy fella, always muttering to himself and seeing things that just aren’t there. But there’s no one I’d rather have watching my back.
->
-> <div align="right" style="font-style: italic"> —Mercenary Veteran</div>
 
 ### Level 14: Powered by Pathos
 

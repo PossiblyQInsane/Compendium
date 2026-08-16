@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T14:53:25.665-04:00
-modified: 2026-08-15T15:06:32.837-04:00
-published: 2026-08-15T15:06:32.837-04:00
+modified: 2026-08-16T14:35:34.799-04:00
+published: 2026-08-16T14:35:34.799-04:00
 Parent Class: "[[Barbarian]]"
 Source: Cthulhu by Torchlight
 Official: false
@@ -10,12 +10,10 @@ Publisher: Chaosium
 Edition: 5.5e
 ---
 
-![[Images/Path of the Spell Scorned.jpg|left|359]]
+![[Images/Path of the Spell Scorned.jpg]]
 
-> [!quote|bg-brown no-t]
+> [!quote|bg-brown c-white author] _Oreg the Slayer_
 > My magic? It’s the magic of stabbing things in the face. Works well in my experience.
->
-> <div align="right" style="font-style: italic"> —Oreg the Slayer</div>
 
 The Path of the Spell Scorned awakens a mote of antimagic within the soul of its adherents. These elite warriors steel themselves against magical effects. Some are specially trained bodyguards, tasked with protecting the elite mages of arcane academies or the high priests of religious orders. Others are demon hunters, their resistance allowing them to overcome the foul magic that strikes down lesser warriors.
 
