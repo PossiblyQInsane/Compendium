@@ -1265,7 +1265,8 @@ a.broken {
 .callout.callout[data-callout~=caption] p {
   margin-block-start: 0;
   margin-block-end: 0;
-  font-size: 70%;
+  font-size: 80%;
+  font-style: italic;
 }
 .callout.callout[data-callout~=caption]:is([data-callout-metadata~=sban], [data-callout-metadata~=banner]) .image-embed img {
   width: 100%;
