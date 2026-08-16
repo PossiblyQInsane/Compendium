@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T11:16:30.891-04:00
-modified: 2026-08-15T17:55:31.072-04:00
-published: 2026-08-15T17:55:31.072-04:00
+modified: 2026-08-15T20:17:02.142-04:00
+published: 2026-08-15T20:17:02.142-04:00
 Creature Type: Plant
 Size: Small
 Alignment: Neutral
@@ -26,11 +26,9 @@ Awakened shrubs can be any sort of small plant, from forest bushes to clustered 
 
 _Vegetation Given Magical Life_
 
-> [!Habitat] **Habitat:** Forest; **Treasure:** None
+> [!note|no-i bg-yellow c-white] **Habitat:** Forest; **Treasure:** None
 
 Magic can invest plants with mobility, sapience, and even a voice. Spells such as _[[Awaken]]_ or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
 
-> [!quote|no-t no-i bg-brown]
+> [!quote|author no-i bg-brown c-white] Rivergleam, Pixie
 > Just because we protect the forest doesn’t mean it’s defenseless.
->
->  <div align="right"> —Rivergleam, Pixie</div>

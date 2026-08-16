@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T14:11:07.456-04:00
-modified: 2026-08-15T15:06:29.935-04:00
-published: 2026-08-15T15:06:29.935-04:00
+modified: 2026-08-15T20:22:39.572-04:00
+published: 2026-08-15T20:22:39.572-04:00
 Parent Class: "[[Barbarian]]"
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false
@@ -53,8 +53,7 @@ The lightning you wield enhances your reflexes past what your body could normall
 
 In addition, while your Rage is active, you can use your Lightning Step once on each of your turns without taking a [[Bonus Action]].
 
-> [!NOTE|no-t bg-black color-white]
-> **Rules Reminder:** Initiative is a Dexterity Check.
+> [!NOTE|no-i bg-red color-white] **Rules Reminder:** Initiative is a Dexterity Check.
 
 ### Level 14: Electric Beast
 

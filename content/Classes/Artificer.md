@@ -1,14 +1,17 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-08-14T09:17:56.044-04:00
-published: 2026-08-14T09:17:56.044-04:00
+modified: 2026-08-15T20:13:17.190-04:00
+published: 2026-08-15T20:13:17.190-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 Edition: 5.5e
 ---
 
-![The Artificers of Eberron are responsible for many amazing inventions, but none more miraculous than the Warforged](https://media.dndbeyond.com/compendium-images/efota/Jae5SyNcfFGjapTb/01-001.Artificer-working-on-an-unfinished-Warforged.jpg)
+> [!caption|sban]
+> ![[Images/Artificer.jpg]]
+> _The Artificers of Eberron are responsible for many amazing inventions, but none more miraculous than the Warforged_
+
 _**<div align="center">**_
 _**<span style="font-size: 120%">A Magical Crafter and an Inventor of Wonders</span>**_
 _**</div>**_
@@ -377,18 +380,20 @@ You know the _[[Mending]]_ cantrip.
 
 As a [[Magic|Magic]] action while holding [[Tinker's Tools|Tinker's Tools]], you can create one item in an unoccupied space within 5 feet of yourself, choosing the item from the following list:
 
-| <div style="width: 10em">[[Ball Bearings]]</div> | <div style="width: 10em">[[Flask]]</div> | <div style="width: 10em">[[Pouch]]</div> |
-| :----------------------------------------------- | :--------------------------------------- | :--------------------------------------- |
-| [[Basket]]                                       | [[Grappling Hook]]                       | [[Rope]]                                 |
-| [[Bedroll]]                                      | [[Hunting Trap]]                         | [[Sack]]                                 |
-| [[Bell]]                                         | [[Jug]]                                  | [[Shovel]]                               |
-| [[Blanket]]                                      | [[Lamp]]                                 | [[Iron Spikes\|Spikes, Iron]]            |
-| [[Block and Tackle]]                             | [[Manacles]]                             | [[String]]                               |
-| [[Glass Bottle\|Bottle, Glass]]                  | [[Net]]                                  | [[Tinderbox]]                            |
-| [[Bucket]]                                       | [[Oil]]                                  | [[Torch]]                                |
-| [[Caltrops]]                                     | [[Paper]]                                | [[Vial]]                                 |
-| [[Candle]]                                       | [[Parchment]]                            |                                          |
-| [[Crowbar]]                                      | [[Pole]]                                 |                                          |
+> [!NOTE| t-w table-clean no-i no-t bg-plain]
+>
+> | <div style="width: 10em">[[Ball Bearings]]</div> | <div style="width: 10em">[[Flask]]</div> | <div style="width: 10em">[[Pouch]]</div> |
+> | :----------------------------------------------- | :--------------------------------------- | :--------------------------------------- |
+> | [[Basket]]                                       | [[Grappling Hook]]                       | [[Rope]]                                 |
+> | [[Bedroll]]                                      | [[Hunting Trap]]                         | [[Sack]]                                 |
+> | [[Bell]]                                         | [[Jug]]                                  | [[Shovel]]                               |
+> | [[Blanket]]                                      | [[Lamp]]                                 | [[Iron Spikes|Spikes, Iron]]            |
+> | [[Block and Tackle]]                             | [[Manacles]]                             | [[String]]                               |
+> | [[Glass Bottle|Bottle, Glass]]                  | [[Net]]                                  | [[Tinderbox]]                            |
+> | [[Bucket]]                                       | [[Oil]]                                  | [[Torch]]                                |
+> | [[Caltrops]]                                     | [[Paper]]                                | [[Vial]]                                 |
+> | [[Candle]]                                       | [[Parchment]]                            |                                          |
+> | [[Crowbar]]                                      | [[Pole]]                                 |                                          |
 
 The item lasts until you finish a [[Long Rest]], at which point it vanishes.
 

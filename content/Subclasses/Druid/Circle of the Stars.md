@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-08T01:25:33.352-04:00
-modified: 2026-08-15T15:05:45.748-04:00
-published: 2026-08-15T15:05:45.748-04:00
+modified: 2026-08-15T20:24:27.182-04:00
+published: 2026-08-15T20:24:27.182-04:00
 Parent Class: "[[Druid]]"
 Source: Player's Handbook (5.5e)
 Official: true
@@ -52,9 +52,10 @@ _**Dragon.**_ A constellation of a wise dragon appears on you. When you make an 
 
 Whenever you finish a [[Long Rest]], you can consult your Star Map for omens and roll a die. Until you finish your next Long Rest, you gain access to a special [[Reaction]] based on whether you rolled an even or an odd number on the die:
 
-**Weal (Even).** Whenever a creature you can see within 30 feet of you is about to make a [[D20 Test]], you can take a [[Reaction]] to roll 1d6 and add the number rolled to the total.
-
-**Woe (Odd).** Whenever a creature you can see within 30 feet of you is about to make a [[D20 Test]], you can take a [[Reaction]] to roll 1d6 and subtract the number rolled from the total.
+> [!NOTE|no-t no-i bg-plain]
+> **Weal (Even).** Whenever a creature you can see within 30 feet of you is about to make a [[D20 Test]], you can take a [[Reaction]] to roll 1d6 and add the number rolled to the total.
+>
+> **Woe (Odd).** Whenever a creature you can see within 30 feet of you is about to make a [[D20 Test]], you can take a [[Reaction]] to roll 1d6 and subtract the number rolled from the total.
 
 You can use this [[Reaction]] a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [[Long Rest]].
 
