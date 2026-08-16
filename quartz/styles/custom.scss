@@ -2648,3 +2648,7 @@ settings:
 .spell-item {
   padding-inline-start: 10px;
 }
+
+.callout-title-inner::before {
+  display: inline;
+}
