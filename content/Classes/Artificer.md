@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-08-16T00:56:40.769-04:00
-published: 2026-08-16T00:56:40.769-04:00
+modified: 2026-08-16T01:00:22.654-04:00
+published: 2026-08-16T01:00:22.654-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 Edition: 5.5e
@@ -51,21 +51,21 @@ As an Artificer, you gain the following class features when you reach the specif
 <table>
   <tbody>
     <tr>
-      <th rowspan="2" data-better-raw="Level" style="text-align: center">Level</th>
-      <th rowspan="2" data-better-raw="Proficiency Bonus" style="text-align: center">Proficiency Bonus</th>
-      <th rowspan="2" data-better-raw="Class Features">Class Features</th>
-      <th rowspan="2" data-better-raw="Plans Known" style="text-align: center">Plans Known</th>
-      <th rowspan="2" data-better-raw="Magic Items" style="text-align: center">Magic Items</th>
-      <th rowspan="2" data-better-raw="Cantrips" style="text-align: center">Cantrips</th>
-      <th rowspan="2" data-better-raw="Prepared Spells" style="text-align: center">Prepared Spells</th>
-      <th colspan="5" data-better-raw="—Spell Slots per Spell Level—" style="text-align: center">—Spell Slots per Spell Level—</th>
+      <th rowspan="2" data-better-raw="Level" style="text-align: center; vertical-align: middle">Level</th>
+      <th rowspan="2" data-better-raw="Proficiency Bonus" style="text-align: center; vertical-align: middle">Proficiency Bonus</th>
+      <th rowspan="2" data-better-raw="Class Features" style="vertical-align: middle">Class Features</th>
+      <th rowspan="2" data-better-raw="Plans Known" style="text-align: center; vertical-align: middle">Plans Known</th>
+      <th rowspan="2" data-better-raw="Magic Items" style="text-align: center; vertical-align: middle">Magic Items</th>
+      <th rowspan="2" data-better-raw="Cantrips" style="text-align: center; vertical-align: middle">Cantrips</th>
+      <th rowspan="2" data-better-raw="Prepared Spells" style="text-align: center; vertical-align: middle">Prepared Spells</th>
+      <th colspan="5" data-better-raw="—Spell Slots per Spell Level—" style="text-align: center; vertical-align: middle">—Spell Slots per Spell Level—</th>
     </tr>
     <tr>
-      <td data-better-raw="1" style="text-align: center">1</td>
-      <th data-better-raw="2" style="text-align: center">2</th>
-      <th data-better-raw="3" style="text-align: center">3</th>
-      <th data-better-raw="4" style="text-align: center">4</th>
-      <th data-better-raw="5" style="text-align: center">5</th>
+      <td data-better-raw="1" style="text-align: center; vertical-align: middle">1</td>
+      <th data-better-raw="2" style="text-align: center; vertical-align: middle">2</th>
+      <th data-better-raw="3" style="text-align: center; vertical-align: middle">3</th>
+      <th data-better-raw="4" style="text-align: center; vertical-align: middle">4</th>
+      <th data-better-raw="5" style="text-align: center; vertical-align: middle">5</th>
     </tr>
     <tr>
       <td data-better-raw="1" style="text-align: center">1</td>
