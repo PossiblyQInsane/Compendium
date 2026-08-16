@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T10:54:13.570-04:00
-modified: 2026-08-15T15:18:27.103-04:00
-published: 2026-08-15T15:18:27.103-04:00
+modified: 2026-08-15T20:57:06.578-04:00
+published: 2026-08-15T20:57:06.578-04:00
 Creature Type: Undead
 Size: Medium
 Alignment: Neutral Evil
@@ -26,14 +26,11 @@ Humanoid zombies usually serve as guardians, servants, or soldiers for evil magi
 
 _Relentless Reanimated Corpses_
 
+> [!note|bg-yellow color-white no-i] **Habitat:** Planar (Shadowfell), Underdark, Urban; **Treasure:** None
+
 Zombies are unthinking, reanimated corpses, often gruesomely marred by decay and lethal traumas. They serve whatever supernatural force animates them—typically evil necromancers or fiendish spirits. Zombies are relentless, merciless, and resilient, and their dead flesh can carry on even after suffering grievous wounds. While they can follow simple orders, they rely on primal drives rather than thought. They fulfill commands by working tirelessly or battering through foes, but they are easily stymied by barriers or unexpected circumstances.
 
 Zombies are usually created from Humanoid corpses, but the remains of other creatures can also become zombies. Such monstrous zombies might possess the strength they had in life or a measure of their supernatural abilities, but they employ such abilities haphazardly at best.
 
-> [!quote|no-t no-i bg-brown]
+> [!quote|author no-i c-white] Account of the Night of the Walking Dead
 > Then, by a spectacular crack of lightning, the figures came into view, moving slowly toward the village. Over driving winds a voice cried out, “The dead come for Marais d’Tarascon! An army of the walking dead!”
->
->  <div align="right" style="font-style: italic"> —Account of the Night of the Walking Dead</div>
-
-**Habitat:** Planar (Shadowfell), Underdark, Urban
-**Treasure:** None

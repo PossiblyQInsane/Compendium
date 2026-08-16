@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T10:28:25.439-04:00
-modified: 2026-08-15T15:18:21.368-04:00
-published: 2026-08-15T15:18:21.368-04:00
+modified: 2026-08-15T20:51:56.739-04:00
+published: 2026-08-15T20:51:56.739-04:00
 Creature Type: Undead
 Size: Medium
 Alignment: Lawful Evil
@@ -26,6 +26,8 @@ Skeletons are reanimated Humanoid bones bearing the equipment they had in life. 
 
 _Ossified Evil_
 
+> [!note|bg-yellow color-white no-i] **Habitat:** Planar (Shadowfell), Underdark, Urban; **Treasure:** None
+
 Skeletons rise at the summons of necromancers and foul spirits. Whether they’re the remains of the ancient dead or fresh bones bound to morbid ambitions, they commit deathless work for whatever forces reanimated them, often serving as guardians, soldiers, or laborers. In rare cases, skeletons are reanimated but given no particular direction. Roll on or choose a result from the Skeleton Pantomimes table to inspire how undirected skeletons behave.
 
 ##### Skeleton Pantomimes
@@ -38,6 +40,3 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they’r
 | 4   | Performs a familiar task, such as cleaning, cooking, mining, or praying.                    |
 | 5   | Repeats its final moments of life.                                                          |
 | 6   | Stands guard at the post it protected in life.                                              |
-
-**Habitat:** Planar (Shadowfell), Underdark; Urban
-**Treasure:** None

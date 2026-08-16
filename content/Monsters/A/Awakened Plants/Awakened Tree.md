@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T11:29:16.894-04:00
-modified: 2026-08-15T20:17:21.642-04:00
-published: 2026-08-15T20:17:21.642-04:00
+modified: 2026-08-15T20:49:55.477-04:00
+published: 2026-08-15T20:49:55.477-04:00
 Creature Type: Plant
 Size: Huge
 Alignment: Neutral
@@ -30,5 +30,5 @@ _Vegetation Given Magical Life_
 
 Magic can invest plants with mobility, sapience, and even a voice. Spells such as _[[Awaken]]_ or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
 
-> [!quote|author no-i bg-brown c-white] Rivergleam, Pixie
+> [!quote|author no-i  c-white] Rivergleam, Pixie
 > Just because we protect the forest doesn’t mean it’s defenseless.

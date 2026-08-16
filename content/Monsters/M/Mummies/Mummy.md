@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T12:22:38.909-04:00
-modified: 2026-08-15T15:18:14.240-04:00
-published: 2026-08-15T15:18:14.240-04:00
+modified: 2026-08-15T20:45:31.955-04:00
+published: 2026-08-15T20:45:31.955-04:00
 Creature Type: Undead
 Size: Medium or Small
 Alignment: Lawful Evil
@@ -41,16 +41,13 @@ Roll on or choose a result from the Mummy Resurrections table to determine why a
 
 _Deathless Ancients with Ageless Ambitions_
 
+> [!note|bg-yellow color-white no-i] **Habitat:** Desert, Swamp; **Treasure:** Relics
+
 Mysterious rites and mighty faith can tie spirits to their corpses, binding them to their remains for all time. Should their resting places be violated, these beings, known as mummies, reanimate their deteriorating bodies to restore the sanctity of their tombs and punish those who disturbed their rest.
 
 Mummies pursue those who offend them, typically mortals who desecrate their resting places, steal their burial treasures, or defile sites tied to their faith. With undying rage, these ancient corpses go to extreme lengths to avenge themselves and restore what they need to find peace.
 
 A mummy might look frail, but its body possesses supernatural strength, and its gaze can strike fear in the bravest hearts. Those who escape a mummy’s grasp might find themselves subject to a terrible curse. Victims of a mummy’s curse gradually wither, their bodies rotting away until they’re reduced to dust. This curse can be healed only by the _[[Remove Curse]]_ spell or similar magic.
 
-> [!quote|no-t no-i bg-brown]
+> [!quote|author no-i c-white] X the Mystic’s<br>_Rules of Dungeon Survival_
 > Rule 7: Before opening a sarcophagus, light a torch.
->
->  <div align="right"> —X the Mystic’s<br><div style="font-style: italic">Rules of Dungeon Survival</div></div>
-
-**Habitat:** Desert, Swamp
-**Treasure:** Relics

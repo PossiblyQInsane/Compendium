@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T11:50:16.611-04:00
-modified: 2026-08-15T15:18:09.780-04:00
-published: 2026-08-15T15:18:09.780-04:00
+modified: 2026-08-15T20:36:59.545-04:00
+published: 2026-08-15T20:36:59.545-04:00
 Creature Type: Undead
 Size: Medium
 Alignment: Chaotic Evil
@@ -26,7 +26,6 @@ Ghasts frequently organize ghouls into packs to despoil crypts and steal the wea
 
 _Tyrants among Corpses_
 
-Ghasts are reeking, undying corpses closely related to ghouls. They hunger for the vices they enjoyed in life as much as they do for rotting flesh.
+> [!note|bg-yellow color-white no-i] **Habitat:** Swamp, Underdark, Urban; **Treasure:** Any
 
-**Habitat:** Swamp, Underdark, Urban
-**Treasure:** Any
+Ghasts are reeking, undying corpses closely related to ghouls. They hunger for the vices they enjoyed in life as much as they do for rotting flesh.
