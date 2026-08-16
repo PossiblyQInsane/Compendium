@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-08-15T21:26:28.432-04:00
-published: 2026-08-15T21:26:28.432-04:00
+modified: 2026-08-16T00:56:40.769-04:00
+published: 2026-08-16T00:56:40.769-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 Edition: 5.5e
@@ -380,20 +380,18 @@ You know the _[[Mending]]_ cantrip.
 
 As a [[Magic|Magic]] action while holding [[Tinker's Tools|Tinker's Tools]], you can create one item in an unoccupied space within 5 feet of yourself, choosing the item from the following list:
 
-> [!NOTE| t-w no-i no-t bg-plain]
->
-> | <div style="width: 10em">[[Ball Bearings]]</div> | <div style="width: 10em">[[Flask]]</div> | <div style="width: 10em">[[Pouch]]</div> |
-> | :----------------------------------------------- | :--------------------------------------- | :--------------------------------------- |
-> | [[Basket]]                                       | [[Grappling Hook]]                       | [[Rope]]                                 |
-> | [[Bedroll]]                                      | [[Hunting Trap]]                         | [[Sack]]                                 |
-> | [[Bell]]                                         | [[Jug]]                                  | [[Shovel]]                               |
-> | [[Blanket]]                                      | [[Lamp]]                                 | [[Iron Spikes|Spikes, Iron]]            |
-> | [[Block and Tackle]]                             | [[Manacles]]                             | [[String]]                               |
-> | [[Glass Bottle|Bottle, Glass]]                  | [[Net]]                                  | [[Tinderbox]]                            |
-> | [[Bucket]]                                       | [[Oil]]                                  | [[Torch]]                                |
-> | [[Caltrops]]                                     | [[Paper]]                                | [[Vial]]                                 |
-> | [[Candle]]                                       | [[Parchment]]                            |                                          |
-> | [[Crowbar]]                                      | [[Pole]]                                 |                                          |
+| <div style="width: 10em">[[Ball Bearings]]</div> | <div style="width: 10em">[[Flask]]</div> | <div style="width: 10em">[[Pouch]]</div> |
+| :----------------------------------------------- | :--------------------------------------- | :--------------------------------------- |
+| [[Basket]]                                       | [[Grappling Hook]]                       | [[Rope]]                                 |
+| [[Bedroll]]                                      | [[Hunting Trap]]                         | [[Sack]]                                 |
+| [[Bell]]                                         | [[Jug]]                                  | [[Shovel]]                               |
+| [[Blanket]]                                      | [[Lamp]]                                 | [[Iron Spikes\|Spikes, Iron]]            |
+| [[Block and Tackle]]                             | [[Manacles]]                             | [[String]]                               |
+| [[Glass Bottle\|Bottle, Glass]]                  | [[Net]]                                  | [[Tinderbox]]                            |
+| [[Bucket]]                                       | [[Oil]]                                  | [[Torch]]                                |
+| [[Caltrops]]                                     | [[Paper]]                                | [[Vial]]                                 |
+| [[Candle]]                                       | [[Parchment]]                            |                                          |
+| [[Crowbar]]                                      | [[Pole]]                                 |                                          |
 
 The item lasts until you finish a [[Long Rest]], at which point it vanishes.
 
