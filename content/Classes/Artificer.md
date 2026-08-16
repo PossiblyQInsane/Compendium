@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-08-15T20:13:17.190-04:00
-published: 2026-08-15T20:13:17.190-04:00
+modified: 2026-08-15T21:04:58.122-04:00
+published: 2026-08-15T21:04:58.122-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 Edition: 5.5e
@@ -427,24 +427,24 @@ _**Spellcasting Focus.**_ You can use any Wand or Weapon created by this feature
 
 ##### Magic Item Plans (Artificer Level 2+)
 
-| <div style="width: 31em">Magic Item Plan</div>              | Attunement |     |
-| :---------------------------------------------------------- | :--------: | --- |
-| _[[Alchemy Jug]]_                                           |     No     |     |
-| _[[Bag of Holding]]_                                        |     No     |     |
-| _[[Cap of Water Breathing]]_                                |     No     |     |
-| Common magic item that isn’t a Potion, a Scroll, or cursed\* |   Varies   |     |
-| _[[Goggles of Night]]_                                      |     No     |     |
-| _[[Manifold Tool]]_                                         |    Yes     |     |
-| _[[Repeating Shot]]_                                        |    Yes     |     |
-| _[[Returning Weapon]]_                                      |     No     |     |
-| _[[Rope of Climbing]]_                                      |     No     |     |
-| _[[Sending Stones]]_                                        |     No     |     |
-| _[[Shield, +1, +2, or +3\|Shield, +1]]_                     |     No     |     |
-| _[[Wand of Magic Detection]]_                               |     No     |     |
-| _[[Wand of Secrets]]_                                       |     No     |     |
-| _[[Wand of the War Mage\|Wand of the War Mage, +1]]_        |    Yes     |     |
-| _[[Weapon, +1, +2, or +3\|Weapon, +1]]_                     |     No     |     |
-| _[[Wraps of Unarmed Power\|Wraps of Unarmed Power, +1]]_    |     No     |     |
+| <div style="width: 31em">Magic Item Plan</div>              | Attunement |
+| :---------------------------------------------------------- | :--------: |
+| _[[Alchemy Jug]]_                                           |     No     |
+| _[[Bag of Holding]]_                                        |     No     |
+| _[[Cap of Water Breathing]]_                                |     No     |
+| Common magic item that isn’t a Potion, a Scroll, or cursed\* |   Varies   |
+| _[[Goggles of Night]]_                                      |     No     |
+| _[[Manifold Tool]]_                                         |    Yes     |
+| _[[Repeating Shot]]_                                        |    Yes     |
+| _[[Returning Weapon]]_                                      |     No     |
+| _[[Rope of Climbing]]_                                      |     No     |
+| _[[Sending Stones]]_                                        |     No     |
+| _[[Shield, +1, +2, or +3\|Shield, +1]]_                     |     No     |
+| _[[Wand of Magic Detection]]_                               |     No     |
+| _[[Wand of Secrets]]_                                       |     No     |
+| _[[Wand of the War Mage\|Wand of the War Mage, +1]]_        |    Yes     |
+| _[[Weapon, +1, +2, or +3\|Weapon, +1]]_                     |     No     |
+| _[[Wraps of Unarmed Power\|Wraps of Unarmed Power, +1]]_    |     No     |
 
 <div style="margin-top: 0.1rem; font-style: italic; font-size: 70%">*You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan.</div>
 
