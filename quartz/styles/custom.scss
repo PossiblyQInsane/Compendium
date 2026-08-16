@@ -2654,6 +2654,8 @@ settings:
   display: inline;
 }
 
-.callout-title-inner.p {
-  display: inline
+.callout-title-inner {
+  p {
+    display: inline;
+  }
 }
