@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T09:34:35.165-04:00
-modified: 2026-08-15T15:04:49.847-04:00
-published: 2026-08-15T15:04:49.847-04:00
+modified: 2026-08-16T01:01:47.955-04:00
+published: 2026-08-16T01:01:47.955-04:00
 Source: Player's Handbook (5.5e)
 Official: true
 Edition: 5.5e
@@ -193,24 +193,24 @@ A Barbarian subclass is a specialization that grants you features at certain Bar
 
 ### Official Barbarian Subclasses
 
-| Name                                                                       | Source                   |
-| -------------------------------------------------------------------------- | ------------------------ |
-| [[Subclasses/Barbarian/Path of the Berserker.md\|Path of the Berserker]]   | Player's Handbook (5.5e) |
-| [[Subclasses/Barbarian/Path of the Wild Heart.md\|Path of the Wild Heart]] | Player's Handbook (5.5e) |
-| [[Subclasses/Barbarian/Path of the World Tree.md\|Path of the World Tree]] | Player's Handbook (5.5e) |
-| [[Subclasses/Barbarian/Path of the Zealot.md\|Path of the Zealot]]         | Player's Handbook (5.5e) |
+| Name                                                                       | Source                   | Edition |
+| -------------------------------------------------------------------------- | ------------------------ | ------- |
+| [[Subclasses/Barbarian/Path of the Berserker.md\|Path of the Berserker]]   | Player's Handbook (5.5e) | 5.5e    |
+| [[Subclasses/Barbarian/Path of the Wild Heart.md\|Path of the Wild Heart]] | Player's Handbook (5.5e) | 5.5e    |
+| [[Subclasses/Barbarian/Path of the World Tree.md\|Path of the World Tree]] | Player's Handbook (5.5e) | 5.5e    |
+| [[Subclasses/Barbarian/Path of the Zealot.md\|Path of the Zealot]]         | Player's Handbook (5.5e) | 5.5e    |
 
 ### Third Party Barbarian Subclasses
 
-| Name                                                                                               | Source                                  | Publisher                       |
-| -------------------------------------------------------------------------------------------------- | --------------------------------------- | ------------------------------- |
-| [[Subclasses/Barbarian/Third Party/Path of the Demonshard.md\|Path of the Demonshard]]             | Frontiers of Eberron: Quickstone        | Visionary Production and Design |
-| [[Subclasses/Barbarian/Third Party/Path of the Experiment.md\|Path of the Experiment]]             | The Crooked Moon                        | Avantris Entertainment          |
-| [[Subclasses/Barbarian/Third Party/Path of the Fractured.md\|Path of the Fractured]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
-| [[Subclasses/Barbarian/Third Party/Path of the Glacier.md\|Path of the Glacier]]                   | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag         |
-| [[Subclasses/Barbarian/Third Party/Path of the Lightning Vessel.md\|Path of the Lightning Vessel]] | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
-| [[Subclasses/Barbarian/Third Party/Path of the Muscle Wizard.md\|Path of the Muscle Wizard]]       | Valda's Spire of Secrets                | Mage Hand Press                 |
-| [[Subclasses/Barbarian/Third Party/Path of the Primal Spirit.md\|Path of the Primal Spirit]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
-| [[Subclasses/Barbarian/Third Party/Path of the Spell Scorned.md\|Path of the Spell Scorned]]       | Cthulhu by Torchlight                   | Chaosium                        |
-| [[Subclasses/Barbarian/Third Party/Path of the Titan.md\|Path of the Titan]]                       | Northlands Worldbook                    | Kobold Press                    |
-| [[Subclasses/Barbarian/Third Party/Path of the Wrathful Dead.md\|Path of the Wrathful Dead]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| Name                                                                                               | Source                                  | Publisher                       | Edition |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------- | ------------------------------- | ------- |
+| [[Subclasses/Barbarian/Third Party/Path of the Demonshard.md\|Path of the Demonshard]]             | Frontiers of Eberron: Quickstone        | Visionary Production and Design | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Experiment.md\|Path of the Experiment]]             | The Crooked Moon                        | Avantris Entertainment          | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Fractured.md\|Path of the Fractured]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming                | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Glacier.md\|Path of the Glacier]]                   | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag         | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Lightning Vessel.md\|Path of the Lightning Vessel]] | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Muscle Wizard.md\|Path of the Muscle Wizard]]       | Valda's Spire of Secrets                | Mage Hand Press                 | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Primal Spirit.md\|Path of the Primal Spirit]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming                | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Spell Scorned.md\|Path of the Spell Scorned]]       | Cthulhu by Torchlight                   | Chaosium                        | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Titan.md\|Path of the Titan]]                       | Northlands Worldbook                    | Kobold Press                    | 5.5e    |
+| [[Subclasses/Barbarian/Third Party/Path of the Wrathful Dead.md\|Path of the Wrathful Dead]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming                | 5.5e    |
