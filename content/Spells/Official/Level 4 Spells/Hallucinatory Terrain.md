@@ -1,0 +1,29 @@
+---
+publish: true
+created: 2026-08-03T00:27:54.704-04:00
+modified: 2026-08-15T15:10:22.718-04:00
+published: 2026-08-15T15:10:22.718-04:00
+Name: "[[Hallucinatory Terrain]]"
+Spell Level: Level 4
+School: Illusion
+Classes: Bard, Druid, Warlock, Wizard
+Special: —
+Source: Player's Handbook (5.5e)
+Official: true
+Edition: 5.5e
+---
+
+_Level 4 Illusion ([[Bard]], [[Druid]], [[Warlock]], [[Wizard]])_
+
+---
+
+**Casting Time:** 10 minutes\
+**Range:** 300 feet\
+**Components:** V, S, M (a mushroom)\
+**Duration:** 24 hours
+
+---
+
+You make natural terrain in a 150-foot [[Cube]] in range look, sound, and smell like another sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren’t changed.
+
+The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to notice the illusion. If the difference isn’t obvious by touch, a creature examining the illusion can take the [[Study]] action to make an Intelligence ([[Investigation]]) check against your spell save DC to disbelieve it. If a creature discerns that the terrain is illusory, the creature sees a vague image superimposed on the real terrain.
