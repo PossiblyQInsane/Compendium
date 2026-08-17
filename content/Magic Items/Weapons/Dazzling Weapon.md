@@ -1,14 +1,17 @@
 ---
 publish: true
 created: 2026-07-25T17:43:33.756-04:00
-modified: 2026-08-01T11:26:11.314-04:00
-published: 2026-08-01T11:26:11.314-04:00
+modified: 2026-08-17T15:01:23.717-04:00
+published: 2026-08-17T15:01:23.717-04:00
 Category: Weapon
 Rarity: Rare
 Attunement: true
 Source: "Eberron: Forge of the Artificer"
 Official: true
+Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Eberron: Forge of the Artificer</div>
 
 _Weapon (Any Simple or Martial), Rare (Requires Attunement)_
 

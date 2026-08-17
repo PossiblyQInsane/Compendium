@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-07-28T11:54:00.956-04:00
-modified: 2026-08-15T20:21:49.245-04:00
-published: 2026-08-15T20:21:49.245-04:00
+modified: 2026-08-17T15:00:08.416-04:00
+published: 2026-08-17T15:00:08.416-04:00
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Eberron: Forge of the Artificer</div>
 
 ![[Images/Artillerist.png|right|360]]
 
