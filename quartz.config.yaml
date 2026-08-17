@@ -255,7 +255,7 @@ plugins:
     options: {}
     order: 50
   - source: "@quartz-community/note-properties"
-    enabled: false
+    enabled: true
     options:
       includeAll: false
       includedProperties: []
