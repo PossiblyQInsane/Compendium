@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-04T00:05:14.438-04:00
-modified: 2026-08-15T15:09:54.757-04:00
-published: 2026-08-15T15:09:54.757-04:00
+modified: 2026-08-17T17:01:31.542-04:00
+published: 2026-08-17T17:01:31.542-04:00
 Name: "[[Forbiddance]]"
 Spell Level: Level 6
 School: Abjuration
 Classes: Cleric
 Special: R, M
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 6 Abjuration ([[Cleric]])_
 

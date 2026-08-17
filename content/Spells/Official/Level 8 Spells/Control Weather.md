@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-04T00:38:41.959-04:00
-modified: 2026-08-15T15:08:36.681-04:00
-published: 2026-08-15T15:08:36.681-04:00
+modified: 2026-08-17T17:04:53.238-04:00
+published: 2026-08-17T17:04:53.238-04:00
 Name: "[[Control Weather]]"
 Spell Level: Level 8
 School: Transmutation
 Classes: Cleric, Druid, Wizard
 Special: C
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 8 Transmutation ([[Cleric]], [[Druid]], [[Wizard]])_
 

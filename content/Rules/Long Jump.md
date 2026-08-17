@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-06T01:03:10.102-04:00
-modified: 2026-08-06T01:04:24.746-04:00
-published: 2026-08-06T01:04:24.746-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:52.247-04:00
+published: 2026-08-17T15:46:52.247-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 When you make a Long Jump, you leap horizontally a number of feet up to your Strength score if you move at least 10 feet immediately before the jump. When you make a standing Long Jump, you can leap only half that distance. Either way, each foot you jump costs a foot of movement.

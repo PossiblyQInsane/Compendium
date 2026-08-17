@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T11:02:20.353-04:00
-modified: 2026-08-15T15:09:51.045-04:00
-published: 2026-08-15T15:09:51.045-04:00
+modified: 2026-08-17T17:09:41.525-04:00
+published: 2026-08-17T17:09:41.525-04:00
 Name: "[[Flash Fever]]"
 Spell Level: Level 3
 School: Necromancy
@@ -13,6 +13,8 @@ Official: false
 Publisher: Ghostfire Gaming
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Grim Hollow: Player's Guide<br>Ghostfire Gaming</div>
 
 _Level 3 Necromancy ([[Druid]], [[Warlock]])_
 

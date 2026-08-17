@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T16:28:27.102-04:00
-modified: 2026-08-16T16:32:07.664-04:00
-published: 2026-08-16T16:32:07.664-04:00
+modified: 2026-08-17T16:30:27.058-04:00
+published: 2026-08-17T16:30:27.058-04:00
 Name: "[[Insidious Rhythm]]"
 Spell Level: Level 1
 School: Enchantment
@@ -12,6 +12,8 @@ Source: D&D Beyond Drops
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">D&D Beyond Drops</div>
 
 _Level 1 Enchantment ([[Bard]])_
 

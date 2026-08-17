@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-07T12:00:02.750-04:00
-modified: 2026-08-15T15:08:25.749-04:00
-published: 2026-08-15T15:08:25.749-04:00
+modified: 2026-08-17T16:56:33.822-04:00
+published: 2026-08-17T16:56:33.822-04:00
 Name: "[[Conjure Elemental]]"
 Spell Level: Level 5
 School: Conjuration
 Classes: Druid, Wizard
 Special: C
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 5 Conjuration ([[Druid]]. [[Wizard]])_
 

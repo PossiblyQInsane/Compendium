@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-09T11:01:22.152-04:00
-modified: 2026-08-15T20:35:50.383-04:00
-published: 2026-08-15T20:35:50.383-04:00
+modified: 2026-08-17T16:18:57.791-04:00
+published: 2026-08-17T16:18:57.791-04:00
 Creature Type: Monstrosity
 Size: Large
 Alignment: Neutral Evil
@@ -14,6 +14,8 @@ Official: false
 Publisher: Kobold Press
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Northlands Worldbook<br>Kobold Press</div>
 
 _Howling Fangs and Chains_
 

@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2026-08-12T00:51:54.629-04:00
-modified: 2026-08-15T15:06:06.997-04:00
-published: 2026-08-15T15:06:06.997-04:00
+modified: 2026-08-17T17:28:53.254-04:00
+published: 2026-08-17T17:28:53.254-04:00
 Parent Class: "[[Cleric]]"
 Source: "Frontiers of Eberron: Quickstone"
 Official: false
 Publisher: Visionary Production and Design
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Frontiers of Eberron: Quickstone<br>Visionary Production and Design</div>
 
 ![[Images/Commerce Domain.png|left|262]]
 

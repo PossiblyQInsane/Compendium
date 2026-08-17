@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T17:33:58.314-04:00
-modified: 2026-08-16T17:37:06.571-04:00
-published: 2026-08-16T17:37:06.571-04:00
+modified: 2026-08-17T16:46:20.604-04:00
+published: 2026-08-17T16:46:20.604-04:00
 Name: "[[Fast Friends]]"
 Spell Level: Level 3
 School: Enchantment
@@ -12,6 +12,8 @@ Source: Acquisitions Incorporated
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Acquisitions Incorporated</div>
 
 _Level 3 Enchantment ([[Bard]], [[Cleric]], [[Wizard]])_
 

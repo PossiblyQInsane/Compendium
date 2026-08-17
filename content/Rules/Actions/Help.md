@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-02T12:52:12.147-04:00
-modified: 2026-08-02T12:53:13.248-04:00
-published: 2026-08-02T12:53:13.248-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:51.490-04:00
+published: 2026-08-17T15:46:51.490-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 When you take the Help action, you do one of the following.

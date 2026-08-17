@@ -1,28 +1,29 @@
 ---
 publish: true
 created: 2026-08-02T09:34:35.165-04:00
-modified: 2026-08-16T15:25:30.752-04:00
-published: 2026-08-16T15:25:30.752-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:33:03.397-04:00
+published: 2026-08-17T15:33:03.397-04:00
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
 
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+
 ![[Images/Barbarian.png]]
-_**<div align="center">**_
-_**<span style="font-size: 120%">A Fierce Warrior of Primal Rage</span>**_
-_**</div>**_
 
+<div align="center">
+<span style="font-size: 120%; font-style: italic; font-weight: bold;">A Fierce Warrior of Primal Rage</span>
+</div>
 ## Core Barbarian Traits
-
 | **Primary Ability**            | Strength                                                                                                      |
 | :----------------------------- | :------------------------------------------------------------------------------------------------------------ |
 | **Hit Point Die**              | D12 per Barbarian level                                                                                       |
 | **Saving Throw Proficiencies** | Strength and Constitution                                                                                     |
-| **Skill Proficiencies**        | _Choose 2:_ [[Animal Handling]], [[Athletics]], [[Intimidation]], [[Nature]], [[Perception]], or [[Survival]] |
+| **Skill Proficiencies**        | *Choose 2:* [[Animal Handling]], [[Athletics]], [[Intimidation]], [[Nature]], [[Perception]], or [[Survival]] |
 | **Weapon Proficiencies**       | [[Simple weapons\|Simple]] and [[Martial weapons]]                                                            |
 | **Armor Training**             | [[Light armor\|Light]] and [[Medium armor]] and [[Shields]]                                                   |
-| **Starting Equipment**         | _Choose A or B:_ (A) [[Greataxe]], 4 [[Handaxe\|Handaxes]], [[Explorer's Pack]], and 15 GP; or (B) 75 GP      |
+| **Starting Equipment**         | *Choose A or B:* (A) [[Greataxe]], 4 [[Handaxe\|Handaxes]], [[Explorer's Pack]], and 15 GP; or (B) 75 GP      |
 
 Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator’s ferocity, a storm’s fury, and a sea’s turmoil.
 
@@ -198,12 +199,12 @@ A Barbarian subclass is a specialization that grants you features at certain Bar
 | [[Subclasses/Official/Barbarian/Path of the Ancestral Guardian.md\|Path of the Ancestral Guardian]] | Xanathar's Guide to Everything      | 5e      |
 | [[Subclasses/Official/Barbarian/Path of the Battlerager.md\|Path of the Battlerager]]               | Sword Coast Adventurer's Guide      | 5e      |
 | [[Subclasses/Official/Barbarian/Path of the Beast.md\|Path of the Beast]]                           | Tasha's Cauldron of Everything      | 5e      |
-| [[Subclasses/Official/Barbarian/Path of the Berserker.md\|Path of the Berserker]]                   | Player's Handbook (5.5e)            | 5.5e    |
+| [[Subclasses/Official/Barbarian/Path of the Berserker.md\|Path of the Berserker]]                   | Player's Handbook 5.5e              | 5.5e    |
 | [[Subclasses/Official/Barbarian/Path of the Giant.md\|Path of the Giant]]                           | Bigby Presents: Glory of the Giants | 5e      |
 | [[Subclasses/Official/Barbarian/Path of the Storm Herald.md\|Path of the Storm Herald]]             | Xanathar's Guide to Everything      | 5e      |
-| [[Subclasses/Official/Barbarian/Path of the Wild Heart.md\|Path of the Wild Heart]]                 | Player's Handbook (5.5e)            | 5.5e    |
-| [[Subclasses/Official/Barbarian/Path of the World Tree.md\|Path of the World Tree]]                 | Player's Handbook (5.5e)            | 5.5e    |
-| [[Subclasses/Official/Barbarian/Path of the Zealot.md\|Path of the Zealot]]                         | Player's Handbook (5.5e)            | 5.5e    |
+| [[Subclasses/Official/Barbarian/Path of the Wild Heart.md\|Path of the Wild Heart]]                 | Player's Handbook 5.5e              | 5.5e    |
+| [[Subclasses/Official/Barbarian/Path of the World Tree.md\|Path of the World Tree]]                 | Player's Handbook 5.5e              | 5.5e    |
+| [[Subclasses/Official/Barbarian/Path of the Zealot.md\|Path of the Zealot]]                         | Player's Handbook 5.5e              | 5.5e    |
 | [[Subclasses/Official/Barbarian/Path of Wild Magic.md\|Path of Wild Magic]]                         | Tasha's Cauldron of Everything      | 5e      |
 
 ### Third Party Barbarian Subclasses
@@ -220,6 +221,6 @@ A Barbarian subclass is a specialization that grants you features at certain Bar
 | [[Subclasses/Third Party/Barbarian/Path of the Lightning Vessel.md\|Path of the Lightning Vessel]] | Steinhardt's Guide to the Eldritch Hunt   | MonkeyDM                        | 5.5e    |
 | [[Subclasses/Third Party/Barbarian/Path of the Muscle Wizard.md\|Path of the Muscle Wizard]]       | Valda's Spire of Secrets                  | Mage Hand Press                 | 5.5e    |
 | [[Subclasses/Third Party/Barbarian/Path of the Primal Spirit.md\|Path of the Primal Spirit]]       | Grim Hollow: Player's Guide               | Ghostfire Gaming                | 5.5e    |
-| [[Subclasses/Third Party/Barbarian/Path of the Spell Scorned.md\|Path of the Spell Scorned]]       | Cthulhu by Torchlight                     | Chaosium                        | 5.5e    |
+| [[Subclasses/Third Party/Barbarian/Path of the Spell Scorned.md\|Path of the Spell Scorned]]       | Cthulhu by Torchlight                     | Chaosium Inc.                   | 5.5e    |
 | [[Subclasses/Third Party/Barbarian/Path of the Titan.md\|Path of the Titan]]                       | Northlands Worldbook                      | Kobold Press                    | 5.5e    |
 | [[Subclasses/Third Party/Barbarian/Path of the Wrathful Dead.md\|Path of the Wrathful Dead]]       | Grim Hollow: Player's Guide               | Ghostfire Gaming                | 5.5e    |

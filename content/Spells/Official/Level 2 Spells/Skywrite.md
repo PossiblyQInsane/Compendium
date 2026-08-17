@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T22:49:00.776-04:00
-modified: 2026-08-15T22:51:40.296-04:00
-published: 2026-08-15T22:51:40.296-04:00
+modified: 2026-08-17T16:40:22.453-04:00
+published: 2026-08-17T16:40:22.453-04:00
 Name: "[[Skywrite]]"
 Spell Level: Level 2
 School: Transmutation
@@ -12,6 +12,8 @@ Source: Elemental Evil Player's Companion
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Elemental Evil Player's Companion</div>
 
 _Level 2 Transmutation ([[Artificer]], [[Bard]], [[Druid]], [[Wizard]])_
 

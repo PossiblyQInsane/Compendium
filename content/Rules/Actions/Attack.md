@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-28T11:02:06.302-04:00
-modified: 2026-08-01T11:40:37.712-04:00
-published: 2026-08-01T11:40:37.712-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:49.325-04:00
+published: 2026-08-17T15:46:49.325-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 When you take the Attack action, you can make one attack roll with a weapon or an [[Unarmed Strike]].

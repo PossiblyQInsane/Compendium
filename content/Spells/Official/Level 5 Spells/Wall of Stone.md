@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-07-26T17:51:35.263-04:00
-modified: 2026-08-15T15:13:42.573-04:00
-published: 2026-08-15T15:13:42.573-04:00
+modified: 2026-08-17T17:00:06.613-04:00
+published: 2026-08-17T17:00:06.613-04:00
 Name: "[[Wall of Stone]]"
 Spell Level: Level 5
 School: Evocation
 Classes: Artificer, Druid, Sorcerer, Wizard
 Special: C
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 5 Evocation ([[Artificer|Artificer]], [[Druid]], [[Sorcerer]], [[Wizard]])_
 

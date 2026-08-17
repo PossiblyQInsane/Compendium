@@ -1,24 +1,26 @@
 ---
 publish: true
 created: 2026-08-16T22:49:33.950-04:00
-modified: 2026-08-17T12:49:47.868-04:00
-published: 2026-08-17T12:49:47.868-04:00
+modified: 2026-08-17T16:15:29.321-04:00
+published: 2026-08-17T16:15:29.321-04:00
 Creature Type: Plant
 Size: Small, Huge
 Alignment: Neutral
 CR: 0, 2
 Habitat: Forest
 Treasure: None
-Source: Monster Manual (5.5e)
+Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e
 ---
 
-![[Images/Awakened Plants.png|right|344]]
+<div align="right" style="font-style: italic; margin-top: 0;">Monster Manual 5.5e</div>
 
 _Vegetation Given Magical Life_
 
 > [!note|no-i bg-yellow c-white] **Habitat:** Forest; **Treasure:** None
+
+![[Images/Awakened Plants.png|right|344]]
 
 Magic can invest plants with mobility, sapience, and even a voice. Spells such as _[[Awaken]]_ or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
 

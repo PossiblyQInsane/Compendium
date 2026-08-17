@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-07-29T11:47:50.730-04:00
-modified: 2026-08-15T15:13:40.935-04:00
-published: 2026-08-15T15:13:40.935-04:00
+modified: 2026-08-17T16:54:55.264-04:00
+published: 2026-08-17T16:54:55.264-04:00
 Name: "[[Wall of Fire]]"
 Spell Level: Level 4
 School: Evocation
 Classes: Druid, Sorcerer, Wizard
 Special: C
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 4 Evocation ([[Druid]], [[Sorcerer]], [[Wizard]])_
 

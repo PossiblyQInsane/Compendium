@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T17:15:23.707-04:00
-modified: 2026-08-16T17:20:37.616-04:00
-published: 2026-08-16T17:20:37.616-04:00
+modified: 2026-08-17T16:42:59.672-04:00
+published: 2026-08-17T16:42:59.672-04:00
 Name: "[[Antagonize]]"
 Spell Level: Level 3
 School: Enchantment
@@ -12,6 +12,8 @@ Source: The Book of Many Things
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">The Book of Many Things</div>
 
 _Level 3 Enchantment ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

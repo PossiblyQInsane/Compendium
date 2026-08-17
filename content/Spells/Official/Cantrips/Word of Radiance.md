@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-03T22:27:13.657-04:00
-modified: 2026-08-15T15:13:54.076-04:00
-published: 2026-08-15T15:13:54.076-04:00
+modified: 2026-08-17T16:24:38.490-04:00
+published: 2026-08-17T16:24:38.490-04:00
 Name: "[[Word of Radiance]]"
 Spell Level: Cantrip
 School: Evocation
 Classes: Cleric
 Special: —
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Evocation Cantrip ([[Cleric]])_
 

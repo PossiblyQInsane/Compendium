@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-07T00:30:16.137-04:00
-modified: 2026-08-15T15:09:40.645-04:00
-published: 2026-08-15T15:09:40.645-04:00
+modified: 2026-08-17T16:29:13.596-04:00
+published: 2026-08-17T16:29:13.596-04:00
 Name: "[[Find Familiar]]"
 Spell Level: Level 1
 School: Conjuration
 Classes: Wizard
 Special: R, M
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 1 Conjuration ([[Wizard]])_
 

@@ -1,18 +1,20 @@
 ---
 publish: true
 created: 2026-08-16T22:58:58.130-04:00
-modified: 2026-08-17T01:02:17.078-04:00
-published: 2026-08-17T01:02:17.078-04:00
+modified: 2026-08-17T16:16:43.674-04:00
+published: 2026-08-17T16:16:43.674-04:00
 Creature Type: Undead
 Size: Medium
 Alignment: Chaotic Evil
 CR: 2, 6
 Habitat: Swamp, Underdark, Urban
 Treasure: Any
-Source: Monster Manual (5.5e)
+Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Monster Manual 5.5e</div>
 
 _Tyrants among Corpses_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-10T13:09:24.712-04:00
-modified: 2026-08-15T15:11:03.253-04:00
-published: 2026-08-15T15:11:03.253-04:00
+modified: 2026-08-17T17:08:39.204-04:00
+published: 2026-08-17T17:08:39.204-04:00
 Name: "[[Lucky Charm]]"
 Spell Level: Level 5
 School: Transmutation
@@ -13,6 +13,8 @@ Official: false
 Publisher: Avantris Entertainment
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">The Crooked Moon<br>Avantris Entertainment</div>
 
 _Level 5 Transmutation ([[Bard]], [[Paladin]], [[Ranger]], [[Warlock]])_
 

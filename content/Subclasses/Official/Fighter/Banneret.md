@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-08-12T01:16:56.877-04:00
-modified: 2026-08-15T15:05:22.360-04:00
-published: 2026-08-15T15:05:22.360-04:00
+modified: 2026-08-17T17:23:35.833-04:00
+published: 2026-08-17T17:23:35.833-04:00
 Parent Class: "[[Fighter]]"
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Forgotten Realms: Heroes of Faerûn</div>
 
 ![[Images/Banneret.png|right|281]]
 

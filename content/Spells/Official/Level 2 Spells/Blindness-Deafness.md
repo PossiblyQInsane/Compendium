@@ -2,17 +2,19 @@
 publish: true
 title: Blindness/Deafness
 created: 2026-07-31T10:03:06.117-04:00
-modified: 2026-08-15T15:07:44.941-04:00
-published: 2026-08-15T15:07:44.941-04:00
+modified: 2026-08-17T16:34:47.915-04:00
+published: 2026-08-17T16:34:47.915-04:00
 Name: "[[Blindness-Deafness|Blindness/Deafness]]"
 Spell Level: Level 2
 School: Transmutation
 Classes: Bard, Cleric, Sorcerer, Wizard
 Special: —
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 2 Transmutation ([[Bard]], [[Cleric]], [[Sorcerer]], [[Wizard]])_
 

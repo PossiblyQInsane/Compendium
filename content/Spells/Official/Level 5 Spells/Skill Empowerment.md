@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T23:57:36.066-04:00
-modified: 2026-08-16T00:02:54.247-04:00
-published: 2026-08-16T00:02:54.247-04:00
+modified: 2026-08-17T16:58:56.472-04:00
+published: 2026-08-17T16:58:56.472-04:00
 Name: "[[Skill Empowerment]]"
 Spell Level: Level 5
 School: Transmutation
@@ -12,6 +12,8 @@ Source: Xanathar's Guide to Everything
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Xanathar's Guide to Everything</div>
 
 _Level 5 Transmutation ([[Artificer]], [[Bard]], [[Sorcerer]], [[Wizard]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T21:55:33.515-04:00
-modified: 2026-08-15T21:58:52.167-04:00
-published: 2026-08-15T21:58:52.167-04:00
+modified: 2026-08-17T16:22:52.469-04:00
+published: 2026-08-17T16:22:52.469-04:00
 Name: "[[Magic Stone]]"
 Spell Level: Cantrip
 School: Transmutation
@@ -12,6 +12,8 @@ Source: Elemental Evil Player's Companion
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Elemental Evil Player's Companion</div>
 
 _Transmutation Cantrip ([[Artificer]], [[Druid]], [[Warlock]])_
 

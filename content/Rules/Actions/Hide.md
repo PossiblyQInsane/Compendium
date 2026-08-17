@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-03T14:54:01.952-04:00
-modified: 2026-08-03T14:55:59.074-04:00
-published: 2026-08-03T14:55:59.074-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:51.603-04:00
+published: 2026-08-17T15:46:51.603-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 With the Hide action, you try to conceal yourself. To do so, you must succeed on a DC 15 Dexterity ([[Stealth]]) check while you’re [[Heavily Obscured]] or behind [[Cover|Three-Quarters Cover]] or [[Cover|Total Cover]], and you must be out of any enemy’s line of sight; if you can see a creature, you can discern whether it can see you.

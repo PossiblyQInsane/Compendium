@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-04T09:43:48.280-04:00
-modified: 2026-08-15T15:07:51.584-04:00
-published: 2026-08-15T15:07:51.584-04:00
+modified: 2026-08-17T16:25:35.561-04:00
+published: 2026-08-17T16:25:35.561-04:00
 Name: "[[Burning Hands]]"
 Spell Level: Level 1
 School: Evocation
 Classes: Sorcerer, Wizard
 Special: —
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 1 Evocation ([[Sorcerer]], [[Wizard]])_
 

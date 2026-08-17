@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T21:45:28.546-04:00
-modified: 2026-08-15T21:48:47.292-04:00
-published: 2026-08-15T21:48:47.292-04:00
+modified: 2026-08-17T16:21:50.344-04:00
+published: 2026-08-17T16:21:50.344-04:00
 Name: "[[Green-Flame Blade]]"
 Spell Level: Cantrip
 School: Evocation
@@ -12,6 +12,8 @@ Source: Sword Coast Adventurer's Guide
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Sword Coast Adventurer's Guide</div>
 
 _Evocation Cantrip ([[Artificer]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

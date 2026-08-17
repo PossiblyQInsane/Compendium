@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-08-16T13:49:49.571-04:00
-modified: 2026-08-16T13:57:40.445-04:00
-published: 2026-08-16T13:57:40.445-04:00
+modified: 2026-08-17T17:16:09.021-04:00
+published: 2026-08-17T17:16:09.021-04:00
 Parent Class: "[[Barbarian]]"
 Source: "Bigby Presents: Glory of the Giants"
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Bigby Presents: Glory of the Giants</div>
 
 ![[Images/Path of the Giant.png|left|351]]
 

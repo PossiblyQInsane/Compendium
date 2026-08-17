@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-03T01:01:38.539-04:00
-modified: 2026-08-15T15:11:26.409-04:00
-published: 2026-08-15T15:11:26.409-04:00
+modified: 2026-08-17T16:58:07.014-04:00
+published: 2026-08-17T16:58:07.014-04:00
 Name: "[[Mislead]]"
 Spell Level: Level 5
 School: Illusion
 Classes: Bard, Warlock, Wizard
 Special: C
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 5 Illusion ([[Bard]], [[Warlock]], [[Wizard]])_
 

@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-02T21:16:26.179-04:00
-modified: 2026-08-15T15:10:50.102-04:00
-published: 2026-08-15T15:10:50.102-04:00
+modified: 2026-08-17T16:37:25.507-04:00
+published: 2026-08-17T16:37:25.507-04:00
 Name: "[[Knock]]"
 Spell Level: Level 2
 School: Transmutation
 Classes: Bard, Sorcerer, Wizard
 Special: —
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 2 Transmutation ([[Bard]], [[Sorcerer]], [[Wizard]])_
 

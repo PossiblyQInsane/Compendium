@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T11:32:16.611-04:00
-modified: 2026-08-15T15:12:24.567-04:00
-published: 2026-08-15T15:12:24.567-04:00
+modified: 2026-08-17T17:08:28.685-04:00
+published: 2026-08-17T17:08:28.685-04:00
 Name: "[[Sanctum of the Shepherd]]"
 Spell Level: Level 4
 School: Abjuration
@@ -13,6 +13,8 @@ Official: false
 Publisher: Avantris Entertainment
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">The Crooked Moon<br>Avantris Entertainment</div>
 
 _Level 4 Abjuration ([[Cleric]], [[Paladin]], [[Wizard]])_
 

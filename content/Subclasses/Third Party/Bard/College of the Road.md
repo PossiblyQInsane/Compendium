@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2026-08-16T21:23:29.626-04:00
-modified: 2026-08-17T00:59:04.463-04:00
-published: 2026-08-17T00:59:04.463-04:00
+modified: 2026-08-17T17:42:15.272-04:00
+published: 2026-08-17T17:42:15.272-04:00
 Parent Class: "[[Bard]]"
 Source: Humblewood Campaign Setting
 Official: false
 Publisher: Hit Point Press
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Humblewood Campaign Setting<br>Hit Point Press</div>
 
 _Learn from People You Meet on Your Travels_
 

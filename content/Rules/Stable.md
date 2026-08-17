@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-06T01:27:22.325-04:00
-modified: 2026-08-06T01:29:20.370-04:00
-published: 2026-08-06T01:29:20.370-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:53.212-04:00
+published: 2026-08-17T15:46:53.212-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 You can take the [[Help]] action to try to stabilize a creature with 0 [[Hit Points]], which requires a successful DC 10 Wisdom ([[Medicine]]) check.

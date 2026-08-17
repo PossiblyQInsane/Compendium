@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T00:33:55.358-04:00
-modified: 2026-08-17T01:04:42.643-04:00
-published: 2026-08-17T01:04:42.643-04:00
+modified: 2026-08-17T16:17:26.734-04:00
+published: 2026-08-17T16:17:26.734-04:00
 Creature Type: Celestial
 Size: Large
 Alignment: Typically Lawful Neutral
@@ -11,6 +11,8 @@ Source: "Spelljammer: Adventures in Space"
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Spelljammer: Adventures in Space</div>
 
 ![[Images/Mercane.png]]
 

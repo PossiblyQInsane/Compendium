@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-08-16T13:13:53.682-04:00
-modified: 2026-08-16T20:16:45.069-04:00
-published: 2026-08-16T20:16:45.069-04:00
+modified: 2026-08-17T17:14:57.207-04:00
+published: 2026-08-17T17:14:57.207-04:00
 Parent Class: "[[Barbarian]]"
 Source: Tasha's Cauldron of Everything
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Tasha's Cauldron of Everything</div>
 
 ![[Images/Path of the Beast.png|right|356]]
 

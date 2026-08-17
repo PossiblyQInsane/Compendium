@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-03T01:54:47.833-04:00
-modified: 2026-08-15T15:11:30.815-04:00
-published: 2026-08-15T15:11:30.815-04:00
+modified: 2026-08-17T17:03:56.941-04:00
+published: 2026-08-17T17:03:56.941-04:00
 Name: "[[Mordenkainen's Magnificent Mansion]]"
 Spell Level: Level 7
 School: Conjuration
 Classes: Bard, Wizard
 Special: M
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 7 Conjuration ([[Bard]], [[Wizard]])_
 

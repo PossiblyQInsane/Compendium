@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-08-02T11:21:06.399-04:00
-modified: 2026-08-15T15:06:35.271-04:00
-published: 2026-08-15T15:06:35.271-04:00
+modified: 2026-08-17T17:16:52.039-04:00
+published: 2026-08-17T17:16:52.039-04:00
 Parent Class: "[[Barbarian]]"
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 ![[Images/Path of the Wild Heart.png|left|380]]
 

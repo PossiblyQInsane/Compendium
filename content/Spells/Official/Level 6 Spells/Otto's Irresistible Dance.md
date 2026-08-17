@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-03T01:37:31.336-04:00
-modified: 2026-08-15T15:11:41.345-04:00
-published: 2026-08-15T15:11:41.345-04:00
+modified: 2026-08-17T17:02:19.556-04:00
+published: 2026-08-17T17:02:19.556-04:00
 Name: "[[Otto's Irresistible Dance]]"
 Spell Level: Level 6
 School: Enchantment
 Classes: Bard, Wizard
 Special: C
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 6 Enchantment ([[Bard]], [[Wizard]])_
 

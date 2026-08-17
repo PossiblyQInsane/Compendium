@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-06T02:29:04.189-04:00
-modified: 2026-08-15T15:09:00.692-04:00
-published: 2026-08-15T15:09:00.692-04:00
+modified: 2026-08-17T17:01:13.631-04:00
+published: 2026-08-17T17:01:13.631-04:00
 Name: "[[Disintegrate]]"
 Spell Level: Level 6
 School: Transmutation
 Classes: Sorcerer, Wizard
 Special: —
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 6 Transmutation ([[Sorcerer]], [[Wizard]])_
 

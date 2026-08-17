@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T16:23:36.836-04:00
-modified: 2026-08-16T16:27:20.434-04:00
-published: 2026-08-16T16:27:20.434-04:00
+modified: 2026-08-17T16:28:38.793-04:00
+published: 2026-08-17T16:28:38.793-04:00
 Name: "[[Earth Tremor]]"
 Spell Level: Level 1
 School: Evocation
@@ -12,6 +12,8 @@ Source: Elemental Evil Player's Companion
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Elemental Evil Player's Companion</div>
 
 _Level 1 Evocation ([[Bard]], [[Druid]], [[Sorcerer]], [[Wizard]])_
 

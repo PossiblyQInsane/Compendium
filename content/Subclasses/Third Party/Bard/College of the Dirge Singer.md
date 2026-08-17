@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2026-08-03T15:53:30.619-04:00
-modified: 2026-08-15T15:06:01.205-04:00
-published: 2026-08-15T15:06:01.205-04:00
+modified: 2026-08-17T17:26:40.635-04:00
+published: 2026-08-17T17:26:40.635-04:00
 Parent Class: "[[Bard]]"
 Source: Exploring Eberron
 Official: false
 Publisher: Visionary Production and Design
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Exploring Eberron<br>Visionary Production and Design</div>
 
 ![[Images/College of the Dirge Singer.png|left|330]]
 

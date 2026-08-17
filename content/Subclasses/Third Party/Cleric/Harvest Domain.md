@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2026-08-04T11:07:59.031-04:00
-modified: 2026-08-15T15:06:13.969-04:00
-published: 2026-08-15T15:06:13.969-04:00
+modified: 2026-08-17T17:30:23.209-04:00
+published: 2026-08-17T17:30:23.209-04:00
 Parent Class: "[[Cleric]]"
 Source: The Crooked Moon
 Official: false
 Publisher: Avantris Entertainment
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">The Crooked Moon<br>Avantris Entertainment</div>
 
 ![[Images/Harvest Domain.png|left|330]]
 

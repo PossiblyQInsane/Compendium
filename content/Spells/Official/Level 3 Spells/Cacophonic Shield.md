@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T17:26:51.681-04:00
-modified: 2026-08-16T17:29:10.087-04:00
-published: 2026-08-16T17:29:10.087-04:00
+modified: 2026-08-17T16:44:16.537-04:00
+published: 2026-08-17T16:44:16.537-04:00
 Name: "[[Cacophonic Shield]]"
 Spell Level: Level 3
 School: Evocation
@@ -12,6 +12,8 @@ Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Forgotten Realms: Heroes of Faerûn</div>
 
 _Level 3 Evocation ([[Bard]], [[Sorcerer]], [[Wizard]])_
 

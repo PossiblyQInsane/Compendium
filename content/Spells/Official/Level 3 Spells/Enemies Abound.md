@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T17:30:01.937-04:00
-modified: 2026-08-16T17:33:17.789-04:00
-published: 2026-08-16T17:33:17.789-04:00
+modified: 2026-08-17T16:45:55.023-04:00
+published: 2026-08-17T16:45:55.023-04:00
 Name: "[[Enemies Abound]]"
 Spell Level: Level 3
 School: Enchantment
@@ -12,6 +12,8 @@ Source: Xanathar's Guide to Everything
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Xanathar's Guide to Everything</div>
 
 _Level 3 Enchantment ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

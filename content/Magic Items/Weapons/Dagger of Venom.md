@@ -1,14 +1,17 @@
 ---
 publish: true
 created: 2026-07-25T18:46:13.789-04:00
-modified: 2026-08-01T11:25:52.783-04:00
-published: 2026-08-01T11:25:52.783-04:00
+modified: 2026-08-17T16:12:28.462-04:00
+published: 2026-08-17T16:12:28.462-04:00
 Category: Weapon
 Rarity: Rare
 Attunement: false
-Source: Dungeon Master's Guide (5.5e)
+Source: Dungeon Master's Guide 5.5e
 Official: true
+Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Dungeon Master's Guide 5.5e</div>
 
 _Weapon ([[Dagger]]), Rare_
 

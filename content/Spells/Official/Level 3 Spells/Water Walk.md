@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-07-26T14:42:53.264-04:00
-modified: 2026-08-15T15:13:46.870-04:00
-published: 2026-08-15T15:13:46.870-04:00
+modified: 2026-08-17T16:50:26.386-04:00
+published: 2026-08-17T16:50:26.386-04:00
 Name: "[[Water Walk]]"
 Spell Level: Level 3
 School: Transmutation
 Classes: Artificer, Cleric, Druid, Ranger, Sorcerer
 Special: R
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 3 Transmutation ([[Artificer|Artificer]], [[Cleric]], [[Druid]], [[Ranger]], [[Sorcerer]])_
 

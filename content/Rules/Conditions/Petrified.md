@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-06T01:08:39.021-04:00
-modified: 2026-08-06T01:10:44.251-04:00
-published: 2026-08-06T01:10:44.251-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:52.692-04:00
+published: 2026-08-17T15:46:52.692-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 While you have the Petrified condition, you experience the following effects.

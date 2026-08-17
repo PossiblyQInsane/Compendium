@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-03T01:42:58.891-04:00
-modified: 2026-08-15T15:13:32.101-04:00
-published: 2026-08-15T15:13:32.101-04:00
+modified: 2026-08-17T17:02:42.524-04:00
+published: 2026-08-17T17:02:42.524-04:00
 Name: "[[True Seeing]]"
 Spell Level: Level 6
 School: Divination
 Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
 Special: M
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 6 Divination ([[Bard]], [[Cleric]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

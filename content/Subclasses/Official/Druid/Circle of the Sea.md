@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-08-08T01:19:54.970-04:00
-modified: 2026-08-15T15:05:44.927-04:00
-published: 2026-08-15T15:05:44.927-04:00
+modified: 2026-08-17T17:23:12.592-04:00
+published: 2026-08-17T17:23:12.592-04:00
 Parent Class: "[[Druid]]"
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 ![[Images/Circle of the Sea.png|right|323]]
 

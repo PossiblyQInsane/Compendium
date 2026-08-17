@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-02T12:35:41.385-04:00
-modified: 2026-08-02T12:36:38.275-04:00
-published: 2026-08-02T12:36:38.275-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:50.791-04:00
+published: 2026-08-17T15:46:50.791-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 If a space is Difficult Terrain, every foot of movement in that space costs 1 extra foot. For example, moving 5 feet through Difficult Terrain costs 10 feet of movement. Difficult Terrain isn’t cumulative; either a space is Difficult Terrain or it isn’t.

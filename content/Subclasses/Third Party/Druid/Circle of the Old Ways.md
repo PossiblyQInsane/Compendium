@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2026-08-10T12:47:33.363-04:00
-modified: 2026-08-15T15:05:44.146-04:00
-published: 2026-08-15T15:05:44.146-04:00
+modified: 2026-08-17T17:30:33.295-04:00
+published: 2026-08-17T17:30:33.295-04:00
 Parent Class: "[[Druid]]"
 Source: The Crooked Moon
 Official: false
 Publisher: Avantris Entertainment
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">The Crooked Moon<br>Avantris Entertainment</div>
 
 ![[Images/Circle of the Old Ways.png|left|321]]
 

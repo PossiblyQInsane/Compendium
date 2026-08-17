@@ -1,18 +1,20 @@
 ---
 publish: true
 created: 2026-08-15T15:28:37.760-04:00
-modified: 2026-08-17T13:23:23.849-04:00
-published: 2026-08-17T13:23:23.849-04:00
+modified: 2026-08-17T16:15:57.995-04:00
+published: 2026-08-17T16:15:57.995-04:00
 Creature Type: Undead
 Size: Tiny
 Alignment: Neutral Evil
 CR: "18"
 Habitat: Any
 Treasure: Arcana
-Source: Monster Manual (5.5e)
+Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Monster Manual 5.5e</div>
 
 _What Lies beyond Lichdom_
 

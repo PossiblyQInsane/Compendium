@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2026-08-13T01:32:40.035-04:00
-modified: 2026-08-15T15:06:19.150-04:00
-published: 2026-08-15T15:06:19.150-04:00
+modified: 2026-08-17T17:32:55.218-04:00
+published: 2026-08-17T17:32:55.218-04:00
 Parent Class: "[[Fighter]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false
 Publisher: Ghostfire Gaming
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Grim Hollow: Player's Guide<br>Ghostfire Gaming</div>
 
 ![[Images/Living Crucible.png|right|282]]
 

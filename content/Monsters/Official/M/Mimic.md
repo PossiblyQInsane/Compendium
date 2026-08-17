@@ -1,18 +1,20 @@
 ---
 publish: true
 created: 2026-08-13T11:44:15.153-04:00
-modified: 2026-08-16T12:37:31.534-04:00
-published: 2026-08-16T12:37:31.534-04:00
+modified: 2026-08-17T16:17:31.842-04:00
+published: 2026-08-17T16:17:31.842-04:00
 Creature Type: Monstrosity
 Size: Medium
 Alignment: Neutral
 CR: "2"
 Habitat: Underdark, Urban
 Treasure: Any
-Source: Monster Manual (5.5e)
+Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Monster Manual 5.5e</div>
 
 _Shape-Shifter Disguised as an Unassuming Object_
 

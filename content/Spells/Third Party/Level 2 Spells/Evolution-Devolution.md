@@ -2,8 +2,8 @@
 publish: true
 title: Evolution/Devolution
 created: 2026-08-09T10:40:50.625-04:00
-modified: 2026-08-15T15:09:28.397-04:00
-published: 2026-08-15T15:09:28.397-04:00
+modified: 2026-08-17T17:12:12.032-04:00
+published: 2026-08-17T17:12:12.032-04:00
 Name: "[[Evolution-Devolution|Evolution/Devolution]]"
 Spell Level: Level 2
 School: Transmutation
@@ -14,6 +14,8 @@ Official: false
 Publisher: Palaeo Games
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Dr. Dhrolin's Dictionary of Dinosaurs<br>Palaeo Games</div>
 
 _Level 2 Transmutation_
 

@@ -1,18 +1,20 @@
 ---
 publish: true
 created: 2026-08-17T01:37:33.428-04:00
-modified: 2026-08-17T02:08:48.240-04:00
-published: 2026-08-17T02:08:48.240-04:00
+modified: 2026-08-17T16:18:27.782-04:00
+published: 2026-08-17T16:18:27.782-04:00
 Creature Type: Undead
 Size: Medium, Large
 Alignment: Neutral Evil
 CR: 1/4, 2, 5
 Habitat: Planar (Shadowfell), Underdark, Urban
 Treasure: None
-Source: Monster Manual (5.5e)
+Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Monster Manual 5.5e</div>
 
 _Relentless Reanimated Corpses_
 

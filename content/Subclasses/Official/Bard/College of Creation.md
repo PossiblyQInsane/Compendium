@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-08-16T20:51:10.650-04:00
-modified: 2026-08-16T21:10:23.356-04:00
-published: 2026-08-16T21:10:23.356-04:00
+modified: 2026-08-17T17:18:18.031-04:00
+published: 2026-08-17T17:18:18.031-04:00
 Parent Class: "[[Bard]]"
 Source: Tasha's Cauldron of Everything
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Tasha's Cauldron of Everything</div>
 
 > [!caption|sban]
 > ![[Images/College of Creation.png]]

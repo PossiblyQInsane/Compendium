@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-24T12:03:54.386-04:00
-modified: 2026-08-01T11:40:52.825-04:00
-published: 2026-08-01T11:40:52.825-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:52.343-04:00
+published: 2026-08-17T15:46:52.343-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 When you take the Magic action, you cast a spell that has a casting time of an action or use a feature or magic item that requires a Magic action to be activated.

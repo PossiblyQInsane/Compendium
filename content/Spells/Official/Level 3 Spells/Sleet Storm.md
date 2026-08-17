@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-07T11:02:24.401-04:00
-modified: 2026-08-15T15:12:48.246-04:00
-published: 2026-08-15T15:12:48.246-04:00
+modified: 2026-08-17T16:49:21.437-04:00
+published: 2026-08-17T16:49:21.437-04:00
 Name: "[[Sleet Storm]]"
 Spell Level: Level 3
 School: Conjuration
 Classes: Druid, Sorcerer, Wizard
 Special: C
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 3 Conjuration ([[Druid]], [[Sorcerer]], [[Wizard]])_
 

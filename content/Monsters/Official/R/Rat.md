@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-05T10:52:22.683-04:00
-modified: 2026-08-15T20:50:45.068-04:00
-published: 2026-08-15T20:50:45.068-04:00
+modified: 2026-08-17T16:17:48.985-04:00
+published: 2026-08-17T16:17:48.985-04:00
 Creature Type: Beast
 Size: Tiny
 Alignment: Unaligned
 CR: "0"
 Habitat: Forest, Swamp, Underdark, Urban
-Source: Monster Manual (5.5e)
+Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Monster Manual 5.5e</div>
 
 > [!note|bg-yellow color-white no-i] **Habitat:** Forest, Swamp, Underdark, Urban
 

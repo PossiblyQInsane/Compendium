@@ -1,0 +1,20 @@
+---
+publish: true
+created: 2026-07-25T12:56:38.450-04:00
+modified: 2026-08-17T15:51:11.902-04:00
+published: 2026-08-17T15:51:11.902-04:00
+Weight: 25 lb.
+Cost: 5 GP
+Source: Player's Handbook 5.5e
+Official: true
+Edition: 5.5e
+---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+
+**Cost:** 5 GP
+**Weight:** 25 lb.
+
+---
+
+As a [[Utilize]] action, you can set a Hunting Trap, which is a sawtooth steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 Piercing damage and have its [[Speed]] reduced to 0 until the start of its next turn. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet). A creature can use its action to make a DC 13 Strength ([[Athletics]]) check, freeing itself or another creature within its reach on a success. Each failed check deals 1 Piercing damage to the trapped creature.

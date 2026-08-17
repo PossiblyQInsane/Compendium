@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-08T00:45:54.685-04:00
-modified: 2026-08-15T15:13:50.553-04:00
-published: 2026-08-15T15:13:50.553-04:00
+modified: 2026-08-17T17:02:49.357-04:00
+published: 2026-08-17T17:02:49.357-04:00
 Name: "[[Wind Walk]]"
 Spell Level: Level 6
 School: Transmutation
 Classes: Druid
 Special: —
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 6 Transmutation ([[Druid]])_
 

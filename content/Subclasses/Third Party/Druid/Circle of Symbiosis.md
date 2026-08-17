@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2026-08-10T13:17:36.607-04:00
-modified: 2026-08-15T15:05:36.374-04:00
-published: 2026-08-15T15:05:36.374-04:00
+modified: 2026-08-17T17:37:09.507-04:00
+published: 2026-08-17T17:37:09.507-04:00
 Parent Class: "[[Druid]]"
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false
 Publisher: MonkeyDM
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Steinhardt's Guide to the Eldritch Hunt<br>MonkeyDM</div>
 
 ![[Images/Circle of Symbiosis.jpg|left|355]]
 

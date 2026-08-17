@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-07-29T10:25:54.048-04:00
-modified: 2026-08-15T15:12:26.206-04:00
-published: 2026-08-15T15:12:26.206-04:00
+modified: 2026-08-17T16:39:46.268-04:00
+published: 2026-08-17T16:39:46.268-04:00
 Name: "[[Scorching Ray]]"
 Spell Level: Level 2
 School: Evocation
 Classes: Sorcerer, Wizard
 Special: —
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 2 Evocation ([[Sorcerer]], [[Wizard]])_
 

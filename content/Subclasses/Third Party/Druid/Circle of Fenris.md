@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2026-08-09T10:52:49.766-04:00
-modified: 2026-08-15T15:05:34.294-04:00
-published: 2026-08-15T15:05:34.294-04:00
+modified: 2026-08-17T17:41:28.927-04:00
+published: 2026-08-17T17:41:28.927-04:00
 Parent Class: "[[Druid]]"
 Source: Northlands Worldbook
 Official: false
 Publisher: Kobold Press
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Northlands Worldbook<br>Kobold Press</div>
 
 ![[Images/Circle of Fenris.png|right|328]]
 

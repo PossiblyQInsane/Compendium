@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-29T12:06:00.959-04:00
-modified: 2026-08-01T11:48:46.240-04:00
-published: 2026-08-01T11:48:46.240-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:50.145-04:00
+published: 2026-08-17T15:46:50.145-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 Walls, trees, creatures, and other obstacles can provide cover, making a target more difficult to harm. As detailed in the Cover table, there are three degrees of cover, each of which gives a different benefit to a target.

@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-03T00:38:33.021-04:00
-modified: 2026-08-15T15:11:52.942-04:00
-published: 2026-08-15T15:11:52.942-04:00
+modified: 2026-08-17T16:54:05.264-04:00
+published: 2026-08-17T16:54:05.264-04:00
 Name: "[[Polymorph]]"
 Spell Level: Level 4
 School: Transmutation
 Classes: Bard, Druid, Sorcerer, Wizard
 Special: C
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 4 Transmutation ([[Bard]], [[Druid]], [[Sorcerer]], [[Wizard]])_
 

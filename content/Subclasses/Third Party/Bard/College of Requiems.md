@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2026-08-03T15:23:43.803-04:00
-modified: 2026-08-15T15:05:58.551-04:00
-published: 2026-08-15T15:05:58.551-04:00
+modified: 2026-08-17T17:32:04.024-04:00
+published: 2026-08-17T17:32:04.024-04:00
 Parent Class: "[[Bard]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false
 Publisher: Ghostfire Gaming
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Grim Hollow: Player's Guide<br>Ghostfire Gaming</div>
 
 ![[Images/College of Requiems.png|right|307]]
 

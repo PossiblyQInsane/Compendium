@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-29T12:16:40.783-04:00
-modified: 2026-08-06T01:11:23.538-04:00
-published: 2026-08-06T01:11:23.538-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:49.488-04:00
+published: 2026-08-17T15:46:49.488-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 While you have the Blinded condition, you experience the following effects.

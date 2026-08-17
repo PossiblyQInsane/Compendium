@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2026-08-01T15:03:30.181-04:00
-modified: 2026-08-14T01:27:40.058-04:00
-published: 2026-08-14T01:27:40.058-04:00
+modified: 2026-08-17T17:26:30.275-04:00
+published: 2026-08-17T17:26:30.275-04:00
 Parent Class: "[[Artificer]]"
 Source: Exploring Eberron
 Official: false
 Publisher: Visionary Production and Design
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Exploring Eberron<br>Visionary Production and Design</div>
 
 ![[Images/Maverick.png|right|325]]
 

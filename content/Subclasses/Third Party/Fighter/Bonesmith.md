@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2026-08-13T00:19:26.681-04:00
-modified: 2026-08-15T15:05:27.844-04:00
-published: 2026-08-15T15:05:27.844-04:00
+modified: 2026-08-17T17:43:14.083-04:00
+published: 2026-08-17T17:43:14.083-04:00
 Parent Class: "[[Fighter]]"
 Source: Dr. Dhrolin's Dictionary of Dinosaurs
 Official: false
 Publisher: Palaeo Games
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Dr. Dhrolin's Dictionary of Dinosaurs<br>Palaeo Games</div>
 
 ![[Images/Bonesmith.jpg|left|354]]
 

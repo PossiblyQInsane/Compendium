@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-02T20:55:10.786-04:00
-modified: 2026-08-15T15:07:10.287-04:00
-published: 2026-08-15T15:07:10.287-04:00
+modified: 2026-08-17T16:34:22.662-04:00
+published: 2026-08-17T16:34:22.662-04:00
 Name: "[[Animal Messenger]]"
 Spell Level: Level 2
 School: Enchantment
 Classes: Bard, Druid, Ranger
 Special: R
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 2 Enchantment ([[Bard]], [[Druid]], [[Ranger]])_
 

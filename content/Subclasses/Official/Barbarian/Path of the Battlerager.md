@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-08-16T12:40:10.605-04:00
-modified: 2026-08-16T12:50:19.171-04:00
-published: 2026-08-16T12:50:19.171-04:00
+modified: 2026-08-17T17:14:33.737-04:00
+published: 2026-08-17T17:14:33.737-04:00
 Parent Class: "[[Barbarian]]"
 Source: Sword Coast Adventurer's Guide
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Sword Coast Adventurer's Guide</div>
 
 Known as _Kuldjargh_ (literally “axe idiot”) in Dwarvish, battleragers are dwarf followers of the gods of war and take the Path of the Battlerager. They specialize in wearing bulky, spiked armor and throwing themselves into combat, striking with their body itself and giving themselves over to the fury of battle.
 

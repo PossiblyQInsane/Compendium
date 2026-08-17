@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-04T11:18:14.147-04:00
-modified: 2026-08-15T15:10:11.733-04:00
-published: 2026-08-15T15:10:11.733-04:00
+modified: 2026-08-17T16:29:21.253-04:00
+published: 2026-08-17T16:29:21.253-04:00
 Name: "[[Goodberry]]"
 Spell Level: Level 1
 School: Conjuration
 Classes: Druid, Ranger
 Special: —
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 1 Conjuration ([[Druid]], [[Ranger]])_
 

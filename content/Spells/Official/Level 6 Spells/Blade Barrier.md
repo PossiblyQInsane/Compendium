@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-03T23:55:36.552-04:00
-modified: 2026-08-15T15:07:38.454-04:00
-published: 2026-08-15T15:07:38.454-04:00
+modified: 2026-08-17T17:00:21.517-04:00
+published: 2026-08-17T17:00:21.517-04:00
 Name: "[[Blade Barrier]]"
 Spell Level: Level 6
 School: Evocation
 Classes: Cleric
 Special: C
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 6 Evocation ([[Cleric]])_
 

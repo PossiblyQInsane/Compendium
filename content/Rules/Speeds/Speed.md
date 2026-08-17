@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-26T20:46:09.643-04:00
-modified: 2026-08-06T01:01:23.909-04:00
-published: 2026-08-06T01:01:23.909-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:53.135-04:00
+published: 2026-08-17T15:46:53.135-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 A creature has a Speed, which is the distance in feet the creature can cover when it moves on its turn.

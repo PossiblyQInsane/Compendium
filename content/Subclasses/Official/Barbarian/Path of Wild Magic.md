@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-08-16T13:36:47.578-04:00
-modified: 2026-08-16T20:17:23.318-04:00
-published: 2026-08-16T20:17:23.318-04:00
+modified: 2026-08-17T17:17:51.461-04:00
+published: 2026-08-17T17:17:51.461-04:00
 Parent Class: "[[Barbarian]]"
 Source: Tasha's Cauldron of Everything
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Tasha's Cauldron of Everything</div>
 
 ![[Images/Path of Wild Magic.png|right|357]]
 

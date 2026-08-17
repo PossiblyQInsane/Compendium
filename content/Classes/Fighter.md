@@ -1,18 +1,20 @@
 ---
 publish: true
 created: 2026-08-11T11:24:50.805-04:00
-modified: 2026-08-15T15:04:54.435-04:00
-published: 2026-08-15T15:04:54.435-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:33:17.300-04:00
+published: 2026-08-17T15:33:17.300-04:00
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
 
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+
 ![[Images/Fighter.png]]
 
-_**<div align="center">**_
-_**<span style="font-size: 120%">A Master of All Arms and Armor</span>**_
-_**</div>**_
+<div align="center">
+<span style="font-size: 120%; font-style: italic; font-weight: bold;">A Master of All Arms and Armor</span>
+</div>
 
 ## Core Fighter Traits
 
@@ -151,10 +153,10 @@ A Fighter subclass is a specialization that grants you features at certain Fight
 | Name                                                                | Source                             |
 | ------------------------------------------------------------------- | ---------------------------------- |
 | [[Subclasses/Official/Fighter/Banneret.md\|Banneret]]               | Forgotten Realms: Heroes of Faerûn |
-| [[Subclasses/Official/Fighter/Battle Master.md\|Battle Master]]     | Player's Handbook (5.5e)           |
-| [[Subclasses/Official/Fighter/Champion.md\|Champion]]               | Player's Handbook (5.5e)           |
-| [[Subclasses/Official/Fighter/Eldritch Knight.md\|Eldritch Knight]] | Player's Handbook (5.5e)           |
-| [[Subclasses/Official/Fighter/Psi Warrior.md\|Psi Warrior]]         | Player's Handbook (5.5e)           |
+| [[Subclasses/Official/Fighter/Battle Master.md\|Battle Master]]     | Player's Handbook 5.5e             |
+| [[Subclasses/Official/Fighter/Champion.md\|Champion]]               | Player's Handbook 5.5e             |
+| [[Subclasses/Official/Fighter/Eldritch Knight.md\|Eldritch Knight]] | Player's Handbook 5.5e             |
+| [[Subclasses/Official/Fighter/Psi Warrior.md\|Psi Warrior]]         | Player's Handbook 5.5e             |
 
 ### Third Party Fighter Subclasses
 

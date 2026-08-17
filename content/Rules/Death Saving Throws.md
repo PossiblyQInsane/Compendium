@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-02T14:08:08.121-04:00
-modified: 2026-08-02T14:09:35.223-04:00
-published: 2026-08-02T14:09:35.223-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:50.697-04:00
+published: 2026-08-17T15:46:50.697-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 Whenever you start your turn with 0 [[Hit Points]], you must make a Death Saving Throw to determine whether you creep closer to death or hang on to life. Unlike other saving throws, this one isn’t tied to an ability score. You’re in the hands of fate now.

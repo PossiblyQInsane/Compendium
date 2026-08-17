@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-03T15:20:01.941-04:00
-modified: 2026-08-03T15:22:37.431-04:00
-published: 2026-08-03T15:22:37.431-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:51.860-04:00
+published: 2026-08-17T15:46:51.860-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 With the Influence action, you urge a monster to do something. Describe or roleplay how you’re communicating with the monster. Are you trying to deceive, intimidate, amuse, or gently persuade? The DM then determines whether the monster feels willing, unwilling, or hesitant due to your interaction; this determination establishes whether an ability check is necessary, as explained below.

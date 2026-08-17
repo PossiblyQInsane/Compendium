@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-02T15:06:05.781-04:00
-modified: 2026-08-15T15:08:37.813-04:00
-published: 2026-08-15T15:08:37.813-04:00
+modified: 2026-08-17T16:45:12.500-04:00
+published: 2026-08-17T16:45:12.500-04:00
 Name: "[[Counterspell]]"
 Spell Level: Level 3
 School: Abjuration
 Classes: Sorcerer, Warlock, Wizard
 Special: —
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 3 Abjuration ([[Sorcerer]], [[Warlock]], [[Wizard]])_
 

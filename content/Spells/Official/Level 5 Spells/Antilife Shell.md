@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-07-31T10:17:42.432-04:00
-modified: 2026-08-15T15:07:14.277-04:00
-published: 2026-08-15T15:07:14.277-04:00
+modified: 2026-08-17T16:55:54.905-04:00
+published: 2026-08-17T16:55:54.905-04:00
 Name: "[[Antilife Shell]]"
 Spell Level: Level 5
 School: Abjuration
 Classes: Druid
 Special: C
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 5 Abjuration ([[Druid]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T22:26:23.409-04:00
-modified: 2026-08-15T22:30:44.359-04:00
-published: 2026-08-15T22:30:44.359-04:00
+modified: 2026-08-17T16:32:43.609-04:00
+published: 2026-08-17T16:32:43.609-04:00
 Name: "[[Tasha's Caustic Brew]]"
 Spell Level: Level 1
 School: Evocation
@@ -12,6 +12,8 @@ Source: Tasha's Cauldron of Everything
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Tasha's Cauldron of Everything</div>
 
 _Level 1 Evocation ([[Artificer]], [[Sorcerer]], [[Wizard]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T23:16:33.962-04:00
-modified: 2026-08-15T23:20:03.665-04:00
-published: 2026-08-15T23:20:03.665-04:00
+modified: 2026-08-17T16:47:52.956-04:00
+published: 2026-08-17T16:47:52.956-04:00
 Name: "[[Intellect Fortress]]"
 Spell Level: Level 3
 School: Abjuration
@@ -12,6 +12,8 @@ Source: Tasha's Cauldron of Everything
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Tasha's Cauldron of Everything</div>
 
 _Level 3 Abjuration ([[Artificer]], [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

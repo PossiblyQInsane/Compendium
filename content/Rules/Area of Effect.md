@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-06T01:17:37.979-04:00
-modified: 2026-08-06T01:19:55.126-04:00
-published: 2026-08-06T01:19:55.126-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:49.190-04:00
+published: 2026-08-17T15:46:49.190-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 The descriptions of many spells and other features specify that they have an area of effect, which typically has one of six shapes:

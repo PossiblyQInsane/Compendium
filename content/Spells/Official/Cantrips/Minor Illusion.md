@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-02T20:21:20.959-04:00
-modified: 2026-08-15T15:11:23.317-04:00
-published: 2026-08-15T15:11:23.317-04:00
+modified: 2026-08-17T16:23:07.876-04:00
+published: 2026-08-17T16:23:07.876-04:00
 Name: "[[Minor Illusion]]"
 Spell Level: Cantrip
 School: Illusion
 Classes: Bard, Sorcerer, Warlock, Wizard
 Special: —
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Illusion Cantrip ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

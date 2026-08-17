@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-08-04T10:05:48.071-04:00
-modified: 2026-08-15T15:06:48.720-04:00
-published: 2026-08-15T15:06:48.720-04:00
+modified: 2026-08-17T17:22:53.876-04:00
+published: 2026-08-17T17:22:53.876-04:00
 Parent Class: "[[Cleric]]"
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 ![[Images/War Domain.png|right|325]]
 

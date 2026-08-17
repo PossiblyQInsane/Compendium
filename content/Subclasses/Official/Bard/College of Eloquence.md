@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-08-16T21:12:35.434-04:00
-modified: 2026-08-16T21:20:01.487-04:00
-published: 2026-08-16T21:20:01.487-04:00
+modified: 2026-08-17T17:19:00.084-04:00
+published: 2026-08-17T17:19:00.084-04:00
 Parent Class: "[[Bard]]"
 Source: Mythic Odysseys of Theros
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Mythic Odysseys of Theros</div>
 
 ![[Images/College of Eloquence.png|right|317]]
 

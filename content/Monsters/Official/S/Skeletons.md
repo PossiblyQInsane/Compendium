@@ -1,18 +1,20 @@
 ---
 publish: true
 created: 2026-08-17T01:07:12.770-04:00
-modified: 2026-08-17T01:36:19.536-04:00
-published: 2026-08-17T01:36:19.536-04:00
+modified: 2026-08-17T16:18:04.255-04:00
+published: 2026-08-17T16:18:04.255-04:00
 Creature Type: Undead
 Size: Medium, Large
 Alignment: Lawful Evil
 CR: 1/4, 1/2, 2, 3
 Habitat: Planar (Shadowfell), Underdark, Urban
 Treasure: None
-Source: Monster Manual (5.5e)
+Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Monster Manual 5.5e</div>
 
 _Ossified Evil_
 

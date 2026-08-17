@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-01T13:34:42.435-04:00
-modified: 2026-08-15T15:12:17.478-04:00
-published: 2026-08-15T15:12:17.478-04:00
+modified: 2026-08-17T16:49:03.844-04:00
+published: 2026-08-17T16:49:03.844-04:00
 Name: "[[Remove Curse]]"
 Spell Level: Level 3
 School: Abjuration
 Classes: Cleric, Paladin, Warlock, Wizard
 Special: —
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 3 Abjuration ([[Cleric]], [[Paladin]], [[Warlock]], [[Wizard]])_
 

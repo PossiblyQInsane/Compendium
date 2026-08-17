@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-07-30T00:43:54.117-04:00
-modified: 2026-08-15T15:07:29.536-04:00
-published: 2026-08-15T15:07:29.536-04:00
+modified: 2026-08-17T16:56:04.361-04:00
+published: 2026-08-17T16:56:04.361-04:00
 Name: "[[Banishing Smite]]"
 Spell Level: Level 5
 School: Conjuration
 Classes: Paladin
 Special: C
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 5 Conjuration ([[Paladin]])_
 

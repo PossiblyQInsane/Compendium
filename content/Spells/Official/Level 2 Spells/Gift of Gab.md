@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T16:50:56.342-04:00
-modified: 2026-08-16T20:14:22.821-04:00
-published: 2026-08-16T20:14:22.821-04:00
+modified: 2026-08-17T16:36:36.069-04:00
+published: 2026-08-17T16:36:36.069-04:00
 Name: "[[Gift of Gab]]"
 Spell Level: Level 2
 School: Enchantment
@@ -12,6 +12,8 @@ Source: Acquisitions Incorporated
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Acquisitions Incorporated</div>
 
 _Level 2 Enchantment ([[Bard]], [[Wizard]])_
 

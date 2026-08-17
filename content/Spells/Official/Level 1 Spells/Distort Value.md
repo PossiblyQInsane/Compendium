@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T16:17:20.070-04:00
-modified: 2026-08-16T16:22:05.178-04:00
-published: 2026-08-16T16:22:05.178-04:00
+modified: 2026-08-17T16:27:54.638-04:00
+published: 2026-08-17T16:27:54.638-04:00
 Name: "[[Distort Value]]"
 Spell Level: Level 1
 School: Illusion
@@ -12,6 +12,8 @@ Source: Acquisitions Incorporated
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Acquisitions Incorporated</div>
 
 _Level 1 Illusion ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

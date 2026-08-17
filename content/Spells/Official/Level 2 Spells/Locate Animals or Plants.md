@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-02T21:19:33.594-04:00
-modified: 2026-08-15T15:10:57.894-04:00
-published: 2026-08-15T15:10:57.894-04:00
+modified: 2026-08-17T16:37:38.799-04:00
+published: 2026-08-17T16:37:38.799-04:00
 Name: "[[Locate Animals or Plants]]"
 Spell Level: Level 2
 School: Divination
 Classes: Bard, Druid, Ranger
 Special: R
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 2 Divination ([[Bard]], [[Druid]], [[Ranger]])_
 

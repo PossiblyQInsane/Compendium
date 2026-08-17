@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2026-08-13T00:00:49.000-04:00
-modified: 2026-08-15T20:04:47.932-04:00
-published: 2026-08-15T20:04:47.932-04:00
+modified: 2026-08-17T17:37:15.328-04:00
+published: 2026-08-17T17:37:15.328-04:00
 Parent Class: "[[Fighter]]"
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false
 Publisher: MonkeyDM
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Steinhardt's Guide to the Eldritch Hunt<br>MonkeyDM</div>
 
 ![[Images/Blood Hound.jpg|right|350]]
 

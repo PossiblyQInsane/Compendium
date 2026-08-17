@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T00:10:37.864-04:00
-modified: 2026-08-17T01:00:53.491-04:00
-published: 2026-08-17T01:00:53.491-04:00
+modified: 2026-08-17T16:16:21.999-04:00
+published: 2026-08-17T16:16:21.999-04:00
 Creature Type: Fey
 Size: Small
 Alignment: Any Alignment
@@ -11,6 +11,8 @@ Source: "Spelljammer: Adventures in Space"
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Spelljammer: Adventures in Space</div>
 
 ![[Images/Dohwar.png]]
 

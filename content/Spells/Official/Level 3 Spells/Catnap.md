@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T23:07:09.696-04:00
-modified: 2026-08-15T23:11:18.166-04:00
-published: 2026-08-15T23:11:18.166-04:00
+modified: 2026-08-17T16:44:52.614-04:00
+published: 2026-08-17T16:44:52.614-04:00
 Name: "[[Catnap]]"
 Spell Level: Level 3
 School: Enchantment
@@ -12,6 +12,8 @@ Source: Xanathar's Guide to Everything
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Xanathar's Guide to Everything</div>
 
 _Level 3 Enchantment ([[Artificer]], [[Bard]], [[Sorcerer]], [[Wizard]])_
 

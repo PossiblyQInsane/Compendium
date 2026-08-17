@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T18:26:05.559-04:00
-modified: 2026-08-16T18:29:35.089-04:00
-published: 2026-08-16T18:29:35.089-04:00
+modified: 2026-08-17T17:02:04.177-04:00
+published: 2026-08-17T17:02:04.177-04:00
 Name: "[[Leomund's Lamentable Belaborment]]"
 Spell Level: Level 6
 School: Enchantment
@@ -12,6 +12,8 @@ Source: D&D Beyond Drops
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">D&D Beyond Drops</div>
 
 _Level 6 Enchantment ([[Bard]], [[Sorcerer]], [[Wizard]])_
 

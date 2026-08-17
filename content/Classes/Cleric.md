@@ -1,29 +1,29 @@
 ---
 publish: true
 created: 2026-08-03T21:26:01.386-04:00
-modified: 2026-08-15T15:04:52.337-04:00
-published: 2026-08-15T15:04:52.337-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:33:10.415-04:00
+published: 2026-08-17T15:33:10.415-04:00
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
 
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+
 ![[Images/Cleric.png]]
 
-_**<div align="center">**_
-_**<span style="font-size: 120%">A Miraculous Priest of Divine Power</span>**_
-_**</div>**_
-
+<div align="center">
+<span style="font-size: 120%; font-style: italic; font-weight: bold;">A Miraculous Priest of Divine Power</span>
+</div>
 ## Core Cleric Traits
-
 | **Primary Ability**            | Wisdom                                                                                                                  |
 | :----------------------------- | :---------------------------------------------------------------------------------------------------------------------- |
 | **Hit Point Die**              | D8 per Cleric level                                                                                                     |
 | **Saving Throw Proficiencies** | Wisdom and Charisma                                                                                                     |
-| **Skill Proficiencies**        | _Choose 2:_ [[History]], [[Insight]], [[Medicine]], [[Persuasion]], or [[Religion]]                                     |
+| **Skill Proficiencies**        | *Choose 2:* [[History]], [[Insight]], [[Medicine]], [[Persuasion]], or [[Religion]]                                     |
 | **Weapon Proficiencies**       | [[Simple weapons]]                                                                                                      |
 | **Armor Training**             | [[Light armor\|Light]] and [[Medium armor]] and [[Shields]]                                                             |
-| **Starting Equipment**         | _Choose A or B:_ (A) [[Chain Shirt]], [[Shield]], [[Mace]], [[Holy Symbol]], [[Priest's Pack]], and 7 GP; or (B) 110 GP |
+| **Starting Equipment**         | *Choose A or B:* (A) [[Chain Shirt]], [[Shield]], [[Mace]], [[Holy Symbol]], [[Priest's Pack]], and 7 GP; or (B) 110 GP |
 
 Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.
 
@@ -170,17 +170,17 @@ This section presents the Cleric spell list. The spells are organized by spell l
 
 #### Official
 
-| Name                                                                 | School        | Special | Source                   |
-| -------------------------------------------------------------------- | ------------- | ------- | ------------------------ |
-| _[[Spells/Official/Cantrips/Guidance.md\|Guidance]]_                 | Divination    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Cantrips/Light (Spell).md\|Light]]_               | Evocation     | —       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Cantrips/Mending.md\|Mending]]_                   | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Cantrips/Resistance (Spell).md\|Resistance]]_     | Abjuration    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Cantrips/Sacred Flame.md\|Sacred Flame]]_         | Evocation     | —       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Cantrips/Spare the Dying.md\|Spare the Dying]]_   | Necromancy    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Cantrips/Thaumaturgy.md\|Thaumaturgy]]_           | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Cantrips/Toll the Dead.md\|Toll the Dead]]_       | Necromancy    | —       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Cantrips/Word of Radiance.md\|Word of Radiance]]_ | Evocation     | —       | Player's Handbook (5.5e) |
+| Name                                                                 | School        | Special | Source                 |
+| -------------------------------------------------------------------- | ------------- | ------- | ---------------------- |
+| _[[Spells/Official/Cantrips/Guidance.md\|Guidance]]_                 | Divination    | C       | Player's Handbook 5.5e |
+| _[[Spells/Official/Cantrips/Light (Spell).md\|Light]]_               | Evocation     | —       | Player's Handbook 5.5e |
+| _[[Spells/Official/Cantrips/Mending.md\|Mending]]_                   | Transmutation | —       | Player's Handbook 5.5e |
+| _[[Spells/Official/Cantrips/Resistance (Spell).md\|Resistance]]_     | Abjuration    | C       | Player's Handbook 5.5e |
+| _[[Spells/Official/Cantrips/Sacred Flame.md\|Sacred Flame]]_         | Evocation     | —       | Player's Handbook 5.5e |
+| _[[Spells/Official/Cantrips/Spare the Dying.md\|Spare the Dying]]_   | Necromancy    | —       | Player's Handbook 5.5e |
+| _[[Spells/Official/Cantrips/Thaumaturgy.md\|Thaumaturgy]]_           | Transmutation | —       | Player's Handbook 5.5e |
+| _[[Spells/Official/Cantrips/Toll the Dead.md\|Toll the Dead]]_       | Necromancy    | —       | Player's Handbook 5.5e |
+| _[[Spells/Official/Cantrips/Word of Radiance.md\|Word of Radiance]]_ | Evocation     | —       | Player's Handbook 5.5e |
 
 #### Third Party
 
@@ -193,21 +193,21 @@ This section presents the Cleric spell list. The spells are organized by spell l
 
 | Name                                                                                                 | School        | Special | Source                             |
 | ---------------------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- |
-| _[[Spells/Official/Level 1 Spells/Bane.md\|Bane]]_                                                   | Enchantment   | C       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 1 Spells/Bless.md\|Bless]]_                                                 | Enchantment   | C, M    | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 1 Spells/Command.md\|Command]]_                                             | Enchantment   | —       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 1 Spells/Create or Destroy Water.md\|Create or Destroy Water]]_             | Transmutation | —       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 1 Spells/Cure Wounds.md\|Cure Wounds]]_                                     | Abjuration    | —       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 1 Spells/Detect Evil and Good.md\|Detect Evil and Good]]_                   | Divination    | C       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 1 Spells/Detect Magic.md\|Detect Magic]]_                                   | Divination    | C, R    | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 1 Spells/Detect Poison and Disease.md\|Detect Poison and Disease]]_         | Divination    | C, R    | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 1 Spells/Guiding Bolt.md\|Guiding Bolt]]_                                   | Evocation     | —       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 1 Spells/Healing Word.md\|Healing Word]]_                                   | Abjuration    | —       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 1 Spells/Inflict Wounds.md\|Inflict Wounds]]_                               | Necromancy    | —       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 1 Spells/Protection from Evil and Good.md\|Protection from Evil and Good]]_ | Abjuration    | C, M    | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 1 Spells/Purify Food and Drink.md\|Purify Food and Drink]]_                 | Transmutation | R       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 1 Spells/Sanctuary.md\|Sanctuary]]_                                         | Abjuration    | —       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 1 Spells/Shield of Faith.md\|Shield of Faith]]_                             | Abjuration    | C       | Player's Handbook (5.5e)           |
+| _[[Spells/Official/Level 1 Spells/Bane.md\|Bane]]_                                                   | Enchantment   | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 1 Spells/Bless.md\|Bless]]_                                                 | Enchantment   | C, M    | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 1 Spells/Command.md\|Command]]_                                             | Enchantment   | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 1 Spells/Create or Destroy Water.md\|Create or Destroy Water]]_             | Transmutation | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 1 Spells/Cure Wounds.md\|Cure Wounds]]_                                     | Abjuration    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 1 Spells/Detect Evil and Good.md\|Detect Evil and Good]]_                   | Divination    | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 1 Spells/Detect Magic.md\|Detect Magic]]_                                   | Divination    | C, R    | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 1 Spells/Detect Poison and Disease.md\|Detect Poison and Disease]]_         | Divination    | C, R    | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 1 Spells/Guiding Bolt.md\|Guiding Bolt]]_                                   | Evocation     | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 1 Spells/Healing Word.md\|Healing Word]]_                                   | Abjuration    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 1 Spells/Inflict Wounds.md\|Inflict Wounds]]_                               | Necromancy    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 1 Spells/Protection from Evil and Good.md\|Protection from Evil and Good]]_ | Abjuration    | C, M    | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 1 Spells/Purify Food and Drink.md\|Purify Food and Drink]]_                 | Transmutation | R       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 1 Spells/Sanctuary.md\|Sanctuary]]_                                         | Abjuration    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 1 Spells/Shield of Faith.md\|Shield of Faith]]_                             | Abjuration    | C       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 1 Spells/Wardaway.md\|Wardaway]]_                                           | Abjuration    | —       | Forgotten Realms: Heroes of Faerûn |
 
 #### Third Party
@@ -222,24 +222,24 @@ This section presents the Cleric spell list. The spells are organized by spell l
 
 | Name                                                                                   | School        | Special | Source                            |
 | -------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
-| _[[Spells/Official/Level 2 Spells/Aid.md\|Aid]]_                                       | Abjuration    | —       | Player's Handbook (5.5e)          |
-| _[[Spells/Official/Level 2 Spells/Augury.md\|Augury]]_                                 | Divination    | R, M    | Player's Handbook (5.5e)          |
-| _[[Spells/Official/Level 2 Spells/Blindness-Deafness.md\|Blindness/Deafness]]_         | Transmutation | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Official/Level 2 Spells/Aid.md\|Aid]]_                                       | Abjuration    | —       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Augury.md\|Augury]]_                                 | Divination    | R, M    | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Blindness-Deafness.md\|Blindness/Deafness]]_         | Transmutation | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Borrowed Knowledge.md\|Borrowed Knowledge]]_         | Divination    | M       | Strixhaven: A Curriculum of Chaos |
-| _[[Spells/Official/Level 2 Spells/Calm Emotions.md\|Calm Emotions]]_                   | Enchantment   | C       | Player's Handbook (5.5e)          |
-| _[[Spells/Official/Level 2 Spells/Continual Flame.md\|Continual Flame]]_               | Evocation     | M       | Player's Handbook (5.5e)          |
-| _[[Spells/Official/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_               | Transmutation | C       | Player's Handbook (5.5e)          |
-| _[[Spells/Official/Level 2 Spells/Find Traps.md\|Find Traps]]_                         | Divination    | —       | Player's Handbook (5.5e)          |
-| _[[Spells/Official/Level 2 Spells/Gentle Repose.md\|Gentle Repose]]_                   | Necromancy    | R, M    | Player's Handbook (5.5e)          |
-| _[[Spells/Official/Level 2 Spells/Hold Person.md\|Hold Person]]_                       | Enchantment   | C       | Player's Handbook (5.5e)          |
-| _[[Spells/Official/Level 2 Spells/Lesser Restoration.md\|Lesser Restoration]]_         | Abjuration    | —       | Player's Handbook (5.5e)          |
-| _[[Spells/Official/Level 2 Spells/Locate Object.md\|Locate Object]]_                   | Divination    | C       | Player's Handbook (5.5e)          |
-| _[[Spells/Official/Level 2 Spells/Prayer of Healing.md\|Prayer of Healing]]_           | Abjuration    | —       | Player's Handbook (5.5e)          |
-| _[[Spells/Official/Level 2 Spells/Protection from Poison.md\|Protection from Poison]]_ | Abjuration    | —       | Player's Handbook (5.5e)          |
-| _[[Spells/Official/Level 2 Spells/Silence.md\|Silence]]_                               | Illusion      | C, R    | Player's Handbook (5.5e)          |
-| _[[Spells/Official/Level 2 Spells/Spiritual Weapon.md\|Spiritual Weapon]]_             | Evocation     | C       | Player's Handbook (5.5e)          |
-| _[[Spells/Official/Level 2 Spells/Warding Bond.md\|Warding Bond]]_                     | Abjuration    | M       | Player's Handbook (5.5e)          |
-| _[[Spells/Official/Level 2 Spells/Zone of Truth.md\|Zone of Truth]]_                   | Enchantment   | —       | Player's Handbook (5.5e)          |
+| _[[Spells/Official/Level 2 Spells/Calm Emotions.md\|Calm Emotions]]_                   | Enchantment   | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Continual Flame.md\|Continual Flame]]_               | Evocation     | M       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_               | Transmutation | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Find Traps.md\|Find Traps]]_                         | Divination    | —       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Gentle Repose.md\|Gentle Repose]]_                   | Necromancy    | R, M    | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Hold Person.md\|Hold Person]]_                       | Enchantment   | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Lesser Restoration.md\|Lesser Restoration]]_         | Abjuration    | —       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Locate Object.md\|Locate Object]]_                   | Divination    | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Prayer of Healing.md\|Prayer of Healing]]_           | Abjuration    | —       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Protection from Poison.md\|Protection from Poison]]_ | Abjuration    | —       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Silence.md\|Silence]]_                               | Illusion      | C, R    | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Spiritual Weapon.md\|Spiritual Weapon]]_             | Evocation     | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Warding Bond.md\|Warding Bond]]_                     | Abjuration    | M       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Zone of Truth.md\|Zone of Truth]]_                   | Enchantment   | —       | Player's Handbook 5.5e            |
 
 #### Third Party
 
@@ -253,36 +253,36 @@ This section presents the Cleric spell list. The spells are organized by spell l
 
 | Name                                                                                   | School        | Special | Source                    |
 | -------------------------------------------------------------------------------------- | ------------- | ------- | ------------------------- |
-| _[[Spells/Official/Level 3 Spells/Animate Dead.md\|Animate Dead]]_                     | Necromancy    | —       | Player's Handbook (5.5e)  |
+| _[[Spells/Official/Level 3 Spells/Animate Dead.md\|Animate Dead]]_                     | Necromancy    | —       | Player's Handbook 5.5e    |
 | _[[Spells/Official/Level 3 Spells/Astral Flood.md\|Astral Flood]]_                     | Evocation     | —       | D\&D Beyond Drops          |
-| _[[Spells/Official/Level 3 Spells/Aura of Vitality.md\|Aura of Vitality]]_             | Abjuration    | C       | Player's Handbook (5.5e)  |
-| _[[Spells/Official/Level 3 Spells/Beacon of Hope.md\|Beacon of Hope]]_                 | Abjuration    | C       | Player's Handbook (5.5e)  |
-| _[[Spells/Official/Level 3 Spells/Bestow Curse.md\|Bestow Curse]]_                     | Necromancy    | C       | Player's Handbook (5.5e)  |
-| _[[Spells/Official/Level 3 Spells/Clairvoyance.md\|Clairvoyance]]_                     | Divination    | C, M    | Player's Handbook (5.5e)  |
-| _[[Spells/Official/Level 3 Spells/Create Food and Water.md\|Create Food and Water]]_   | Conjuration   | —       | Player's Handbook (5.5e)  |
-| _[[Spells/Official/Level 3 Spells/Daylight.md\|Daylight]]_                             | Evocation     | —       | Player's Handbook (5.5e)  |
-| _[[Spells/Official/Level 3 Spells/Dispel Magic.md\|Dispel Magic]]_                     | Abjuration    | —       | Player's Handbook (5.5e)  |
+| _[[Spells/Official/Level 3 Spells/Aura of Vitality.md\|Aura of Vitality]]_             | Abjuration    | C       | Player's Handbook 5.5e    |
+| _[[Spells/Official/Level 3 Spells/Beacon of Hope.md\|Beacon of Hope]]_                 | Abjuration    | C       | Player's Handbook 5.5e    |
+| _[[Spells/Official/Level 3 Spells/Bestow Curse.md\|Bestow Curse]]_                     | Necromancy    | C       | Player's Handbook 5.5e    |
+| _[[Spells/Official/Level 3 Spells/Clairvoyance.md\|Clairvoyance]]_                     | Divination    | C, M    | Player's Handbook 5.5e    |
+| _[[Spells/Official/Level 3 Spells/Create Food and Water.md\|Create Food and Water]]_   | Conjuration   | —       | Player's Handbook 5.5e    |
+| _[[Spells/Official/Level 3 Spells/Daylight.md\|Daylight]]_                             | Evocation     | —       | Player's Handbook 5.5e    |
+| _[[Spells/Official/Level 3 Spells/Dispel Magic.md\|Dispel Magic]]_                     | Abjuration    | —       | Player's Handbook 5.5e    |
 | _[[Spells/Official/Level 3 Spells/Fast Friends.md\|Fast Friends]]_                     | Enchantment   | C       | Acquisitions Incorporated |
-| _[[Spells/Official/Level 3 Spells/Feign Death.md\|Feign Death]]_                       | Necromancy    | R       | Player's Handbook (5.5e)  |
-| _[[Spells/Official/Level 3 Spells/Glyph of Warding.md\|Glyph of Warding]]_             | Abjuration    | M       | Player's Handbook (5.5e)  |
-| _[[Spells/Official/Level 3 Spells/Magic Circle.md\|Magic Circle]]_                     | Abjuration    | M       | Player's Handbook (5.5e)  |
-| _[[Spells/Official/Level 3 Spells/Mass Healing Word.md\|Mass Healing Word]]_           | Abjuration    | —       | Player's Handbook (5.5e)  |
-| _[[Spells/Official/Level 3 Spells/Meld into Stone.md\|Meld into Stone]]_               | Transmutation | R       | Player's Handbook (5.5e)  |
+| _[[Spells/Official/Level 3 Spells/Feign Death.md\|Feign Death]]_                       | Necromancy    | R       | Player's Handbook 5.5e    |
+| _[[Spells/Official/Level 3 Spells/Glyph of Warding.md\|Glyph of Warding]]_             | Abjuration    | M       | Player's Handbook 5.5e    |
+| _[[Spells/Official/Level 3 Spells/Magic Circle.md\|Magic Circle]]_                     | Abjuration    | M       | Player's Handbook 5.5e    |
+| _[[Spells/Official/Level 3 Spells/Mass Healing Word.md\|Mass Healing Word]]_           | Abjuration    | —       | Player's Handbook 5.5e    |
+| _[[Spells/Official/Level 3 Spells/Meld into Stone.md\|Meld into Stone]]_               | Transmutation | R       | Player's Handbook 5.5e    |
 | _[[Spells/Official/Level 3 Spells/Motivational Speech.md\|Motivational Speech]]_       | Enchantment   | —       | Acquisitions Incorporated |
-| _[[Spells/Official/Level 3 Spells/Protection from Energy.md\|Protection from Energy]]_ | Abjuration    | C       | Player's Handbook (5.5e)  |
-| _[[Spells/Official/Level 3 Spells/Remove Curse.md\|Remove Curse]]_                     | Abjuration    | —       | Player's Handbook (5.5e)  |
-| _[[Spells/Official/Level 3 Spells/Revivify.md\|Revivify]]_                             | Necromancy    | M       | Player's Handbook (5.5e)  |
-| _[[Spells/Official/Level 3 Spells/Sending.md\|Sending]]_                               | Divination    | —       | Player's Handbook (5.5e)  |
-| _[[Spells/Official/Level 3 Spells/Speak with Dead.md\|Speak with Dead]]_               | Necromancy    | —       | Player's Handbook (5.5e)  |
-| _[[Spells/Official/Level 3 Spells/Spirit Guardians.md\|Spirit Guardians]]_             | Conjuration   | C       | Player's Handbook (5.5e)  |
-| _[[Spells/Official/Level 3 Spells/Tongues.md\|Tongues]]_                               | Divination    | —       | Player's Handbook (5.5e)  |
-| _[[Spells/Official/Level 3 Spells/Water Walk.md\|Water Walk]]_                         | Transmutation | R       | Player's Handbook (5.5e)  |
+| _[[Spells/Official/Level 3 Spells/Protection from Energy.md\|Protection from Energy]]_ | Abjuration    | C       | Player's Handbook 5.5e    |
+| _[[Spells/Official/Level 3 Spells/Remove Curse.md\|Remove Curse]]_                     | Abjuration    | —       | Player's Handbook 5.5e    |
+| _[[Spells/Official/Level 3 Spells/Revivify.md\|Revivify]]_                             | Necromancy    | M       | Player's Handbook 5.5e    |
+| _[[Spells/Official/Level 3 Spells/Sending.md\|Sending]]_                               | Divination    | —       | Player's Handbook 5.5e    |
+| _[[Spells/Official/Level 3 Spells/Speak with Dead.md\|Speak with Dead]]_               | Necromancy    | —       | Player's Handbook 5.5e    |
+| _[[Spells/Official/Level 3 Spells/Spirit Guardians.md\|Spirit Guardians]]_             | Conjuration   | C       | Player's Handbook 5.5e    |
+| _[[Spells/Official/Level 3 Spells/Tongues.md\|Tongues]]_                               | Divination    | —       | Player's Handbook 5.5e    |
+| _[[Spells/Official/Level 3 Spells/Water Walk.md\|Water Walk]]_                         | Transmutation | R       | Player's Handbook 5.5e    |
 
 #### Third Party
 
 | Name                                                                          | School     | Special | Source                | Publisher              |
 | ----------------------------------------------------------------------------- | ---------- | ------- | --------------------- | ---------------------- |
-| _[[Spells/Third Party/Level 3 Spells/Doom.md\|Doom]]_                         | Necromancy | C       | Cthulhu by Torchlight | Chaosium               |
+| _[[Spells/Third Party/Level 3 Spells/Doom.md\|Doom]]_                         | Necromancy | C       | Cthulhu by Torchlight | Chaosium Inc.          |
 | _[[Spells/Third Party/Level 3 Spells/Harvest Moonglow.md\|Harvest Moonglow]]_ | Evocation  | —       | The Crooked Moon      | Avantris Entertainment |
 
 ### Level 4 Cleric Spells
@@ -291,17 +291,17 @@ This section presents the Cleric spell list. The spells are organized by spell l
 
 | Name                                                                             | School        | Special | Source                             |
 | -------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- |
-| _[[Spells/Official/Level 4 Spells/Aura of Life.md\|Aura of Life]]_               | Abjuration    | C       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 4 Spells/Aura of Purity.md\|Aura of Purity]]_           | Abjuration    | C       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 4 Spells/Banishment.md\|Banishment]]_                   | Abjuration    | C       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 4 Spells/Control Water.md\|Control Water]]_             | Transmutation | C       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 4 Spells/Death Ward.md\|Death Ward]]_                   | Abjuration    | —       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 4 Spells/Divination.md\|Divination]]_                   | Divination    | R, M    | Player's Handbook (5.5e)           |
+| _[[Spells/Official/Level 4 Spells/Aura of Life.md\|Aura of Life]]_               | Abjuration    | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 4 Spells/Aura of Purity.md\|Aura of Purity]]_           | Abjuration    | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 4 Spells/Banishment.md\|Banishment]]_                   | Abjuration    | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 4 Spells/Control Water.md\|Control Water]]_             | Transmutation | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 4 Spells/Death Ward.md\|Death Ward]]_                   | Abjuration    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 4 Spells/Divination.md\|Divination]]_                   | Divination    | R, M    | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 4 Spells/Doomtide.md\|Doomtide]]_                       | Conjuration   | C       | Forgotten Realms: Heroes of Faerûn |
-| _[[Spells/Official/Level 4 Spells/Freedom of Movement.md\|Freedom of Movement]]_ | Abjuration    | —       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 4 Spells/Guardian of Faith.md\|Guardian of Faith]]_     | Conjuration   | —       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 4 Spells/Locate Creature.md\|Locate Creature]]_         | Divination    | C       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 4 Spells/Stone Shape.md\|Stone Shape]]_                 | Transmutation | —       | Player's Handbook (5.5e)           |
+| _[[Spells/Official/Level 4 Spells/Freedom of Movement.md\|Freedom of Movement]]_ | Abjuration    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 4 Spells/Guardian of Faith.md\|Guardian of Faith]]_     | Conjuration   | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 4 Spells/Locate Creature.md\|Locate Creature]]_         | Divination    | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 4 Spells/Stone Shape.md\|Stone Shape]]_                 | Transmutation | —       | Player's Handbook 5.5e             |
 
 #### Third Party
 
@@ -313,23 +313,23 @@ This section presents the Cleric spell list. The spells are organized by spell l
 
 #### Official
 
-| Name                                                                               | School      | Special | Source                   |
-| ---------------------------------------------------------------------------------- | ----------- | ------- | ------------------------ |
-| _[[Spells/Official/Level 5 Spells/Circle of Power.md\|Circle of Power]]_           | Abjuration  | C       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 5 Spells/Commune.md\|Commune]]_                           | Divination  | R       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 5 Spells/Contagion.md\|Contagion]]_                       | Necromancy  | —       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 5 Spells/Dispel Evil and Good.md\|Dispel Evil and Good]]_ | Abjuration  | C       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 5 Spells/Flame Strike.md\|Flame Strike]]_                 | Evocation   | —       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 5 Spells/Geas.md\|Geas]]_                                 | Enchantment | —       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 5 Spells/Greater Restoration.md\|Greater Restoration]]_   | Abjuration  | M       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 5 Spells/Hallow.md\|Hallow]]_                             | Abjuration  | M       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 5 Spells/Insect Plague.md\|Insect Plague]]_               | Conjuration | C       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 5 Spells/Legend Lore.md\|Legend Lore]]_                   | Divination  | M       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 5 Spells/Mass Cure Wounds.md\|Mass Cure Wounds]]_         | Abjuration  | —       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 5 Spells/Planar Binding.md\|Planar Binding]]_             | Abjuration  | M       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 5 Spells/Raise Dead.md\|Raise Dead]]_                     | Necromancy  | M       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 5 Spells/Scrying.md\|Scrying]]_                           | Divination  | C, M    | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 5 Spells/Summon Celestial.md\|Summon Celestial]]_         | Conjuration | C, M    | Player's Handbook (5.5e) |
+| Name                                                                               | School      | Special | Source                 |
+| ---------------------------------------------------------------------------------- | ----------- | ------- | ---------------------- |
+| _[[Spells/Official/Level 5 Spells/Circle of Power.md\|Circle of Power]]_           | Abjuration  | C       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 5 Spells/Commune.md\|Commune]]_                           | Divination  | R       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 5 Spells/Contagion.md\|Contagion]]_                       | Necromancy  | —       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 5 Spells/Dispel Evil and Good.md\|Dispel Evil and Good]]_ | Abjuration  | C       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 5 Spells/Flame Strike.md\|Flame Strike]]_                 | Evocation   | —       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 5 Spells/Geas.md\|Geas]]_                                 | Enchantment | —       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 5 Spells/Greater Restoration.md\|Greater Restoration]]_   | Abjuration  | M       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 5 Spells/Hallow.md\|Hallow]]_                             | Abjuration  | M       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 5 Spells/Insect Plague.md\|Insect Plague]]_               | Conjuration | C       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 5 Spells/Legend Lore.md\|Legend Lore]]_                   | Divination  | M       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 5 Spells/Mass Cure Wounds.md\|Mass Cure Wounds]]_         | Abjuration  | —       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 5 Spells/Planar Binding.md\|Planar Binding]]_             | Abjuration  | M       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 5 Spells/Raise Dead.md\|Raise Dead]]_                     | Necromancy  | M       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 5 Spells/Scrying.md\|Scrying]]_                           | Divination  | C, M    | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 5 Spells/Summon Celestial.md\|Summon Celestial]]_         | Conjuration | C, M    | Player's Handbook 5.5e |
 
 #### Third Party
 
@@ -343,18 +343,18 @@ This section presents the Cleric spell list. The spells are organized by spell l
 
 | Name                                                                   | School      | Special | Source                             |
 | ---------------------------------------------------------------------- | ----------- | ------- | ---------------------------------- |
-| _[[Spells/Official/Level 6 Spells/Blade Barrier.md\|Blade Barrier]]_   | Evocation   | C       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 6 Spells/Create Undead.md\|Create Undead]]_   | Necromancy  | M       | Player's Handbook (5.5e)           |
+| _[[Spells/Official/Level 6 Spells/Blade Barrier.md\|Blade Barrier]]_   | Evocation   | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/Create Undead.md\|Create Undead]]_   | Necromancy  | M       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 6 Spells/Dirge.md\|Dirge]]_                   | Enchantment | C       | Forgotten Realms: Heroes of Faerûn |
-| _[[Spells/Official/Level 6 Spells/Find the Path.md\|Find the Path]]_   | Divination  | C, M    | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 6 Spells/Forbiddance.md\|Forbiddance]]_       | Abjuration  | R, M    | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 6 Spells/Harm.md\|Harm]]_                     | Necromancy  | —       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 6 Spells/Heal.md\|Heal]]_                     | Abjuration  | —       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 6 Spells/Heroes' Feast.md\|Heroes' Feast]]_   | Conjuration | M       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 6 Spells/Planar Ally.md\|Planar Ally]]_       | Conjuration | —       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 6 Spells/Sunbeam.md\|Sunbeam]]_               | Evocation   | C       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 6 Spells/True Seeing.md\|True Seeing]]_       | Divination  | M       | Player's Handbook (5.5e)           |
-| _[[Spells/Official/Level 6 Spells/Word of Recall.md\|Word of Recall]]_ | Conjuration | —       | Player's Handbook (5.5e)           |
+| _[[Spells/Official/Level 6 Spells/Find the Path.md\|Find the Path]]_   | Divination  | C, M    | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/Forbiddance.md\|Forbiddance]]_       | Abjuration  | R, M    | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/Harm.md\|Harm]]_                     | Necromancy  | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/Heal.md\|Heal]]_                     | Abjuration  | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/Heroes' Feast.md\|Heroes' Feast]]_   | Conjuration | M       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/Planar Ally.md\|Planar Ally]]_       | Conjuration | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/Sunbeam.md\|Sunbeam]]_               | Evocation   | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/True Seeing.md\|True Seeing]]_       | Divination  | M       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/Word of Recall.md\|Word of Recall]]_ | Conjuration | —       | Player's Handbook 5.5e             |
 
 #### Third Party
 
@@ -365,17 +365,17 @@ This section presents the Cleric spell list. The spells are organized by spell l
 
 #### Official
 
-| Name                                                                           | School        | Special | Source                   |
-| ------------------------------------------------------------------------------ | ------------- | ------- | ------------------------ |
-| _[[Spells/Official/Level 7 Spells/Conjure Celestial.md\|Conjure Celestial]]_   | Conjuration   | C       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 7 Spells/Divine Word.md\|Divine Word]]_               | Evocation     | —       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 7 Spells/Etherealness.md\|Etherealness]]_             | Conjuration   | —       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 7 Spells/Fire Storm.md\|Fire Storm]]_                 | Evocation     | —       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 7 Spells/Plane Shift.md\|Plane Shift]]_               | Conjuration   | M       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 7 Spells/Power Word Fortify.md\|Power Word Fortify]]_ | Enchantment   | —       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 7 Spells/Regenerate.md\|Regenerate]]_                 | Transmutation | —       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 7 Spells/Resurrection.md\|Resurrection]]_             | Necromancy    | M       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 7 Spells/Symbol.md\|Symbol]]_                         | Abjuration    | M       | Player's Handbook (5.5e) |
+| Name                                                                           | School        | Special | Source                 |
+| ------------------------------------------------------------------------------ | ------------- | ------- | ---------------------- |
+| _[[Spells/Official/Level 7 Spells/Conjure Celestial.md\|Conjure Celestial]]_   | Conjuration   | C       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 7 Spells/Divine Word.md\|Divine Word]]_               | Evocation     | —       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 7 Spells/Etherealness.md\|Etherealness]]_             | Conjuration   | —       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 7 Spells/Fire Storm.md\|Fire Storm]]_                 | Evocation     | —       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 7 Spells/Plane Shift.md\|Plane Shift]]_               | Conjuration   | M       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 7 Spells/Power Word Fortify.md\|Power Word Fortify]]_ | Enchantment   | —       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 7 Spells/Regenerate.md\|Regenerate]]_                 | Transmutation | —       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 7 Spells/Resurrection.md\|Resurrection]]_             | Necromancy    | M       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 7 Spells/Symbol.md\|Symbol]]_                         | Abjuration    | M       | Player's Handbook 5.5e |
 
 #### Third Party
 
@@ -386,13 +386,13 @@ This section presents the Cleric spell list. The spells are organized by spell l
 
 #### Official
 
-| Name                                                                     | School        | Special | Source                   |
-| ------------------------------------------------------------------------ | ------------- | ------- | ------------------------ |
-| _[[Spells/Official/Level 8 Spells/Antimagic Field.md\|Antimagic Field]]_ | Abjuration    | C       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 8 Spells/Control Weather.md\|Control Weather]]_ | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 8 Spells/Earthquake.md\|Earthquake]]_           | Transmutation | C       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 8 Spells/Holy Aura.md\|Holy Aura]]_             | Abjuration    | C, M    | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 8 Spells/Sunburst.md\|Sunburst]]_               | Evocation     | —       | Player's Handbook (5.5e) |
+| Name                                                                     | School        | Special | Source                 |
+| ------------------------------------------------------------------------ | ------------- | ------- | ---------------------- |
+| _[[Spells/Official/Level 8 Spells/Antimagic Field.md\|Antimagic Field]]_ | Abjuration    | C       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 8 Spells/Control Weather.md\|Control Weather]]_ | Transmutation | C       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 8 Spells/Earthquake.md\|Earthquake]]_           | Transmutation | C       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 8 Spells/Holy Aura.md\|Holy Aura]]_             | Abjuration    | C, M    | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 8 Spells/Sunburst.md\|Sunburst]]_               | Evocation     | —       | Player's Handbook 5.5e |
 
 #### Third Party
 
@@ -403,13 +403,13 @@ This section presents the Cleric spell list. The spells are organized by spell l
 
 #### Official
 
-| Name                                                                         | School      | Special | Source                   |
-| ---------------------------------------------------------------------------- | ----------- | ------- | ------------------------ |
-| _[[Spells/Official/Level 9 Spells/Astral Projection.md\|Astral Projection]]_ | Necromancy  | M       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 9 Spells/Gate.md\|Gate]]_                           | Conjuration | C, M    | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 9 Spells/Mass Heal.md\|Mass Heal]]_                 | Abjuration  | —       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 9 Spells/Power Word Heal.md\|Power Word Heal]]_     | Enchantment | —       | Player's Handbook (5.5e) |
-| _[[Spells/Official/Level 9 Spells/True Resurrection.md\|True Resurrection]]_ | Necromancy  | M       | Player's Handbook (5.5e) |
+| Name                                                                         | School      | Special | Source                 |
+| ---------------------------------------------------------------------------- | ----------- | ------- | ---------------------- |
+| _[[Spells/Official/Level 9 Spells/Astral Projection.md\|Astral Projection]]_ | Necromancy  | M       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 9 Spells/Gate.md\|Gate]]_                           | Conjuration | C, M    | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 9 Spells/Mass Heal.md\|Mass Heal]]_                 | Abjuration  | —       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 9 Spells/Power Word Heal.md\|Power Word Heal]]_     | Enchantment | —       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 9 Spells/True Resurrection.md\|True Resurrection]]_ | Necromancy  | M       | Player's Handbook 5.5e |
 
 #### Third Party
 
@@ -426,16 +426,16 @@ A Cleric subclass is a specialization that grants you features at certain Cleric
 | -------------------------------------------------------------------- | ---------------------------------- |
 | [[Subclasses/Official/Cleric/Grave Domain.md\|Grave Domain]]         | Ravenloft: The Horrors Within      |
 | [[Subclasses/Official/Cleric/Knowledge Domain.md\|Knowledge Domain]] | Forgotten Realms: Heroes of Faerûn |
-| [[Subclasses/Official/Cleric/Life Domain.md\|Life Domain]]           | Player's Handbook (5.5e)           |
-| [[Subclasses/Official/Cleric/Light Domain.md\|Light Domain]]         | Player's Handbook (5.5e)           |
-| [[Subclasses/Official/Cleric/Trickery Domain.md\|Trickery Domain]]   | Player's Handbook (5.5e)           |
-| [[Subclasses/Official/Cleric/War Domain.md\|War Domain]]             | Player's Handbook (5.5e)           |
+| [[Subclasses/Official/Cleric/Life Domain.md\|Life Domain]]           | Player's Handbook 5.5e             |
+| [[Subclasses/Official/Cleric/Light Domain.md\|Light Domain]]         | Player's Handbook 5.5e             |
+| [[Subclasses/Official/Cleric/Trickery Domain.md\|Trickery Domain]]   | Player's Handbook 5.5e             |
+| [[Subclasses/Official/Cleric/War Domain.md\|War Domain]]             | Player's Handbook 5.5e             |
 
 ### Third Party Cleric Subclasses
 
 | Name                                                                          | Source                            | Publisher                       |
 | ----------------------------------------------------------------------------- | --------------------------------- | ------------------------------- |
-| [[Subclasses/Third Party/Cleric/Apocalypse Domain.md\|Apocalypse Domain]]     | Cthulhu by Torchlight             | Chaosium                        |
+| [[Subclasses/Third Party/Cleric/Apocalypse Domain.md\|Apocalypse Domain]]     | Cthulhu by Torchlight             | Chaosium Inc.                   |
 | [[Subclasses/Third Party/Cleric/Astral Domain.md\|Astral Domain]]             | The Griffon's Saddlebag: Book One | The Griffon's Saddlebag         |
 | [[Subclasses/Third Party/Cleric/Commerce Domain.md\|Commerce Domain]]         | Frontiers of Eberron: Quickstone  | Visionary Production and Design |
 | [[Subclasses/Third Party/Cleric/Dragon Domain.md\|Dragon Domain]]             | Valda's Spire of Secrets          | Mage Hand Press                 |

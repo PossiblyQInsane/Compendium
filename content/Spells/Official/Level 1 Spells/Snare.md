@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T22:18:24.527-04:00
-modified: 2026-08-15T22:25:33.123-04:00
-published: 2026-08-15T22:25:33.123-04:00
+modified: 2026-08-17T16:32:14.616-04:00
+published: 2026-08-17T16:32:14.616-04:00
 Name: "[[Snare]]"
 Spell Level: Level 1
 School: Abjuration
@@ -12,6 +12,8 @@ Source: Xanathar's Guide to Everything
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Xanathar's Guide to Everything</div>
 
 _Level 1 Abjuration ([[Artificer]], [[Druid]], [[Ranger]], [[Wizard]])_
 

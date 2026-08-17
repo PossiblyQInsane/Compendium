@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-31T10:21:08.878-04:00
-modified: 2026-08-01T11:41:16.003-04:00
-published: 2026-08-01T11:41:16.003-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:51.044-04:00
+published: 2026-08-17T15:46:51.044-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 An Emanation is an [[Area of Effect|area of effect]] that extends in straight lines from a creature or an object in all directions. The effect that creates an Emanation specifies the distance it extends.

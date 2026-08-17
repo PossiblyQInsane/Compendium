@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-07-25T22:18:33.063-04:00
-modified: 2026-08-15T15:13:22.365-04:00
-published: 2026-08-15T15:13:22.365-04:00
+modified: 2026-08-17T16:24:17.443-04:00
+published: 2026-08-17T16:24:17.443-04:00
 Name: "[[Thorn Whip|Thorn Whip]]"
 Spell Level: Cantrip
 School: Transmutation
 Classes: Artificer, Druid
 Special: —
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Transmutation Cantrip ([[Artificer]], [[Druid]])_
 

@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-28T10:54:44.618-04:00
-modified: 2026-08-01T11:51:36.124-04:00
-published: 2026-08-01T11:51:36.124-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:33.311-04:00
+published: 2026-08-17T15:46:33.311-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 Some spells and other effects confer Temporary Hit Points, which are a buffer against losing actual [[Hit Points]], as explained below.

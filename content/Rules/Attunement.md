@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-25T16:15:14.727-04:00
-modified: 2026-08-01T11:47:55.941-04:00
-published: 2026-08-01T11:47:55.941-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:49.447-04:00
+published: 2026-08-17T15:46:49.447-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 Some magic items require a creature to form a bond—called Attunement—with them before the creature can use an item’s magical properties. Without becoming attuned to an item that requires Attunement, you gain only its nonmagical benefits unless its description states otherwise. For example, a magic [[Shield]] that requires Attunement provides the benefits of a normal Shield if you aren’t attuned to it, but none of its magical properties.

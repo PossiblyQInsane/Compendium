@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-02T21:24:57.503-04:00
-modified: 2026-08-15T15:12:42.952-04:00
-published: 2026-08-15T15:12:42.952-04:00
+modified: 2026-08-17T16:40:02.180-04:00
+published: 2026-08-17T16:40:02.180-04:00
 Name: "[[Silence]]"
 Spell Level: Level 2
 School: Illusion
 Classes: Bard, Cleric, Ranger
 Special: C, R
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 2 Illusion ([[Bard]], [[Cleric]], [[Ranger]])_
 

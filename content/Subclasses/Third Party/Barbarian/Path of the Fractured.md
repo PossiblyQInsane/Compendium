@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2026-08-02T12:42:54.971-04:00
-modified: 2026-08-15T15:06:27.241-04:00
-published: 2026-08-15T15:06:27.241-04:00
+modified: 2026-08-17T17:31:19.927-04:00
+published: 2026-08-17T17:31:19.927-04:00
 Parent Class: "[[Barbarian]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false
 Publisher: Ghostfire Gaming
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Grim Hollow: Player's Guide<br>Ghostfire Gaming</div>
 
 ![[Images/Path of the Fractured.png|right|360]]
 

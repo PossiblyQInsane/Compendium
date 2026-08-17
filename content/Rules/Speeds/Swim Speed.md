@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-31T10:39:26.588-04:00
-modified: 2026-08-01T11:46:11.912-04:00
-published: 2026-08-01T11:46:11.912-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:53.461-04:00
+published: 2026-08-17T15:46:53.461-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 A Swim Speed can be used to swim without expending the extra movement normally associated with [[Swimming|swimming]].

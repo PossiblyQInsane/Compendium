@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2026-08-09T10:27:29.080-04:00
-modified: 2026-08-15T15:05:32.369-04:00
-published: 2026-08-15T15:05:32.369-04:00
+modified: 2026-08-17T17:43:01.049-04:00
+published: 2026-08-17T17:43:01.049-04:00
 Parent Class: "[[Druid]]"
 Source: Dr. Dhrolin's Dictionary of Dinosaurs
 Official: false
 Publisher: Palaeo Games
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Dr. Dhrolin's Dictionary of Dinosaurs<br>Palaeo Games</div>
 
 ![[Images/Circle of Cycles.png|right|328]]
 

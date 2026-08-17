@@ -1,18 +1,20 @@
 ---
 publish: true
 created: 2026-08-13T12:04:25.200-04:00
-modified: 2026-08-17T13:23:58.072-04:00
-published: 2026-08-17T13:23:58.072-04:00
+modified: 2026-08-17T16:16:57.894-04:00
+published: 2026-08-17T16:16:57.894-04:00
 Creature Type: Undead (Wizard)
 Size: Medium
 Alignment: Neutral Evil
 CR: "21"
 Habitat: Any
 Treasure: Arcana
-Source: Monster Manual (5.5e)
+Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Monster Manual 5.5e</div>
 
 _Deathless Master of Magic_
 

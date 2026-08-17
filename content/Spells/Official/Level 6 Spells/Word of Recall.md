@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-08-04T00:20:32.688-04:00
-modified: 2026-08-15T15:13:54.816-04:00
-published: 2026-08-15T15:13:54.816-04:00
+modified: 2026-08-17T17:02:52.822-04:00
+published: 2026-08-17T17:02:52.822-04:00
 Name: "[[Word of Recall]]"
 Spell Level: Level 6
 School: Conjuration
 Classes: Cleric
 Special: —
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Level 6 Conjuration ([[Cleric]])_
 

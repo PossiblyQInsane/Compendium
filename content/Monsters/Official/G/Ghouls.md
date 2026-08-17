@@ -1,18 +1,20 @@
 ---
 publish: true
 created: 2026-08-16T23:17:26.253-04:00
-modified: 2026-08-16T23:28:13.760-04:00
-published: 2026-08-16T23:28:13.760-04:00
+modified: 2026-08-17T16:16:48.037-04:00
+published: 2026-08-17T16:16:48.037-04:00
 Creature Type: Undead
 Size: Medium
 Alignment: Chaotic Evil
 CR: "1"
 Habitat: Swamp, Underdark, Urban
 Treasure: Any
-Source: Monster Manual (5.5e)
+Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Monster Manual 5.5e</div>
 
 _Eaters of the Dead_
 

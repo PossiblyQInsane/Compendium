@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-02T18:38:24.867-04:00
-modified: 2026-08-02T18:41:01.656-04:00
-published: 2026-08-02T18:41:01.656-04:00
-Source: Player's Handbook (5.5e)
+modified: 2026-08-17T15:46:53.045-04:00
+published: 2026-08-17T15:46:53.045-04:00
+Source: Player's Handbook 5.5e
 Official: true
+Edition: 5.5e
 ---
 
 Most ability checks involve using a skill, which represents a category of things creatures try to do with an ability check. The descriptions of the actions you take specify which skill applies if you make an ability check for that action, and many other rules note when a skill is relevant. The DM has the ultimate say on whether a skill is relevant in a situation.

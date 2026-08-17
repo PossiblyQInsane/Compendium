@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T22:44:32.603-04:00
-modified: 2026-08-15T22:47:49.124-04:00
-published: 2026-08-15T22:47:49.124-04:00
+modified: 2026-08-17T16:39:28.492-04:00
+published: 2026-08-17T16:39:28.492-04:00
 Name: "[[Pyrotechnics]]"
 Spell Level: Level 2
 School: Transmutation
@@ -12,6 +12,8 @@ Source: Elemental Evil Player's Companion
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Elemental Evil Player's Companion</div>
 
 _Level 2 Transmutation ([[Artificer]], [[Bard]], [[Sorcerer]], [[Wizard]])_
 

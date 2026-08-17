@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2026-07-25T22:21:00.831-04:00
-modified: 2026-08-15T15:13:23.206-04:00
-published: 2026-08-15T15:13:23.206-04:00
+modified: 2026-08-17T16:24:21.669-04:00
+published: 2026-08-17T16:24:21.669-04:00
 Name: "[[Thunderclap|Thunderclap]]"
 Spell Level: Cantrip
 School: Evocation
 Classes: Artificer, Bard, Druid, Sorcerer, Warlock, Wizard
 Special: —
-Source: Player's Handbook (5.5e)
+Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
 
 _Evocation Cantrip ([[Artificer]], [[Bard]], [[Druid]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

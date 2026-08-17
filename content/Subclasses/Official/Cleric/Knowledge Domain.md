@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-08-04T10:15:16.942-04:00
-modified: 2026-08-15T15:06:16.440-04:00
-published: 2026-08-15T15:06:16.440-04:00
+modified: 2026-08-17T17:21:50.116-04:00
+published: 2026-08-17T17:21:50.116-04:00
 Parent Class: "[[Cleric]]"
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true
 Edition: 5.5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Forgotten Realms: Heroes of Faerûn</div>
 
 ![[Images/Knowledge Domain.png|left|299]]
 

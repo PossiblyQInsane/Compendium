@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T23:50:51.809-04:00
-modified: 2026-08-15T23:56:37.415-04:00
-published: 2026-08-15T23:56:37.415-04:00
+modified: 2026-08-17T16:14:24.912-04:00
+published: 2026-08-17T16:14:24.912-04:00
 Category: Wondrous Item
 Rarity: Rare
 Attunement: true
@@ -10,6 +10,8 @@ Source: "Spelljammer: Adventures in Space"
 Official: true
 Edition: 5e
 ---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Spelljammer: Adventures in Space</div>
 
 _Wondrous Item, Rare (Requires Attunement by a Spellcaster)_
 
