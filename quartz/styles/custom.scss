@@ -1921,6 +1921,7 @@ body:not(.default-callout-quote, .callout-no-quote) .callout.callout[data-callou
   --callout-padding: 20px 30px;
   --callout-border-width: 0 0 0 4px;
   --callout-border-opacity: .7;
+  --callout-border-style: solid;
   display: flex;
   border-left: 4px solid var(--callout-white);
   flex-direction: column-reverse;
