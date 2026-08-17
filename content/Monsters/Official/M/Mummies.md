@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T23:30:27.612-04:00
-modified: 2026-08-17T01:05:57.286-04:00
-published: 2026-08-17T01:05:57.286-04:00
+modified: 2026-08-17T13:24:37.663-04:00
+published: 2026-08-17T13:24:37.663-04:00
 Creature Type: Undead, Undead (Cleric)
 Size: Medium or Small
 Alignment: Lawful Evil
@@ -81,9 +81,10 @@ Mummy lords typically lurk in the ruins of places they dwelled in life. Such sit
 
 The region containing a mummy lord’s lair is warped by its presence, creating the following effects:
 
-**Cursed Fate.** Whenever a creature other than the mummy or one of its allies casts a Divination spell while within 1 mile of the lair, the creature makes a DC 15 Constitution saving throw. On a failed save, the spell dissipates with no effect, and the action, [[Bonus Action]], or [[Reaction]] used to cast the spell is wasted, but any resources used to cast it aren’t expended.
-
-**Soul Drain.** Creatures within 1 mile of the lair have [[Disadvantage]] on [[Death Saving Throws]].
+> [!NOTE|no-i no-t bg-plain]
+> **Cursed Fate.** Whenever a creature other than the mummy or one of its allies casts a Divination spell while within 1 mile of the lair, the creature makes a DC 15 Constitution saving throw. On a failed save, the spell dissipates with no effect, and the action, [[Bonus Action]], or [[Reaction]] used to cast the spell is wasted, but any resources used to cast it aren’t expended.
+>
+> **Soul Drain.** Creatures within 1 mile of the lair have [[Disadvantage]] on [[Death Saving Throws]].
 
 If the mummy lord is destroyed or moves its lair elsewhere, these effects end immediately. The effects resume if the mummy lord gains a new body (see its Undead Restoration trait).
 

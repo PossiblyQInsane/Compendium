@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-07T00:35:32.946-04:00
-modified: 2026-08-15T20:34:04.626-04:00
-published: 2026-08-15T20:34:04.626-04:00
+modified: 2026-08-17T12:49:29.121-04:00
+published: 2026-08-17T12:49:29.121-04:00
 Creature Type: Beast
 Size: Tiny
 Alignment: Unaligned
