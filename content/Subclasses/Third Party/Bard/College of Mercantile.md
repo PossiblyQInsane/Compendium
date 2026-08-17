@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T22:07:23.641-04:00
-modified: 2026-08-16T22:22:30.075-04:00
-published: 2026-08-16T22:22:30.075-04:00
+modified: 2026-08-17T00:56:59.887-04:00
+published: 2026-08-17T00:56:59.887-04:00
 Parent Class: "[[Bard]]"
 Source: "The Griffon's Saddlebag: Book Two"
 Official: false
@@ -40,33 +40,19 @@ Starting at 14th level, whenever you cast a spell that consumes a material compo
 
 > [!quote| no-t]
 > _The heft of gold in her pocket felt good, and the jingle it made reminded her of what a good day's work sounded like. It was a day well earned._
-
-_Well, mostly earned. She was in a hurry, and some corners are too easy to cut for a merchant of her caliber._
-
 >
-
-_Her haversack of goods had been taken, so she needed to start over with what she had on hand. Her old traveling companions, mercenaries and gamblers alike, had grown so tired of losing their money to her that they had parted ways—unexpectedly—in the middle of the night. So here she remained, forced to barter and sell as quickly as possible to not only reclaim her former wealth, but gather enough surplus coin to afford her a magical teleportation scroll._
-
+> _Well, mostly earned. She was in a hurry, and some corners are too easy to cut for a merchant of her caliber._
 >
-
-_Her departed friends had, in leaving her behind, cut her out of a rather sizable deal in Antronec that she fully intended to collect on in full. The guild would be sure to hear about how valiantly her fellows had fought, but ultimately fell to the drake they'd been sent to slay. She would, of course, have just barely managed to bring down the beast in a heroic display of vengeance._
-
+> _Her haversack of goods had been taken, so she needed to start over with what she had on hand. Her old traveling companions, mercenaries and gamblers alike, had grown so tired of losing their money to her that they had parted ways—unexpectedly—in the middle of the night. So here she remained, forced to barter and sell as quickly as possible to not only reclaim her former wealth, but gather enough surplus coin to afford her a magical teleportation scroll._
 >
-
-_Oh, how she'd miss them terribly, she'd say._
-
+> _Her departed friends had, in leaving her behind, cut her out of a rather sizable deal in Antronec that she fully intended to collect on in full. The guild would be sure to hear about how valiantly her fellows had fought, but ultimately fell to the drake they'd been sent to slay. She would, of course, have just barely managed to bring down the beast in a heroic display of vengeance._
 >
-
-_That teleportation scroll would cut her travel time back to Antronec in, well, entirety. She would reach the guild's door with a single step, collect her bounty, and leave the city again before the rest of her former party could even arrive. Damn the haversack; she'd buy ten more._
-
+> _Oh, how she'd miss them terribly, she'd say._
 >
-
-_Even if she could get the scroll, she knew her time was limited. She had always worked hard, even before her bag was taken, but now that she was motivated by the most powerful force there is—spite—there was nothing that could keep her from reaching her goal._
-
+> _That teleportation scroll would cut her travel time back to Antronec in, well, entirety. She would reach the guild's door with a single step, collect her bounty, and leave the city again before the rest of her former party could even arrive. Damn the haversack; she'd buy ten more._
 >
-
-_Over the week she had already amassed two and half hundred platinum and a favor from the local lord. Pretty good, but she'd need to pick up the pace to make it._
-
+> _Even if she could get the scroll, she knew her time was limited. She had always worked hard, even before her bag was taken, but now that she was motivated by the most powerful force there is—spite—there was nothing that could keep her from reaching her goal._
 >
-
-_She wasn't worried, though. The jingle of coins was music to her ears, and she could play with the best of them._
+> _Over the week she had already amassed two and half hundred platinum and a favor from the local lord. Pretty good, but she'd need to pick up the pace to make it._
+>
+> _She wasn't worried, though. The jingle of coins was music to her ears, and she could play with the best of them._

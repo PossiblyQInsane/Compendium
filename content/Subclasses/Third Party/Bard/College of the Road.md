@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T21:23:29.626-04:00
-modified: 2026-08-16T22:05:12.201-04:00
-published: 2026-08-16T22:05:12.201-04:00
+modified: 2026-08-17T00:59:04.463-04:00
+published: 2026-08-17T00:59:04.463-04:00
 Parent Class: "[[Bard]]"
 Source: Humblewood Campaign Setting
 Official: false
@@ -12,8 +12,7 @@ Edition: 5.5e
 
 _Learn from People You Meet on Your Travels_
 
-Not an officially recognized college, the College of the Road represents the personal and eclectic sets of skills, knowledge, and techniques a wandering bard picks up along their journey. As inveterate jacks-of-all-trades, bards possess a variety of aptitudes in combat, magecraft, and general know-how, making them particularly well suited to learning a variety of different skills. It often happens that while traveling, a bard winds up sharing their campfire with a motley assortment of wandering adventurers who may impart valuable lessons in exchange for a lively song or a well-told tale. Compared to students of other Bard Colleges, a special kind of sensibility is important for the College of the Road. How effectively a bard of this College can apply what they have learned depends on their understanding
-and insight. The College of the Road is sometimes a harsh teacher, but bards who follow this path often find themselves rewarded with a diverse array of useful tricks and tactics. those who underestimate a bard from the College of the Road soon find that these “graduates” are full of surprises.
+Not an officially recognized college, the College of the Road represents the personal and eclectic sets of skills, knowledge, and techniques a wandering bard picks up along their journey. As inveterate jacks-of-all-trades, bards possess a variety of aptitudes in combat, magecraft, and general know-how, making them particularly well suited to learning a variety of different skills. It often happens that while traveling, a bard winds up sharing their campfire with a motley assortment of wandering adventurers who may impart valuable lessons in exchange for a lively song or a well-told tale. Compared to students of other Bard Colleges, a special kind of sensibility is important for the College of the Road. How effectively a bard of this College can apply what they have learned depends on their understanding and insight. The College of the Road is sometimes a harsh teacher, but bards who follow this path often find themselves rewarded with a diverse array of useful tricks and tactics. those who underestimate a bard from the College of the Road soon find that these “graduates” are full of surprises.
 
 ### Level 3: Bonus Proficiences
 
@@ -97,8 +96,7 @@ At 6th level, you have learned how to deepen your pact with the warlock you once
 
 At 14th level, your pact with the warlock unlocks frightening new power. When you reach 14th level, choose a single spell of 7th level or lower from the [[Warlock#Warlock Spell List|Warlock's spell list]]. You may cast the spell once during this effect without expending any spell slots, although you must cast it at the level of your highest spell slot. In exchange, the spell deals additional Necrotic damage to you equal to twice the level at which it was cast.
 
-_**Evocation Lessons.\***_ A venerable wizard shared secrets of evocation magic with you. When you select this option, choose a damage-dealing spell you can cast. You can expend one use of your Bardic Inspiration when you cast this spell to change the type of damage it deals to your choice of either Acid, Cold,
-Fire, Lightning, or Thunder (chosen when you cast the spell). Add the number you roll on your Bardic Inspiration die + your Wisdom modier (minimum of 1) to the damage dealt by the spell.
+_**Evocation Lessons.\***_ A venerable wizard shared secrets of evocation magic with you. When you select this option, choose a damage-dealing spell you can cast. You can expend one use of your Bardic Inspiration when you cast this spell to change the type of damage it deals to your choice of either Acid, Cold, Fire, Lightning, or Thunder (chosen when you cast the spell). Add the number you roll on your Bardic Inspiration die + your Wisdom modier (minimum of 1) to the damage dealt by the spell.
 
 At 6th level, you may choose to change the spell you had previously selected with this feature to another spell that you know.
 
@@ -110,8 +108,7 @@ At 6th level, you have honed your skills to the point where you can easily track
 
 At 14th level, you can maintain this effect for up to 24 hours.
 
-_**Reckless Tactics.**_ You learned from a hardened barbarian that sometimes you have to charge into combat with no regard for your own safety. When you make an attack with a melee weapon that has either the [[Heavy]], [[Two-Handed]], or [[Versatile]] quality, you can expend one use of your Bardic Inspiration to
-gain [[Advantage]] on the attack. Add the number you roll on your Bardic Inspiration die + your Wisdom modifier (minimum of 1) to the attack’s damage roll. Attacks made against you this round have Advantage.
+_**Reckless Tactics.**_ You learned from a hardened barbarian that sometimes you have to charge into combat with no regard for your own safety. When you make an attack with a melee weapon that has either the [[Heavy]], [[Two-Handed]], or [[Versatile]] quality, you can expend one use of your Bardic Inspiration to gain [[Advantage]] on the attack. Add the number you roll on your Bardic Inspiration die + your Wisdom modifier (minimum of 1) to the attack’s damage roll. Attacks made against you this round have Advantage.
 
 At 6th level, you have learned, through practice, how to push your offense even further. You may impose a -5 penalty to this Attack Roll. If the attack hits, you add +10 to the attack’s damage.
 

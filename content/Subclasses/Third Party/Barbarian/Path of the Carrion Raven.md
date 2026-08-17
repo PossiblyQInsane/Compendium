@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T13:58:36.320-04:00
-modified: 2026-08-16T14:30:59.904-04:00
-published: 2026-08-16T14:30:59.904-04:00
+modified: 2026-08-17T00:56:12.505-04:00
+published: 2026-08-17T00:56:12.505-04:00
 Parent Class: "[[Barbarian]]"
 Source: "Grim Hollow: The Raider's Guide to Valika"
 Official: false
@@ -31,7 +31,9 @@ Channeling the heroes from the old sagas is no easy task, and your pool of maneu
 You can use one maneuver during each turn. Some maneuvers require [[Concentration|concentration]], as if concentrating on a spell, or certain conditions to use. Some maneuvers will require your target to make a saving throw to resist the maneuver’s effects.
 
 <div align=center><b>Martial Maneuver save DC:</b> 8 + your proficiency bonus + your Constitution modifier</div>
+
 ##### Path of the Carrion Raven
+
 | Barbarian Level | Maneuver Points | Maneuvers Known |
 | :-------------: | :-------------: | :-------------: |
 |       3rd       |        6        |        3        |

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T22:24:06.015-04:00
-modified: 2026-08-16T22:44:33.890-04:00
-published: 2026-08-16T22:44:33.890-04:00
+modified: 2026-08-17T00:57:17.861-04:00
+published: 2026-08-17T00:57:17.861-04:00
 Parent Class: "[[Bard]]"
 Source: Tal'Dorei Campaign Setting Reborn
 Official: false
@@ -31,7 +31,7 @@ Once you use this feature, you can't use it again until you finish a [[Short Re
 > [!recite| no-i] Balthasar Bleakskull
 > _Half-giant College of Tragedy bard (he/him)_
 >
-> Born in Westruun and raised by two loving goliath parents—a towering warrior and an equally massive astronomer of the Yuminor Observatory—Balthasar Bleakskull was exposed to the adventuring lifestyle and academia from an early age. He tumbled into the art of theater when he was but a child, and followed his passion for drama into adulthood—when he was entangled in a bloodcurdling academic conspiracy that left eight dead, including his dramatic mentor and his lover. Since then, he has devoted his dramatic skill to the art of tragedy, to grant his audiences the catharsis that he one day hopes to give himself
+> Born in Westruun and raised by two loving goliath parents—a towering warrior and an equally massive astronomer of the Yuminor Observatory—Balthasar Bleakskull was exposed to the adventuring lifestyle and academia from an early age. He tumbled into the art of theater when he was but a child, and followed his passion for drama into adulthood—when he was entangled in a bloodcurdling academic conspiracy that left eight dead, including his dramatic mentor and his lover. Since then, he has devoted his dramatic skill to the art of tragedy, to grant his audiences the catharsis that he one day hopes to give himself.
 
 ### Level 6: Tale of Hubris
 
