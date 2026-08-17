@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T00:42:15.982-04:00
-modified: 2026-08-15T15:07:27.109-04:00
-published: 2026-08-15T15:07:27.109-04:00
+modified: 2026-08-16T22:49:28.305-04:00
+published: 2026-08-16T22:49:28.305-04:00
 Name: "[[Awaken]]"
 Spell Level: Level 5
 School: Transmutation
@@ -24,6 +24,6 @@ _Level 5 Transmutation ([[Bard]], [[Druid]])_
 
 ---
 
-You spend the casting time tracing magical pathways within a precious gemstone, and then touch the target. The target must be either a Beast or Plant creature with an Intelligence of 3 or less or a natural plant that isn’t a creature. The target gains an Intelligence of 10 and the ability to speak one language you know. If the target is a natural plant, it becomes a Plant creature and gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human’s. The DM chooses statistics appropriate for the awakened Plant, such as the statistics for the **[[Awakened Shrub]]** or **[[Awakened Tree]]**.
+You spend the casting time tracing magical pathways within a precious gemstone, and then touch the target. The target must be either a Beast or Plant creature with an Intelligence of 3 or less or a natural plant that isn’t a creature. The target gains an Intelligence of 10 and the ability to speak one language you know. If the target is a natural plant, it becomes a Plant creature and gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human’s. The DM chooses statistics appropriate for the awakened Plant, such as the statistics for the **[[Awakened Plants#Awakened Shrub|Awakened Shrub]]** or **[[Awakened Plants#Awakened Tree|Awakened Tree]]**.
 
 The awakened target has the [[Charmed]] condition for 30 days or until you or your allies deal damage to it. When that condition ends, the awakened creature chooses its attitude toward you.
