@@ -171,7 +171,7 @@ plugins:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -259,10 +259,6 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - Parent Class
-        - Source
-        - Official
-        - Publisher
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
