@@ -422,26 +422,26 @@ A Cleric subclass is a specialization that grants you features at certain Cleric
 
 ### Official Cleric Subclasses
 
-| Name                                                        | Source                             |
-| ----------------------------------------------------------- | ---------------------------------- |
-| [[Subclasses/Cleric/Grave Domain.md\|Grave Domain]]         | Ravenloft: The Horrors Within      |
-| [[Subclasses/Cleric/Knowledge Domain.md\|Knowledge Domain]] | Forgotten Realms: Heroes of Faerûn |
-| [[Subclasses/Cleric/Life Domain.md\|Life Domain]]           | Player's Handbook (5.5e)           |
-| [[Subclasses/Cleric/Light Domain.md\|Light Domain]]         | Player's Handbook (5.5e)           |
-| [[Subclasses/Cleric/Trickery Domain.md\|Trickery Domain]]   | Player's Handbook (5.5e)           |
-| [[Subclasses/Cleric/War Domain.md\|War Domain]]             | Player's Handbook (5.5e)           |
+| Name                                                                 | Source                             |
+| -------------------------------------------------------------------- | ---------------------------------- |
+| [[Subclasses/Official/Cleric/Grave Domain.md\|Grave Domain]]         | Ravenloft: The Horrors Within      |
+| [[Subclasses/Official/Cleric/Knowledge Domain.md\|Knowledge Domain]] | Forgotten Realms: Heroes of Faerûn |
+| [[Subclasses/Official/Cleric/Life Domain.md\|Life Domain]]           | Player's Handbook (5.5e)           |
+| [[Subclasses/Official/Cleric/Light Domain.md\|Light Domain]]         | Player's Handbook (5.5e)           |
+| [[Subclasses/Official/Cleric/Trickery Domain.md\|Trickery Domain]]   | Player's Handbook (5.5e)           |
+| [[Subclasses/Official/Cleric/War Domain.md\|War Domain]]             | Player's Handbook (5.5e)           |
 
 ### Third Party Cleric Subclasses
 
 | Name                                                                          | Source                            | Publisher                       |
 | ----------------------------------------------------------------------------- | --------------------------------- | ------------------------------- |
-| [[Subclasses/Cleric/Third Party/Apocalypse Domain.md\|Apocalypse Domain]]     | Cthulhu by Torchlight             | Chaosium                        |
-| [[Subclasses/Cleric/Third Party/Astral Domain.md\|Astral Domain]]             | The Griffon's Saddlebag: Book One | The Griffon's Saddlebag         |
-| [[Subclasses/Cleric/Third Party/Commerce Domain.md\|Commerce Domain]]         | Frontiers of Eberron: Quickstone  | Visionary Production and Design |
-| [[Subclasses/Cleric/Third Party/Dragon Domain.md\|Dragon Domain]]             | Valda's Spire of Secrets          | Mage Hand Press                 |
-| [[Subclasses/Cleric/Third Party/Eldritch Domain.md\|Eldritch Domain]]         | Grim Hollow: Player's Guide       | Ghostfire Gaming                |
-| [[Subclasses/Cleric/Third Party/Harvest Domain.md\|Harvest Domain]]           | The Crooked Moon                  | Avantris Entertainment          |
-| [[Subclasses/Cleric/Third Party/Inquisition Domain.md\|Inquisition Domain]]   | Grim Hollow: Player's Guide       | Ghostfire Gaming                |
-| [[Subclasses/Cleric/Third Party/Mind Domain.md\|Mind Domain]]                 | Exploring Eberron                 | Visionary Production and Design |
-| [[Subclasses/Cleric/Third Party/Nornbound.md\|Nornbound]]                     | Northlands Worldbook              | Kobold Press                    |
-| [[Subclasses/Cleric/Third Party/Purification Domain.md\|Purification Domain]] | Grim Hollow: Player's Guide       | Ghostfire Gaming                |
+| [[Subclasses/Third Party/Cleric/Apocalypse Domain.md\|Apocalypse Domain]]     | Cthulhu by Torchlight             | Chaosium                        |
+| [[Subclasses/Third Party/Cleric/Astral Domain.md\|Astral Domain]]             | The Griffon's Saddlebag: Book One | The Griffon's Saddlebag         |
+| [[Subclasses/Third Party/Cleric/Commerce Domain.md\|Commerce Domain]]         | Frontiers of Eberron: Quickstone  | Visionary Production and Design |
+| [[Subclasses/Third Party/Cleric/Dragon Domain.md\|Dragon Domain]]             | Valda's Spire of Secrets          | Mage Hand Press                 |
+| [[Subclasses/Third Party/Cleric/Eldritch Domain.md\|Eldritch Domain]]         | Grim Hollow: Player's Guide       | Ghostfire Gaming                |
+| [[Subclasses/Third Party/Cleric/Harvest Domain.md\|Harvest Domain]]           | The Crooked Moon                  | Avantris Entertainment          |
+| [[Subclasses/Third Party/Cleric/Inquisition Domain.md\|Inquisition Domain]]   | Grim Hollow: Player's Guide       | Ghostfire Gaming                |
+| [[Subclasses/Third Party/Cleric/Mind Domain.md\|Mind Domain]]                 | Exploring Eberron                 | Visionary Production and Design |
+| [[Subclasses/Third Party/Cleric/Nornbound.md\|Nornbound]]                     | Northlands Worldbook              | Kobold Press                    |
+| [[Subclasses/Third Party/Cleric/Purification Domain.md\|Purification Domain]] | Grim Hollow: Player's Guide       | Ghostfire Gaming                |

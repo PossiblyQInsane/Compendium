@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T11:37:31.505-04:00
-modified: 2026-08-15T20:37:37.520-04:00
-published: 2026-08-15T20:37:37.520-04:00
+modified: 2026-08-16T20:15:54.617-04:00
+published: 2026-08-16T20:15:54.617-04:00
 Creature Type: Undead
 Size: Medium
 Alignment: Chaotic Evil
@@ -30,7 +30,5 @@ _Eaters of the Dead_
 
 Packs of ghouls haunt the rotten corners of the world, ravenously hunting for corpses and those soon to be corpses. These gaunt, animate cadavers with unnaturally long tongues dwell in catacombs and ruins where they devour the contents of graves and paralyze foes with vicious claws.
 
-> [!quote|no-t no-i bg-brown]
+> [!quote|author c-white] Invocation of Doresain, King of Ghouls
 > On a plain of teeth, in a temple of filth, the starving king wastes no morsel. Every coffin a banquet. Every slab a platter. Now is the time of feasting!
->
->  <div align="right"> —Invocation of Doresain, King of Ghouls</div>

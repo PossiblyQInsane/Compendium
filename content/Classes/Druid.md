@@ -491,26 +491,26 @@ A Druid subclass is a specialization that grants you features at certain Druid l
 
 ### Official Druid Subclasses
 
-| Name                                                             | Source                   |
-| ---------------------------------------------------------------- | ------------------------ |
-| [[Subclasses/Druid/Circle of the Land.md\|Circle of the Land]]   | Player's Handbook (5.5e) |
-| [[Subclasses/Druid/Circle of the Moon.md\|Circle of the Moon]]   | Player's Handbook (5.5e) |
-| [[Subclasses/Druid/Circle of the Sea.md\|Circle of the Sea]]     | Player's Handbook (5.5e) |
-| [[Subclasses/Druid/Circle of the Stars.md\|Circle of the Stars]] | Player's Handbook (5.5e) |
+| Name                                                                      | Source                   |
+| ------------------------------------------------------------------------- | ------------------------ |
+| [[Subclasses/Official/Druid/Circle of the Land.md\|Circle of the Land]]   | Player's Handbook (5.5e) |
+| [[Subclasses/Official/Druid/Circle of the Moon.md\|Circle of the Moon]]   | Player's Handbook (5.5e) |
+| [[Subclasses/Official/Druid/Circle of the Sea.md\|Circle of the Sea]]     | Player's Handbook (5.5e) |
+| [[Subclasses/Official/Druid/Circle of the Stars.md\|Circle of the Stars]] | Player's Handbook (5.5e) |
 
 ### Third Party Druid Subclasses
 
 | Name                                                                               | Source                                  | Publisher                       |
 | ---------------------------------------------------------------------------------- | --------------------------------------- | ------------------------------- |
-| [[Subclasses/Druid/Third Party/Circle of Blood.md\|Circle of Blood]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
-| [[Subclasses/Druid/Third Party/Circle of Cycles.md\|Circle of Cycles]]             | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games                    |
-| [[Subclasses/Druid/Third Party/Circle of Entropy.md\|Circle of Entropy]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
-| [[Subclasses/Druid/Third Party/Circle of Fenris.md\|Circle of Fenris]]             | Northlands Worldbook                    | Kobold Press                    |
-| [[Subclasses/Druid/Third Party/Circle of Mutation.md\|Circle of Mutation]]         | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
-| [[Subclasses/Druid/Third Party/Circle of Symbiosis.md\|Circle of Symbiosis]]       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
-| [[Subclasses/Druid/Third Party/Circle of the City.md\|Circle of the City]]         | Valda's Spire of Secrets                | Mage Hand Press                 |
-| [[Subclasses/Druid/Third Party/Circle of the Forged.md\|Circle of the Forged]]     | Exploring Eberron                       | Visionary Production and Design |
-| [[Subclasses/Druid/Third Party/Circle of the Old Ways.md\|Circle of the Old Ways]] | The Crooked Moon                        | Avantris Entertainment          |
-| [[Subclasses/Druid/Third Party/Circle of the Symbiote.md\|Circle of the Symbiote]] | Cthulhu by Torchlight                   | Chaosium                        |
-| [[Subclasses/Druid/Third Party/Circle of Wicker.md\|Circle of Wicker]]             | The Crooked Moon                        | Avantris Entertainment          |
-| [[Subclasses/Druid/Third Party/The Unbroken Circle.md\|The Unbroken Circle]]       | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag         |
+| [[Subclasses/Third Party/Druid/Circle of Blood.md\|Circle of Blood]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| [[Subclasses/Third Party/Druid/Circle of Cycles.md\|Circle of Cycles]]             | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games                    |
+| [[Subclasses/Third Party/Druid/Circle of Entropy.md\|Circle of Entropy]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| [[Subclasses/Third Party/Druid/Circle of Fenris.md\|Circle of Fenris]]             | Northlands Worldbook                    | Kobold Press                    |
+| [[Subclasses/Third Party/Druid/Circle of Mutation.md\|Circle of Mutation]]         | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| [[Subclasses/Third Party/Druid/Circle of Symbiosis.md\|Circle of Symbiosis]]       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
+| [[Subclasses/Third Party/Druid/Circle of the City.md\|Circle of the City]]         | Valda's Spire of Secrets                | Mage Hand Press                 |
+| [[Subclasses/Third Party/Druid/Circle of the Forged.md\|Circle of the Forged]]     | Exploring Eberron                       | Visionary Production and Design |
+| [[Subclasses/Third Party/Druid/Circle of the Old Ways.md\|Circle of the Old Ways]] | The Crooked Moon                        | Avantris Entertainment          |
+| [[Subclasses/Third Party/Druid/Circle of the Symbiote.md\|Circle of the Symbiote]] | Cthulhu by Torchlight                   | Chaosium                        |
+| [[Subclasses/Third Party/Druid/Circle of Wicker.md\|Circle of Wicker]]             | The Crooked Moon                        | Avantris Entertainment          |
+| [[Subclasses/Third Party/Druid/The Unbroken Circle.md\|The Unbroken Circle]]       | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag         |

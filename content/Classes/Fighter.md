@@ -148,22 +148,22 @@ A Fighter subclass is a specialization that grants you features at certain Fight
 
 ### Official Fighter Subclasses
 
-| Name                                                       | Source                             |
-| ---------------------------------------------------------- | ---------------------------------- |
-| [[Subclasses/Fighter/Banneret.md\|Banneret]]               | Forgotten Realms: Heroes of Faerûn |
-| [[Subclasses/Fighter/Battle Master.md\|Battle Master]]     | Player's Handbook (5.5e)           |
-| [[Subclasses/Fighter/Champion.md\|Champion]]               | Player's Handbook (5.5e)           |
-| [[Subclasses/Fighter/Eldritch Knight.md\|Eldritch Knight]] | Player's Handbook (5.5e)           |
-| [[Subclasses/Fighter/Psi Warrior.md\|Psi Warrior]]         | Player's Handbook (5.5e)           |
+| Name                                                                | Source                             |
+| ------------------------------------------------------------------- | ---------------------------------- |
+| [[Subclasses/Official/Fighter/Banneret.md\|Banneret]]               | Forgotten Realms: Heroes of Faerûn |
+| [[Subclasses/Official/Fighter/Battle Master.md\|Battle Master]]     | Player's Handbook (5.5e)           |
+| [[Subclasses/Official/Fighter/Champion.md\|Champion]]               | Player's Handbook (5.5e)           |
+| [[Subclasses/Official/Fighter/Eldritch Knight.md\|Eldritch Knight]] | Player's Handbook (5.5e)           |
+| [[Subclasses/Official/Fighter/Psi Warrior.md\|Psi Warrior]]         | Player's Handbook (5.5e)           |
 
 ### Third Party Fighter Subclasses
 
 | Name                                                                   | Source                                  | Publisher              |
 | ---------------------------------------------------------------------- | --------------------------------------- | ---------------------- |
-| [[Subclasses/Fighter/Third Party/Barrow Guard.md\|Barrow Guard]]       | The Crooked Moon                        | Avantris Entertainment |
-| [[Subclasses/Fighter/Third Party/Blood Hound.md\|Blood Hound]]         | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
-| [[Subclasses/Fighter/Third Party/Bonesmith.md\|Bonesmith]]             | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games           |
-| [[Subclasses/Fighter/Third Party/Bulwark Warrior.md\|Bulwark Warrior]] | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
-| [[Subclasses/Fighter/Third Party/Dungeoneer.md\|Dungeoneer]]           | Valda's Spire of Secrets                | Mage Hand Press        |
-| [[Subclasses/Fighter/Third Party/Living Crucible.md\|Living Crucible]] | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
-| [[Subclasses/Fighter/Third Party/Nightwatcher.md\|Nightwatcher]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| [[Subclasses/Third Party/Fighter/Barrow Guard.md\|Barrow Guard]]       | The Crooked Moon                        | Avantris Entertainment |
+| [[Subclasses/Third Party/Fighter/Blood Hound.md\|Blood Hound]]         | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
+| [[Subclasses/Third Party/Fighter/Bonesmith.md\|Bonesmith]]             | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games           |
+| [[Subclasses/Third Party/Fighter/Bulwark Warrior.md\|Bulwark Warrior]] | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| [[Subclasses/Third Party/Fighter/Dungeoneer.md\|Dungeoneer]]           | Valda's Spire of Secrets                | Mage Hand Press        |
+| [[Subclasses/Third Party/Fighter/Living Crucible.md\|Living Crucible]] | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| [[Subclasses/Third Party/Fighter/Nightwatcher.md\|Nightwatcher]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T18:31:37.539-04:00
-modified: 2026-08-16T16:43:13.488-04:00
-published: 2026-08-16T16:43:13.488-04:00
+modified: 2026-08-16T22:06:12.500-04:00
+published: 2026-08-16T22:06:12.500-04:00
 Source: Player's Handbook (5.5e)
 Official: true
 Edition: 5.5e
@@ -740,26 +740,33 @@ A Bard subclass is a specialization that grants you features at certain Bard lev
 
 ### Official Bard Subclasses
 
-| Name                                                            | Source                             | Edition |
-| --------------------------------------------------------------- | ---------------------------------- | ------- |
-| [[Subclasses/Bard/College of Dance.md\|College of Dance]]       | Player's Handbook (5.5e)           | 5.5e    |
-| [[Subclasses/Bard/College of Glamour.md\|College of Glamour]]   | Player's Handbook (5.5e)           | 5.5e    |
-| [[Subclasses/Bard/College of Lore.md\|College of Lore]]         | Player's Handbook (5.5e)           | 5.5e    |
-| [[Subclasses/Bard/College of Spirits.md\|College of Spirits]]   | Ravenloft: The Horrors Within      | 5.5e    |
-| [[Subclasses/Bard/College of the Moon.md\|College of the Moon]] | Forgotten Realms: Heroes of Faerûn | 5.5e    |
-| [[Subclasses/Bard/College of Valor.md\|College of Valor]]       | Player's Handbook (5.5e)           | 5.5e    |
+| Name                                                                       | Source                             | Edition |
+| -------------------------------------------------------------------------- | ---------------------------------- | ------- |
+| [[Subclasses/Official/Bard/College of Creation.md\|College of Creation]]   | Tasha's Cauldron of Everything     | 5e      |
+| [[Subclasses/Official/Bard/College of Dance.md\|College of Dance]]         | Player's Handbook (5.5e)           | 5.5e    |
+| [[Subclasses/Official/Bard/College of Eloquence.md\|College of Eloquence]] | Mythic Odysseys of Theros          | 5e      |
+| [[Subclasses/Official/Bard/College of Glamour.md\|College of Glamour]]     | Player's Handbook (5.5e)           | 5.5e    |
+| [[Subclasses/Official/Bard/College of Lore.md\|College of Lore]]           | Player's Handbook (5.5e)           | 5.5e    |
+| [[Subclasses/Official/Bard/College of Spirits.md\|College of Spirits]]     | Ravenloft: The Horrors Within      | 5.5e    |
+| [[Subclasses/Official/Bard/College of Swords.md\|College of Swords]]       | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Official/Bard/College of the Moon.md\|College of the Moon]]   | Forgotten Realms: Heroes of Faerûn | 5.5e    |
+| [[Subclasses/Official/Bard/College of Valor.md\|College of Valor]]         | Player's Handbook (5.5e)           | 5.5e    |
+| [[Subclasses/Official/Bard/College of Whispers.md\|College of Whispers]]   | Xanathar's Guide to Everything     | 5e      |
 
 ### Third Party Bard Subclasses
 
 | Name                                                                                        | Source                            | Publisher                       | Edition |
 | ------------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------- | ------- |
-| [[Subclasses/Bard/Third Party/College of Adventurers.md\|College of Adventurers]]           | Grim Hollow: Player's Guide       | Ghostfire Gaming                | 5.5e    |
-| [[Subclasses/Bard/Third Party/College of Choreography.md\|College of Choreography]]         | The Griffon's Saddlebag: Book One | The Griffon's Saddlebag         | 5.5e    |
-| [[Subclasses/Bard/Third Party/College of Drama.md\|College of Drama]]                       | Cthulhu by Torchlight             | Chaosium                        | 5.5e    |
-| [[Subclasses/Bard/Third Party/College of Fools.md\|College of Fools]]                       | Grim Hollow: Player's Guide       | Ghostfire Gaming                | 5.5e    |
-| [[Subclasses/Bard/Third Party/College of Masks.md\|College of Masks]]                       | Valda's Spire of Secrets          | Mage Hand Press                 | 5.5e    |
-| [[Subclasses/Bard/Third Party/College of Requiems.md\|College of Requiems]]                 | Grim Hollow: Player's Guide       | Ghostfire Gaming                | 5.5e    |
-| [[Subclasses/Bard/Third Party/College of the Dirge Singer.md\|College of the Dirge Singer]] | Exploring Eberron                 | Visionary Production and Design | 5.5e    |
-| [[Subclasses/Bard/Third Party/College of Wands.md\|College of Wands]]                       | Frontiers of Eberron: Quickstone  | Visionary Production and Design | 5.5e    |
-| [[Subclasses/Bard/Third Party/College of Whistles.md\|College of Whistles]]                 | The Crooked Moon                  | Avantris Entertainment          | 5.5e    |
-| [[Subclasses/Bard/Third Party/Skald.md\|Skald]]                                             | Northlands Worldbook              | Kobold Press                    | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Adventurers.md\|College of Adventurers]]           | Grim Hollow: Player's Guide       | Ghostfire Gaming                | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Choreography.md\|College of Choreography]]         | The Griffon's Saddlebag: Book One | The Griffon's Saddlebag         | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Drama.md\|College of Drama]]                       | Cthulhu by Torchlight             | Chaosium                        | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Fools.md\|College of Fools]]                       | Grim Hollow: Player's Guide       | Ghostfire Gaming                | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Masks.md\|College of Masks]]                       | Valda's Spire of Secrets          | Mage Hand Press                 | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Mercantile.md\|College of Mercantile]]             | The Griffon's Saddlebag: Book Two | The Griffon's Saddlebag         | 5e      |
+| [[Subclasses/Third Party/Bard/College of Requiems.md\|College of Requiems]]                 | Grim Hollow: Player's Guide       | Ghostfire Gaming                | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of the Dirge Singer.md\|College of the Dirge Singer]] | Exploring Eberron                 | Visionary Production and Design | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of the Road.md\|College of the Road]]                 | Humblewood Campaign Setting       | Hit Point Press                 | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Tragedy.md\|College of Tragedy]]                   | Tal'Dorei Campaign Setting Reborn | Darrington Press                | 5e      |
+| [[Subclasses/Third Party/Bard/College of Wands.md\|College of Wands]]                       | Frontiers of Eberron: Quickstone  | Visionary Production and Design | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Whistles.md\|College of Whistles]]                 | The Crooked Moon                  | Avantris Entertainment          | 5.5e    |
+| [[Subclasses/Third Party/Bard/Skald.md\|Skald]]                                             | Northlands Worldbook              | Kobold Press                    | 5.5e    |

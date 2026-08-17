@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T17:41:00.018-04:00
-modified: 2026-08-16T17:46:02.517-04:00
-published: 2026-08-16T17:46:02.517-04:00
+modified: 2026-08-16T20:16:27.146-04:00
+published: 2026-08-16T20:16:27.146-04:00
 Name: "[[Motivational Speech]]"
 Spell Level: Level 3
 School: Enchantment
@@ -28,5 +28,5 @@ You address allies, staff, or innocent bystanders to exhort and inspire them to 
 
 _**At Higher Levels.**_ When you cast this spell using a spell slot of 4th level or higher, the [[Temporary Hit Points|temporary hit points]] increase by 5 for each slot level above 3rd.
 
-> [!quote|author bg-plain c-white] Walnut Dankgrass
+> [!quote|author c-white] Walnut Dankgrass
 > I once heard a motivational speech by Jim and it was the worst ninety seconds of my life. What does Omin see in him, anyway?

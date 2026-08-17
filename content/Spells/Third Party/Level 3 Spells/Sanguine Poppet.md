@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-09T09:31:46.326-04:00
-modified: 2026-08-15T15:12:25.333-04:00
-published: 2026-08-15T15:12:25.333-04:00
+modified: 2026-08-16T20:18:02.151-04:00
+published: 2026-08-16T20:18:02.151-04:00
 Name: "[[Sanguine Poppet]]"
 Spell Level: Level 3
 School: Transmutation (Sangromancy)
@@ -33,8 +33,6 @@ As a [[Magic]] action, you can cause the poppet to detonate in an explosion of b
 
 _**Using a Higher-Level Spell Slot.**_ You can expend an additional Hit Point Die for each spell slot level above 3. Additionally, the duration of this spell increases by 1 hour for each spell slot level above 3.
 
-> [!quote|no-t no-i bg-brown]
+> [!quote|author c-white] _Ostoyan Child, destined for Sangromancy_
 > That was the best puppet show ever!\
 > Until all the blood. Then it was better.
->
->  <div align="right" style="font-style: italic">  —Ostoyan Child, destined for Sangromancy</div>

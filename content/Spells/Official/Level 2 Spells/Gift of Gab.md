@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T16:50:56.342-04:00
-modified: 2026-08-16T17:46:59.522-04:00
-published: 2026-08-16T17:46:59.522-04:00
+modified: 2026-08-16T20:14:22.821-04:00
+published: 2026-08-16T20:14:22.821-04:00
 Name: "[[Gift of Gab]]"
 Spell Level: Level 2
 School: Enchantment
@@ -28,5 +28,5 @@ Jim Darkmagic is said to have invented this spell, originally calling it _I said
 
 When you cast this spell, you skillfully reshape the memories of listeners in your immediate area, so that each creature of your choice within 5 feet of you forgets everything you said within the last 6 seconds. Those creatures then remember that you actually said the words you speak as the verbal component of the spell.
 
-> [!quote| author bg-plain c-white] Môrgæn
+> [!quote| author c-white] Môrgæn
 > When I met Jim Darkmagic, I wondered how he got anything done in that outfit. I have since learned that most of his talents involve standing and talking. His outfit is perfect for that.
