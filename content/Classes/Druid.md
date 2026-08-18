@@ -370,6 +370,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 4 Spells/Ice Storm.md\|Ice Storm]]_                               | Evocation     | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 4 Spells/Locate Creature.md\|Locate Creature]]_                   | Divination    | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 4 Spells/Polymorph.md\|Polymorph]]_                               | Transmutation | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 4 Spells/Sticks to Snakes.md\|Sticks to Snakes]]_                 | Transmutation | C       | D\&D Beyond Drops                  |
 | _[[Spells/Official/Level 4 Spells/Stone Shape.md\|Stone Shape]]_                           | Transmutation | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 4 Spells/Stoneskin.md\|Stoneskin]]_                               | Transmutation | C, M    | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 4 Spells/Summon Elemental.md\|Summon Elemental]]_                 | Conjuration   | C, M    | Player's Handbook 5.5e            |

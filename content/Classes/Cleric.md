@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T21:26:01.386-04:00
-modified: 2026-08-17T18:22:06.626-04:00
-published: 2026-08-17T18:22:06.626-04:00
+modified: 2026-08-17T22:01:22.849-04:00
+published: 2026-08-17T22:01:22.849-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -51,32 +51,372 @@ As a Cleric, you gain the following class features when you reach the specified 
 
 ##### Cleric Features
 
-<div align="right" style="font-size: 80%">
-—Spell Slots per Spell Level—
+<div style="overflow-x: auto;">
+<table>
+  <tbody>
+    <tr>
+      <th rowspan="2" data-better-raw="Level" style="text-align: center">Level</th>
+      <th rowspan="2" data-better-raw="Proficiency Bonus" style="text-align: center">Proficiency Bonus</th>
+      <th rowspan="2" data-better-raw="Class Features">Class Features</th>
+      <th rowspan="2" data-better-raw="Channel Divinity" style="text-align: center">Channel Divinity</th>
+      <th rowspan="2" data-better-raw="Cantrips" style="text-align: center">Cantrips</th>
+      <th rowspan="2" data-better-raw="Prepared Spells" style="text-align: center">Prepared Spells</th>
+      <th colspan="9" data-better-raw="—Spell Slots per Spell Level—" style="text-align: center">—Spell Slots per Spell Level—</th>
+    </tr>
+    <tr>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <th data-better-raw="2" style="text-align: center">2</th>
+      <th data-better-raw="3" style="text-align: center">3</th>
+      <th data-better-raw="4" style="text-align: center">4</th>
+      <th data-better-raw="5" style="text-align: center">5</th>
+      <th data-better-raw="6" style="text-align: center">6</th>
+      <th data-better-raw="7" style="text-align: center">7</th>
+      <th data-better-raw="8" style="text-align: center">8</th>
+      <th data-better-raw="9" style="text-align: center">9</th>
+    </tr>
+    <tr>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="+2" style="text-align: center">+2</td>
+      <td data-better-raw="Spellcasting, Divine Order">Spellcasting, Divine Order</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="+2" style="text-align: center">+2</td>
+      <td data-better-raw="Channel Divinity">Channel Divinity</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="+2" style="text-align: center">+2</td>
+      <td data-better-raw="Cleric Subclass">Cleric Subclass</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="+2" style="text-align: center">+2</td>
+      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="+3" style="text-align: center">+3</td>
+      <td data-better-raw="Sear Undead">Sear Undead</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="9" style="text-align: center">9</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="+3" style="text-align: center">+3</td>
+      <td data-better-raw="Subclass feature">Subclass feature</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="10" style="text-align: center">10</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="+3" style="text-align: center">+3</td>
+      <td data-better-raw="Blessed Strikes">Blessed Strikes</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="11" style="text-align: center">11</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="8" style="text-align: center">8</td>
+      <td data-better-raw="+3" style="text-align: center">+3</td>
+      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="12" style="text-align: center">12</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="9" style="text-align: center">9</td>
+      <td data-better-raw="+4" style="text-align: center">+4</td>
+      <td data-better-raw="---">---</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="14" style="text-align: center">14</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="10" style="text-align: center">10</td>
+      <td data-better-raw="+4" style="text-align: center">+4</td>
+      <td data-better-raw="Divine Intervention">Divine Intervention</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="15" style="text-align: center">15</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="11" style="text-align: center">11</td>
+      <td data-better-raw="+4" style="text-align: center">+4</td>
+      <td data-better-raw="—">—</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="16" style="text-align: center">16</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="12" style="text-align: center">12</td>
+      <td data-better-raw="+4" style="text-align: center">+4</td>
+      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="16" style="text-align: center">16</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="13" style="text-align: center">13</td>
+      <td data-better-raw="+5" style="text-align: center">+5</td>
+      <td data-better-raw="—">—</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="17" style="text-align: center">17</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="14" style="text-align: center">14</td>
+      <td data-better-raw="+5" style="text-align: center">+5</td>
+      <td data-better-raw="Improved Blessed Strikes">Improved Blessed Strikes</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="17" style="text-align: center">17</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="15" style="text-align: center">15</td>
+      <td data-better-raw="+5" style="text-align: center">+5</td>
+      <td data-better-raw="—">—</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="18" style="text-align: center">18</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="16" style="text-align: center">16</td>
+      <td data-better-raw="+5" style="text-align: center">+5</td>
+      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="18" style="text-align: center">18</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <td data-better-raw="17" style="text-align: center">17</td>
+      <td data-better-raw="+6" style="text-align: center">+6</td>
+      <td data-better-raw="Subclass feature">Subclass feature</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="19" style="text-align: center">19</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td data-better-raw="18" style="text-align: center">18</td>
+      <td data-better-raw="+6" style="text-align: center">+6</td>
+      <td data-better-raw="---">---</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="20" style="text-align: center">20</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td data-better-raw="19" style="text-align: center">19</td>
+      <td data-better-raw="+6" style="text-align: center">+6</td>
+      <td data-better-raw="Epic Boon">Epic Boon</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="21" style="text-align: center">21</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td data-better-raw="20" style="text-align: center">20</td>
+      <td data-better-raw="+6" style="text-align: center">+6</td>
+      <td data-better-raw="Greater Divine Intervention">Greater Divine Intervention</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="22" style="text-align: center">22</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+    </tr>
+  </tbody>
+</table>
 </div>
-
-| Level | Proficiency Bonus | Class Features                                                                               | Channel Divinity | Cantrips | Prepared Spells |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
-| :---: | :---------------: | :------------------------------------------------------------------------------------------- | :--------------: | :------: | :-------------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|   1   |        +2         | [[Cleric#Level 1 Spellcasting\|Spellcasting]], [[Cleric#Level 1 Divine Order\|Divine Order]] |       ---        |    3     |        4        |  2  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   2   |        +2         | [[Cleric#Level 2 Channel Divinity\|Channel Divinity]]                                        |        2         |    3     |        5        |  3  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   3   |        +2         | [[Cleric#Level 3 Cleric Subclass\|Cleric Subclass]]                                          |        2         |    3     |        6        |  4  |  2  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   4   |        +2         | [[Cleric#Level 4 Ability Score Improvement\|Ability Score Improvement]]                      |        2         |    4     |        7        |  4  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   5   |        +3         | [[Cleric#Level 5 Sear Undead\|Sear Undead]]                                                  |        2         |    4     |        9        |  4  |  3  |  2  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   6   |        +3         | Subclass feature                                                                             |        3         |    4     |       10        |  4  |  3  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   7   |        +3         | [[Cleric#Level 7 Blessed Strikes\|Blessed Strikes]]                                          |        3         |    4     |       11        |  4  |  3  |  3  |  1  |  —  |  —  |  —  |  —  |  —  |
-|   8   |        +3         | [[Cleric#Level 4 Ability Score Improvement\|Ability Score Improvement]]                      |        3         |    4     |       12        |  4  |  3  |  3  |  2  |  —  |  —  |  —  |  —  |  —  |
-|   9   |        +4         | ---                                                                                          |        3         |    4     |       14        |  4  |  3  |  3  |  3  |  1  |  —  |  —  |  —  |  —  |
-|  10   |        +4         | [[Cleric#Level 10 Divine Intervention\|Divine Intervention]]                                 |        3         |    5     |       15        |  4  |  3  |  3  |  3  |  2  |  —  |  —  |  —  |  —  |
-|  11   |        +4         | —                                                                                            |        3         |    5     |       16        |  4  |  3  |  3  |  3  |  2  |  1  |  —  |  —  |  —  |
-|  12   |        +4         | [[Cleric#Level 4 Ability Score Improvement\|Ability Score Improvement]]                      |        3         |    5     |       16        |  4  |  3  |  3  |  3  |  2  |  1  |  —  |  —  |  —  |
-|  13   |        +5         | —                                                                                            |        3         |    5     |       17        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  —  |  —  |
-|  14   |        +5         | [[Cleric#Level 14 Improved Blessed Strikes\|Improved Blessed Strikes]]                       |        3         |    5     |       17        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  —  |  —  |
-|  15   |        +5         | —                                                                                            |        3         |    5     |       18        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  —  |
-|  16   |        +5         | [[Cleric#Level 4 Ability Score Improvement\|Ability Score Improvement]]                      |        3         |    5     |       18        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  —  |
-|  17   |        +6         | Subclass feature                                                                             |        3         |    5     |       19        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  1  |
-|  18   |        +6         | ---                                                                                          |        4         |    5     |       20        |  4  |  3  |  3  |  3  |  3  |  1  |  1  |  1  |  1  |
-|  19   |        +6         | [[Cleric#Level 19 Epic Boon\|Epic Boon]]                                                     |        4         |    5     |       21        |  4  |  3  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |
-|  20   |        +6         | [[Cleric#Level 20 Greater Divine Intervention\|Greater Divine Intervention]]                 |        4         |    5     |       22        |  4  |  3  |  3  |  3  |  3  |  2  |  2  |  1  |  1  |
 
 ### Level 1: Spellcasting
 
@@ -166,11 +506,9 @@ You can call on even more powerful divine intervention. When you use your Divine
 
 ## Cleric Spell List
 
-This section presents the Cleric spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, _C_ means the spell requires [[Concentration]], _R_ means it’s a [[Ritual]], and _M_ means it requires a specific Material component.
+This section presents the Cleric spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, _C_ means the spell requires [[Concentration]], _R_ means it’s a [[Ritual]], and _M_ means it requires a specific Material component. For unofficial spells, see [[Third Party Cleric Spells]].
 
 ### Cantrips (Level 0 Cleric Spells)
-
-#### Official
 
 | Name                                                                 | School        | Special | Source                 |
 | -------------------------------------------------------------------- | ------------- | ------- | ---------------------- |
@@ -184,19 +522,13 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | _[[Spells/Official/Cantrips/Toll the Dead.md\|Toll the Dead]]_       | Necromancy    | —       | Player's Handbook 5.5e |
 | _[[Spells/Official/Cantrips/Word of Radiance.md\|Word of Radiance]]_ | Evocation     | —       | Player's Handbook 5.5e |
 
-#### Third Party
-
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
-
 ### Level 1 Cleric Spells
-
-#### Official
 
 | Name                                                                                                 | School        | Special | Source                             |
 | ---------------------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- |
 | _[[Spells/Official/Level 1 Spells/Bane.md\|Bane]]_                                                   | Enchantment   | C       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 1 Spells/Bless.md\|Bless]]_                                                 | Enchantment   | C, M    | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 1 Spells/Ceremony.md\|Ceremony]]_                                           | Abjuration    | R, M    | Xanathar's Guide to Everything     |
 | _[[Spells/Official/Level 1 Spells/Command.md\|Command]]_                                             | Enchantment   | —       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 1 Spells/Create or Destroy Water.md\|Create or Destroy Water]]_             | Transmutation | —       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 1 Spells/Cure Wounds.md\|Cure Wounds]]_                                     | Abjuration    | —       | Player's Handbook 5.5e             |
@@ -212,84 +544,65 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | _[[Spells/Official/Level 1 Spells/Shield of Faith.md\|Shield of Faith]]_                             | Abjuration    | C       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 1 Spells/Wardaway.md\|Wardaway]]_                                           | Abjuration    | —       | Forgotten Realms: Heroes of Faerûn |
 
-#### Third Party
-
-| Name                                                                                | School     | Special | Source           | Publisher              |
-| ----------------------------------------------------------------------------------- | ---------- | ------- | ---------------- | ---------------------- |
-| _[[Spells/Third Party/Level 1 Spells/Ancestral Communion.md\|Ancestral Communion]]_ | Divination | C       | The Crooked Moon | Avantris Entertainment |
-
 ### Level 2 Cleric Spells
 
-#### Official
-
-| Name                                                                                   | School        | Special | Source                            |
-| -------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
-| _[[Spells/Official/Level 2 Spells/Aid.md\|Aid]]_                                       | Abjuration    | —       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Augury.md\|Augury]]_                                 | Divination    | R, M    | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Blindness-Deafness.md\|Blindness/Deafness]]_         | Transmutation | —       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Borrowed Knowledge.md\|Borrowed Knowledge]]_         | Divination    | M       | Strixhaven: A Curriculum of Chaos |
-| _[[Spells/Official/Level 2 Spells/Calm Emotions.md\|Calm Emotions]]_                   | Enchantment   | C       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Continual Flame.md\|Continual Flame]]_               | Evocation     | M       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_               | Transmutation | C       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Find Traps.md\|Find Traps]]_                         | Divination    | —       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Gentle Repose.md\|Gentle Repose]]_                   | Necromancy    | R, M    | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Hold Person.md\|Hold Person]]_                       | Enchantment   | C       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Lesser Restoration.md\|Lesser Restoration]]_         | Abjuration    | —       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Locate Object.md\|Locate Object]]_                   | Divination    | C       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Prayer of Healing.md\|Prayer of Healing]]_           | Abjuration    | —       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Protection from Poison.md\|Protection from Poison]]_ | Abjuration    | —       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Silence.md\|Silence]]_                               | Illusion      | C, R    | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Spiritual Weapon.md\|Spiritual Weapon]]_             | Evocation     | C       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Warding Bond.md\|Warding Bond]]_                     | Abjuration    | M       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Zone of Truth.md\|Zone of Truth]]_                   | Enchantment   | —       | Player's Handbook 5.5e            |
-
-#### Third Party
-
-| Name                                                                  | School    | Special | Source           | Publisher              |
-| --------------------------------------------------------------------- | --------- | ------- | ---------------- | ---------------------- |
-| _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_ | Evocation | —       | The Crooked Moon | Avantris Entertainment |
+| Name                                                                                           | School        | Special | Source                             |
+| ---------------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- |
+| _[[Spells/Official/Level 2 Spells/Aid.md\|Aid]]_                                               | Abjuration    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 2 Spells/Augury.md\|Augury]]_                                         | Divination    | R, M    | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 2 Spells/Blindness-Deafness.md\|Blindness/Deafness]]_                 | Transmutation | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 2 Spells/Borrowed Knowledge.md\|Borrowed Knowledge]]_                 | Divination    | M       | Strixhaven: A Curriculum of Chaos  |
+| _[[Spells/Official/Level 2 Spells/Calm Emotions.md\|Calm Emotions]]_                           | Enchantment   | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 2 Spells/Continual Flame.md\|Continual Flame]]_                       | Evocation     | M       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 2 Spells/Deryan's Helpful Homunculi.md\|Deryan's Helpful Homunculi]]_ | Conjuration   | R, M    | Forgotten Realms: Heroes of Faerûn |
+| _[[Spells/Official/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_                       | Transmutation | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 2 Spells/Find Traps.md\|Find Traps]]_                                 | Divination    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 2 Spells/Gentle Repose.md\|Gentle Repose]]_                           | Necromancy    | R, M    | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 2 Spells/Hold Person.md\|Hold Person]]_                               | Enchantment   | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 2 Spells/Lesser Restoration.md\|Lesser Restoration]]_                 | Abjuration    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 2 Spells/Locate Object.md\|Locate Object]]_                           | Divination    | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 2 Spells/Prayer of Healing.md\|Prayer of Healing]]_                   | Abjuration    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 2 Spells/Protection from Poison.md\|Protection from Poison]]_         | Abjuration    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 2 Spells/Searing Orb.md\|Searing Orb]]_                               | Evocation     | —       | D\&D Beyond Drops                   |
+| _[[Spells/Official/Level 2 Spells/Silence.md\|Silence]]_                                       | Illusion      | C, R    | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 2 Spells/Spiritual Weapon.md\|Spiritual Weapon]]_                     | Evocation     | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 2 Spells/Warding Bond.md\|Warding Bond]]_                             | Abjuration    | M       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 2 Spells/Zone of Truth.md\|Zone of Truth]]_                           | Enchantment   | —       | Player's Handbook 5.5e             |
 
 ### Level 3 Cleric Spells
 
-#### Official
-
-| Name                                                                                   | School        | Special | Source                    |
-| -------------------------------------------------------------------------------------- | ------------- | ------- | ------------------------- |
-| _[[Spells/Official/Level 3 Spells/Animate Dead.md\|Animate Dead]]_                     | Necromancy    | —       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Astral Flood.md\|Astral Flood]]_                     | Evocation     | —       | D\&D Beyond Drops          |
-| _[[Spells/Official/Level 3 Spells/Aura of Vitality.md\|Aura of Vitality]]_             | Abjuration    | C       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Beacon of Hope.md\|Beacon of Hope]]_                 | Abjuration    | C       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Bestow Curse.md\|Bestow Curse]]_                     | Necromancy    | C       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Clairvoyance.md\|Clairvoyance]]_                     | Divination    | C, M    | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Create Food and Water.md\|Create Food and Water]]_   | Conjuration   | —       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Daylight.md\|Daylight]]_                             | Evocation     | —       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Dispel Magic.md\|Dispel Magic]]_                     | Abjuration    | —       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Fast Friends.md\|Fast Friends]]_                     | Enchantment   | C       | Acquisitions Incorporated |
-| _[[Spells/Official/Level 3 Spells/Feign Death.md\|Feign Death]]_                       | Necromancy    | R       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Glyph of Warding.md\|Glyph of Warding]]_             | Abjuration    | M       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Magic Circle.md\|Magic Circle]]_                     | Abjuration    | M       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Mass Healing Word.md\|Mass Healing Word]]_           | Abjuration    | —       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Meld into Stone.md\|Meld into Stone]]_               | Transmutation | R       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Motivational Speech.md\|Motivational Speech]]_       | Enchantment   | —       | Acquisitions Incorporated |
-| _[[Spells/Official/Level 3 Spells/Protection from Energy.md\|Protection from Energy]]_ | Abjuration    | C       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Remove Curse.md\|Remove Curse]]_                     | Abjuration    | —       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Revivify.md\|Revivify]]_                             | Necromancy    | M       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Sending.md\|Sending]]_                               | Divination    | —       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Speak with Dead.md\|Speak with Dead]]_               | Necromancy    | —       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Spirit Guardians.md\|Spirit Guardians]]_             | Conjuration   | C       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Tongues.md\|Tongues]]_                               | Divination    | —       | Player's Handbook 5.5e    |
-| _[[Spells/Official/Level 3 Spells/Water Walk.md\|Water Walk]]_                         | Transmutation | R       | Player's Handbook 5.5e    |
-
-#### Third Party
-
-| Name                                                                          | School     | Special | Source                | Publisher              |
-| ----------------------------------------------------------------------------- | ---------- | ------- | --------------------- | ---------------------- |
-| _[[Spells/Third Party/Level 3 Spells/Doom.md\|Doom]]_                         | Necromancy | C       | Cthulhu by Torchlight | Chaosium Inc.          |
-| _[[Spells/Third Party/Level 3 Spells/Harvest Moonglow.md\|Harvest Moonglow]]_ | Evocation  | —       | The Crooked Moon      | Avantris Entertainment |
+| Name                                                                                   | School        | Special | Source                             |
+| -------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- |
+| _[[Spells/Official/Level 3 Spells/Animate Dead.md\|Animate Dead]]_                     | Necromancy    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Astral Flood.md\|Astral Flood]]_                     | Evocation     | —       | D\&D Beyond Drops                   |
+| _[[Spells/Official/Level 3 Spells/Aura of Vitality.md\|Aura of Vitality]]_             | Abjuration    | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Beacon of Hope.md\|Beacon of Hope]]_                 | Abjuration    | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Bestow Curse.md\|Bestow Curse]]_                     | Necromancy    | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Clairvoyance.md\|Clairvoyance]]_                     | Divination    | C, M    | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Create Food and Water.md\|Create Food and Water]]_   | Conjuration   | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Daylight.md\|Daylight]]_                             | Evocation     | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Dispel Magic.md\|Dispel Magic]]_                     | Abjuration    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Fast Friends.md\|Fast Friends]]_                     | Enchantment   | C       | Acquisitions Incorporated          |
+| _[[Spells/Official/Level 3 Spells/Feign Death.md\|Feign Death]]_                       | Necromancy    | R       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Glyph of Warding.md\|Glyph of Warding]]_             | Abjuration    | M       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Incite Greed.md\|Incite Greed]]_                     | Enchantment   | C, M    | Acquisitions Incorporated          |
+| _[[Spells/Official/Level 3 Spells/Laeral's Silver Lance.md\|Laeral's Silver Lance]]_   | Evocation     | M       | Forgotten Realms: Heroes of Faerûn |
+| _[[Spells/Official/Level 3 Spells/Life Transference.md\|Life Transference]]_           | Necromancy    | —       | Xanathar's Guide to Everything     |
+| _[[Spells/Official/Level 3 Spells/Magic Circle.md\|Magic Circle]]_                     | Abjuration    | M       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Mass Healing Word.md\|Mass Healing Word]]_           | Abjuration    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Meld into Stone.md\|Meld into Stone]]_               | Transmutation | R       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Motivational Speech.md\|Motivational Speech]]_       | Enchantment   | —       | Acquisitions Incorporated          |
+| _[[Spells/Official/Level 3 Spells/Protection from Energy.md\|Protection from Energy]]_ | Abjuration    | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Remove Curse.md\|Remove Curse]]_                     | Abjuration    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Revivify.md\|Revivify]]_                             | Necromancy    | M       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Sending.md\|Sending]]_                               | Divination    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Speak with Dead.md\|Speak with Dead]]_               | Necromancy    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Spirit Guardians.md\|Spirit Guardians]]_             | Conjuration   | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Spirit Shroud.md\|Spirit Shroud]]_                   | Necromancy    | C       | Tasha's Cauldron of Everything     |
+| _[[Spells/Official/Level 3 Spells/Tongues.md\|Tongues]]_                               | Divination    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Water Walk.md\|Water Walk]]_                         | Transmutation | R       | Player's Handbook 5.5e             |
 
 ### Level 4 Cleric Spells
-
-#### Official
 
 | Name                                                                             | School        | Special | Source                             |
 | -------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- |
@@ -303,45 +616,32 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | _[[Spells/Official/Level 4 Spells/Freedom of Movement.md\|Freedom of Movement]]_ | Abjuration    | —       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 4 Spells/Guardian of Faith.md\|Guardian of Faith]]_     | Conjuration   | —       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 4 Spells/Locate Creature.md\|Locate Creature]]_         | Divination    | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 4 Spells/Sticks to Snakes.md\|Sticks to Snakes]]_       | Transmutation | C       | D\&D Beyond Drops                   |
 | _[[Spells/Official/Level 4 Spells/Stone Shape.md\|Stone Shape]]_                 | Transmutation | —       | Player's Handbook 5.5e             |
-
-#### Third Party
-
-| Name                                                                                        | School     | Special | Source           | Publisher              |
-| ------------------------------------------------------------------------------------------- | ---------- | ------- | ---------------- | ---------------------- |
-| _[[Spells/Third Party/Level 4 Spells/Sanctum of the Shepherd.md\|Sanctum of the Shepherd]]_ | Abjuration | M       | The Crooked Moon | Avantris Entertainment |
 
 ### Level 5 Cleric Spells
 
-#### Official
-
-| Name                                                                               | School      | Special | Source                 |
-| ---------------------------------------------------------------------------------- | ----------- | ------- | ---------------------- |
-| _[[Spells/Official/Level 5 Spells/Circle of Power.md\|Circle of Power]]_           | Abjuration  | C       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 5 Spells/Commune.md\|Commune]]_                           | Divination  | R       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 5 Spells/Contagion.md\|Contagion]]_                       | Necromancy  | —       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 5 Spells/Dispel Evil and Good.md\|Dispel Evil and Good]]_ | Abjuration  | C       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 5 Spells/Flame Strike.md\|Flame Strike]]_                 | Evocation   | —       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 5 Spells/Geas.md\|Geas]]_                                 | Enchantment | —       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 5 Spells/Greater Restoration.md\|Greater Restoration]]_   | Abjuration  | M       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 5 Spells/Hallow.md\|Hallow]]_                             | Abjuration  | M       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 5 Spells/Insect Plague.md\|Insect Plague]]_               | Conjuration | C       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 5 Spells/Legend Lore.md\|Legend Lore]]_                   | Divination  | M       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 5 Spells/Mass Cure Wounds.md\|Mass Cure Wounds]]_         | Abjuration  | —       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 5 Spells/Planar Binding.md\|Planar Binding]]_             | Abjuration  | M       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 5 Spells/Raise Dead.md\|Raise Dead]]_                     | Necromancy  | M       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 5 Spells/Scrying.md\|Scrying]]_                           | Divination  | C, M    | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 5 Spells/Summon Celestial.md\|Summon Celestial]]_         | Conjuration | C, M    | Player's Handbook 5.5e |
-
-#### Third Party
-
-| Name                                                                          | School     | Special | Source           | Publisher              |
-| ----------------------------------------------------------------------------- | ---------- | ------- | ---------------- | ---------------------- |
-| _[[Spells/Third Party/Level 5 Spells/Field of Reaping.md\|Field of Reaping]]_ | Necromancy | C       | The Crooked Moon | Avantris Entertainment |
+| Name                                                                               | School      | Special | Source                         |
+| ---------------------------------------------------------------------------------- | ----------- | ------- | ------------------------------ |
+| _[[Spells/Official/Level 5 Spells/Circle of Power.md\|Circle of Power]]_           | Abjuration  | C       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 5 Spells/Commune.md\|Commune]]_                           | Divination  | R       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 5 Spells/Contagion.md\|Contagion]]_                       | Necromancy  | —       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 5 Spells/Dawn.md\|Dawn]]_                                 | Evocation   | C, M    | Xanathar's Guide to Everything |
+| _[[Spells/Official/Level 5 Spells/Dispel Evil and Good.md\|Dispel Evil and Good]]_ | Abjuration  | C       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 5 Spells/Flame Strike.md\|Flame Strike]]_                 | Evocation   | —       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 5 Spells/Geas.md\|Geas]]_                                 | Enchantment | —       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 5 Spells/Greater Restoration.md\|Greater Restoration]]_   | Abjuration  | M       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 5 Spells/Hallow.md\|Hallow]]_                             | Abjuration  | M       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 5 Spells/Holy Weapon.md\|Holy Weapon]]_                   | Evocation   | C       | Xanathar's Guide to Everything |
+| _[[Spells/Official/Level 5 Spells/Insect Plague.md\|Insect Plague]]_               | Conjuration | C       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 5 Spells/Legend Lore.md\|Legend Lore]]_                   | Divination  | M       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 5 Spells/Mass Cure Wounds.md\|Mass Cure Wounds]]_         | Abjuration  | —       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 5 Spells/Planar Binding.md\|Planar Binding]]_             | Abjuration  | M       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 5 Spells/Raise Dead.md\|Raise Dead]]_                     | Necromancy  | M       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 5 Spells/Scrying.md\|Scrying]]_                           | Divination  | C, M    | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 5 Spells/Summon Celestial.md\|Summon Celestial]]_         | Conjuration | C, M    | Player's Handbook 5.5e         |
 
 ### Level 6 Cleric Spells
-
-#### Official
 
 | Name                                                                   | School      | Special | Source                             |
 | ---------------------------------------------------------------------- | ----------- | ------- | ---------------------------------- |
@@ -358,52 +658,33 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | _[[Spells/Official/Level 6 Spells/True Seeing.md\|True Seeing]]_       | Divination  | M       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 6 Spells/Word of Recall.md\|Word of Recall]]_ | Conjuration | —       | Player's Handbook 5.5e             |
 
-#### Third Party
-
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
-
 ### Level 7 Cleric Spells
 
-#### Official
-
-| Name                                                                           | School        | Special | Source                 |
-| ------------------------------------------------------------------------------ | ------------- | ------- | ---------------------- |
-| _[[Spells/Official/Level 7 Spells/Conjure Celestial.md\|Conjure Celestial]]_   | Conjuration   | C       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 7 Spells/Divine Word.md\|Divine Word]]_               | Evocation     | —       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 7 Spells/Etherealness.md\|Etherealness]]_             | Conjuration   | —       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 7 Spells/Fire Storm.md\|Fire Storm]]_                 | Evocation     | —       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 7 Spells/Plane Shift.md\|Plane Shift]]_               | Conjuration   | M       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 7 Spells/Power Word Fortify.md\|Power Word Fortify]]_ | Enchantment   | —       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 7 Spells/Regenerate.md\|Regenerate]]_                 | Transmutation | —       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 7 Spells/Resurrection.md\|Resurrection]]_             | Necromancy    | M       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 7 Spells/Symbol.md\|Symbol]]_                         | Abjuration    | M       | Player's Handbook 5.5e |
-
-#### Third Party
-
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
+| Name                                                                           | School        | Special | Source                         |
+| ------------------------------------------------------------------------------ | ------------- | ------- | ------------------------------ |
+| _[[Spells/Official/Level 7 Spells/Conjure Celestial.md\|Conjure Celestial]]_   | Conjuration   | C       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 7 Spells/Divine Word.md\|Divine Word]]_               | Evocation     | —       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 7 Spells/Etherealness.md\|Etherealness]]_             | Conjuration   | —       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 7 Spells/Fire Storm.md\|Fire Storm]]_                 | Evocation     | —       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 7 Spells/Plane Shift.md\|Plane Shift]]_               | Conjuration   | M       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 7 Spells/Power Word Fortify.md\|Power Word Fortify]]_ | Enchantment   | —       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 7 Spells/Regenerate.md\|Regenerate]]_                 | Transmutation | —       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 7 Spells/Resurrection.md\|Resurrection]]_             | Necromancy    | M       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 7 Spells/Symbol.md\|Symbol]]_                         | Abjuration    | M       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 7 Spells/Temple of the Gods.md\|Temple of the Gods]]_ | Conjuration   | M       | Xanathar's Guide to Everything |
 
 ### Level 8 Cleric Spells
 
-#### Official
-
-| Name                                                                     | School        | Special | Source                 |
-| ------------------------------------------------------------------------ | ------------- | ------- | ---------------------- |
-| _[[Spells/Official/Level 8 Spells/Antimagic Field.md\|Antimagic Field]]_ | Abjuration    | C       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 8 Spells/Control Weather.md\|Control Weather]]_ | Transmutation | C       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 8 Spells/Earthquake.md\|Earthquake]]_           | Transmutation | C       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 8 Spells/Holy Aura.md\|Holy Aura]]_             | Abjuration    | C, M    | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 8 Spells/Sunburst.md\|Sunburst]]_               | Evocation     | —       | Player's Handbook 5.5e |
-
-#### Third Party
-
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
+| Name                                                                             | School        | Special | Source                             |
+| -------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- |
+| _[[Spells/Official/Level 8 Spells/Antimagic Field.md\|Antimagic Field]]_         | Abjuration    | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 8 Spells/Control Weather.md\|Control Weather]]_         | Transmutation | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 8 Spells/Earthquake.md\|Earthquake]]_                   | Transmutation | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 8 Spells/Holy Aura.md\|Holy Aura]]_                     | Abjuration    | C, M    | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 8 Spells/Holy Star of Mystra.md\|Holy Star of Mystra]]_ | Evocation     | C       | Forgotten Realms: Heroes of Faerûn |
+| _[[Spells/Official/Level 8 Spells/Sunburst.md\|Sunburst]]_                       | Evocation     | —       | Player's Handbook 5.5e             |
 
 ### Level 9 Cleric Spells
-
-#### Official
 
 | Name                                                                         | School      | Special | Source                 |
 | ---------------------------------------------------------------------------- | ----------- | ------- | ---------------------- |
@@ -413,37 +694,39 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | _[[Spells/Official/Level 9 Spells/Power Word Heal.md\|Power Word Heal]]_     | Enchantment | —       | Player's Handbook 5.5e |
 | _[[Spells/Official/Level 9 Spells/True Resurrection.md\|True Resurrection]]_ | Necromancy  | M       | Player's Handbook 5.5e |
 
-#### Third Party
-
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
-
 ## Cleric Subclasses
 
 A Cleric subclass is a specialization that grants you features at certain Cleric levels, as specified in the subclass. Each Cleric subclass is named after a domain of existence that is favored by a god, pantheon, or religious order.
 
 ### Official Cleric Subclasses
 
-| Name                                                                 | Source                             |
-| -------------------------------------------------------------------- | ---------------------------------- |
-| [[Subclasses/Official/Cleric/Grave Domain.md\|Grave Domain]]         | Ravenloft: The Horrors Within      |
-| [[Subclasses/Official/Cleric/Knowledge Domain.md\|Knowledge Domain]] | Forgotten Realms: Heroes of Faerûn |
-| [[Subclasses/Official/Cleric/Life Domain.md\|Life Domain]]           | Player's Handbook 5.5e             |
-| [[Subclasses/Official/Cleric/Light Domain.md\|Light Domain]]         | Player's Handbook 5.5e             |
-| [[Subclasses/Official/Cleric/Trickery Domain.md\|Trickery Domain]]   | Player's Handbook 5.5e             |
-| [[Subclasses/Official/Cleric/War Domain.md\|War Domain]]             | Player's Handbook 5.5e             |
+| Name                                                                 | Source                             | Edition |
+| -------------------------------------------------------------------- | ---------------------------------- | ------- |
+| [[Subclasses/Official/Cleric/Death Domain.md\|Death Domain]]         | Dungeon Master's Guide 5e          | 5e      |
+| [[Subclasses/Official/Cleric/Forge Domain.md\|Forge Domain]]         | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Official/Cleric/Grave Domain.md\|Grave Domain]]         | Ravenloft: The Horrors Within      | 5.5e    |
+| [[Subclasses/Official/Cleric/Knowledge Domain.md\|Knowledge Domain]] | Forgotten Realms: Heroes of Faerûn | 5.5e    |
+| [[Subclasses/Official/Cleric/Life Domain.md\|Life Domain]]           | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Cleric/Light Domain.md\|Light Domain]]         | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Cleric/Nature Domain.md\|Nature Domain]]       | Player's Handbook 5e               | 5e      |
+| [[Subclasses/Official/Cleric/Order Domain.md\|Order Domain]]         | Guildmasters' Guide to Ravnica     | 5e      |
+| [[Subclasses/Official/Cleric/Peace Domain.md\|Peace Domain]]         | Tasha's Cauldron of Everything     | 5e      |
+| [[Subclasses/Official/Cleric/Tempest Domain.md\|Tempest Domain]]     | Player's Handbook 5e               | 5e      |
+| [[Subclasses/Official/Cleric/Trickery Domain.md\|Trickery Domain]]   | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Cleric/Twilight Domain.md\|Twilight Domain]]   | Tasha's Cauldron of Everything     | 5e      |
+| [[Subclasses/Official/Cleric/War Domain.md\|War Domain]]             | Player's Handbook 5.5e             | 5.5e    |
 
 ### Third Party Cleric Subclasses
 
-| Name                                                                          | Source                            | Publisher                       |
-| ----------------------------------------------------------------------------- | --------------------------------- | ------------------------------- |
-| [[Subclasses/Third Party/Cleric/Apocalypse Domain.md\|Apocalypse Domain]]     | Cthulhu by Torchlight             | Chaosium Inc.                   |
-| [[Subclasses/Third Party/Cleric/Astral Domain.md\|Astral Domain]]             | The Griffon's Saddlebag: Book One | The Griffon's Saddlebag         |
-| [[Subclasses/Third Party/Cleric/Commerce Domain.md\|Commerce Domain]]         | Frontiers of Eberron: Quickstone  | Visionary Production and Design |
-| [[Subclasses/Third Party/Cleric/Dragon Domain.md\|Dragon Domain]]             | Valda's Spire of Secrets          | Mage Hand Press                 |
-| [[Subclasses/Third Party/Cleric/Eldritch Domain.md\|Eldritch Domain]]         | Grim Hollow: Player's Guide       | Ghostfire Gaming                |
-| [[Subclasses/Third Party/Cleric/Harvest Domain.md\|Harvest Domain]]           | The Crooked Moon                  | Avantris Entertainment          |
-| [[Subclasses/Third Party/Cleric/Inquisition Domain.md\|Inquisition Domain]]   | Grim Hollow: Player's Guide       | Ghostfire Gaming                |
-| [[Subclasses/Third Party/Cleric/Mind Domain.md\|Mind Domain]]                 | Exploring Eberron                 | Visionary Production and Design |
-| [[Subclasses/Third Party/Cleric/Nornbound.md\|Nornbound]]                     | Northlands Worldbook              | Kobold Press                    |
-| [[Subclasses/Third Party/Cleric/Purification Domain.md\|Purification Domain]] | Grim Hollow: Player's Guide       | Ghostfire Gaming                |
+| Name                                                                          | Source                            | Publisher                       | Edition |
+| ----------------------------------------------------------------------------- | --------------------------------- | ------------------------------- | ------- |
+| [[Subclasses/Third Party/Cleric/Apocalypse Domain.md\|Apocalypse Domain]]     | Cthulhu by Torchlight             | Chaosium Inc.                   | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Astral Domain.md\|Astral Domain]]             | The Griffon's Saddlebag: Book One | The Griffon's Saddlebag         | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Commerce Domain.md\|Commerce Domain]]         | Frontiers of Eberron: Quickstone  | Visionary Production and Design | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Dragon Domain.md\|Dragon Domain]]             | Valda's Spire of Secrets          | Mage Hand Press                 | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Eldritch Domain.md\|Eldritch Domain]]         | Grim Hollow: Player's Guide       | Ghostfire Gaming                | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Harvest Domain.md\|Harvest Domain]]           | The Crooked Moon                  | Avantris Entertainment          | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Inquisition Domain.md\|Inquisition Domain]]   | Grim Hollow: Player's Guide       | Ghostfire Gaming                | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Mind Domain.md\|Mind Domain]]                 | Exploring Eberron                 | Visionary Production and Design | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Nornbound.md\|Nornbound]]                     | Northlands Worldbook              | Kobold Press                    | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Purification Domain.md\|Purification Domain]] | Grim Hollow: Player's Guide       | Ghostfire Gaming                | 5.5e    |
