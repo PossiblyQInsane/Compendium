@@ -270,6 +270,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | ----------------------------------------------------------------------------------- | --------------------------- | ------- | --------------------------- | ---------------------- |
 | _[[Spells/Third Party/Level 1 Spells/Ancestral Communion.md\|Ancestral Communion]]_ | Divination                  | C       | The Crooked Moon            | Avantris Entertainment |
 | _[[Spells/Third Party/Level 1 Spells/Blood Rush.md\|Blood Rush]]_                   | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 1 Spells/Veil of Dusk.md\|Veil of Dusk]]_               | Abjuration                  | C       | Humblewood Campaign Setting | Hit Point Press        |
 
 ### Level 2 Druid Spells
 
@@ -339,12 +340,13 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 #### Third Party
 
-| Name                                                                          | School                    | Special | Source                      | Publisher              |
-| ----------------------------------------------------------------------------- | ------------------------- | ------- | --------------------------- | ---------------------- |
-| _[[Spells/Third Party/Level 3 Spells/Blood Bond.md\|Blood Bond]]_             | Enchantment (Sangromancy) | —       | Grim Hollow: Player's Guide | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 3 Spells/Culling Sickle.md\|Culling Sickle]]_     | Necromancy                | C       | The Crooked Moon            | Avantris Entertainment |
-| _[[Spells/Third Party/Level 3 Spells/Flash Fever.md\|Flash Fever]]_           | Necromancy                | C       | Grim Hollow: Player's Guide | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 3 Spells/Harvest Moonglow.md\|Harvest Moonglow]]_ | Evocation                 | —       | The Crooked Moon            | Avantris Entertainment |
+| Name                                                                            | School                    | Special | Source                      | Publisher              |
+| ------------------------------------------------------------------------------- | ------------------------- | ------- | --------------------------- | ---------------------- |
+| _[[Spells/Third Party/Level 3 Spells/Blood Bond.md\|Blood Bond]]_               | Enchantment (Sangromancy) | —       | Grim Hollow: Player's Guide | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 3 Spells/Culling Sickle.md\|Culling Sickle]]_       | Necromancy                | C       | The Crooked Moon            | Avantris Entertainment |
+| _[[Spells/Third Party/Level 3 Spells/Flash Fever.md\|Flash Fever]]_             | Necromancy                | C       | Grim Hollow: Player's Guide | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 3 Spells/Globe of Twilight.md\|Globe of Twilight]]_ | Conjuration               | C       | Humblewood Campaign Setting | Hit Point Press        |
+| _[[Spells/Third Party/Level 3 Spells/Harvest Moonglow.md\|Harvest Moonglow]]_   | Evocation                 | —       | The Crooked Moon            | Avantris Entertainment |
 
 ### Level 4 Druid Spells
 
@@ -378,9 +380,10 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 #### Third Party
 
-| Name                                                                      | School    | Special | Source           | Publisher              |
-| ------------------------------------------------------------------------- | --------- | ------- | ---------------- | ---------------------- |
-| _[[Spells/Third Party/Level 4 Spells/Consuming Pyre.md\|Consuming Pyre]]_ | Evocation | C       | The Crooked Moon | Avantris Entertainment |
+| Name                                                                      | School    | Special | Source                      | Publisher              |
+| ------------------------------------------------------------------------- | --------- | ------- | --------------------------- | ---------------------- |
+| _[[Spells/Third Party/Level 4 Spells/Consuming Pyre.md\|Consuming Pyre]]_ | Evocation | C       | The Crooked Moon            | Avantris Entertainment |
+| _[[Spells/Third Party/Level 4 Spells/Stellar Bodies.md\|Stellar Bodies]]_ | Evocation | —       | Humblewood Campaign Setting | Hit Point Press        |
 
 ### Level 5 Druid Spells
 
