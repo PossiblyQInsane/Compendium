@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-08-03T16:20:14.149-04:00
-modified: 2026-08-17T17:40:13.863-04:00
-published: 2026-08-17T17:40:13.863-04:00
+modified: 2026-08-23T16:32:53.084-04:00
+published: 2026-08-23T16:32:53.084-04:00
 Parent Class: "[[Bard]]"
 Source: Cthulhu by Torchlight
 Official: false
-Publisher: Chaosium Inc.
+Publisher: Chaosium
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Cthulhu by Torchlight<br>Chaosium Inc.</div>
+<div align="right" style="font-style: italic; margin-top: 0;">Cthulhu by Torchlight<br>Chaosium</div>
 
 ![[Images/College of Drama.jpg]]
 

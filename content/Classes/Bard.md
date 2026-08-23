@@ -757,18 +757,20 @@ A Bard subclass is a specialization that grants you features at certain Bard lev
 
 ### Third Party Bard Subclasses
 
-| Name                                                                                        | Source                            | Publisher                       | Edition |
-| ------------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------- | ------- |
-| [[Subclasses/Third Party/Bard/College of Adventurers.md\|College of Adventurers]]           | Grim Hollow: Player's Guide       | Ghostfire Gaming                | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of Choreography.md\|College of Choreography]]         | The Griffon's Saddlebag: Book One | The Griffon's Saddlebag         | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of Drama.md\|College of Drama]]                       | Cthulhu by Torchlight             | Chaosium Inc.                   | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of Fools.md\|College of Fools]]                       | Grim Hollow: Player's Guide       | Ghostfire Gaming                | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of Masks.md\|College of Masks]]                       | Valda's Spire of Secrets          | Mage Hand Press                 | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of Mercantile.md\|College of Mercantile]]             | The Griffon's Saddlebag: Book Two | The Griffon's Saddlebag         | 5e      |
-| [[Subclasses/Third Party/Bard/College of Requiems.md\|College of Requiems]]                 | Grim Hollow: Player's Guide       | Ghostfire Gaming                | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of the Dirge Singer.md\|College of the Dirge Singer]] | Exploring Eberron                 | Visionary Production and Design | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of the Road.md\|College of the Road]]                 | Humblewood Campaign Setting       | Hit Point Press                 | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of Tragedy.md\|College of Tragedy]]                   | Tal'Dorei Campaign Setting Reborn | Darrington Press                | 5e      |
-| [[Subclasses/Third Party/Bard/College of Wands.md\|College of Wands]]                       | Frontiers of Eberron: Quickstone  | Visionary Production and Design | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of Whistles.md\|College of Whistles]]                 | The Crooked Moon                  | Avantris Entertainment          | 5.5e    |
-| [[Subclasses/Third Party/Bard/Skald.md\|Skald]]                                             | Northlands Worldbook              | Kobold Press                    | 5.5e    |
+| Name                                                                                        | Source                             | Publisher               | Edition |
+| ------------------------------------------------------------------------------------------- | ---------------------------------- | ----------------------- | ------- |
+| [[Subclasses/Third Party/Bard/College of Adventurers.md\|College of Adventurers]]           | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Choreography.md\|College of Choreography]]         | The Griffon's Saddlebag: Book One  | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Cuisine.md\|College of Cuisine]]                   | Heliana's Guide to Monster Hunting | Loot Tavern             | 5e      |
+| [[Subclasses/Third Party/Bard/College of Drama.md\|College of Drama]]                       | Cthulhu by Torchlight              | Chaosium                | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Fleshweaving.md\|College of Fleshweaving]]         | Heliana's Guide to Monster Hunting | Loot Tavern             | 5e      |
+| [[Subclasses/Third Party/Bard/College of Fools.md\|College of Fools]]                       | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Masks.md\|College of Masks]]                       | Valda's Spire of Secrets           | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Mercantile.md\|College of Mercantile]]             | The Griffon's Saddlebag: Book Two  | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Third Party/Bard/College of Requiems.md\|College of Requiems]]                 | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of the Dirge Singer.md\|College of the Dirge Singer]] | Exploring Eberron                  | Visionary               | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of the Road.md\|College of the Road]]                 | Humblewood Campaign Setting        | Hit Point Press         | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Tragedy.md\|College of Tragedy]]                   | Tal'Dorei Campaign Setting Reborn  | Darrington Press        | 5e      |
+| [[Subclasses/Third Party/Bard/College of Wands.md\|College of Wands]]                       | Frontiers of Eberron: Quickstone   | Visionary               | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Whistles.md\|College of Whistles]]                 | The Crooked Moon                   | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Bard/Skald.md\|Skald]]                                             | Northlands Worldbook               | Kobold Press            | 5.5e    |

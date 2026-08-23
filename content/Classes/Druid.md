@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T10:07:32.423-04:00
-modified: 2026-08-17T15:33:14.275-04:00
-published: 2026-08-17T15:33:14.275-04:00
+modified: 2026-08-20T11:06:26.771-04:00
+published: 2026-08-20T11:06:26.771-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -206,44 +206,43 @@ _**Longevity.**_ The primal magic that you wield causes you to age more slowly. 
 
 ## Druid Spell List
 
-This section presents the Druid spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, _C_ means the spell requires [[Concentration]], _R_ means it’s a [[Ritual]], and _M_ means it requires a specific Material component.
+This section presents the Druid spell list. The spells are organized by spell level and then alphabetized, and each spell’s school of magic is listed. In the Special column, _C_ means the spell requires [[Concentration]], _R_ means it’s a [[Ritual]], and _M_ means it requires a specific Material component. For unofficial spells, see [[Third Party Druid Spells]].
 
 ### Cantrips (Level 0 Druid Spells)
 
-#### Official
-
 | Name                                                               | School        | Special | Source                            |
 | ------------------------------------------------------------------ | ------------- | ------- | --------------------------------- |
+| _[[Spells/Official/Cantrips/Control Flames.md\|Control Flames]]_   | Transmutation | —       | Elemental Evil Player's Companion |
 | _[[Spells/Official/Cantrips/Create Bonfire.md\|Create Bonfire]]_   | Conjuration   | C       | Elemental Evil Player's Companion |
 | _[[Spells/Official/Cantrips/Druidcraft.md\|Druidcraft]]_           | Transmutation | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Cantrips/Elementalism.md\|Elementalism]]_       | Transmutation | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Cantrips/Frostbite.md\|Frostbite]]_             | Evocation     | —       | Elemental Evil Player's Companion |
 | _[[Spells/Official/Cantrips/Guidance.md\|Guidance]]_               | Divination    | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Cantrips/Gust.md\|Gust]]_                       | Transmutation | —       | Elemental Evil Player's Companion |
+| _[[Spells/Official/Cantrips/Infestation.md\|Infestation]]_         | Conjuration   | —       | Xanathar's Guide to Everything    |
 | _[[Spells/Official/Cantrips/Magic Stone.md\|Magic Stone]]_         | Transmutation | —       | Elemental Evil Player's Companion |
 | _[[Spells/Official/Cantrips/Mending.md\|Mending]]_                 | Transmutation | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Cantrips/Message.md\|Message]]_                 | Transmutation | —       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Cantrips/Mold Earth.md\|Mold Earth]]_           | Transmutation | —       | Elemental Evil Player's Companion |
 | _[[Spells/Official/Cantrips/Poison Spray.md\|Poison Spray]]_       | Necromancy    | —       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Cantrips/Primal Savagery.md\|Primal Savagery]]_ | Transmutation | —       | Xanathar's Guide to Everything    |
 | _[[Spells/Official/Cantrips/Produce Flame.md\|Produce Flame]]_     | Conjuration   | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Cantrips/Resistance (Spell).md\|Resistance]]_   | Abjuration    | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Cantrips/Shape Water.md\|Shape Water]]_         | Transmutation | —       | Elemental Evil Player's Companion |
 | _[[Spells/Official/Cantrips/Shillelagh.md\|Shillelagh]]_           | Transmutation | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Cantrips/Spare the Dying.md\|Spare the Dying]]_ | Necromancy    | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Cantrips/Starry Wisp.md\|Starry Wisp]]_         | Evocation     | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Cantrips/Thorn Whip.md\|Thorn Whip]]_           | Transmutation | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Cantrips/Thunderclap.md\|Thunderclap]]_         | Evocation     | —       | Player's Handbook 5.5e            |
 
-#### Third Party
-
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
-
 ### Level 1 Druid Spells
-
-#### Official
 
 | Name                                                                                                 | School        | Special | Source                            |
 | ---------------------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
 | _[[Spells/Official/Level 1 Spells/Absorb Elements.md\|Absorb Elements]]_                             | Abjuration    | —       | Elemental Evil Player's Companion |
 | _[[Spells/Official/Level 1 Spells/Animal Friendship.md\|Animal Friendship]]_                         | Enchantment   | —       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 1 Spells/Beast Bond.md\|Beast Bond]]_                                       | Divination    | C       | Elemental Evil Player's Companion |
+| _[[Spells/Official/Level 1 Spells/Buzzing Bee.md\|Buzzing Bee]]_                                     | Conjuration   | C       | D\&D Beyond Drops                  |
 | _[[Spells/Official/Level 1 Spells/Charm Person.md\|Charm Person]]_                                   | Enchantment   | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 1 Spells/Create or Destroy Water.md\|Create or Destroy Water]]_             | Transmutation | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 1 Spells/Cure Wounds.md\|Cure Wounds]]_                                     | Abjuration    | —       | Player's Handbook 5.5e            |
@@ -264,17 +263,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 1 Spells/Speak with Animals.md\|Speak with Animals]]_                       | Divination    | R       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 1 Spells/Thunderwave.md\|Thunderwave]]_                                     | Evocation     | —       | Player's Handbook 5.5e            |
 
-#### Third Party
-
-| Name                                                                                | School                      | Special | Source                      | Publisher              |
-| ----------------------------------------------------------------------------------- | --------------------------- | ------- | --------------------------- | ---------------------- |
-| _[[Spells/Third Party/Level 1 Spells/Ancestral Communion.md\|Ancestral Communion]]_ | Divination                  | C       | The Crooked Moon            | Avantris Entertainment |
-| _[[Spells/Third Party/Level 1 Spells/Blood Rush.md\|Blood Rush]]_                   | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 1 Spells/Veil of Dusk.md\|Veil of Dusk]]_               | Abjuration                  | C       | Humblewood Campaign Setting | Hit Point Press        |
-
 ### Level 2 Druid Spells
-
-#### Official
 
 | Name                                                                                       | School        | Special | Source                            |
 | ------------------------------------------------------------------------------------------ | ------------- | ------- | --------------------------------- |
@@ -286,12 +275,15 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 2 Spells/Beast Sense.md\|Beast Sense]]_                           | Divination    | C, R    | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Continual Flame.md\|Continual Flame]]_                   | Evocation     | M       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Darkvision (Spell).md\|Darkvision]]_                     | Transmutation | —       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Dust Devil.md\|Dust Devil]]_                             | Conjuration   | C       | Elemental Evil Player's Companion |
+| _[[Spells/Official/Level 2 Spells/Earthbind.md\|Earthbind]]_                               | Transmutation | C       | Elemental Evil Player's Companion |
 | _[[Spells/Official/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_                   | Transmutation | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Enlarge-Reduce.md\|Enlarge/Reduce]]_                     | Transmutation | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Find Traps.md\|Find Traps]]_                             | Divination    | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Flame Blade.md\|Flame Blade]]_                           | Evocation     | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Flaming Sphere.md\|Flaming Sphere]]_                     | Conjuration   | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Gust of Wind.md\|Gust of Wind]]_                         | Evocation     | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Healing Spirit.md\|Healing Spirit]]_                     | Conjuration   | C       | Xanathar's Guide to Everything    |
 | _[[Spells/Official/Level 2 Spells/Heat Metal.md\|Heat Metal]]_                             | Transmutation | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Hold Person.md\|Hold Person]]_                           | Enchantment   | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Lesser Restoration.md\|Lesser Restoration]]_             | Abjuration    | —       | Player's Handbook 5.5e            |
@@ -305,17 +297,9 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 2 Spells/Summon Beast.md\|Summon Beast]]_                         | Conjuration   | C, M    | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Tortoise Shell.md\|Tortoise Shell]]_                     | Abjuration    | C       | D\&D Beyond Drops                  |
 | _[[Spells/Official/Level 2 Spells/Warding Wind.md\|Warding Wind]]_                         | Evocation     | C       | Elemental Evil Player's Companion |
-
-#### Third Party
-
-| Name                                                                        | School                   | Special | Source                      | Publisher              |
-| --------------------------------------------------------------------------- | ------------------------ | ------- | --------------------------- | ---------------------- |
-| _[[Spells/Third Party/Level 2 Spells/Sense Lifeblood.md\|Sense Lifeblood]]_ | Divination (Sangromancy) | C       | Grim Hollow: Player's Guide | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_       | Evocation                | —       | The Crooked Moon            | Avantris Entertainment |
+| _[[Spells/Official/Level 2 Spells/Wither and Bloom.md\|Wither and Bloom]]_                 | Necromancy    | —       | Strixhaven: A Curriculum of Chaos |
 
 ### Level 3 Druid Spells
-
-#### Official
 
 | Name                                                                                   | School        | Special | Source                            |
 | -------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
@@ -338,19 +322,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 3 Spells/Water Walk.md\|Water Walk]]_                         | Transmutation | R       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 3 Spells/Wind Wall.md\|Wind Wall]]_                           | Evocation     | C       | Player's Handbook 5.5e            |
 
-#### Third Party
-
-| Name                                                                            | School                    | Special | Source                      | Publisher              |
-| ------------------------------------------------------------------------------- | ------------------------- | ------- | --------------------------- | ---------------------- |
-| _[[Spells/Third Party/Level 3 Spells/Blood Bond.md\|Blood Bond]]_               | Enchantment (Sangromancy) | —       | Grim Hollow: Player's Guide | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 3 Spells/Culling Sickle.md\|Culling Sickle]]_       | Necromancy                | C       | The Crooked Moon            | Avantris Entertainment |
-| _[[Spells/Third Party/Level 3 Spells/Flash Fever.md\|Flash Fever]]_             | Necromancy                | C       | Grim Hollow: Player's Guide | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 3 Spells/Globe of Twilight.md\|Globe of Twilight]]_ | Conjuration               | C       | Humblewood Campaign Setting | Hit Point Press        |
-| _[[Spells/Third Party/Level 3 Spells/Harvest Moonglow.md\|Harvest Moonglow]]_   | Evocation                 | —       | The Crooked Moon            | Avantris Entertainment |
-
 ### Level 4 Druid Spells
-
-#### Official
 
 | Name                                                                                       | School        | Special | Source                            |
 | ------------------------------------------------------------------------------------------ | ------------- | ------- | --------------------------------- |
@@ -378,16 +350,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 4 Spells/Summon Elemental.md\|Summon Elemental]]_                 | Conjuration   | C, M    | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 4 Spells/Wall of Fire.md\|Wall of Fire]]_                         | Evocation     | C       | Player's Handbook 5.5e            |
 
-#### Third Party
-
-| Name                                                                      | School    | Special | Source                      | Publisher              |
-| ------------------------------------------------------------------------- | --------- | ------- | --------------------------- | ---------------------- |
-| _[[Spells/Third Party/Level 4 Spells/Consuming Pyre.md\|Consuming Pyre]]_ | Evocation | C       | The Crooked Moon            | Avantris Entertainment |
-| _[[Spells/Third Party/Level 4 Spells/Stellar Bodies.md\|Stellar Bodies]]_ | Evocation | —       | Humblewood Campaign Setting | Hit Point Press        |
-
 ### Level 5 Druid Spells
-
-#### Official
 
 | Name                                                                                 | School        | Special | Source                             |
 | ------------------------------------------------------------------------------------ | ------------- | ------- | ---------------------------------- |
@@ -409,15 +372,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 5 Spells/Tree Stride.md\|Tree Stride]]_                     | Conjuration   | C       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 5 Spells/Wall of Stone.md\|Wall of Stone]]_                 | Evocation     | C       | Player's Handbook 5.5e             |
 
-#### Third Party
-
-| Name                                                                          | School     | Special | Source           | Publisher              |
-| ----------------------------------------------------------------------------- | ---------- | ------- | ---------------- | ---------------------- |
-| _[[Spells/Third Party/Level 5 Spells/Field of Reaping.md\|Field of Reaping]]_ | Necromancy | C       | The Crooked Moon | Avantris Entertainment |
-
 ### Level 6 Druid Spells
-
-#### Official
 
 | Name                                                                               | School        | Special | Source                 |
 | ---------------------------------------------------------------------------------- | ------------- | ------- | ---------------------- |
@@ -432,14 +387,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 6 Spells/Wall of Thorns.md\|Wall of Thorns]]_             | Conjuration   | C       | Player's Handbook 5.5e |
 | _[[Spells/Official/Level 6 Spells/Wind Walk.md\|Wind Walk]]_                       | Transmutation | —       | Player's Handbook 5.5e |
 
-#### Third Party
-
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
-
 ### Level 7 Druid Spells
-
-#### Official
 
 | Name                                                                     | School        | Special | Source                 |
 | ------------------------------------------------------------------------ | ------------- | ------- | ---------------------- |
@@ -450,14 +398,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 7 Spells/Reverse Gravity.md\|Reverse Gravity]]_ | Transmutation | C       | Player's Handbook 5.5e |
 | _[[Spells/Official/Level 7 Spells/Symbol.md\|Symbol]]_                   | Abjuration    | M       | Player's Handbook 5.5e |
 
-#### Third Party
-
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
-
 ### Level 8 Druid Spells
-
-#### Official
 
 | Name                                                                           | School        | Special | Source                 |
 | ------------------------------------------------------------------------------ | ------------- | ------- | ---------------------- |
@@ -470,14 +411,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 8 Spells/Sunburst.md\|Sunburst]]_                     | Evocation     | —       | Player's Handbook 5.5e |
 | _[[Spells/Official/Level 8 Spells/Tsunami.md\|Tsunami]]_                       | Conjuration   | C       | Player's Handbook 5.5e |
 
-#### Third Party
-
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
-
 ### Level 9 Druid Spells
-
-#### Official
 
 | Name                                                                           | School        | Special | Source                 |
 | ------------------------------------------------------------------------------ | ------------- | ------- | ---------------------- |
@@ -485,11 +419,6 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 9 Spells/Shapechange.md\|Shapechange]]_               | Transmutation | C, M    | Player's Handbook 5.5e |
 | _[[Spells/Official/Level 9 Spells/Storm of Vengeance.md\|Storm of Vengeance]]_ | Conjuration   | C       | Player's Handbook 5.5e |
 | _[[Spells/Official/Level 9 Spells/True Resurrection.md\|True Resurrection]]_   | Necromancy    | M       | Player's Handbook 5.5e |
-
-#### Third Party
-
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
 
 ## Druid Subclasses
 
@@ -506,17 +435,17 @@ A Druid subclass is a specialization that grants you features at certain Druid l
 
 ### Third Party Druid Subclasses
 
-| Name                                                                               | Source                                  | Publisher                       |
-| ---------------------------------------------------------------------------------- | --------------------------------------- | ------------------------------- |
-| [[Subclasses/Third Party/Druid/Circle of Blood.md\|Circle of Blood]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
-| [[Subclasses/Third Party/Druid/Circle of Cycles.md\|Circle of Cycles]]             | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games                    |
-| [[Subclasses/Third Party/Druid/Circle of Entropy.md\|Circle of Entropy]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
-| [[Subclasses/Third Party/Druid/Circle of Fenris.md\|Circle of Fenris]]             | Northlands Worldbook                    | Kobold Press                    |
-| [[Subclasses/Third Party/Druid/Circle of Mutation.md\|Circle of Mutation]]         | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
-| [[Subclasses/Third Party/Druid/Circle of Symbiosis.md\|Circle of Symbiosis]]       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
-| [[Subclasses/Third Party/Druid/Circle of the City.md\|Circle of the City]]         | Valda's Spire of Secrets                | Mage Hand Press                 |
-| [[Subclasses/Third Party/Druid/Circle of the Forged.md\|Circle of the Forged]]     | Exploring Eberron                       | Visionary Production and Design |
-| [[Subclasses/Third Party/Druid/Circle of the Old Ways.md\|Circle of the Old Ways]] | The Crooked Moon                        | Avantris Entertainment          |
-| [[Subclasses/Third Party/Druid/Circle of the Symbiote.md\|Circle of the Symbiote]] | Cthulhu by Torchlight                   | Chaosium Inc.                   |
-| [[Subclasses/Third Party/Druid/Circle of Wicker.md\|Circle of Wicker]]             | The Crooked Moon                        | Avantris Entertainment          |
-| [[Subclasses/Third Party/Druid/The Unbroken Circle.md\|The Unbroken Circle]]       | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag         |
+| Name                                                                               | Source                                  | Publisher               |
+| ---------------------------------------------------------------------------------- | --------------------------------------- | ----------------------- |
+| [[Subclasses/Third Party/Druid/Circle of Blood.md\|Circle of Blood]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming        |
+| [[Subclasses/Third Party/Druid/Circle of Cycles.md\|Circle of Cycles]]             | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games            |
+| [[Subclasses/Third Party/Druid/Circle of Entropy.md\|Circle of Entropy]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming        |
+| [[Subclasses/Third Party/Druid/Circle of Fenris.md\|Circle of Fenris]]             | Northlands Worldbook                    | Kobold Press            |
+| [[Subclasses/Third Party/Druid/Circle of Mutation.md\|Circle of Mutation]]         | Grim Hollow: Player's Guide             | Ghostfire Gaming        |
+| [[Subclasses/Third Party/Druid/Circle of Symbiosis.md\|Circle of Symbiosis]]       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                |
+| [[Subclasses/Third Party/Druid/Circle of the City.md\|Circle of the City]]         | Valda's Spire of Secrets                | Mage Hand Press         |
+| [[Subclasses/Third Party/Druid/Circle of the Forged.md\|Circle of the Forged]]     | Exploring Eberron                       | Visionary               |
+| [[Subclasses/Third Party/Druid/Circle of the Old Ways.md\|Circle of the Old Ways]] | The Crooked Moon                        | Avantris Entertainment  |
+| [[Subclasses/Third Party/Druid/Circle of the Symbiote.md\|Circle of the Symbiote]] | Cthulhu by Torchlight                   | Chaosium                |
+| [[Subclasses/Third Party/Druid/Circle of Wicker.md\|Circle of Wicker]]             | The Crooked Moon                        | Avantris Entertainment  |
+| [[Subclasses/Third Party/Druid/The Unbroken Circle.md\|The Unbroken Circle]]       | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag |

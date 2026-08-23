@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T23:45:55.085-04:00
-modified: 2026-08-19T11:25:56.827-04:00
-published: 2026-08-19T11:25:56.827-04:00
+modified: 2026-08-23T16:40:56.759-04:00
+published: 2026-08-23T16:40:56.759-04:00
 Parent Class: "[[Cleric]]"
 Source: Tal'Dorei Campaign Setting Reborn
 Official: false
@@ -49,15 +49,15 @@ Starting at 1st level, your divine magic draws the blood from magically inflicte
 
 ### Level 2: Channel Divinity: Crimson Bond
 
-Starting at 2nd level, you can use your Channel Divinity to form a supernatural bond with a creature you can see, or with a creature for which you possess a blood sample. This bond lasts for 1 hour or until your [[concentration]] is broken (as if concentrating on a spell).
+Starting at 2nd level, you can use your Channel Divinity to form a supernatural bond with a creature you can see, or with a creature for which you possess a blood sample. This bond lasts for 1 hour or until your [[Concentration]] is broken (as if concentrating on a spell).
 
-While the bond is in effect, you can use an action to learn the target's approximate distance and direction from you, as well as its current hit points and any conditions affecting it, as long as the target is within 10 miles of you. Alternatively, you can use your action to attempt to connect with the target's senses. You take 2d6 necrotic damage and the target makes a Constitution saving throw against your spell save DC. On a successful save, the bond ends. On a failure, you can choose to either see or hear through the target's senses for a number of minutes equal to your Wisdom modifier (minimum 1 minute). During this time, you are [[blinded]] or [[deafened]] (respectively) with regard to your own senses. When the connection ends, the bond is lost.
+While the bond is in effect, you can use an action to learn the target's approximate distance and direction from you, as well as its current hit points and any conditions affecting it, as long as the target is within 10 miles of you. Alternatively, you can use your action to attempt to connect with the target's senses. You take 2d6 necrotic damage and the target makes a Constitution saving throw against your spell save DC. On a successful save, the bond ends. On a failure, you can choose to either see or hear through the target's senses for a number of minutes equal to your Wisdom modifier (minimum 1 minute). During this time, you are [[Blinded]] or [[Deafened]] (respectively) with regard to your own senses. When the connection ends, the bond is lost.
 
 Regardless of the outcome, the target feels a wave of unease pass over it when it makes this save.
 
 ### Level 6: Channel Divinity: Blood Puppet
 
-Starting at 6th level, you can use your Channel Divinity to briefly control a creature's actions—whether that creature is living or dead. As an action, you target a Large or smaller creature or corpse within 60 feet of you that has blood. A creature you target must succeed on a Wisdom saving throw against your spell save DC or become [[charmed]] by you. An [[unconscious]] creature automatically fails its saving throw, and isn't [[incapacitated]] while you control its actions. A corpse targeted by this effect gains a semblance of life that you control.
+Starting at 6th level, you can use your Channel Divinity to briefly control a creature's actions—whether that creature is living or dead. As an action, you target a Large or smaller creature or corpse within 60 feet of you that has blood. A creature you target must succeed on a Wisdom saving throw against your spell save DC or become [[Charmed]] by you. An [[Unconscious]] creature automatically fails its saving throw, and isn't [[Incapacitated]] while you control its actions. A corpse targeted by this effect gains a semblance of life that you control.
 
 On the affected creature or animated corpse's turn, you can command it (no action required) to move up to half its speed and use its action to do one of the following:
 
@@ -65,15 +65,15 @@ On the affected creature or animated corpse's turn, you can command it (no actio
 - Make a single attack
 - Do nothing
 
-An animated corpse or an [[unconscious]] creature takes its turn immediately after yours, but can't move or take actions unless you command it to do so. Its statistics are the same as when it was alive or conscious.
+An animated corpse or an [[Unconscious]] creature takes its turn immediately after yours, but can't move or take actions unless you command it to do so. Its statistics are the same as when it was alive or conscious.
 
-An affected living creature makes a new saving throw at the end of each of its turns, ending the effect on itself on a success. For any target, your control lasts for 1 minute or until your [[concentration]] is broken (as if concentrating on a spell).
+An affected living creature makes a new saving throw at the end of each of its turns, ending the effect on itself on a success. For any target, your control lasts for 1 minute or until your [[Concentration]] is broken (as if concentrating on a spell).
 
 At 17th level, you can use this feature to target a Huge or smaller creature or corpse.
 
 ### Level 6: Sanguine Recall
 
-At 6th level, you can sacrifice a portion of your own vitality to recover expended spell slots as an action. The spell slots can have a combined level equal to or less than half your cleric level (rounded up), and none of the slots can be 6th level or higher. You take 1d8 necrotic damage for each spell slot level recovered, which can't be reduced in any way. You can't use this feature again until you finish a [[long rest]].
+At 6th level, you can sacrifice a portion of your own vitality to recover expended spell slots as an action. The spell slots can have a combined level equal to or less than half your cleric level (rounded up), and none of the slots can be 6th level or higher. You take 1d8 necrotic damage for each spell slot level recovered, which can't be reduced in any way. You can't use this feature again until you finish a [[Long Rest]].
 
 For example, if you're an 8th-level cleric, you can recover up to four levels of spell slots—a single 4th-level slot, two 2nd-level slots, a 3rd-level slot and a 1st-level slot, or four 1st-level slots. You then take 4d8 necrotic damage.
 
@@ -85,4 +85,4 @@ At 8th level, you gain the ability to cause the physical wounds you deal out to 
 
 At 17th level, you can use your action to emit a deathly aura of necrotic energy that causes the veins of nearby foes to burst and bleed. For 1 minute, any hostile creature with blood that moves within 30 feet of you for the first time on a turn or starts its turn there takes 3d6 necrotic damage. If a hostile creature with blood regains hit points while in the aura, it regains only half as many hit points as expected.
 
-Once you use this feature, you can't use it again until you finish a [[long rest]].
+Once you use this feature, you can't use it again until you finish a [[Long Rest]].

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T23:45:55.085-04:00
-modified: 2026-08-19T10:48:59.208-04:00
-published: 2026-08-19T10:48:59.208-04:00
+modified: 2026-08-23T16:40:57.094-04:00
+published: 2026-08-23T16:40:57.094-04:00
 Parent Class: "[[Cleric]]"
 Source: Humblewood Campaign Setting
 Official: false
@@ -47,7 +47,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 You can create a ward of divine shadows to conceal yourself from an attacking enemy. When attacked by a creature you can see within 30 feet of you, you can use your [[Reaction]] to impose [[Disadvantage]] on the Attack Roll as shadows envelop your form. An attacker that can’t be [[Blinded]] is immune to this feature.
 
-You can use this feature a number of times equal to your Wisdom modifier (a minimum of once) and regain all expended uses when you finish a [[long rest]].
+You can use this feature a number of times equal to your Wisdom modifier (a minimum of once) and regain all expended uses when you finish a [[Long Rest]].
 
 ### Level 6: Improved Ward
 
@@ -61,6 +61,6 @@ Additionally, a target that fails its first saving throw against your _Sleep_ sp
 
 ### Level 17: Creature of the Night
 
-Starting at 17th level, you can use your Action to activate a supernatural aura of deep night. It lasts for 1 minute, or until you dismiss it using another Action. You emit [[heavily obscured|Heavily Obscuring]] [[Darkness]] in a 30-foot radius and [[lightly obscured|Lightly Obscuring]] shadows 50 feet beyond that. The darkness and shadows overlap and smother existing sources of light. Only light produced by a 9th level spell or similarly powerful effect can negate the Darkness and shadows.
+Starting at 17th level, you can use your Action to activate a supernatural aura of deep night. It lasts for 1 minute, or until you dismiss it using another Action. You emit [[Heavily Obscured|Heavily Obscuring]] [[Darkness]] in a 30-foot radius and [[Lightly Obscured|Lightly Obscuring]] shadows 50 feet beyond that. The darkness and shadows overlap and smother existing sources of light. Only light produced by a 9th level spell or similarly powerful effect can negate the Darkness and shadows.
 
 Enemies within the shadows constantly feel the presence of hungry predators watching them and become [[Frightened]] as long as they remain inside the affected area. Enemies in the [[Darkness]] are both [[Blinded]] and Frightened for as long as they remain within its area.

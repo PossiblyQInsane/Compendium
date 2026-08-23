@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T22:49:33.950-04:00
-modified: 2026-08-19T12:12:16.898-04:00
-published: 2026-08-19T12:12:16.898-04:00
+modified: 2026-08-20T11:03:31.963-04:00
+published: 2026-08-20T11:03:31.963-04:00
 Creature Type: Plant
 Size: Small, Huge
 Alignment: Neutral
@@ -26,8 +26,6 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
 
 > [!quote|author no-i  c-white] Rivergleam, Pixie
 > Just because we protect the forest doesn’t mean it’s defenseless.
-
-### Awakened Shrub
 
 ![[Awakened Shrub]]
 

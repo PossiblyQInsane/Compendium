@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-11T11:24:50.805-04:00
-modified: 2026-08-17T15:33:17.300-04:00
-published: 2026-08-17T15:33:17.300-04:00
+modified: 2026-08-23T16:40:39.668-04:00
+published: 2026-08-23T16:40:39.668-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -126,7 +126,7 @@ You can use this feature twice before a [[Long Rest]] starting at level 13 and t
 
 ### Level 9: Tactical Master
 
-When you attack with a weapon whose mastery property you can use, you can replace that property with the [[Push]], [[Sap]], or [[Rules/Mastery Properties/Slow|Slow]] property for that attack.
+When you attack with a weapon whose mastery property you can use, you can replace that property with the [[Push]], [[Sap]], or [[Rules/Official/Mastery Properties/Slow|Slow]] property for that attack.
 
 ### Level 11: Two Extra Attacks
 

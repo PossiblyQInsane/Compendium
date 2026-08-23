@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T23:11:24.309-04:00
-modified: 2026-08-17T23:26:58.162-04:00
-published: 2026-08-17T23:26:58.162-04:00
+modified: 2026-08-23T16:40:56.540-04:00
+published: 2026-08-23T16:40:56.540-04:00
 Parent Class: "[[Cleric]]"
 Source: Tasha's Cauldron of Everything
 Official: true
@@ -55,15 +55,15 @@ You gain proficiency in the [[Insight]], [[Performance]], or [[Persuasion]] 
 
 You can forge an empowering bond among people who are at peace with one another. As an action, you choose a number of willing creatures within 30 feet of you (this can include yourself) equal to your proficiency bonus. You create a magical bond among them for 10 minutes or until you use this feature again. While any bonded creature is within 30 feet of another, the creature can roll a d4 and add the number rolled to an attack roll, an ability check, or a saving throw it makes. Each creature can add the d4 no more than once per turn.
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a [[long rest]].
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a [[Long Rest]].
 
 ### Level 2: Channel Divinity: Balm of Peace
 
-You can use your Channel Divinity to make your very presence a soothing balm. As an action, you can move up to your speed, without provoking [[opportunity attacks]], and when you move within 5 feet of any other creature during this action, you can restore a number of [[hit points]] to that creature equal to 2d6 + your Wisdom modifier (minimum of 1 hit point). A creature can receive this healing only once whenever you take this action.
+You can use your Channel Divinity to make your very presence a soothing balm. As an action, you can move up to your speed, without provoking [[Opportunity Attacks]], and when you move within 5 feet of any other creature during this action, you can restore a number of [[Hit Points]] to that creature equal to 2d6 + your Wisdom modifier (minimum of 1 hit point). A creature can receive this healing only once whenever you take this action.
 
 ### Level 6: Protective Bond
 
-The bond you forge between people helps them protect each other. When a creature affected by your Emboldening Bond feature is about to take damage, a second bonded creature within 30 feet of the first can use its [[reaction]] to teleport to an unoccupied space within 5 feet of the first creature. The second creature then takes all the damage instead.
+The bond you forge between people helps them protect each other. When a creature affected by your Emboldening Bond feature is about to take damage, a second bonded creature within 30 feet of the first can use its [[Reaction]] to teleport to an unoccupied space within 5 feet of the first creature. The second creature then takes all the damage instead.
 
 ### Level 8: Potent Spellcasting
 
@@ -71,4 +71,4 @@ You add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
 ### Level 17: Expansive Bond
 
-The benefits of your Emboldening Bond and Protective Bond features now work when the creatures are within 60 feet of each other. Moreover, when a creature uses Protective Bond to take someone else’s damage, the creature has [[resistance]] to that damage.
+The benefits of your Emboldening Bond and Protective Bond features now work when the creatures are within 60 feet of each other. Moreover, when a creature uses Protective Bond to take someone else’s damage, the creature has [[Resistance]] to that damage.

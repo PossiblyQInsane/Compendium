@@ -209,18 +209,18 @@ A Barbarian subclass is a specialization that grants you features at certain Bar
 
 ### Third Party Barbarian Subclasses
 
-| Name                                                                                               | Source                                    | Publisher                       | Edition |
-| -------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------- | ------- |
-| [[Subclasses/Third Party/Barbarian/Path of the Carrion Raven.md\|Path of the Carrion Raven]]       | Grim Hollow: The Raider's Guide to Valika | Ghostfire Gaming                | 5e      |
-| [[Subclasses/Third Party/Barbarian/Path of the Demonshard.md\|Path of the Demonshard]]             | Frontiers of Eberron: Quickstone          | Visionary Production and Design | 5.5e    |
-| [[Subclasses/Third Party/Barbarian/Path of the Experiment.md\|Path of the Experiment]]             | The Crooked Moon                          | Avantris Entertainment          | 5.5e    |
-| [[Subclasses/Third Party/Barbarian/Path of the Fractured.md\|Path of the Fractured]]               | Grim Hollow: Player's Guide               | Ghostfire Gaming                | 5.5e    |
-| [[Subclasses/Third Party/Barbarian/Path of the Glacier.md\|Path of the Glacier]]                   | The Griffon's Saddlebag: Book One         | The Griffon's Saddlebag         | 5.5e    |
-| [[Subclasses/Third Party/Barbarian/Path of the Infernal.md\|Path of the Infernal]]                 | The Griffon's Saddlebag: Book Two         | The Griffon's Saddlebag         | 5e      |
-| [[Subclasses/Third Party/Barbarian/Path of the Juggernaut.md\|Path of the Juggernaut]]             | Tal'Dorei Campaign Setting Reborn         | Darrington Press                | 5e      |
-| [[Subclasses/Third Party/Barbarian/Path of the Lightning Vessel.md\|Path of the Lightning Vessel]] | Steinhardt's Guide to the Eldritch Hunt   | MonkeyDM                        | 5.5e    |
-| [[Subclasses/Third Party/Barbarian/Path of the Muscle Wizard.md\|Path of the Muscle Wizard]]       | Valda's Spire of Secrets                  | Mage Hand Press                 | 5.5e    |
-| [[Subclasses/Third Party/Barbarian/Path of the Primal Spirit.md\|Path of the Primal Spirit]]       | Grim Hollow: Player's Guide               | Ghostfire Gaming                | 5.5e    |
-| [[Subclasses/Third Party/Barbarian/Path of the Spell Scorned.md\|Path of the Spell Scorned]]       | Cthulhu by Torchlight                     | Chaosium Inc.                   | 5.5e    |
-| [[Subclasses/Third Party/Barbarian/Path of the Titan.md\|Path of the Titan]]                       | Northlands Worldbook                      | Kobold Press                    | 5.5e    |
-| [[Subclasses/Third Party/Barbarian/Path of the Wrathful Dead.md\|Path of the Wrathful Dead]]       | Grim Hollow: Player's Guide               | Ghostfire Gaming                | 5.5e    |
+| Name                                                                                               | Source                                    | Publisher               | Edition |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------- | ----------------------- | ------- |
+| [[Subclasses/Third Party/Barbarian/Path of the Carrion Raven.md\|Path of the Carrion Raven]]       | Grim Hollow: The Raider's Guide to Valika | Ghostfire Gaming        | 5e      |
+| [[Subclasses/Third Party/Barbarian/Path of the Demonshard.md\|Path of the Demonshard]]             | Frontiers of Eberron: Quickstone          | Visionary               | 5.5e    |
+| [[Subclasses/Third Party/Barbarian/Path of the Experiment.md\|Path of the Experiment]]             | The Crooked Moon                          | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Barbarian/Path of the Fractured.md\|Path of the Fractured]]               | Grim Hollow: Player's Guide               | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Barbarian/Path of the Glacier.md\|Path of the Glacier]]                   | The Griffon's Saddlebag: Book One         | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Third Party/Barbarian/Path of the Infernal.md\|Path of the Infernal]]                 | The Griffon's Saddlebag: Book Two         | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Third Party/Barbarian/Path of the Juggernaut.md\|Path of the Juggernaut]]             | Tal'Dorei Campaign Setting Reborn         | Darrington Press        | 5e      |
+| [[Subclasses/Third Party/Barbarian/Path of the Lightning Vessel.md\|Path of the Lightning Vessel]] | Steinhardt's Guide to the Eldritch Hunt   | MonkeyDM                | 5.5e    |
+| [[Subclasses/Third Party/Barbarian/Path of the Muscle Wizard.md\|Path of the Muscle Wizard]]       | Valda's Spire of Secrets                  | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Third Party/Barbarian/Path of the Primal Spirit.md\|Path of the Primal Spirit]]       | Grim Hollow: Player's Guide               | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Barbarian/Path of the Spell Scorned.md\|Path of the Spell Scorned]]       | Cthulhu by Torchlight                     | Chaosium                | 5.5e    |
+| [[Subclasses/Third Party/Barbarian/Path of the Titan.md\|Path of the Titan]]                       | Northlands Worldbook                      | Kobold Press            | 5.5e    |
+| [[Subclasses/Third Party/Barbarian/Path of the Wrathful Dead.md\|Path of the Wrathful Dead]]       | Grim Hollow: Player's Guide               | Ghostfire Gaming        | 5.5e    |

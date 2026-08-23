@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T22:56:41.610-04:00
-modified: 2026-08-17T23:10:02.885-04:00
-published: 2026-08-17T23:10:02.885-04:00
+modified: 2026-08-23T16:40:56.401-04:00
+published: 2026-08-23T16:40:56.401-04:00
 Parent Class: "[[Cleric]]"
 Source: Guildmasters' Guide to Ravnica
 Official: true
@@ -39,7 +39,7 @@ When you choose this domain at 1st level, you gain proficiency with heavy armor.
 
 ### Level 1: Voice of Authority
 
-Starting at 1st level, you can invoke the power of law to drive an ally to attack. If you cast a spell with a spell slot of 1st level or higher and target an ally with the spell, that ally can use their [[reaction]] immediately after the spell to make one weapon attack against a creature of your choice that you can see.
+Starting at 1st level, you can invoke the power of law to drive an ally to attack. If you cast a spell with a spell slot of 1st level or higher and target an ally with the spell, that ally can use their [[Reaction]] immediately after the spell to make one weapon attack against a creature of your choice that you can see.
 
 If the spell targets more than one ally, you choose the ally who can make the attack.
 
@@ -47,15 +47,15 @@ If the spell targets more than one ally, you choose the ally who can make the at
 
 Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.
 
-As an action, you present your [[holy symbol]], and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be [[charmed]] by you until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to drop what they are holding when they fail the saving throw.
+As an action, you present your [[holy symbol]], and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be [[Charmed]] by you until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the charmed creatures to drop what they are holding when they fail the saving throw.
 
 ### Level 6: Embodiment of the Law
 
 At 6th level, you become remarkably adept at channeling magical energy to compel others.
 
-If you cast a spell of the enchantment school using a spell slot of 1st level or higher, you can change the spell’s casting time to 1 [[bonus action]] for this casting, provided the spell’s casting time is normally 1 action.
+If you cast a spell of the enchantment school using a spell slot of 1st level or higher, you can change the spell’s casting time to 1 [[Bonus Action]] for this casting, provided the spell’s casting time is normally 1 action.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a [[long rest]].
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a [[Long Rest]].
 
 ### Level 8: Divine Strike
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T23:45:55.085-04:00
-modified: 2026-08-18T12:09:20.730-04:00
-published: 2026-08-18T12:09:20.730-04:00
+modified: 2026-08-23T16:40:56.993-04:00
+published: 2026-08-23T16:40:56.993-04:00
 Parent Class: "[[Cleric]]"
 Source: Humblewood Campaign Setting
 Official: false
@@ -45,8 +45,8 @@ As a [[Magic]] action, you present your [[Holy Symbol]] and expend a use of your
 
 ### Level 6: Divine Strike
 
-You gain the ability to infuse your weapon with the power to punish wrongdoing. Once on each of your turns, when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 Psychic damage to the target. Visions of the evil they have wrought upon others flash before their eyes. You choose whether any foe reduced to 0 hit points by this attack remains [[stable]] or dies. When you reach 14th level, the extra damage increases to 2d8.
+You gain the ability to infuse your weapon with the power to punish wrongdoing. Once on each of your turns, when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 Psychic damage to the target. Visions of the evil they have wrought upon others flash before their eyes. You choose whether any foe reduced to 0 hit points by this attack remains [[Stable]] or dies. When you reach 14th level, the extra damage increases to 2d8.
 
 ### Level 17: Paragon of the People
 
-Your Community Watch grants an additional d6 to each affected ally. It also grants immunity to [[Frightened|Fear]] for the duration of the effect. Additionally, your Magnificent Feast produces twice as many foodstuffs, each of which can, when consumed, remove a single curse or disease affecting the target (including [[attunement]] to a cursed item).
+Your Community Watch grants an additional d6 to each affected ally. It also grants immunity to [[Frightened|Fear]] for the duration of the effect. Additionally, your Magnificent Feast produces twice as many foodstuffs, each of which can, when consumed, remove a single curse or disease affecting the target (including [[Attunement]] to a cursed item).

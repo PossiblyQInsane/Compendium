@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-19T10:12:34.131-04:00
-modified: 2026-08-19T10:20:07.923-04:00
-published: 2026-08-19T10:20:07.923-04:00
+modified: 2026-08-23T16:40:57.231-04:00
+published: 2026-08-23T16:40:57.231-04:00
 Name: "[[Veil of Dusk]]"
 Spell Level: Level 1
 School: Abjuration
@@ -27,4 +27,4 @@ _Level 1 Abjuration ([[Druid]], [[Warlock]])_
 
 ---
 
-You incant towards a creature, cloaking them in a shadowy veil of darkness and silence. The target gains a +1 bonus to their armor class and makes [[Stealth]] checks with [[advantage]] for the duration of the spell.
+You incant towards a creature, cloaking them in a shadowy veil of darkness and silence. The target gains a +1 bonus to their armor class and makes [[Stealth]] checks with [[Advantage]] for the duration of the spell.

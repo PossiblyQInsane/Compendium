@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T23:45:55.085-04:00
-modified: 2026-08-18T11:46:48.831-04:00
-published: 2026-08-18T11:46:48.831-04:00
+modified: 2026-08-23T16:40:56.674-04:00
+published: 2026-08-23T16:40:56.674-04:00
 Parent Class: "[[Cleric]]"
 Source: "The Griffon's Saddlebag: Book Two"
 Official: false
@@ -38,21 +38,21 @@ When you choose this domain at 1st level, you gain proficiency with heavy armor,
 
 ### Level 1: Table-Turner
 
-At 1st level, you can cause an attacker’s own body to turn against itself. When a creature within 5 feet of you that you can see hits you with an attack, you can use your [[reaction]] to cause the creature to make a Constitution saving throw against your cleric spell save DC. On a failed save, the creature takes 1d12 poison damage and is [[poisoned]] until the end of its next turn. On a successful one, it takes half as much poison damage and isn’t poisoned.
+At 1st level, you can cause an attacker’s own body to turn against itself. When a creature within 5 feet of you that you can see hits you with an attack, you can use your [[Reaction]] to cause the creature to make a Constitution saving throw against your cleric spell save DC. On a failed save, the creature takes 1d12 poison damage and is [[Poisoned]] until the end of its next turn. On a successful one, it takes half as much poison damage and isn’t poisoned.
 
-You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a [[long rest]].
+You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a [[Long Rest]].
 
 ### Level 2: Channel Divinity: Create Healing Draft
 
-Starting at 2nd level, you can use your Channel Divinity as an action to create a small and magically concentrated potion called a healing draft. The potion appears in a small glass bottle in your free hand or at your feet (your choice), and is a deep blue color with flecks of gold. A creature that uses a [[bonus action]] to drink this potion regains a number of hit points equal to 2d6 + your cleric level. The bottle and any undrunk healing draft turns to dust and is lost when you finish a [[short rest|short]] or [[long rest]].
+Starting at 2nd level, you can use your Channel Divinity as an action to create a small and magically concentrated potion called a healing draft. The potion appears in a small glass bottle in your free hand or at your feet (your choice), and is a deep blue color with flecks of gold. A creature that uses a [[Bonus Action]] to drink this potion regains a number of hit points equal to 2d6 + your cleric level. The bottle and any undrunk healing draft turns to dust and is lost when you finish a [[Short Rest|short]] or [[Long Rest]].
 
 ### Level 6: Strong Stomach
 
-Starting at 6th level, your divinity and magically enhanced constitution have strengthened your natural defenses. You have [[advantage]] on saving throws against poison, and you have [[resistance]] to acid and poison damage.
+Starting at 6th level, your divinity and magically enhanced constitution have strengthened your natural defenses. You have [[Advantage]] on saving throws against poison, and you have [[Resistance]] to acid and poison damage.
 
 In addition, whenever you cast the _[[Create Food and Water]]_ spell, the food tastes delicious, and you can choose to replace up to 5 gallons of the water created by the spell with ale or wine. You choose what the food and ale or wine look and taste like.
 
-Finally, if you’re drunk or [[poisoned]], you can use an action to magically suppress the effect for 1 minute. Once you use this feature, you can’t use it again until you finish a [[long rest]].
+Finally, if you’re drunk or [[Poisoned]], you can use an action to magically suppress the effect for 1 minute. Once you use this feature, you can’t use it again until you finish a [[Long Rest]].
 
 ### Level 8: Divine Strike
 
@@ -60,6 +60,6 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 
 ### Level 17: Invigorating Feast
 
-At 17th level, you can say a special prayer before eating a meal to enchant it and other food of your choice within 30 feet of you with unique protections. A creature that eats this enchanted food over the next 10 minutes gains 2d6 + 10 [[temporary hit points]], is immune to being [[charmed]], and can’t be put to sleep by magic. These benefits last for 8 hours and don’t set in until these 10 minutes are over. You and up to six other willing creatures of your choice gain these benefits by partaking in the meal.
+At 17th level, you can say a special prayer before eating a meal to enchant it and other food of your choice within 30 feet of you with unique protections. A creature that eats this enchanted food over the next 10 minutes gains 2d6 + 10 [[Temporary Hit Points]], is immune to being [[Charmed]], and can’t be put to sleep by magic. These benefits last for 8 hours and don’t set in until these 10 minutes are over. You and up to six other willing creatures of your choice gain these benefits by partaking in the meal.
 
-Once you use this feature, you can’t use it again until you finish a [[long rest]].
+Once you use this feature, you can’t use it again until you finish a [[Long Rest]].

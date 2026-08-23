@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T22:34:08.211-04:00
-modified: 2026-08-17T22:51:10.701-04:00
-published: 2026-08-17T22:51:10.701-04:00
+modified: 2026-08-23T16:40:56.352-04:00
+published: 2026-08-23T16:40:56.352-04:00
 Parent Class: "[[Cleric]]"
 Source: Xanathar's Guide to Everything
 Official: true
@@ -39,9 +39,9 @@ When you choose this domain at 1st level, you gain proficiency with heavy armor 
 
 ### Level 1: Blessing of the Forge
 
-At 1st level, you gain the ability to imbue magic into a weapon or armor. At the end of a [[long rest]], you can touch one nonmagical object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to AC if it’s armor or a +1 bonus to attack and damage rolls if it’s a weapon.
+At 1st level, you gain the ability to imbue magic into a weapon or armor. At the end of a [[Long Rest]], you can touch one nonmagical object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes a magic item, granting a +1 bonus to AC if it’s armor or a +1 bonus to attack and damage rolls if it’s a weapon.
 
-Once you use this feature, you can’t use it again until you finish a [[long rest]].
+Once you use this feature, you can’t use it again until you finish a [[Long Rest]].
 
 ### Level 2: Channel Divinity: Artisan’s Blessing
 
@@ -57,7 +57,7 @@ The ritual can create a duplicate of a nonmagical item that contains metal, such
 
 Starting at 6th level, your mastery of the forge grants you special abilities:
 
-- You gain [[resistance]] to fire damage.
+- You gain [[Resistance]] to fire damage.
 - While wearing heavy armor, you gain a +1 bonus to AC.
 
 ### Level 8: Divine Strike
@@ -68,5 +68,5 @@ At 8th level, you gain the ability to infuse your weapon strikes with the fiery 
 
 At 17th level, your blessed affinity with fire and metal becomes more powerful:
 
-- You gain [[immunity]] to fire damage.
-- While wearing heavy armor, you have [[resistance]] to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+- You gain [[Immunity]] to fire damage.
+- While wearing heavy armor, you have [[Resistance]] to bludgeoning, piercing, and slashing damage from nonmagical attacks.

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T18:43:17.396-04:00
-modified: 2026-08-17T16:10:21.788-04:00
-published: 2026-08-17T16:10:21.788-04:00
+modified: 2026-08-23T16:40:56.242-04:00
+published: 2026-08-23T16:40:56.242-04:00
 Category: Armor
 Rarity: Rare
 Attunement: true
@@ -17,7 +17,7 @@ _Armor (Any Light, Medium, or Heavy), Rare (Requires Attunement)_
 
 ---
 
-You have [[Rules/Resistance|Resistance]] to one type of damage while you wear this armor. The DM chooses the type or determines it randomly by rolling on the following table.
+You have [[Resistance|Resistance]] to one type of damage while you wear this armor. The DM chooses the type or determines it randomly by rolling on the following table.
 
 | **1d10** | **Damage Type** |
 | ---- | ----------- |

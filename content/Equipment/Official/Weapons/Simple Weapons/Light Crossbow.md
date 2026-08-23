@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T18:12:09.569-04:00
-modified: 2026-08-17T16:08:14.484-04:00
-published: 2026-08-17T16:08:14.484-04:00
+modified: 2026-08-23T16:40:40.122-04:00
+published: 2026-08-23T16:40:40.122-04:00
 Category: Simple Ranged Weapons
 Damage: 1d8 Piercing
 Properties: Ammunition (Range 80/320; Bolt), Loading, Two-Handed
@@ -34,4 +34,4 @@ _Simple Ranged Weapon_
 
 **[[Mastery Properties|Mastery]]:**
 
-- [[Rules/Mastery Properties/Slow|Slow]]: If you hit a creature with this weapon and deal damage to it, you can reduce its [[Speed]] by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn’t exceed 10 feet.
+- [[Rules/Official/Mastery Properties/Slow|Slow]]: If you hit a creature with this weapon and deal damage to it, you can reduce its [[Speed]] by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn’t exceed 10 feet.

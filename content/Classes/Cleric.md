@@ -718,20 +718,21 @@ A Cleric subclass is a specialization that grants you features at certain Cleric
 
 ### Third Party Cleric Subclasses
 
-| Name                                                                          | Source                            | Publisher                       | Edition |
-| ----------------------------------------------------------------------------- | --------------------------------- | ------------------------------- | ------- |
-| [[Subclasses/Third Party/Cleric/Apocalypse Domain.md\|Apocalypse Domain]]     | Cthulhu by Torchlight             | Chaosium Inc.                   | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Astral Domain.md\|Astral Domain]]             | The Griffon's Saddlebag: Book One | The Griffon's Saddlebag         | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Blood Domain.md\|Blood Domain]]               | Tal'Dorei Campaign Setting Reborn | Darrington Press                | 5e      |
-| [[Subclasses/Third Party/Cleric/Commerce Domain.md\|Commerce Domain]]         | Frontiers of Eberron: Quickstone  | Visionary Production and Design | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Community Domain.md\|Community Domain]]       | Humblewood Campaign Setting       | Hit Point Press                 | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Dragon Domain.md\|Dragon Domain]]             | Valda's Spire of Secrets          | Mage Hand Press                 | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Eldritch Domain.md\|Eldritch Domain]]         | Grim Hollow: Player's Guide       | Ghostfire Gaming                | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Festus Domain.md\|Festus Domain]]             | The Griffon's Saddlebag: Book Two | The Griffon's Saddlebag         | 5e      |
-| [[Subclasses/Third Party/Cleric/Harvest Domain.md\|Harvest Domain]]           | The Crooked Moon                  | Avantris Entertainment          | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Inquisition Domain.md\|Inquisition Domain]]   | Grim Hollow: Player's Guide       | Ghostfire Gaming                | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Mind Domain.md\|Mind Domain]]                 | Exploring Eberron                 | Visionary Production and Design | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Moon Domain.md\|Moon Domain]]                 | Tal'Dorei Campaign Setting Reborn | Darrington Press                | 5e      |
-| [[Subclasses/Third Party/Cleric/Night Domain.md\|Night Domain]]               | Humblewood Campaign Setting       | Hit Point Press                 | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Nornbound.md\|Nornbound]]                     | Northlands Worldbook              | Kobold Press                    | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Purification Domain.md\|Purification Domain]] | Grim Hollow: Player's Guide       | Ghostfire Gaming                | 5.5e    |
+| Name                                                                          | Source                             | Publisher               | Edition |
+| ----------------------------------------------------------------------------- | ---------------------------------- | ----------------------- | ------- |
+| [[Subclasses/Third Party/Cleric/Apocalypse Domain.md\|Apocalypse Domain]]     | Cthulhu by Torchlight              | Chaosium                | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Astral Domain.md\|Astral Domain]]             | The Griffon's Saddlebag: Book One  | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Blood Domain.md\|Blood Domain]]               | Tal'Dorei Campaign Setting Reborn  | Darrington Press        | 5e      |
+| [[Subclasses/Third Party/Cleric/Commerce Domain.md\|Commerce Domain]]         | Frontiers of Eberron: Quickstone   | Visionary               | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Community Domain.md\|Community Domain]]       | Humblewood Campaign Setting        | Hit Point Press         | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Dragon Domain.md\|Dragon Domain]]             | Valda's Spire of Secrets           | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Eldritch Domain.md\|Eldritch Domain]]         | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Festus Domain.md\|Festus Domain]]             | The Griffon's Saddlebag: Book Two  | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Third Party/Cleric/Harvest Domain.md\|Harvest Domain]]           | The Crooked Moon                   | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Hunt Domain.md\|Hunt Domain]]                 | Heliana's Guide to Monster Hunting | Loot Tavern             | 5e      |
+| [[Subclasses/Third Party/Cleric/Inquisition Domain.md\|Inquisition Domain]]   | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Mind Domain.md\|Mind Domain]]                 | Exploring Eberron                  | Visionary               | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Moon Domain.md\|Moon Domain]]                 | Tal'Dorei Campaign Setting Reborn  | Darrington Press        | 5e      |
+| [[Subclasses/Third Party/Cleric/Night Domain.md\|Night Domain]]               | Humblewood Campaign Setting        | Hit Point Press         | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Nornbound.md\|Nornbound]]                     | Northlands Worldbook               | Kobold Press            | 5.5e    |
+| [[Subclasses/Third Party/Cleric/Purification Domain.md\|Purification Domain]] | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |

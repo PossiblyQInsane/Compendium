@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-10T13:17:36.607-04:00
-modified: 2026-08-17T17:37:09.507-04:00
-published: 2026-08-17T17:37:09.507-04:00
+modified: 2026-08-23T16:40:40.363-04:00
+published: 2026-08-23T16:40:40.363-04:00
 Parent Class: "[[Druid]]"
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false
@@ -62,6 +62,6 @@ In addition, while your Wickerbone Behemoth feature is active, your size is Larg
 
 ### Level 14: Briarheart
 
-Your fusion is complete, and your heart is absorbed, its sacrifice making way for a new heart—one that can fully channel the rage of the natural world. While you are a behemoth of your Wickerbone Behemoth feature, you can use the [[Nick]] mastery property in addition to the [[Rules/Mastery Properties/Slow|Slow]] mastery property with your arms.
+Your fusion is complete, and your heart is absorbed, its sacrifice making way for a new heart—one that can fully channel the rage of the natural world. While you are a behemoth of your Wickerbone Behemoth feature, you can use the [[Nick]] mastery property in addition to the [[Rules/Official/Mastery Properties/Slow|Slow]] mastery property with your arms.
 
 In addition, if you take the [[Attack]] action on your turn, you can take a [[Bonus Action]] to cast any [[Spells.base#Osteomancy Spells|Osteomancy spell]] that has a casting time of an action.
