@@ -1,8 +1,12 @@
 ---
 publish: true
+aliases:
+  - Hit Point Die
+  - Hit Dice
+  - Hit Die
 created: 2026-08-02T12:36:52.766-04:00
-modified: 2026-08-17T15:46:51.693-04:00
-published: 2026-08-17T15:46:51.693-04:00
+modified: 2026-08-23T23:53:53.471-04:00
+published: 2026-08-23T23:53:53.471-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

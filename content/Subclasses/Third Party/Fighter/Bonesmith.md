@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T00:19:26.681-04:00
-modified: 2026-08-17T17:43:14.083-04:00
-published: 2026-08-17T17:43:14.083-04:00
+modified: 2026-08-24T00:36:12.449-04:00
+published: 2026-08-24T00:36:12.449-04:00
 Parent Class: "[[Fighter]]"
 Source: Dr. Dhrolin's Dictionary of Dinosaurs
 Official: false
@@ -12,13 +12,15 @@ Edition: 5.5e
 
 <div align="right" style="font-style: italic; margin-top: 0;">Dr. Dhrolin's Dictionary of Dinosaurs<br>Palaeo Games</div>
 
-![[Images/Bonesmith.jpg|left|354]]
+> [!caption|sban wm-tall]
+> ![[Images/Bonesmith.jpg]]
+> “Most blacksmiths sculpt metal… This one chooses a more grizzly material.”
 
 This gory reimagining of a blacksmith makes armour, weapons, and trinkets from the carcasses of slain great creatures. Through a combination of muscle and necromantic magic, they are able to create fearsome weapons, armour, and fighting companions.
 
 ### Level 3: Spellcasting
 
-Bonesmiths use a combination of physical prowess, anatomical knowledge, and necromantic magic to create their gruesome armaments. As a byproduct of this, they have developed a knack to cast certain spells. The information below details how you as a Bonesmith can cast spells. Full details regarding spellcasting can be found in [[Spellcasting Rules|Spellcasting]].
+Bonesmiths use a combination of physical prowess, anatomical knowledge, and necromantic magic to create their gruesome armaments. As a byproduct of this, they have developed a knack to cast certain spells. The information below details how you as a Bonesmith can cast spells. Full details regarding spellcasting can be found in [[Spellcasting|Spellcasting]].
 
 _**Cantrips.**_ You know the _[[Poison Spray]]_, _[[Mending]]_, and _[[Spare the Dying]]_ cantrips.
 

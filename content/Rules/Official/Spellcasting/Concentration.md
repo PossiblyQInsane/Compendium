@@ -1,8 +1,11 @@
 ---
 publish: true
+aliases:
+  - Concentrate
+  - Concentrates
 created: 2026-07-25T21:03:33.246-04:00
-modified: 2026-08-17T15:46:49.974-04:00
-published: 2026-08-17T15:46:49.974-04:00
+modified: 2026-08-23T23:36:13.629-04:00
+published: 2026-08-23T23:36:13.629-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

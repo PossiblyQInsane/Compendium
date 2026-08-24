@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - climbing speed
 created: 2026-07-31T10:35:30.557-04:00
-modified: 2026-08-17T15:46:49.880-04:00
-published: 2026-08-17T15:46:49.880-04:00
+modified: 2026-08-23T23:37:29.085-04:00
+published: 2026-08-23T23:37:29.085-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

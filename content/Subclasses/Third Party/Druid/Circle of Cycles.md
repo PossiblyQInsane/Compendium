@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-09T10:27:29.080-04:00
-modified: 2026-08-17T17:43:01.049-04:00
-published: 2026-08-17T17:43:01.049-04:00
+modified: 2026-08-23T23:23:16.590-04:00
+published: 2026-08-23T23:23:16.590-04:00
 Parent Class: "[[Druid]]"
 Source: Dr. Dhrolin's Dictionary of Dinosaurs
 Official: false
@@ -11,8 +11,9 @@ Edition: 5.5e
 ---
 
 <div align="right" style="font-style: italic; margin-top: 0;">Dr. Dhrolin's Dictionary of Dinosaurs<br>Palaeo Games</div>
-
-![[Images/Circle of Cycles.png|right|328]]
+> [!caption|right ws-med]
+> ![[Circle of Cycles.png]]
+> “The Circle of Cycles observe the evolution of all creatures, great and small.”
 
 A druidic circle whom venerate the passage of time itself. They read the sun, moon, stars, and seasons to glimpse into the future and delve into the past. They wish to see the aeons pass with their own eyes and value longevity above all else.
 

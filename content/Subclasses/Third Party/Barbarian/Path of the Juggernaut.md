@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T14:48:46.441-04:00
-modified: 2026-08-17T17:35:53.419-04:00
-published: 2026-08-17T17:35:53.419-04:00
+modified: 2026-08-23T23:25:44.308-04:00
+published: 2026-08-23T23:25:44.308-04:00
 Parent Class: "[[Barbarian]]"
 Source: Tal'Dorei Campaign Setting Reborn
 Official: false

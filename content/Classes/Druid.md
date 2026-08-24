@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T10:07:32.423-04:00
-modified: 2026-08-20T11:06:26.771-04:00
-published: 2026-08-20T11:06:26.771-04:00
+modified: 2026-08-24T01:50:05.366-04:00
+published: 2026-08-24T01:50:05.366-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -52,36 +52,376 @@ As a Druid, you gain the following class features when you reach the specified D
 
 ##### Druid Features
 
-<div align="right" style="font-size: 80%">
-—Spell Slots per Spell Level—
+<div style="overflow-x: auto;">
+<table>
+  <tbody>
+    <tr>
+      <th rowspan="2" data-better-raw="Level" style="text-align: center">Level</th>
+      <th rowspan="2" data-better-raw="Profociency Bonus" style="text-align: center">Profociency Bonus</th>
+      <th rowspan="2" data-better-raw="Class Features">Class Features</th>
+      <th rowspan="2" data-better-raw="Wild Shape" style="text-align: center">Wild Shape</th>
+      <th rowspan="2" data-better-raw="Cantrips" style="text-align: center">Cantrips</th>
+      <th rowspan="2" data-better-raw="Prepared Spells" style="text-align: center">Prepared Spells</th>
+      <th colspan="9" data-better-raw="—Spell Slots per Spell Level—" style="text-align: center">—Spell Slots per Spell Level—</th>
+    </tr>
+    <tr>
+      <th data-better-raw="1" style="text-align: center">1</th>
+      <th data-better-raw="2" style="text-align: center">2</th>
+      <th data-better-raw="3" style="text-align: center">3</th>
+      <th data-better-raw="4" style="text-align: center">4</th>
+      <th data-better-raw="5" style="text-align: center">5</th>
+      <th data-better-raw="6" style="text-align: center">6</th>
+      <th data-better-raw="7" style="text-align: center">7</th>
+      <th data-better-raw="8" style="text-align: center">8</th>
+      <th data-better-raw="9" style="text-align: center">9</th>
+    </tr>
+    <tr>
+      <th data-better-raw="1" style="text-align: center">1</th>
+      <td data-better-raw="+2" style="text-align: center">+2</td>
+      <td data-better-raw="Spellcasting, Druidic, Primal Order">Spellcasting, Druidic, Primal Order</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <th data-better-raw="2" style="text-align: center">2</th>
+      <td data-better-raw="+2" style="text-align: center">+2</td>
+      <td data-better-raw="Wild Shape, Wild Companion">Wild Shape, Wild Companion</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="5" style="text-align: center">5</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <th data-better-raw="3" style="text-align: center">3</th>
+      <td data-better-raw="+2" style="text-align: center">+2</td>
+      <td data-better-raw="Druid Subclass">Druid Subclass</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="6" style="text-align: center">6</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <th data-better-raw="4" style="text-align: center">4</th>
+      <td data-better-raw="+2" style="text-align: center">+2</td>
+      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="7" style="text-align: center">7</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <th data-better-raw="5" style="text-align: center">5</th>
+      <td data-better-raw="+3" style="text-align: center">+3</td>
+      <td data-better-raw="Wild Resurgence">Wild Resurgence</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="9" style="text-align: center">9</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <th data-better-raw="6" style="text-align: center">6</th>
+      <td data-better-raw="+3" style="text-align: center">+3</td>
+      <td data-better-raw="Subclass feature">Subclass feature</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="10" style="text-align: center">10</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <th data-better-raw="7" style="text-align: center">7</th>
+      <td data-better-raw="+3" style="text-align: center">+3</td>
+      <td data-better-raw="Elemental Fury">Elemental Fury</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="11" style="text-align: center">11</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <th data-better-raw="8" style="text-align: center">8</th>
+      <td data-better-raw="+3" style="text-align: center">+3</td>
+      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="12" style="text-align: center">12</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <th data-better-raw="9" style="text-align: center">9</th>
+      <td data-better-raw="+4" style="text-align: center">+4</td>
+      <td data-better-raw="—">—</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="14" style="text-align: center">14</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <th data-better-raw="10" style="text-align: center">10</th>
+      <td data-better-raw="+4" style="text-align: center">+4</td>
+      <td data-better-raw="Subclass feature">Subclass feature</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="15" style="text-align: center">15</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <th data-better-raw="11" style="text-align: center">11</th>
+      <td data-better-raw="+4" style="text-align: center">+4</td>
+      <td data-better-raw="—">—</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="16" style="text-align: center">16</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <th data-better-raw="12" style="text-align: center">12</th>
+      <td data-better-raw="+4" style="text-align: center">+4</td>
+      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="16" style="text-align: center">16</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <th data-better-raw="13" style="text-align: center">13</th>
+      <td data-better-raw="+5" style="text-align: center">+5</td>
+      <td data-better-raw="—">—</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="17" style="text-align: center">17</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <th data-better-raw="14" style="text-align: center">14</th>
+      <td data-better-raw="+5" style="text-align: center">+5</td>
+      <td data-better-raw="Subclass feature">Subclass feature</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="17" style="text-align: center">17</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <th data-better-raw="15" style="text-align: center">15</th>
+      <td data-better-raw="+5" style="text-align: center">+5</td>
+      <td data-better-raw="Improved Elemental Fury">Improved Elemental Fury</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="18" style="text-align: center">18</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <th data-better-raw="16" style="text-align: center">16</th>
+      <td data-better-raw="+5" style="text-align: center">+5</td>
+      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="18" style="text-align: center">18</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="—" style="text-align: center">—</td>
+    </tr>
+    <tr>
+      <th data-better-raw="17" style="text-align: center">17</th>
+      <td data-better-raw="+6" style="text-align: center">+6</td>
+      <td data-better-raw="—">—</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="19" style="text-align: center">19</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <th data-better-raw="18" style="text-align: center">18</th>
+      <td data-better-raw="+6" style="text-align: center">+6</td>
+      <td data-better-raw="Beast Spells">Beast Spells</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="20" style="text-align: center">20</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <th data-better-raw="19" style="text-align: center">19</th>
+      <td data-better-raw="+6" style="text-align: center">+6</td>
+      <td data-better-raw="Epic Boon">Epic Boon</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="21" style="text-align: center">21</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <th data-better-raw="20" style="text-align: center">20</th>
+      <td data-better-raw="+6" style="text-align: center">+6</td>
+      <td data-better-raw="Archdruid">Archdruid</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="22" style="text-align: center">22</td>
+      <td data-better-raw="4" style="text-align: center">4</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="3" style="text-align: center">3</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="2" style="text-align: center">2</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+      <td data-better-raw="1" style="text-align: center">1</td>
+    </tr>
+  </tbody>
+</table>
 </div>
-
-| Level | Profociency Bonus | Class Features                                                                                                                 | Wild Shape | Cantrips | Prepared Spells |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
-| :---: | :---------------: | :----------------------------------------------------------------------------------------------------------------------------- | :--------: | :------: | :-------------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|   1   |        +2         | [[Druid#Level 1 Spellcasting\|Spellcasting]], [[Druid#Level 1 Druidic\|Druidic]], [[Druid#Level 1 Primal Order\|Primal Order]] |    ---     |    2     |        4        |  2  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   2   |        +2         | [[Druid#Level 2 Wild Shape\|Wild Shape]], [[#Level 2 Wild Companion\|Wild Companion]]                                          |     2      |    2     |        5        |  3  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   3   |        +2         | [[#Level 3 Druid Subclass\|Druid Subclass]]                                                                                    |     2      |    2     |        6        |  4  |  2  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   4   |        +2         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                              |     2      |    3     |        7        |  4  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   5   |        +3         | [[#Level 5 Wild Resurgence\|Wild Resurgence]]                                                                                  |     2      |    3     |        9        |  4  |  3  |  2  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   6   |        +3         | Subclass feature                                                                                                               |     3      |    3     |       10        |  4  |  3  |  3  |  —  |  —  |  —  |  —  |  —  |  —  |
-|   7   |        +3         | [[#Level 7 Elemental Fury\|Elemental Fury]]                                                                                    |     3      |    3     |       11        |  4  |  3  |  3  |  1  |  —  |  —  |  —  |  —  |  —  |
-|   8   |        +3         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                              |     3      |    3     |       12        |  4  |  3  |  3  |  2  |  —  |  —  |  —  |  —  |  —  |
-|   9   |        +4         | ---                                                                                                                            |     3      |    3     |       14        |  4  |  3  |  3  |  3  |  1  |  —  |  —  |  —  |  —  |
-|  10   |        +4         | Subclass feature                                                                                                               |     3      |    4     |       15        |  4  |  3  |  3  |  3  |  2  |  —  |  —  |  —  |  —  |
-|  11   |        +4         | —                                                                                                                              |     3      |    4     |       16        |  4  |  3  |  3  |  3  |  2  |  1  |  —  |  —  |  —  |
-|  12   |        +4         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                              |     3      |    4     |       16        |  4  |  3  |  3  |  3  |  2  |  1  |  —  |  —  |  —  |
-|  13   |        +5         | —                                                                                                                              |     3      |    4     |       17        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  —  |  —  |
-|  14   |        +5         | Subclass feature                                                                                                               |     3      |    4     |       17        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  —  |  —  |
-|  15   |        +5         | [[#Level 15 Improved Elemental Fury\|Improved Elemental Fury]]                                                                 |     3      |    4     |       18        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  —  |
-|  16   |        +5         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                              |     3      |    4     |       18        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  —  |
-|  17   |        +6         | ---                                                                                                                            |     4      |    4     |       19        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  1  |
-|  18   |        +6         | [[#Level 18 Beast Spells\|Beast Spells]]                                                                                       |     4      |    4     |       20        |  4  |  3  |  3  |  3  |  3  |  1  |  1  |  1  |  1  |
-|  19   |        +6         | [[#Level 19 Epic Boon\|Epic Boon]]                                                                                             |     4      |    4     |       21        |  4  |  3  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |
-|  20   |        +6         | [[#Level 20 Archdruid\|Archdruid]]                                                                                             |     4      |    4     |       22        |  4  |  3  |  3  |  3  |  3  |  2  |  2  |  1  |  1  |
 
 ### Level 1: Spellcasting
 
-You have learned to cast spells through studying the mystical forces of nature. See [[Spellcasting Rules|Spellcasting]] for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the [[Druid#Druid Spell List|Druid spell list]] later in the class’s description.
+You have learned to cast spells through studying the mystical forces of nature. See [[Spellcasting|Spellcasting]] for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the [[Druid#Druid Spell List|Druid spell list]] later in the class’s description.
 
 _**Cantrips.**_ You know two cantrips of your choice from the [[Druid#Druid Spell List|Druid spell list]]. _[[Druidcraft]]_ and _[[Produce Flame]]_ are recommended.
 
@@ -301,26 +641,30 @@ This section presents the Druid spell list. The spells are organized by spell le
 
 ### Level 3 Druid Spells
 
-| Name                                                                                   | School        | Special | Source                            |
-| -------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
-| _[[Spells/Official/Level 3 Spells/Aura of Vitality.md\|Aura of Vitality]]_             | Abjuration    | C       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 3 Spells/Call Lightning.md\|Call Lightning]]_                 | Conjuration   | C       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 3 Spells/Conjure Animals.md\|Conjure Animals]]_               | Conjuration   | C       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 3 Spells/Daylight.md\|Daylight]]_                             | Evocation     | —       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 3 Spells/Dispel Magic.md\|Dispel Magic]]_                     | Abjuration    | —       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 3 Spells/Elemental Weapon.md\|Elemental Weapon]]_             | Transmutation | C       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 3 Spells/Feign Death.md\|Feign Death]]_                       | Necromancy    | R       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 3 Spells/Flame Arrows.md\|Flame Arrows]]_                     | Transmutation | C       | Elemental Evil Player's Companion |
-| _[[Spells/Official/Level 3 Spells/Meld into Stone.md\|Meld into Stone]]_               | Transmutation | R       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 3 Spells/Plant Growth.md\|Plant Growth]]_                     | Transmutation | —       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 3 Spells/Protection from Energy.md\|Protection from Energy]]_ | Abjuration    | C       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 3 Spells/Revivify.md\|Revivify]]_                             | Necromancy    | M       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 3 Spells/Sleet Storm.md\|Sleet Storm]]_                       | Conjuration   | C       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 3 Spells/Speak with Plants.md\|Speak with Plants]]_           | Transmutation | —       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 3 Spells/Summon Fey.md\|Summon Fey]]_                         | Conjuration   | C, M    | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 3 Spells/Water Breathing.md\|Water Breathing]]_               | Transmutation | R       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 3 Spells/Water Walk.md\|Water Walk]]_                         | Transmutation | R       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 3 Spells/Wind Wall.md\|Wind Wall]]_                           | Evocation     | C       | Player's Handbook 5.5e            |
+| Name                                                                                   | School        | Special | Source                             |
+| -------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- |
+| _[[Spells/Official/Level 3 Spells/Aura of Vitality.md\|Aura of Vitality]]_             | Abjuration    | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Call Lightning.md\|Call Lightning]]_                 | Conjuration   | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Conjure Animals.md\|Conjure Animals]]_               | Conjuration   | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Daylight.md\|Daylight]]_                             | Evocation     | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Dispel Magic.md\|Dispel Magic]]_                     | Abjuration    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Elemental Weapon.md\|Elemental Weapon]]_             | Transmutation | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Erupting Earth.md\|Erupting Earth]]_                 | Transmutation | —       | Elemental Evil Player's Companion  |
+| _[[Spells/Official/Level 3 Spells/Feign Death.md\|Feign Death]]_                       | Necromancy    | R       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Flame Arrows.md\|Flame Arrows]]_                     | Transmutation | C       | Elemental Evil Player's Companion  |
+| _[[Spells/Official/Level 3 Spells/Meld into Stone.md\|Meld into Stone]]_               | Transmutation | R       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Plant Growth.md\|Plant Growth]]_                     | Transmutation | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Protection from Energy.md\|Protection from Energy]]_ | Abjuration    | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Revivify.md\|Revivify]]_                             | Necromancy    | M       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Sleet Storm.md\|Sleet Storm]]_                       | Conjuration   | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Speak with Plants.md\|Speak with Plants]]_           | Transmutation | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Summon Fey.md\|Summon Fey]]_                         | Conjuration   | C, M    | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Syluné’s Viper.md\|Syluné’s Viper]]_                 | Conjuration   | —       | Forgotten Realms: Heroes of Faerûn |
+| _[[Spells/Official/Level 3 Spells/Tidal Wave.md\|Tidal Wave]]_                         | Conjuration   | —       | Elemental Evil Player's Companion  |
+| _[[Spells/Official/Level 3 Spells/Wall of Water.md\|Wall of Water]]_                   | Evocation     | C       | Elemental Evil Player's Companion  |
+| _[[Spells/Official/Level 3 Spells/Water Breathing.md\|Water Breathing]]_               | Transmutation | R       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Water Walk.md\|Water Walk]]_                         | Transmutation | R       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Wind Wall.md\|Wind Wall]]_                           | Evocation     | C       | Player's Handbook 5.5e             |
 
 ### Level 4 Druid Spells
 
@@ -340,6 +684,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 4 Spells/Freedom of Movement.md\|Freedom of Movement]]_           | Abjuration    | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 4 Spells/Giant Insect.md\|Giant Insect]]_                         | Conjuration   | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 4 Spells/Grasping Vine.md\|Grasping Vine]]_                       | Conjuration   | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 4 Spells/Guardian of Nature.md\|Guardian of Nature]]_             | Transmutation | C       | Xanathar's Guide to Everything    |
 | _[[Spells/Official/Level 4 Spells/Hallucinatory Terrain.md\|Hallucinatory Terrain]]_       | Illusion      | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 4 Spells/Ice Storm.md\|Ice Storm]]_                               | Evocation     | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 4 Spells/Locate Creature.md\|Locate Creature]]_                   | Divination    | C       | Player's Handbook 5.5e            |
@@ -349,54 +694,69 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 4 Spells/Stoneskin.md\|Stoneskin]]_                               | Transmutation | C, M    | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 4 Spells/Summon Elemental.md\|Summon Elemental]]_                 | Conjuration   | C, M    | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 4 Spells/Wall of Fire.md\|Wall of Fire]]_                         | Evocation     | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 4 Spells/Watery Sphere.md\|Watery Sphere]]_                       | Conjuration   | C       | Elemental Evil Player's Companion |
 
 ### Level 5 Druid Spells
 
-| Name                                                                                 | School        | Special | Source                             |
-| ------------------------------------------------------------------------------------ | ------------- | ------- | ---------------------------------- |
-| _[[Spells/Official/Level 5 Spells/Alustriel's Mooncloak.md\|Alustriel's Mooncloak]]_ | Abjuration    | C, M    | Forgotten Realms: Heroes of Faerûn |
-| _[[Spells/Official/Level 5 Spells/Antilife Shell.md\|Antilife Shell]]_               | Abjuration    | C       | Player's Handbook 5.5e             |
-| _[[Spells/Official/Level 5 Spells/Awaken.md\|Awaken]]_                               | Transmutation | M       | Player's Handbook 5.5e             |
-| _[[Spells/Official/Level 5 Spells/Commune with Nature.md\|Commune with Nature]]_     | Divination    | R       | Player's Handbook 5.5e             |
-| _[[Spells/Official/Level 5 Spells/Cone of Cold.md\|Cone of Cold]]_                   | Evocation     | —       | Player's Handbook 5.5e             |
-| _[[Spells/Official/Level 5 Spells/Conjure Elemental.md\|Conjure Elemental]]_         | Conjuration   | C       | Player's Handbook 5.5e             |
-| _[[Spells/Official/Level 5 Spells/Contagion.md\|Contagion]]_                         | Necromancy    | —       | Player's Handbook 5.5e             |
-| _[[Spells/Official/Level 5 Spells/Geas.md\|Geas]]_                                   | Enchantment   | —       | Player's Handbook 5.5e             |
-| _[[Spells/Official/Level 5 Spells/Greater Restoration.md\|Greater Restoration]]_     | Abjuration    | M       | Player's Handbook 5.5e             |
-| _[[Spells/Official/Level 5 Spells/Insect Plague.md\|Insect Plague]]_                 | Conjuration   | C       | Player's Handbook 5.5e             |
-| _[[Spells/Official/Level 5 Spells/Mass Cure Wounds.md\|Mass Cure Wounds]]_           | Abjuration    | —       | Player's Handbook 5.5e             |
-| _[[Spells/Official/Level 5 Spells/Planar Binding.md\|Planar Binding]]_               | Abjuration    | M       | Player's Handbook 5.5e             |
-| _[[Spells/Official/Level 5 Spells/Reincarnate.md\|Reincarnate]]_                     | Necromancy    | M       | Player's Handbook 5.5e             |
-| _[[Spells/Official/Level 5 Spells/Scrying.md\|Scrying]]_                             | Divination    | C, M    | Player's Handbook 5.5e             |
-| _[[Spells/Official/Level 5 Spells/Transmute Rock.md\|Transmute Rock]]_               | Transmutation | —       | Elemental Evil Player's Companion  |
-| _[[Spells/Official/Level 5 Spells/Tree Stride.md\|Tree Stride]]_                     | Conjuration   | C       | Player's Handbook 5.5e             |
-| _[[Spells/Official/Level 5 Spells/Wall of Stone.md\|Wall of Stone]]_                 | Evocation     | C       | Player's Handbook 5.5e             |
+| Name                                                                                               | School        | Special | Source                             |
+| -------------------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- |
+| _[[Spells/Official/Level 5 Spells/Alustriel's Mooncloak.md\|Alustriel's Mooncloak]]_               | Abjuration    | C, M    | Forgotten Realms: Heroes of Faerûn |
+| _[[Spells/Official/Level 5 Spells/Antilife Shell.md\|Antilife Shell]]_                             | Abjuration    | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 5 Spells/Awaken.md\|Awaken]]_                                             | Transmutation | M       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 5 Spells/Commune with Nature.md\|Commune with Nature]]_                   | Divination    | R       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 5 Spells/Cone of Cold.md\|Cone of Cold]]_                                 | Evocation     | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 5 Spells/Conjure Elemental.md\|Conjure Elemental]]_                       | Conjuration   | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 5 Spells/Contagion.md\|Contagion]]_                                       | Necromancy    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 5 Spells/Control Winds.md\|Control Winds]]_                               | Transmutation | C       | Elemental Evil Player's Companion  |
+| _[[Spells/Official/Level 5 Spells/Geas.md\|Geas]]_                                                 | Enchantment   | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 5 Spells/Greater Restoration.md\|Greater Restoration]]_                   | Abjuration    | M       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 5 Spells/Insect Plague.md\|Insect Plague]]_                               | Conjuration   | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 5 Spells/Maelstrom.md\|Maelstrom]]_                                       | Evocation     | C       | Elemental Evil Player's Companion  |
+| _[[Spells/Official/Level 5 Spells/Mass Cure Wounds.md\|Mass Cure Wounds]]_                         | Abjuration    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 5 Spells/Planar Binding.md\|Planar Binding]]_                             | Abjuration    | M       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 5 Spells/Reincarnate.md\|Reincarnate]]_                                   | Necromancy    | M       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 5 Spells/Scrying.md\|Scrying]]_                                           | Divination    | C, M    | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 5 Spells/Songal's Elemental Suffusion.md\|Songal's Elemental Suffusion]]_ | Transmutation | C, M    | Forgotten Realms: Heroes of Faerûn |
+| _[[Spells/Official/Level 5 Spells/Transmute Rock.md\|Transmute Rock]]_                             | Transmutation | —       | Elemental Evil Player's Companion  |
+| _[[Spells/Official/Level 5 Spells/Tree Stride.md\|Tree Stride]]_                                   | Conjuration   | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 5 Spells/Wall of Stone.md\|Wall of Stone]]_                               | Evocation     | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 5 Spells/Wrath of Nature.md\|Wrath of Nature]]_                           | Evocation     | C       | Xanathar's Guide to Everything     |
 
 ### Level 6 Druid Spells
 
-| Name                                                                               | School        | Special | Source                 |
-| ---------------------------------------------------------------------------------- | ------------- | ------- | ---------------------- |
-| _[[Spells/Official/Level 6 Spells/Conjure Fey.md\|Conjure Fey]]_                   | Conjuration   | C       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 6 Spells/Find the Path.md\|Find the Path]]_               | Divination    | C, M    | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 6 Spells/Flesh to Stone.md\|Flesh to Stone]]_             | Transmutation | C       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 6 Spells/Heal.md\|Heal]]_                                 | Abjuration    | —       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 6 Spells/Heroes' Feast.md\|Heroes' Feast]]_               | Conjuration   | M       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 6 Spells/Move Earth.md\|Move Earth]]_                     | Transmutation | C       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 6 Spells/Sunbeam.md\|Sunbeam]]_                           | Evocation     | C       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 6 Spells/Transport via Plants.md\|Transport via Plants]]_ | Conjuration   | —       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 6 Spells/Wall of Thorns.md\|Wall of Thorns]]_             | Conjuration   | C       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 6 Spells/Wind Walk.md\|Wind Walk]]_                       | Transmutation | —       | Player's Handbook 5.5e |
+| Name                                                                                                 | School        | Special | Source                             |
+| ---------------------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- |
+| _[[Spells/Official/Level 6 Spells/Bones of the Earth.md\|Bones of the Earth]]_                       | Transmutation | —       | Elemental Evil Player's Companion  |
+| _[[Spells/Official/Level 6 Spells/Conjure Fey.md\|Conjure Fey]]_                                     | Conjuration   | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/Druid Grove.md\|Druid Grove]]_                                     | Abjuration    | M       | Xanathar's Guide to Everything     |
+| _[[Spells/Official/Level 6 Spells/Elminster's Effulgent Spheres.md\|Elminster's Effulgent Spheres]]_ | Evocation     | M       | Forgotten Realms: Heroes of Faerûn |
+| _[[Spells/Official/Level 6 Spells/Find the Path.md\|Find the Path]]_                                 | Divination    | C, M    | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/Flesh to Stone.md\|Flesh to Stone]]_                               | Transmutation | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/Heal.md\|Heal]]_                                                   | Abjuration    | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/Heroes' Feast.md\|Heroes' Feast]]_                                 | Conjuration   | M       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/Investiture of Flame.md\|Investiture of Flame]]_                   | Transmutation | C       | Elemental Evil Player's Companion  |
+| _[[Spells/Official/Level 6 Spells/Investiture of Ice.md\|Investiture of Ice]]_                       | Transmutation | C       | Elemental Evil Player's Companion  |
+| _[[Spells/Official/Level 6 Spells/Investiture of Stone.md\|Investiture of Stone]]_                   | Transmutation | C       | Elemental Evil Player's Companion  |
+| _[[Spells/Official/Level 6 Spells/Investiture of Wind.md\|Investiture of Wind]]_                     | Transmutation | C       | Elemental Evil Player's Companion  |
+| _[[Spells/Official/Level 6 Spells/Move Earth.md\|Move Earth]]_                                       | Transmutation | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/Primordial Ward.md\|Primordial Ward]]_                             | Abjuration    | C       | Elemental Evil Player's Companion  |
+| _[[Spells/Official/Level 6 Spells/Sunbeam.md\|Sunbeam]]_                                             | Evocation     | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/Transport via Plants.md\|Transport via Plants]]_                   | Conjuration   | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/Wall of Thorns.md\|Wall of Thorns]]_                               | Conjuration   | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 6 Spells/Wind Walk.md\|Wind Walk]]_                                         | Transmutation | —       | Player's Handbook 5.5e             |
 
 ### Level 7 Druid Spells
 
-| Name                                                                     | School        | Special | Source                 |
-| ------------------------------------------------------------------------ | ------------- | ------- | ---------------------- |
-| _[[Spells/Official/Level 7 Spells/Fire Storm.md\|Fire Storm]]_           | Evocation     | —       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 7 Spells/Mirage Arcane.md\|Mirage Arcane]]_     | Illusion      | —       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 7 Spells/Plane Shift.md\|Plane Shift]]_         | Conjuration   | M       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 7 Spells/Regenerate.md\|Regenerate]]_           | Transmutation | —       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 7 Spells/Reverse Gravity.md\|Reverse Gravity]]_ | Transmutation | C       | Player's Handbook 5.5e |
-| _[[Spells/Official/Level 7 Spells/Symbol.md\|Symbol]]_                   | Abjuration    | M       | Player's Handbook 5.5e |
+| Name                                                                                     | School        | Special | Source                            |
+| ---------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
+| _[[Spells/Official/Level 7 Spells/Draconic Transformation.md\|Draconic Transformation]]_ | Transmutation | C, M    | Fizban's Treasury of Dragons      |
+| _[[Spells/Official/Level 7 Spells/Fire Storm.md\|Fire Storm]]_                           | Evocation     | —       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 7 Spells/Mirage Arcane.md\|Mirage Arcane]]_                     | Illusion      | —       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 7 Spells/Plane Shift.md\|Plane Shift]]_                         | Conjuration   | M       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 7 Spells/Regenerate.md\|Regenerate]]_                           | Transmutation | —       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 7 Spells/Reverse Gravity.md\|Reverse Gravity]]_                 | Transmutation | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 7 Spells/Symbol.md\|Symbol]]_                                   | Abjuration    | M       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 7 Spells/Whirlwind.md\|Whirlwind]]_                             | Evocation     | C       | Elemental Evil Player's Companion |
 
 ### Level 8 Druid Spells
 
@@ -426,26 +786,33 @@ A Druid subclass is a specialization that grants you features at certain Druid l
 
 ### Official Druid Subclasses
 
-| Name                                                                      | Source                 |
-| ------------------------------------------------------------------------- | ---------------------- |
-| [[Subclasses/Official/Druid/Circle of the Land.md\|Circle of the Land]]   | Player's Handbook 5.5e |
-| [[Subclasses/Official/Druid/Circle of the Moon.md\|Circle of the Moon]]   | Player's Handbook 5.5e |
-| [[Subclasses/Official/Druid/Circle of the Sea.md\|Circle of the Sea]]     | Player's Handbook 5.5e |
-| [[Subclasses/Official/Druid/Circle of the Stars.md\|Circle of the Stars]] | Player's Handbook 5.5e |
+| Name                                                                            | Source                         | Edition |
+| ------------------------------------------------------------------------------- | ------------------------------ | ------- |
+| [[Subclasses/Official/Druid/Circle of Dreams.md\|Circle of Dreams]]             | Xanathar's Guide to Everything | 5e      |
+| [[Subclasses/Official/Druid/Circle of Spores.md\|Circle of Spores]]             | Guildmasters' Guide to Ravnica | 5e      |
+| [[Subclasses/Official/Druid/Circle of the Land.md\|Circle of the Land]]         | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Official/Druid/Circle of the Moon.md\|Circle of the Moon]]         | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Official/Druid/Circle of the Sea.md\|Circle of the Sea]]           | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Official/Druid/Circle of the Shepherd.md\|Circle of the Shepherd]] | Xanathar's Guide to Everything | 5e      |
+| [[Subclasses/Official/Druid/Circle of the Stars.md\|Circle of the Stars]]       | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Official/Druid/Circle of Wildfire.md\|Circle of Wildfire]]         | Tasha's Cauldron of Everything | 5e      |
 
 ### Third Party Druid Subclasses
 
-| Name                                                                               | Source                                  | Publisher               |
-| ---------------------------------------------------------------------------------- | --------------------------------------- | ----------------------- |
-| [[Subclasses/Third Party/Druid/Circle of Blood.md\|Circle of Blood]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming        |
-| [[Subclasses/Third Party/Druid/Circle of Cycles.md\|Circle of Cycles]]             | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games            |
-| [[Subclasses/Third Party/Druid/Circle of Entropy.md\|Circle of Entropy]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming        |
-| [[Subclasses/Third Party/Druid/Circle of Fenris.md\|Circle of Fenris]]             | Northlands Worldbook                    | Kobold Press            |
-| [[Subclasses/Third Party/Druid/Circle of Mutation.md\|Circle of Mutation]]         | Grim Hollow: Player's Guide             | Ghostfire Gaming        |
-| [[Subclasses/Third Party/Druid/Circle of Symbiosis.md\|Circle of Symbiosis]]       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                |
-| [[Subclasses/Third Party/Druid/Circle of the City.md\|Circle of the City]]         | Valda's Spire of Secrets                | Mage Hand Press         |
-| [[Subclasses/Third Party/Druid/Circle of the Forged.md\|Circle of the Forged]]     | Exploring Eberron                       | Visionary               |
-| [[Subclasses/Third Party/Druid/Circle of the Old Ways.md\|Circle of the Old Ways]] | The Crooked Moon                        | Avantris Entertainment  |
-| [[Subclasses/Third Party/Druid/Circle of the Symbiote.md\|Circle of the Symbiote]] | Cthulhu by Torchlight                   | Chaosium                |
-| [[Subclasses/Third Party/Druid/Circle of Wicker.md\|Circle of Wicker]]             | The Crooked Moon                        | Avantris Entertainment  |
-| [[Subclasses/Third Party/Druid/The Unbroken Circle.md\|The Unbroken Circle]]       | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag |
+| Name                                                                               | Source                                  | Publisher               | Edition |
+| ---------------------------------------------------------------------------------- | --------------------------------------- | ----------------------- | ------- |
+| [[Subclasses/Third Party/Druid/Circle of Blood.md\|Circle of Blood]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Druid/Circle of Cycles.md\|Circle of Cycles]]             | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games            | 5.5e    |
+| [[Subclasses/Third Party/Druid/Circle of Dragons.md\|Circle of Dragons]]           | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Third Party/Druid/Circle of Entropy.md\|Circle of Entropy]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Druid/Circle of Fenris.md\|Circle of Fenris]]             | Northlands Worldbook                    | Kobold Press            | 5.5e    |
+| [[Subclasses/Third Party/Druid/Circle of Mutation.md\|Circle of Mutation]]         | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Druid/Circle of Symbiosis.md\|Circle of Symbiosis]]       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
+| [[Subclasses/Third Party/Druid/Circle of the Blighted.md\|Circle of the Blighted]] | Tal'Dorei Campaign Setting Reborn       | Darrington Press        | 5e      |
+| [[Subclasses/Third Party/Druid/Circle of the City.md\|Circle of the City]]         | Valda's Spire of Secrets                | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Third Party/Druid/Circle of the Forged.md\|Circle of the Forged]]     | Exploring Eberron                       | Visionary               | 5.5e    |
+| [[Subclasses/Third Party/Druid/Circle of the Hive.md\|Circle of the Hive]]         | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |
+| [[Subclasses/Third Party/Druid/Circle of the Old Ways.md\|Circle of the Old Ways]] | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Druid/Circle of the Symbiote.md\|Circle of the Symbiote]] | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
+| [[Subclasses/Third Party/Druid/Circle of Wicker.md\|Circle of Wicker]]             | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Druid/The Unbroken Circle.md\|The Unbroken Circle]]       | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |

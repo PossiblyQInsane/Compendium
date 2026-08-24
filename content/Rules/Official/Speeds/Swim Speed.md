@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - swimming speed
 created: 2026-07-31T10:39:26.588-04:00
-modified: 2026-08-17T15:46:53.461-04:00
-published: 2026-08-17T15:46:53.461-04:00
+modified: 2026-08-23T23:37:39.137-04:00
+published: 2026-08-23T23:37:39.137-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

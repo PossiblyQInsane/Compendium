@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - Circle spell
 created: 2026-08-16T18:00:57.439-04:00
-modified: 2026-08-16T18:07:31.412-04:00
-published: 2026-08-16T18:07:31.412-04:00
+modified: 2026-08-23T23:35:47.544-04:00
+published: 2026-08-23T23:35:47.544-04:00
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true
 Edition: 5.5e

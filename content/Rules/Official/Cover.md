@@ -1,8 +1,13 @@
 ---
 publish: true
+aliases:
+  - Total Cover
+  - Half Cover
+  - Three-Quarters Cover
+  - Total cover
 created: 2026-07-29T12:06:00.959-04:00
-modified: 2026-08-17T15:46:50.145-04:00
-published: 2026-08-17T15:46:50.145-04:00
+modified: 2026-08-23T23:40:21.778-04:00
+published: 2026-08-23T23:40:21.778-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

@@ -1,0 +1,34 @@
+---
+publish: true
+created: 2026-08-23T22:48:53.517-04:00
+modified: 2026-08-23T22:51:56.582-04:00
+published: 2026-08-23T22:51:56.582-04:00
+Name: "[[Investiture of Ice]]"
+Spell Level: Level 6
+School: Transmutation
+Classes: Druid, Sorcerer, Warlock, Wizard
+Special: C
+Source: Elemental Evil Player's Companion
+Official: true
+Edition: 5e
+---
+
+<div align="right"><i>Elemental Evil Player's Companion</i></div>
+
+_Level 6 Transmutation ([[Druid]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
+
+---
+
+**Casting Time:** Action\
+**Range:** Self\
+**Components:** V, S
+**Duration:** [[Concentration]], up to 10 minutes
+
+---
+
+Until the spell ends, ice rimes your body, and you gain the following benefits:
+
+- You are [[immunity|immune]] to cold damage and have [[resistance]] to fire damage.
+- You can move across [[difficult terrain]] created by ice or snow without spending extra movement.
+- The ground in a 10-foot radius around you is icy and is [[difficult terrain]] for creatures other than you. The radius moves with you.
+- You can use your action to create a 15-foot [[cone]] of freezing wind extending from your outstretched hand in a direction you choose. Each creature in the cone must make a Constitution saving throw. A creature takes 4d6 cold damage on a failed save, or half as much damage on a successful one. A creature that fails its save against this effect has its [[speed]] halved until the start of your next turn.
