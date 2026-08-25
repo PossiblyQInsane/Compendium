@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T18:31:37.539-04:00
-modified: 2026-08-25T12:18:37.642-04:00
-published: 2026-08-25T12:18:37.642-04:00
+modified: 2026-08-25T12:23:47.644-04:00
+published: 2026-08-25T12:23:47.644-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -133,7 +133,7 @@ As a Bard, you gain the following class features when you reach the specified Ba
     <tr>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="+2" style="text-align: center">+2</td>
-      <td data-better-raw="Ability Score Improvement"><a href="level-4-ability-score-improvement">Ability Score Improvement</a></td>
+      <td data-better-raw="Ability Score Improvement"><a href="#level-4-ability-score-improvement">Ability Score Improvement</a></td>
       <td data-better-raw="D6" style="text-align: center">D6</td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="7" style="text-align: center">7</td>
@@ -201,7 +201,7 @@ As a Bard, you gain the following class features when you reach the specified Ba
     <tr>
       <td data-better-raw="8" style="text-align: center">8</td>
       <td data-better-raw="+3" style="text-align: center">+3</td>
-      <td data-better-raw="Ability Score Improvement"><a href="level-4-ability-score-improvement">Ability Score Improvement</a></td>
+      <td data-better-raw="Ability Score Improvement"><a href="#level-4-ability-score-improvement">Ability Score Improvement</a></td>
       <td data-better-raw="D8" style="text-align: center">D8</td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="12" style="text-align: center">12</td>
@@ -269,7 +269,7 @@ As a Bard, you gain the following class features when you reach the specified Ba
     <tr>
       <td data-better-raw="12" style="text-align: center">12</td>
       <td data-better-raw="+4" style="text-align: center">+4</td>
-      <td data-better-raw="Ability Score Improvement"><a href="level-4-ability-score-improvement">Ability Score Improvement</a></td>
+      <td data-better-raw="Ability Score Improvement"><a href="#level-4-ability-score-improvement">Ability Score Improvement</a></td>
       <td data-better-raw="D10" style="text-align: center">D10</td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="16" style="text-align: center">16</td>
@@ -337,7 +337,7 @@ As a Bard, you gain the following class features when you reach the specified Ba
     <tr>
       <td data-better-raw="16" style="text-align: center">16</td>
       <td data-better-raw="+5" style="text-align: center">+5</td>
-      <td data-better-raw="Ability Score Improvement"><a href="level-4-ability-score-improvement">Ability Score Improvement</a></td>
+      <td data-better-raw="Ability Score Improvement"><a href="#level-4-ability-score-improvement">Ability Score Improvement</a></td>
       <td data-better-raw="D12" style="text-align: center">D12</td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="18" style="text-align: center">18</td>
