@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T09:34:35.165-04:00
-modified: 2026-08-17T15:33:03.397-04:00
-published: 2026-08-17T15:33:03.397-04:00
+modified: 2026-08-25T12:07:41.646-04:00
+published: 2026-08-25T12:07:41.646-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -49,28 +49,28 @@ As a Barbarian, you gain the following class features when you reach the specifi
 
 ##### Barbarian Features
 
-| Level | Proficiency Bonus | Class Features                          | Rages | Rage Damage | Weapon Mastery |
-| :---: | :---------------: | :-------------------------------------- | :---: | :---------: | :------------: |
-|   1   |        +2         | Rage, Unarmored Defense, Weapon Mastery |   2   |     +2      |       2        |
-|   2   |        +2         | Danger Sense, Reckless Attack           |   2   |     +2      |       2        |
-|   3   |        +2         | Barbarian Subclass, Primal Knowledge    |   3   |     +2      |       2        |
-|   4   |        +2         | Ability Score Improvement               |   3   |     +2      |       3        |
-|   5   |        +3         | Extra Attack, Fast Movement             |   3   |     +2      |       3        |
-|   6   |        +3         | Subclass feature                        |   4   |     +2      |       3        |
-|   7   |        +3         | Feral Instinct, Instinctive Pounce      |   4   |     +2      |       3        |
-|   8   |        +3         | Ability Score Improvement               |   4   |     +2      |       3        |
-|   9   |        +4         | Brutal Strike                           |   4   |     +3      |       3        |
-|  10   |        +4         | Subclass feature                        |   4   |     +3      |       4        |
-|  11   |        +4         | Relentless Rage                         |   4   |     +3      |       4        |
-|  12   |        +4         | Ability Score Improvement               |   5   |     +3      |       4        |
-|  13   |        +5         | Improved Brutal Strike                  |   5   |     +3      |       4        |
-|  14   |        +5         | Subclass feature                        |   5   |     +3      |       4        |
-|  15   |        +5         | Persistent Rage                         |   5   |     +3      |       4        |
-|  16   |        +5         | Ability Score Improvement               |   5   |     +4      |       4        |
-|  17   |        +6         | Improved Brutal Strike                  |   6   |     +4      |       4        |
-|  18   |        +6         | Indomitable Might                       |   6   |     +4      |       4        |
-|  19   |        +6         | Epic Boon                               |   6   |     +4      |       4        |
-|  20   |        +6         | Primal Champion                         |   6   |     +4      |       4        |
+| Level | Proficiency Bonus | Class Features                                                                                                          | Rages | Rage Damage | Weapon Mastery |
+| :---: | :---------------: | :---------------------------------------------------------------------------------------------------------------------- | :---: | :---------: | :------------: |
+|   1   |        +2         | [[#Level 1 Rage\|Rage]], [[#Level 1 Unarmored Defense\|Unarmored Defense]], [[#Level 1 Weapon Mastery\|Weapon Mastery]] |   2   |     +2      |       2        |
+|   2   |        +2         | [[#Level 2 Danger Sense\|Danger Sense]], [[#Level 2 Reckless Attack\|Reckless Attack]]                                  |   2   |     +2      |       2        |
+|   3   |        +2         | [[#Level 3 Barbarian Subclass\|Barbarian Subclass]], [[#Level 3 Primal Knowledge\|Primal Knowledge]]                    |   3   |     +2      |       2        |
+|   4   |        +2         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                       |   3   |     +2      |       3        |
+|   5   |        +3         | [[#Level 5 Extra Attack\|Extra Attack]], [[#Level 5 Fast Movement\|Fast Movement]]                                      |   3   |     +2      |       3        |
+|   6   |        +3         | Subclass feature                                                                                                        |   4   |     +2      |       3        |
+|   7   |        +3         | [[#Level 7 Feral Instinct\|Feral Instinct]], [[#Level 7 Instinctive Pounce\|Instinctive Pounce]]                        |   4   |     +2      |       3        |
+|   8   |        +3         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                       |   4   |     +2      |       3        |
+|   9   |        +4         | [[#Level 9 Brutal Strike\|Brutal Strike]]                                                                               |   4   |     +3      |       3        |
+|  10   |        +4         | Subclass feature                                                                                                        |   4   |     +3      |       4        |
+|  11   |        +4         | [[#Level 11 Relentless Rage\|Relentless Rage]]                                                                          |   4   |     +3      |       4        |
+|  12   |        +4         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                       |   5   |     +3      |       4        |
+|  13   |        +5         | [[#Level 13 Improved Brutal Strike\|Improved Brutal Strike]]                                                            |   5   |     +3      |       4        |
+|  14   |        +5         | Subclass feature                                                                                                        |   5   |     +3      |       4        |
+|  15   |        +5         | [[#Level 15 Persistent Rage\|Persistent Rage]]                                                                          |   5   |     +3      |       4        |
+|  16   |        +5         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                       |   5   |     +4      |       4        |
+|  17   |        +6         | [[#Level 17 Improved Brutal Strike\|Improved Brutal Strike]]                                                            |   6   |     +4      |       4        |
+|  18   |        +6         | [[#Level 18 Indomitable Might\|Indomitable Might]]                                                                      |   6   |     +4      |       4        |
+|  19   |        +6         | [[#Level 19 Epic Boon\|Epic Boon]]                                                                                      |   6   |     +4      |       4        |
+|  20   |        +6         | [[#Level 20 Primal Champion\|Primal Champion]]                                                                          |   6   |     +4      |       4        |
 
 ### Level 1: Rage
 

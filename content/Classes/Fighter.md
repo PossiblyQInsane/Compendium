@@ -164,12 +164,14 @@ A Fighter subclass is a specialization that grants you features at certain Fight
 
 ### Third Party Fighter Subclasses
 
-| Name                                                                   | Source                                  | Publisher              | Edition |
-| ---------------------------------------------------------------------- | --------------------------------------- | ---------------------- | ------- |
-| [[Subclasses/Third Party/Fighter/Barrow Guard.md\|Barrow Guard]]       | The Crooked Moon                        | Avantris Entertainment | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Blood Hound.md\|Blood Hound]]         | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Bonesmith.md\|Bonesmith]]             | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games           | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Bulwark Warrior.md\|Bulwark Warrior]] | Grim Hollow: Player's Guide             | Ghostfire Gaming       | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Dungeoneer.md\|Dungeoneer]]           | Valda's Spire of Secrets                | Mage Hand Press        | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Living Crucible.md\|Living Crucible]] | Grim Hollow: Player's Guide             | Ghostfire Gaming       | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Nightwatcher.md\|Nightwatcher]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming       | 5.5e    |
+| Name                                                                   | Source                                    | Publisher               | Edition |
+| ---------------------------------------------------------------------- | ----------------------------------------- | ----------------------- | ------- |
+| [[Subclasses/Third Party/Fighter/Barrow Guard.md\|Barrow Guard]]       | The Crooked Moon                          | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Blade Breaker.md\|Blade Breaker]]     | Grim Hollow: The Raider's Guide to Valika | Ghostfire Gaming        | 5e      |
+| [[Subclasses/Third Party/Fighter/Blood Hound.md\|Blood Hound]]         | Steinhardt's Guide to the Eldritch Hunt   | MonkeyDM                | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Bonesmith.md\|Bonesmith]]             | Dr. Dhrolin's Dictionary of Dinosaurs     | Palaeo Games            | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Bulwark Warrior.md\|Bulwark Warrior]] | Grim Hollow: Player's Guide               | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Couatl Herald.md\|Couatl Herald]]     | The Griffon's Saddlebag: Book One         | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Dungeoneer.md\|Dungeoneer]]           | Valda's Spire of Secrets                  | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Living Crucible.md\|Living Crucible]] | Grim Hollow: Player's Guide               | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Nightwatcher.md\|Nightwatcher]]       | Grim Hollow: Player's Guide               | Ghostfire Gaming        | 5.5e    |
