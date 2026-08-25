@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-11T11:24:50.805-04:00
-modified: 2026-08-23T16:40:39.668-04:00
-published: 2026-08-23T16:40:39.668-04:00
+modified: 2026-08-25T01:54:16.785-04:00
+published: 2026-08-25T01:54:16.785-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -150,22 +150,26 @@ A Fighter subclass is a specialization that grants you features at certain Fight
 
 ### Official Fighter Subclasses
 
-| Name                                                                | Source                             |
-| ------------------------------------------------------------------- | ---------------------------------- |
-| [[Subclasses/Official/Fighter/Banneret.md\|Banneret]]               | Forgotten Realms: Heroes of Faerûn |
-| [[Subclasses/Official/Fighter/Battle Master.md\|Battle Master]]     | Player's Handbook 5.5e             |
-| [[Subclasses/Official/Fighter/Champion.md\|Champion]]               | Player's Handbook 5.5e             |
-| [[Subclasses/Official/Fighter/Eldritch Knight.md\|Eldritch Knight]] | Player's Handbook 5.5e             |
-| [[Subclasses/Official/Fighter/Psi Warrior.md\|Psi Warrior]]         | Player's Handbook 5.5e             |
+| Name                                                                | Source                             | Edition |
+| ------------------------------------------------------------------- | ---------------------------------- | ------- |
+| [[Subclasses/Official/Fighter/Banneret.md\|Banneret]]               | Forgotten Realms: Heroes of Faerûn | 5.5e    |
+| [[Subclasses/Official/Fighter/Battle Master.md\|Battle Master]]     | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Fighter/Cavalier.md\|Cavalier]]               | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Official/Fighter/Champion.md\|Champion]]               | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Fighter/Echo Knight.md\|Echo Knight]]         | Explorer's Guide to Wildemount     | 5e      |
+| [[Subclasses/Official/Fighter/Eldritch Knight.md\|Eldritch Knight]] | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Fighter/Psi Warrior.md\|Psi Warrior]]         | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Fighter/Rune Knight.md\|Rune Knight]]         | Tasha's Cauldron of Everything     | 5e      |
+| [[Subclasses/Official/Fighter/Samurai.md\|Samurai]]                 | Xanathar's Guide to Everything     | 5e      |
 
 ### Third Party Fighter Subclasses
 
-| Name                                                                   | Source                                  | Publisher              |
-| ---------------------------------------------------------------------- | --------------------------------------- | ---------------------- |
-| [[Subclasses/Third Party/Fighter/Barrow Guard.md\|Barrow Guard]]       | The Crooked Moon                        | Avantris Entertainment |
-| [[Subclasses/Third Party/Fighter/Blood Hound.md\|Blood Hound]]         | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
-| [[Subclasses/Third Party/Fighter/Bonesmith.md\|Bonesmith]]             | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games           |
-| [[Subclasses/Third Party/Fighter/Bulwark Warrior.md\|Bulwark Warrior]] | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
-| [[Subclasses/Third Party/Fighter/Dungeoneer.md\|Dungeoneer]]           | Valda's Spire of Secrets                | Mage Hand Press        |
-| [[Subclasses/Third Party/Fighter/Living Crucible.md\|Living Crucible]] | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
-| [[Subclasses/Third Party/Fighter/Nightwatcher.md\|Nightwatcher]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| Name                                                                   | Source                                  | Publisher              | Edition |
+| ---------------------------------------------------------------------- | --------------------------------------- | ---------------------- | ------- |
+| [[Subclasses/Third Party/Fighter/Barrow Guard.md\|Barrow Guard]]       | The Crooked Moon                        | Avantris Entertainment | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Blood Hound.md\|Blood Hound]]         | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Bonesmith.md\|Bonesmith]]             | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games           | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Bulwark Warrior.md\|Bulwark Warrior]] | Grim Hollow: Player's Guide             | Ghostfire Gaming       | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Dungeoneer.md\|Dungeoneer]]           | Valda's Spire of Secrets                | Mage Hand Press        | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Living Crucible.md\|Living Crucible]] | Grim Hollow: Player's Guide             | Ghostfire Gaming       | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Nightwatcher.md\|Nightwatcher]]       | Grim Hollow: Player's Guide             | Ghostfire Gaming       | 5.5e    |
