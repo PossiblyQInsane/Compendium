@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-09T10:27:29.080-04:00
-modified: 2026-08-24T02:02:34.508-04:00
-published: 2026-08-24T02:02:34.508-04:00
+modified: 2026-08-24T02:06:05.353-04:00
+published: 2026-08-24T02:06:05.353-04:00
 Parent Class: "[[Druid]]"
 Source: Dr. Dhrolin's Dictionary of Dinosaurs
 Official: false

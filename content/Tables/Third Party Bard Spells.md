@@ -1,5 +1,7 @@
 | Spell Level | Name                                                                        | School                      | Special | Source                                  | Publisher              |
 | ----------- | --------------------------------------------------------------------------- | --------------------------- | ------- | --------------------------------------- | ---------------------- |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Chameleon Skin.md\|Chameleon Skin]]_   | Biomancy                    | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Daydream.md\|Daydream]]_               | Enchantment                 | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | Level 3     | _[[Spells/Third Party/Level 3 Spells/Sanguine Poppet.md\|Sanguine Poppet]]_ | Transmutation (Sangromancy) | C, M    | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 4     | _[[Spells/Third Party/Level 4 Spells/Dread Scarecrow.md\|Dread Scarecrow]]_ | Illusion (Osteomancy)       | C, M    | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | Level 5     | _[[Spells/Third Party/Level 5 Spells/Lucky Charm.md\|Lucky Charm]]_         | Transmutation               | C       | The Crooked Moon                        | Avantris Entertainment |
