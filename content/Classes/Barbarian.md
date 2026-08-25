@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T09:34:35.165-04:00
-modified: 2026-08-25T12:07:41.646-04:00
-published: 2026-08-25T12:07:41.646-04:00
+modified: 2026-08-25T12:21:05.213-04:00
+published: 2026-08-25T12:21:05.213-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -15,15 +15,17 @@ Edition: 5.5e
 <div align="center">
 <span style="font-size: 120%; font-style: italic; font-weight: bold;">A Fierce Warrior of Primal Rage</span>
 </div>
+
 ## Core Barbarian Traits
+
 | **Primary Ability**            | Strength                                                                                                      |
 | :----------------------------- | :------------------------------------------------------------------------------------------------------------ |
 | **Hit Point Die**              | D12 per Barbarian level                                                                                       |
 | **Saving Throw Proficiencies** | Strength and Constitution                                                                                     |
-| **Skill Proficiencies**        | *Choose 2:* [[Animal Handling]], [[Athletics]], [[Intimidation]], [[Nature]], [[Perception]], or [[Survival]] |
+| **Skill Proficiencies**        | _Choose 2:_ [[Animal Handling]], [[Athletics]], [[Intimidation]], [[Nature]], [[Perception]], or [[Survival]] |
 | **Weapon Proficiencies**       | [[Simple weapons\|Simple]] and [[Martial weapons]]                                                            |
 | **Armor Training**             | [[Light armor\|Light]] and [[Medium armor]] and [[Shields]]                                                   |
-| **Starting Equipment**         | *Choose A or B:* (A) [[Greataxe]], 4 [[Handaxe\|Handaxes]], [[Explorer's Pack]], and 15 GP; or (B) 75 GP      |
+| **Starting Equipment**         | _Choose A or B:_ (A) [[Greataxe]], 4 [[Handaxe\|Handaxes]], [[Explorer's Pack]], and 15 GP; or (B) 75 GP      |
 
 Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator’s ferocity, a storm’s fury, and a sea’s turmoil.
 
