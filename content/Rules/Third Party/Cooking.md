@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T19:14:59.677-04:00
-modified: 2026-08-24T21:48:02.903-04:00
-published: 2026-08-24T21:48:02.903-04:00
+modified: 2026-08-25T01:42:59.809-04:00
+published: 2026-08-25T01:42:59.809-04:00
 Source: Heliana's Guide to Monster Hunting
 Official: false
 Publisher: Loot Tavern
@@ -79,34 +79,48 @@ This book presents two types of recipes: staple ones which can be cooked with mo
 
 ##### Journeyman Recipes (DC 16)
 
-|      Recipe       | Ingredients | <      |
-| :---------------: | :---------: | :-----: |
-|   Meaty masala    |   _Flesh_   | _Spice_ |
-|   Tofeye apple    |   _Bone_    |  _Eye_  |
-|  Dwarven scotch   |    _Egg_    | _Flesh_ |
-|   Gobbois gras    |    _Fat_    | _Liver_ |
-|   Devilled egg    |    _Egg_    | _Spice_ |
-|   Black pudding   |   _Blood_   |  _Fat_  |
-| Bloody gazpacho\* |   _Blood_   | _Spice_ |
-|  Carrion delight  |   _Bone_    |  _Fat_  |
-
+<table>
+<thead>
+<tr><th style="text-align:center">Recipe</th><th colspan="2" style="text-align:center">Ingredients</th></tr>
+</thead>
+<tbody>
+<tr><td style="text-align:center">Meaty masala</td><td style="text-align:center"><i>Flesh</i></td><td style="text-align:center"><i>Spice</i></td></tr>
+<tr><td style="text-align:center">Tofeye apple</td><td style="text-align:center"><i>Bone</i></td><td style="text-align:center"><i>Eye</i></td></tr>
+<tr><td style="text-align:center">Dwarven scotch</td><td style="text-align:center"><i>Egg</i></td><td style="text-align:center"><i>Flesh</i></td></tr>
+<tr><td style="text-align:center">Gobbois gras</td><td style="text-align:center"><i>Fat</i></td><td style="text-align:center"><i>Liver</i></td></tr>
+<tr><td style="text-align:center">Devilled egg</td><td style="text-align:center"><i>Egg</i></td><td style="text-align:center"><i>Spice</i></td></tr>
+<tr><td style="text-align:center">Black pudding</td><td style="text-align:center"><i>Blood</i></td><td style="text-align:center"><i>Fat</i></td></tr>
+<tr><td style="text-align:center">Bloody gazpacho*</td><td style="text-align:center"><i>Blood</i></td><td style="text-align:center"><i>Spice</i></td></tr>
+<tr><td style="text-align:center">Carrion delight</td><td style="text-align:center"><i>Bone</i></td><td style="text-align:center"><i>Fat</i></td></tr>
+</tbody>
+</table>
 <div style="margin-top: 0.1rem; font-style: italic; font-size: 70%">*No heat source required.</div>
 
 ##### Expert Recipes (DC 20)
 
-| Recipe                           | Ingredients | <       | <       |
-| -------------------------------- | ----------- | ------- | ------- |
-| Chronomancer’s slow cooked joint | _Bone_      | _Fat_   | _Flesh_ |
-| Offally good stew                | _Brain_     | _Heart_ | _Liver_ |
-| Draconic delight                 | _Egg_       | _Flesh_ | _Spice_ |
-| Brain barbacoa                   | _Bone_      | _Brain_ | _Eye_   |
+<table>
+<thead>
+<tr><th>Recipe</th><th colspan="3">Ingredients</th></tr>
+</thead>
+<tbody>
+<tr><td>Chronomancer’s slow cooked joint</td><td><i>Bone</i></td><td><i>Fat</i></td><td><i>Flesh</i></td></tr>
+<tr><td>Offally good stew</td><td><i>Brain</i></td><td><i>Heart</i></td><td><i>Liver</i></td></tr>
+<tr><td>Draconic delight</td><td><i>Egg</i></td><td><i>Flesh</i></td><td><i>Spice</i></td></tr>
+<tr><td>Brain barbacoa</td><td><i>Bone</i></td><td><i>Brain</i></td><td><i>Eye</i></td></tr>
+</tbody>
+</table>
 
 ##### Artisan Recipes (DC 25)
 
-| Recipe               | Ingredients | <       | <       | <       |
-| -------------------- | ----------- | ------- | ------- | ------- |
-| Scarlet eye flan     | _Blood_     | _Brain_ | _Eye_   | _Fat_   |
-| Beastial bourguignon | _Flesh_     | _Heart_ | _Liver_ | _Spice_ |
+<table>
+<thead>
+<tr><th>Recipe</th><th colspan="4">Ingredients</th></tr>
+</thead>
+<tbody>
+<tr><td>Scarlet eye flan</td><td><i>Blood</i></td><td><i>Brain</i></td><td><i>Eye</></td><td><i>Fat</i></td></tr>
+<tr><td>Beastial bourguignon</td><td><i>Flesh</i></td><td><i>Heart</i></td><td><i>Liver</i></td><td><i>Spice</i></td></tr>
+</tbody>
+</table>
 
 **_Omitting Ingredients._** A cook can replace a magical ingredient with a nonmagical one. If they choose to do so, they don’t get the associated magical effect of the nonmagical component, but can still attempt to craft the meal. For example, if a creature wants to make a _scarlet eye flan,_ but has no magical _blood_, they can use the blood of any creature (provided it hasn’t spoiled) to complete the recipe. The DC for the recipe doesn’t change, and the magical meal only imparts the effects of the three magical components used: _brain_, _eye_, and _fat_.
 
@@ -116,18 +130,26 @@ Boss Monster recipes confer unique effects in addition to the effects of the com
 
 #### Boss Monster Recipes
 
-| Recipe                    | DC  | Boss Ingredients | <                                    | Other Ingredients | <       | <       |
-| ------------------------- | :-: | ---------------- | ------------------------------------ | ----------------- | ------- | ------- |
-| _Aboleth Ramen_           | 12  | Flesh:           | _Aberration (broodmother) tentacle_  |                   |         |         |
-| _Jello Shot_              | 16  | Blood:           | _Phial of ooze (polyhedrooze) mucus_ | _Fat_             |         |         |
-| _Mushroom Mélange_        | 16  | Spice:           | _Pouch of plant (hyphan) spores_     | _Fat_             |         |         |
-| _Rakoyaki_                | 16  | Brain:           | _Fiend (pygmy) brain_                | _Blood_           |         |         |
-| _Skrapyard Sosig_         | 16  | Flesh:           | _Construct (koboldzilla) tubing_     | _Egg_             |         |         |
-| _Tongue Twister Tart_     | 16  | Flesh:           | _Monstrosity (tavern mimic) tongue_  | _Brain_           |         |         |
-| _Magnetite Curry_         | 20  | Flesh:           | _Dragon (magnetite) flesh_           | _Liver_           | _Spice_ |         |
-| _Dumpleyengs_             | 20  | Eye:             | _Aberration (dreamholder) subeye_    | _Blood_           | _Heart_ |         |
-| _Suneater Steak and Eggs_ | 20  | Flesh:           | _Fey (suneater) flesh_               | _Blood_           | _Egg_   |         |
-| _Tar-rasque Marrow Broth_ | 24  | Bone:            | _Elemental (tar-rasque) marrow_      | _Heart_           | _Liver_ | _Spice_ |
+<div style="overflow-x: auto;">
+<table>
+<thead>
+<tr><th>Recipe</th><th style="text-align:center">DC</th><th colspan="2">Boss Ingredients</th><th colspan="3">Other Ingredients</th></tr>
+</thead>
+<tbody>
+<tr><td><i>Aboleth Ramen</i></td><td style="text-align:center">12</td><td>Flesh:</td><td><i>Aberration (broodmother) tentacle</i></td><td></td><td></td><td></td></tr>
+<tr><td><i>Jello Shot</i></td><td style="text-align:center">16</td><td>Blood:</td><td><i>Phial of ooze (polyhedrooze) mucus</i></td><td><i>Fat</i></td><td></td><td></td></tr>
+<tr><td><i>Mushroom Mélange</i></td><td style="text-align:center">16</td><td>Spice:</td><td><i>Pouch of plant (hyphan) spores</i></td><td><i>Fat</i></td><td></td><td></td></tr>
+<tr><td><i>Rakoyaki</i></td><td style="text-align:center">16</td><td>Brain:</td><td><i>Fiend (pygmy) brain</i></td><td><i>Blood</i></td><td></td><td></td></tr>
+<tr><td><i>Skrapyard Sosig</i></td><td style="text-align:center">16</td><td>Flesh:</td><td><i>Construct (koboldzilla) tubing</i></td><td><i>Egg</i></td><td></td><td></td></tr>
+<tr><td><i>Tongue Twister Tart</i></td><td style="text-align:center">16</td><td>Flesh:</td><td><i>Monstrosity (tavern mimic) tongue</i></td><td><i>Brain</i></td><td></td><td></td></tr>
+<tr><td><i>Magnetite Curry<i></td><td style="text-align:center">20</td><td>Flesh:</td><td><i>Dragon (magnetite) flesh</i></td><td><i>Liver</i></td><td><i>Spice</i></td><td></td></tr>
+<tr><td><i>Dumpleyengs</i></td><td style="text-align:center">20</td><td>Eye:</td><td><i>Aberration (dreamholder) subeye</i></td><td><i>Blood</i></td><td><i>Heart</i></td><td></td></tr>
+<tr><td><i>Suneater Steak and Eggs</i></td><td style="text-align:center">20</td><td>Flesh:</td><td><i>Fey (suneater) flesh</i></td><td><i>Blood</i></td><td><i>Egg</i></td><td></td></tr>
+<tr><td><i>Tar-rasque Marrow Broth</i></td><td style="text-align:center">24</td><td>Bone:</td><td><i>Elemental (tar-rasque) marrow</i></td><td><i>Heart</i></td><td><i>Liver</i></td><td><i>Spice</i></td></tr>
+</tbody>
+</table>
+</div>
+
 For the duration of the magical meal’s effects, a creature that consumes and digests the meal gains the following additional effect, with a value shown in the Boss Monster Effect Scaling table:
 
 > [!caption|left]
@@ -190,12 +212,12 @@ _**Jello Shot.**_ Immediately after you take damage, you gain **[[resistance]]
 
 ##### Boss Monster Effect Scaling
 
-|    Rarity     | Aboleth Ramen | Jello Shot | Mushroom Mélange | Rakoyaki  | Skrapyard Sosig | Tongue Twister Tart | Magnetite Curry | Dumpleyengs | Suneater Steak and Eggs | Tar-rasque Marrow Broth |
-| :-----------: | :-----------: | :--------: | :--------------: | :-------: | :-------------: | :-----------------: | :-------------: | :---------: | :---------------------: | :---------------------: |
-| **Uncommon**  |     5 ft.     |     1      |      60 ft.      |  Cantrip  |    Cha mod\*     |        DC 13        |       1d6       |    DC 13    |           1d6           |           1d4           |
-|   **Rare**    |     5 ft.     |     1      |     240 ft.      | 1st level |  Cha mod\* + 2   |        DC 15        |       1d8       |    DC 15    |           2d6           |           2d4           |
-| **Very rare** |    10 ft.     |     2      |     960 ft.      | 2nd level |  Cha mod\* + 4   |        DC 16        |      1d10       |    DC 16    |           3d6           |           3d4           |
-| **Legendary** |    10 ft.     |     2      |      1 mile      | 3rd level |  Cha mod\* + 6   |        DC 17        |      1d12       |    DC 17    |           4d6           |           4d4           |
+|    Rarity     | Aboleth Ramen | Jello Shot | Mushroom Mélange | Rakoyaki  | Skrapyard Sosig | Tongue Twister Tart | Magnetite Curry | Dumpleyengs | Suneater Steak and Eggs | Tar‑rasque Marrow Broth |
+| :-----------: | :-----------: | :--------: | :--------------: | :-------: | :-------------: | :-----------------: | :-------------: | :---------: | :---------------------: | :---------------------------: |
+| **Uncommon**  |     5 ft.     |     1      |      60 ft.      |  Cantrip  |    Cha mod\*     |        DC 13        |       1d6       |    DC 13    |           1d6           |              1d4              |
+|   **Rare**    |     5 ft.     |     1      |     240 ft.      | 1st level |  Cha mod\* + 2   |        DC 15        |       1d8       |    DC 15    |           2d6           |              2d4              |
+| **Very rare** |    10 ft.     |     2      |     960 ft.      | 2nd level |  Cha mod\* + 4   |        DC 16        |      1d10       |    DC 16    |           3d6           |              3d4              |
+| **Legendary** |    10 ft.     |     2      |      1 mile      | 3rd level |  Cha mod\* + 6   |        DC 17        |      1d12       |    DC 17    |           4d6           |              4d4              |
 
 ### Edible Component Effects
 

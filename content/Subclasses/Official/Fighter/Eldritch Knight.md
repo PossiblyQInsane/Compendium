@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-12T01:02:39.697-04:00
-modified: 2026-08-23T23:36:23.656-04:00
-published: 2026-08-23T23:36:23.656-04:00
+modified: 2026-08-25T01:28:24.751-04:00
+published: 2026-08-25T01:28:24.751-04:00
 Parent Class: "[[Fighter]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -29,7 +29,7 @@ _**Spell Slots.**_ The Eldritch Knight Spellcasting table shows how many spell s
 
 ##### Eldritch Knight Spellcasting
 
-<table>
+<table style="width: 100%;">
   <tbody>
     <tr>
       <th rowspan="2" data-better-raw="Fighter Level" style="text-align: center">Fighter Level</th>
