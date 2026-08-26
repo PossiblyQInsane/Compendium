@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T10:07:32.423-04:00
-modified: 2026-08-25T01:42:15.376-04:00
-published: 2026-08-25T01:42:15.376-04:00
+modified: 2026-08-26T02:13:40.546-04:00
+published: 2026-08-26T02:13:40.546-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -76,9 +76,9 @@ As a Druid, you gain the following class features when you reach the specified D
       <th data-better-raw="9" style="text-align: center">9</th>
     </tr>
     <tr>
-      <th data-better-raw="1" style="text-align: center">1</th>
+      <td data-better-raw="1" style="text-align: center">1</td>
       <td data-better-raw="+2" style="text-align: center">+2</td>
-      <td data-better-raw="Spellcasting, Druidic, Primal Order">Spellcasting, Druidic, Primal Order</td>
+      <td data-better-raw="Spellcasting, Druidic, Primal Order"><a href="#level-1-spellcasting">Spellcasting</a>, <a href="#level-1-druidic">Druidic</a>, <a href="#level-1-primal-order">Primal Order</a></td>
       <td data-better-raw="—" style="text-align: center">—</td>
       <td data-better-raw="2" style="text-align: center">2</td>
       <td data-better-raw="4" style="text-align: center">4</td>
@@ -93,9 +93,9 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="—" style="text-align: center">—</td>
     </tr>
     <tr>
-      <th data-better-raw="2" style="text-align: center">2</th>
+      <td data-better-raw="2" style="text-align: center">2</td>
       <td data-better-raw="+2" style="text-align: center">+2</td>
-      <td data-better-raw="Wild Shape, Wild Companion">Wild Shape, Wild Companion</td>
+      <td data-better-raw="Wild Shape, Wild Companion"><a href="#level-2-wild-shape">Wild Shape</a>, <a href="#level-2-wild-companion">Wild Companion</a></td>
       <td data-better-raw="2" style="text-align: center">2</td>
       <td data-better-raw="2" style="text-align: center">2</td>
       <td data-better-raw="5" style="text-align: center">5</td>
@@ -110,9 +110,9 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="—" style="text-align: center">—</td>
     </tr>
     <tr>
-      <th data-better-raw="3" style="text-align: center">3</th>
+      <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="+2" style="text-align: center">+2</td>
-      <td data-better-raw="Druid Subclass">Druid Subclass</td>
+      <td data-better-raw="Druid Subclass"><a href="#level-3-druid-subclass">Druid Subclass</a></td>
       <td data-better-raw="2" style="text-align: center">2</td>
       <td data-better-raw="2" style="text-align: center">2</td>
       <td data-better-raw="6" style="text-align: center">6</td>
@@ -127,9 +127,9 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="—" style="text-align: center">—</td>
     </tr>
     <tr>
-      <th data-better-raw="4" style="text-align: center">4</th>
+      <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="+2" style="text-align: center">+2</td>
-      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="Ability Score Improvement"><a href="#level-4-ability-score-improvement">Ability Score Improvement</a></td>
       <td data-better-raw="2" style="text-align: center">2</td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="7" style="text-align: center">7</td>
@@ -144,9 +144,9 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="—" style="text-align: center">—</td>
     </tr>
     <tr>
-      <th data-better-raw="5" style="text-align: center">5</th>
+      <td data-better-raw="5" style="text-align: center">5</td>
       <td data-better-raw="+3" style="text-align: center">+3</td>
-      <td data-better-raw="Wild Resurgence">Wild Resurgence</td>
+      <td data-better-raw="Wild Resurgence"><a href="#level-5-wild-resurgence">Wild Resurgence</a></td>
       <td data-better-raw="2" style="text-align: center">2</td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="9" style="text-align: center">9</td>
@@ -161,7 +161,7 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="—" style="text-align: center">—</td>
     </tr>
     <tr>
-      <th data-better-raw="6" style="text-align: center">6</th>
+      <td data-better-raw="6" style="text-align: center">6</td>
       <td data-better-raw="+3" style="text-align: center">+3</td>
       <td data-better-raw="Subclass feature">Subclass feature</td>
       <td data-better-raw="3" style="text-align: center">3</td>
@@ -178,9 +178,9 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="—" style="text-align: center">—</td>
     </tr>
     <tr>
-      <th data-better-raw="7" style="text-align: center">7</th>
+      <td data-better-raw="7" style="text-align: center">7</td>
       <td data-better-raw="+3" style="text-align: center">+3</td>
-      <td data-better-raw="Elemental Fury">Elemental Fury</td>
+      <td data-better-raw="Elemental Fury"><a href="#level-7-elemental-fury">Elemental Fury</a></td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="11" style="text-align: center">11</td>
@@ -195,9 +195,9 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="—" style="text-align: center">—</td>
     </tr>
     <tr>
-      <th data-better-raw="8" style="text-align: center">8</th>
+      <td data-better-raw="8" style="text-align: center">8</td>
       <td data-better-raw="+3" style="text-align: center">+3</td>
-      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="Ability Score Improvement"><a href="#level-4-ability-score-improvement">Ability Score Improvement</a></td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="12" style="text-align: center">12</td>
@@ -212,7 +212,7 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="—" style="text-align: center">—</td>
     </tr>
     <tr>
-      <th data-better-raw="9" style="text-align: center">9</th>
+      <td data-better-raw="9" style="text-align: center">9</td>
       <td data-better-raw="+4" style="text-align: center">+4</td>
       <td data-better-raw="—">—</td>
       <td data-better-raw="3" style="text-align: center">3</td>
@@ -229,7 +229,7 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="—" style="text-align: center">—</td>
     </tr>
     <tr>
-      <th data-better-raw="10" style="text-align: center">10</th>
+      <td data-better-raw="10" style="text-align: center">10</td>
       <td data-better-raw="+4" style="text-align: center">+4</td>
       <td data-better-raw="Subclass feature">Subclass feature</td>
       <td data-better-raw="3" style="text-align: center">3</td>
@@ -246,7 +246,7 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="—" style="text-align: center">—</td>
     </tr>
     <tr>
-      <th data-better-raw="11" style="text-align: center">11</th>
+      <td data-better-raw="11" style="text-align: center">11</td>
       <td data-better-raw="+4" style="text-align: center">+4</td>
       <td data-better-raw="—">—</td>
       <td data-better-raw="3" style="text-align: center">3</td>
@@ -263,9 +263,9 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="—" style="text-align: center">—</td>
     </tr>
     <tr>
-      <th data-better-raw="12" style="text-align: center">12</th>
+      <td data-better-raw="12" style="text-align: center">12</td>
       <td data-better-raw="+4" style="text-align: center">+4</td>
-      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="Ability Score Improvement"><a href="#level-4-ability-score-improvement">Ability Score Improvement</a></td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="16" style="text-align: center">16</td>
@@ -280,7 +280,7 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="—" style="text-align: center">—</td>
     </tr>
     <tr>
-      <th data-better-raw="13" style="text-align: center">13</th>
+      <td data-better-raw="13" style="text-align: center">13</td>
       <td data-better-raw="+5" style="text-align: center">+5</td>
       <td data-better-raw="—">—</td>
       <td data-better-raw="3" style="text-align: center">3</td>
@@ -297,7 +297,7 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="—" style="text-align: center">—</td>
     </tr>
     <tr>
-      <th data-better-raw="14" style="text-align: center">14</th>
+      <td data-better-raw="14" style="text-align: center">14</td>
       <td data-better-raw="+5" style="text-align: center">+5</td>
       <td data-better-raw="Subclass feature">Subclass feature</td>
       <td data-better-raw="3" style="text-align: center">3</td>
@@ -314,9 +314,9 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="—" style="text-align: center">—</td>
     </tr>
     <tr>
-      <th data-better-raw="15" style="text-align: center">15</th>
+      <td data-better-raw="15" style="text-align: center">15</td>
       <td data-better-raw="+5" style="text-align: center">+5</td>
-      <td data-better-raw="Improved Elemental Fury">Improved Elemental Fury</td>
+      <td data-better-raw="Improved Elemental Fury"><a href="#level-15-improved-elemental-fury">Improved Elemental Fury</a></td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="18" style="text-align: center">18</td>
@@ -331,9 +331,9 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="—" style="text-align: center">—</td>
     </tr>
     <tr>
-      <th data-better-raw="16" style="text-align: center">16</th>
+      <td data-better-raw="16" style="text-align: center">16</td>
       <td data-better-raw="+5" style="text-align: center">+5</td>
-      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="Ability Score Improvement"><a href="#level-4-ability-score-improvement">Ability Score Improvement</a></td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="18" style="text-align: center">18</td>
@@ -348,7 +348,7 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="—" style="text-align: center">—</td>
     </tr>
     <tr>
-      <th data-better-raw="17" style="text-align: center">17</th>
+      <td data-better-raw="17" style="text-align: center">17</td>
       <td data-better-raw="+6" style="text-align: center">+6</td>
       <td data-better-raw="—">—</td>
       <td data-better-raw="4" style="text-align: center">4</td>
@@ -365,9 +365,9 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="1" style="text-align: center">1</td>
     </tr>
     <tr>
-      <th data-better-raw="18" style="text-align: center">18</th>
+      <td data-better-raw="18" style="text-align: center">18</td>
       <td data-better-raw="+6" style="text-align: center">+6</td>
-      <td data-better-raw="Beast Spells">Beast Spells</td>
+      <td data-better-raw="Beast Spells"><a href="#level-18-beast-spells">Beast Spells</a></td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="20" style="text-align: center">20</td>
@@ -382,9 +382,9 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="1" style="text-align: center">1</td>
     </tr>
     <tr>
-      <th data-better-raw="19" style="text-align: center">19</th>
+      <td data-better-raw="19" style="text-align: center">19</td>
       <td data-better-raw="+6" style="text-align: center">+6</td>
-      <td data-better-raw="Epic Boon">Epic Boon</td>
+      <td data-better-raw="Epic Boon"><a href="#level-19-epic-boon">Epic Boon</a></td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="21" style="text-align: center">21</td>
@@ -399,9 +399,9 @@ As a Druid, you gain the following class features when you reach the specified D
       <td data-better-raw="1" style="text-align: center">1</td>
     </tr>
     <tr>
-      <th data-better-raw="20" style="text-align: center">20</th>
+      <td data-better-raw="20" style="text-align: center">20</td>
       <td data-better-raw="+6" style="text-align: center">+6</td>
-      <td data-better-raw="Archdruid">Archdruid</td>
+      <td data-better-raw="Archdruid"><a href="#level-20-archdruid">Archdruid</a></td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="22" style="text-align: center">22</td>

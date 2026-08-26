@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T19:14:59.677-04:00
-modified: 2026-08-25T01:42:59.809-04:00
-published: 2026-08-25T01:42:59.809-04:00
+modified: 2026-08-26T00:47:47.090-04:00
+published: 2026-08-26T00:47:47.090-04:00
 Source: Heliana's Guide to Monster Hunting
 Official: false
 Publisher: Loot Tavern
@@ -212,12 +212,12 @@ _**Jello Shot.**_ Immediately after you take damage, you gain **[[resistance]]
 
 ##### Boss Monster Effect Scaling
 
-|    Rarity     | Aboleth Ramen | Jello Shot | Mushroom Mélange | Rakoyaki  | Skrapyard Sosig | Tongue Twister Tart | Magnetite Curry | Dumpleyengs | Suneater Steak and Eggs | Tar‑rasque Marrow Broth |
-| :-----------: | :-----------: | :--------: | :--------------: | :-------: | :-------------: | :-----------------: | :-------------: | :---------: | :---------------------: | :---------------------------: |
-| **Uncommon**  |     5 ft.     |     1      |      60 ft.      |  Cantrip  |    Cha mod\*     |        DC 13        |       1d6       |    DC 13    |           1d6           |              1d4              |
-|   **Rare**    |     5 ft.     |     1      |     240 ft.      | 1st level |  Cha mod\* + 2   |        DC 15        |       1d8       |    DC 15    |           2d6           |              2d4              |
-| **Very rare** |    10 ft.     |     2      |     960 ft.      | 2nd level |  Cha mod\* + 4   |        DC 16        |      1d10       |    DC 16    |           3d6           |              3d4              |
-| **Legendary** |    10 ft.     |     2      |      1 mile      | 3rd level |  Cha mod\* + 6   |        DC 17        |      1d12       |    DC 17    |           4d6           |              4d4              |
+|    Rarity     | Aboleth Ramen | Jello Shot | Mushroom Mélange | Rakoyaki  |       Skrapyard Sosig       | Tongue Twister Tart | Magnetite Curry | Dumpleyengs | Suneater Steak & Eggs | Tar‑rasque Marrow Broth |
+| :-----------: | :-----------: | :-------------: | :--------------: | :-------: | :-------------------------: | :----------------------: | :-------------: | :---------: | :-----------------------------: | :--------------------------------: |
+| **Uncommon**  |     5 ft.     |        1        |      60 ft.      |  Cantrip  |          Cha mod\*           |          DC 13           |       1d6       |    DC 13    |               1d6               |                1d4                 |
+|   **Rare**    |     5 ft.     |        1        |     240 ft.      | 1st level | Cha mod\* + 2 |          DC 15           |       1d8       |    DC 15    |               2d6               |                2d4                 |
+| **Very rare** |    10 ft.     |        2        |     960 ft.      | 2nd level |        Cha mod\* + 4         |          DC 16           |      1d10       |    DC 16    |               3d6               |                3d4                 |
+| **Legendary** |    10 ft.     |        2        |      1 mile      | 3rd level |        Cha mod\* + 6         |          DC 17           |      1d12       |    DC 17    |               4d6               |                4d4                 |
 
 ### Edible Component Effects
 

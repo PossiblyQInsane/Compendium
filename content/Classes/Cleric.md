@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T21:26:01.386-04:00
-modified: 2026-08-24T01:41:22.699-04:00
-published: 2026-08-24T01:41:22.699-04:00
+modified: 2026-08-26T00:57:31.769-04:00
+published: 2026-08-26T00:57:31.769-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -77,7 +77,7 @@ As a Cleric, you gain the following class features when you reach the specified 
     <tr>
       <td data-better-raw="1" style="text-align: center">1</td>
       <td data-better-raw="+2" style="text-align: center">+2</td>
-      <td data-better-raw="Spellcasting, Divine Order">Spellcasting, Divine Order</td>
+      <td data-better-raw="Spellcasting, Divine Order"><a href="#level-1-spellcasting">Spellcasting</a>, <a href="#level-1-divine-order">Divine Order</a></td>
       <td data-better-raw="—" style="text-align: center">—</td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="4" style="text-align: center">4</td>
@@ -94,7 +94,7 @@ As a Cleric, you gain the following class features when you reach the specified 
     <tr>
       <td data-better-raw="2" style="text-align: center">2</td>
       <td data-better-raw="+2" style="text-align: center">+2</td>
-      <td data-better-raw="Channel Divinity">Channel Divinity</td>
+      <td data-better-raw="Channel Divinity"><a href="#level-2-channel-divinity">Channel Divinity</a></td>
       <td data-better-raw="2" style="text-align: center">2</td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="5" style="text-align: center">5</td>
@@ -111,7 +111,7 @@ As a Cleric, you gain the following class features when you reach the specified 
     <tr>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="+2" style="text-align: center">+2</td>
-      <td data-better-raw="Cleric Subclass">Cleric Subclass</td>
+      <td data-better-raw="Cleric Subclass"><a href="#level-3-cleric-subclass">Cleric Subclass</a></td>
       <td data-better-raw="2" style="text-align: center">2</td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="6" style="text-align: center">6</td>
@@ -128,7 +128,7 @@ As a Cleric, you gain the following class features when you reach the specified 
     <tr>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="+2" style="text-align: center">+2</td>
-      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="Ability Score Improvement"><a href="#level-4-ability-score-improvement">Ability Score Improvement</a></td>
       <td data-better-raw="2" style="text-align: center">2</td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="7" style="text-align: center">7</td>
@@ -145,7 +145,7 @@ As a Cleric, you gain the following class features when you reach the specified 
     <tr>
       <td data-better-raw="5" style="text-align: center">5</td>
       <td data-better-raw="+3" style="text-align: center">+3</td>
-      <td data-better-raw="Sear Undead">Sear Undead</td>
+      <td data-better-raw="Sear Undead"><a href="#level-5-sear-undead">Sear Undead</a></td>
       <td data-better-raw="2" style="text-align: center">2</td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="9" style="text-align: center">9</td>
@@ -179,7 +179,7 @@ As a Cleric, you gain the following class features when you reach the specified 
     <tr>
       <td data-better-raw="7" style="text-align: center">7</td>
       <td data-better-raw="+3" style="text-align: center">+3</td>
-      <td data-better-raw="Blessed Strikes">Blessed Strikes</td>
+      <td data-better-raw="Blessed Strikes"><a href="#level-7-blessed-strikes">Blessed Strikes</a></td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="11" style="text-align: center">11</td>
@@ -196,7 +196,7 @@ As a Cleric, you gain the following class features when you reach the specified 
     <tr>
       <td data-better-raw="8" style="text-align: center">8</td>
       <td data-better-raw="+3" style="text-align: center">+3</td>
-      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="Ability Score Improvement"><a href="#level-4-ability-score-improvement">Ability Score Improvement</a></td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="12" style="text-align: center">12</td>
@@ -230,7 +230,7 @@ As a Cleric, you gain the following class features when you reach the specified 
     <tr>
       <td data-better-raw="10" style="text-align: center">10</td>
       <td data-better-raw="+4" style="text-align: center">+4</td>
-      <td data-better-raw="Divine Intervention">Divine Intervention</td>
+      <td data-better-raw="Divine Intervention"><a href="#level-10-divine-intervention">Divine Intervention</a></td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="5" style="text-align: center">5</td>
       <td data-better-raw="15" style="text-align: center">15</td>
@@ -264,7 +264,7 @@ As a Cleric, you gain the following class features when you reach the specified 
     <tr>
       <td data-better-raw="12" style="text-align: center">12</td>
       <td data-better-raw="+4" style="text-align: center">+4</td>
-      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="Ability Score Improvement"><a href="#level-4-ability-score-improvement">Ability Score Improvement</a></td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="5" style="text-align: center">5</td>
       <td data-better-raw="16" style="text-align: center">16</td>
@@ -298,7 +298,7 @@ As a Cleric, you gain the following class features when you reach the specified 
     <tr>
       <td data-better-raw="14" style="text-align: center">14</td>
       <td data-better-raw="+5" style="text-align: center">+5</td>
-      <td data-better-raw="Improved Blessed Strikes">Improved Blessed Strikes</td>
+      <td data-better-raw="Improved Blessed Strikes"><a href="#level-14-improved-blessed-strikes">Improved Blessed Strikes</a></td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="5" style="text-align: center">5</td>
       <td data-better-raw="17" style="text-align: center">17</td>
@@ -332,7 +332,7 @@ As a Cleric, you gain the following class features when you reach the specified 
     <tr>
       <td data-better-raw="16" style="text-align: center">16</td>
       <td data-better-raw="+5" style="text-align: center">+5</td>
-      <td data-better-raw="Ability Score Improvement">Ability Score Improvement</td>
+      <td data-better-raw="Ability Score Improvement"><a href="#level-4-ability-score-improvement">Ability Score Improvement</a></td>
       <td data-better-raw="3" style="text-align: center">3</td>
       <td data-better-raw="5" style="text-align: center">5</td>
       <td data-better-raw="18" style="text-align: center">18</td>
@@ -366,7 +366,7 @@ As a Cleric, you gain the following class features when you reach the specified 
     <tr>
       <td data-better-raw="18" style="text-align: center">18</td>
       <td data-better-raw="+6" style="text-align: center">+6</td>
-      <td data-better-raw="---">---</td>
+      <td data-better-raw="—">—</td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="5" style="text-align: center">5</td>
       <td data-better-raw="20" style="text-align: center">20</td>
@@ -383,7 +383,7 @@ As a Cleric, you gain the following class features when you reach the specified 
     <tr>
       <td data-better-raw="19" style="text-align: center">19</td>
       <td data-better-raw="+6" style="text-align: center">+6</td>
-      <td data-better-raw="Epic Boon">Epic Boon</td>
+      <td data-better-raw="Epic Boon"><a href="#level-19-epic-boon">Epic Boon</a></td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="5" style="text-align: center">5</td>
       <td data-better-raw="21" style="text-align: center">21</td>
@@ -400,7 +400,7 @@ As a Cleric, you gain the following class features when you reach the specified 
     <tr>
       <td data-better-raw="20" style="text-align: center">20</td>
       <td data-better-raw="+6" style="text-align: center">+6</td>
-      <td data-better-raw="Greater Divine Intervention">Greater Divine Intervention</td>
+      <td data-better-raw="Greater Divine Intervention"><a href="#level-20-greater-divine-intervention">Greater Divine Intervention</a></td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="5" style="text-align: center">5</td>
       <td data-better-raw="22" style="text-align: center">22</td>

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T14:27:33.074-04:00
-modified: 2026-08-17T17:37:53.533-04:00
-published: 2026-08-17T17:37:53.533-04:00
+modified: 2026-08-26T00:58:42.376-04:00
+published: 2026-08-26T00:58:42.376-04:00
 Parent Class: "[[Barbarian]]"
 Source: Valda's Spire of Secrets
 Official: false
@@ -52,4 +52,4 @@ You’re such an amazing wizard that other wizards can’t even touch you. While
 
 ### Level 14: I Cast Fist
 
-You can crush your enemies with your ultimate “spell”: _[[Path of the Muscle Wizard#Level 14 I Cast Fist|Fist]]_. When you take the [[Attack]] action while your Rage is active, you can replace one of your attacks with a really hard punch. Make an [[Unarmed Strike]] with [[Advantage]]. On a hit, the target takes Bludgeoning damage equal to 6d6 plus your Strength modifier and has the [[Prone]] condition if it is Huge or smaller. You can use this feature once per active Rage.
+You can crush your enemies with your ultimate “spell”: <a><i>Fist</i></a>. When you take the [[Attack]] action while your Rage is active, you can replace one of your attacks with a really hard punch. Make an [[Unarmed Strike]] with [[Advantage]]. On a hit, the target takes Bludgeoning damage equal to 6d6 plus your Strength modifier and has the [[Prone]] condition if it is Huge or smaller. You can use this feature once per active Rage.

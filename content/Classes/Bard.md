@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T18:31:37.539-04:00
-modified: 2026-08-25T12:23:47.644-04:00
-published: 2026-08-25T12:23:47.644-04:00
+modified: 2026-08-26T00:34:16.852-04:00
+published: 2026-08-26T00:34:16.852-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -405,7 +405,7 @@ As a Bard, you gain the following class features when you reach the specified Ba
     <tr>
       <td data-better-raw="20" style="text-align: center">20</td>
       <td data-better-raw="+6" style="text-align: center">+6</td>
-      <td data-better-raw="Words of Creation"><a href="level-20-words-of-creation">Words of Creation</a></td>
+      <td data-better-raw="Words of Creation"><a href="#level-20-words-of-creation">Words of Creation</a></td>
       <td data-better-raw="D12" style="text-align: center">D12</td>
       <td data-better-raw="4" style="text-align: center">4</td>
       <td data-better-raw="22" style="text-align: center">22</td>
