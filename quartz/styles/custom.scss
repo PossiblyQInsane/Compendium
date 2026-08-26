@@ -31,6 +31,10 @@ a.broken {
  color: royalblue !important;
 }
 
+table td, table th {
+  vertical-align: middle;
+}
+
 /* Center alignment */
 .markdown-rendered img[alt*="center"],
 .cm-embed-block:has(img[alt*="center"]) {
