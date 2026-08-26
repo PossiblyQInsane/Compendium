@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-08-26T02:23:33.771-04:00
-published: 2026-08-26T02:23:33.771-04:00
+modified: 2026-08-26T11:27:01.494-04:00
+published: 2026-08-26T11:27:01.494-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 Edition: 5.5e
@@ -20,15 +20,15 @@ Edition: 5.5e
 
 ## Core Artificer Traits
 
-| **Primary Ability**            | Intelligence                                                                                                                                        |
-| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Hit Point Die**              | D8 per Artificer level                                                                                                                              |
-| **Saving Throw Proficiencies** | Constitution and Intelligence                                                                                                                       |
-| **Skill Proficiencies**        | _Choose 2:_ [[Arcana]], [[History]], [[Investigation]], [[Medicine]], [[Nature]], [[Perception]], or [[Sleight of Hand]]                            |
-| **Weapon Proficiencies**       | [[Simple weapons]]                                                                                                                                  |
-| **Tool Proficiencies**         | [[Thieves' Tools]], [[Tinker's Tools]], and one type of [[Artisan's Tools]] of your choice                                                          |
-| **Armor Training**             | [[Light armor\|Light]] and [[Medium armor]] and [[Shields]]                                                                                         |
-| **Starting Equipment**         | _Choose A or B:_ (A) [[Studded Leather Armor]], [[Dagger]], [[Thieves' Tools]], [[Tinker's Tools]], [[Dungeoneer's Pack]], and 16 GP; or (B) 150 GP |
+| **Primary Ability**                                                      | Intelligence                                                                                                                                        |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Hit Point Die**                                                        | D8 per Artificer level                                                                                                                              |
+| <span style="white-space: nowrap;">**Saving Throw Proficiencies**</span> | Constitution and Intelligence                                                                                                                       |
+| **Skill Proficiencies**                                                  | _Choose 2:_ [[Arcana]], [[History]], [[Investigation]], [[Medicine]], [[Nature]], [[Perception]], or [[Sleight of Hand]]                            |
+| **Weapon Proficiencies**                                                 | [[Simple weapons]]                                                                                                                                  |
+| **Tool Proficiencies**                                                   | [[Thieves' Tools]], [[Tinker's Tools]], and one type of [[Artisan's Tools]] of your choice                                                          |
+| **Armor Training**                                                       | [[Light armor\|Light]] and [[Medium armor]] and [[Shields]]                                                                                         |
+| **Starting Equipment**                                                   | _Choose A or B:_ (A) [[Studded Leather Armor]], [[Dagger]], [[Thieves' Tools]], [[Tinker's Tools]], [[Dungeoneer's Pack]], and 16 GP; or (B) 150 GP |
 
 Masters of invention, Artificers use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions.
 

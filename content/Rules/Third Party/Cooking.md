@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T19:14:59.677-04:00
-modified: 2026-08-26T00:47:47.090-04:00
-published: 2026-08-26T00:47:47.090-04:00
+modified: 2026-08-26T11:32:43.482-04:00
+published: 2026-08-26T11:32:43.482-04:00
 Source: Heliana's Guide to Monster Hunting
 Official: false
 Publisher: Loot Tavern
@@ -133,19 +133,19 @@ Boss Monster recipes confer unique effects in addition to the effects of the com
 <div style="overflow-x: auto;">
 <table>
 <thead>
-<tr><th>Recipe</th><th style="text-align:center">DC</th><th colspan="2">Boss Ingredients</th><th colspan="3">Other Ingredients</th></tr>
+<tr><th>Recipe</th><th style="text-align:center">DC</th><th>Boss Ingredients</th><th colspan="3">Other Ingredients</th></tr>
 </thead>
 <tbody>
-<tr><td><i>Aboleth Ramen</i></td><td style="text-align:center">12</td><td>Flesh:</td><td><i>Aberration (broodmother) tentacle</i></td><td></td><td></td><td></td></tr>
-<tr><td><i>Jello Shot</i></td><td style="text-align:center">16</td><td>Blood:</td><td><i>Phial of ooze (polyhedrooze) mucus</i></td><td><i>Fat</i></td><td></td><td></td></tr>
-<tr><td><i>Mushroom Mélange</i></td><td style="text-align:center">16</td><td>Spice:</td><td><i>Pouch of plant (hyphan) spores</i></td><td><i>Fat</i></td><td></td><td></td></tr>
-<tr><td><i>Rakoyaki</i></td><td style="text-align:center">16</td><td>Brain:</td><td><i>Fiend (pygmy) brain</i></td><td><i>Blood</i></td><td></td><td></td></tr>
-<tr><td><i>Skrapyard Sosig</i></td><td style="text-align:center">16</td><td>Flesh:</td><td><i>Construct (koboldzilla) tubing</i></td><td><i>Egg</i></td><td></td><td></td></tr>
-<tr><td><i>Tongue Twister Tart</i></td><td style="text-align:center">16</td><td>Flesh:</td><td><i>Monstrosity (tavern mimic) tongue</i></td><td><i>Brain</i></td><td></td><td></td></tr>
-<tr><td><i>Magnetite Curry<i></td><td style="text-align:center">20</td><td>Flesh:</td><td><i>Dragon (magnetite) flesh</i></td><td><i>Liver</i></td><td><i>Spice</i></td><td></td></tr>
-<tr><td><i>Dumpleyengs</i></td><td style="text-align:center">20</td><td>Eye:</td><td><i>Aberration (dreamholder) subeye</i></td><td><i>Blood</i></td><td><i>Heart</i></td><td></td></tr>
-<tr><td><i>Suneater Steak and Eggs</i></td><td style="text-align:center">20</td><td>Flesh:</td><td><i>Fey (suneater) flesh</i></td><td><i>Blood</i></td><td><i>Egg</i></td><td></td></tr>
-<tr><td><i>Tar-rasque Marrow Broth</i></td><td style="text-align:center">24</td><td>Bone:</td><td><i>Elemental (tar-rasque) marrow</i></td><td><i>Heart</i></td><td><i>Liver</i></td><td><i>Spice</i></td></tr>
+<tr><td><i>Aboleth Ramen</i></td><td style="text-align:center">12</td><td>Flesh: <i>Aberration (broodmother) tentacle</i></td><td></td><td></td><td></td></tr>
+<tr><td><i>Jello Shot</i></td><td style="text-align:center">16</td><td>Blood: <i>Phial of ooze (polyhedrooze) mucus</i></td><td><i>Fat</i></td><td></td><td></td></tr>
+<tr><td><i>Mushroom Mélange</i></td><td style="text-align:center">16</td><td>Spice: <i>Pouch of plant (hyphan) spores</i></td><td><i>Fat</i></td><td></td><td></td></tr>
+<tr><td><i>Rakoyaki</i></td><td style="text-align:center">16</td><td>Brain: <i>Fiend (pygmy) brain</i></td><td><i>Blood</i></td><td></td><td></td></tr>
+<tr><td><i>Skrapyard Sosig</i></td><td style="text-align:center">16</td><td>Flesh: <i>Construct (koboldzilla) tubing</i></td><td><i>Egg</i></td><td></td><td></td></tr>
+<tr><td><i>Tongue Twister Tart</i></td><td style="text-align:center">16</td><td>Flesh: <i>Monstrosity (tavern mimic) tongue</i></td><td><i>Brain</i></td><td></td><td></td></tr>
+<tr><td><i>Magnetite Curry<i></td><td style="text-align:center">20</td><td>Flesh: <i>Dragon (magnetite) flesh</i></td><td><i>Liver</i></td><td><i>Spice</i></td><td></td></tr>
+<tr><td><i>Dumpleyengs</i></td><td style="text-align:center">20</td><td>Eye: <i>Aberration (dreamholder) subeye</i></td><td><i>Blood</i></td><td><i>Heart</i></td><td></td></tr>
+<tr><td><i>Suneater Steak and Eggs</i></td><td style="text-align:center">20</td><td>Flesh: <i>Fey (suneater) flesh</i></td><td><i>Blood</i></td><td><i>Egg</i></td><td></td></tr>
+<tr><td><i>Tar-rasque Marrow Broth</i></td><td style="text-align:center">24</td><td>Bone: <i>Elemental (tar-rasque) marrow</i></td><td><i>Heart</i></td><td><i>Liver</i></td><td><i>Spice</i></td></tr>
 </tbody>
 </table>
 </div>
@@ -212,12 +212,12 @@ _**Jello Shot.**_ Immediately after you take damage, you gain **[[resistance]]
 
 ##### Boss Monster Effect Scaling
 
-|    Rarity     | Aboleth Ramen | Jello Shot | Mushroom Mélange | Rakoyaki  |       Skrapyard Sosig       | Tongue Twister Tart | Magnetite Curry | Dumpleyengs | Suneater Steak & Eggs | Tar‑rasque Marrow Broth |
-| :-----------: | :-----------: | :-------------: | :--------------: | :-------: | :-------------------------: | :----------------------: | :-------------: | :---------: | :-----------------------------: | :--------------------------------: |
-| **Uncommon**  |     5 ft.     |        1        |      60 ft.      |  Cantrip  |          Cha mod\*           |          DC 13           |       1d6       |    DC 13    |               1d6               |                1d4                 |
-|   **Rare**    |     5 ft.     |        1        |     240 ft.      | 1st level | Cha mod\* + 2 |          DC 15           |       1d8       |    DC 15    |               2d6               |                2d4                 |
-| **Very rare** |    10 ft.     |        2        |     960 ft.      | 2nd level |        Cha mod\* + 4         |          DC 16           |      1d10       |    DC 16    |               3d6               |                3d4                 |
-| **Legendary** |    10 ft.     |        2        |      1 mile      | 3rd level |        Cha mod\* + 6         |          DC 17           |      1d12       |    DC 17    |               4d6               |                4d4                 |
+|    Rarity     | Aboleth Ramen | Jello Shot | Mushroom Mélange | Rakoyaki  |                    Skrapyard Sosig                     | Tongue Twister Tart | Magnetite Curry | Dumpleyengs | Suneater Steak & Eggs | Tar‑rasque Marrow Broth |
+| :-----------: | :-----------: | :-------------: | :--------------: | :-------: | :----------------------------------------------------: | :----------------------: | :-------------: | :---------: | :-----------------------------: | :--------------------------------: |
+| **Uncommon**  |     5 ft.     |        1        |      60 ft.      |  Cantrip  |                        Cha mod\*                        |          DC 13           |       1d6       |    DC 13    |               1d6               |                1d4                 |
+|   **Rare**    |     5 ft.     |        1        |     240 ft.      | 1st level |              Cha mod\* + 2               |          DC 15           |       1d8       |    DC 15    |               2d6               |                2d4                 |
+| **Very rare** |    10 ft.     |        2        |     960 ft.      | 2nd level |                      Cha mod\* + 4                      |          DC 16           |      1d10       |    DC 16    |               3d6               |                3d4                 |
+| **Legendary** |    10 ft.     |        2        |      1 mile      | 3rd level | <span style="white-space: nowrap;">Cha mod\* + 6</span> |          DC 17           |      1d12       |    DC 17    |               4d6               |                4d4                 |
 
 ### Edible Component Effects
 

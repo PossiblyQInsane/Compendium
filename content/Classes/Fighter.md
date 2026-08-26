@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-11T11:24:50.805-04:00
-modified: 2026-08-25T01:54:16.785-04:00
-published: 2026-08-25T01:54:16.785-04:00
+modified: 2026-08-26T11:28:03.401-04:00
+published: 2026-08-26T11:28:03.401-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -18,14 +18,14 @@ Edition: 5.5e
 
 ## Core Fighter Traits
 
-| **Primary Ability**            | Strength or Dexterity                                                                                                                                                                                                                                                                          |
-| :----------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Hit Point Die**              | D10 per Fighter level                                                                                                                                                                                                                                                                          |
-| **Saving Throw Proficiencies** | Strength and Constitution                                                                                                                                                                                                                                                                      |
-| **Skill Proficiencies**        | _Choose 2:_ [[Acrobatics]], [[Animal Handling]], [[Athletics]], [[History]], [[Insight]], [[Intimidation]], [[Persuasion]], [[Perception]], or [[Survival]]                                                                                                                                    |
-| **Weapon Proficiencies**       | [[Simple weapons\|Simple]] and [[Martial weapons]]                                                                                                                                                                                                                                             |
-| **Armor Training**             | [[Light armor\|Light]], [[Medium armor\|Medium]], and [[Heavy armor]] and [[Shields]]                                                                                                                                                                                                          |
-| **Starting Equipment**         | _Choose A, B, or C:_ (A) [[Chain Mail]], [[Greatsword]], [[Flail]], 8 [[Javelin\|Javelins]], [[Dungeoneer's Pack]], and 4 GP; (B) [[Studded Leather Armor]], [[Scimitar]], [[Shortsword]], [[Longbow]], 20 [[Ammunition\|Arrows]], [[Quiver]], [[Dungeoneer's Pack]], and 11 GP; or (C) 155 GP |
+| **Primary Ability**                                                      | Strength or Dexterity                                                                                                                                                                                                                                                                          |
+| :----------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Hit Point Die**                                                        | D10 per Fighter level                                                                                                                                                                                                                                                                          |
+| <span style="white-space: nowrap;">**Saving Throw Proficiencies**</span> | Strength and Constitution                                                                                                                                                                                                                                                                      |
+| **Skill Proficiencies**                                                  | _Choose 2:_ [[Acrobatics]], [[Animal Handling]], [[Athletics]], [[History]], [[Insight]], [[Intimidation]], [[Persuasion]], [[Perception]], or [[Survival]]                                                                                                                                    |
+| **Weapon Proficiencies**                                                 | [[Simple weapons\|Simple]] and [[Martial weapons]]                                                                                                                                                                                                                                             |
+| **Armor Training**                                                       | [[Light armor\|Light]], [[Medium armor\|Medium]], and [[Heavy armor]] and [[Shields]]                                                                                                                                                                                                          |
+| **Starting Equipment**                                                   | _Choose A, B, or C:_ (A) [[Chain Mail]], [[Greatsword]], [[Flail]], 8 [[Javelin\|Javelins]], [[Dungeoneer's Pack]], and 4 GP; (B) [[Studded Leather Armor]], [[Scimitar]], [[Shortsword]], [[Longbow]], 20 [[Ammunition\|Arrows]], [[Quiver]], [[Dungeoneer's Pack]], and 11 GP; or (C) 155 GP |
 
 Fighters rule many battlefields. Questing knights, royal champions, elite soldiers, and hardened mercenaries—as Fighters, they all share an unparalleled prowess with weapons and armor. And they are well acquainted with death, both meting it out and defying it.
 

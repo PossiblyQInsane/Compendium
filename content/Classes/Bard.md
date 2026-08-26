@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T18:31:37.539-04:00
-modified: 2026-08-26T00:34:16.852-04:00
-published: 2026-08-26T00:34:16.852-04:00
+modified: 2026-08-26T11:27:35.272-04:00
+published: 2026-08-26T11:27:35.272-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -18,15 +18,15 @@ Edition: 5.5e
 
 ## Core Bard Traits
 
-| **Primary Ability**            | Charisma                                                                                                                                              |
-| :----------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Hit Point Die**              | D8 per Bard level                                                                                                                                     |
-| **Saving Throw Proficiencies** | Dexterity and Charisma                                                                                                                                |
-| **Skill Proficiencies**        | Choose any 3 [[Skill Proficiencies\|skills]]                                                                                                          |
-| **Weapon Proficiencies**       | [[Simple weapons]]                                                                                                                                    |
-| **Tool Proficiencies**         | Choose 3 [[Musical Instrument\|Musical Instruments]]                                                                                                  |
-| **Armor Training**             | [[Light armor]]                                                                                                                                       |
-| **Starting Equipment**         | _Choose A or B:_ (A) [[Leather Armor]], 2 [[Dagger\|Daggers]], [[Musical Instrument]] of your choice, [[Entertainer's Pack]], and 19 GP; or (B) 90 GP |
+| **Primary Ability**                                                      | Charisma                                                                                                                                              |
+| :----------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Hit Point Die**                                                        | D8 per Bard level                                                                                                                                     |
+| <span style="white-space: nowrap;">**Saving Throw Proficiencies**</span> | Dexterity and Charisma                                                                                                                                |
+| **Skill Proficiencies**                                                  | Choose any 3 [[Skill Proficiencies\|skills]]                                                                                                          |
+| **Weapon Proficiencies**                                                 | [[Simple weapons]]                                                                                                                                    |
+| **Tool Proficiencies**                                                   | Choose 3 [[Musical Instrument\|Musical Instruments]]                                                                                                  |
+| **Armor Training**                                                       | [[Light armor]]                                                                                                                                       |
+| **Starting Equipment**                                                   | _Choose A or B:_ (A) [[Leather Armor]], 2 [[Dagger\|Daggers]], [[Musical Instrument]] of your choice, [[Entertainer's Pack]], and 19 GP; or (B) 90 GP |
 
 Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions. Bards believe the multiverse was spoken into existence and that remnants of its Words of Creation still resound and glimmer on every plane of existence. Bardic magic attempts to harness those words, which transcend any language.
 

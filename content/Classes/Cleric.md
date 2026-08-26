@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T21:26:01.386-04:00
-modified: 2026-08-26T00:57:31.769-04:00
-published: 2026-08-26T00:57:31.769-04:00
+modified: 2026-08-26T11:27:44.598-04:00
+published: 2026-08-26T11:27:44.598-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -18,14 +18,14 @@ Edition: 5.5e
 
 ## Core Cleric Traits
 
-| **Primary Ability**            | Wisdom                                                                                                                  |
-| :----------------------------- | :---------------------------------------------------------------------------------------------------------------------- |
-| **Hit Point Die**              | D8 per Cleric level                                                                                                     |
-| **Saving Throw Proficiencies** | Wisdom and Charisma                                                                                                     |
-| **Skill Proficiencies**        | _Choose 2:_ [[History]], [[Insight]], [[Medicine]], [[Persuasion]], or [[Religion]]                                     |
-| **Weapon Proficiencies**       | [[Simple weapons]]                                                                                                      |
-| **Armor Training**             | [[Light armor\|Light]] and [[Medium armor]] and [[Shields]]                                                             |
-| **Starting Equipment**         | _Choose A or B:_ (A) [[Chain Shirt]], [[Shield]], [[Mace]], [[Holy Symbol]], [[Priest's Pack]], and 7 GP; or (B) 110 GP |
+| **Primary Ability**                                                      | Wisdom                                                                                                                  |
+| :----------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------- |
+| **Hit Point Die**                                                        | D8 per Cleric level                                                                                                     |
+| <span style="white-space: nowrap;">**Saving Throw Proficiencies**</span> | Wisdom and Charisma                                                                                                     |
+| **Skill Proficiencies**                                                  | _Choose 2:_ [[History]], [[Insight]], [[Medicine]], [[Persuasion]], or [[Religion]]                                     |
+| **Weapon Proficiencies**                                                 | [[Simple weapons]]                                                                                                      |
+| **Armor Training**                                                       | [[Light armor\|Light]] and [[Medium armor]] and [[Shields]]                                                             |
+| **Starting Equipment**                                                   | _Choose A or B:_ (A) [[Chain Shirt]], [[Shield]], [[Mace]], [[Holy Symbol]], [[Priest's Pack]], and 7 GP; or (B) 110 GP |
 
 Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.
 
