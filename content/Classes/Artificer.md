@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-08-26T01:11:16.017-04:00
-published: 2026-08-26T01:11:16.017-04:00
+modified: 2026-08-26T02:23:33.771-04:00
+published: 2026-08-26T02:23:33.771-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 Edition: 5.5e
@@ -53,7 +53,7 @@ As an Artificer, you gain the following class features when you reach the specif
 <div style="overflow-x: auto;">
 <table>
 <thead>
-<tr><th rowspan="2" style="text-align:center">Level</th><th rowspan="2" style="text-align:center">Proficiency Bonus</th><th rowspan="2" style="text-align:left">Class Features</th><th rowspan="2" style="text-align:center">Plans Known</th><th rowspan="2" style="text-align:center">Magic Items</th><th rowspan="2" style="text-align:center">Cantrips</th><th rowspan="2" style="text-align:center">Prepared Spells</th><th colspan="5" style="text-align:center">—Spell&nbsp;Slots&nbsp;per&nbsp;Spell&nbsp;Level—</th></tr>
+<tr><th rowspan="2" style="text-align:center">Level</th><th rowspan="2" style="text-align:center">Proficiency Bonus</th><th rowspan="2" style="text-align:left">Class Features</th><th rowspan="2" style="text-align:center">Plans Known</th><th rowspan="2" style="text-align:center">Magic Items</th><th rowspan="2" style="text-align:center">Cantrips</th><th rowspan="2" style="text-align:center">Prepared Spells</th><th colspan="5" style="text-align:center"><span style="white-space: nowrap;">—Spell Slots per Spell Level—</span></th></tr>
 <tr><th style="text-align:center">1</th><th style="text-align:center">2</th><th style="text-align:center">3</th><th style="text-align:center">4</th><th style="text-align:center">5</th></tr>
 </thead>
 <tbody>
@@ -83,7 +83,7 @@ As an Artificer, you gain the following class features when you reach the specif
 
 ### Level 1: Spellcasting
 
-You have learned how to channel magical energy through objects. See [[Spellcasting Rules|Spellcasting]] for the rules on spellcasting. The information below details how you use those rules with Artificer spells, which appear in the [[#Artificer Spell List]] later in the class’s description.
+You have learned how to channel magical energy through objects. See [[Spellcasting]] for the rules on spellcasting. The information below details how you use those rules with Artificer spells, which appear in the [[#Artificer Spell List]] later in the class’s description.
 
 _**Tools Required.**_ You produce your Artificer spells through tools. You can use [[Thieves' Tools|Thieves' Tools]], [[Tinker's Tools|Tinker's Tools]], or another kind of [[Artisan's Tools|Artisan's Tools]] with which you have proficiency as a [[Spellcasting Focus|Spellcasting Focus]], and you must have one of those focuses in hand when you cast an Artificer spell (meaning the spell has an _M_ component when you cast it).
 
