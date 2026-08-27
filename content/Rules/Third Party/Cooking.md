@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T19:14:59.677-04:00
-modified: 2026-08-26T11:32:43.482-04:00
-published: 2026-08-26T11:32:43.482-04:00
+modified: 2026-08-26T23:47:25.963-04:00
+published: 2026-08-26T23:47:25.963-04:00
 Source: Heliana's Guide to Monster Hunting
 Official: false
 Publisher: Loot Tavern
@@ -80,19 +80,54 @@ This book presents two types of recipes: staple ones which can be cooked with mo
 ##### Journeyman Recipes (DC 16)
 
 <table>
-<thead>
-<tr><th style="text-align:center">Recipe</th><th colspan="2" style="text-align:center">Ingredients</th></tr>
-</thead>
-<tbody>
-<tr><td style="text-align:center">Meaty masala</td><td style="text-align:center"><i>Flesh</i></td><td style="text-align:center"><i>Spice</i></td></tr>
-<tr><td style="text-align:center">Tofeye apple</td><td style="text-align:center"><i>Bone</i></td><td style="text-align:center"><i>Eye</i></td></tr>
-<tr><td style="text-align:center">Dwarven scotch</td><td style="text-align:center"><i>Egg</i></td><td style="text-align:center"><i>Flesh</i></td></tr>
-<tr><td style="text-align:center">Gobbois gras</td><td style="text-align:center"><i>Fat</i></td><td style="text-align:center"><i>Liver</i></td></tr>
-<tr><td style="text-align:center">Devilled egg</td><td style="text-align:center"><i>Egg</i></td><td style="text-align:center"><i>Spice</i></td></tr>
-<tr><td style="text-align:center">Black pudding</td><td style="text-align:center"><i>Blood</i></td><td style="text-align:center"><i>Fat</i></td></tr>
-<tr><td style="text-align:center">Bloody gazpacho*</td><td style="text-align:center"><i>Blood</i></td><td style="text-align:center"><i>Spice</i></td></tr>
-<tr><td style="text-align:center">Carrion delight</td><td style="text-align:center"><i>Bone</i></td><td style="text-align:center"><i>Fat</i></td></tr>
-</tbody>
+  <thead>
+    <tr>
+      <th style="text-align: left">Recipe</th>
+      <th colspan="2" style="text-align: left">Ingredients</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Meaty masala</td>
+      <td style="text-align: left"><i>Flesh</i></td>
+      <td style="text-align: left"><i>Spice</i></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Tofeye apple</td>
+      <td style="text-align: left"><i>Bone</i></td>
+      <td style="text-align: left"><i>Eye</i></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Dwarven scotch</td>
+      <td style="text-align: left"><i>Egg</i></td>
+      <td style="text-align: left"><i>Flesh</i></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Gobbois gras</td>
+      <td style="text-align: left"><i>Fat</i></td>
+      <td style="text-align: left"><i>Liver</i></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Devilled egg</td>
+      <td style="text-align: left"><i>Egg</i></td>
+      <td style="text-align: left"><i>Spice</i></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Black pudding</td>
+      <td style="text-align: left"><i>Blood</i></td>
+      <td style="text-align: left"><i>Fat</i></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Bloody gazpacho*</td>
+      <td style="text-align: left"><i>Blood</i></td>
+      <td style="text-align: left"><i>Spice</i></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Carrion delight</td>
+      <td style="text-align: left"><i>Bone</i></td>
+      <td style="text-align: left"><i>Fat</i></td>
+    </tr>
+  </tbody>
 </table>
 <div style="margin-top: 0.1rem; font-style: italic; font-size: 70%">*No heat source required.</div>
 
