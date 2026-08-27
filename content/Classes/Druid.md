@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T10:07:32.423-04:00
-modified: 2026-08-26T23:32:57.897-04:00
-published: 2026-08-26T23:32:57.897-04:00
+modified: 2026-08-26T23:41:14.787-04:00
+published: 2026-08-26T23:41:14.787-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -421,7 +421,7 @@ As a Druid, you gain the following class features when you reach the specified D
 
 ### Level 1: Spellcasting
 
-You have learned to cast spells through studying the mystical forces of nature. See [[Spellcasting/|Spellcasting]] for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the [[Druid#Druid Spell List|Druid spell list]] later in the class’s description.
+You have learned to cast spells through studying the mystical forces of nature. See [[Spellcasting|Spellcasting]] for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the [[Druid#Druid Spell List|Druid spell list]] later in the class’s description.
 
 _**Cantrips.**_ You know two cantrips of your choice from the [[Druid#Druid Spell List|Druid spell list]]. _[[Druidcraft]]_ and _[[Produce Flame]]_ are recommended.
 
@@ -806,6 +806,7 @@ A Druid subclass is a specialization that grants you features at certain Druid l
 | [[Subclasses/Third Party/Druid/Circle of Dragons.md\|Circle of Dragons]]           | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
 | [[Subclasses/Third Party/Druid/Circle of Entropy.md\|Circle of Entropy]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
 | [[Subclasses/Third Party/Druid/Circle of Fenris.md\|Circle of Fenris]]             | Northlands Worldbook                    | Kobold Press            | 5.5e    |
+| [[Subclasses/Third Party/Druid/Circle of Flowers.md\|Circle of Flowers]]           | The Field Guide to Floral Dragons       | Hit Point Press         | 5.5e    |
 | [[Subclasses/Third Party/Druid/Circle of Mutation.md\|Circle of Mutation]]         | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
 | [[Subclasses/Third Party/Druid/Circle of Symbiosis.md\|Circle of Symbiosis]]       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
 | [[Subclasses/Third Party/Druid/Circle of the Blighted.md\|Circle of the Blighted]] | Tal'Dorei Campaign Setting Reborn       | Darrington Press        | 5e      |
