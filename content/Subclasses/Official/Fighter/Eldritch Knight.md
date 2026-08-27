@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-12T01:02:39.697-04:00
-modified: 2026-08-25T01:28:24.751-04:00
-published: 2026-08-25T01:28:24.751-04:00
+modified: 2026-08-26T23:25:26.566-04:00
+published: 2026-08-26T23:25:26.566-04:00
 Parent Class: "[[Fighter]]"
 Source: Player's Handbook 5.5e
 Official: true

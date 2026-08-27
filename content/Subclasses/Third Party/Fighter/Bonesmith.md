@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T00:19:26.681-04:00
-modified: 2026-08-25T01:29:04.479-04:00
-published: 2026-08-25T01:29:04.479-04:00
+modified: 2026-08-26T23:25:26.578-04:00
+published: 2026-08-26T23:25:26.578-04:00
 Parent Class: "[[Fighter]]"
 Source: Dr. Dhrolin's Dictionary of Dinosaurs
 Official: false
