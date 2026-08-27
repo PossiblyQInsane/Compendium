@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T01:37:33.428-04:00
-modified: 2026-08-24T22:08:35.200-04:00
-published: 2026-08-24T22:08:35.200-04:00
+modified: 2026-08-27T00:53:22.160-04:00
+published: 2026-08-27T00:53:22.160-04:00
 Habitat: Planar (Shadowfell), Underdark, Urban
 Treasure: None
 Source: Monster Manual 5.5e
@@ -13,6 +13,8 @@ Edition: 5.5e
 <div align="right" style="font-style: italic; margin-top: 0;">Monster Manual 5.5e</div>
 
 _Relentless Reanimated Corpses_
+
+> [!recite|no-i c-white bg-yellow] **Habitat:** Planar (Shadowfell), Underdark, Urban; **Treasure:** None
 
 > [!caption|sban]
 > ![[Images/Zombies.png]]
