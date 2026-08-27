@@ -20,6 +20,10 @@ h1 {
 h3 {
   font-size: 22px;
   border-bottom: 2px solid;
+  a.internal {
+    color: inherit;
+    text-decoration: inherit;
+  }
 }
 
 hr {
