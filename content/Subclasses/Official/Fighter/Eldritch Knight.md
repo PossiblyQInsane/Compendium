@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-12T01:02:39.697-04:00
-modified: 2026-08-26T23:25:26.566-04:00
-published: 2026-08-26T23:25:26.566-04:00
+modified: 2026-08-26T23:33:16.211-04:00
+published: 2026-08-26T23:33:16.211-04:00
 Parent Class: "[[Fighter]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -19,7 +19,7 @@ Eldritch Knights combine the martial mastery common to all Fighters with a caref
 
 ### Level 3: Spellcasting
 
-You have learned to cast spells. See [[Spellcasting|Spellcasting]] for the rules on spellcasting. The information below details how you use those rules as an Eldritch Knight.
+You have learned to cast spells. See [[Spellcasting/|Spellcasting]] for the rules on spellcasting. The information below details how you use those rules as an Eldritch Knight.
 
 _**Cantrips.**_ You know two cantrips of your choice from the [[Wizard#Wizard Spell List|Wizard spell list]]. _[[Ray of Frost]]_ and _[[Shocking Grasp]]_ are recommended. Whenever you gain a Fighter level, you can replace one of these cantrips with another cantrip of your choice from the Wizard spell list.
 

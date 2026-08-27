@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T21:26:01.386-04:00
-modified: 2026-08-26T23:25:26.523-04:00
-published: 2026-08-26T23:25:26.523-04:00
+modified: 2026-08-26T23:32:24.139-04:00
+published: 2026-08-26T23:32:24.139-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -420,7 +420,7 @@ As a Cleric, you gain the following class features when you reach the specified 
 
 ### Level 1: Spellcasting
 
-You have learned to cast spells through prayer and meditation. See [[Spellcasting|Spellcasting]] for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the [[Cleric#Cleric Spell List|Cleric spell list]] later in the class’s description.
+You have learned to cast spells through prayer and meditation. See [[Spellcasting/|Spellcasting]] for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the [[Cleric#Cleric Spell List|Cleric spell list]] later in the class’s description.
 
 _**Cantrips.**_ You know three cantrips of your choice from the [[Cleric#Cleric Spell List|Cleric spell list]]. _[[Guidance]]_, _[[Sacred Flame]]_, and _[[Thaumaturgy]]_ are recommended.
 

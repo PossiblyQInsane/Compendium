@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T00:19:26.681-04:00
-modified: 2026-08-26T23:25:26.578-04:00
-published: 2026-08-26T23:25:26.578-04:00
+modified: 2026-08-26T23:32:04.540-04:00
+published: 2026-08-26T23:32:04.540-04:00
 Parent Class: "[[Fighter]]"
 Source: Dr. Dhrolin's Dictionary of Dinosaurs
 Official: false
@@ -20,7 +20,7 @@ This gory reimagining of a blacksmith makes armour, weapons, and trinkets from t
 
 ### Level 3: Spellcasting
 
-Bonesmiths use a combination of physical prowess, anatomical knowledge, and necromantic magic to create their gruesome armaments. As a byproduct of this, they have developed a knack to cast certain spells. The information below details how you as a Bonesmith can cast spells. Full details regarding spellcasting can be found in [[Spellcasting|Spellcasting]].
+Bonesmiths use a combination of physical prowess, anatomical knowledge, and necromantic magic to create their gruesome armaments. As a byproduct of this, they have developed a knack to cast certain spells. The information below details how you as a Bonesmith can cast spells. Full details regarding spellcasting can be found in [[Spellcasting/|Spellcasting]].
 
 _**Cantrips.**_ You know the _[[Poison Spray]]_, _[[Mending]]_, and _[[Spare the Dying]]_ cantrips.
 

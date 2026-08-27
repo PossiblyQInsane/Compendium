@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T23:20:29.252-04:00
-modified: 2026-08-24T00:48:18.853-04:00
-published: 2026-08-24T00:48:18.853-04:00
+modified: 2026-08-26T23:29:38.783-04:00
+published: 2026-08-26T23:29:38.783-04:00
 Parent Class: "[[Druid]]"
 Source: "The Griffon's Saddlebag: Book Two"
 Official: false
@@ -40,18 +40,18 @@ Your breath weapon improves at certain levels. At 6th level, your breath weapon 
 
 ##### Dragon Shape Type
 
-| Dragon | Damage Type |
-| :----: | ----------- |
-| Black  | Acid        |
-|  Blue  | Lightning   |
-| Brass  | Fire        |
-| Bronze | Lightning   |
-| Copper | Acid        |
-|  Gold  | Fire        |
-| Green  | Poison      |
-|  Red   | Fire        |
-| Silver | Cold        |
-| White  | Cold        |
+|           Dragon            | Damage Type |
+| :-------------------------: | ----------- |
+|  [[Black Dragons/\|Black]]  | Acid        |
+|   [[Blue Dragons/\|Blue]]   | Lightning   |
+|  [[Brass Dragons/\|Brass]]  | Fire        |
+| [[Bronze Dragons/\|Bronze]] | Lightning   |
+| [[Copper Dragons/\|Copper]] | Acid        |
+|   [[Gold Dragons/\|Gold]]   | Fire        |
+|  [[Green Dragons/\|Green]]  | Poison      |
+|    [[Red Dragons/\|Red]]    | Fire        |
+| [[Silver Dragons/\|Silver]] | Cold        |
+|  [[White Dragons/\|White]]  | Cold        |
 
 ### Level 6: Improved Dragon Shape
 

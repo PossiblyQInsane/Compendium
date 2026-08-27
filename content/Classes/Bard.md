@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T18:31:37.539-04:00
-modified: 2026-08-26T23:25:26.457-04:00
-published: 2026-08-26T23:25:26.457-04:00
+modified: 2026-08-26T23:31:42.982-04:00
+published: 2026-08-26T23:31:42.982-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -437,7 +437,7 @@ _**At Higher Levels.**_ Your Bardic Inspiration die changes when you reach certa
 
 ### Level 1: Spellcasting
 
-You have learned to cast spells through your bardic arts. See [[Spellcasting|Spellcasting]] for the rules on spellcasting. The information below details how you use those rules with Bard spells, which appear in the [[Bard#Bard Spell List|Bard Spell List]] later in the class’s description.
+You have learned to cast spells through your bardic arts. See [[Spellcasting/|Spellcasting]] for the rules on spellcasting. The information below details how you use those rules with Bard spells, which appear in the [[Bard#Bard Spell List|Bard Spell List]] later in the class’s description.
 
 _**Cantrips.**_ You know two cantrips of your choice from the [[Bard#Bard Spell List|Bard spell list]]. _[[Dancing Lights]]_ and _[[Vicious Mockery]]_ are recommended.
 
