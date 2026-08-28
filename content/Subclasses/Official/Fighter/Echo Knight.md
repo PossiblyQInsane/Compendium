@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-24T01:54:46.886-04:00
-modified: 2026-08-25T02:15:09.102-04:00
-published: 2026-08-25T02:15:09.102-04:00
+modified: 2026-08-28T09:54:12.371-04:00
+published: 2026-08-28T09:54:12.371-04:00
 Parent Class: "[[Fighter]]"
 Source: Explorer's Guide to Wildemount
 Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Explorer's Guide to Wildemount</div></i>
+<div class="source">Explorer's Guide to Wildemount</div>
 
 ![[Images/Echo Knight.png|left|347]]
 

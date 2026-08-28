@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-17T23:11:24.309-04:00
-modified: 2026-08-23T16:40:56.540-04:00
-published: 2026-08-23T16:40:56.540-04:00
+modified: 2026-08-28T09:49:35.092-04:00
+published: 2026-08-28T09:49:35.092-04:00
 Parent Class: "[[Cleric]]"
 Source: Tasha's Cauldron of Everything
 Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Tasha's Cauldron of Everything</i></div>
+<div class="source">Tasha's Cauldron of Everything</div>
 
 > [!quote|author c-white] Tasha
 > Have these peaceful clerics even considered that they’re subverting a most holy system, one where bad decisions coincide with the teaching power of pain?

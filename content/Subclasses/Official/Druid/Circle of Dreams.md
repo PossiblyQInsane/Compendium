@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-23T23:18:53.457-04:00
-modified: 2026-08-23T23:45:58.064-04:00
-published: 2026-08-23T23:45:58.064-04:00
+modified: 2026-08-28T09:50:38.616-04:00
+published: 2026-08-28T09:50:38.616-04:00
 Parent Class: "[[Druid]]"
 Source: Xanathar's Guide to Everything
 Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Xanathar's Guide to Everything</i></div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 ![[Images/Circle of Dreams.png|left|282]]
 

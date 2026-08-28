@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T01:52:37.544-04:00
-modified: 2026-08-25T11:59:37.348-04:00
-published: 2026-08-25T11:59:37.348-04:00
+modified: 2026-08-28T10:09:40.610-04:00
+published: 2026-08-28T10:09:40.610-04:00
 Parent Class: "[[Fighter]]"
 Source: "The Griffon's Saddlebag: Book One"
 Official: false
@@ -10,7 +10,7 @@ Publisher: The Griffon's Saddlebag
 Edition: 5.5e
 ---
 
-<div align="right"><i>The Griffon's Saddlebag: Book One<br>The Griffon's Saddlebag</i></div>
+<div class="source">The Griffon's Saddlebag: Book One<br>The Griffon's Saddlebag</div>
 
 ![[Images/Couatl Herald.png|right|241]]
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-26T02:26:15.011-04:00
-modified: 2026-08-27T00:05:10.048-04:00
-published: 2026-08-27T00:05:10.048-04:00
+modified: 2026-08-28T10:07:07.654-04:00
+published: 2026-08-28T10:07:07.654-04:00
 Parent Class: "[[Druid]]"
 Source: The Field Guide to Floral Dragons
 Official: false
@@ -10,7 +10,7 @@ Publisher: Hit Point Press
 Edition: 5.5e
 ---
 
-<div align="right"><i>The Field Guide to Floral Dragons<br>Hit Point Press</i></div>
+<div class="source">The Field Guide to Floral Dragons<br>Hit Point Press</div>
 
 > [!caption|right]
 > ![[Images/Circle of Flowers.png]]

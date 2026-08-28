@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-17T23:28:22.145-04:00
-modified: 2026-08-23T16:40:56.590-04:00
-published: 2026-08-23T16:40:56.590-04:00
+modified: 2026-08-28T09:50:01.111-04:00
+published: 2026-08-28T09:50:01.111-04:00
 Parent Class: "[[Cleric]]"
 Source: Tasha's Cauldron of Everything
 Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Tasha's Cauldron of Everything</i></div>
+<div class="source">Tasha's Cauldron of Everything</div>
 
 > [!quote|author c-white] Tasha
 > I can’t believe I’m writing this, but I think I could get behind a faith focused on mood lighting and evening wear.

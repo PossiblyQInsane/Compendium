@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-16T20:37:40.271-04:00
-modified: 2026-08-17T17:21:15.934-04:00
-published: 2026-08-17T17:21:15.934-04:00
+modified: 2026-08-28T09:47:55.114-04:00
+published: 2026-08-28T09:47:55.114-04:00
 Parent Class: "[[Bard]]"
 Source: Xanathar's Guide to Everything
 Official: true
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Xanathar's Guide to Everything</div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 Most folk are happy to welcome a bard into their midst. Bards of the College of Whispers use this to their advantage. They appear to be like other bards, sharing news, singing songs, and telling tales to the audiences they gather. In truth, the College of Whispers teaches its students that they are wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats.
 

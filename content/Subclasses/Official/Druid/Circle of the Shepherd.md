@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-23T23:19:46.722-04:00
-modified: 2026-08-23T23:57:29.785-04:00
-published: 2026-08-23T23:57:29.785-04:00
+modified: 2026-08-28T09:53:06.582-04:00
+published: 2026-08-28T09:53:06.582-04:00
 Parent Class: "[[Druid]]"
 Source: Xanathar's Guide to Everything
 Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Xanathar's Guide to Everything</i></div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 ![[Images/Circle of the Shepherd.png|right|307]]
 

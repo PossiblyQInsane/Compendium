@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T15:45:18.547-04:00
-modified: 2026-08-17T17:41:13.821-04:00
-published: 2026-08-17T17:41:13.821-04:00
+modified: 2026-08-28T10:01:08.903-04:00
+published: 2026-08-28T10:01:08.903-04:00
 Parent Class: "[[Bard]]"
 Source: Northlands Worldbook
 Official: false
@@ -10,7 +10,7 @@ Publisher: Kobold Press
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Northlands Worldbook<br>Kobold Press</div>
+<div class="source">Northlands Worldbook<br>Kobold Press</div>
 
 ![[Images/Skald.png|right|345]]
 

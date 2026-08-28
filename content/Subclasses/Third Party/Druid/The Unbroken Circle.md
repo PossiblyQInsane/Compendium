@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-10T15:10:09.714-04:00
-modified: 2026-08-17T17:34:35.221-04:00
-published: 2026-08-17T17:34:35.221-04:00
+modified: 2026-08-28T10:08:36.551-04:00
+published: 2026-08-28T10:08:36.551-04:00
 Parent Class: "[[Druid]]"
 Source: "The Griffon's Saddlebag: Book One"
 Official: false
@@ -10,7 +10,7 @@ Publisher: The Griffon's Saddlebag
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">The Griffon's Saddlebag: Book One<br>The Griffon's Saddlebag</div>
+<div class="source">The Griffon's Saddlebag: Book One<br>The Griffon's Saddlebag</div>
 
 ![[Images/The Unbroken Circle.png|right|375]]
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T23:20:29.252-04:00
-modified: 2026-08-26T23:29:38.783-04:00
-published: 2026-08-26T23:29:38.783-04:00
+modified: 2026-08-28T10:05:51.532-04:00
+published: 2026-08-28T10:05:51.532-04:00
 Parent Class: "[[Druid]]"
 Source: "The Griffon's Saddlebag: Book Two"
 Official: false
@@ -10,7 +10,7 @@ Publisher: The Griffon's Saddlebag
 Edition: 5e
 ---
 
-<div align="right"><i>The Griffon's Saddlebag: Book Two<br>The Griffon's Saddlebag</i></div>
+<div class="source">The Griffon's Saddlebag: Book Two<br>The Griffon's Saddlebag</div>
 
 ![[Images/Circle of Dragons.png|right|321]]
 
@@ -40,18 +40,18 @@ Your breath weapon improves at certain levels. At 6th level, your breath weapon 
 
 ##### Dragon Shape Type
 
-|           Dragon            | Damage Type |
-| :-------------------------: | ----------- |
-|  [[Black Dragons/\|Black]]  | Acid        |
-|   [[Blue Dragons/\|Blue]]   | Lightning   |
-|  [[Brass Dragons/\|Brass]]  | Fire        |
-| [[Bronze Dragons/\|Bronze]] | Lightning   |
-| [[Copper Dragons/\|Copper]] | Acid        |
-|   [[Gold Dragons/\|Gold]]   | Fire        |
-|  [[Green Dragons/\|Green]]  | Poison      |
-|    [[Red Dragons/\|Red]]    | Fire        |
-| [[Silver Dragons/\|Silver]] | Cold        |
-|  [[White Dragons/\|White]]  | Cold        |
+|           Dragon           | Damage Type |
+| :------------------------: | ----------- |
+|  [[Black Dragons\|Black]]  | Acid        |
+|   [[Blue Dragons\|Blue]]   | Lightning   |
+|  [[Brass Dragons\|Brass]]  | Fire        |
+| [[Bronze Dragons\|Bronze]] | Lightning   |
+| [[Copper Dragons\|Copper]] | Acid        |
+|   [[Gold Dragons\|Gold]]   | Fire        |
+|  [[Green Dragons\|Green]]  | Poison      |
+|    [[Red Dragons\|Red]]    | Fire        |
+| [[Silver Dragons\|Silver]] | Cold        |
+|  [[White Dragons\|White]]  | Cold        |
 
 ### Level 6: Improved Dragon Shape
 

@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-17T21:46:08.183-04:00
-modified: 2026-08-17T22:00:41.523-04:00
-published: 2026-08-17T22:00:41.523-04:00
+modified: 2026-08-28T09:49:06.072-04:00
+published: 2026-08-28T09:49:06.072-04:00
 Parent Class: "[[Cleric]]"
 Source: Player's Handbook 5e
 Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Player's Handbook 5e</i></div>
+<div class="source">Player's Handbook 5e</div>
 
 Gods of nature are as varied as the natural world itself, from inscrutable gods of the deep forests (such as Silvanus, Obad-Hai, Chislev, Balinor, and Pan) to friendly deities associated with particular springs and groves (such as Eldath). Druids revere nature as a whole and might serve one of these deities, practicing mysterious rites and reciting all-but-forgotten prayers in their own secret tongue. But many of these gods have clerics as well, champions who take a more active role in advancing the interests of a particular nature god. These clerics might hunt the evil monstrosities that despoil the woodlands, bless the harvest of the faithful, or wither the crops of those who anger their gods.
 

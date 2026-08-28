@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T01:52:37.544-04:00
-modified: 2026-08-26T02:03:33.163-04:00
-published: 2026-08-26T02:03:33.163-04:00
+modified: 2026-08-28T10:10:39.121-04:00
+published: 2026-08-28T10:10:39.121-04:00
 Parent Class: "[[Fighter]]"
 Source: Northlands Worldbook
 Official: false
@@ -10,7 +10,7 @@ Publisher: Kobold Press
 Edition: 5.5e
 ---
 
-<div align="right"><i>Northlands Worldbook<br>Kobold Press</i></div>
+<div class="source">Northlands Worldbook<br>Kobold Press</div>
 
 ![[Images/Viking.png|left|380]]
 

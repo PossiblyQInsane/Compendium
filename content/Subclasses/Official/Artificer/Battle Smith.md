@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-23T02:30:17.849-04:00
-modified: 2026-08-17T15:00:34.748-04:00
-published: 2026-08-17T15:00:34.748-04:00
+modified: 2026-08-28T09:40:42.657-04:00
+published: 2026-08-28T09:40:42.657-04:00
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"
 Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Eberron: Forge of the Artificer</div>
+<div class="source">Eberron: Forge of the Artificer</div>
 
 ![[Images/Battle Smith.png|left|325]]
 

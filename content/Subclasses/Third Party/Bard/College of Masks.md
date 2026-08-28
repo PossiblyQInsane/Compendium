@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T16:05:01.541-04:00
-modified: 2026-08-17T17:38:05.741-04:00
-published: 2026-08-17T17:38:05.741-04:00
+modified: 2026-08-28T09:59:51.159-04:00
+published: 2026-08-28T09:59:51.159-04:00
 Parent Class: "[[Bard]]"
 Source: Valda's Spire of Secrets
 Official: false
@@ -10,7 +10,7 @@ Publisher: Mage Hand Press
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Valda's Spire of Secrets<br>Mage Hand Press</div>
+<div class="source">Valda's Spire of Secrets<br>Mage Hand Press</div>
 
 ![[Images/College of Masks.png|right|349]]
 

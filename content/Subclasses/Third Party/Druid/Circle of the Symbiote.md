@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-10T15:32:41.672-04:00
-modified: 2026-08-23T16:35:13.525-04:00
-published: 2026-08-23T16:35:13.525-04:00
+modified: 2026-08-28T10:08:23.288-04:00
+published: 2026-08-28T10:08:23.288-04:00
 Parent Class: "[[Druid]]"
 Source: Cthulhu by Torchlight
 Official: false
@@ -10,7 +10,7 @@ Publisher: Chaosium
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Cthulhu by Torchlight<br>Chaosium</div>
+<div class="source">Cthulhu by Torchlight<br>Chaosium</div>
 
 ![[Images/Circle of the Symbiote.jpg]]
 

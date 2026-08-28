@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T11:16:36.670-04:00
-modified: 2026-08-17T17:38:37.234-04:00
-published: 2026-08-17T17:38:37.234-04:00
+modified: 2026-08-28T10:09:45.721-04:00
+published: 2026-08-28T10:09:45.721-04:00
 Parent Class: "[[Fighter]]"
 Source: Valda's Spire of Secrets
 Official: false
@@ -10,7 +10,7 @@ Publisher: Mage Hand Press
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Valda's Spire of Secrets<br>Mage Hand Press</div>
+<div class="source">Valda's Spire of Secrets<br>Mage Hand Press</div>
 
 ![[Images/Dungeoneer.png|left|335]]
 

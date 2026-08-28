@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-17T22:18:09.109-04:00
-modified: 2026-08-17T22:29:33.191-04:00
-published: 2026-08-17T22:29:33.191-04:00
+modified: 2026-08-28T09:48:10.864-04:00
+published: 2026-08-28T09:48:10.864-04:00
 Parent Class: "[[Cleric]]"
 Source: Dungeon Master's Guide 5e
 Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Dungeon Master's Guide 5e</i></div>
+<div class="source">Dungeon Master's Guide 5e</div>
 
 The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Deities such as Chemosh, Myrkul, and Wee Jas are patrons of necromancers, death knights, liches, mummy lords, and vampires. Gods of the Death domain also embody murder (Anubis, Bhaal, and Pyremius), pain (Iuz or Loviatar), disease or poison (Incabulos, Talona, or Morgion), and the underworld (Hades and Hel).
 

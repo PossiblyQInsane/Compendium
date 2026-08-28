@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-10T15:00:05.446-04:00
-modified: 2026-08-23T16:34:56.817-04:00
-published: 2026-08-23T16:34:56.817-04:00
+modified: 2026-08-28T10:07:48.669-04:00
+published: 2026-08-28T10:07:48.669-04:00
 Parent Class: "[[Druid]]"
 Source: Exploring Eberron
 Official: false
@@ -10,7 +10,7 @@ Publisher: Visionary
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Exploring Eberron<br>Visionary</div>
+<div class="source">Exploring Eberron<br>Visionary</div>
 
 ![[Images/Circle of the Forged.png|right|296]]
 

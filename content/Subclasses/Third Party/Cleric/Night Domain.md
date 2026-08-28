@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T23:45:55.085-04:00
-modified: 2026-08-23T16:40:57.094-04:00
-published: 2026-08-23T16:40:57.094-04:00
+modified: 2026-08-28T10:03:46.120-04:00
+published: 2026-08-28T10:03:46.120-04:00
 Parent Class: "[[Cleric]]"
 Source: Humblewood Campaign Setting
 Official: false
@@ -10,7 +10,7 @@ Publisher: Hit Point Press
 Edition: 5.5e
 ---
 
-<div align="right"><i>Humblewood Campaign Setting<br>Hit Point Press</i></div>
+<div class="source">Humblewood Campaign Setting<br>Hit Point Press</div>
 
 _Bring Darkness with You, Wherever You Go_
 

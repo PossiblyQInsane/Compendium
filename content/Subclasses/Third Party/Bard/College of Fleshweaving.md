@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T16:31:50.612-04:00
-modified: 2026-08-23T17:09:32.958-04:00
-published: 2026-08-23T17:09:32.958-04:00
+modified: 2026-08-28T09:59:29.102-04:00
+published: 2026-08-28T09:59:29.102-04:00
 Parent Class: "[[Bard]]"
 Source: Heliana's Guide to Monster Hunting
 Official: false
@@ -10,9 +10,9 @@ Publisher: Loot Tavern
 Edition: 5e
 ---
 
-<div align="right"><i>Heliana's Guide to Monster Hunting<br>Loot Tavern</i></div>
+<div class="source">Heliana's Guide to Monster Hunting<br>Loot Tavern</div>
 
-![[Images/College of Fleshweaving.png|right|333]]
+![[Images/College of Fleshweaving.png|right|381]]
 
 If leather is a material, then why not skin itself? Students of the College of Fleshweaving make works of art out of weeping wounds, transform disfigurement into displays of transcendent beauty, and mould flesh into innovative adaptations inspired by the flora and fauna around them. A fleshweaver bard down on their luck might find employment as a battlefield surgeon, while the epitome of a fleshweaver’s career is to be the chief facemaker to royalty, altering their visage and physiology through biomantic rituals and deft needlework.
 

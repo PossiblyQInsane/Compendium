@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T01:55:40.981-04:00
-modified: 2026-08-26T01:42:50.325-04:00
-published: 2026-08-26T01:42:50.325-04:00
+modified: 2026-08-28T10:10:21.118-04:00
+published: 2026-08-28T10:10:21.118-04:00
 Parent Class: "[[Fighter]]"
 Source: Humblewood Campaign Setting
 Official: false
@@ -10,7 +10,7 @@ Publisher: Hit Point Press
 Edition: 5.5e
 ---
 
-<div align="right"><i>Humblewood Campaign Setting<br>Hit Point Press</i></div>
+<div class="source">Humblewood Campaign Setting<br>Hit Point Press</div>
 
 ![[Images/Scofflaw.png|right|283]]
 

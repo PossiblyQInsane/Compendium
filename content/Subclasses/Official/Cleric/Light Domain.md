@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-04T09:37:41.899-04:00
-modified: 2026-08-17T17:22:20.237-04:00
-published: 2026-08-17T17:22:20.237-04:00
+modified: 2026-08-28T09:48:55.217-04:00
+published: 2026-08-28T09:48:55.217-04:00
 Parent Class: "[[Cleric]]"
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 ![[Images/Light Domain.png|left|292]]
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T14:48:46.441-04:00
-modified: 2026-08-23T23:25:44.308-04:00
-published: 2026-08-23T23:25:44.308-04:00
+modified: 2026-08-28T09:57:25.052-04:00
+published: 2026-08-28T09:57:25.052-04:00
 Parent Class: "[[Barbarian]]"
 Source: Tal'Dorei Campaign Setting Reborn
 Official: false
@@ -10,7 +10,7 @@ Publisher: Darrington Press
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Tal'Dorei Campaign Setting Reborn<br>Darrington Press</div>
+<div class="source">Tal'Dorei Campaign Setting Reborn<br>Darrington Press</div>
 
 > [!caption|left wm-sm]
 > ![[Images/Path of the Juggernaut.webp]]

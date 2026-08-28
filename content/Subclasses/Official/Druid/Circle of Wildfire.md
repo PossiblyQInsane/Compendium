@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-23T23:19:46.722-04:00
-modified: 2026-08-24T00:30:07.017-04:00
-published: 2026-08-24T00:30:07.017-04:00
+modified: 2026-08-28T09:53:23.667-04:00
+published: 2026-08-28T09:53:23.667-04:00
 Parent Class: "[[Druid]]"
 Source: Tasha's Cauldron of Everything
 Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Tasha's Cauldron of Everything</i></div>
+<div class="source">Tasha's Cauldron of Everything</div>
 
 ![[Images/Circle of Wildfire.png]]
 

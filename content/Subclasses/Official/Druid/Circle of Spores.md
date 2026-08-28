@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-23T23:18:53.457-04:00
-modified: 2026-08-24T00:11:36.614-04:00
-published: 2026-08-24T00:11:36.614-04:00
+modified: 2026-08-28T09:50:48.940-04:00
+published: 2026-08-28T09:50:48.940-04:00
 Parent Class: "[[Druid]]"
 Source: Guildmasters' Guide to Ravnica
 Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Guildmasters' Guide to Ravnica</i></div>
+<div class="source">Guildmasters' Guide to Ravnica</div>
 
 ![[Images/Circle of Spores.png]]
 

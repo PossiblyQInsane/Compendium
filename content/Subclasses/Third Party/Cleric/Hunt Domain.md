@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T16:33:24.655-04:00
-modified: 2026-08-23T17:26:24.691-04:00
-published: 2026-08-23T17:26:24.691-04:00
+modified: 2026-08-28T10:02:58.718-04:00
+published: 2026-08-28T10:02:58.718-04:00
 Parent Class: "[[Cleric]]"
 Source: Heliana's Guide to Monster Hunting
 Official: false
@@ -10,7 +10,7 @@ Publisher: Loot Tavern
 Edition: 5e
 ---
 
-<div align="right"><i>Heliana's Guide to Monster Hunting<br>Loot Tavern</i></div>
+<div class="source">Heliana's Guide to Monster Hunting<br>Loot Tavern</div>
 
 ![[Images/Hunt Domain.png]]
 

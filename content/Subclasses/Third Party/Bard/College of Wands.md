@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-12T00:35:59.853-04:00
-modified: 2026-08-23T16:31:39.403-04:00
-published: 2026-08-23T16:31:39.403-04:00
+modified: 2026-08-28T10:00:56.636-04:00
+published: 2026-08-28T10:00:56.636-04:00
 Parent Class: "[[Bard]]"
 Source: "Frontiers of Eberron: Quickstone"
 Official: false
@@ -10,7 +10,7 @@ Publisher: Visionary
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Frontiers of Eberron: Quickstone<br>Visionary</div>
+<div class="source">Frontiers of Eberron: Quickstone<br>Visionary</div>
 
 ![[Images/College of Wands.png|right|288]]
 

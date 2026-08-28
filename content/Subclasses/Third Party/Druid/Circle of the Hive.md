@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T23:20:29.252-04:00
-modified: 2026-08-24T01:36:45.252-04:00
-published: 2026-08-24T01:36:45.252-04:00
+modified: 2026-08-28T10:07:58.072-04:00
+published: 2026-08-28T10:07:58.072-04:00
 Parent Class: "[[Druid]]"
 Source: Heliana's Guide to Monster Hunting
 Official: false
@@ -10,7 +10,7 @@ Publisher: Loot Tavern
 Edition: 5e
 ---
 
-<div align="right"><i>Heliana's Guide to Monster Hunting<br>Loot Tavern</i></div>
+<div class="source">Heliana's Guide to Monster Hunting<br>Loot Tavern</div>
 
 ![[Images/Circle of the Hive.png]]
 

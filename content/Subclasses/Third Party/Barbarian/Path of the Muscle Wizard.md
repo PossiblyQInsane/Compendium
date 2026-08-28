@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T14:27:33.074-04:00
-modified: 2026-08-26T00:58:42.376-04:00
-published: 2026-08-26T00:58:42.376-04:00
+modified: 2026-08-28T09:57:47.385-04:00
+published: 2026-08-28T09:57:47.385-04:00
 Parent Class: "[[Barbarian]]"
 Source: Valda's Spire of Secrets
 Official: false
@@ -10,7 +10,7 @@ Publisher: Mage Hand Press
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Valda's Spire of Secrets<br>Mage Hand Press</div>
+<div class="source">Valda's Spire of Secrets<br>Mage Hand Press</div>
 
 ![[Images/Path of the Muscle Wizard.png|right|355]]
 

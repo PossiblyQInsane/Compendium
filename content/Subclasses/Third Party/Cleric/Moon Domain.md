@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T23:45:55.085-04:00
-modified: 2026-08-23T16:40:56.832-04:00
-published: 2026-08-23T16:40:56.832-04:00
+modified: 2026-08-28T10:03:30.369-04:00
+published: 2026-08-28T10:03:30.369-04:00
 Parent Class: "[[Cleric]]"
 Source: Tal'Dorei Campaign Setting Reborn
 Official: false
@@ -10,7 +10,7 @@ Publisher: Darrington Press
 Edition: 5e
 ---
 
-<div align="right"><i>Tal'Dorei Campaign Setting Reborn<br>Darrington Press</i></div>
+<div class="source">Tal'Dorei Campaign Setting Reborn<br>Darrington Press</div>
 
 > [!caption|right wm-sm]
 > ![[Images/Moon Domain.webp]]

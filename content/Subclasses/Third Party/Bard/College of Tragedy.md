@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T22:24:06.015-04:00
-modified: 2026-08-17T17:36:14.867-04:00
-published: 2026-08-17T17:36:14.867-04:00
+modified: 2026-08-28T10:00:50.708-04:00
+published: 2026-08-28T10:00:50.708-04:00
 Parent Class: "[[Bard]]"
 Source: Tal'Dorei Campaign Setting Reborn
 Official: false
@@ -10,7 +10,7 @@ Publisher: Darrington Press
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Tal'Dorei Campaign Setting Reborn<br>Darrington Press</div>
+<div class="source">Tal'Dorei Campaign Setting Reborn<br>Darrington Press</div>
 
 > [!caption| right wm-sm]
 > ![[Images/College of Tragedy.webp]]

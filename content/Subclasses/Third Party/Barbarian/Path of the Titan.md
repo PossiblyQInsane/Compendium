@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T14:39:13.344-04:00
-modified: 2026-08-17T17:40:57.530-04:00
-published: 2026-08-17T17:40:57.530-04:00
+modified: 2026-08-28T09:58:19.471-04:00
+published: 2026-08-28T09:58:19.471-04:00
 Parent Class: "[[Barbarian]]"
 Source: Northlands Worldbook
 Official: false
@@ -10,7 +10,7 @@ Publisher: Kobold Press
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Northlands Worldbook<br>Kobold Press</div>
+<div class="source">Northlands Worldbook<br>Kobold Press</div>
 
 ![[Images/Path of the Titan.png|left|413]]
 

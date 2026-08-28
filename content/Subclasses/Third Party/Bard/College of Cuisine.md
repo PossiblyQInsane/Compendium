@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T16:31:50.612-04:00
-modified: 2026-08-23T16:54:59.182-04:00
-published: 2026-08-23T16:54:59.182-04:00
+modified: 2026-08-28T09:59:00.863-04:00
+published: 2026-08-28T09:59:00.863-04:00
 Parent Class: "[[Bard]]"
 Source: Heliana's Guide to Monster Hunting
 Official: false
@@ -10,7 +10,7 @@ Publisher: Loot Tavern
 Edition: 5e
 ---
 
-<div align="right"><i>Heliana's Guide to Monster Hunting<br>Loot Tavern</i></div>
+<div class="source">Heliana's Guide to Monster Hunting<br>Loot Tavern</div>
 
 ![[Images/College of Cuisine.png|left|348]]
 

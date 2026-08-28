@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T01:52:37.544-04:00
-modified: 2026-08-26T01:09:50.516-04:00
-published: 2026-08-26T01:09:50.516-04:00
+modified: 2026-08-28T10:09:57.089-04:00
+published: 2026-08-28T10:09:57.089-04:00
 Parent Class: "[[Fighter]]"
 Source: Cthulhu by Torchlight
 Official: false
@@ -10,7 +10,7 @@ Publisher: Chaosium
 Edition: 5.5e
 ---
 
-<div align="right"><i>Cthulhu by Torchlight<br>Chaosium</i></div>
+<div class="source">Cthulhu by Torchlight<br>Chaosium</div>
 
 ![[Images/Hero.jpg]]
 

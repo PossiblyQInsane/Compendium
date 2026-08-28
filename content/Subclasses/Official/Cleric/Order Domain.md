@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-17T22:56:41.610-04:00
-modified: 2026-08-23T16:40:56.401-04:00
-published: 2026-08-23T16:40:56.401-04:00
+modified: 2026-08-28T09:49:25.654-04:00
+published: 2026-08-28T09:49:25.654-04:00
 Parent Class: "[[Cleric]]"
 Source: Guildmasters' Guide to Ravnica
 Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Guildmasters' Guide to Ravnica</i></div>
+<div class="source">Guildmasters' Guide to Ravnica</div>
 
 ![[Images/Order Domain.png|left|369]]
 

@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-03T12:19:55.753-04:00
-modified: 2026-08-17T17:19:20.550-04:00
-published: 2026-08-17T17:19:20.550-04:00
+modified: 2026-08-28T09:46:55.904-04:00
+published: 2026-08-28T09:46:55.904-04:00
 Parent Class: "[[Bard]]"
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 ![[Images/College of Glamour.png|left|362]]
 

@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-08-26T23:51:33.158-04:00
-published: 2026-08-26T23:51:33.158-04:00
+modified: 2026-08-28T09:31:20.564-04:00
+published: 2026-08-28T09:31:20.564-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Eberron: Forge of the Artificer</div>
+<div class="source">Eberron: Forge of the Artificer</div>
 
 > [!caption|sban]
 > ![[Images/Artificer.jpg]]

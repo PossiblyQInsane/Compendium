@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-16T20:21:27.348-04:00
-modified: 2026-08-17T17:20:17.494-04:00
-published: 2026-08-17T17:20:17.494-04:00
+modified: 2026-08-28T09:47:31.632-04:00
+published: 2026-08-28T09:47:31.632-04:00
 Parent Class: "[[Bard]]"
 Source: Xanathar's Guide to Everything
 Official: true
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Xanathar's Guide to Everything</div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 ![[Images/College of Swords.png|right|337]]
 

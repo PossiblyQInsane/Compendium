@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-03T12:47:15.651-04:00
-modified: 2026-08-17T17:20:30.866-04:00
-published: 2026-08-17T17:20:30.866-04:00
+modified: 2026-08-28T09:47:37.327-04:00
+published: 2026-08-28T09:47:37.327-04:00
 Parent Class: "[[Bard]]"
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Forgotten Realms: Heroes of Faerûn</div>
+<div class="source">Forgotten Realms: Heroes of Faerûn</div>
 
 ![[Images/College of the Moon.png|right|323]]
 

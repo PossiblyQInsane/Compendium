@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T15:59:06.943-04:00
-modified: 2026-08-17T17:34:12.664-04:00
-published: 2026-08-17T17:34:12.664-04:00
+modified: 2026-08-28T09:58:50.017-04:00
+published: 2026-08-28T09:58:50.017-04:00
 Parent Class: "[[Bard]]"
 Source: "The Griffon's Saddlebag: Book One"
 Official: false
@@ -10,7 +10,7 @@ Publisher: The Griffon's Saddlebag
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">The Griffon's Saddlebag: Book One<br>The Griffon's Saddlebag</div>
+<div class="source">The Griffon's Saddlebag: Book One<br>The Griffon's Saddlebag</div>
 
 ![[Images/College of Choreography.png|right|336]]
 _Inspire Your Allies and Confound Enemies with Deft Movement_

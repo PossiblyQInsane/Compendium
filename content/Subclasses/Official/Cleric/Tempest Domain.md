@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-17T22:02:25.906-04:00
-modified: 2026-08-17T22:12:47.976-04:00
-published: 2026-08-17T22:12:47.976-04:00
+modified: 2026-08-28T09:49:44.833-04:00
+published: 2026-08-28T09:49:44.833-04:00
 Parent Class: "[[Cleric]]"
 Source: Player's Handbook 5e
 Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Player's Handbook 5e</i></div>
+<div class="source">Player's Handbook 5e</div>
 
 Gods whose portfolios include the Tempest domain — including Talos, Umberlee, Kord, Zeboim, the Devourer, Zeus, and Thor — govern storms, sea, and sky. They include gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength, and courage. In some pantheons, a god of this domain rules over other deities and is known for swift justice delivered by thunderbolts. In the pantheons of seafaring people, gods of this domain are ocean deities and the patrons of sailors. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.
 

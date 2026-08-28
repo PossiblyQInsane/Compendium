@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T01:55:40.981-04:00
-modified: 2026-08-26T01:55:22.853-04:00
-published: 2026-08-26T01:55:22.853-04:00
+modified: 2026-08-28T10:10:30.171-04:00
+published: 2026-08-28T10:10:30.171-04:00
 Parent Class: "[[Fighter]]"
 Source: "The Griffon's Saddlebag: Book Two"
 Official: false
@@ -10,7 +10,7 @@ Publisher: The Griffon's Saddlebag
 Edition: 5e
 ---
 
-<div align="right"><i>The Griffon's Saddlebag: Book Two<br>The Griffon's Saddlebag</i></div>
+<div class="source">The Griffon's Saddlebag: Book Two<br>The Griffon's Saddlebag</div>
 
 ![[Images/Steel Hawk.png|left|261]]
 

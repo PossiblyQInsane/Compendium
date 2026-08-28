@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T14:11:07.456-04:00
-modified: 2026-08-17T17:36:54.262-04:00
-published: 2026-08-17T17:36:54.262-04:00
+modified: 2026-08-28T09:57:32.039-04:00
+published: 2026-08-28T09:57:32.039-04:00
 Parent Class: "[[Barbarian]]"
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false
@@ -10,7 +10,7 @@ Publisher: MonkeyDM
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Steinhardt's Guide to the Eldritch Hunt<br>MonkeyDM</div>
+<div class="source">Steinhardt's Guide to the Eldritch Hunt<br>MonkeyDM</div>
 
 > [!quote|author c-white] _Unknown survivor of the 26th Eldritch hunt_
 > “Even while her body was falling apart, she was still fighting. Even when her arm was being torn to shreds, she was still fighting. When all her allies fell, she stood and kept fighting. Only when the battle was won did she draw her last breath, but she was still standing. Not even death could break her.”

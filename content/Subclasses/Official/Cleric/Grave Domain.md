@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-04T10:25:17.662-04:00
-modified: 2026-08-17T17:21:41.538-04:00
-published: 2026-08-17T17:21:41.538-04:00
+modified: 2026-08-28T09:48:32.290-04:00
+published: 2026-08-28T09:48:32.290-04:00
 Parent Class: "[[Cleric]]"
 Source: "Ravenloft: The Horrors Within"
 Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Ravenloft: The Horrors Within</div>
+<div class="source">Ravenloft: The Horrors Within</div>
 
 ![[Images/Grave Domain.png|right|373]]
 

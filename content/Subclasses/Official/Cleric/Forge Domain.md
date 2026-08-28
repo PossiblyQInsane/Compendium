@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-17T22:34:08.211-04:00
-modified: 2026-08-23T16:40:56.352-04:00
-published: 2026-08-23T16:40:56.352-04:00
+modified: 2026-08-28T09:48:25.041-04:00
+published: 2026-08-28T09:48:25.041-04:00
 Parent Class: "[[Cleric]]"
 Source: Xanathar's Guide to Everything
 Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Xanathar's Guide to Everything</i></div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 ![[Images/Forge Domain.png|left|329]]
 

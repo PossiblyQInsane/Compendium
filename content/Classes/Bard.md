@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-08-02T18:31:37.539-04:00
-modified: 2026-08-26T23:51:16.135-04:00
-published: 2026-08-26T23:51:16.135-04:00
+modified: 2026-08-28T09:37:20.621-04:00
+published: 2026-08-28T09:37:20.621-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 ![[Images/Bard.png]]
 

@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-08-02T09:34:35.165-04:00
-modified: 2026-08-26T11:27:27.195-04:00
-published: 2026-08-26T11:27:27.195-04:00
+modified: 2026-08-28T09:36:50.205-04:00
+published: 2026-08-28T09:36:50.205-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 ![[Images/Barbarian.png]]
 

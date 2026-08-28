@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T13:46:02.892-04:00
-modified: 2026-08-17T17:31:40.005-04:00
-published: 2026-08-17T17:31:40.005-04:00
+modified: 2026-08-28T09:58:26.166-04:00
+published: 2026-08-28T09:58:26.166-04:00
 Parent Class: "[[Barbarian]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false
@@ -10,7 +10,7 @@ Publisher: Ghostfire Gaming
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Grim Hollow: Player's Guide<br>Ghostfire Gaming</div>
+<div class="source">Grim Hollow: Player's Guide<br>Ghostfire Gaming</div>
 
 ![[Images/Path of the Wrathful Dead.png|right|345]]
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T11:51:57.394-04:00
-modified: 2026-08-23T16:34:14.741-04:00
-published: 2026-08-23T16:34:14.741-04:00
+modified: 2026-08-28T10:03:20.506-04:00
+published: 2026-08-28T10:03:20.506-04:00
 Parent Class: "[[Cleric]]"
 Source: Exploring Eberron
 Official: false
@@ -10,7 +10,7 @@ Publisher: Visionary
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Exploring Eberron<br>Visionary</div>
+<div class="source">Exploring Eberron<br>Visionary</div>
 
 ![[Images/Mind Domain.png|left|312]]
 

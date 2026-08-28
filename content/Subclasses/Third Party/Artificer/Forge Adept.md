@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T12:55:23.389-04:00
-modified: 2026-08-23T16:28:06.521-04:00
-published: 2026-08-23T16:28:06.521-04:00
+modified: 2026-08-28T09:55:14.510-04:00
+published: 2026-08-28T09:55:14.510-04:00
 Parent Class: "[[Artificer]]"
 Source: Exploring Eberron
 Official: false
@@ -10,7 +10,7 @@ Publisher: Visionary
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Exploring Eberron<br>Visionary</div>
+<div class="source">Exploring Eberron<br>Visionary</div>
 
 ![[Images/Forge Adept.png|left|325]]
 _Craft a Mighty Weapon out of Your Soul_

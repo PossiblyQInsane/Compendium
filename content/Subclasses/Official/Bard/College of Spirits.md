@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-03T12:57:33.135-04:00
-modified: 2026-08-17T17:20:00.658-04:00
-published: 2026-08-17T17:20:00.658-04:00
+modified: 2026-08-28T09:47:18.672-04:00
+published: 2026-08-28T09:47:18.672-04:00
 Parent Class: "[[Bard]]"
 Source: "Ravenloft: The Horrors Within"
 Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Ravenloft: The Horrors Within</div>
+<div class="source">Ravenloft: The Horrors Within</div>
 
 ![[Images/College of Spirits.png|right|383]]
 

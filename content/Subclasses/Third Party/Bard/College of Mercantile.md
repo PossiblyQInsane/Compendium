@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T22:07:23.641-04:00
-modified: 2026-08-17T17:35:08.679-04:00
-published: 2026-08-17T17:35:08.679-04:00
+modified: 2026-08-28T09:59:58.230-04:00
+published: 2026-08-28T09:59:58.230-04:00
 Parent Class: "[[Bard]]"
 Source: "The Griffon's Saddlebag: Book Two"
 Official: false
@@ -10,7 +10,7 @@ Publisher: The Griffon's Saddlebag
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">The Griffon's Saddlebag: Book Two<br>The Griffon's Saddlebag</div>
+<div class="source">The Griffon's Saddlebag: Book Two<br>The Griffon's Saddlebag</div>
 
 ![[Images/College of Mercantile.png|right|331]]
 

@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-07-31T09:37:39.767-04:00
-modified: 2026-08-17T17:13:54.454-04:00
-published: 2026-08-17T17:13:54.454-04:00
+modified: 2026-08-28T09:41:39.723-04:00
+published: 2026-08-28T09:41:39.723-04:00
 Parent Class: "[[Artificer]]"
 Source: "Ravenloft: The Horrors Within"
 Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Ravenloft: The Horrors Within</div>
+<div class="source">Ravenloft: The Horrors Within</div>
 
 ![[Images/Reanimator.png|left|369]]
 

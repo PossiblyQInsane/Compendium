@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-08-24T01:54:46.886-04:00
-modified: 2026-08-25T02:02:25.053-04:00
-published: 2026-08-25T02:02:25.053-04:00
+modified: 2026-08-28T09:55:01.026-04:00
+published: 2026-08-28T09:55:01.026-04:00
 Parent Class: "[[Fighter]]"
 Source: Xanathar's Guide to Everything
 Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Xanathar's Guide to Everything</i></div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 The Samurai is a fighter who draws on an implacable fighting spirit to overcome enemies. A Samurai’s resolve is nearly unbreakable, and the enemies in a Samurai’s path have two choices: yield or die fighting.
 
