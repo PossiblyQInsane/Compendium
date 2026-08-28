@@ -47,6 +47,10 @@ table td, table th {
   vertical-align: middle;
 }
 
+table {
+  width: 100%
+}
+
 /* Center alignment */
 .markdown-rendered img[alt*="center"],
 .cm-embed-block:has(img[alt*="center"]) {
