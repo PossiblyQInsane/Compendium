@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T23:18:53.457-04:00
-modified: 2026-08-28T09:50:48.940-04:00
-published: 2026-08-28T09:50:48.940-04:00
+modified: 2026-08-28T10:23:10.617-04:00
+published: 2026-08-28T10:23:10.617-04:00
 Parent Class: "[[Druid]]"
 Source: Guildmasters' Guide to Ravnica
 Official: true
@@ -52,7 +52,7 @@ These benefits last for 10 minutes, until you lose all these [[temporary hit poi
 
 ### Level 6: Fungal Infestation
 
-At 6th level, your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use your [[reaction]] to animate it, causing it to stand up immediately with 1 hit point. The creature uses the **[[zombie]]** stat block. It remains animate for 1 hour, after which time it collapses and dies.
+At 6th level, your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use your [[reaction]] to animate it, causing it to stand up immediately with 1 hit point. The creature uses the **[[Zombie]]** stat block. It remains animate for 1 hour, after which time it collapses and dies.
 
 In combat, the zombie’s turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the [[Attack]] action, making one melee attack.
 
