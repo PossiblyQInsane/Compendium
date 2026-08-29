@@ -1,0 +1,36 @@
+---
+publish: true
+created: 2026-08-09T09:27:49.136-04:00
+modified: 2026-08-17T17:09:36.379-04:00
+published: 2026-08-17T17:09:36.379-04:00
+Name: "[[Blood Bond]]"
+Spell Level: Level 3
+School: Enchantment (Sangromancy)
+Classes: Druid
+Special: —
+Source: "Grim Hollow: Player's Guide"
+Official: false
+Publisher: Ghostfire Gaming
+Edition: 5.5e
+---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Grim Hollow: Player's Guide<br>Ghostfire Gaming</div>
+
+_Level 3 Enchantment (Sangromancy) ([[Druid]])_
+
+---
+
+**Casting Time:** Action\
+**Range:** Touch\
+**Components:** V, S, M (a rag soaked in your own blood)\
+**Duration:** 1 hour
+
+---
+
+As part of casting this spell, you must expend three [[Hit Point Dice]] or the spell automatically fails. Roll the expended Hit Point Dice, and the target gains a number of [[Temporary Hit Points]] equal to the roll’s total.
+
+For the duration, you know the direction and distance to the target, and you and the target can speak telepathically. Additionally, you can target that creature when you cast a spell with a range of Self or Touch, regardless of the distance between you. These benefits are suppressed while you and the creature are not on the same plane.
+
+At any point, the targeted creature can choose to end the spell early. If it does, the creature loses all remaining [[Temporary Hit Points]] granted by this spell and takes Necrotic damage equal to the Temporary Hit Points lost.
+
+_**Using a Higher-Level Spell Slot.**_ The duration increases with a spell slot level 5 or 6 (8 hours), 7 or 8 (24 hours), and 9 (7 days).

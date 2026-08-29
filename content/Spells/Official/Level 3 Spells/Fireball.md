@@ -1,0 +1,33 @@
+---
+publish: true
+created: 2026-07-29T11:34:38.842-04:00
+modified: 2026-08-17T16:46:40.863-04:00
+published: 2026-08-17T16:46:40.863-04:00
+Name: "[[Fireball]]"
+Spell Level: Level 3
+School: Evocation
+Classes: Sorcerer, Wizard
+Special: —
+Source: Player's Handbook 5.5e
+Official: true
+Edition: 5.5e
+---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+
+_Level 3 Evocation ([[Sorcerer]], [[Wizard]])_
+
+---
+
+**Casting Time:** Action\
+**Range:** 150 feet\
+**Components:** V, S, M (a ball of bat guano and sulfur)\
+**Duration:** Instantaneous
+
+---
+
+A bright streak flashes from you to a point you choose within range and then blossoms with a low roar into a fiery explosion. Each creature in a 20-foot-radius [[Sphere]] centered on that point makes a Dexterity saving throw, taking 8d6 Fire damage on a failed save or half as much damage on a successful one.
+
+Flammable objects in the area that aren’t being worn or carried start [[Burning|burning]].
+
+_**Using a Higher-Level Spell Slot.**_ The damage increases by 1d6 for each spell slot level above 3.
