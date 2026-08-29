@@ -2459,6 +2459,11 @@ settings:
   table td {
     font-size: 11px !important;
   }
+
+  ol li {
+    color: var(--active-font-color);
+    margin-top: 0.3em;
+    margin-bottom: 0.3em
 }
 
 .statblock-content-container {
