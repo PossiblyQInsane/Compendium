@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T12:32:45.663-04:00
-modified: 2026-08-29T11:32:19.815-04:00
-published: 2026-08-29T11:32:19.815-04:00
+modified: 2026-08-29T12:59:34.717-04:00
+published: 2026-08-29T12:59:34.717-04:00
 Creature Type: Aberration
 Size: Large
 Alignment: Lawful Evil
