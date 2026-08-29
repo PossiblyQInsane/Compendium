@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-26T02:26:15.011-04:00
-modified: 2026-08-28T10:07:07.654-04:00
-published: 2026-08-28T10:07:07.654-04:00
+modified: 2026-08-29T17:42:00.611-04:00
+published: 2026-08-29T17:42:00.611-04:00
 Parent Class: "[[Druid]]"
 Source: The Field Guide to Floral Dragons
 Official: false
@@ -39,7 +39,7 @@ Your intimacy with the floral dragons lets you take on their forms. You add the 
 | :---------: | ------------------------------------------------------------------------------ |
 |     2nd     | **[[Clematis dragon]]**, **[[dandelion dragon]]**, **[[rhododendron dragon]]** |
 |     4th     | **[[Azalea dragon]]**                                                          |
-|     8th     | **[[Amarath dragon]]**, **[[jade vine dragon]]**                               |
+|     8th     | **[[Amaranth dragon]]**, **[[jade vine dragon]]**                              |
 |    12th     | **[[Heliconia dragon]]**, **[[water lily dragon]]**                            |
 |    16th     | **[[Larkspur dragon]]**, **[[peony dragon]]**                                  |
 
