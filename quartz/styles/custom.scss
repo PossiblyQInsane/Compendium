@@ -2271,7 +2271,6 @@ settings:
     }
     &.statblock-table {
       display: flex;
-      font-size: 60%;
     }
     &.traits {
       font-family: var(--active-traits-font);
@@ -2451,6 +2450,10 @@ settings:
 
   a {
     font-style: inherit;
+  }
+
+  table th td {
+    font-size: 80% !important;
   }
 }
 
