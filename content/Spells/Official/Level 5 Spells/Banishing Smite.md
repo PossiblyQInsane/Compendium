@@ -1,0 +1,29 @@
+---
+publish: true
+created: 2026-07-30T00:43:54.117-04:00
+modified: 2026-08-17T16:56:04.361-04:00
+published: 2026-08-17T16:56:04.361-04:00
+Name: "[[Banishing Smite]]"
+Spell Level: Level 5
+School: Conjuration
+Classes: Paladin
+Special: C
+Source: Player's Handbook 5.5e
+Official: true
+Edition: 5.5e
+---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+
+_Level 5 Conjuration ([[Paladin]])_
+
+---
+
+**Casting Time:** [[Bonus Action]], which you take immediately after hitting a creature with a Melee weapon or an [[Unarmed Strike]]\
+**Range:** Self\
+**Components:** V\
+**Duration:** [[Concentration]], up to 1 minute
+
+---
+
+The target hit by the attack roll takes an extra 5d10 Force damage from the attack. If the attack reduces the target to 50 [[Hit Points]] or fewer, the target must succeed on a Charisma saving throw or be transported to a harmless demiplane for the duration. While there, the target has the [[Incapacitated]] condition. When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.

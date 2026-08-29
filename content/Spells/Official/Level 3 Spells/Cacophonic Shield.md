@@ -1,0 +1,33 @@
+---
+publish: true
+created: 2026-08-16T17:26:51.681-04:00
+modified: 2026-08-17T16:44:16.537-04:00
+published: 2026-08-17T16:44:16.537-04:00
+Name: "[[Cacophonic Shield]]"
+Spell Level: Level 3
+School: Evocation
+Classes: Bard, Sorcerer, Wizard
+Special: C
+Source: "Forgotten Realms: Heroes of Faerûn"
+Official: true
+Edition: 5.5e
+---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Forgotten Realms: Heroes of Faerûn</div>
+
+_Level 3 Evocation ([[Bard]], [[Sorcerer]], [[Wizard]])_
+
+---
+
+**Casting Time:** Action\
+**Range:** Self\
+**Components:** V, S\
+**Duration:** [[Concentration]], up to 10 minutes
+
+---
+
+Thunderous reverberations fill a 10-foot [[Emanation]] originating from you for the duration. Whenever the Emanation enters a creature’s space and whenever a creature enters the Emanation or ends its turn there, the creature makes a Constitution saving throw. On a failed save, the creature takes 3d6 Thunder damage and has the [[Deafened]] condition until the start of your next turn. On a successful save, the creature takes half as much damage only. A creature makes this save only once per turn. When you cast this spell, you can designate creatures to be unaffected by it.
+
+In addition, you have [[Resistance]] to Thunder damage, and ranged attack rolls against you are made with [[Disadvantage]].
+
+_**Using a Higher-Level Spell Slot.**_ The damage increases by 1d6 for each spell slot level above 3.
