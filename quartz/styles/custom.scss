@@ -2271,7 +2271,7 @@ settings:
     }
     &.statblock-table {
       display: flex;
-      font-size: 80%;
+      font-size: 60%;
     }
     &.traits {
       font-family: var(--active-traits-font);
@@ -2279,6 +2279,7 @@ settings:
       font-size: var(--active-traits-font-size);
       font-weight: var(--active-traits-font-weight);
       font-style: var(--active-traits-font-style);
+      margin-bottom: 0.5em;
     }
     &.statblock-trait-prop {
       margin-bottom: 1em;
@@ -2356,7 +2357,7 @@ settings:
 }
 
 .statblock-item-container {
-  margin-bottom: 0.3em;
+  margin-bottom: 0.5em;
 }
 
 .statblock-item-inline {
@@ -2688,7 +2689,7 @@ settings:
   font-style: italic;
   display: block !important;
   color: lightgrey;
-  margin-bottom: 0.3em;
+  margin-bottom: 0.5em !important;
 }
 
 ul.spell-item {
