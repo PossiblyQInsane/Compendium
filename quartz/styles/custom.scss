@@ -2464,6 +2464,9 @@ settings:
     color: var(--active-font-color);
     margin-top: 0.3em;
     margin-bottom: 0.3em;
+    strong {
+      color: var(--active-font-color);
+    }
   }
 }
 
