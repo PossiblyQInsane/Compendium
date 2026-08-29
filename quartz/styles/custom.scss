@@ -2452,8 +2452,8 @@ settings:
     font-style: inherit;
   }
 
-  table td, table th {
-    font-size: 90% !important;
+  table th {
+    font-size: 8px !important;
   }
 }
 
@@ -2618,6 +2618,7 @@ settings:
   justify-content: center;
   align-items: center;
   flex-flow: column nowrap;
+  font-size: 11px !important;
 }
 
 .statblock-table-header {
