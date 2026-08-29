@@ -2579,6 +2579,7 @@ settings:
   font-size: var(--active-traits-font-size);
   font-weight: var(--active-traits-font-weight);
   font-style: var(--active-traits-font-style);
+  margin-bottom: 1rem;
 }
 
 .trait-name {
@@ -2684,8 +2685,14 @@ settings:
 
 .sb-monster-subheading {
   font-style: italic;
-  display: block;
+  display: block !important;
   color: lightgrey;
+}
+
+ul.spell-item {
+  padding-inline-start: 0;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .callout-title-inner::before {
