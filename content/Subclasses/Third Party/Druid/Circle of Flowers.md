@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-26T02:26:15.011-04:00
-modified: 2026-08-29T17:42:00.611-04:00
-published: 2026-08-29T17:42:00.611-04:00
+modified: 2026-08-29T18:13:12.939-04:00
+published: 2026-08-29T18:13:12.939-04:00
 Parent Class: "[[Druid]]"
 Source: The Field Guide to Floral Dragons
 Official: false
@@ -14,7 +14,7 @@ Edition: 5.5e
 
 > [!caption|right]
 > ![[Images/Circle of Flowers.png]]
-> An azalea dragonborn druid of the Circle of Flowers celebrates a hatching jade vine dragon.
+> An azalea dragonborn druid of the Circle of Flowers celebrates a hatching [[jade vine dragon]].
 
 The first druids of the Circle of Flowers were people who sought out and bonded with floral dragons. The druids learned how to imitate floral dragons’ forms and unique existence as beings that blend plants and animals. Now, these druids protect the floral dragons who first inspired their circle as well as the balance of nature in both its beauty and ferocity.
 

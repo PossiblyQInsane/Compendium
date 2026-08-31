@@ -6,6 +6,7 @@
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Ancestral Communion.md\|Ancestral Communion]]_ | Divination                  | C       | The Crooked Moon                   | Avantris Entertainment |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Blood Rush.md\|Blood Rush]]_                   | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Chameleon Skin.md\|Chameleon Skin]]_           | Biomancy                    | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Consumption.md\|Consumption]]_                 | Evocation (Sangromancy)     | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Daydream.md\|Daydream]]_                       | Enchantment                 | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Veil of Dusk.md\|Veil of Dusk]]_               | Abjuration                  | C       | Humblewood Campaign Setting        | Hit Point Press        |
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Sense Lifeblood.md\|Sense Lifeblood]]_         | Divination (Sangromancy)    | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |

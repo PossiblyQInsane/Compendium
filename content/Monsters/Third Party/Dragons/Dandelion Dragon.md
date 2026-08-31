@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - Dandelion Dragons
 created: 2026-08-29T17:42:25.800-04:00
-modified: 2026-08-29T18:10:11.133-04:00
-published: 2026-08-29T18:10:11.133-04:00
+modified: 2026-08-29T18:16:34.467-04:00
+published: 2026-08-29T18:16:34.467-04:00
 Creature Type: Dragon
 Size: Tiny
 Alignment: Any Alignment
@@ -69,11 +71,11 @@ Dandelion dragons are lively and fickle. They are friendly creatures and enjoy t
 
 > [!caption|left ws-med]
 > ![[Images/dandelionfig2.png]]
-> **Fig. 2** A dandelion dragon hides from a larkspur dragon.
+> **Fig. 2** A dandelion dragon hides from a [[larkspur dragon]].
 
 Dandelion dragons are noncommittal and have a brief period of fertility, lasting only a few days in the spring. During this time, they mate with several other dandelion dragons in succession. After mating, their regular cycle of growing and shedding seeds slows, and fertilized seeds are released gradually over the season. These fertilized seeds take root in the soil. There, they grow quickly, resembling true dandelions until the wyrmlings separate from their roots and fly away. Contrary to their social preferences, wyrmlings are independent from the moment they fully emerge from the ground. Outside of their mating season, unfertilized seeds do not grow into wyrmlings and simply float away.
 
-Dandelion dragons are prey for wild rabbits and turkeys as well as other floral dragons; larkspur dragons in particular have a taste for them. Dandelion dragons only bite when threatened, leaving behind a small but irritating itchy rash. These dragons are more likely to flee than fight unless they have the support of many other dandelion dragons. Rhododendron dragons don’t hunt dandelion dragons, but many have become overly excited and playfully chased a dandelion dragon back to its home, only to be set upon by the dandelion’s blooming.
+Dandelion dragons are prey for wild rabbits and turkeys as well as other floral dragons; [[larkspur dragon|larkspur dragons]] in particular have a taste for them. Dandelion dragons only bite when threatened, leaving behind a small but irritating itchy rash. These dragons are more likely to flee than fight unless they have the support of many other dandelion dragons. [[rhododendron dragon|Rhododendron dragons]] don’t hunt dandelion dragons, but many have become overly excited and playfully chased a dandelion dragon back to its home, only to be set upon by the dandelion’s blooming.
 
 Dandelion dragons have an excellent sense of direction and will deliver small messages for humanoids. Since the dragons are a prey species, cautious humanoids make several copies of their message and send them with different dragons, lest any be eaten along the way.
 

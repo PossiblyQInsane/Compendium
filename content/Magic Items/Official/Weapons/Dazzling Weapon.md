@@ -1,0 +1,22 @@
+---
+publish: true
+created: 2026-07-25T17:43:33.756-04:00
+modified: 2026-08-17T15:01:23.717-04:00
+published: 2026-08-17T15:01:23.717-04:00
+Category: Weapon
+Rarity: Rare
+Attunement: true
+Source: "Eberron: Forge of the Artificer"
+Official: true
+Edition: 5.5e
+---
+
+<div align="right" style="font-style: italic; margin-top: 0;">Eberron: Forge of the Artificer</div>
+
+_Weapon (Any Simple or Martial), Rare (Requires Attunement)_
+
+---
+
+This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, you can take a [[Bonus Action]] to cause it to shed [[Bright Light]] in a 30-foot radius and [[Dim Light]] for an additional 30 feet. You can extinguish the light as a Bonus Action.
+
+The weapon has 4 charges. You can take a [[Reaction]] immediately after being hit by an attack roll to expend 1 of the weapon’s charges and force the attacker to make a DC 15 Constitution saving throw. On a failed save, the attacker has the [[Blinded]] condition until the end of its next turn. The weapon regains 1d4 expended charges daily at dawn.

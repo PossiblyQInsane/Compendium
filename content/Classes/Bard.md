@@ -765,7 +765,7 @@ A Bard subclass is a specialization that grants you features at certain Bard lev
 | [[Subclasses/Third Party/Bard/College of Drama.md\|College of Drama]]                       | Cthulhu by Torchlight              | Chaosium                | 5.5e    |
 | [[Subclasses/Third Party/Bard/College of Fleshweaving.md\|College of Fleshweaving]]         | Heliana's Guide to Monster Hunting | Loot Tavern             | 5e      |
 | [[Subclasses/Third Party/Bard/College of Fools.md\|College of Fools]]                       | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of Masks.md\|College of Masks]]                       | Valda's Spire of Secrets           | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Masks (VSoS).md\|College of Masks (VSoS)]]         | Valda's Spire of Secrets           | Mage Hand Press         | 5.5e    |
 | [[Subclasses/Third Party/Bard/College of Mercantile.md\|College of Mercantile]]             | The Griffon's Saddlebag: Book Two  | The Griffon's Saddlebag | 5e      |
 | [[Subclasses/Third Party/Bard/College of Requiems.md\|College of Requiems]]                 | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
 | [[Subclasses/Third Party/Bard/College of the Dirge Singer.md\|College of the Dirge Singer]] | Exploring Eberron                  | Visionary               | 5.5e    |
