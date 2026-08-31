@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T23:40:49.661-04:00
-modified: 2026-08-17T16:52:45.948-04:00
-published: 2026-08-17T16:52:45.948-04:00
+modified: 2026-08-31T15:15:40.891-04:00
+published: 2026-08-31T15:15:40.891-04:00
 Name: "[[Elemental Bane]]"
 Spell Level: Level 4
 School: Transmutation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Elemental Evil Player's Companion</div>
+<div class="source">Elemental Evil Player's Companion</div>
 
 _Level 4 Transmutation ([[Artificer]], [[Druid]], [[Warlock]], [[Wizard]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T22:03:01.126-04:00
-modified: 2026-08-23T22:07:27.187-04:00
-published: 2026-08-23T22:07:27.187-04:00
+modified: 2026-08-31T15:27:18.630-04:00
+published: 2026-08-31T15:27:18.630-04:00
 Name: "[[Wrath of Nature]]"
 Spell Level: Level 5
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Xanathar's Guide to Everything</i></div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 _Level 5 Evocation ([[Druid]], [[Ranger]])_
 

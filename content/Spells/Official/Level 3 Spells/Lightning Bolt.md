@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T23:30:11.735-04:00
-modified: 2026-08-17T16:48:07.745-04:00
-published: 2026-08-17T16:48:07.745-04:00
+modified: 2026-08-31T15:08:31.600-04:00
+published: 2026-08-31T15:08:31.600-04:00
 Name: "[[Lightning Bolt]]"
 Spell Level: Level 3
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 3 Evocation ([[Sorcerer]], [[Wizard]])_
 

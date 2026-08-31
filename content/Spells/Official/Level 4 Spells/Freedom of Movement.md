@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T15:04:39.447-04:00
-modified: 2026-08-17T16:53:08.960-04:00
-published: 2026-08-17T16:53:08.960-04:00
+modified: 2026-08-31T15:16:05.942-04:00
+published: 2026-08-31T15:16:05.942-04:00
 Name: "[[Freedom of Movement]]"
 Spell Level: Level 4
 School: Abjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 4 Abjuration ([[Artificer|Artificer]], [[Bard]], [[Cleric]], [[Druid]], [[Ranger]])_
 

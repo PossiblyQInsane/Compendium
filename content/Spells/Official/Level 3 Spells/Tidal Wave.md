@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T21:15:45.595-04:00
-modified: 2026-08-23T21:19:22.217-04:00
-published: 2026-08-23T21:19:22.217-04:00
+modified: 2026-08-31T15:11:00.305-04:00
+published: 2026-08-31T15:11:00.305-04:00
 Name: "[[Tidal Wave]]"
 Spell Level: Level 3
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Elemental Evil Player's Companion</i></div>
+<div class="source">Elemental Evil Player's Companion</div>
 
 _Level 3 Conjuration ([[Druid]], [[Sorcerer]], [[Wizard]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T23:00:46.422-04:00
-modified: 2026-08-17T16:43:18.665-04:00
-published: 2026-08-17T16:43:18.665-04:00
+modified: 2026-08-31T15:04:38.109-04:00
+published: 2026-08-31T15:04:38.109-04:00
 Name: "[[Ashardalon's Stride]]"
 Spell Level: Level 3
 School: Transmutation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Fizban's Treasury of Dragons</div>
+<div class="source">Fizban's Treasury of Dragons</div>
 
 _Level 3 Transmutation ([[Artificer]], [[Ranger]], [[Sorcerer]], [[Wizard]])_
 

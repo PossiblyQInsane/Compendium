@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T23:23:19.122-04:00
-modified: 2026-08-17T16:57:13.860-04:00
-published: 2026-08-17T16:57:13.860-04:00
+modified: 2026-08-31T15:23:10.415-04:00
+published: 2026-08-31T15:23:10.415-04:00
 Name: "[[Dispel Evil and Good]]"
 Spell Level: Level 5
 School: Abjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 5 Abjuration ([[Cleric]], [[Paladin]])_
 

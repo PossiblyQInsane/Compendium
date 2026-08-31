@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T23:15:33.162-04:00
-modified: 2026-08-17T16:43:55.744-04:00
-published: 2026-08-17T16:43:55.744-04:00
+modified: 2026-08-31T15:04:59.847-04:00
+published: 2026-08-31T15:04:59.847-04:00
 Name: "[[Bestow Curse]]"
 Spell Level: Level 3
 School: Necromancy
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 3 Necromancy ([[Bard]], [[Cleric]], [[Wizard]])_
 

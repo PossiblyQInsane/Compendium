@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T11:26:32.139-04:00
-modified: 2026-08-17T17:08:16.290-04:00
-published: 2026-08-17T17:08:16.290-04:00
+modified: 2026-08-31T15:12:52.848-04:00
+published: 2026-08-31T15:12:52.848-04:00
 Name: "[[Harvest Moonglow]]"
 Spell Level: Level 3
 School: Evocation
@@ -14,7 +14,7 @@ Publisher: Avantris Entertainment
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">The Crooked Moon<br>Avantris Entertainment</div>
+<div class="source">The Crooked Moon<br>Avantris Entertainment</div>
 
 _Level 3 Evocation ([[Cleric]], [[Druid]], [[Ranger]])_
 

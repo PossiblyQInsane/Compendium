@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-19T10:20:59.867-04:00
-modified: 2026-08-23T16:40:57.351-04:00
-published: 2026-08-23T16:40:57.351-04:00
+modified: 2026-08-31T15:12:43.823-04:00
+published: 2026-08-31T15:12:43.823-04:00
 Name: "[[Globe of Twilight]]"
 Spell Level: Level 3
 School: Conjuration
@@ -14,7 +14,7 @@ Publisher: Hit Point Press
 Edition: 5e
 ---
 
-<div align="right"><i>Humblewood Campaign Setting<br>Hit Point Press</i></div>
+<div class="source">Humblewood Campaign Setting<br>Hit Point Press</div>
 
 _Level 3 Conjuration ([[Druid]], [[Ranger]], [[Warlock]])_
 

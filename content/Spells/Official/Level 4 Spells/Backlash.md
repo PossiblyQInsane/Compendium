@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T17:54:10.248-04:00
-modified: 2026-08-17T16:51:03.011-04:00
-published: 2026-08-17T16:51:03.011-04:00
+modified: 2026-08-31T15:14:04.059-04:00
+published: 2026-08-31T15:14:04.059-04:00
 Name: "[[Backlash]]"
 Spell Level: Level 4
 School: Abjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Forgotten Realms: Heroes of Faerûn</div>
+<div class="source">Forgotten Realms: Heroes of Faerûn</div>
 
 _Level 4 Abjuration ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

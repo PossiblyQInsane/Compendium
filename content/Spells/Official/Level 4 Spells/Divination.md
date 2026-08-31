@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T23:12:33.512-04:00
-modified: 2026-08-17T16:51:57.596-04:00
-published: 2026-08-17T16:51:57.596-04:00
+modified: 2026-08-31T15:15:23.433-04:00
+published: 2026-08-31T15:15:23.433-04:00
 Name: "[[Divination]]"
 Spell Level: Level 4
 School: Divination
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 4 Divination ([[Cleric]], [[Druid]], [[Wizard]])_
 

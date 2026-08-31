@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T21:15:15.391-04:00
-modified: 2026-08-17T21:20:00.228-04:00
-published: 2026-08-17T21:20:00.228-04:00
+modified: 2026-08-31T15:17:58.491-04:00
+published: 2026-08-31T15:17:58.491-04:00
 Name: "[[Sticks to Snakes]]"
 Spell Level: Level 4
 School: Transmutation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right"><i>D&D Beyond Drops</i></div>
+<div class="source">D&D Beyond Drops</div>
 
 _Level 4 Transmutation ([[Cleric]], [[Druid]], [[Ranger]])_
 

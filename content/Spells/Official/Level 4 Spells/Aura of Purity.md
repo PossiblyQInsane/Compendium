@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T00:39:22.445-04:00
-modified: 2026-08-17T16:50:50.428-04:00
-published: 2026-08-17T16:50:50.428-04:00
+modified: 2026-08-31T15:13:58.727-04:00
+published: 2026-08-31T15:13:58.727-04:00
 Name: "[[Aura of Purity]]"
 Spell Level: Level 4
 School: Abjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 4 Abjuration ([[Cleric]], [[Paladin]])_
 

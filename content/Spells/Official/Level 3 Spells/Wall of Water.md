@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T21:20:19.426-04:00
-modified: 2026-08-23T21:23:11.768-04:00
-published: 2026-08-23T21:23:11.768-04:00
+modified: 2026-08-31T15:11:34.128-04:00
+published: 2026-08-31T15:11:34.128-04:00
 Name: "[[Wall of Water]]"
 Spell Level: Level 3
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Elemental Evil Player's Companion</i></div>
+<div class="source">Elemental Evil Player's Companion</div>
 
 _Level 3 Evocation ([[Druid]], [[Sorcerer]], [[Wizard]])_
 

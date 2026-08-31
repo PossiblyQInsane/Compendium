@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T23:33:12.361-04:00
-modified: 2026-08-17T16:57:50.537-04:00
-published: 2026-08-17T16:57:50.537-04:00
+modified: 2026-08-31T15:24:07.495-04:00
+published: 2026-08-31T15:24:07.495-04:00
 Name: "[[Insect Plague]]"
 Spell Level: Level 5
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 5 Conjuration ([[Cleric]], [[Druid]], [[Sorcerer]])_
 

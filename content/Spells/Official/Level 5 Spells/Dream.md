@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T00:48:17.325-04:00
-modified: 2026-08-17T16:57:22.731-04:00
-published: 2026-08-17T16:57:22.731-04:00
+modified: 2026-08-31T15:23:22.308-04:00
+published: 2026-08-31T15:23:22.308-04:00
 Name: "[[Dream]]"
 Spell Level: Level 5
 School: Illusion
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 5 Illusion ([[Bard]], [[Warlock]], [[Wizard]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T00:42:15.982-04:00
-modified: 2026-08-24T21:53:15.964-04:00
-published: 2026-08-24T21:53:15.964-04:00
+modified: 2026-08-31T15:21:17.731-04:00
+published: 2026-08-31T15:21:17.731-04:00
 Name: "[[Awaken]]"
 Spell Level: Level 5
 School: Transmutation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 5 Transmutation ([[Bard]], [[Druid]])_
 

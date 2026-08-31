@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-29T11:40:39.734-04:00
-modified: 2026-08-17T16:50:30.055-04:00
-published: 2026-08-17T16:50:30.055-04:00
+modified: 2026-08-31T15:11:52.051-04:00
+published: 2026-08-31T15:11:52.051-04:00
 Name: "[[Wind Wall]]"
 Spell Level: Level 3
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 3 Evocation ([[Druid]], [[Ranger]])_
 

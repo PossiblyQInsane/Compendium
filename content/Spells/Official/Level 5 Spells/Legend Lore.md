@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T00:58:25.567-04:00
-modified: 2026-08-17T16:57:58.058-04:00
-published: 2026-08-17T16:57:58.058-04:00
+modified: 2026-08-31T15:24:14.958-04:00
+published: 2026-08-31T15:24:14.958-04:00
 Name: "[[Legend Lore]]"
 Spell Level: Level 5
 School: Divination
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 5 Divination ([[Bard]], [[Cleric]], [[Wizard]])_
 

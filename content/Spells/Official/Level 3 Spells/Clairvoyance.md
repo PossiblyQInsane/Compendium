@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T10:34:03.492-04:00
-modified: 2026-08-17T16:44:59.246-04:00
-published: 2026-08-17T16:44:59.246-04:00
+modified: 2026-08-31T15:05:27.582-04:00
+published: 2026-08-31T15:05:27.582-04:00
 Name: "[[Clairvoyance]]"
 Spell Level: Level 3
 School: Divination
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 3 Divination ([[Bard]], [[Cleric]], [[Sorcerer]], [[Wizard]])_
 

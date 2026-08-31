@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T21:21:21.518-04:00
-modified: 2026-08-17T21:24:31.710-04:00
-published: 2026-08-17T21:24:31.710-04:00
+modified: 2026-08-31T15:22:54.903-04:00
+published: 2026-08-31T15:22:54.903-04:00
 Name: "[[Dawn]]"
 Spell Level: Level 5
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Xanathar's Guide to Everything</i></div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 _Level 5 Evocation ([[Cleric]], [[Wizard]])_
 

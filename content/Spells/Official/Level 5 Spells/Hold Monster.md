@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T00:55:20.464-04:00
-modified: 2026-08-17T16:57:45.670-04:00
-published: 2026-08-17T16:57:45.670-04:00
+modified: 2026-08-31T15:23:52.488-04:00
+published: 2026-08-31T15:23:52.488-04:00
 Name: "[[Hold Monster]]"
 Spell Level: Level 5
 School: Enchantment
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 5 Enchantment ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-10T13:44:08.031-04:00
-modified: 2026-08-17T17:11:15.032-04:00
-published: 2026-08-17T17:11:15.032-04:00
+modified: 2026-08-31T15:12:57.895-04:00
+published: 2026-08-31T15:12:57.895-04:00
 Name: "[[Osseous Impalement]]"
 Spell Level: Level 3
 School: Conjuration (Osteomancy)
@@ -14,7 +14,7 @@ Publisher: MonkeyDM
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Steinhardt's Guide to the Eldritch Hunt<br>MonkeyDM</div>
+<div class="source">Steinhardt's Guide to the Eldritch Hunt<br>MonkeyDM</div>
 
 _Level 3 Conjuration (Osteomancy) ([[Sorcerer]], [[Warlock]], [[Wizard]])_
 

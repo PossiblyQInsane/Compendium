@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T21:09:04.947-04:00
-modified: 2026-08-17T21:13:52.051-04:00
-published: 2026-08-17T21:13:52.051-04:00
+modified: 2026-08-31T15:10:26.817-04:00
+published: 2026-08-31T15:10:26.817-04:00
 Name: "[[Spirit Shroud]]"
 Spell Level: Level 3
 School: Necromancy
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Tasha's Cauldron of Everything</i></div>
+<div class="source">Tasha's Cauldron of Everything</div>
 
 _Level 3 Necromancy ([[Cleric]], [[Paladin]], [[Warlock]], [[Wizard]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T21:10:29.655-04:00
-modified: 2026-08-23T21:14:45.401-04:00
-published: 2026-08-23T21:14:45.401-04:00
+modified: 2026-08-31T15:10:51.107-04:00
+published: 2026-08-31T15:10:51.107-04:00
 Name: "[[Syluné’s Viper]]"
 Spell Level: Level 3
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right"><i>Forgotten Realms: Heroes of Faerûn</i></div>
+<div class="source">Forgotten Realms: Heroes of Faerûn</div>
 
 _Level 3 Conjuration ([[Druid]], [[Wizard]])_
 

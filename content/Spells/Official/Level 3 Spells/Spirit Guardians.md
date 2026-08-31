@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T13:20:00.069-04:00
-modified: 2026-08-17T16:49:37.450-04:00
-published: 2026-08-17T16:49:37.450-04:00
+modified: 2026-08-31T15:10:17.393-04:00
+published: 2026-08-31T15:10:17.393-04:00
 Name: "[[Spirit Guardians]]"
 Spell Level: Level 3
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 3 Conjuration ([[Cleric]])_
 

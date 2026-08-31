@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T00:15:06.108-04:00
-modified: 2026-08-17T16:51:25.713-04:00
-published: 2026-08-17T16:51:25.713-04:00
+modified: 2026-08-31T15:14:40.040-04:00
+published: 2026-08-31T15:14:40.040-04:00
 Name: "[[Compulsion]]"
 Spell Level: Level 4
 School: Enchantment
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 4 Enchantment ([[Bard]])_
 

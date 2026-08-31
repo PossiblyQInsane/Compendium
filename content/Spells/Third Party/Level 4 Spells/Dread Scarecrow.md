@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-10T13:47:30.381-04:00
-modified: 2026-08-17T17:11:21.421-04:00
-published: 2026-08-17T17:11:21.421-04:00
+modified: 2026-08-31T15:20:02.986-04:00
+published: 2026-08-31T15:20:02.986-04:00
 Name: "[[Dread Scarecrow]]"
 Spell Level: Level 4
 School: Illusion (Osteomancy)
@@ -14,7 +14,7 @@ Publisher: MonkeyDM
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Steinhardt's Guide to the Eldritch Hunt<br>MonkeyDM</div>
+<div class="source">Steinhardt's Guide to the Eldritch Hunt<br>MonkeyDM</div>
 
 _Level 4 Illusion (Osteomancy) ([[Bard]], [[Warlock]], [[Wizard]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T13:53:53.498-04:00
-modified: 2026-08-17T16:47:28.505-04:00
-published: 2026-08-17T16:47:28.505-04:00
+modified: 2026-08-31T15:07:37.551-04:00
+published: 2026-08-31T15:07:37.551-04:00
 Name: "[[Haste]]"
 Spell Level: Level 3
 School: Transmutation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 3 Transmutation ([[Artificer|Artificer]], [[Sorcerer]], [[Wizard]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T21:26:13.474-04:00
-modified: 2026-08-23T21:31:53.830-04:00
-published: 2026-08-23T21:31:53.830-04:00
+modified: 2026-08-31T15:16:40.750-04:00
+published: 2026-08-31T15:16:40.750-04:00
 Name: "[[Guardian of Nature]]"
 Spell Level: Level 4
 School: Transmutation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Xanathar's Guide to Everything</i></div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 _Level 4 Transmutation ([[Druid]], [[Ranger]])_
 

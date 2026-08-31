@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T13:31:36.676-04:00
-modified: 2026-08-17T16:45:16.278-04:00
-published: 2026-08-17T16:45:16.278-04:00
+modified: 2026-08-31T15:05:57.940-04:00
+published: 2026-08-31T15:05:57.940-04:00
 Name: "[[Create Food and Water]]"
 Spell Level: Level 3
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 3 Conjuration ([[Artificer|Artificer]], [[Cleric]], [[Paladin]])_
 

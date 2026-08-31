@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T11:41:08.595-04:00
-modified: 2026-08-17T16:56:25.851-04:00
-published: 2026-08-17T16:56:25.851-04:00
+modified: 2026-08-31T15:21:53.807-04:00
+published: 2026-08-31T15:21:53.807-04:00
 Name: "[[Commune with Nature]]"
 Spell Level: Level 5
 School: Divination
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 5 Divination ([[Druid]], [[Ranger]])_
 

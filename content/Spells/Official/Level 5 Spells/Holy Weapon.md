@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T21:27:30.023-04:00
-modified: 2026-08-17T21:32:28.260-04:00
-published: 2026-08-17T21:32:28.260-04:00
+modified: 2026-08-31T15:24:01.794-04:00
+published: 2026-08-31T15:24:01.794-04:00
 Name: "[[Holy Weapon]]"
 Spell Level: Level 5
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Xanathar's Guide to Everything</i></div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 _Level 5 Evocation ([[Cleric]], [[Paladin]])_
 

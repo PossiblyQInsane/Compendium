@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-07T11:20:55.221-04:00
-modified: 2026-08-17T16:51:34.631-04:00
-published: 2026-08-17T16:51:34.631-04:00
+modified: 2026-08-31T15:14:52.840-04:00
+published: 2026-08-31T15:14:52.840-04:00
 Name: "[[Conjure Minor Elementals]]"
 Spell Level: Level 4
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 4 Conjuration ([[Druid]], [[Wizard]])_
 

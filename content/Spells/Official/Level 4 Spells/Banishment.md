@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T10:37:26.715-04:00
-modified: 2026-08-17T16:51:14.377-04:00
-published: 2026-08-17T16:51:14.377-04:00
+modified: 2026-08-31T15:14:10.968-04:00
+published: 2026-08-31T15:14:10.968-04:00
 Name: "[[Banishment]]"
 Spell Level: Level 4
 School: Abjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 4 Abjuration ([[Cleric]], [[Paladin]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T23:58:02.206-04:00
-modified: 2026-08-17T16:49:33.942-04:00
-published: 2026-08-17T16:49:33.942-04:00
+modified: 2026-08-31T15:10:10.996-04:00
+published: 2026-08-31T15:10:10.996-04:00
 Name: "[[Speak with Plants]]"
 Spell Level: Level 3
 School: Transmutation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 3 Transmutation ([[Bard]], [[Druid]], [[Ranger]])_
 

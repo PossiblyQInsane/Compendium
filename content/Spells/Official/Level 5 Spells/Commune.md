@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T23:18:40.142-04:00
-modified: 2026-08-17T16:56:22.352-04:00
-published: 2026-08-17T16:56:22.352-04:00
+modified: 2026-08-31T15:21:46.982-04:00
+published: 2026-08-31T15:21:46.982-04:00
 Name: "[[Commune]]"
 Spell Level: Level 5
 School: Divination
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 5 Divination ([[Cleric]])_
 

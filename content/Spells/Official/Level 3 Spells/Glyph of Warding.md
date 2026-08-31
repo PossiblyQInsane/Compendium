@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T13:48:34.301-04:00
-modified: 2026-08-17T16:47:23.251-04:00
-published: 2026-08-17T16:47:23.251-04:00
+modified: 2026-08-31T15:07:31.639-04:00
+published: 2026-08-31T15:07:31.639-04:00
 Name: "[[Glyph of Warding]]"
 Spell Level: Level 3
 School: Abjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 3 Abjuration ([[Artificer|Artificer]], [[Bard]], [[Cleric]], [[Wizard]])_
 

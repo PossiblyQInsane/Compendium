@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T21:52:07.191-04:00
-modified: 2026-08-23T21:55:32.054-04:00
-published: 2026-08-23T21:55:32.054-04:00
+modified: 2026-08-31T15:24:23.357-04:00
+published: 2026-08-31T15:24:23.357-04:00
 Name: "[[Maelstrom]]"
 Spell Level: Level 5
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Elemental Evil Player's Companion</i></div>
+<div class="source">Elemental Evil Player's Companion</div>
 
 _Level 5 Evocation ([[Druid]])_
 

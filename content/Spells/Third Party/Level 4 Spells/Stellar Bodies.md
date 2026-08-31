@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-19T10:31:54.300-04:00
-modified: 2026-08-23T16:40:57.411-04:00
-published: 2026-08-23T16:40:57.411-04:00
+modified: 2026-08-31T15:20:37.781-04:00
+published: 2026-08-31T15:20:37.781-04:00
 Name: "[[Stellar Bodies]]"
 Spell Level: Level 4
 School: Evocation
@@ -14,7 +14,7 @@ Publisher: Hit Point Press
 Edition: 5e
 ---
 
-<div align="right"><i>Humblewood Campaign Setting<br>Hit Point Press</i></div>
+<div class="source">Humblewood Campaign Setting<br>Hit Point Press</div>
 
 _Level 4 Evocation ([[Cleric]], [[Druid]], [[Sorcerer]], [[Wizard]])_
 

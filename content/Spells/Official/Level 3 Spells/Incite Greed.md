@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T20:55:37.687-04:00
-modified: 2026-08-17T20:59:59.876-04:00
-published: 2026-08-17T20:59:59.876-04:00
+modified: 2026-08-31T15:07:51.965-04:00
+published: 2026-08-31T15:07:51.965-04:00
 Name: "[[Incite Greed]]"
 Spell Level: Level 3
 School: Enchantment
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Acquisitions Incorporated</i></div>
+<div class="source">Acquisitions Incorporated</div>
 
 _Level 3 Enchantment ([[Cleric]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

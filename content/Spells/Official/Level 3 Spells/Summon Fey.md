@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-07T11:05:41.662-04:00
-modified: 2026-08-29T14:15:01.021-04:00
-published: 2026-08-29T14:15:01.021-04:00
+modified: 2026-08-31T15:10:40.182-04:00
+published: 2026-08-31T15:10:40.182-04:00
 Name: "[[Summon Fey]]"
 Spell Level: Level 3
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 3 Conjuration ([[Druid]], [[Ranger]], [[Warlock]], [[Wizard]])_
 

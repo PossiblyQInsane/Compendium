@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T17:41:00.018-04:00
-modified: 2026-08-17T16:48:40.716-04:00
-published: 2026-08-17T16:48:40.716-04:00
+modified: 2026-08-31T15:09:04.564-04:00
+published: 2026-08-31T15:09:04.564-04:00
 Name: "[[Motivational Speech]]"
 Spell Level: Level 3
 School: Enchantment
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Acquisitions Incorporated</div>
+<div class="source">Acquisitions Incorporated</div>
 
 _Level 3 Enchantment ([[Bard]], [[Cleric]])_
 

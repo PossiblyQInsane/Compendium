@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T21:03:49.775-04:00
-modified: 2026-08-23T21:09:28.458-04:00
-published: 2026-08-23T21:09:28.458-04:00
+modified: 2026-08-31T15:06:34.956-04:00
+published: 2026-08-31T15:06:34.956-04:00
 Name: "[[Erupting Earth]]"
 Spell Level: Level 3
 School: Transmutation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Elemental Evil Player's Companion</i></div>
+<div class="source">Elemental Evil Player's Companion</div>
 
 _Level 3 Transmutation ([[Druid]], [[Sorcerer]], [[Wizard]])_
 
