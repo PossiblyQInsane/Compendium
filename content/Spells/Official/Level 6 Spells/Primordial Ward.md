@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T23:00:59.882-04:00
-modified: 2026-08-23T23:05:04.537-04:00
-published: 2026-08-23T23:05:04.537-04:00
+modified: 2026-08-31T19:47:30.059-04:00
+published: 2026-08-31T19:47:30.059-04:00
 Name: "[[Primordial Ward]]"
 Spell Level: Level 6
 School: Abjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Elemental Evil Player's Companion</i></div>
+<div class="source">Elemental Evil Player's Companion</div>
 
 _Level 6 Abjuration ([[Druid]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T18:36:56.681-04:00
-modified: 2026-08-17T17:06:09.086-04:00
-published: 2026-08-17T17:06:09.086-04:00
+modified: 2026-08-31T19:53:51.213-04:00
+published: 2026-08-31T19:53:51.213-04:00
 Name: "[[Mass Polymorph]]"
 Spell Level: Level 9
 School: Transmutation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Xanathar's Guide to Everything</div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 _Level 9 Transmutation ([[Bard]], [[Sorcerer]], [[Wizard]])_
 

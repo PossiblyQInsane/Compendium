@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T01:46:05.967-04:00
-modified: 2026-08-17T17:03:35.656-04:00
-published: 2026-08-17T17:03:35.656-04:00
+modified: 2026-08-31T19:49:16.235-04:00
+published: 2026-08-31T19:49:16.235-04:00
 Name: "[[Etherealness]]"
 Spell Level: Level 7
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 7 Conjuration ([[Bard]], [[Cleric]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

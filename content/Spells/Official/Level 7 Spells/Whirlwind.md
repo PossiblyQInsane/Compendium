@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T23:12:24.426-04:00
-modified: 2026-08-23T23:16:20.123-04:00
-published: 2026-08-23T23:16:20.123-04:00
+modified: 2026-08-31T19:51:08.732-04:00
+published: 2026-08-31T19:51:08.732-04:00
 Name: "[[Whirlwind]]"
 Spell Level: Level 7
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Elemental Evil Player's Companion</i></div>
+<div class="source">Elemental Evil Player's Companion</div>
 
 _Level 7 Evocation ([[Druid]], [[Sorcerer]], [[Wizard]])_
 

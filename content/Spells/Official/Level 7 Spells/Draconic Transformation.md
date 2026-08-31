@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T23:05:58.508-04:00
-modified: 2026-08-23T23:11:29.516-04:00
-published: 2026-08-23T23:11:29.516-04:00
+modified: 2026-08-31T19:49:03.544-04:00
+published: 2026-08-31T19:49:03.544-04:00
 Name: "[[Draconic Transformation]]"
 Spell Level: Level 7
 School: Transmutation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Fizban's Treasury of Dragons</i></div>
+<div class="source">Fizban's Treasury of Dragons</div>
 
 _Level 7 Transmutation ([[Druid]], [[Sorcerer]], [[Wizard]])_
 

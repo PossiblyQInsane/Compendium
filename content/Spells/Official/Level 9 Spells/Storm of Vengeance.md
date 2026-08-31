@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-08T01:02:17.986-04:00
-modified: 2026-08-17T17:06:52.317-04:00
-published: 2026-08-17T17:06:52.317-04:00
+modified: 2026-08-31T19:54:25.465-04:00
+published: 2026-08-31T19:54:25.465-04:00
 Name: "[[Storm of Vengeance]]"
 Spell Level: Level 9
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 9 Conjuration ([[Druid]])_
 

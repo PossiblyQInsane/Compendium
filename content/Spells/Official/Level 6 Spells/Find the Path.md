@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T10:57:01.006-04:00
-modified: 2026-08-17T17:01:22.789-04:00
-published: 2026-08-17T17:01:22.789-04:00
+modified: 2026-08-31T19:45:34.597-04:00
+published: 2026-08-31T19:45:34.597-04:00
 Name: "[[Find the Path]]"
 Spell Level: Level 6
 School: Divination
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 6 Divination ([[Bard]], [[Cleric]], [[Druid]])_
 

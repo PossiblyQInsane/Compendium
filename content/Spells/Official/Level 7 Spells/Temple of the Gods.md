@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T21:33:52.975-04:00
-modified: 2026-08-17T21:39:10.270-04:00
-published: 2026-08-17T21:39:10.270-04:00
+modified: 2026-08-31T19:50:59.938-04:00
+published: 2026-08-31T19:50:59.938-04:00
 Name: "[[Temple of the Gods]]"
 Spell Level: Level 7
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Xanathar's Guide to Everything</i></div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 _Level 7 Conjuration ([[Cleric]])_
 

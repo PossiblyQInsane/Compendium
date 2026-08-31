@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T18:42:01.381-04:00
-modified: 2026-08-17T17:06:42.832-04:00
-published: 2026-08-17T17:06:42.832-04:00
+modified: 2026-08-31T19:54:13.806-04:00
+published: 2026-08-31T19:54:13.806-04:00
 Name: "[[Psychic Scream]]"
 Spell Level: Level 9
 School: Enchantment
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Xanathar's Guide to Everything</div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 _Level 9 Enchantment ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

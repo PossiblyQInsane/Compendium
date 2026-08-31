@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T22:08:46.523-04:00
-modified: 2026-08-23T22:13:52.188-04:00
-published: 2026-08-23T22:13:52.188-04:00
+modified: 2026-08-31T19:43:45.413-04:00
+published: 2026-08-31T19:43:45.413-04:00
 Name: "[[Bones of the Earth]]"
 Spell Level: Level 6
 School: Transmutation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Elemental Evil Player's Companion</i></div>
+<div class="source">Elemental Evil Player's Companion</div>
 
 _Level 6 Transmutation ([[Druid]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T00:35:55.459-04:00
-modified: 2026-08-17T15:47:36.293-04:00
-published: 2026-08-17T15:47:36.293-04:00
+modified: 2026-08-31T19:51:48.694-04:00
+published: 2026-08-31T19:51:48.694-04:00
 Name: "[[Antimagic Field]]"
 Spell Level: Level 8
 School: Abjuration
@@ -12,6 +12,8 @@ Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 8 Abjuration ([[Cleric]], [[Wizard]])_
 

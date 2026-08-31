@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T00:17:45.319-04:00
-modified: 2026-08-17T17:02:30.765-04:00
-published: 2026-08-17T17:02:30.765-04:00
+modified: 2026-08-31T19:47:46.598-04:00
+published: 2026-08-31T19:47:46.598-04:00
 Name: "[[Sunbeam]]"
 Spell Level: Level 6
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 6 Evocation ([[Cleric]], [[Druid]], [[Sorcerer]], [[Wizard]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T21:40:04.267-04:00
-modified: 2026-08-17T21:43:06.311-04:00
-published: 2026-08-17T21:43:06.311-04:00
+modified: 2026-08-31T19:52:45.577-04:00
+published: 2026-08-31T19:52:45.577-04:00
 Name: "[[Holy Star of Mystra]]"
 Spell Level: Level 8
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right"><i>Forgotten Realms: Heroes of Faerûn</i></div>
+<div class="source">Forgotten Realms: Heroes of Faerûn</div>
 
 _Level 8 Evocation ([[Cleric]], [[Wizard]])_
 

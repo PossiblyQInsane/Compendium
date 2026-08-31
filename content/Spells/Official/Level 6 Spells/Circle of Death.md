@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-09T10:47:24.259-04:00
-modified: 2026-08-17T17:00:30.648-04:00
-published: 2026-08-17T17:00:30.648-04:00
+modified: 2026-08-31T19:43:58.771-04:00
+published: 2026-08-31T19:43:58.771-04:00
 Name: "[[Circle of Death]]"
 Spell Level: Level 6
 School: Necromancy
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 6 Necromancy ([[Sorcerer]], [[Warlock]], [[Wizard]])_
 

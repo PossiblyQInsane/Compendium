@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T22:14:56.057-04:00
-modified: 2026-08-23T22:37:52.235-04:00
-published: 2026-08-23T22:37:52.235-04:00
+modified: 2026-08-31T19:45:08.108-04:00
+published: 2026-08-31T19:45:08.108-04:00
 Name: "[[Druid Grove]]"
 Spell Level: Level 6
 School: Abjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Xanathar's Guide to Everything</i></div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 _Level 6 Abjuration ([[Druid]])_
 

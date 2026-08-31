@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-08T00:32:19.764-04:00
-modified: 2026-08-17T17:02:39.376-04:00
-published: 2026-08-17T17:02:39.376-04:00
+modified: 2026-08-31T19:47:59.756-04:00
+published: 2026-08-31T19:47:59.756-04:00
 Name: "[[Transport via Plants]]"
 Spell Level: Level 6
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 6 Conjuration ([[Druid]])_
 

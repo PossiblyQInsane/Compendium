@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-14T02:44:21.772-04:00
-modified: 2026-08-24T21:57:45.835-04:00
-published: 2026-08-24T21:57:45.835-04:00
+modified: 2026-08-31T19:49:22.072-04:00
+published: 2026-08-31T19:49:22.072-04:00
 Name: "[[Finger of Death]]"
 Spell Level: Level 7
 School: Necromancy
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 7 Necromancy ([[Sorcerer]], [[Warlock]], [[Wizard]])_
 

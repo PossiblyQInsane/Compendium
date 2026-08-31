@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T18:20:02.778-04:00
-modified: 2026-08-17T17:01:00.537-04:00
-published: 2026-08-17T17:01:00.537-04:00
+modified: 2026-08-31T19:44:44.886-04:00
+published: 2026-08-31T19:44:44.886-04:00
 Name: "[[Dirge]]"
 Spell Level: Level 6
 School: Enchantment
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Forgotten Realms: Heroes of Faerûn</div>
+<div class="source">Forgotten Realms: Heroes of Faerûn</div>
 
 _Level 6 Enchantment ([[Bard]], [[Cleric]])_
 

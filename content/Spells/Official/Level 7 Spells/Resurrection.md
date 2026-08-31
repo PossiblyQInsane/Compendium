@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T02:12:02.926-04:00
-modified: 2026-08-17T17:04:22.431-04:00
-published: 2026-08-17T17:04:22.431-04:00
+modified: 2026-08-31T19:50:28.712-04:00
+published: 2026-08-31T19:50:28.712-04:00
 Name: "[[Resurrection]]"
 Spell Level: Level 7
 School: Necromancy
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 7 Necromancy ([[Bard]], [[Cleric]])_
 

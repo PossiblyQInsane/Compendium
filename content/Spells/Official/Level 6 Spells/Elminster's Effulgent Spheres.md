@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T22:38:24.544-04:00
-modified: 2026-08-23T22:42:29.609-04:00
-published: 2026-08-23T22:42:29.609-04:00
+modified: 2026-08-31T19:45:21.088-04:00
+published: 2026-08-31T19:45:21.088-04:00
 Name: "[[Elminster's Effulgent Spheres]]"
 Spell Level: Level 6
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right"><i>Forgotten Realms: Heroes of Faerûn</i></div>
+<div class="source">Forgotten Realms: Heroes of Faerûn</div>
 
 _Level 6 Evocation ([[Druid]], [[Sorcerer]], [[Wizard]])_
 

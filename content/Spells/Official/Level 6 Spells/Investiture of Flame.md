@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T22:43:22.296-04:00
-modified: 2026-08-23T22:48:19.164-04:00
-published: 2026-08-23T22:48:19.164-04:00
+modified: 2026-08-31T19:46:18.198-04:00
+published: 2026-08-31T19:46:18.198-04:00
 Name: "[[Investiture of Flame]]"
 Spell Level: Level 6
 School: Transmutation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Elemental Evil Player's Companion</i></div>
+<div class="source">Elemental Evil Player's Companion</div>
 
 _Level 6 Transmutation ([[Druid]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

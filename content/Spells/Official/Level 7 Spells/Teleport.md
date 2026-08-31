@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T02:18:49.556-04:00
-modified: 2026-08-17T17:04:32.003-04:00
-published: 2026-08-17T17:04:32.003-04:00
+modified: 2026-08-31T19:50:50.708-04:00
+published: 2026-08-31T19:50:50.708-04:00
 Name: "[[Teleport]]"
 Spell Level: Level 7
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 7 Conjuration ([[Bard]], [[Sorcerer]], [[Wizard]])_
 
