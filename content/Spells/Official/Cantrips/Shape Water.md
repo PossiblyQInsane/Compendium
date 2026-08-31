@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T11:32:42.045-04:00
-modified: 2026-08-23T16:40:41.506-04:00
-published: 2026-08-23T16:40:41.506-04:00
+modified: 2026-08-31T11:53:51.285-04:00
+published: 2026-08-31T11:53:51.285-04:00
 Name: "[[Shape Water]]"
 Spell Level: Cantrip
 School: Transmutation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Elemental Evil Player's Companion</i></div>
+<div class="source">Elemental Evil Player's Companion</div>
 
 _Transmutation Cantrip ([[Druid]], [[Sorcerer]], [[Wizard]])_
 

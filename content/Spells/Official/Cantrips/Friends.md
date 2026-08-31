@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T20:18:26.169-04:00
-modified: 2026-08-17T16:21:02.489-04:00
-published: 2026-08-17T16:21:02.489-04:00
+modified: 2026-08-31T11:51:13.338-04:00
+published: 2026-08-31T11:51:13.338-04:00
 Name: "[[Friends]]"
 Spell Level: Cantrip
 School: Enchantment
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Enchantment Cantrip ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

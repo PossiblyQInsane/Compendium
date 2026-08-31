@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T19:46:13.181-04:00
-modified: 2026-08-17T16:24:34.449-04:00
-published: 2026-08-17T16:24:34.449-04:00
+modified: 2026-08-31T11:55:09.692-04:00
+published: 2026-08-31T11:55:09.692-04:00
 Name: "[[Vicious Mockery]]"
 Spell Level: Cantrip
 School: Enchantment
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Enchantment Cantrip ([[Bard]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T20:34:42.965-04:00
-modified: 2026-08-17T20:41:56.106-04:00
-published: 2026-08-17T20:41:56.106-04:00
+modified: 2026-08-31T12:03:37.346-04:00
+published: 2026-08-31T12:03:37.346-04:00
 Name: "[[Ceremony]]"
 Spell Level: Level 1
 School: Abjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Xanathar's Guide to Everything</i></div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 _Level 1 Abjuration ([[Cleric]], [[Paladin]])_
 

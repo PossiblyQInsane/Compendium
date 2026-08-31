@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T12:08:40.591-04:00
-modified: 2026-08-23T16:40:58.247-04:00
-published: 2026-08-23T16:40:58.247-04:00
+modified: 2026-08-31T12:25:52.721-04:00
+published: 2026-08-31T12:25:52.721-04:00
 Name: "[[Wither and Bloom]]"
 Spell Level: Level 2
 School: Necromancy
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Strixhaven: A Curriculum of Chaos</i></div>
+<div class="source">Strixhaven: A Curriculum of Chaos</div>
 
 _Level 2 Necromancy ([[Druid]], [[Sorcerer]], [[Wizard]])_
 

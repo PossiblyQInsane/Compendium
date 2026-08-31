@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-06T02:23:22.028-04:00
-modified: 2026-08-17T16:36:46.763-04:00
-published: 2026-08-17T16:36:46.763-04:00
+modified: 2026-08-31T12:20:41.501-04:00
+published: 2026-08-31T12:20:41.501-04:00
 Name: "[[Gust of Wind]]"
 Spell Level: Level 2
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 2 Evocation ([[Druid]], [[Ranger]], [[Sorcerer]], [[Wizard]])_
 

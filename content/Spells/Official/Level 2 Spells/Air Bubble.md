@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T22:32:10.758-04:00
-modified: 2026-08-17T16:34:10.444-04:00
-published: 2026-08-17T16:34:10.444-04:00
+modified: 2026-08-31T12:17:02.545-04:00
+published: 2026-08-31T12:17:02.545-04:00
 Name: "[[Air Bubble]]"
 Spell Level: Level 2
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Spelljammer: Adventures in Space</div>
+<div class="source">Spelljammer: Adventures in Space</div>
 
 _Level 2 Conjuration ([[Artificer]], [[Druid]], [[Ranger]], [[Sorcerer]], [[Wizard]])_
 

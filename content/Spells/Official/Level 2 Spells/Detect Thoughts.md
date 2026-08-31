@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T21:06:45.139-04:00
-modified: 2026-08-17T16:35:45.015-04:00
-published: 2026-08-17T16:35:45.015-04:00
+modified: 2026-08-31T12:19:18.518-04:00
+published: 2026-08-31T12:19:18.518-04:00
 Name: "[[Detect Thoughts]]"
 Spell Level: Level 2
 School: Divination
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 2 Divination ([[Bard]], [[Sorcerer]], [[Wizard]])_
 

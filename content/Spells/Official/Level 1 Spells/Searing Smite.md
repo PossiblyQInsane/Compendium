@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T22:43:10.088-04:00
-modified: 2026-08-17T22:45:41.900-04:00
-published: 2026-08-17T22:45:41.900-04:00
+modified: 2026-08-31T12:08:36.537-04:00
+published: 2026-08-31T12:08:36.537-04:00
 Name: "[[Searing Smite]]"
 Spell Level: Level 1
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right"><i>Player's Handbook 5.5e</i></div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 1 Evocation ([[Paladin]])_
 

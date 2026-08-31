@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T21:29:18.816-04:00
-modified: 2026-08-24T21:34:17.244-04:00
-published: 2026-08-24T21:34:17.244-04:00
+modified: 2026-08-31T11:55:33.785-04:00
+published: 2026-08-31T11:55:33.785-04:00
 Name: "[[Concussion]]"
 Spell Level: Cantrip
 School: Evocation
@@ -14,7 +14,7 @@ Publisher: Loot Tavern
 Edition: 5e
 ---
 
-<div align="right"><i>Heliana's Guide to Monster Hunting<br>Loot Tavern</i></div>
+<div class="source">Heliana's Guide to Monster Hunting<br>Loot Tavern</div>
 
 _Evocation Cantrip ([[Druid]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

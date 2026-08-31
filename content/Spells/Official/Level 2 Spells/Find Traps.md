@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T22:46:47.292-04:00
-modified: 2026-08-17T16:36:07.851-04:00
-published: 2026-08-17T16:36:07.851-04:00
+modified: 2026-08-31T12:20:05.843-04:00
+published: 2026-08-31T12:20:05.843-04:00
 Name: "[[Find Traps]]"
 Spell Level: Level 2
 School: Divination
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 2 Divination ([[Cleric]], [[Druid]], [[Ranger]])_
 

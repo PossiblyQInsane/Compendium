@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T20:29:25.121-04:00
-modified: 2026-08-17T16:25:22.932-04:00
-published: 2026-08-17T16:25:22.932-04:00
+modified: 2026-08-31T12:02:48.528-04:00
+published: 2026-08-31T12:02:48.528-04:00
 Name: "[[Bane]]"
 Spell Level: Level 1
 School: Enchantment
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 1 Enchantment ([[Bard]], [[Cleric]], [[Warlock]])_
 

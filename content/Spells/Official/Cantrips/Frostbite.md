@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T21:40:45.203-04:00
-modified: 2026-08-17T16:21:24.223-04:00
-published: 2026-08-17T16:21:24.223-04:00
+modified: 2026-08-31T11:51:20.421-04:00
+published: 2026-08-31T11:51:20.421-04:00
 Name: "[[Frostbite]]"
 Spell Level: Cantrip
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Elemental Evil Player's Companion</div>
+<div class="source">Elemental Evil Player's Companion</div>
 
 _Evocation Cantrip ([[Artificer]], [[Druid]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

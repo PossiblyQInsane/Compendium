@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T11:28:52.400-04:00
-modified: 2026-08-20T11:31:20.057-04:00
-published: 2026-08-20T11:31:20.057-04:00
+modified: 2026-08-31T11:53:08.910-04:00
+published: 2026-08-31T11:53:08.910-04:00
 Name: "[[Primal Savagery]]"
 Spell Level: Cantrip
 School: Transmutation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Xanathar's Guide to Everything</i></div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 _Transmutation Cantrip ([[Druid]])_
 

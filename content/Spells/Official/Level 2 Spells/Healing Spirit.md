@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T12:02:28.276-04:00
-modified: 2026-08-23T16:40:58.153-04:00
-published: 2026-08-23T16:40:58.153-04:00
+modified: 2026-08-31T12:20:51.682-04:00
+published: 2026-08-31T12:20:51.682-04:00
 Name: "[[Healing Spirit]]"
 Spell Level: Level 2
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Xanathar's Guide to Everything</i></div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 _Level 2 Conjuration ([[Druid]], [[Ranger]])_
 

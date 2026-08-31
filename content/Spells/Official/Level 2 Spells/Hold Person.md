@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T21:13:33.348-04:00
-modified: 2026-08-17T16:36:54.743-04:00
-published: 2026-08-17T16:36:54.743-04:00
+modified: 2026-08-31T12:21:03.548-04:00
+published: 2026-08-31T12:21:03.548-04:00
 Name: "[[Hold Person]]"
 Spell Level: Level 2
 School: Enchantment
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 2 Enchantment ([[Bard]], [[Cleric]], [[Druid]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

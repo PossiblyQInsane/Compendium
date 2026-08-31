@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T22:49:46.348-04:00
-modified: 2026-08-17T16:36:18.753-04:00
-published: 2026-08-17T16:36:18.753-04:00
+modified: 2026-08-31T12:20:28.828-04:00
+published: 2026-08-31T12:20:28.828-04:00
 Name: "[[Gentle Repose]]"
 Spell Level: Level 2
 School: Necromancy
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 2 Necromancy ([[Cleric]], [[Paladin]], [[Wizard]])_
 

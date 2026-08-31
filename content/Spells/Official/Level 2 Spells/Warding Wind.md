@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T17:10:41.257-04:00
-modified: 2026-08-17T16:42:21.085-04:00
-published: 2026-08-17T16:42:21.085-04:00
+modified: 2026-08-31T12:25:39.143-04:00
+published: 2026-08-31T12:25:39.143-04:00
 Name: "[[Warding Wind]]"
 Spell Level: Level 2
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Elemental Evil Player's Companion</div>
+<div class="source">Elemental Evil Player's Companion</div>
 
 _Level 2 Evocation ([[Bard]], [[Druid]], [[Sorcerer]], [[Wizard]])_
 

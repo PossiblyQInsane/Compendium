@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T22:24:19.153-04:00
-modified: 2026-08-17T16:24:30.512-04:00
-published: 2026-08-17T16:24:30.512-04:00
+modified: 2026-08-31T11:55:03.862-04:00
+published: 2026-08-31T11:55:03.862-04:00
 Name: "[[True Strike|True Strike]]"
 Spell Level: Cantrip
 School: Divination
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Divination Cantrip ([[Artificer]], [[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T21:31:08.716-04:00
-modified: 2026-08-17T16:42:35.867-04:00
-published: 2026-08-17T16:42:35.867-04:00
+modified: 2026-08-31T12:25:58.674-04:00
+published: 2026-08-31T12:25:58.674-04:00
 Name: "[[Zone of Truth]]"
 Spell Level: Level 2
 School: Enchantment
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 2 Enchantment ([[Bard]], [[Cleric]], [[Paladin]])_
 

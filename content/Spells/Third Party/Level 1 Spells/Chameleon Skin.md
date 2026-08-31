@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T21:07:32.270-04:00
-modified: 2026-08-24T21:16:29.116-04:00
-published: 2026-08-24T21:16:29.116-04:00
+modified: 2026-08-31T12:12:39.513-04:00
+published: 2026-08-31T12:12:39.513-04:00
 Name: "[[Chameleon Skin]]"
 Spell Level: Level 1
 School: Biomancy
@@ -14,7 +14,7 @@ Publisher: Loot Tavern
 Edition: 5e
 ---
 
-<div align="right"><i>Heliana's Guide to Monster Hunting<br>Loot Tavern</i></div>
+<div class="source">Heliana's Guide to Monster Hunting<br>Loot Tavern</div>
 
 _Level 1 Biomancy\* ([[Bard]], [[Druid]], [[Ranger]], [[Wizard]]) (\*can be replaced with Transmutation)_
 

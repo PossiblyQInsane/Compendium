@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T22:00:35.330-04:00
-modified: 2026-08-17T16:24:07.675-04:00
-published: 2026-08-17T16:24:07.675-04:00
+modified: 2026-08-31T11:54:26.567-04:00
+published: 2026-08-31T11:54:26.567-04:00
 Name: "[[Sword Burst]]"
 Spell Level: Cantrip
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Sword Coast Adventurer's Guide</div>
+<div class="source">Sword Coast Adventurer's Guide</div>
 
 _Conjuration Cantrip ([[Artificer]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

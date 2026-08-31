@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T01:04:05.736-04:00
-modified: 2026-08-17T14:57:43.849-04:00
-published: 2026-08-17T14:57:43.849-04:00
+modified: 2026-08-31T12:21:09.156-04:00
+published: 2026-08-31T12:21:09.156-04:00
 Name: "[[Homunculus Servant]]"
 Spell Level: Level 2
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Eberron: Forge of the Artificer</div>
+<div class="source">Eberron: Forge of the Artificer</div>
 
 _Level 2 Conjuration ([[Artificer|Artificer]])_
 

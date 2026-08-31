@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T21:22:20.466-04:00
-modified: 2026-08-17T16:38:58.345-04:00
-published: 2026-08-17T16:38:58.345-04:00
+modified: 2026-08-31T12:23:19.706-04:00
+published: 2026-08-31T12:23:19.706-04:00
 Name: "[[Phantasmal Force]]"
 Spell Level: Level 2
 School: Illusion
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 2 Illusion ([[Bard]], [[Sorcerer]], [[Wizard]])_
 

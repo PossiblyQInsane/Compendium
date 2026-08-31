@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T16:44:32.202-04:00
-modified: 2026-08-17T16:35:09.548-04:00
-published: 2026-08-17T16:35:09.548-04:00
+modified: 2026-08-31T12:18:04.394-04:00
+published: 2026-08-31T12:18:04.394-04:00
 Name: "[[Borrowed Knowledge]]"
 Spell Level: Level 2
 School: Divination
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Strixhaven: A Curriculum of Chaos</div>
+<div class="source">Strixhaven: A Curriculum of Chaos</div>
 
 _Level 2 Divination ([[Bard]], [[Cleric]], [[Warlock]], [[Wizard]])_
 

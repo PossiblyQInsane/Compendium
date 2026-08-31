@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T11:45:11.012-04:00
-modified: 2026-08-20T11:49:15.083-04:00
-published: 2026-08-20T11:49:15.083-04:00
+modified: 2026-08-31T12:03:23.241-04:00
+published: 2026-08-31T12:03:23.241-04:00
 Name: "[[Buzzing Bee]]"
 Spell Level: Level 1
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right"><i>D&D Beyond Drops</i></div>
+<div class="source">D&D Beyond Drops</div>
 
 _Level 1 Conjuration ([[Druid]], [[Ranger]], [[Sorcerer]], [[Wizard]])_
 

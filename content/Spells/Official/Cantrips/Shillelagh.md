@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-07T10:18:15.972-04:00
-modified: 2026-08-17T16:23:39.176-04:00
-published: 2026-08-17T16:23:39.176-04:00
+modified: 2026-08-31T11:54:00.727-04:00
+published: 2026-08-31T11:54:00.727-04:00
 Name: "[[Shillelagh]]"
 Spell Level: Cantrip
 School: Transmutation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Transmutation Cantrip ([[Druid]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T13:18:24.984-04:00
-modified: 2026-08-17T16:31:19.420-04:00
-published: 2026-08-17T16:31:19.420-04:00
+modified: 2026-08-31T12:08:51.226-04:00
+published: 2026-08-31T12:08:51.226-04:00
 Name: "[[Shield of Faith]]"
 Spell Level: Level 1
 School: Abjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 1 Abjuration ([[Cleric]], [[Paladin]])_
 

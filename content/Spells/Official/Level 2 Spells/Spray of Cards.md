@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T17:06:03.245-04:00
-modified: 2026-08-17T16:40:55.787-04:00
-published: 2026-08-17T16:40:55.787-04:00
+modified: 2026-08-31T12:25:01.496-04:00
+published: 2026-08-31T12:25:01.496-04:00
 Name: "[[Spray of Cards]]"
 Spell Level: Level 2
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">The Book of Many Things</div>
+<div class="source">The Book of Many Things</div>
 
 _Level 2 Conjuration ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T20:07:12.027-04:00
-modified: 2026-08-17T16:38:01.132-04:00
-published: 2026-08-17T16:38:01.132-04:00
+modified: 2026-08-31T12:22:24.527-04:00
+published: 2026-08-31T12:22:24.527-04:00
 Name: "[[Melf's Acid Arrow]]"
 Spell Level: Level 2
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 2 Evocation ([[Wizard]])_
 

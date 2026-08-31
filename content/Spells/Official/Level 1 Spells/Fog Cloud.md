@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-07T10:24:31.778-04:00
-modified: 2026-08-17T16:29:17.619-04:00
-published: 2026-08-17T16:29:17.619-04:00
+modified: 2026-08-31T12:06:00.618-04:00
+published: 2026-08-31T12:06:00.618-04:00
 Name: "[[Fog Cloud]]"
 Spell Level: Level 1
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 1 Conjuration ([[Druid]], [[Ranger]], [[Sorcerer]], [[Wizard]])_
 

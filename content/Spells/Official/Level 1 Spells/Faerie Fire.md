@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T22:46:33.483-04:00
-modified: 2026-08-17T16:28:53.953-04:00
-published: 2026-08-17T16:28:53.953-04:00
+modified: 2026-08-31T12:05:31.830-04:00
+published: 2026-08-31T12:05:31.830-04:00
 Name: "[[Faerie Fire|Faerie Fire]]"
 Spell Level: Level 1
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 1 Evocation ([[Artificer]], [[Bard]], [[Druid]])_
 

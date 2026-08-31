@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T20:34:56.247-04:00
-modified: 2026-08-17T16:26:28.988-04:00
-published: 2026-08-17T16:26:28.988-04:00
+modified: 2026-08-31T12:04:09.045-04:00
+published: 2026-08-31T12:04:09.045-04:00
 Name: "[[Comprehend Languages]]"
 Spell Level: Level 1
 School: Divination
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 1 Divination ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

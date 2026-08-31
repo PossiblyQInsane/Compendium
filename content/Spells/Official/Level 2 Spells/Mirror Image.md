@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T23:19:27.461-04:00
-modified: 2026-08-17T16:38:11.308-04:00
-published: 2026-08-17T16:38:11.308-04:00
+modified: 2026-08-31T12:22:41.713-04:00
+published: 2026-08-31T12:22:41.713-04:00
 Name: "[[Mirror Image]]"
 Spell Level: Level 2
 School: Illusion
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 2 Illusion ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

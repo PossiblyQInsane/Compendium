@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-09T09:11:00.125-04:00
-modified: 2026-08-17T17:09:13.872-04:00
-published: 2026-08-17T17:09:13.872-04:00
+modified: 2026-08-31T12:12:30.401-04:00
+published: 2026-08-31T12:12:30.401-04:00
 Name: "[[Blood Rush]]"
 Spell Level: Level 1
 School: Transmutation (Sangromancy)
@@ -14,7 +14,7 @@ Publisher: Ghostfire Gaming
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Grim Hollow: Player's Guide<br>Ghostfire Gaming</div>
+<div class="source">Grim Hollow: Player's Guide<br>Ghostfire Gaming</div>
 
 _Level 1 Transmutation (Sangromancy) ([[Druid]], [[Ranger]])_
 

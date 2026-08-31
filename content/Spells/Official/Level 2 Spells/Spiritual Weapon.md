@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T13:25:04.628-04:00
-modified: 2026-08-17T16:40:37.394-04:00
-published: 2026-08-17T16:40:37.394-04:00
+modified: 2026-08-31T12:24:55.993-04:00
+published: 2026-08-31T12:24:55.993-04:00
 Name: "[[Spiritual Weapon]]"
 Spell Level: Level 2
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 2 Evocation ([[Cleric]])_
 

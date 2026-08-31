@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T01:17:51.119-04:00
-modified: 2026-08-24T01:28:44.540-04:00
-published: 2026-08-24T01:28:44.540-04:00
+modified: 2026-08-31T11:55:43.038-04:00
+published: 2026-08-31T11:55:43.038-04:00
 Name: "[[Swarm]]"
 Spell Level: Cantrip
 School: Biomancy
@@ -14,7 +14,7 @@ Publisher: Loot Tavern
 Edition: 5e
 ---
 
-<div align="right"><i>Heliana's Guide to Monster Hunting<br>Loot Tavern</i></div>
+<div class="source">Heliana's Guide to Monster Hunting<br>Loot Tavern</div>
 
 _Biomancy\* Cantrip ([[Druid]], [[Sorcerer]], [[Warlock]]) (\*can be replaced with Conjuration)_
 

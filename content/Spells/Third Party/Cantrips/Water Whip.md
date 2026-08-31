@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T21:34:33.687-04:00
-modified: 2026-08-24T21:38:37.895-04:00
-published: 2026-08-24T21:38:37.895-04:00
+modified: 2026-08-31T11:55:53.222-04:00
+published: 2026-08-31T11:55:53.222-04:00
 Name: "[[Water Whip]]"
 Spell Level: Cantrip
 School: Transmutation
@@ -14,7 +14,7 @@ Publisher: Loot Tavern
 Edition: 5e
 ---
 
-<div align="right"><i>Heliana's Guide to Monster Hunting<br>Loot Tavern</i></div>
+<div class="source">Heliana's Guide to Monster Hunting<br>Loot Tavern</div>
 
 _Transmutation Cantrip ([[Druid]], [[Sorcerer]], [[Wizard]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T10:24:42.837-04:00
-modified: 2026-08-17T16:37:43.316-04:00
-published: 2026-08-17T16:37:43.316-04:00
+modified: 2026-08-31T12:22:05.213-04:00
+published: 2026-08-31T12:22:05.213-04:00
 Name: "[[Locate Object]]"
 Spell Level: Level 2
 School: Divination
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 2 Divination ([[Bard]], [[Cleric]], [[Druid]], [[Paladin]], [[Ranger]], [[Wizard]])_
 

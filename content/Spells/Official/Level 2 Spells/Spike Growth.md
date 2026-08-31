@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-07T10:39:09.704-04:00
-modified: 2026-08-17T16:40:33.743-04:00
-published: 2026-08-17T16:40:33.743-04:00
+modified: 2026-08-31T12:24:50.677-04:00
+published: 2026-08-31T12:24:50.677-04:00
 Name: "[[Spike Growth]]"
 Spell Level: Level 2
 School: Transmutation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 2 Transmutation ([[Druid]], [[Ranger]])_
 

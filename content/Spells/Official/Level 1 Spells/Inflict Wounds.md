@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T22:38:20.915-04:00
-modified: 2026-08-17T16:30:06.169-04:00
-published: 2026-08-17T16:30:06.169-04:00
+modified: 2026-08-31T12:07:23.800-04:00
+published: 2026-08-31T12:07:23.800-04:00
 Name: "[[Inflict Wounds]]"
 Spell Level: Level 1
 School: Necromancy
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 1 Necromancy ([[Cleric]])_
 

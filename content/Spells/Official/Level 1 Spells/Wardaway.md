@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T16:37:28.666-04:00
-modified: 2026-08-17T16:33:23.168-04:00
-published: 2026-08-17T16:33:23.168-04:00
+modified: 2026-08-31T12:11:59.913-04:00
+published: 2026-08-31T12:11:59.913-04:00
 Name: "[[Wardaway]]"
 Spell Level: Level 1
 School: Abjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Forgotten Realms: Heroes of Faerûn</div>
+<div class="source">Forgotten Realms: Heroes of Faerûn</div>
 
 \_Level 1 Abjuration ([[Bard]], [[Cleric]], [[Paladin]], [[Wizard]])
 

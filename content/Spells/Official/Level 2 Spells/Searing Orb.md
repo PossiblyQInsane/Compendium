@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T20:50:35.973-04:00
-modified: 2026-08-17T20:53:48.437-04:00
-published: 2026-08-17T20:53:48.437-04:00
+modified: 2026-08-31T12:24:07.941-04:00
+published: 2026-08-31T12:24:07.941-04:00
 Name: "[[Searing Orb]]"
 Spell Level: Level 2
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right"><i>D&D Beyond Drops</i></div>
+<div class="source">D&D Beyond Drops</div>
 
 _Level 2 Evocation ([[Cleric]], [[Paladin]])_
 

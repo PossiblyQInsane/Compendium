@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T21:35:58.944-04:00
-modified: 2026-08-17T16:20:33.401-04:00
-published: 2026-08-17T16:20:33.401-04:00
+modified: 2026-08-31T11:50:39.269-04:00
+published: 2026-08-31T11:50:39.269-04:00
 Name: "[[Create Bonfire]]"
 Spell Level: Cantrip
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Elemental Evil Player's Companion</div>
+<div class="source">Elemental Evil Player's Companion</div>
 
 _Conjuration Cantrip ([[Artificer]], [[Druid]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-10T13:24:52.214-04:00
-modified: 2026-08-17T17:11:01.787-04:00
-published: 2026-08-17T17:11:01.787-04:00
+modified: 2026-08-31T12:26:13.281-04:00
+published: 2026-08-31T12:26:13.281-04:00
 Name: "[[Arm Cannon]]"
 Spell Level: Level 2
 School: Evocation (Osteomancy)
@@ -14,7 +14,7 @@ Publisher: MonkeyDM
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Steinhardt's Guide to the Eldritch Hunt<br>MonkeyDM</div>
+<div class="source">Steinhardt's Guide to the Eldritch Hunt<br>MonkeyDM</div>
 
 _Level 2 Evocation (Osteomancy) ([[Sorcerer]], [[Warlock]], [[Wizard]])_
 

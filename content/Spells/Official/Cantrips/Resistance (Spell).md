@@ -2,8 +2,8 @@
 publish: true
 title: Resistance
 created: 2026-07-25T22:05:27.156-04:00
-modified: 2026-08-17T16:23:30.399-04:00
-published: 2026-08-17T16:23:30.399-04:00
+modified: 2026-08-31T11:53:28.925-04:00
+published: 2026-08-31T11:53:28.925-04:00
 Name: "[[Resistance (Spell)|Resistance]]"
 Spell Level: Cantrip
 School: Abjuration
@@ -14,7 +14,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Abjuration Cantrip ([[Artificer]], [[Cleric]], [[Druid]])_
 

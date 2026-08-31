@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T11:16:09.755-04:00
-modified: 2026-08-17T16:20:13.380-04:00
-published: 2026-08-17T16:20:13.380-04:00
+modified: 2026-08-31T11:50:21.482-04:00
+published: 2026-08-31T11:50:21.482-04:00
 Name: "[[Chill Touch]]"
 Spell Level: Cantrip
 School: Necromancy
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Necromancy Cantrip ([[Sorcerer]], [[Warlock]], [[Wizard]])_
 

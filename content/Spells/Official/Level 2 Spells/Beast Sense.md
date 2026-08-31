@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T11:30:09.361-04:00
-modified: 2026-08-17T16:34:44.366-04:00
-published: 2026-08-17T16:34:44.366-04:00
+modified: 2026-08-31T12:17:46.485-04:00
+published: 2026-08-31T12:17:46.485-04:00
 Name: "[[Beast Sense]]"
 Spell Level: Level 2
 School: Divination
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 2 Divination ([[Druid]], [[Ranger]])_
 

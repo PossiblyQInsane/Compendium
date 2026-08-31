@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-24T11:55:05.495-04:00
-modified: 2026-08-17T16:29:26.647-04:00
-published: 2026-08-17T16:29:26.647-04:00
+modified: 2026-08-31T12:06:12.456-04:00
+published: 2026-08-31T12:06:12.456-04:00
 Name: "[[Grease|Grease]]"
 Spell Level: Level 1
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 1 Conjuration ([[Artificer]], [[Sorcerer]], [[Wizard]])_
 

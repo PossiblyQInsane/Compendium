@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T00:54:27.926-04:00
-modified: 2026-08-17T16:26:05.219-04:00
-published: 2026-08-17T16:26:05.219-04:00
+modified: 2026-08-31T12:03:51.846-04:00
+published: 2026-08-31T12:03:51.846-04:00
 Name: "[[Chromatic Orb]]"
 Spell Level: Level 1
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 1 Evocation ([[Sorcerer]], [[Wizard]])_
 

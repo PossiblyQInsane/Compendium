@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-25T22:55:22.634-04:00
-modified: 2026-08-17T16:29:58.212-04:00
-published: 2026-08-17T16:29:58.212-04:00
+modified: 2026-08-31T12:07:07.501-04:00
+published: 2026-08-31T12:07:07.501-04:00
 Name: "[[Identify|Identify]]"
 Spell Level: Level 1
 School: Divination
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 1 Divination ([[Artificer]], [[Bard]], [[Wizard]])_
 

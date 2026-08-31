@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-10T13:32:19.925-04:00
-modified: 2026-08-17T17:10:45.751-04:00
-published: 2026-08-17T17:10:45.751-04:00
+modified: 2026-08-31T12:13:26.073-04:00
+published: 2026-08-31T12:13:26.073-04:00
 Name: "[[Fractured Shell]]"
 Spell Level: Level 1
 School: Transmutation (Osteomancy)
@@ -14,7 +14,7 @@ Publisher: MonkeyDM
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Steinhardt's Guide to the Eldritch Hunt<br>MonkeyDM</div>
+<div class="source">Steinhardt's Guide to the Eldritch Hunt<br>MonkeyDM</div>
 
 _Level 1 Transmutation (Osteomancy) ([[Warlock]], [[Wizard]])_
 

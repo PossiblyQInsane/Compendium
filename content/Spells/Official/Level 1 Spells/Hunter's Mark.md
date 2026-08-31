@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T14:50:17.014-04:00
-modified: 2026-08-17T16:29:50.508-04:00
-published: 2026-08-17T16:29:50.508-04:00
+modified: 2026-08-31T12:06:49.924-04:00
+published: 2026-08-31T12:06:49.924-04:00
 Name: "[[Hunter's Mark]]"
 Spell Level: Level 1
 School: Divination
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 1 Divination ([[Ranger]])_
 

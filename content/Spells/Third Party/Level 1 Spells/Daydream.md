@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T20:51:41.260-04:00
-modified: 2026-08-24T20:57:08.520-04:00
-published: 2026-08-24T20:57:08.520-04:00
+modified: 2026-08-31T12:13:05.949-04:00
+published: 2026-08-31T12:13:05.949-04:00
 Name: "[[Daydream]]"
 Spell Level: Level 1
 School: Enchantment
@@ -14,7 +14,7 @@ Publisher: Loot Tavern
 Edition: 5e
 ---
 
-<div align="right"><i>Heliana's Guide to Monster Hunting<br>Loot Tavern</i></div>
+<div class="source">Heliana's Guide to Monster Hunting<br>Loot Tavern</div>
 
 _Level 1 Enchantment ([[Bard]], [[Druid]], [[Warlock]])_
 

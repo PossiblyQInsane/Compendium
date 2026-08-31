@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T11:38:29.941-04:00
-modified: 2026-08-23T16:40:57.876-04:00
-published: 2026-08-23T16:40:57.876-04:00
+modified: 2026-08-31T12:02:58.598-04:00
+published: 2026-08-31T12:02:58.598-04:00
 Name: "[[Beast Bond]]"
 Spell Level: Level 1
 School: Divination
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Elemental Evil Player's Companion</i></div>
+<div class="source">Elemental Evil Player's Companion</div>
 
 _Level 1 Divination ([[Druid]], [[Ranger]])_
 

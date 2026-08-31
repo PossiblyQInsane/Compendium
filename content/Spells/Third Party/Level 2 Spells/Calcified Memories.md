@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-10T13:28:36.632-04:00
-modified: 2026-08-17T17:11:05.580-04:00
-published: 2026-08-17T17:11:05.580-04:00
+modified: 2026-08-31T12:26:18.679-04:00
+published: 2026-08-31T12:26:18.679-04:00
 Name: "[[Calcified Memories]]"
 Spell Level: Level 2
 School: Divination (Osteomancy)
@@ -14,7 +14,7 @@ Publisher: MonkeyDM
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Steinhardt's Guide to the Eldritch Hunt<br>MonkeyDM</div>
+<div class="source">Steinhardt's Guide to the Eldritch Hunt<br>MonkeyDM</div>
 
 _Level 2 Divination (Osteomancy) ([[Warlock]], [[Wizard]])_
 

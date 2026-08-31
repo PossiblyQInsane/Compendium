@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T20:01:12.755-04:00
-modified: 2026-08-17T16:36:14.656-04:00
-published: 2026-08-17T16:36:14.656-04:00
+modified: 2026-08-31T12:20:17.584-04:00
+published: 2026-08-31T12:20:17.584-04:00
 Name: "[[Flaming Sphere]]"
 Spell Level: Level 2
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 2 Conjuration ([[Druid]], [[Sorcerer]], [[Wizard]])_
 

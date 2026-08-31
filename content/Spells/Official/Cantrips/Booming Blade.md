@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T21:29:32.735-04:00
-modified: 2026-08-17T16:20:03.037-04:00
-published: 2026-08-17T16:20:03.037-04:00
+modified: 2026-08-31T11:50:13.664-04:00
+published: 2026-08-31T11:50:13.664-04:00
 Name: "[[Booming Blade]]"
 Spell Level: Cantrip
 School: Evocation
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Sword Coast Adventurer's Guide</div>
+<div class="source">Sword Coast Adventurer's Guide</div>
 
 _Evocation Cantrip ([[Artificer]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

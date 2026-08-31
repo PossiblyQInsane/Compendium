@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-10T13:35:48.675-04:00
-modified: 2026-08-17T17:10:56.570-04:00
-published: 2026-08-17T17:10:56.570-04:00
+modified: 2026-08-31T12:13:34.340-04:00
+published: 2026-08-31T12:13:34.340-04:00
 Name: "[[Phalangeal Shot]]"
 Spell Level: Level 1
 School: Evocation (Osteomancy)
@@ -14,7 +14,7 @@ Publisher: MonkeyDM
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Steinhardt's Guide to the Eldritch Hunt<br>MonkeyDM</div>
+<div class="source">Steinhardt's Guide to the Eldritch Hunt<br>MonkeyDM</div>
 
 _Level 1 Evocation (Osteomancy) ([[Sorcerer]], [[Warlock]], [[Wizard]])_
 

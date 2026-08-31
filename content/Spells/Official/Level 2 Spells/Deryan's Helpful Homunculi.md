@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T20:45:41.576-04:00
-modified: 2026-08-17T20:49:22.106-04:00
-published: 2026-08-17T20:49:22.106-04:00
+modified: 2026-08-31T12:19:12.177-04:00
+published: 2026-08-31T12:19:12.177-04:00
 Name: "[[Deryan's Helpful Homunculi]]"
 Spell Level: Level 2
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right"><i>Forgotten Realms: Heroes of Faerûn</i></div>
+<div class="source">Forgotten Realms: Heroes of Faerûn</div>
 
 _Level 2 Conjuration ([[Cleric]], [[Wizard]])_
 

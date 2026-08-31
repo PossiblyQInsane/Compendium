@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-20T11:18:49.891-04:00
-modified: 2026-08-23T16:40:57.681-04:00
-published: 2026-08-23T16:40:57.681-04:00
+modified: 2026-08-31T11:51:52.959-04:00
+published: 2026-08-31T11:51:52.959-04:00
 Name: "[[Infestation]]"
 Spell Level: Cantrip
 School: Conjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5e
 ---
 
-<div align="right"><i>Xanathar's Guide to Everything</i></div>
+<div class="source">Xanathar's Guide to Everything</div>
 
 _Conjuration Cantrip ([[Druid]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

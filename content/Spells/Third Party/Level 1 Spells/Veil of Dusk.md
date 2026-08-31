@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-19T10:12:34.131-04:00
-modified: 2026-08-23T16:40:57.231-04:00
-published: 2026-08-23T16:40:57.231-04:00
+modified: 2026-08-31T12:16:28.007-04:00
+published: 2026-08-31T12:16:28.007-04:00
 Name: "[[Veil of Dusk]]"
 Spell Level: Level 1
 School: Abjuration
@@ -14,7 +14,7 @@ Publisher: Hit Point Press
 Edition: 5e
 ---
 
-<div align="right"><i>Humblewood Campaign Setting<br>Hit Point Press</i></div>
+<div class="source">Humblewood Campaign Setting<br>Hit Point Press</div>
 
 _Level 1 Abjuration ([[Druid]], [[Warlock]])_
 

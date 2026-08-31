@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T10:01:23.101-04:00
-modified: 2026-08-17T16:38:52.334-04:00
-published: 2026-08-17T16:38:52.334-04:00
+modified: 2026-08-31T12:23:11.952-04:00
+published: 2026-08-31T12:23:11.952-04:00
 Name: "[[Pass without Trace]]"
 Spell Level: Level 2
 School: Abjuration
@@ -13,7 +13,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 _Level 2 Abjuration ([[Druid]], [[Ranger]])_
 
