@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - black dragon
 created: 2026-08-29T10:32:59.954-04:00
-modified: 2026-08-29T13:23:24.275-04:00
-published: 2026-08-29T13:23:24.275-04:00
+modified: 2026-08-31T21:03:36.824-04:00
+published: 2026-08-31T21:03:36.824-04:00
 Habitat: Swamp
 Treasure: Relics
 Source: Monster Manual 5.5e
