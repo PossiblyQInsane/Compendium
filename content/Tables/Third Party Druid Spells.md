@@ -1,5 +1,6 @@
 | Spell Level | Name                                                                                | School                      | Special | Source                             | Publisher              |
 | ----------- | ----------------------------------------------------------------------------------- | --------------------------- | ------- | ---------------------------------- | ---------------------- |
+| Cantrip     | _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_                 | Illusion                    | —       | Valda's Spire of Secrets           | Mage Hand Press        |
 | Cantrip     | _[[Spells/Third Party/Cantrips/Concussion.md\|Concussion]]_                         | Evocation                   | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | Cantrip     | _[[Spells/Third Party/Cantrips/Swarm.md\|Swarm]]_                                   | Biomancy                    | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | Cantrip     | _[[Spells/Third Party/Cantrips/Water Whip.md\|Water Whip]]_                         | Transmutation               | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
