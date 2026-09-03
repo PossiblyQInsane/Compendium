@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T20:51:10.650-04:00
-modified: 2026-08-28T09:46:01.033-04:00
-published: 2026-08-28T09:46:01.033-04:00
+modified: 2026-09-03T01:01:13.688-04:00
+published: 2026-09-03T01:01:13.688-04:00
 Parent Class: "[[Bard]]"
 Source: Tasha's Cauldron of Everything
 Official: true
@@ -28,12 +28,9 @@ Whenever you give a creature a Bardic Inspiration die, you can utter a note from
 
 When the creature uses the Bardic Inspiration die, the mote provides an additional effect based on whether the die benefits an ability check, an attack roll, or a saving throw, as detailed below:
 
-> [!NOTE|no-i no-t bg-plain]
-> **Ability Check.** When the creature rolls the Bardic Inspiration die to add it to an ability check, the creature can roll the Bardic Inspiration die again and choose which roll to use, as the mote pops and emits colorful, harmless sparks for a moment.
->
-> **Attack Roll.** Immediately after the creature rolls the Bardic Inspiration die to add it to an attack roll against a target, the mote thunderously shatters. The target and each creature of your choice that you can see within 5 feet of it must succeed on a Constitution saving throw against your spell save DC or take thunder damage equal to the number rolled on the Bardic Inspiration die.
->
-> **Saving Throw.** Immediately after the creature rolls the Bardic Inspiration die and adds it to a saving throw, the mote vanishes with the sound of soft music, causing the creature to gain [[Temporary Hit Points|temporary hit points]] equal to the number rolled on the Bardic Inspiration die plus your Charisma modifier (minimum of 1 temporary hit point).
+- **Ability Check.** When the creature rolls the Bardic Inspiration die to add it to an ability check, the creature can roll the Bardic Inspiration die again and choose which roll to use, as the mote pops and emits colorful, harmless sparks for a moment.
+- **Attack Roll.** Immediately after the creature rolls the Bardic Inspiration die to add it to an attack roll against a target, the mote thunderously shatters. The target and each creature of your choice that you can see within 5 feet of it must succeed on a Constitution saving throw against your spell save DC or take thunder damage equal to the number rolled on the Bardic Inspiration die.
+- **Saving Throw.** Immediately after the creature rolls the Bardic Inspiration die and adds it to a saving throw, the mote vanishes with the sound of soft music, causing the creature to gain [[Temporary Hit Points|temporary hit points]] equal to the number rolled on the Bardic Inspiration die plus your Charisma modifier (minimum of 1 temporary hit point).
 
 ### Level 3: Performance of Creation
 

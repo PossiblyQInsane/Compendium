@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T10:07:32.423-04:00
-modified: 2026-09-02T11:04:15.455-04:00
-published: 2026-09-02T11:04:15.455-04:00
+modified: 2026-09-03T01:02:46.775-04:00
+published: 2026-09-03T01:02:46.775-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -43,7 +43,7 @@ Druids are concerned with the delicate ecological balance that sustains plant an
 
 #### As a Multiclass Druid
 
-- Gain the following traits from the Core Druid Traits table: Hit Point Die and training with [[Light armor]] and [[Shields]].
+- Gain the following traits from the Core Druid Traits table: Hit Point Die and training with Light armor and Shields.
 - Gain the Druid’s level 1 features, which are listed in the Druid Features table. See the [[Multiclassing|multiclassing]] rules to determine your available spell slots.
 
 ## Druid Class Features
@@ -455,7 +455,7 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 _**Magician.**_ You know one extra cantrip from the [[#Druid Spell List|Druid spell list]]. In addition, your mystical connection to nature gives you a bonus to your Intelligence ([[Arcana]] or [[Nature]]) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).
 
-_**Warden.**_ Trained for battle, you gain proficiency with [[Martial weapons]] and training with [[Medium armor]].
+_**Warden.**_ Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.
 
 ### Level 2: Wild Shape
 
@@ -481,14 +481,10 @@ When choosing known forms, you may look in the _Monster Manual_ or elsewhere for
 
 _**Rules While Shape-Shifted.**_ While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
-> [!NOTE|no-i no-t bg-plain]
-> **Temporary Hit Points.** When you assume a Wild Shape form, you gain a number of [[Temporary Hit Points]] equal to your Druid level.
->
-> **Game Statistics.** Your game statistics are replaced by the Beast’s stat block, but you retain your creature type; [[Hit Points]]; [[Hit Point Dice]]; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast’s stat block is higher than yours, use the one in the stat block.
->
-> **No Spellcasting.** You can’t cast spells, but shape-shifting doesn’t break your [[Concentration]] or otherwise interfere with a spell you’ve already cast.
->
-> **Objects.** Your ability to handle objects is determined by the form’s limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn quipment functions as normal, but the DM decides whether it’s practical for the new form to wear a piece of equipment based on the creature’s size and shape. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you’re in that form.
+- **Temporary Hit Points.** When you assume a Wild Shape form, you gain a number of [[Temporary Hit Points]] equal to your Druid level.
+- **Game Statistics.** Your game statistics are replaced by the Beast’s stat block, but you retain your creature type; [[Hit Points]]; [[Hit Point Dice]]; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast’s stat block is higher than yours, use the one in the stat block.
+- **No Spellcasting.** You can’t cast spells, but shape-shifting doesn’t break your [[Concentration]] or otherwise interfere with a spell you’ve already cast.
+- **Objects.** Your ability to handle objects is determined by the form’s limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn quipment functions as normal, but the DM decides whether it’s practical for the new form to wear a piece of equipment based on the creature’s size and shape. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you’re in that form.
 
 ### Level 2: Wild Companion
 
@@ -612,9 +608,11 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 2 Spells/Animal Messenger.md\|Animal Messenger]]_                 | Enchantment   | R       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Augury.md\|Augury]]_                                     | Divination    | R, M    | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Barkskin.md\|Barkskin]]_                                 | Transmutation | —       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Battle Familiar.md\|Battle Familiar]]_                   | Conjuration   | M       | Arcana Unleashed                  |
 | _[[Spells/Official/Level 2 Spells/Beast Sense.md\|Beast Sense]]_                           | Divination    | C, R    | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Continual Flame.md\|Continual Flame]]_                   | Evocation     | M       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Darkvision (Spell).md\|Darkvision]]_                     | Transmutation | —       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Dueling Ground.md\|Dueling Ground]]_                     | Abjuration    | R, M    | Arcana Unleashed                  |
 | _[[Spells/Official/Level 2 Spells/Dust Devil.md\|Dust Devil]]_                             | Conjuration   | C       | Elemental Evil Player's Companion |
 | _[[Spells/Official/Level 2 Spells/Earthbind.md\|Earthbind]]_                               | Transmutation | C       | Elemental Evil Player's Companion |
 | _[[Spells/Official/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_                   | Transmutation | C       | Player's Handbook 5.5e            |

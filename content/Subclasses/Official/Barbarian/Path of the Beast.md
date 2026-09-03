@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T13:13:53.682-04:00
-modified: 2026-08-28T09:43:18.089-04:00
-published: 2026-08-28T09:43:18.089-04:00
+modified: 2026-09-03T01:03:48.351-04:00
+published: 2026-09-03T01:03:48.351-04:00
 Parent Class: "[[Barbarian]]"
 Source: Tasha's Cauldron of Everything
 Official: true
@@ -35,12 +35,9 @@ When you enter your rage, you can transform, revealing the bestial power within 
 
 You choose the weapon’s form each time you rage:
 
-> [!NOTE|no-t no-i bg-plain]
-> **Bite.** Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals 1d8 piercing damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain a number of [[Hit Points|hit points]] equal to your proficiency bonus, provided you have less than half your hit points when you hit.
->
-> **Claws.** Each of your hands transforms into a claw, which you can use as a weapon if it’s empty. It deals 1d6 slashing damage on a hit. Once on each of your turns when you attack with a claw using the [[Attack]] action, you can make one additional claw attack as part of the same action.
->
-> **Tail.** You grow a lashing, spiny tail, which deals 1d8 piercing damage on a hit and has the [[Reach|reach]] property. If a creature you can see within 10 feet of you hits you with an attack roll, you can use your [[Reaction|reaction]] to swipe your tail and roll a d8, applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.
+- **Bite.** Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals 1d8 piercing damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain a number of [[Hit Points|hit points]] equal to your proficiency bonus, provided you have less than half your hit points when you hit.
+- **Claws.** Each of your hands transforms into a claw, which you can use as a weapon if it’s empty. It deals 1d6 slashing damage on a hit. Once on each of your turns when you attack with a claw using the [[Attack]] action, you can make one additional claw attack as part of the same action.
+- **Tail.** You grow a lashing, spiny tail, which deals 1d8 piercing damage on a hit and has the [[Reach|reach]] property. If a creature you can see within 10 feet of you hits you with an attack roll, you can use your [[Reaction|reaction]] to swipe your tail and roll a d8, applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.
 
 ### Level 6: Bestial Soul
 

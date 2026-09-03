@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T21:26:01.386-04:00
-modified: 2026-09-02T11:03:48.703-04:00
-published: 2026-09-02T11:03:48.703-04:00
+modified: 2026-09-03T00:20:27.748-04:00
+published: 2026-09-03T00:20:27.748-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -42,7 +42,7 @@ Not every member of a temple or shrine is a Cleric. Some priests are called to a
 
 #### As a Multiclass Cleric
 
-- Gain the following traits from the Core Cleric Traits table: Hit Point Die and training with [[Light armor|Light]] and [[Medium armor]] and [[Shields]].
+- Gain the following traits from the Core Cleric Traits table: Hit Point Die and training with Light and Medium armor and Shields.
 - Gain the Cleric’s level 1 features, which are listed in the Cleric Features table. See the [[Multiclassing|multiclassing]] rules to determine your available spell slots.
 
 ## Cleric Class Features
@@ -446,7 +446,7 @@ _**Spellcasting Focus.**_ You can use a [[Holy Symbol]] as a [[Spellcasting Focu
 
 You have dedicated yourself to one of the following sacred roles of your choice.
 
-_**Protector.**_ Trained for battle, you gain proficiency with [[Martial weapons]] and training with [[Heavy armor]].
+_**Protector.**_ Trained for battle, you gain proficiency with Martial weapons and training with Heavy armor.
 
 _**Thaumaturge.**_ You know one extra cantrip from the [[Cleric#Cleric Spell List|Cleric spell list]]. In addition, your mystical connection to the divine gives you a bonus to your Intelligence ([[Arcana]] or [[Religion]]) checks. The bonus equals your Wisdom modifier (minimum of +1).
 
@@ -555,6 +555,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | _[[Spells/Official/Level 2 Spells/Calm Emotions.md\|Calm Emotions]]_                           | Enchantment   | C       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 2 Spells/Continual Flame.md\|Continual Flame]]_                       | Evocation     | M       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 2 Spells/Deryan's Helpful Homunculi.md\|Deryan's Helpful Homunculi]]_ | Conjuration   | R, M    | Forgotten Realms: Heroes of Faerûn |
+| _[[Spells/Official/Level 2 Spells/Dueling Ground.md\|Dueling Ground]]_                         | Abjuration    | R, M    | Arcana Unleashed                   |
 | _[[Spells/Official/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_                       | Transmutation | C       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 2 Spells/Find Traps.md\|Find Traps]]_                                 | Divination    | —       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 2 Spells/Gentle Repose.md\|Gentle Repose]]_                           | Necromancy    | R, M    | Player's Handbook 5.5e             |
@@ -702,6 +703,7 @@ A Cleric subclass is a specialization that grants you features at certain Cleric
 
 | Name                                                                 | Source                             | Edition |
 | -------------------------------------------------------------------- | ---------------------------------- | ------- |
+| [[Subclasses/Official/Cleric/Arcana Domain.md\|Arcana Domain]]       | Arcana Unleashed                   | 5.5e    |
 | [[Subclasses/Official/Cleric/Death Domain.md\|Death Domain]]         | Dungeon Master's Guide 5e          | 5e      |
 | [[Subclasses/Official/Cleric/Forge Domain.md\|Forge Domain]]         | Xanathar's Guide to Everything     | 5e      |
 | [[Subclasses/Official/Cleric/Grave Domain.md\|Grave Domain]]         | Ravenloft: The Horrors Within      | 5.5e    |

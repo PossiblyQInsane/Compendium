@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T20:21:27.348-04:00
-modified: 2026-08-28T09:47:31.632-04:00
-published: 2026-08-28T09:47:31.632-04:00
+modified: 2026-09-03T00:18:00.037-04:00
+published: 2026-09-03T00:18:00.037-04:00
 Parent Class: "[[Bard]]"
 Source: Xanathar's Guide to Everything
 Official: true
@@ -21,7 +21,7 @@ Blades who abandon their lives as entertainers have often run into trouble that 
 
 ### Level 3: Bonus Proficiencies
 
-When you join the College of Swords at 3rd level, you gain proficiency with [[Medium Armor|medium armor]] and the [[Scimitar|scimitar]].
+When you join the College of Swords at 3rd level, you gain proficiency with medium armor and the [[Scimitar|scimitar]].
 
 If you’re proficient with a simple or martial melee weapon, you can use it as a [[Spellcasting Focus|spellcasting focus]] for your bard spells.
 

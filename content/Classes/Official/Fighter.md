@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-11T11:24:50.805-04:00
-modified: 2026-09-02T11:05:19.017-04:00
-published: 2026-09-02T11:05:19.017-04:00
+modified: 2026-09-03T00:15:57.924-04:00
+published: 2026-09-03T00:15:57.924-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -40,7 +40,7 @@ Fighters master various weapon techniques, and a well-equipped Fighter always ha
 
 #### As a Multiclass Fighter
 
-- Gain the following traits from the Core Fighter Traits table: Hit Point Die, proficiency with [[Martial weapons]], and training with [[Light armor|Light]] and [[Medium armor]] and [[Shields]].
+- Gain the following traits from the Core Fighter Traits table: Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.
 - Gain the Fighter’s level 1 features, which are listed in the Fighter Features table.
 
 ## Fighter Class Features
@@ -152,6 +152,7 @@ A Fighter subclass is a specialization that grants you features at certain Fight
 
 | Name                                                                | Source                             | Edition |
 | ------------------------------------------------------------------- | ---------------------------------- | ------- |
+| [[Subclasses/Official/Fighter/Arcane Archer.md\|Arcane Archer]]     | Arcana Unleashed                   | 5.5e    |
 | [[Subclasses/Official/Fighter/Banneret.md\|Banneret]]               | Forgotten Realms: Heroes of Faerûn | 5.5e    |
 | [[Subclasses/Official/Fighter/Battle Master.md\|Battle Master]]     | Player's Handbook 5.5e             | 5.5e    |
 | [[Subclasses/Official/Fighter/Cavalier.md\|Cavalier]]               | Xanathar's Guide to Everything     | 5e      |

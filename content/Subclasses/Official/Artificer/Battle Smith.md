@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T02:30:17.849-04:00
-modified: 2026-08-28T09:40:42.657-04:00
-published: 2026-08-28T09:40:42.657-04:00
+modified: 2026-09-03T00:19:34.776-04:00
+published: 2026-09-03T00:19:34.776-04:00
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"
 Official: true
@@ -45,7 +45,7 @@ Your combat training and your experiments with magic have paid off in two ways.
 
 _**Arcane Empowerment.**_ When you attack with a magic weapon, you can use your Intelligence modifier, instead of your Strength or Dexterity modifier, for the attack and damage rolls.
 
-_**Weapon Knowledge.**_ You gain proficiency with [[Martial weapons]]. You can use a weapon with which you have proficiency as a [[Spellcasting Focus]] for your Artificer spells.
+_**Weapon Knowledge.**_ You gain proficiency with Martial weapons. You can use a weapon with which you have proficiency as a [[Spellcasting Focus]] for your Artificer spells.
 
 ### Level 3: Steel Defender
 

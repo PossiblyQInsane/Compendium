@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T16:05:01.541-04:00
-modified: 2026-08-30T01:34:58.193-04:00
-published: 2026-08-30T01:34:58.193-04:00
+modified: 2026-09-03T00:14:10.640-04:00
+published: 2026-09-03T00:14:10.640-04:00
 Parent Class: "[[Bard]]"
 Source: Valda's Spire of Secrets
 Official: false
@@ -69,7 +69,7 @@ _**Dragon.**_ When you put on this mask, and as a [[Bonus Action]] on each of y
 
 _**Faceless.**_ Two perfectly round eyeholes stare out of this otherwise featureless porcelain mask. While you wear this mask, you always have the _[[Disguise Self]]_ spell prepared. Whenever you start casting the spell, you can modify it so that it doesn’t require a spell slot. If you do so, the spell’s casting time becomes 1 minute for that casting and its duration becomes 8 hours. The spell ends early if you remove this mask.
 
-_**Gladiator.**_ This grim metal helm, pockmarked and scratched, conceals the entire face. While you wear this mask, you have proficiency with [[Martial weapons]] and training with [[Shields]]. As a [[Bonus Action]], you can expend a use of your Bardic Inspiration to make one attack with a weapon or an [[Unarmed Strike]].
+_**Gladiator.**_ This grim metal helm, pockmarked and scratched, conceals the entire face. While you wear this mask, you have proficiency with Martial weapons and training with Shields. As a [[Bonus Action]], you can expend a use of your Bardic Inspiration to make one attack with a weapon or an [[Unarmed Strike]].
 
 _**Hierophant.**_ In lieu of a face, this bronze mask bears the image of a holy symbol, with the barest of slits to see through. When you reach a Bard level specified in the following table, you thereafter always have the listed spells prepared while you wear this mask.
 

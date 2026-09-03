@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T13:25:45.479-04:00
-modified: 2026-08-28T09:58:44.438-04:00
-published: 2026-08-28T09:58:44.438-04:00
+modified: 2026-09-03T00:13:49.031-04:00
+published: 2026-09-03T00:13:49.031-04:00
 Parent Class: "[[Bard]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false
@@ -53,7 +53,7 @@ _**Druid.**_ You can cast the _[[Polymorph]]_ spell without expending a spell sl
 
 Once you cast the spell using this talent, you can’t do so again until you finish a [[Long Rest]].
 
-_**Fighter.**_ You gain proficiency with [[Martial weapons]] and training with [[Shields]]. In addition, you gain a [[Feats.base#Fighting Style Feats|Fighting Style feat]] of your choice.
+_**Fighter.**_ You gain proficiency with Martial weapons and training with Shields. In addition, you gain a [[Feats.base#Fighting Style Feats|Fighting Style feat]] of your choice.
 
 _**Monk.**_ While you aren’t wearing armor or wielding a [[Shield]], your base [[Armor Class]] equals 10 plus your Dexterity and Charisma modifiers. You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your [[Unarmed Strike|Unarmed Strikes]], and you can roll 1d6 in place of the normal damage of your Unarmed Strike. In addition, after you cast a spell that has a casting time of an action or take the [[Attack]] action, you can make one attack with an Unarmed Strike as a [[Bonus Action]].
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-02T11:42:14.134-04:00
-modified: 2026-09-02T11:55:30.846-04:00
-published: 2026-09-02T11:55:30.846-04:00
+modified: 2026-09-03T00:21:43.248-04:00
+published: 2026-09-03T00:21:43.248-04:00
 Parent Class: "[[Gunslinger]]"
 Source: Valda's Spire of Secrets
 Official: false
@@ -42,7 +42,7 @@ The number of spells on your list increases as you gain Gunslinger levels, as sh
 
 <table>
 <thead>
-<tr><th rowspan="2" style="text-align:center">Gunslinger Level</th><th rowspan="2" style="text-align:center">Prepared Spells</th><th colspan="4" style="text-align:center">— Spell Slots per Spell Level -—</th></tr>
+<tr><th rowspan="2" style="text-align:center">Gunslinger Level</th><th rowspan="2" style="text-align:center">Prepared Spells</th><th colspan="4" style="text-align:center">— Spell Slots per Spell Level —</th></tr>
 <tr><th style="text-align:center">1</th><th style="text-align:center">2</th><th style="text-align:center">3</th><th style="text-align:center">4</th></tr>
 </thead>
 <tbody>

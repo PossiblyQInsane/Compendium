@@ -3,8 +3,8 @@ publish: true
 aliases:
   - black dragon
 created: 2026-08-29T10:32:59.954-04:00
-modified: 2026-08-31T21:03:36.824-04:00
-published: 2026-08-31T21:03:36.824-04:00
+modified: 2026-09-03T01:07:01.804-04:00
+published: 2026-09-03T01:07:01.804-04:00
 Habitat: Swamp
 Treasure: Relics
 Source: Monster Manual 5.5e
@@ -44,9 +44,8 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
 
 The region containing an adult or ancient black dragon’s lair is warped by its presence, creating the following effects:
 
-**Acrid Haze.** Odorous and stifling fog covers the area within 1 mile of the lair, rendering that area [[Lightly Obscured]]. Travel for creatures other than the dragon and its allies takes twice the usual time in that area.
-
-**Foul Water.** Water sources within 1 mile of the lair are supernaturally fouled. A creature that drinks such water must succeed on a DC 15 Constitution saving throw or have the [[Poisoned]] condition for 1 hour.
+- **Acrid Haze.** Odorous and stifling fog covers the area within 1 mile of the lair, rendering that area [[Lightly Obscured]]. Travel for creatures other than the dragon and its allies takes twice the usual time in that area.
+- **Foul Water.** Water sources within 1 mile of the lair are supernaturally fouled. A creature that drinks such water must succeed on a DC 15 Constitution saving throw or have the [[Poisoned]] condition for 1 hour.
 
 If the dragon dies or moves its lair elsewhere, these effects end immediately.
 

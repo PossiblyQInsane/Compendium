@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T22:38:24.544-04:00
-modified: 2026-08-31T19:45:21.088-04:00
-published: 2026-08-31T19:45:21.088-04:00
+modified: 2026-09-03T01:03:09.658-04:00
+published: 2026-09-03T01:03:09.658-04:00
 Name: "[[Elminster's Effulgent Spheres]]"
 Spell Level: Level 6
 School: Evocation
@@ -30,10 +30,8 @@ Six chromatic spheres orbit you for the duration.
 
 While the spheres are present, you can expend spheres to create the following effects:
 
-> [!NOTE|no-i no-t bg-plain]
-> **Absorb Energy.** When you take Acid, Cold, Fire, Lightning, or Thunder damage, you can take a [[Reaction]] to expend one sphere and give yourself [[Resistance]] to the triggering damage type until the start of your next turn.
->
-> **Energy Blast.** As a [[Bonus Action]], you send one sphere hurtling toward a target within 120 feet of yourself. Make a ranged spell attack. On a hit, the target takes 3d6 Acid, Cold, Fire, Lightning, or Thunder damage (your choice). Regardless of whether you hit, the sphere is expended.
+- **Absorb Energy.** When you take Acid, Cold, Fire, Lightning, or Thunder damage, you can take a [[Reaction]] to expend one sphere and give yourself [[Resistance]] to the triggering damage type until the start of your next turn.
+- **Energy Blast.** As a [[Bonus Action]], you send one sphere hurtling toward a target within 120 feet of yourself. Make a ranged spell attack. On a hit, the target takes 3d6 Acid, Cold, Fire, Lightning, or Thunder damage (your choice). Regardless of whether you hit, the sphere is expended.
 
 The spell ends early if you have no more spheres remaining.
 

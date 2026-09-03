@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T13:49:49.571-04:00
-modified: 2026-08-28T09:44:03.543-04:00
-published: 2026-08-28T09:44:03.543-04:00
+modified: 2026-09-03T01:04:08.760-04:00
+published: 2026-09-03T01:04:08.760-04:00
 Parent Class: "[[Barbarian]]"
 Source: "Bigby Presents: Glory of the Giants"
 Official: true
@@ -23,10 +23,8 @@ When you choose this path, you learn to speak, read, and write Giant or one othe
 
 Your rages pull strength from the primal might of giants, transforming you into a hulking force of destruction. While raging, you gain the following benefits:
 
-> [!NOTE|no-i no-t bg-plain]
-> **Crushing Throw.** When you make a successful ranged attack with a thrown weapon using Strength, you can add your Rage Damage bonus to the attack’s damage roll.
->
-> **Giant Stature.** Your reach increases by 5 feet, and if you are smaller than Large, you become Large, along with anything you are wearing. If there isn’t enough room for you to increase your size, your size doesn’t change.
+- **Crushing Throw.** When you make a successful ranged attack with a thrown weapon using Strength, you can add your Rage Damage bonus to the attack’s damage roll.
+- **Giant Stature.** Your reach increases by 5 feet, and if you are smaller than Large, you become Large, along with anything you are wearing. If there isn’t enough room for you to increase your size, your size doesn’t change.
 
 ### Level 6: Elemental Cleaver
 

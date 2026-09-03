@@ -1,9 +1,11 @@
 ---
 publish: true
+aliases:
+  - Ammunition
 title: Ammunition
 created: 2026-08-01T18:17:00.455-04:00
-modified: 2026-08-17T15:55:35.247-04:00
-published: 2026-08-17T15:55:35.247-04:00
+modified: 2026-09-03T00:47:25.464-04:00
+published: 2026-09-03T00:47:25.464-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T12:42:49.666-04:00
-modified: 2026-08-28T09:47:43.725-04:00
-published: 2026-08-28T09:47:43.725-04:00
+modified: 2026-09-03T00:14:43.206-04:00
+published: 2026-09-03T00:14:43.206-04:00
 Parent Class: "[[Bard]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -27,7 +27,7 @@ _**Offense.**_ Immediately after the creature hits a target with an attack roll,
 
 ### Level 3: Martial Training
 
-You gain proficiency with [[Martial weapons]] and training with [[Medium armor]] and [[Shields]].
+You gain proficiency with Martial weapons and training with Medium armor and Shields.
 
 In addition, you can use a Simple or Martial weapon as a [[Spellcasting Focus]] to cast spells from your Bard spell list.
 

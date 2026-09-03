@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T18:31:37.539-04:00
-modified: 2026-09-02T11:03:04.839-04:00
-published: 2026-09-02T11:03:04.839-04:00
+modified: 2026-09-03T00:21:04.127-04:00
+published: 2026-09-03T00:21:04.127-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -43,7 +43,7 @@ A Bard’s life is spent traveling, gathering lore, telling stories, and living 
 
 #### As a Multiclass Bard
 
-- Gain the following traits from the Core Bard Traits table: Hit Point Die, proficiency in one skill of your choice, proficiency with one [[Musical Instrument]] of your choice, and training with [[Light armor]].
+- Gain the following traits from the Core Bard Traits table: Hit Point Die, proficiency in one skill of your choice, proficiency with one [[Musical Instrument]] of your choice, and training with Light armor.
 - Gain the Bard’s level 1 features, which are listed in the Bard Features table. See the [[Multiclassing|multiclassing]] rules to determine your available spell slots.
 
 ## Bard Class Features
@@ -578,6 +578,8 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | _[[Spells/Official/Level 2 Spells/Cloud of Daggers.md\|Cloud of Daggers]]_                 | Conjuration   | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Crown of Madness.md\|Crown of Madness]]_                 | Enchantment   | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Detect Thoughts.md\|Detect Thoughts]]_                   | Divination    | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Disruptive Tune.md\|Disruptive Tune]]_                   | Abjuration    | C       | Arcana Unleashed                  |
+| _[[Spells/Official/Level 2 Spells/Dueling Ground.md\|Dueling Ground]]_                     | Abjuration    | R, M    | Arcana Unleashed                  |
 | _[[Spells/Official/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_                   | Transmutation | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Enlarge-Reduce.md\|Enlarge/Reduce]]_                     | Transmutation | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Enthrall.md\|Enthrall]]_                                 | Enchantment   | C       | Player's Handbook 5.5e            |
@@ -612,7 +614,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | _[[Spells/Official/Level 3 Spells/Astral Flood.md\|Astral Flood]]_               | Evocation     | —       | D\&D Beyond Drops                   |
 | _[[Spells/Official/Level 3 Spells/Bestow Curse.md\|Bestow Curse]]_               | Necromancy    | C       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 3 Spells/Cacophonic Shield.md\|Cacophonic Shield]]_     | Evocation     | C       | Forgotten Realms: Heroes of Faerûn |
-| _[[Spells/Official/Level 3 Spells/Catnap.md\|Catnap]]_                           | Enchantment   | —       | Xanathar's Guide to Everything     |
+| _[[Spells/Official/Level 3 Spells/Catnap.md\|Catnap]]_                           | Enchantment   | —       | Arcana Unleashed                   |
 | _[[Spells/Official/Level 3 Spells/Clairvoyance.md\|Clairvoyance]]_               | Divination    | C, M    | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 3 Spells/Dispel Magic.md\|Dispel Magic]]_               | Abjuration    | —       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 3 Spells/Enemies Abound.md\|Enemies Abound]]_           | Enchantment   | C       | Xanathar's Guide to Everything     |
@@ -644,6 +646,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | _[[Spells/Official/Level 4 Spells/Compulsion.md\|Compulsion]]_                               | Enchantment   | C       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 4 Spells/Confusion.md\|Confusion]]_                                 | Enchantment   | C       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 4 Spells/Dimension Door.md\|Dimension Door]]_                       | Conjuration   | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 4 Spells/Distorted Distance.md\|Distorted Distance]]_               | Illusion      | C       | Arcana Unleashed                   |
 | _[[Spells/Official/Level 4 Spells/Doomtide.md\|Doomtide]]_                                   | Conjuration   | C       | Forgotten Realms: Heroes of Faerûn |
 | _[[Spells/Official/Level 4 Spells/Fount of Moonlight.md\|Fount of Moonlight]]_               | Evocation     | C       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 4 Spells/Freedom of Movement.md\|Freedom of Movement]]_             | Abjuration    | —       | Player's Handbook 5.5e             |
@@ -720,6 +723,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | _[[Spells/Official/Level 8 Spells/Antipathy-Sympathy.md\|Antipathy/Sympathy]]_ | Enchantment | —       | Player's Handbook 5.5e |
 | _[[Spells/Official/Level 8 Spells/Befuddlement.md\|Befuddlement]]_             | Enchantment | —       | Player's Handbook 5.5e |
 | _[[Spells/Official/Level 8 Spells/Dominate Monster.md\|Dominate Monster]]_     | Enchantment | C       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 8 Spells/Entrancing Mirrors.md\|Entrancing Mirrors]]_ | Illusion    | C       | Arcana Unleashed       |
 | _[[Spells/Official/Level 8 Spells/Glibness.md\|Glibness]]_                     | Enchantment | —       | Player's Handbook 5.5e |
 | _[[Spells/Official/Level 8 Spells/Mind Blank.md\|Mind Blank]]_                 | Abjuration  | —       | Player's Handbook 5.5e |
 | _[[Spells/Official/Level 8 Spells/Power Word Stun.md\|Power Word Stun]]_       | Enchantment | —       | Player's Handbook 5.5e |

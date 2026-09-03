@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-09-02T11:01:54.309-04:00
-published: 2026-09-02T11:01:54.309-04:00
+modified: 2026-09-03T00:17:14.481-04:00
+published: 2026-09-03T00:17:14.481-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 Edition: 5.5e
@@ -41,7 +41,7 @@ Masters of invention, Artificers use ingenuity and magic to unlock extraordinary
 
 ### As a Multiclass Character
 
-- Gain the following traits from the [[#Core Artificer Traits]] table: Hit Point Die, proficiency with [[Tinker's Tools|Tinker's Tools]], proficiency in one skill of your choice from the Artificer’s skill list, and training with [[Light armor|Light]] and [[Medium armor]] and [[Shields]].
+- Gain the following traits from the [[#Core Artificer Traits]] table: Hit Point Die, proficiency with [[Tinker's Tools|Tinker's Tools]], proficiency in one skill of your choice from the Artificer’s skill list, and training with Light and Medium armor and Shields.
 - Gain the Artificer’s level 1 features, which are listed in the [[#Artificer Features]] table. See the [[Multiclassing|multiclassing]] rules to determine your available spell slots, adding half your Artificer levels (round up).
 
 ## Artificer Class Features
@@ -391,6 +391,7 @@ This section presents the Artificer spell list. The spells are organized by spel
 | _[[Spells/Official/Level 2 Spells/Continual Flame.md\|Continual Flame]]_               | Evocation     | M       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Darkvision (Spell).md\|Darkvision]]_                 | Transmutation | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Dragon's Breath.md\|Dragon's Breath]]_               | Transmutation | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Dueling Ground.md\|Dueling Ground]]_                 | Abjuration    | R, M    | Arcana Unleashed                  |
 | _[[Spells/Official/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_               | Transmutation | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Enlarge-Reduce.md\|Enlarge/Reduce]]_                 | Transmutation | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Heat Metal.md\|Heat Metal]]_                         | Transmutation | C       | Player's Handbook 5.5e            |
@@ -417,7 +418,7 @@ This section presents the Artificer spell list. The spells are organized by spel
 | -------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- |
 | _[[Spells/Official/Level 3 Spells/Ashardalon's Stride.md\|Ashardalon's Stride]]_       | Transmutation | C       | Fizban's Treasury of Dragons      |
 | _[[Spells/Official/Level 3 Spells/Blink.md\|Blink]]_                                   | Transmutation | —       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 3 Spells/Catnap.md\|Catnap]]_                                 | Enchantment   | —       | Xanathar's Guide to Everything    |
+| _[[Spells/Official/Level 3 Spells/Catnap.md\|Catnap]]_                                 | Enchantment   | —       | Arcana Unleashed                  |
 | _[[Spells/Official/Level 3 Spells/Create Food and Water.md\|Create Food and Water]]_   | Conjuration   | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 3 Spells/Dispel Magic.md\|Dispel Magic]]_                     | Abjuration    | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 3 Spells/Elemental Weapon.md\|Elemental Weapon]]_             | Transmutation | C       | Player's Handbook 5.5e            |
@@ -437,6 +438,7 @@ This section presents the Artificer spell list. The spells are organized by spel
 | Name                                                                                                   | School        | Special | Source                            |
 | ------------------------------------------------------------------------------------------------------ | ------------- | ------- | --------------------------------- |
 | _[[Spells/Official/Level 4 Spells/Arcane Eye.md\|Arcane Eye]]_                                         | Divination    | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 4 Spells/Distorted Distance.md\|Distorted Distance]]_                         | Illusion      | C       | Arcana Unleashed                  |
 | _[[Spells/Official/Level 4 Spells/Elemental Bane.md\|Elemental Bane]]_                                 | Transmutation | C       | Elemental Evil Player's Companion |
 | _[[Spells/Official/Level 4 Spells/Fabricate.md\|Fabricate]]_                                           | Transmutation | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 4 Spells/Freedom of Movement.md\|Freedom of Movement]]_                       | Abjuration    | —       | Player's Handbook 5.5e            |

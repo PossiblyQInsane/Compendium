@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T09:34:35.165-04:00
-modified: 2026-09-02T11:02:46.244-04:00
-published: 2026-09-02T11:02:46.244-04:00
+modified: 2026-09-03T00:19:18.282-04:00
+published: 2026-09-03T00:19:18.282-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -42,7 +42,7 @@ Barbarians often serve as protectors and leaders in their communities. They char
 
 #### As a Multiclass Character
 
-- Gain the following traits from the Core Barbarian Traits table: Hit Point Die, proficiency with [[Martial weapons]], and training with [[Shields]].
+- Gain the following traits from the Core Barbarian Traits table: Hit Point Die, proficiency with Martial weapons, and training with Shields
 - Gain the Barbarian’s level 1 features, which are listed in the Barbarian Features table.
 
 ## Barbarian Class Features

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T15:28:37.760-04:00
-modified: 2026-08-29T11:31:20.207-04:00
-published: 2026-08-29T11:31:20.207-04:00
+modified: 2026-09-03T01:07:23.519-04:00
+published: 2026-09-03T01:07:23.519-04:00
 Creature Type: Undead
 Size: Tiny
 Alignment: Neutral Evil
@@ -30,9 +30,8 @@ Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of
 
 The region containing a demilich’s lair is twisted by its presence, creating the following effects:
 
-**Enervating Domain.** Whenever a creature other than the demilich or one of its allies finishes a [[Long Rest]] within 1 mile of the lair, the creature must succeed on a DC 20 Constitution saving throw or have its Hit Point maximum reduced by 1d4. This reduction lasts until the creature finishes a Long Rest outside that area.
-
-**Travel Ward.** Creatures can’t use teleportation or planar travel to enter or exit the lair.
+- **Enervating Domain.** Whenever a creature other than the demilich or one of its allies finishes a [[Long Rest]] within 1 mile of the lair, the creature must succeed on a DC 20 Constitution saving throw or have its Hit Point maximum reduced by 1d4. This reduction lasts until the creature finishes a Long Rest outside that area.
+- **Travel Ward.** Creatures can’t use teleportation or planar travel to enter or exit the lair.
 
 If the demilich dies or moves its lair elsewhere, these effects end immediately.
 

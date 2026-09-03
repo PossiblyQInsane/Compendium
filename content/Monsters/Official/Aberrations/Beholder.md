@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T12:32:45.663-04:00
-modified: 2026-08-29T14:06:47.148-04:00
-published: 2026-08-29T14:06:47.148-04:00
+modified: 2026-09-03T01:06:41.070-04:00
+published: 2026-09-03T01:06:41.070-04:00
 Creature Type: Aberration
 Size: Large
 Alignment: Lawful Evil
@@ -38,9 +38,8 @@ Beholders lurk in cavern complexes they’ve carved using their eye rays deep in
 
 The region containing a beholder’s lair is twisted by its presence, creating the following effects:
 
-**Scopophobia.** Creatures within 1 mile of the lair feel as if they’re being watched. Any creature (excluding the beholder and its allies) that finishes a [[Short Rest]] while within 1 mile of the lair must succeed on a DC 13 Wisdom saving throw or gain no benefit from that rest.
-
-**Warping Terrain.** Minor warps in reality occur near the lair; any creature (excluding the beholder) within 1 mile of the lair that makes a [[D20 Test]] and rolls a 1 has the [[Prone]] condition.
+- **Scopophobia.** Creatures within 1 mile of the lair feel as if they’re being watched. Any creature (excluding the beholder and its allies) that finishes a [[Short Rest]] while within 1 mile of the lair must succeed on a DC 13 Wisdom saving throw or gain no benefit from that rest.
+- **Warping Terrain.** Minor warps in reality occur near the lair; any creature (excluding the beholder) within 1 mile of the lair that makes a [[D20 Test]] and rolls a 1 has the [[Prone]] condition.
 
 If the beholder dies or moves its lair elsewhere, these effects end immediately.
 

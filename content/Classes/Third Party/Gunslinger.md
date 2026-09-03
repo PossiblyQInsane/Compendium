@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-02T10:54:24.605-04:00
-modified: 2026-09-02T11:20:07.938-04:00
-published: 2026-09-02T11:20:07.938-04:00
+modified: 2026-09-03T01:25:18.372-04:00
+published: 2026-09-03T01:25:18.372-04:00
 Source: Valda's Spire of Secrets
 Official: false
 Publisher: Mage Hand Press
@@ -48,34 +48,34 @@ A Gunslinger’s explosive lifestyle lends well to wandering and adventuring. Gu
 - Gain the following traits from the Core Gunslinger Traits table: Hit Point Die, and proficiency with Martial Ranged weapons.
 - Gain the Gunslinger’s level 1 features, which are listed in the Gunslinger Features table.
 
-### Gunslinger Class Features
+## Gunslinger Class Features
 
 As a Gunslinger, you gain the following class features when you reach the specified Gunslinger levels. These features are listed in the Gunslinger Features table.
 
 ##### Gunslinger Features
 
-| Level | Proficiency Bonus | Class Features                             | Risk Dice | Weapon Mastery |
-| :---: | :---------------: | :----------------------------------------- | :-------: | :------------: |
-|   1   |        +2         | Fighting Style, Quick Draw, Weapon Mastery |     —     |       2        |
-|   2   |        +2         | Critical Shot, Risk                        |    4d8    |       2        |
-|   3   |        +2         | Gunslinger Subclass                        |    4d8    |       2        |
-|   4   |        +2         | Ability Score Improvement                  |    4d8    |       3        |
-|   5   |        +3         | Extra Attack, Gut Shot                     |    4d8    |       3        |
-|   6   |        +3         | Subclass feature                           |    5d8    |       3        |
-|   7   |        +3         | Evasion                                    |    5d8    |       3        |
-|   8   |        +3         | Ability Score Improvement                  |    5d8    |       3        |
-|   9   |        +4         | Critical Shot                              |    5d8    |       3        |
-|  10   |        +4         | Subclass feature                           |   5d10    |       4        |
-|  11   |        +4         | Overkill                                   |   5d10    |       4        |
-|  12   |        +4         | Ability Score Improvement                  |   5d10    |       4        |
-|  13   |        +5         | Cheat Death                                |   5d10    |       4        |
-|  14   |        +5         | Subclass feature                           |   6d10    |       4        |
-|  15   |        +5         | Dire Gambit                                |   6d10    |       4        |
-|  16   |        +5         | Ability Score Improvement                  |   6d10    |       4        |
-|  17   |        +6         | Critical Shot                              |   6d10    |       4        |
-|  18   |        +6         | Deft Maneuver                              |   6d12    |       4        |
-|  19   |        +6         | Epic Boon                                  |   6d12    |       4        |
-|  20   |        +6         | Headshot                                   |   6d12    |       4        |
+| Level | Proficiency Bonus | Class Features                                                                                                                | Risk Dice | Weapon Mastery |
+| :---: | :---------------: | :---------------------------------------------------------------------------------------------------------------------------- | :-------: | :------------: |
+|   1   |        +2         | [[#Level 1 Fighting Style\|Fighting Style]], [[#Level 1 Quick Draw\|Quick Draw]], [[#Level 1 Weapon Mastery\|Weapon Mastery]] |     —     |       2        |
+|   2   |        +2         | [[#Level 2 Critical Shot\|Critical Shot]], [[#Level 2 Risk\|Risk]]                                                            |    4d8    |       2        |
+|   3   |        +2         | [[#Level 3 Gunslinger Subclass\|Gunslinger Subclass]]                                                                         |    4d8    |       2        |
+|   4   |        +2         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                             |    4d8    |       3        |
+|   5   |        +3         | [[#Level 5 Extra Attack\|Extra Attack]], [[#Level 5 Gut Shot\|Gut Shot]]                                                      |    4d8    |       3        |
+|   6   |        +3         | Subclass feature                                                                                                              |    5d8    |       3        |
+|   7   |        +3         | [[#Level 7 Evasion\|Evasion]]                                                                                                 |    5d8    |       3        |
+|   8   |        +3         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                             |    5d8    |       3        |
+|   9   |        +4         | [[#Level 2 Critical Shot\|Critical Shot]]                                                                                     |    5d8    |       3        |
+|  10   |        +4         | Subclass feature                                                                                                              |   5d10    |       4        |
+|  11   |        +4         | [[#Level 11 Overkill\|Overkill]]                                                                                              |   5d10    |       4        |
+|  12   |        +4         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                             |   5d10    |       4        |
+|  13   |        +5         | [[#Level 13 Cheat Death\|Cheat Death]]                                                                                        |   5d10    |       4        |
+|  14   |        +5         | Subclass feature                                                                                                              |   6d10    |       4        |
+|  15   |        +5         | [[#Level 15 Dire Gambit\|Dire Gambit]]                                                                                        |   6d10    |       4        |
+|  16   |        +5         | [[#Level 4 Ability Score Improvement\|Ability Score Improvement]]                                                             |   6d10    |       4        |
+|  17   |        +6         | [[#Level 2 Critical Shot\|Critical Shot]]                                                                                     |   6d10    |       4        |
+|  18   |        +6         | [[#Level 18 Deft Maneuver\|Deft Maneuver]]                                                                                    |   6d12    |       4        |
+|  19   |        +6         | [[#Level 19 Epic Boon\|Epic Boon]]                                                                                            |   6d12    |       4        |
+|  20   |        +6         | [[#Level 20 Headshot\|Headshot]]                                                                                              |   6d12    |       4        |
 
 ### Level 1: Fighting Style
 
@@ -139,7 +139,7 @@ You don’t benefit from this feature if you have the [[Incapacitated]] conditio
 
 When you deal damage with a Ranged weapon that doesn’t add your ability modifier to the roll, you add your ability modifier nonetheless. If you already add your modifier to the damage roll, the target takes an extra 1d8 damage of the weapon’s type.
 
-Note that weapons that have the [[Firearm (property)|Firearm]] property don’t add your ability modifier to damage rolls.
+Note that weapons that have the [[Firearm (Property)|Firearm]] property don’t add your ability modifier to damage rolls.
 
 ### Level 13: Cheat Death
 

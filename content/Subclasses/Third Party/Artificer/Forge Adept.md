@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T12:55:23.389-04:00
-modified: 2026-08-28T09:55:14.510-04:00
-published: 2026-08-28T09:55:14.510-04:00
+modified: 2026-09-03T00:20:43.965-04:00
+published: 2026-09-03T00:20:43.965-04:00
 Parent Class: "[[Artificer]]"
 Source: Exploring Eberron
 Official: false
@@ -43,7 +43,7 @@ Your combat training and your experiments with magic have paid off in two ways:
 
 _**Arcane Empowerment.**_ When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity, for the attack and damage rolls.
 
-_**Weapon Knowledge.**_ You gain proficiency with [[Martial weapons]]. You can use a weapon with which you have proficiency as a [[Spellcasting Focus]] for your Artificer spells.
+_**Weapon Knowledge.**_ You gain proficiency with Martial weapons. You can use a weapon with which you have proficiency as a [[Spellcasting Focus]] for your Artificer spells.
 
 ### Level 3: Ghaal'Shaarat
 
