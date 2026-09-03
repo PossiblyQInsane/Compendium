@@ -603,6 +603,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | _[[Spells/Official/Level 2 Spells/Skywrite.md\|Skywrite]]_                                 | Transmutation | C, R    | Elemental Evil Player's Companion |
 | _[[Spells/Official/Level 2 Spells/Spray of Cards.md\|Spray of Cards]]_                     | Conjuration   | —       | The Book of Many Things           |
 | _[[Spells/Official/Level 2 Spells/Suggestion.md\|Suggestion]]_                             | Enchantment   | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Uncertain Footing.md\|Uncertain Footing]]_               | Illusion      | C       | Arcana Unleashed                  |
 | _[[Spells/Official/Level 2 Spells/Warding Wind.md\|Warding Wind]]_                         | Evocation     | C       | Elemental Evil Player's Companion |
 | _[[Spells/Official/Level 2 Spells/Zone of Truth.md\|Zone of Truth]]_                       | Enchantment   | —       | Player's Handbook 5.5e            |
 
@@ -623,6 +624,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | _[[Spells/Official/Level 3 Spells/Feign Death.md\|Feign Death]]_                 | Necromancy    | R       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 3 Spells/Glyph of Warding.md\|Glyph of Warding]]_       | Abjuration    | M       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 3 Spells/Hypnotic Pattern.md\|Hypnotic Pattern]]_       | Illusion      | C       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 3 Spells/Inflict Doubt.md\|Inflict Doubt]]_             | Enchantment   | C       | Arcana Unleashed                   |
 | _[[Spells/Official/Level 3 Spells/Intellect Fortress.md\|Intellect Fortress]]_   | Abjuration    | C       | Tasha's Cauldron of Everything     |
 | _[[Spells/Official/Level 3 Spells/Leomund's Tiny Hut.md\|Leomund's Tiny Hut]]_   | Evocation     | R       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 3 Spells/Major Image.md\|Major Image]]_                 | Illusion      | C       | Player's Handbook 5.5e             |
@@ -656,6 +658,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | _[[Spells/Official/Level 4 Spells/Phantasmal Killer.md\|Phantasmal Killer]]_                 | Illusion      | C       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 4 Spells/Polymorph.md\|Polymorph]]_                                 | Transmutation | C       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 4 Spells/Raulothim's Psychic Lance.md\|Raulothim's Psychic Lance]]_ | Enchantment   | —       | Fizban's Treasury of Dragons       |
+| _[[Spells/Official/Level 4 Spells/Zone of Amicability.md\|Zone of Amicability]]_             | Enchantment   | —       | Arcana Unleashed                   |
 
 ### Level 5 Bard Spells
 
@@ -705,16 +708,20 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | _[[Spells/Official/Level 7 Spells/Dream of the Blue Veil.md\|Dream of the Blue Veil]]_                         | Conjuration   | —       | Tasha's Cauldron of Everything |
 | _[[Spells/Official/Level 7 Spells/Etherealness.md\|Etherealness]]_                                             | Conjuration   | —       | Player's Handbook 5.5e         |
 | _[[Spells/Official/Level 7 Spells/Forcecage.md\|Forcecage]]_                                                   | Evocation     | C, M    | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 7 Spells/Fractured Awareness.md\|Fractured Awareness]]_                               | Divination    | C       | Arcana Unleashed               |
 | _[[Spells/Official/Level 7 Spells/Mirage Arcane.md\|Mirage Arcane]]_                                           | Illusion      | —       | Player's Handbook 5.5e         |
 | _[[Spells/Official/Level 7 Spells/Mordenkainen's Magnificent Mansion.md\|Mordenkainen's Magnificent Mansion]]_ | Conjuration   | M       | Player's Handbook 5.5e         |
 | _[[Spells/Official/Level 7 Spells/Mordenkainen's Sword.md\|Mordenkainen's Sword]]_                             | Evocation     | C, M    | Player's Handbook 5.5e         |
 | _[[Spells/Official/Level 7 Spells/Power Word Fortify.md\|Power Word Fortify]]_                                 | Enchantment   | —       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 7 Spells/Power Word Pain.md\|Power Word Pain]]_                                       | Enchantment   | —       | Arcana Unleashed               |
 | _[[Spells/Official/Level 7 Spells/Prismatic Spray.md\|Prismatic Spray]]_                                       | Evocation     | —       | Player's Handbook 5.5e         |
 | _[[Spells/Official/Level 7 Spells/Project Image.md\|Project Image]]_                                           | Illusion      | C, M    | Player's Handbook 5.5e         |
 | _[[Spells/Official/Level 7 Spells/Regenerate.md\|Regenerate]]_                                                 | Transmutation | —       | Player's Handbook 5.5e         |
 | _[[Spells/Official/Level 7 Spells/Resurrection.md\|Resurrection]]_                                             | Necromancy    | M       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 7 Spells/Reweave Fate.md\|Reweave Fate]]_                                             | Divination    | —       | Arcana Unleashed               |
 | _[[Spells/Official/Level 7 Spells/Symbol.md\|Symbol]]_                                                         | Abjuration    | M       | Player's Handbook 5.5e         |
 | _[[Spells/Official/Level 7 Spells/Teleport.md\|Teleport]]_                                                     | Conjuration   | —       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 7 Spells/Transfix.md\|Transfix]]_                                                     | Enchantment   | C       | Arcana Unleashed               |
 
 ### Level 8 Bard Spells
 
@@ -730,15 +737,16 @@ This section presents the Bard spell list. The spells are organized by spell lev
 
 ### Level 9 Bard Spells
 
-| Name                                                                     | School        | Special | Source                         |
-| ------------------------------------------------------------------------ | ------------- | ------- | ------------------------------ |
-| _[[Spells/Official/Level 9 Spells/Foresight.md\|Foresight]]_             | Divination    | —       | Player's Handbook 5.5e         |
-| _[[Spells/Official/Level 9 Spells/Mass Polymorph.md\|Mass Polymorph]]_   | Transmutation | C       | Xanathar's Guide to Everything |
-| _[[Spells/Official/Level 9 Spells/Power Word Heal.md\|Power Word Heal]]_ | Enchantment   | —       | Player's Handbook 5.5e         |
-| _[[Spells/Official/Level 9 Spells/Power Word Kill.md\|Power Word Kill]]_ | Enchantment   | —       | Player's Handbook 5.5e         |
-| _[[Spells/Official/Level 9 Spells/Prismatic Wall.md\|Prismatic Wall]]_   | Abjuration    | —       | Player's Handbook 5.5e         |
-| _[[Spells/Official/Level 9 Spells/Psychic Scream.md\|Psychic Scream]]_   | Enchantment   | —       | Xanathar's Guide to Everything |
-| _[[Spells/Official/Level 9 Spells/True Polymorph.md\|True Polymorph]]_   | Transmutation | C       | Player's Handbook 5.5e         |
+| Name                                                                                     | School        | Special | Source                         |
+| ---------------------------------------------------------------------------------------- | ------------- | ------- | ------------------------------ |
+| _[[Spells/Official/Level 9 Spells/Foresight.md\|Foresight]]_                             | Divination    | —       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 9 Spells/Mass Polymorph.md\|Mass Polymorph]]_                   | Transmutation | C       | Xanathar's Guide to Everything |
+| _[[Spells/Official/Level 9 Spells/Power Word Heal.md\|Power Word Heal]]_                 | Enchantment   | —       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 9 Spells/Power Word Kill.md\|Power Word Kill]]_                 | Enchantment   | —       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 9 Spells/Prismatic Wall.md\|Prismatic Wall]]_                   | Abjuration    | —       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 9 Spells/Psychic Scream.md\|Psychic Scream]]_                   | Enchantment   | —       | Xanathar's Guide to Everything |
+| _[[Spells/Official/Level 9 Spells/True Polymorph.md\|True Polymorph]]_                   | Transmutation | C       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 9 Spells/Vision of Elapsing Eons.md\|Vision of Elapsing Eons]]_ | Illusion      | —       | Arcana Unleashed               |
 
 ## Bard Subclasses
 

@@ -409,6 +409,7 @@ This section presents the Artificer spell list. The spells are organized by spel
 | _[[Spells/Official/Level 2 Spells/Skywrite.md\|Skywrite]]_                             | Transmutation | C, R    | Elemental Evil Player's Companion |
 | _[[Spells/Official/Level 2 Spells/Spider Climb.md\|Spider Climb]]_                     | Transmutation | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Tortoise Shell.md\|Tortoise Shell]]_                 | Abjuration    | C       | D\&D Beyond Drops                  |
+| _[[Spells/Official/Level 2 Spells/Uncertain Footing.md\|Uncertain Footing]]_           | Illusion      | C       | Arcana Unleashed                  |
 | _[[Spells/Official/Level 2 Spells/Vortex Warp.md\|Vortex Warp]]_                       | Conjuration   | —       | Strixhaven: A Curriculum of Chaos |
 | _[[Spells/Official/Level 2 Spells/Web.md\|Web]]_                                       | Conjuration   | C       | Player's Handbook 5.5e            |
 
@@ -461,6 +462,7 @@ This section presents the Artificer spell list. The spells are organized by spel
 | _[[Spells/Official/Level 5 Spells/Creation.md\|Creation]]_                                 | Illusion      | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 5 Spells/Greater Restoration.md\|Greater Restoration]]_           | Abjuration    | M       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 5 Spells/Skill Empowerment.md\|Skill Empowerment]]_               | Transmutation | C       | Xanathar's Guide to Everything    |
+| _[[Spells/Official/Level 5 Spells/Spirit Lantern.md\|Spirit Lantern]]_                     | Necromancy    | —       | Arcana Unleashed                  |
 | _[[Spells/Official/Level 5 Spells/Transmute Rock.md\|Transmute Rock]]_                     | Transmutation | —       | Elemental Evil Player's Companion |
 | _[[Spells/Official/Level 5 Spells/Wall of Stone.md\|Wall of Stone]]_                       | Evocation     | C       | Player's Handbook 5.5e            |
 

@@ -631,6 +631,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | _[[Spells/Official/Level 5 Spells/Dispel Evil and Good.md\|Dispel Evil and Good]]_ | Abjuration  | C       | Player's Handbook 5.5e         |
 | _[[Spells/Official/Level 5 Spells/Flame Strike.md\|Flame Strike]]_                 | Evocation   | —       | Player's Handbook 5.5e         |
 | _[[Spells/Official/Level 5 Spells/Geas.md\|Geas]]_                                 | Enchantment | —       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 5 Spells/Grave Ground.md\|Grave Ground]]_                 | Necromancy  | C       | Arcana Unleashed               |
 | _[[Spells/Official/Level 5 Spells/Greater Restoration.md\|Greater Restoration]]_   | Abjuration  | M       | Player's Handbook 5.5e         |
 | _[[Spells/Official/Level 5 Spells/Hallow.md\|Hallow]]_                             | Abjuration  | M       | Player's Handbook 5.5e         |
 | _[[Spells/Official/Level 5 Spells/Holy Weapon.md\|Holy Weapon]]_                   | Evocation   | C       | Xanathar's Guide to Everything |
@@ -640,6 +641,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | _[[Spells/Official/Level 5 Spells/Planar Binding.md\|Planar Binding]]_             | Abjuration  | M       | Player's Handbook 5.5e         |
 | _[[Spells/Official/Level 5 Spells/Raise Dead.md\|Raise Dead]]_                     | Necromancy  | M       | Player's Handbook 5.5e         |
 | _[[Spells/Official/Level 5 Spells/Scrying.md\|Scrying]]_                           | Divination  | C, M    | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 5 Spells/Spirit Lantern.md\|Spirit Lantern]]_             | Necromancy  | —       | Arcana Unleashed               |
 | _[[Spells/Official/Level 5 Spells/Summon Celestial.md\|Summon Celestial]]_         | Conjuration | C, M    | Player's Handbook 5.5e         |
 
 ### Level 6 Cleric Spells
@@ -671,6 +673,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | _[[Spells/Official/Level 7 Spells/Power Word Fortify.md\|Power Word Fortify]]_ | Enchantment   | —       | Player's Handbook 5.5e         |
 | _[[Spells/Official/Level 7 Spells/Regenerate.md\|Regenerate]]_                 | Transmutation | —       | Player's Handbook 5.5e         |
 | _[[Spells/Official/Level 7 Spells/Resurrection.md\|Resurrection]]_             | Necromancy    | M       | Player's Handbook 5.5e         |
+| _[[Spells/Official/Level 7 Spells/Reweave Fate.md\|Reweave Fate]]_             | Divination    | —       | Arcana Unleashed               |
 | _[[Spells/Official/Level 7 Spells/Symbol.md\|Symbol]]_                         | Abjuration    | M       | Player's Handbook 5.5e         |
 | _[[Spells/Official/Level 7 Spells/Temple of the Gods.md\|Temple of the Gods]]_ | Conjuration   | M       | Xanathar's Guide to Everything |
 

@@ -635,7 +635,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 2 Spells/Summon Beast.md\|Summon Beast]]_                         | Conjuration   | C, M    | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Tortoise Shell.md\|Tortoise Shell]]_                     | Abjuration    | C       | D\&D Beyond Drops                  |
 | _[[Spells/Official/Level 2 Spells/Warding Wind.md\|Warding Wind]]_                         | Evocation     | C       | Elemental Evil Player's Companion |
-| _[[Spells/Official/Level 2 Spells/Wither and Bloom.md\|Wither and Bloom]]_                 | Necromancy    | —       | Strixhaven: A Curriculum of Chaos |
+| _[[Spells/Official/Level 2 Spells/Wither and Bloom.md\|Wither and Bloom]]_                 | Necromancy    | —       | Arcana Unleashed                  |
 
 ### Level 3 Druid Spells
 
@@ -677,6 +677,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 4 Spells/Divination.md\|Divination]]_                             | Divination    | R, M    | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 4 Spells/Dominate Beast.md\|Dominate Beast]]_                     | Enchantment   | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 4 Spells/Elemental Bane.md\|Elemental Bane]]_                     | Transmutation | C       | Elemental Evil Player's Companion |
+| _[[Spells/Official/Level 4 Spells/Festering Blast.md\|Festering Blast]]_                   | Necromancy    | —       | Arcana Unleashed                  |
 | _[[Spells/Official/Level 4 Spells/Fire Shield.md\|Fire Shield]]_                           | Evocation     | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 4 Spells/Fount of Moonlight.md\|Fount of Moonlight]]_             | Evocation     | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 4 Spells/Freedom of Movement.md\|Freedom of Movement]]_           | Abjuration    | —       | Player's Handbook 5.5e            |
@@ -715,6 +716,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 5 Spells/Reincarnate.md\|Reincarnate]]_                                   | Necromancy    | M       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 5 Spells/Scrying.md\|Scrying]]_                                           | Divination    | C, M    | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 5 Spells/Songal's Elemental Suffusion.md\|Songal's Elemental Suffusion]]_ | Transmutation | C, M    | Forgotten Realms: Heroes of Faerûn |
+| _[[Spells/Official/Level 5 Spells/Summon Plant.md\|Summon Plant]]_                                 | Conjuration   | C, M    | Arcana Unleashed                   |
 | _[[Spells/Official/Level 5 Spells/Transmute Rock.md\|Transmute Rock]]_                             | Transmutation | —       | Elemental Evil Player's Companion  |
 | _[[Spells/Official/Level 5 Spells/Tree Stride.md\|Tree Stride]]_                                   | Conjuration   | C       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 5 Spells/Wall of Stone.md\|Wall of Stone]]_                               | Evocation     | C       | Player's Handbook 5.5e             |
@@ -738,6 +740,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 6 Spells/Investiture of Wind.md\|Investiture of Wind]]_                     | Transmutation | C       | Elemental Evil Player's Companion  |
 | _[[Spells/Official/Level 6 Spells/Move Earth.md\|Move Earth]]_                                       | Transmutation | C       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 6 Spells/Primordial Ward.md\|Primordial Ward]]_                             | Abjuration    | C       | Elemental Evil Player's Companion  |
+| _[[Spells/Official/Level 6 Spells/Summon Dinosaur.md\|Summon Dinosaur]]_                             | Conjuration   | C, M    | Arcana Unleashed                   |
 | _[[Spells/Official/Level 6 Spells/Sunbeam.md\|Sunbeam]]_                                             | Evocation     | C       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 6 Spells/Transport via Plants.md\|Transport via Plants]]_                   | Conjuration   | —       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 6 Spells/Wall of Thorns.md\|Wall of Thorns]]_                               | Conjuration   | C       | Player's Handbook 5.5e             |
@@ -766,6 +769,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 8 Spells/Control Weather.md\|Control Weather]]_       | Transmutation | C       | Player's Handbook 5.5e |
 | _[[Spells/Official/Level 8 Spells/Earthquake.md\|Earthquake]]_                 | Transmutation | C       | Player's Handbook 5.5e |
 | _[[Spells/Official/Level 8 Spells/Incendiary Cloud.md\|Incendiary Cloud]]_     | Conjuration   | C       | Player's Handbook 5.5e |
+| _[[Spells/Official/Level 8 Spells/Lightning Ring.md\|Lightning Ring]]_         | Evocation     | C       | Arcana Unleashed       |
 | _[[Spells/Official/Level 8 Spells/Sunburst.md\|Sunburst]]_                     | Evocation     | —       | Player's Handbook 5.5e |
 | _[[Spells/Official/Level 8 Spells/Tsunami.md\|Tsunami]]_                       | Conjuration   | C       | Player's Handbook 5.5e |
 
