@@ -374,6 +374,7 @@ This section presents the Artificer spell list. The spells are organized by spel
 | _[[Spells/Official/Level 1 Spells/Jump.md\|Jump]]_                                   | Transmutation | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 1 Spells/Longstrider.md\|Longstrider]]_                     | Transmutation | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 1 Spells/Purify Food and Drink.md\|Purify Food and Drink]]_ | Transmutation | R       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 1 Spells/Quick Clothier.md\|Quick Clothier]]_               | Transmutation | —       | D\&D Beyond Drops                  |
 | _[[Spells/Official/Level 1 Spells/Sanctuary.md\|Sanctuary]]_                         | Abjuration    | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 1 Spells/Snare.md\|Snare]]_                                 | Abjuration    | M       | Xanathar's Guide to Everything    |
 | _[[Spells/Official/Level 1 Spells/Tasha's Caustic Brew.md\|Tasha's Caustic Brew]]_   | Evocation     | C       | Tasha's Cauldron of Everything    |
@@ -388,6 +389,7 @@ This section presents the Artificer spell list. The spells are organized by spel
 | _[[Spells/Official/Level 2 Spells/Arcane Lock.md\|Arcane Lock]]_                       | Abjuration    | M       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Arcane Vigor.md\|Arcane Vigor]]_                     | Abjuration    | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Blur.md\|Blur]]_                                     | Illusion      | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Conjure Tools.md\|Conjure Tools]]_                   | Conjuration   | —       | D\&D Beyond Drops                  |
 | _[[Spells/Official/Level 2 Spells/Continual Flame.md\|Continual Flame]]_               | Evocation     | M       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Darkvision (Spell).md\|Darkvision]]_                 | Transmutation | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Dragon's Breath.md\|Dragon's Breath]]_               | Transmutation | C       | Player's Handbook 5.5e            |

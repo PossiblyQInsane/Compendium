@@ -817,5 +817,6 @@ A Druid subclass is a specialization that grants you features at certain Druid l
 | [[Subclasses/Third Party/Druid/Circle of the Hive.md\|Circle of the Hive]]         | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |
 | [[Subclasses/Third Party/Druid/Circle of the Old Ways.md\|Circle of the Old Ways]] | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
 | [[Subclasses/Third Party/Druid/Circle of the Symbiote.md\|Circle of the Symbiote]] | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
+| [[Subclasses/Third Party/Druid/Circle of the Warden.md\|Circle of the Warden]]     | Humblewood Tales                        | Hit Point Press         | 5e      |
 | [[Subclasses/Third Party/Druid/Circle of Wicker.md\|Circle of Wicker]]             | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
 | [[Subclasses/Third Party/Druid/The Unbroken Circle.md\|The Unbroken Circle]]       | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |

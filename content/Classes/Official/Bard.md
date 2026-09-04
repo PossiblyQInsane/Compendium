@@ -557,6 +557,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | _[[Spells/Official/Level 1 Spells/Illusory Script.md\|Illusory Script]]_                   | Illusion      | R, M    | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 1 Spells/Insidious Rhythm.md\|Insidious Rhythm]]_                 | Enchantment   | C       | D\&D Beyond Drops                   |
 | _[[Spells/Official/Level 1 Spells/Longstrider.md\|Longstrider]]_                           | Transmutation | —       | Player's Handbook 5.5e             |
+| _[[Spells/Official/Level 1 Spells/Quick Clothier.md\|Quick Clothier]]_                     | Transmutation | —       | D\&D Beyond Drops                   |
 | _[[Spells/Official/Level 1 Spells/Silent Image.md\|Silent Image]]_                         | Illusion      | C       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 1 Spells/Silvery Barbs.md\|Silvery Barbs]]_                       | Enchantment   | —       | Strixhaven: A Curriculum of Chaos  |
 | _[[Spells/Official/Level 1 Spells/Sleep.md\|Sleep]]_                                       | Enchantment   | C       | Player's Handbook 5.5e             |
@@ -576,6 +577,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | _[[Spells/Official/Level 2 Spells/Borrowed Knowledge.md\|Borrowed Knowledge]]_             | Divination    | M       | Strixhaven: A Curriculum of Chaos |
 | _[[Spells/Official/Level 2 Spells/Calm Emotions.md\|Calm Emotions]]_                       | Enchantment   | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Cloud of Daggers.md\|Cloud of Daggers]]_                 | Conjuration   | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Conjure Tools.md\|Conjure Tools]]_                       | Conjuration   | —       | D\&D Beyond Drops                  |
 | _[[Spells/Official/Level 2 Spells/Crown of Madness.md\|Crown of Madness]]_                 | Enchantment   | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Detect Thoughts.md\|Detect Thoughts]]_                   | Divination    | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Disruptive Tune.md\|Disruptive Tune]]_                   | Abjuration    | C       | Arcana Unleashed                  |
@@ -596,6 +598,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | _[[Spells/Official/Level 2 Spells/Mirror Image.md\|Mirror Image]]_                         | Illusion      | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Nathair's Mischief.md\|Nathair's Mischief]]_             | Illusion      | C       | Fizban's Treasury of Dragons      |
 | _[[Spells/Official/Level 2 Spells/Phantasmal Force.md\|Phantasmal Force]]_                 | Illusion      | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Pinky Swear.md\|Pinky Swear]]_                           | Abjuration    | —       | D\&D Beyond Drops                  |
 | _[[Spells/Official/Level 2 Spells/Pyrotechnics.md\|Pyrotechnics]]_                         | Transmutation | —       | Elemental Evil Player's Companion |
 | _[[Spells/Official/Level 2 Spells/See Invisibility.md\|See Invisibility]]_                 | Divination    | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Shatter.md\|Shatter]]_                                   | Evocation     | —       | Player's Handbook 5.5e            |
