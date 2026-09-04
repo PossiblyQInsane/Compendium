@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T02:30:17.849-04:00
-modified: 2026-09-03T00:19:34.776-04:00
-published: 2026-09-03T00:19:34.776-04:00
+modified: 2026-09-04T01:14:41.556-04:00
+published: 2026-09-04T01:14:41.556-04:00
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"
 Official: true
@@ -69,9 +69,8 @@ You can attack twice instead of once whenever you take the [[Attack]] action on 
 
 When either you hit a target with an attack roll using a magic weapon or your Steel Defender hits a target, you can channel magical energy through the strike to create one of the following effects:
 
-**Destructive Energy.**  The target takes an extra 2d6 Force damage.
-
-**Restorative Energy.**  Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 [[Hit Points]] to it.
+- **Destructive Energy.**  The target takes an extra 2d6 Force damage.
+- **Restorative Energy.**  Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 [[Hit Points]] to it.
 
 You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once per turn. You regain all expended uses when you finish a [[Long Rest]].
 
