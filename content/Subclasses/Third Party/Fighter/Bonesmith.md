@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T00:19:26.681-04:00
-modified: 2026-09-04T09:26:02.731-04:00
-published: 2026-09-04T09:26:02.731-04:00
+modified: 2026-09-05T01:50:57.095-04:00
+published: 2026-09-05T01:50:57.095-04:00
 Parent Class: "[[Fighter]]"
 Source: Dr. Dhrolin's Dictionary of Dinosaurs
 Official: false
@@ -205,7 +205,7 @@ Your allies may assist you in harvesting. If at least two other humanoids assist
 <tr><td style="text-align:center">Tiny</td><td style="text-align:center">0-1</td><td style="text-align:center">―</td><td style="text-align:center">―</td><td style="text-align:center">―</td><td style="text-align:center">3 minutes</td></tr>
 <tr><td style="text-align:center">Small</td><td style="text-align:center">1-2</td><td style="text-align:center">0-1</td><td style="text-align:center">0-1</td><td style="text-align:center">0-1</td><td style="text-align:center">6 minutes</td></tr>
 <tr><td style="text-align:center">Medium</td><td style="text-align:center">1-2</td><td style="text-align:center">1-2</td><td style="text-align:center">1-2</td><td style="text-align:center">0-1</td><td style="text-align:center">15 minutes</td></tr>
-<tr><td style="text-align:center">Large</td><td style="text-align:center">3-4</td><td style="text-align:center">3-4</td><td style="text-align:center">2-3</td><td style="text-align:center">1-2</td><td style="text-align:center; white-space:nowrap;">A <a href="Short Rest">Short Rest</a></td></tr>
+<tr><td style="text-align:center">Large</td><td style="text-align:center">3-4</td><td style="text-align:center">3-4</td><td style="text-align:center">2-3</td><td style="text-align:center">1-2</td><td style="text-align:center; white-space:nowrap;">A&nbsp;<a href="Short Rest">Short&nbsp;Rest</a></td></tr>
 <tr><td style="text-align:center">Huge</td><td style="text-align:center">5-7</td><td style="text-align:center">5-7</td><td style="text-align:center">4-5</td><td style="text-align:center">3-5</td><td style="text-align:center">A <a href="Long Rest">Long Rest</a></td></tr>
 <tr><td style="text-align:center">Gargantuan</td><td style="text-align:center">10-12</td><td style="text-align:center">10-12</td><td style="text-align:center">8-10</td><td style="text-align:center">8-10</td><td style="text-align:center">One day</td></tr>
 </tbody>
