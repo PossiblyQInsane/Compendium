@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-06T00:13:26.549-04:00
-modified: 2026-09-06T00:15:33.996-04:00
-published: 2026-09-06T00:15:33.996-04:00
+modified: 2026-09-07T12:01:26.414-04:00
+published: 2026-09-07T12:01:26.414-04:00
 Creature Type: Dragon (Metallic)
 Size: Large
 Alignment: Chaotic Good
@@ -13,6 +13,8 @@ Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e
 ---
+
+<div class="source">Monster Manual 5.5e</div>
 
 Young brass dragons travel extensively, often spending a few years in a region before circling back to their lair. Some work closely with other metallic dragons, carrying information between allies.
 
