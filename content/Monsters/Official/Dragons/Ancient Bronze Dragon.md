@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-07T12:15:17.999-04:00
-modified: 2026-09-07T12:19:12.735-04:00
-published: 2026-09-07T12:19:12.735-04:00
+modified: 2026-09-07T20:29:05.575-04:00
+published: 2026-09-07T20:29:05.575-04:00
 Creature Type: Dragon (Metallic)
 Size: Gargantuan
 Alignment: Lawful Good
@@ -20,7 +20,7 @@ Ancient bronze dragons develop dramatic patinas on their glimmering scales. Thes
 
 > [!caption|sban]
 > ![[Images/Ancient Bronze Dragon.jpg]]
-> An ancient bronze dragon uses its repulsion breath to protect a community from rampaging Water elementals
+> An ancient bronze dragon uses its repulsion breath to protect a community from rampaging water elementals
 
 ### Bronze Dragon Lairs
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-28T10:48:20.708-04:00
-modified: 2026-09-07T14:07:51.919-04:00
-published: 2026-09-07T14:07:51.919-04:00
+modified: 2026-09-07T20:25:25.417-04:00
+published: 2026-09-07T20:25:25.417-04:00
 Creature Type: Undead
 Size: Medium
 Alignment: Chaotic Evil
@@ -18,8 +18,6 @@ Edition: 5.5e
 
 Ghast gravecallers wield fell magic and converse with corpses. They might pose as [[lich|liches]] or vampires.
 
-![[Images/Ghast.png|right|311]]
-
 ![[Images/Ghast Gravecaller.statblockwizard.png]]
 
 ## [[Ghasts]]
@@ -27,5 +25,7 @@ Ghast gravecallers wield fell magic and converse with corpses. They might pose a
 _Tyrants among Corpses_
 
 > [!recite|bg-yellow color-white no-i] **Habitat:** Swamp, Underdark, Urban; **Treasure:** Any
+
+![[Images/Ghast.png|left|347]]
 
 Ghasts are reeking, undying corpses closely related to ghouls. They hunger for the vices they enjoyed in life as much as they do for rotting flesh.

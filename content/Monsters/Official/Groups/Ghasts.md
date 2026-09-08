@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T22:58:58.130-04:00
-modified: 2026-09-07T14:07:03.691-04:00
-published: 2026-09-07T14:07:03.691-04:00
+modified: 2026-09-07T20:24:53.633-04:00
+published: 2026-09-07T20:24:53.633-04:00
 Habitat: Swamp, Underdark, Urban
 Treasure: Any
 Source: Monster Manual 5.5e
@@ -28,5 +28,3 @@ Ghasts frequently organize ghouls into packs to despoil crypts and steal the wea
 ## [[Ghast Gravecaller]]
 
 Ghast gravecallers wield fell magic and converse with corpses. They might pose as [[lich|liches]] or vampires.
-
-![[Images/Ghast Gravecaller.statblockwizard.png]]
