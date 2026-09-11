@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T18:31:37.539-04:00
-modified: 2026-09-03T00:21:04.127-04:00
-published: 2026-09-03T00:21:04.127-04:00
+modified: 2026-09-11T00:33:38.782-04:00
+published: 2026-09-11T00:33:38.782-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -484,6 +484,10 @@ You gain a [[Bard#Bard Subclasses|Bard subclass]] of your choice. A subclass is 
 ### Level 4: Ability Score Improvement
 
 You gain the [[Ability Score Improvement]] feat or another [[Feats.base|feat]] of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
+
+> [!caption|right ws-med]
+> ![[Images/Bard-1.png]]
+> A Bard shapes inspiration and imagination into magic
 
 ### Level 5: Font of Inspiration
 

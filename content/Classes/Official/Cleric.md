@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T21:26:01.386-04:00
-modified: 2026-09-03T00:20:27.748-04:00
-published: 2026-09-03T00:20:27.748-04:00
+modified: 2026-09-11T00:35:11.760-04:00
+published: 2026-09-11T00:35:11.760-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -487,6 +487,10 @@ _**Potent Spellcasting.**_ Add your Wisdom modifier to the damage you deal with 
 ### Level 10: Divine Intervention
 
 You can call on your deity or pantheon to intervene on your behalf. As a [[Magic]] action, choose any Cleric spell of level 5 or lower that doesn’t require a [[Reaction]] to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can’t use this feature again until you finish a [[Long Rest]].
+
+> [!caption|left wm-sm]
+> ![[Images/cleric-1.png]]
+> A Cleric prays for the day’s spells
 
 ### Level 14: Improved Blessed Strikes
 

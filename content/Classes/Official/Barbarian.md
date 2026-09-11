@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T09:34:35.165-04:00
-modified: 2026-09-03T00:19:18.282-04:00
-published: 2026-09-03T00:19:18.282-04:00
+modified: 2026-09-11T00:31:55.516-04:00
+published: 2026-09-11T00:31:55.516-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -101,6 +101,9 @@ Each time the Rage is extended, it lasts until the end of your next turn. You ca
 ### Level 1: Unarmored Defense
 
 While you aren’t wearing any armor, your base [[Armor Class]] equals 10 plus your Dexterity and Constitution modifiers. You can use a [[Shield]] and still gain this benefit.
+
+> [!caption|right ws-med]
+> ![[Images/Barbweapons.png]]
 
 ### Level 1: Weapon Mastery
 

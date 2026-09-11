@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-08T01:15:34.686-04:00
-modified: 2026-08-28T09:52:43.706-04:00
-published: 2026-08-28T09:52:43.706-04:00
+modified: 2026-09-11T00:37:33.019-04:00
+published: 2026-09-11T00:37:33.019-04:00
 Parent Class: "[[Druid]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -51,6 +51,10 @@ While in a Wild Shape form, you gain the following benefits.
 _**Lunar Radiance.**_ Each of your attacks in a Wild Shape form can deal its normal damage type or Radiant damage. You make this choice each time you hit with those attacks.
 
 _**Increased Toughness.**_ You can add your Wisdom modifier to your Constitution saving throws.
+
+> [!caption|left ws-med]
+> ![[Images/moon1.png]]
+> A Druid in wolf form howls at the moon
 
 ### Level 10: Moonlight Step
 

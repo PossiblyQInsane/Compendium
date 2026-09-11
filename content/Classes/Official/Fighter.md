@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-11T11:24:50.805-04:00
-modified: 2026-09-03T00:15:57.924-04:00
-published: 2026-09-03T00:15:57.924-04:00
+modified: 2026-09-11T00:38:27.171-04:00
+published: 2026-09-11T00:38:27.171-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -143,6 +143,10 @@ You gain an [[Feats.base#Epic Boon Feats|Epic Boon feat]] or another [[Feats.bas
 ### Level 20: Three Extra Attacks
 
 You can attack four times instead of once whenever you take the [[Attack]] action on your turn.
+
+> [!caption|sban]
+> ![[Images/fighter1.png]]
+> A Fighter stands between an ally and the onslaught of a black dragon
 
 ## Fighter Subclasses
 

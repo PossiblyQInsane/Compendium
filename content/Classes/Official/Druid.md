@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T10:07:32.423-04:00
-modified: 2026-09-03T01:02:46.775-04:00
-published: 2026-09-03T01:02:46.775-04:00
+modified: 2026-09-11T00:36:25.439-04:00
+published: 2026-09-11T00:36:25.439-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -539,6 +539,10 @@ _**Evergreen Wild Shape.**_ Whenever you roll [[Initiative]] and have no uses of
 _**Nature Magician.**_ You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can’t do so again until you finish a [[Long Rest]].
 
 _**Longevity.**_ The primal magic that you wield causes you to age more slowly. For every ten years that pass, your body ages only one year.
+
+> [!caption|sban]
+> ![[Images/druid1.png]]
+> A Druid channels the power of nature through their magic
 
 ## Druid Spell List
 
