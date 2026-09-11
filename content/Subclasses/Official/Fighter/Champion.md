@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-11T12:11:05.784-04:00
-modified: 2026-08-28T09:54:01.150-04:00
-published: 2026-08-28T09:54:01.150-04:00
+modified: 2026-09-11T10:47:37.705-04:00
+published: 2026-09-11T10:47:37.705-04:00
 Parent Class: "[[Fighter]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-![[Images/Champion.png|right|309]]
+> [!caption|right ws-med]
+> ![[Images/Champion.png]]
 
 _Pursue Physical Excellence in Combat_
 

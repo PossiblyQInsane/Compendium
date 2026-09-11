@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T01:52:37.544-04:00
-modified: 2026-08-28T10:09:57.089-04:00
-published: 2026-08-28T10:09:57.089-04:00
+modified: 2026-09-11T11:14:15.394-04:00
+published: 2026-09-11T11:14:15.394-04:00
 Parent Class: "[[Fighter]]"
 Source: Cthulhu by Torchlight
 Official: false
@@ -12,7 +12,8 @@ Edition: 5.5e
 
 <div class="source">Cthulhu by Torchlight<br>Chaosium</div>
 
-![[Images/Hero.jpg]]
+> [!caption|center wm-tl]
+> ![[Images/Hero.jpg]]
 
 > [!quote|author c-white] _Hector Arghast, Champion of Ten Banners_
 > “In times as dark as these, all it takes is one spark to bring back the light.”

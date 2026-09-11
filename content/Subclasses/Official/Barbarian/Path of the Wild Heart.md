@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T11:21:06.399-04:00
-modified: 2026-08-28T09:44:36.597-04:00
-published: 2026-08-28T09:44:36.597-04:00
+modified: 2026-09-11T10:02:42.163-04:00
+published: 2026-09-11T10:02:42.163-04:00
 Parent Class: "[[Barbarian]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-![[Images/Path of the Wild Heart.png|left|380]]
+> [!caption|left ws-med]
+> ![[Images/Path of the Wild Heart.png]]
 
 _Walk in Community with the Animal World_
 

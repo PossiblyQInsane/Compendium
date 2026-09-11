@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T10:25:17.662-04:00
-modified: 2026-08-28T09:48:32.290-04:00
-published: 2026-08-28T09:48:32.290-04:00
+modified: 2026-09-11T10:20:37.313-04:00
+published: 2026-09-11T10:20:37.313-04:00
 Parent Class: "[[Cleric]]"
 Source: "Ravenloft: The Horrors Within"
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Ravenloft: The Horrors Within</div>
 
-![[Images/Grave Domain.png|right|373]]
+> [!caption|right wm-sm]
+> ![[Images/Grave Domain.png]]
 
 _Embody Deific Forces of Death_
 

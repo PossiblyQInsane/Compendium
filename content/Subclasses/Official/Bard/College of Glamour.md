@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T12:19:55.753-04:00
-modified: 2026-08-28T09:46:55.904-04:00
-published: 2026-08-28T09:46:55.904-04:00
+modified: 2026-09-11T10:07:32.407-04:00
+published: 2026-09-11T10:07:32.407-04:00
 Parent Class: "[[Bard]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-![[Images/College of Glamour.png|left|362]]
+> [!caption|left wm-sm]
+> ![[Images/College of Glamour.png]]
 
 _Weave Beguiling Fey Magic_
 

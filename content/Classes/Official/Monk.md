@@ -209,8 +209,13 @@ A Monk subclass is a specialization that grants you features at certain Monk lev
 
 ### Official Monk Subclasses
 
-| Name | Source | Edition |
-| ---- | ------ | ------- |
+| Name                                                                                   | Source                 | Edition |
+| -------------------------------------------------------------------------------------- | ---------------------- | ------- |
+| [[Subclasses/Official/Monk/Warrior of Mercy.md\|Warrior of Mercy]]                     | Player's Handbook 5.5e | 5.5e    |
+| [[Subclasses/Official/Monk/Warrior of Shadow.md\|Warrior of Shadow]]                   | Player's Handbook 5.5e | 5.5e    |
+| [[Subclasses/Official/Monk/Warrior of the Elements.md\|Warrior of the Elements]]       | Player's Handbook 5.5e | 5.5e    |
+| [[Subclasses/Official/Monk/Warrior of the Mystic Arts.md\|Warrior of the Mystic Arts]] | Arcana Unleashed       | 5.5e    |
+| [[Subclasses/Official/Monk/Warrior of the Open Hand.md\|Warrior of the Open Hand]]     | Player's Handbook 5.5e | 5.5e    |
 
 ### Third Party Monk Subclasses
 

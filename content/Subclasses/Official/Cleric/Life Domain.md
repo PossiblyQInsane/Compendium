@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T09:30:35.392-04:00
-modified: 2026-08-28T09:48:47.025-04:00
-published: 2026-08-28T09:48:47.025-04:00
+modified: 2026-09-11T10:18:58.003-04:00
+published: 2026-09-11T10:18:58.003-04:00
 Parent Class: "[[Cleric]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-![[Images/Life Domain.png|right|309]]
+> [!caption|right ws-med]
+> ![[Images/Life Domain.png]]
 
 _Soothe the Hurts of the World_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-28T11:54:00.956-04:00
-modified: 2026-09-03T00:59:57.452-04:00
-published: 2026-09-03T00:59:57.452-04:00
+modified: 2026-09-11T09:52:29.958-04:00
+published: 2026-09-11T09:52:29.958-04:00
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Eberron: Forge of the Artificer</div>
 
-![[Images/Artillerist.png|right|360]]
+> [!caption|right ws-med]
+> ![[Images/Artillerist.png]]
 
 _Wield Destructive Power from Afar_
 

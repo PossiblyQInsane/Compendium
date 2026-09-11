@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T13:49:49.571-04:00
-modified: 2026-09-03T01:04:08.760-04:00
-published: 2026-09-03T01:04:08.760-04:00
+modified: 2026-09-11T10:00:44.578-04:00
+published: 2026-09-11T10:00:44.578-04:00
 Parent Class: "[[Barbarian]]"
 Source: "Bigby Presents: Glory of the Giants"
 Official: true
@@ -11,7 +11,8 @@ Edition: 5e
 
 <div class="source">Bigby Presents: Glory of the Giants</div>
 
-![[Images/Path of the Giant.png|left|351]]
+> [!caption|left ws-med]
+> ![[Images/Path of the Giant.png]]
 
 Barbarians who walk the Path of the Giant draw strength from the same primal forces as giants. As they rage, these barbarians surge with elemental power and grow in size, taking on forms that evoke the glory of giants. Some barbarians look like oversized versions of themselves, perhaps with a hint of elemental energy flaring in their eyes and around their weapons. Others transform more dramatically, taking on the appearance of an actual giant or a form similar to an Elemental, wreathed in fire, frost, or lightning.
 

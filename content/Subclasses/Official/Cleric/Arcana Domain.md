@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-03T00:26:54.913-04:00
-modified: 2026-09-03T00:41:01.915-04:00
-published: 2026-09-03T00:41:01.915-04:00
+modified: 2026-09-11T10:18:17.434-04:00
+published: 2026-09-11T10:18:17.434-04:00
 Parent Class: "[[Cleric]]"
 Source: Arcana Unleashed
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Arcana Unleashed</div>
 
-![[Images/Arcana Domain.png|left|322]]
+> [!caption|left wm-sm]
+> ![[Images/Arcana Domain.png]]
 
 _Amplify Your Magical Power_
 

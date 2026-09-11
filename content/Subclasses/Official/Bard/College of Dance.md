@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T12:12:47.931-04:00
-modified: 2026-08-28T09:46:19.072-04:00
-published: 2026-08-28T09:46:19.072-04:00
+modified: 2026-09-11T10:06:42.879-04:00
+published: 2026-09-11T10:06:42.879-04:00
 Parent Class: "[[Bard]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-![[Images/College of Dance.png|right|383]]
+> [!caption|right ws-med]
+> ![[Images/College of Dance.png]]
 
 _Move in Harmony with the Cosmos_
 

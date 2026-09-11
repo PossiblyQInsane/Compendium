@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-12T01:11:09.046-04:00
-modified: 2026-08-28T09:54:28.366-04:00
-published: 2026-08-28T09:54:28.366-04:00
+modified: 2026-09-11T10:48:23.139-04:00
+published: 2026-09-11T10:48:23.139-04:00
 Parent Class: "[[Fighter]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-![[Images/Psi Warrior.png|left|295]]
+> [!caption|left ws-med]
+> ![[Images/Psi Warrior.png]]
 
 _Augment Physical Might with Psionic Power_
 

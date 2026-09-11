@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T12:30:52.776-04:00
-modified: 2026-08-28T09:47:10.608-04:00
-published: 2026-08-28T09:47:10.608-04:00
+modified: 2026-09-11T10:08:20.146-04:00
+published: 2026-09-11T10:08:20.146-04:00
 Parent Class: "[[Bard]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-![[Images/College of Lore.png|right|378]]
+> [!caption|right ws-med]
+> ![[Images/College of Lore.png]]
 
 _Plumb the Depths of Magical Knowledge_
 

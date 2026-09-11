@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T21:11:12.643-04:00
-modified: 2026-09-03T00:59:14.429-04:00
-published: 2026-09-03T00:59:14.429-04:00
+modified: 2026-09-11T09:58:17.630-04:00
+published: 2026-09-11T09:58:17.630-04:00
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Eberron: Forge of the Artificer</div>
 
-![[Images/Armorer.png|left|355]]
+> [!caption|left ws-med]
+> ![[Images/Armorer.png]]
 
 _Craft Magic Armor to Enhance Your Abilities_
 

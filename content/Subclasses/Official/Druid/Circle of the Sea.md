@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-08T01:19:54.970-04:00
-modified: 2026-08-28T09:52:56.909-04:00
-published: 2026-08-28T09:52:56.909-04:00
+modified: 2026-09-11T10:37:04.490-04:00
+published: 2026-09-11T10:37:04.490-04:00
 Parent Class: "[[Druid]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-![[Images/Circle of the Sea.png|right|323]]
+> [!caption|right ws-med]
+> ![[Images/Circle of the Sea.png]]
 
 _Become One with Tides and Storms_
 

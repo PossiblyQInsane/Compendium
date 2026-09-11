@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T10:05:48.071-04:00
-modified: 2026-08-28T09:50:16.698-04:00
-published: 2026-08-28T09:50:16.698-04:00
+modified: 2026-09-11T10:22:14.796-04:00
+published: 2026-09-11T10:22:14.796-04:00
 Parent Class: "[[Cleric]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-![[Images/War Domain.png|right|325]]
+> [!caption|right ws-med]
+> ![[Images/War Domain.png]]
 
 _Inspire Valor and Smite Foes_
 

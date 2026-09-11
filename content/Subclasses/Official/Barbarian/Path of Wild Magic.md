@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T13:36:47.578-04:00
-modified: 2026-08-28T09:45:29.599-04:00
-published: 2026-08-28T09:45:29.599-04:00
+modified: 2026-09-11T10:05:04.538-04:00
+published: 2026-09-11T10:05:04.538-04:00
 Parent Class: "[[Barbarian]]"
 Source: Tasha's Cauldron of Everything
 Official: true
@@ -11,7 +11,8 @@ Edition: 5e
 
 <div class="source">Tasha's Cauldron of Everything</div>
 
-![[Images/Path of Wild Magic.png|right|357]]
+> [!caption|right wm-sm]
+> ![[Images/Path of Wild Magic.png]]
 
 > [!quote|author c-white] Tasha
 > I don’t recommend letting magic take the reins, but I’m not your mom. Live deliciously.

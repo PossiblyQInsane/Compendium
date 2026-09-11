@@ -1,9 +1,11 @@
 ---
 publish: true
+aliases:
+  - Light
 title: Light
 created: 2026-07-25T21:36:37.629-04:00
-modified: 2026-08-31T11:51:59.583-04:00
-published: 2026-08-31T11:51:59.583-04:00
+modified: 2026-09-11T10:25:06.965-04:00
+published: 2026-09-11T10:25:06.965-04:00
 Name: "[[Light (Spell)|Light]]"
 Spell Level: Cantrip
 School: Evocation

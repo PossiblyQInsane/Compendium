@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T11:49:01.627-04:00
-modified: 2026-08-28T09:44:59.632-04:00
-published: 2026-08-28T09:44:59.632-04:00
+modified: 2026-09-11T10:03:35.119-04:00
+published: 2026-09-11T10:03:35.119-04:00
 Parent Class: "[[Barbarian]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-![[Images/Path of the World Tree.png|right|355]]
+> [!caption|right ws-med]
+> ![[Images/Path of the World Tree.png]]
 
 _Trace the Roots and Branches of the Multiverse_
 

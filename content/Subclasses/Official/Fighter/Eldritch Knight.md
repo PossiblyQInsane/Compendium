@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-12T01:02:39.697-04:00
-modified: 2026-08-28T09:54:22.350-04:00
-published: 2026-08-28T09:54:22.350-04:00
+modified: 2026-09-11T10:50:50.108-04:00
+published: 2026-09-11T10:50:50.108-04:00
 Parent Class: "[[Fighter]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-![[Images/Eldritch Knight.png]]
+> [!caption|center wm-tl]
+> ![[Images/Eldritch Knight.png]]
 
 _Support Combat Skills with Arcane Magic_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T01:12:24.746-04:00
-modified: 2026-08-28T10:01:34.571-04:00
-published: 2026-08-28T10:01:34.571-04:00
+modified: 2026-09-11T11:15:08.428-04:00
+published: 2026-09-11T11:15:08.428-04:00
 Parent Class: "[[Cleric]]"
 Source: Cthulhu by Torchlight
 Official: false
@@ -12,7 +12,8 @@ Edition: 5.5e
 
 <div class="source">Cthulhu by Torchlight<br>Chaosium</div>
 
-![[Images/Apocalypse Domain.jpg]]
+> [!caption|center wm-tl]
+> ![[Images/Apocalypse Domain.jpg]]
 
 > [!quote|author c-white] _Endara, Doom’s Daughter_
 > “Some say the world ends in fire. Others, ice. I’m ready for both.”

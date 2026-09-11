@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T09:57:16.518-04:00
-modified: 2026-08-28T09:41:12.769-04:00
-published: 2026-08-28T09:41:12.769-04:00
+modified: 2026-09-11T09:54:40.092-04:00
+published: 2026-09-11T09:54:40.092-04:00
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Eberron: Forge of the Artificer</div>
 
-![[Images/Cartographer.png|left|360]]
+> [!caption|left ws-med]
+> ![[Images/Cartographer.png]]
 
 _Chart Advantageous Courses through Turmoil_
 

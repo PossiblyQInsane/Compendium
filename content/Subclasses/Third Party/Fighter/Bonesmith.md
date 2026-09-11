@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T00:19:26.681-04:00
-modified: 2026-09-05T17:30:24.156-04:00
-published: 2026-09-05T17:30:24.156-04:00
+modified: 2026-09-11T10:50:23.907-04:00
+published: 2026-09-11T10:50:23.907-04:00
 Parent Class: "[[Fighter]]"
 Source: Dr. Dhrolin's Dictionary of Dinosaurs
 Official: false
@@ -12,7 +12,7 @@ Edition: 5.5e
 
 <div class="source">Dr. Dhrolin's Dictionary of Dinosaurs<br>Palaeo Games</div>
 
-> [!caption|sban wm-tall]
+> [!caption|center wm-tl]
 > ![[Images/Bonesmith.jpg]]
 > “Most blacksmiths sculpt metal… This one chooses a more grizzly material.”
 

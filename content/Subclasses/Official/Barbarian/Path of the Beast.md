@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T13:13:53.682-04:00
-modified: 2026-09-03T01:03:48.351-04:00
-published: 2026-09-03T01:03:48.351-04:00
+modified: 2026-09-11T10:02:02.346-04:00
+published: 2026-09-11T10:02:02.346-04:00
 Parent Class: "[[Barbarian]]"
 Source: Tasha's Cauldron of Everything
 Official: true
@@ -11,7 +11,8 @@ Edition: 5e
 
 <div class="source">Tasha's Cauldron of Everything</div>
 
-![[Images/Path of the Beast.png|right|356]]
+> [!caption|right wm-sm]
+> ![[Images/Path of the Beast.png]]
 
 > [!quote|author c-white] Tasha
 > You have to respect anyone who lets their inner beast out for a brisk jog and healthy throat-ripping.

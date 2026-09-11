@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T19:22:20.550-04:00
-modified: 2026-08-28T09:39:47.346-04:00
-published: 2026-08-28T09:39:47.346-04:00
+modified: 2026-09-11T09:58:26.011-04:00
+published: 2026-09-11T09:58:26.011-04:00
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Eberron: Forge of the Artificer</div>
 
-![[Images/Alchemist.png|right|325]]
+> [!caption|right ws-med]
+> ![[Images/Alchemist.png]]
 
 _Craft Magic Elixirs and Potions_
 

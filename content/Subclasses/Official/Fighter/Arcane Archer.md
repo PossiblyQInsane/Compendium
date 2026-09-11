@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-03T00:42:20.161-04:00
-modified: 2026-09-04T01:14:19.018-04:00
-published: 2026-09-04T01:14:19.018-04:00
+modified: 2026-09-11T10:45:44.961-04:00
+published: 2026-09-11T10:45:44.961-04:00
 Parent Class: "[[Fighter]]"
 Source: Arcana Unleashed
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Arcana Unleashed</div>
 
-![[Images/Arcane Archer.png|left|300]]
+> [!caption|left ws-med]
+> ![[Images/Arcane Archer.png]]
 
 _Deploy Magical Effects Through Enchanted Ammunition_
 

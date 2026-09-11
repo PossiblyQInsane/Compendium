@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T09:56:50.974-04:00
-modified: 2026-08-28T09:49:51.917-04:00
-published: 2026-08-28T09:49:51.917-04:00
+modified: 2026-09-11T10:21:34.167-04:00
+published: 2026-09-11T10:21:34.167-04:00
 Parent Class: "[[Cleric]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-![[Images/Trickery Domain.png|left|323]]
+> [!caption|left ws-med]
+> ![[Images/Trickery Domain.png]]
 
 _Make Mischief and Challenge Authority_
 

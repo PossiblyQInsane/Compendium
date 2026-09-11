@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T12:42:49.666-04:00
-modified: 2026-09-03T00:14:43.206-04:00
-published: 2026-09-03T00:14:43.206-04:00
+modified: 2026-09-11T10:10:48.626-04:00
+published: 2026-09-11T10:10:48.626-04:00
 Parent Class: "[[Bard]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-![[Images/College of Valor.png|left|355]]
+> [!caption|left ws-med]
+> ![[Images/College of Valor.png]]
 
 _Sing the Deeds of Ancient Heroes_
 

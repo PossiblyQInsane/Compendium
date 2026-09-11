@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-11T12:00:59.357-04:00
-modified: 2026-08-28T09:53:44.141-04:00
-published: 2026-08-28T09:53:44.141-04:00
+modified: 2026-09-11T10:47:02.495-04:00
+published: 2026-09-11T10:47:02.495-04:00
 Parent Class: "[[Fighter]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-![[Images/Battle Master.png|right|305]]
+> [!caption|right ws-med]
+> ![[Images/Battle Master.png]]
 
 _Master Sophisticated Battle Maneuvers_
 

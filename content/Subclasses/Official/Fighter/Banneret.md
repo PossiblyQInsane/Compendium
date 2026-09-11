@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-12T01:16:56.877-04:00
-modified: 2026-08-28T09:53:38.101-04:00
-published: 2026-08-28T09:53:38.101-04:00
+modified: 2026-09-11T10:46:27.067-04:00
+published: 2026-09-11T10:46:27.067-04:00
 Parent Class: "[[Fighter]]"
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Forgotten Realms: Heroes of Faerûn</div>
 
-![[Images/Banneret.png|right|281]]
+> [!caption|right ws-med]
+> ![[Images/Banneret.png]]
 
 _Rally Fellow Heroes with Inspiring Leadership_
 

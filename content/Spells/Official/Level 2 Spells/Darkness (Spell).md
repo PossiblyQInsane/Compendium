@@ -1,9 +1,11 @@
 ---
 publish: true
+aliases:
+  - Darkness
 title: Darkness
 created: 2026-08-04T09:50:10.915-04:00
-modified: 2026-08-31T12:18:52.496-04:00
-published: 2026-08-31T12:18:52.496-04:00
+modified: 2026-09-11T10:25:59.031-04:00
+published: 2026-09-11T10:25:59.031-04:00
 Name: "[[Darkness (Spell)|Darkness]]"
 Spell Level: Level 2
 School: Evocation

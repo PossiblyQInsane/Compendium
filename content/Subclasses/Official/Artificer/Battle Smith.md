@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T02:30:17.849-04:00
-modified: 2026-09-05T12:49:38.613-04:00
-published: 2026-09-05T12:49:38.613-04:00
+modified: 2026-09-11T09:53:39.553-04:00
+published: 2026-09-11T09:53:39.553-04:00
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Eberron: Forge of the Artificer</div>
 
-![[Images/Battle Smith.png|left|325]]
+> [!caption|left ws-med]
+> ![[Images/Battle Smith.png]]
 
 _Command a Construct Guardian_
 

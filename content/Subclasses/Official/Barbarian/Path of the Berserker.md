@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T11:11:56.000-04:00
-modified: 2026-08-28T09:43:34.106-04:00
-published: 2026-08-28T09:43:34.106-04:00
+modified: 2026-09-11T10:00:56.826-04:00
+published: 2026-09-11T10:00:56.826-04:00
 Parent Class: "[[Barbarian]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-![[Images/Path of the Berserker.png|right|375]]
+> [!caption|right ws-med]
+> ![[Images/Path of the Berserker.png]]
 
 _Channel Rage into Violent Fury_
 

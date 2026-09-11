@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-08T01:25:33.352-04:00
-modified: 2026-09-03T01:00:49.882-04:00
-published: 2026-09-03T01:00:49.882-04:00
+modified: 2026-09-11T10:37:46.412-04:00
+published: 2026-09-11T10:37:46.412-04:00
 Parent Class: "[[Druid]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-![[Images/Circle of the Stars.png|right|270]]
+> [!caption|right ws-med]
+> ![[Images/Circle of the Stars.png]]
 
 _Harness Secrets Hidden in Constellations_
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T12:57:33.135-04:00
-modified: 2026-08-28T09:47:18.672-04:00
-published: 2026-08-28T09:47:18.672-04:00
+modified: 2026-09-11T10:09:15.397-04:00
+published: 2026-09-11T10:09:15.397-04:00
 Parent Class: "[[Bard]]"
 Source: "Ravenloft: The Horrors Within"
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Ravenloft: The Horrors Within</div>
 
-![[Images/College of Spirits.png|right|383]]
+> [!caption|right wm-sm]
+> ![[Images/College of Spirits.png]]
 
 _Call Forth Spirits from Beyond the Grave_
 

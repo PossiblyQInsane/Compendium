@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-31T09:37:39.767-04:00
-modified: 2026-09-05T12:48:47.756-04:00
-published: 2026-09-05T12:48:47.756-04:00
+modified: 2026-09-11T09:58:44.506-04:00
+published: 2026-09-11T09:58:44.506-04:00
 Parent Class: "[[Artificer]]"
 Source: "Ravenloft: The Horrors Within"
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Ravenloft: The Horrors Within</div>
 
-![[Images/Reanimator.png|left|369]]
+> [!caption|left ws-med]
+> ![[Images/Reanimator.png]]
 
 _Reassemble Corpses and Raise the Dead_
 

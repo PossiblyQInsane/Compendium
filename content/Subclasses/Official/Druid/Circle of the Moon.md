@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-08T01:15:34.686-04:00
-modified: 2026-09-11T00:37:33.019-04:00
-published: 2026-09-11T00:37:33.019-04:00
+modified: 2026-09-11T10:36:21.665-04:00
+published: 2026-09-11T10:36:21.665-04:00
 Parent Class: "[[Druid]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -11,7 +11,8 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-![[Images/Circle of the Moon.png|right|303]]
+> [!caption|right ws-med]
+> ![[Images/Circle of the Moon.png]]
 
 _Adopt Animal Forms to Guard the Wilds_
 

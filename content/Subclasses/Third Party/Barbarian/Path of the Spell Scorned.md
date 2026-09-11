@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T14:53:25.665-04:00
-modified: 2026-08-28T09:58:08.395-04:00
-published: 2026-08-28T09:58:08.395-04:00
+modified: 2026-09-11T11:15:36.263-04:00
+published: 2026-09-11T11:15:36.263-04:00
 Parent Class: "[[Barbarian]]"
 Source: Cthulhu by Torchlight
 Official: false
@@ -12,7 +12,8 @@ Edition: 5.5e
 
 <div class="source">Cthulhu by Torchlight<br>Chaosium</div>
 
-![[Images/Path of the Spell Scorned.jpg]]
+> [!caption|center wm-tl]
+> ![[Images/Path of the Spell Scorned.jpg]]
 
 > [!quote| c-white author] _Oreg the Slayer_
 > My magic? It’s the magic of stabbing things in the face. Works well in my experience.

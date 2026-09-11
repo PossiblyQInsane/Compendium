@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-02T10:54:24.605-04:00
-modified: 2026-09-03T01:25:18.372-04:00
-published: 2026-09-03T01:25:18.372-04:00
+modified: 2026-09-11T10:56:50.098-04:00
+published: 2026-09-11T10:56:50.098-04:00
 Source: Valda's Spire of Secrets
 Official: false
 Publisher: Mage Hand Press
@@ -24,7 +24,8 @@ Edition: 5.5e
 | **Armor Training**                                                       | Light armor                                                                                                                                                                       |
 | **Starting Equipment**                                                   | _Choose A or B:_ (A) [[Leather Armor]], 2 [[Dagger\|Daggers]], [[Revolver (VSoS)\|Revolver]], 50 [[Firearm Ammunition\|Bullets]], [[Explorer's Pack]], and 11 GP; or (B) 175 GP   |
 
-![[Images/Gunslinger2.png|left|281]]
+> [!caption|ws-med]
+> ![[Images/Gunslinger2.png]]
 
 Risk is in a Gunslinger’s blood. They are bold renegades, bucking tradition and forging a new path with dangerous and inelegant firearms. Gunslingers are infamous for surviving by their wits and relying on split-second timing and a considerable amount of luck to survive.
 
