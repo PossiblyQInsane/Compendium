@@ -225,5 +225,15 @@ A Monk subclass is a specialization that grants you features at certain Monk lev
 
 ### Third Party Monk Subclasses
 
-| Name | Source | Publisher | Edition |
-| ---- | ------ | --------- | ------- |
+| Name                                                                                            | Source                            | Publisher               | Edition |
+| ----------------------------------------------------------------------------------------------- | --------------------------------- | ----------------------- | ------- |
+| [[Subclasses/Third Party/Monk/Warrior of Cosmic Balance.md\|Warrior of Cosmic Balance]]         | Cthulhu by Torchlight             | Chaosium                | 5.5e    |
+| [[Subclasses/Third Party/Monk/Warrior of Pride.md\|Warrior of Pride]]                           | Grim Hollow: Player's Guide       | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Monk/Warrior of Regret.md\|Warrior of Regret]]                         | Grim Hollow: Player's Guide       | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Monk/Warrior of the Celestial.md\|Warrior of the Celestial]]           | The Griffon's Saddlebag: Book One | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Third Party/Monk/Warrior of the Leaden Crown.md\|Warrior of the Leaden Crown]]     | Grim Hollow: Player's Guide       | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Monk/Warrior of the Living Weapon.md\|Warrior of the Living Weapon]]   | Exploring Eberron                 | Visionary               | 5.5e    |
+| [[Subclasses/Third Party/Monk/Warrior of the Pestilent Haze.md\|Warrior of the Pestilent Haze]] | The Crooked Moon                  | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Monk/Warrior of the Street.md\|Warrior of the Street]]                 | Valda's Spire of Secrets          | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Third Party/Monk/Way of the Aether.md\|Way of the Aether]]                         | The Griffon's Saddlebag: Book Two | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Third Party/Monk/Way of the Cobalt Soul.md\|Way of the Cobalt Soul]]               | Tal'Dorei Campaign Setting Reborn | Darrington Press        | 5e      |
