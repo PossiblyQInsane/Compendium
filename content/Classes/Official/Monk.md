@@ -209,13 +209,19 @@ A Monk subclass is a specialization that grants you features at certain Monk lev
 
 ### Official Monk Subclasses
 
-| Name                                                                                   | Source                 | Edition |
-| -------------------------------------------------------------------------------------- | ---------------------- | ------- |
-| [[Subclasses/Official/Monk/Warrior of Mercy.md\|Warrior of Mercy]]                     | Player's Handbook 5.5e | 5.5e    |
-| [[Subclasses/Official/Monk/Warrior of Shadow.md\|Warrior of Shadow]]                   | Player's Handbook 5.5e | 5.5e    |
-| [[Subclasses/Official/Monk/Warrior of the Elements.md\|Warrior of the Elements]]       | Player's Handbook 5.5e | 5.5e    |
-| [[Subclasses/Official/Monk/Warrior of the Mystic Arts.md\|Warrior of the Mystic Arts]] | Arcana Unleashed       | 5.5e    |
-| [[Subclasses/Official/Monk/Warrior of the Open Hand.md\|Warrior of the Open Hand]]     | Player's Handbook 5.5e | 5.5e    |
+| Name                                                                                     | Source                         | Edition |
+| ---------------------------------------------------------------------------------------- | ------------------------------ | ------- |
+| [[Subclasses/Official/Monk/Warrior of Mercy.md\|Warrior of Mercy]]                       | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Official/Monk/Warrior of Shadow.md\|Warrior of Shadow]]                     | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Official/Monk/Warrior of the Elements.md\|Warrior of the Elements]]         | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Official/Monk/Warrior of the Mystic Arts.md\|Warrior of the Mystic Arts]]   | Arcana Unleashed               | 5.5e    |
+| [[Subclasses/Official/Monk/Warrior of the Open Hand.md\|Warrior of the Open Hand]]       | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Official/Monk/Way of the Ascendant Dragon.md\|Way of the Ascendant Dragon]] | Fizban's Treasury of Dragons   | 5e      |
+| [[Subclasses/Official/Monk/Way of the Astral Self.md\|Way of the Astral Self]]           | Tasha's Cauldron of Everything | 5e      |
+| [[Subclasses/Official/Monk/Way of the Drunken Master.md\|Way of the Drunken Master]]     | Xanathar's Guide to Everything | 5e      |
+| [[Subclasses/Official/Monk/Way of the Kensei.md\|Way of the Kensei]]                     | Xanathar's Guide to Everything | 5e      |
+| [[Subclasses/Official/Monk/Way of the Long Death.md\|Way of the Long Death]]             | Sword Coast Adventurer's Guide | 5e      |
+| [[Subclasses/Official/Monk/Way of the Sun Soul.md\|Way of the Sun Soul]]                 | Sword Coast Adventurer's Guide | 5e      |
 
 ### Third Party Monk Subclasses
 

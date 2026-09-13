@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:01:48.086-04:00
-modified: 2026-09-11T11:12:34.765-04:00
-published: 2026-09-11T11:12:34.765-04:00
+modified: 2026-09-12T23:11:58.020-04:00
+published: 2026-09-12T23:11:58.020-04:00
 Parent Class: "[[Monk]]"
 Source: Arcana Unleashed
 Official: true
@@ -11,7 +11,7 @@ Edition: 5.5e
 
 <div class="source">Arcana Unleashed</div>
 
-> [!caption|left wm-sm]
+> [!caption|left ws-med]
 > ![[Images/Warrior of the Mystic Arts.png]]
 
 _Weave Martial and Mystic Arts_
