@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-13T09:48:32.277-04:00
-modified: 2026-09-13T14:09:46.419-04:00
-published: 2026-09-13T14:09:46.419-04:00
+modified: 2026-09-13T14:45:58.641-04:00
+published: 2026-09-13T14:45:58.641-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -52,7 +52,7 @@ As a Paladin, you gain the following class features when you reach the specified
 <div style="overflow-x: auto;">
 <table>
 <thead>
-<tr><th rowspan="2" style="text-align:center">Level</th><th rowspan="2" style="text-align:center">Proficiency Bonus</th><th rowspan="2" style="text-align:left">Class Features</th><th rowspan="2" style="text-align:center">Channel Divinity</th><th rowspan="2" style="text-align:center">Prepared Spells</th><th colspan="5" style="text-align:center">— Spell Slots per Spell Level —</th></tr>
+<tr><th rowspan="2" style="text-align:center">Level</th><th rowspan="2" style="text-align:center">Proficiency Bonus</th><th rowspan="2" style="text-align:left">Class Features</th><th rowspan="2" style="text-align:center">Channel Divinity</th><th rowspan="2" style="text-align:center">Prepared Spells</th><th colspan="5" style="text-align:center"><span style="white-space: nowrap;">— Spell Slots per Spell Level —</span></th></tr>
 <tr><th style="text-align:center">1</th><th style="text-align:center">2</th><th style="text-align:center">3</th><th style="text-align:center">4</th><th style="text-align:center">5</th></tr>
 </thead>
 <tbody>
@@ -290,8 +290,18 @@ Each of these subclasses represents a body of oaths that a Paladin begins taking
 
 ### Official Paladin Subclasses
 
-| Name | Source | Edition |
-| ---- | ------ | ------- |
+| Name                                                                                  | Source                             | Edition |
+| ------------------------------------------------------------------------------------- | ---------------------------------- | ------- |
+| [[Subclasses/Official/Paladin/Oath of Conquest.md\|Oath of Conquest]]                 | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Official/Paladin/Oath of Devotion.md\|Oath of Devotion]]                 | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Paladin/Oath of Glory.md\|Oath of Glory]]                       | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Paladin/Oath of Redemption.md\|Oath of Redemption]]             | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Official/Paladin/Oath of the Ancients.md\|Oath of the Ancients]]         | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Paladin/Oath of the Crown.md\|Oath of the Crown]]               | Sword Coast Adventurer's Guide     | 5e      |
+| [[Subclasses/Official/Paladin/Oath of the Noble Genies.md\|Oath of the Noble Genies]] | Forgotten Realms: Heroes of Faerûn | 5.5e    |
+| [[Subclasses/Official/Paladin/Oath of the Watchers.md\|Oath of the Watchers]]         | Tasha's Cauldron of Everything     | 5e      |
+| [[Subclasses/Official/Paladin/Oath of Vengeance.md\|Oath of Vengeance]]               | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Paladin/Oathbreaker.md\|Oathbreaker]]                           | Dungeon Master's Guide 5e          | 5e      |
 
 ### Third Party Paladin Subclasses
 
