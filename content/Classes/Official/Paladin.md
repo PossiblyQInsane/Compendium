@@ -305,5 +305,17 @@ Each of these subclasses represents a body of oaths that a Paladin begins taking
 
 ### Third Party Paladin Subclasses
 
-| Name | Source | Publisher | Edition |
-| ---- | ------ | --------- | ------- |
+| Name                                                                                       | Source                                  | Publisher               | Edition |
+| ------------------------------------------------------------------------------------------ | --------------------------------------- | ----------------------- | ------- |
+| [[Subclasses/Third Party/Paladin/Oath of Castigation.md\|Oath of Castigation]]             | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Paladin/Oath of Pestilence.md\|Oath of Pestilence]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Paladin/Oath of Revelry.md\|Oath of Revelry]]                     | Valda's Spire of Secrets                | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Third Party/Paladin/Oath of Slaughter.md\|Oath of Slaughter]]                 | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Paladin/Oath of the Eldritch Hunt.md\|Oath of the Eldritch Hunt]] | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
+| [[Subclasses/Third Party/Paladin/Oath of the Guardian.md\|Oath of the Guardian]]           | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
+| [[Subclasses/Third Party/Paladin/Oath of the Harvest.md\|Oath of the Harvest]]             | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |
+| [[Subclasses/Third Party/Paladin/Oath of the Hearth.md\|Oath of the Hearth]]               | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Third Party/Paladin/Oath of the Open Sea.md\|Oath of the Open Sea]]           | Tal'Dorei Campaign Setting Reborn       | Darrington Press        | 5e      |
+| [[Subclasses/Third Party/Paladin/Oath of the Spelldrinker.md\|Oath of the Spelldrinker]]   | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Third Party/Paladin/Oath of Valhalla.md\|Oath of Valhalla]]                   | Northlands Worldbook                    | Kobold Press            | 5.5e    |
+| [[Subclasses/Third Party/Paladin/Oath of Zeal.md\|Oath of Zeal]]                           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
