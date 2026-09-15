@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:01:48.086-04:00
-modified: 2026-09-12T23:11:58.020-04:00
-published: 2026-09-12T23:11:58.020-04:00
+modified: 2026-09-14T22:48:48.381-04:00
+published: 2026-09-14T22:48:48.381-04:00
 Parent Class: "[[Monk]]"
 Source: Arcana Unleashed
 Official: true
@@ -27,6 +27,8 @@ _**Cantrips.**_ You know two cantrips of your choice from the [[Sorcerer#Sorcer
 When you reach Monk level 10, you learn another Sorcerer cantrip of your choice.
 
 _**Spell Slots.**_ The Warrior of the Mystic Arts Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [[Long Rest]].
+
+<br>
 
 ##### Warrior of the Mystic Arts Spellcasting
 

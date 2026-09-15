@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T01:53:53.068-04:00
-modified: 2026-08-28T09:53:53.228-04:00
-published: 2026-08-28T09:53:53.228-04:00
+modified: 2026-09-15T00:23:14.869-04:00
+published: 2026-09-15T00:23:14.869-04:00
 Parent Class: "[[Fighter]]"
 Source: Xanathar's Guide to Everything
 Official: true
@@ -10,6 +10,8 @@ Edition: 5e
 ---
 
 <div class="source">Xanathar's Guide to Everything</div>
+
+![[Images/Xanathar's Fighters.png]]
 
 The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.
 

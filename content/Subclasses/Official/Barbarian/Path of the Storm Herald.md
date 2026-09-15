@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T13:01:03.520-04:00
-modified: 2026-08-28T09:44:22.923-04:00
-published: 2026-08-28T09:44:22.923-04:00
+modified: 2026-09-15T00:20:38.775-04:00
+published: 2026-09-15T00:20:38.775-04:00
 Parent Class: "[[Barbarian]]"
 Source: Xanathar's Guide to Everything
 Official: true
@@ -10,6 +10,8 @@ Edition: 5e
 ---
 
 <div class="source">Xanathar's Guide to Everything</div>
+
+![[Images/Xanathar's Barbs.png]]
 
 All barbarians harbor a fury within. Their rage grants them superior strength, durability, and speed. Barbarians who follow the Path of the Storm Herald learn to transform that rage into a mantle of primal magic, which swirls around them. When in a fury, a barbarian of this path taps into the forces of nature to create powerful magical effects.
 

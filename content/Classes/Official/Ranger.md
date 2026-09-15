@@ -292,8 +292,18 @@ A Ranger subclass is a specialization that grants you features at certain Ranger
 
 ### Official Ranger Subclasses
 
-| Name | Source | Edition |
-| ---- | ------ | ------- |
+| Name                                                             | Source                             | Edition |
+| ---------------------------------------------------------------- | ---------------------------------- | ------- |
+| [[Subclasses/Official/Ranger/Beast Master.md\|Beast Master]]     | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Ranger/Drakewarden.md\|Drakewarden]]       | Fizban's Treasury of Dragons       | 5e      |
+| [[Subclasses/Official/Ranger/Fey Wanderer.md\|Fey Wanderer]]     | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Ranger/Gloom Stalker.md\|Gloom Stalker]]   | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Ranger/Hollow Warden.md\|Hollow Warden]]   | Ravenloft: The Horrors Within      | 5.5e    |
+| [[Subclasses/Official/Ranger/Horizon Walker.md\|Horizon Walker]] | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Official/Ranger/Hunter.md\|Hunter]]                 | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Ranger/Monster Slayer.md\|Monster Slayer]] | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Official/Ranger/Swarmkeeper.md\|Swarmkeeper]]       | Tasha's Cauldron of Everything     | 5e      |
+| [[Subclasses/Official/Ranger/Winter Walker.md\|Winter Walker]]   | Forgotten Realms: Heroes of Faerûn | 5.5e    |
 
 ### Third Party Ranger Subclasses
 

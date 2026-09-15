@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T12:52:32.372-04:00
-modified: 2026-08-28T09:42:38.658-04:00
-published: 2026-08-28T09:42:38.658-04:00
+modified: 2026-09-15T00:20:49.468-04:00
+published: 2026-09-15T00:20:49.468-04:00
 Parent Class: "[[Barbarian]]"
 Source: Xanathar's Guide to Everything
 Official: true
@@ -10,6 +10,8 @@ Edition: 5e
 ---
 
 <div class="source">Xanathar's Guide to Everything</div>
+
+![[Images/Xanathar's Barbs.png]]
 
 Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a barbarian who follows this path rages, the barbarian contacts the spirit world and calls on these guardian spirits for aid.
 
