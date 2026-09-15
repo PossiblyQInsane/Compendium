@@ -1,8 +1,19 @@
 ---
 publish: true
+aliases:
+  - Arrows
+  - Bolts
+  - Bullets
+  - Needles
+  - Arrow
+  - Bolt
+  - Bullet
+  - Needle
+  - Firearm Bullets
+  - Sling Bullets
 created: 2026-08-06T01:38:59.412-04:00
-modified: 2026-08-17T15:23:55.110-04:00
-published: 2026-08-17T15:23:55.110-04:00
+modified: 2026-09-14T22:23:09.890-04:00
+published: 2026-09-14T22:23:09.890-04:00
 Weight: Varies
 Cost: Varies
 Source: Player's Handbook 5.5e

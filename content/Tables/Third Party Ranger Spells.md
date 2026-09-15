@@ -1,0 +1,15 @@
+| Spell Level | Name                                                                                  | School                      | Special | Source                                  | Publisher              |
+| ----------- | ------------------------------------------------------------------------------------- | --------------------------- | ------- | --------------------------------------- | ---------------------- |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Ancestral Communion.md\|Ancestral Communion]]_   | Divination                  | C       | The Crooked Moon                        | Avantris Entertainment |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Blood Rush.md\|Blood Rush]]_                     | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Chameleon Skin.md\|Chameleon Skin]]_             | Biomancy                    | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Spectral Slash.md\|Spectral Slash]]_             | Conjuration                 | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
+| Level 2     | _[[Spells/Third Party/Level 2 Spells/Bloodletter.md\|Bloodletter]]_                   | Necromancy                  | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| Level 2     | _[[Spells/Third Party/Level 2 Spells/Sense Lifeblood.md\|Sense Lifeblood]]_           | Divination (Sangromancy)    | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| Level 2     | _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_                 | Evocation                   | —       | The Crooked Moon                        | Avantris Entertainment |
+| Level 3     | _[[Spells/Third Party/Level 3 Spells/Freedom of the Waves.md\|Freedom of the Waves]]_ | Conjuration                 | —       | Tal'Dorei Campaign Setting Reborn       | Darrington Press       |
+| Level 3     | _[[Spells/Third Party/Level 3 Spells/Globe of Twilight.md\|Globe of Twilight]]_       | Conjuration                 | C       | Humblewood Campaign Setting             | Hit Point Press        |
+| Level 3     | _[[Spells/Third Party/Level 3 Spells/Harvest Moonglow.md\|Harvest Moonglow]]_         | Evocation                   | —       | The Crooked Moon                        | Avantris Entertainment |
+| Level 3     | _[[Spells/Third Party/Level 3 Spells/Spectral Fury.md\|Spectral Fury]]_               | Conjuration                 | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
+| Level 5     | _[[Spells/Third Party/Level 5 Spells/Freedom of the Winds.md\|Freedom of the Winds]]_ | Abjuration                  | C       | Tal'Dorei Campaign Setting Reborn       | Darrington Press       |
+| Level 5     | _[[Spells/Third Party/Level 5 Spells/Lucky Charm.md\|Lucky Charm]]_                   | Transmutation               | C       | The Crooked Moon                        | Avantris Entertainment |
