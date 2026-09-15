@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T19:28:35.816-04:00
-modified: 2026-08-17T16:00:47.426-04:00
-published: 2026-08-17T16:00:47.426-04:00
+modified: 2026-09-15T10:40:46.104-04:00
+published: 2026-09-15T10:40:46.104-04:00
 Category: Artisan's Tools
 Ability: Intelligence
 Weight: 8 lb.
@@ -12,7 +12,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 **Ability:** Intelligence
 **Weight:** 8 lb.

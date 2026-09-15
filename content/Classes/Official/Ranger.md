@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-14T21:40:46.588-04:00
-modified: 2026-09-14T22:07:13.656-04:00
-published: 2026-09-14T22:07:13.656-04:00
+modified: 2026-09-15T12:59:57.675-04:00
+published: 2026-09-15T12:59:57.675-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -63,11 +63,11 @@ As a Ranger, you gain the following class features when you reach the specified 
 <tr><td style="text-align:center">7</td><td style="text-align:center">+3</td><td style="text-align:left">Subclass feature</td><td style="text-align:center">3</td><td style="text-align:center">7</td><td style="text-align:center">4</td><td style="text-align:center">3</td><td style="text-align:center">—</td><td style="text-align:center">—</td><td style="text-align:center">—</td></tr>
 <tr><td style="text-align:center">8</td><td style="text-align:center">+3</td><td style="text-align:left"><a href= "#level-4-ability-score-improvement">Ability Score Improvement</a ></td><td style="text-align:center">3</td><td style="text-align:center">7</td><td style="text-align:center">4</td><td style="text-align:center">3</td><td style="text-align:center">—</td><td style="text-align:center">—</td><td style="text-align:center">—</td></tr>
 <tr><td style="text-align:center">9</td><td style="text-align:center">+4</td><td style="text-align:left"><a href= "#level-9-expertise">Expertise</a ></td><td style="text-align:center">4</td><td style="text-align:center">9</td><td style="text-align:center">4</td><td style="text-align:center">3</td><td style="text-align:center">2</td><td style="text-align:center">—</td><td style="text-align:center">—</td></tr>
-<tr><td style="text-align:center">10</td><td style="text-align:center">+4</td><td style="text-align:left"><a href= "level-10-tireless">Tireless</a ></td><td style="text-align:center">4</td><td style="text-align:center">9</td><td style="text-align:center">4</td><td style="text-align:center">3</td><td style="text-align:center">2</td><td style="text-align:center">—</td><td style="text-align:center">—</td></tr>
+<tr><td style="text-align:center">10</td><td style="text-align:center">+4</td><td style="text-align:left"><a href= "#level-10-tireless">Tireless</a ></td><td style="text-align:center">4</td><td style="text-align:center">9</td><td style="text-align:center">4</td><td style="text-align:center">3</td><td style="text-align:center">2</td><td style="text-align:center">—</td><td style="text-align:center">—</td></tr>
 <tr><td style="text-align:center">11</td><td style="text-align:center">+4</td><td style="text-align:left">Subclass feature</td><td style="text-align:center">4</td><td style="text-align:center">10</td><td style="text-align:center">4</td><td style="text-align:center">3</td><td style="text-align:center">3</td><td style="text-align:center">—</td><td style="text-align:center">—</td></tr>
 <tr><td style="text-align:center">12</td><td style="text-align:center">+4</td><td style="text-align:left"><a href= "#level-4-ability-score-improvement">Ability Score Improvement</a ></td><td style="text-align:center">4</td><td style="text-align:center">10</td><td style="text-align:center">4</td><td style="text-align:center">3</td><td style="text-align:center">3</td><td style="text-align:center">—</td><td style="text-align:center">—</td></tr>
 <tr><td style="text-align:center">13</td><td style="text-align:center">+5</td><td style="text-align:left"><a href= "#level-13-relentless-hunter">Relentless Hunter</a ></td><td style="text-align:center">5</td><td style="text-align:center">11</td><td style="text-align:center">4</td><td style="text-align:center">3</td><td style="text-align:center">3</td><td style="text-align:center">1</td><td style="text-align:center">—</td></tr>
-<tr><td style="text-align:center">14</td><td style="text-align:center">+5</td><td style="text-align:left"><a href= "level-14-natures-veil">Nature's Veil</a ></td><td style="text-align:center">5</td><td style="text-align:center">11</td><td style="text-align:center">4</td><td style="text-align:center">3</td><td style="text-align:center">3</td><td style="text-align:center">1</td><td style="text-align:center">—</td></tr>
+<tr><td style="text-align:center">14</td><td style="text-align:center">+5</td><td style="text-align:left"><a href= "#level-14-natures-veil">Nature's Veil</a ></td><td style="text-align:center">5</td><td style="text-align:center">11</td><td style="text-align:center">4</td><td style="text-align:center">3</td><td style="text-align:center">3</td><td style="text-align:center">1</td><td style="text-align:center">—</td></tr>
 <tr><td style="text-align:center">15</td><td style="text-align:center">+5</td><td style="text-align:left">Subclass feature</td><td style="text-align:center">5</td><td style="text-align:center">12</td><td style="text-align:center">4</td><td style="text-align:center">3</td><td style="text-align:center">3</td><td style="text-align:center">2</td><td style="text-align:center">—</td></tr>
 <tr><td style="text-align:center">16</td><td style="text-align:center">+5</td><td style="text-align:left"><a href= "#level-4-ability-score-improvement">Ability Score Improvement</a ></td><td style="text-align:center">5</td><td style="text-align:center">12</td><td style="text-align:center">4</td><td style="text-align:center">3</td><td style="text-align:center">3</td><td style="text-align:center">2</td><td style="text-align:center">—</td></tr>
 <tr><td style="text-align:center">17</td><td style="text-align:center">+6</td><td style="text-align:left"><a href= "#level-17-precise-hunter">Precise Hunter</a ></td><td style="text-align:center">6</td><td style="text-align:center">14</td><td style="text-align:center">4</td><td style="text-align:center">3</td><td style="text-align:center">3</td><td style="text-align:center">3</td><td style="text-align:center">1</td></tr>
@@ -307,6 +307,15 @@ A Ranger subclass is a specialization that grants you features at certain Ranger
 
 ### Third Party Ranger Subclasses
 
-| Name                                                          | Source                      | Publisher        | Edition |
-| ------------------------------------------------------------- | --------------------------- | ---------------- | ------- |
-| [[Subclasses/Third Party/Ranger/Vermin Lord.md\|Vermin Lord]] | Grim Hollow: Player's Guide | Ghostfire Gaming | 5.5e    |
+| Name                                                                      | Source                                  | Publisher               | Edition |
+| ------------------------------------------------------------------------- | --------------------------------------- | ----------------------- | ------- |
+| [[Subclasses/Third Party/Ranger/Beastborne.md\|Beastborne]]               | Valda's Spire of Secrets                | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Third Party/Ranger/Big Game Hunter.md\|Big Game Hunter]]     | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games            | 5.5e    |
+| [[Subclasses/Third Party/Ranger/Bloodhound.md\|Bloodhound]]               | Frontiers of Eberron: Quickstone        | Visionary               | 5.5e    |
+| [[Subclasses/Third Party/Ranger/Field Researcher.md\|Field Researcher]]   | The Field Guide to Floral Dragons       | Hit Point Press         | 5.5e    |
+| [[Subclasses/Third Party/Ranger/Green Reaper.md\|Green Reaper]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Ranger/Grim Harbinger.md\|Grim Harbinger]]       | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Ranger/Primordial Archer.md\|Primordial Archer]] | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Ranger/Rocborne.md\|Rocborne]]                   | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Third Party/Ranger/Torturer Conclave.md\|Torturer Conclave]] | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
+| [[Subclasses/Third Party/Ranger/Vermin Lord.md\|Vermin Lord]]             | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
