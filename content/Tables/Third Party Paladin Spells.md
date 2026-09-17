@@ -3,6 +3,7 @@
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Spectral Slash.md\|Spectral Slash]]_                   | Conjuration   | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Bloodletter.md\|Bloodletter]]_                         | Necromancy    | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Chain of Conviction.md\|Chain of Conviction]]_         | Conjuration   | —       | The Crooked Moon                        | Avantris Entertainment |
+| Level 2     | _[[Spells/Third Party/Level 2 Spells/Preserve (HGtMH).md\|Preserve (HGtMH)]]_               | Biomancy      | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_                       | Evocation     | —       | The Crooked Moon                        | Avantris Entertainment |
 | Level 3     | _[[Spells/Third Party/Level 3 Spells/Spectral Fury.md\|Spectral Fury]]_                     | Conjuration   | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | Level 4     | _[[Spells/Third Party/Level 4 Spells/Consuming Pyre.md\|Consuming Pyre]]_                   | Evocation     | C       | The Crooked Moon                        | Avantris Entertainment |

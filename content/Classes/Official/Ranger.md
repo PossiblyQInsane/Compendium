@@ -318,4 +318,7 @@ A Ranger subclass is a specialization that grants you features at certain Ranger
 | [[Subclasses/Third Party/Ranger/Primordial Archer.md\|Primordial Archer]] | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
 | [[Subclasses/Third Party/Ranger/Rocborne.md\|Rocborne]]                   | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
 | [[Subclasses/Third Party/Ranger/Torturer Conclave.md\|Torturer Conclave]] | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
+| [[Subclasses/Third Party/Ranger/Trail Warden.md\|Trail Warden]]           | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
+| [[Subclasses/Third Party/Ranger/Trapper.md\|Trapper]]                     | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |
 | [[Subclasses/Third Party/Ranger/Vermin Lord.md\|Vermin Lord]]             | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Ranger/Winter Trapper.md\|Winter Trapper]]       | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |

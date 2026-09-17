@@ -1,0 +1,216 @@
+---
+publish: true
+created: 2026-09-11T01:14:42.020-04:00
+modified: 2026-09-16T12:21:28.577-04:00
+published: 2026-09-16T12:21:28.577-04:00
+Parent Class: "[[Ranger]]"
+Source: Heliana's Guide to Monster Hunting
+Official: false
+Publisher: Loot Tavern
+Edition: 5e
+---
+
+<div class="source">Heliana's Guide to Monster Hunting<br>Loot Tavern</div>
+
+> [!caption|right ws-med]
+> ![[Images/Trapper.png]]
+
+Through careful preparation, trappers can create both physical and magical traps to ensnare, explode, or enrapture those unlucky enough to find themselves in their vicinity. Trappers are found in all terrains where there are creatures to be hunted. With tact and guile as their companions, a trapper can lay low even the mightiest of prized beasts.
+
+### Level 3: Trapper’s Tools
+
+Having learnt how to create traps, you’ve gained an understanding of how to thwart the traps of others. You gain proficiency with [[thieves' tools]] and you add double your proficiency bonus to any ability check you make using those tools to disarm or manipulate a trap.
+
+### Level 3: Trapped Weapons
+
+When you finish a [[short rest|short]] or [[long rest]], you can augment one weapon or up to twenty pieces of ammunition that you are holding with a concealed, magical augmentation. You decide whether the augmentation deals acid, cold, fire, or lightning damage. The augmentation lasts until you finish a short or long rest.
+
+Once per turn, when you hit a target with a weapon attack using the augmented weapon or ammunition, you can activate the concealed augment (no action required). The target of your attack takes **1d8** extra damage of the associated type. At 11th level, you can augment one additional item or up to 20 additional pieces of ammunition when you finish a short or long rest, and the damage increases to **2d8**.
+
+### Level 3: Set Trap
+
+At 3rd level, and later at 5th, 9th, 13th, and 17th level, you learn how to make new traps, as detailed on the Trapper Traps table, below. Details of these traps can be found in the [[#Ranger Traps]] section.
+
+##### Trapper Traps
+
+| Ranger Level | Trap Options                                                                                       |
+| :----------: | -------------------------------------------------------------------------------------------------- |
+|     3rd      | bear trap<sup>p</sup>, _tanglevine_<sup>m</sup>, snare trap<sup>p</sup>, _solestriker_<sup>m</sup> |
+|     5th      | _immolation_<sup>m</sup>, _miasma_<sup>m</sup>, _soulbind_<sup>m</sup>, pit trap<sup>p</sup>       |
+|     9th      | _bewilderment_<sup>m</sup>, net trap<sup>p</sup>, _thunder charge_<sup>m</sup>                     |
+|     13th     | catapult trap<sup>p</sup>, _infection_<sup>m</sup>, _snapfrost_<sup>m</sup>                        |
+|     17th     | _banisher_<sup>m</sup>, _gravity well_<sup>m</sup>                                                 |
+
+<div style="margin-top: 0.1rem; font-style: italic; font-size: 70%">Superscript ‘p’ indicates physical; ‘m’ indicates magical</div>
+
+**_Physical Traps._** Creating a physical trap takes **1 hour** (which can be done during a [[short rest|short]] or [[long rest]]) and uses trap-making materials (valued in gp) specified in the trap’s description. After a physical trap activates, its materials are consumed and the trap can’t be used again. However, over the course of **10 minutes**, you can salvage half the trap-making materials used in the physical trap’s construction if it hasn’t activated yet.
+
+**_Magical Traps._** Immediately after you finish a [[long rest]], you can create magical traps—up to a number equal to your Wisdom modifier (minimum 1)—choosing from the options in the [[#Ranger Traps]] section. Some of these traps require you to expend spell slots in their creation. When you finish a long rest, all undeployed magical traps lose their effects.
+
+While a physical trap’s description specifies how it is activated, you have flexibility in activating your magical traps. When you deploy a magical trap, you can choose a size of creature and a distance of up to **30 feet**. When a creature of that size or larger comes within the specified distance of an armed trap, the trap activates. As another option, you can intentionally activate an armed magical trap within **150 feet** of you using a [[bonus action]] or a [[reaction]] (with no specific trigger).
+
+**_Deploying a Trap._** As an action, you can throw a trap you have created to an unoccupied space you can see on the ground within **30 feet** of you, where it arms itself at the start of your next turn. A trap deployed in this way is plainly visible to all creatures. Over the course of **1 minute**, you can conceal a trap. A concealed trap can be noticed by a creature that uses its action to make a **Wisdom ([[Perception]])** check against your **ranger save DC** and succeeds.
+
+**_Disarming a Trap._** Attempting to move an armed trap causes it to activate, unleashing its effects. A creature within reach of a trap can use its action to make a **Dexterity ([[thieves' tools]])** check (for physical traps) or a **spellcasting ability ([[Arcana]])** check (for magical traps) against your **ranger save DC**. On a success, the trap is disarmed. On a failure, the trap activates and the creature has [[disadvantage]] on any saving throw it makes to resist the trap’s effects. As an action, you can remotely disarm one of your traps that is within **150 feet** of you.
+
+**_Trap Effects._** Spell effects created by a trap don’t require [[concentration]]. When a trap calls for a saving throw, the DC equals your **ranger spell save DC**. You can have multiple traps deployed, but any attempt to deploy a magical trap whose centre is within **40 feet** of the centre of another magical trap fails. Creatures with [[truesight]] or that are under the influence of the _[[Detect Magic]]_ spell can notice a magical trap’s presence, even if it has been concealed.
+
+> [!recite|no-i txt-c] Trap-Making Materials
+>
+> 1 gp worth of trap-making materials weighs 1 lb.
+
+### Level 7: Tracker
+
+You are an expert at detecting and obscuring tracks. When you make an ability check to find or follow tracks, you can add your proficiency bonus to the result of the check, even if you aren’t proficient in the relevant skill. If you are already proficient in the relevant skill, your proficiency bonus is doubled for that check.
+
+### Level 7: Trapper’s Avoidance
+
+The merest hiss of escaping air, depression of a tile, or scent of ozone is all the warning you need to avoid traps’ effects. When you are subjected to a trap’s activation effect that allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail. In addition, if a trap makes an attack roll against you, that attack roll has [[disadvantage]].
+
+This feature doesn’t function against a trap’s ongoing effects. For example, you can mitigate the effect of a poisonous cloud as it is being released by holding your breath or covering your skin, but on subsequent rounds, the cloud’s saving throw would affect you as normal on a success or failure.
+
+### Level 11: Leave No Trace
+
+You’ve learnt to use magic to hide traps, allowing them to be concealed in the heat of battle. When you deploy a trap, you can expend a spell slot of 1st level or higher to disguise the trap with illusion magic, causing it to become invisible the moment it leaves your hands. Creatures don’t see where the trap lands and, if it’s a physical trap, have [[disadvantage]] on saving throws made to avoid the trap’s effects.
+
+In addition, you learn the _[[Invisibility]]_ spell, which counts as a ranger spell for you, but doesn’t count against the number of ranger spells you know. You can cast it once without using a spell slot, and you regain the ability to cast it in this way when you finish a [[short rest|short]] or [[long rest]].
+
+### Level 15: Booby Trap
+
+You trap your own body against unexpected demise. When you finish a [[long rest]], you can choose one of the following magical effects with which to augment your body until you finish a long rest. After triggering an effect that activates when you are reduced to 0 hit points, that effect can’t trigger again until you finish a long rest.
+
+**_Defibrillate._** Once per turn, when a creature hits you with a melee attack, you can trigger an electrical discharge (no action required). The creature is unable to take [[reaction|reactions]] until the start of its next turn unless it is immune to lightning damage, and you can immediately move up to **10 feet** without provoking [[opportunity attacks]]. After you move using this feature, you can’t do so again until the start of your next turn.
+
+When you are reduced to 0 hit points and not killed outright, you can instead drop to 1 hit point and immediately take an extra turn, interrupting the current turn. If you don’t regain any hit points before the end of your next turn, you drop to 0 hit points, fall [[unconscious]], and begin making [[death saving throws]] as normal.
+
+**_Dissolve._** Once per turn, when a creature within **5 feet** of you hits you with a melee attack, you can trigger a spurt of acid to coat its weapon or limb (no action required). If the melee attack was a spell attack or made with a natural weapon, the creature takes **1d6** acid damage. If the result of the attack roll meets your AC and is made with a ferrous, non-magical, non-natural weapon, the acid causes the metal to weaken and the weapon is destroyed.
+
+When you are reduced to 0 hit points, all your concealed acid charges gush outward. Each creature within **10 feet** of you must make a **Dexterity saving throw** against your **ranger spell save DC**. On a failed save, a creature takes **10d4** acid damage and an additional **5d4** acid damage at the start of each of its turns for the next **minute** until it uses an action to wipe itself clean. In addition, on a failure, if the creature rolled a 1 on the d20 for its saving throw and is wearing nonmagical, ferrous armour, the armour seizes. While wearing the armour, the creature’s speed is halved, its AC is reduced by 2, and it has [[disadvantage]] on Dexterity saving throws.
+
+**_Entomb._** Once per turn, when a creature within **5 feet** of you hits you with a melee attack, you can trigger a burst of cold that ripples along the attacker’s limb (no action required). The creature takes **1d4** cold damage and its speed is reduced by **15 feet** until the end of its next turn unless it is immune to cold damage.
+
+When you are reduced to 0 hit points, you become entombed in a block of clear ice that has AC 15, 100 hit points, **[[immunity]]** to cold damage, and **[[vulnerability]]** to fire damage. This icy block lasts for **1 minute** or until it is destroyed. While the ice persists, you have [[cover|total cover]] against all effects and you don’t make death saving throws. If you regain 1 or more hit points, the icy block melts at the start of your next turn.
+
+**_Self-Destruct._** Once per turn, when a creature within **5 feet** of you hits you with a melee attack, you can cause a small, shaped charge to detonate (no action required). You take **1** fire damage and the creature takes **1d8** fire damage.
+
+When you are reduced to 0 hit points, you erupt in an immense ball of fire and immediately fail one death saving throw. Each creature within **20 feet** of you must make a **Dexterity saving throw** against your **ranger spell save DC**. A creature takes **14d6** fire damage on a failed saving throw, or half as much damage on a successful one.
+
+### Ranger Traps
+
+The Set Trap feature lets you use a variety of physical and magical traps. Each trap requires you to be a certain ranger level before you can create it. The traps are presented here by level.
+
+Physical traps require trap-making materials (which can be purchased from most general goods stores), while magical traps require the expenditure of spell slots. When a trap calls for a saving throw, the DC equals your **ranger spell save DC**.
+
+#### Bear Trap
+
+_3rd-level ranger; physical; 4 gp of trap-making materials_
+
+You trap a **5-foot square** with a mechanical, toothy-jawed trap. When a Large or smaller creature enters the trapped area, the trap activates and the creature must succeed on a **Dexterity saving throw** or take **2d8** piercing damage, and its speed becomes **0 feet** unless it’s immune to being [[grappled]]. A creature can use its action to make a **Strength ([[Athletics]])** check against your **ranger save DC**, freeing the trapped creature on a success.
+
+#### Tanglevine
+
+_3rd-level ranger; magical; 1st-level spell slot_
+
+When activated, twisted, knotting roots burst through the ground, creating an effect identical to the _[[Entangle]]_ spell within a **20-foot-radius circle** centred on the trap for the next **minute**.
+
+#### Snare Trap
+
+_3rd-level ranger; physical; 2 gp of trap-making materials_
+
+The bear trap’s non-lethal cousin, the snare trap, tangles a creature’s feet, causing it to fall. You trap a **5-foot square** with ropes and vines. When a Large or smaller creature moves into the trapped area, the trap activates and the creature must succeed on a **Strength saving throw** or be knocked [[prone]], and its speed becomes **0 feet** unless it’s immune to being [[grappled]]. A creature can use its action to make a **Strength ([[Athletics]])** check against your **ranger save DC**, freeing the trapped creature on a success.
+
+#### Solestriker
+
+_3rd-level ranger; magical; 1st-level spell slot_
+
+When activated, hard spikes and thorns sprout in a **20-foot-radius circle** centred on the trap, creating an effect identical to the _[[Spike Growth]]_ spell for the next **minute**.
+
+#### Immolation
+
+_5th-level ranger; magical; 2nd-level spell slot_
+
+When activated, a **20-foot-radius sphere** of flame erupts, centred on the trap. Each creature in the area when the trap detonates must make a **Dexterity saving throw**, taking **6d6** fire damage on a failure, or half as much damage on a success.
+
+#### Miasma
+
+_5th-level ranger; magical; 2nd-level spell slot_
+
+When activated, a **20-foot-radius sphere** centred on the trap fills with gas for the next **minute** or until strong wind disperses it. The gas spreads around corners, lightly obscures the area, and penetrates through creatures’ skin, affecting them even if they hold their breath or don’t need to breathe. When a creature enters the area for the first time on its turn or starts its turn there, it must make a **Constitution saving throw**. On a failure, a creature takes **3d6** poison damage and becomes [[poisoned]] until the start of its next turn. On a success, a creature takes half as much damage and isn’t poisoned. While poisoned in this way, a creature has [[disadvantage]] on saving throws it makes to maintain its [[concentration]].
+
+#### Soulbind
+
+_5th-level ranger; magical; 2nd-level spell slot_
+
+When activated, there is a flare of brilliant octarine light, and each creature in a **20-foot-radius sphere** centred on the trap must succeed on a **Charisma saving throw** or become soulbound, as per the _[[Preserve (HGtMH)|Preserve]]_ spell. In addition, while a creature is soulbound in this way, it can’t benefit from being [[invisible]]. Creatures possessing _robust_ or more powerful _essence_ within their bodies (typically, those of CR 7 or higher) automatically succeed on this saving throw.
+
+You can expend a spell slot of 4th level or higher when you create this trap instead of a 2nd-level slot. When you do so, creatures with _robust_ or less powerful _essence_ (typically CR 11 or lower) must make the saving throw, while creatures with _potent_ or more powerful _essence_ automatically succeed.
+
+#### Pit Trap
+
+_5th-level ranger; physical; 2 gp of trap-making materials_
+
+Because of their nature, pit traps are deployed in the space in which they are created as soon as their construction is finished, and can’t be moved. After the trap activates, you can spend **1 minute** recovering it, allowing it to be used again.
+
+You dig a 7-foot-deep hole in dirt, or another diggable surface, in a **5-foot square**. You can choose to fill the pit with sharpened stakes, spikes, or any other sharp materials.
+
+When a Medium or smaller creature moves into the trapped area, it must make a **Dexterity saving throw**. On a failure, it falls into the pit, where it lands [[prone]], taking **4d8** piercing damage if the trap is filled with spikes. On a success, it avoids the trap, falling **prone** in the nearest unoccupied space to the trap. A creature that succeeds on the save by 5 or more doesn’t fall prone.
+
+#### Bewilderment
+
+_9th-level ranger; magical; 3rd-level spell slot_
+
+When activated, horrifying illusions abound and psychic energy twists the minds of creatures. Each creature in a **20-foot-radius sphere** centred on the trap must make a **Wisdom saving throw**. On a failure, a creature takes **3d10** psychic damage and becomes affected as per the _[[Confusion]]_ spell for the next **minute**. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+#### Net Trap
+
+_9th-level ranger; physical; 10 gp of trap-making materials;_
+
+With a large, concealed net of rope or vines, and an apparatus hidden in branches or a cave’s ceiling, you create a **20-foot square** trapped area. Choose a **5-foot square** within the trapped area to act as the trigger. When a Small or larger creature enters this square, the trap activates and each creature in the area must succeed on a **Dexterity saving throw** or be [[restrained]] and hoisted **20 feet** up into the air (or as high as the canopy/ceiling allows).
+
+A creature can use its action to make a Strength check against your **ranger save DC**, freeing itself or another creature within its reach on a success. Dealing **5** slashing damage to the net (**AC 10**) ends the effect and destroys the net.
+
+If there is a Huge or larger creature in the trapped area when it triggers, the trap breaks and has no effect.
+
+#### Thunder Charge
+
+_9th-level ranger; magical; 3rd-level spell slot_
+
+When activated, a **30-foot-radius sphere** centred on the trap erupts with deafening thunder. Each creature in the area must succeed on a **Constitution saving throw** or take **8d6** thunder damage and be [[deafened]] for the next **minute**. The noise can be heard **2,000 feet** away, or even further in echoey locations or underwater.
+
+#### Catapult Trap
+
+_13th-level ranger; physical; 15 gp of trap-making materials_
+
+Because of their nature, catapult traps are deployed in the space in which they are created as soon as their construction is finished, and can’t be moved.
+
+With bent trees, springs, or elastic rope, you create a **20-foot square** of tension. Choose a **5-foot square** within the trapped area to act as the trigger. When a Small or larger creature enters this square, the trap activates and each creature in the area must make a **Dexterity saving throw**. On a success, a creature can use its reaction to move up to its speed so that it is no longer in the area. If it’s still in the area, it is affected as if it failed its save. A creature that fails the saving throw is flung **60 feet** in a direction you decide when you deploy the trap, landing [[prone]] and taking **6d10** bludgeoning damage.
+
+If there is a Gargantuan creature in the trapped area when it triggers, the trap breaks and has no effect.
+
+#### Infection
+
+_13th-level ranger; magical; 4th-level spell slot_
+
+When you create this trap, choose one of the diseases from the _[[Contagion]]_ spell. When activated, pustulant boils grow and erupt on surfaces in a **20-foot-radius sphere** centred on the trap. Each creature in the area must make a **Constitution saving throw**. On a failure, a creature is affected as if hit by the attack in the _Contagion_ spell (using the disease you chose).
+
+#### Snapfrost
+
+_13th-level ranger; magical; 4th-level spell slot_
+
+When activated, the area within a **20-foot-radius sphere** centred on the trap suddenly drops to a debilitatingly low temperature for the next **minute**. When a creature enters the area for the first time on its turn or starts its turn there, it must make a **Constitution saving throw**. On a failure, a creature takes **6d6** cold damage and, until the start of its next turn, its speed is halved and it can’t take reactions. On a success, a creature takes half as much damage and isn’t otherwise affected.
+
+#### Banisher
+
+_17th-level ranger; magical; 5th-level spell slot_
+
+When activated, a **10-foot-radius sphere** centred on the trap flares into life, attempting to suck all creatures in it into a harmless demiplane. Each creature in the area when the trap activates must succeed on a **Charisma saving throw** or be transported to the demiplane for the next **minute**. At the end of this minute, the creature reappears in the space it left, or in the nearest unoccupied space if that space is occupied.
+
+#### Gravity Well
+
+_17th-level ranger; magical; 5th-level spell slot_
+
+When activated, gravity begins accumulating in a **30-foot-radius circle** centred on the trap. The trapped area becomes difficult terrain until the end of the ranger’s next turn. Each creature in the area when the trap activates must succeed on a **Dexterity saving throw** or be knocked [[prone]]. Furthermore, each creature in the area that is concentrating must make a **Constitution saving throw**. On a failed save, the creature’s [[concentration]] is broken.
+
+A creature that starts its turn in the area must succeed on a **Strength saving throw** or take **2d8** force damage and be pulled **15 feet** towards the trap’s centre.
+
+At the end of the ranger’s next turn, the gravity reaches a critical mass and each creature in the area must make a **Strength saving throw**. On a failure, a creature is knocked **prone**, pulled to the trap’s centre, and takes **6d8** force damage. On a success, a creature isn’t knocked prone or moved, and takes half as much force damage.
