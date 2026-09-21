@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-11T12:00:59.357-04:00
-modified: 2026-09-11T10:47:02.495-04:00
-published: 2026-09-11T10:47:02.495-04:00
+modified: 2026-09-21T12:36:10.252-04:00
+published: 2026-09-21T12:36:10.252-04:00
+Name: "[[Battle Master]]"
 Parent Class: "[[Fighter]]"
 Source: Player's Handbook 5.5e
 Official: true

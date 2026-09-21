@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-03T00:42:20.161-04:00
-modified: 2026-09-11T10:45:44.961-04:00
-published: 2026-09-11T10:45:44.961-04:00
+modified: 2026-09-21T12:35:54.652-04:00
+published: 2026-09-21T12:35:54.652-04:00
+Name: "[[Arcane Archer]]"
 Parent Class: "[[Fighter]]"
 Source: Arcana Unleashed
 Official: true

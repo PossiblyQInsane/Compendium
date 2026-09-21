@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-13T01:41:53.025-04:00
-modified: 2026-08-28T10:10:12.176-04:00
-published: 2026-08-28T10:10:12.176-04:00
+modified: 2026-09-21T12:38:41.965-04:00
+published: 2026-09-21T12:38:41.965-04:00
+Name: "[[Nightwatcher]]"
 Parent Class: "[[Fighter]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false

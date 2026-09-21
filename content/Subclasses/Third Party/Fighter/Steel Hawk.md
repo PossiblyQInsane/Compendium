@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-24T01:55:40.981-04:00
-modified: 2026-08-28T10:10:30.171-04:00
-published: 2026-08-28T10:10:30.171-04:00
+modified: 2026-09-21T12:45:03.855-04:00
+published: 2026-09-21T12:45:03.855-04:00
+Name: "[[Steel Hawk]]"
 Parent Class: "[[Fighter]]"
 Source: "The Griffon's Saddlebag: Book Two"
 Official: false

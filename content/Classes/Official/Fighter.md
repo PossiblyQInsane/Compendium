@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-11T11:24:50.805-04:00
-modified: 2026-09-11T00:38:27.171-04:00
-published: 2026-09-11T00:38:27.171-04:00
+modified: 2026-09-21T13:20:46.341-04:00
+published: 2026-09-21T13:20:46.341-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -169,18 +169,19 @@ A Fighter subclass is a specialization that grants you features at certain Fight
 
 ### Third Party Fighter Subclasses
 
-| Name                                                                   | Source                                    | Publisher               | Edition |
-| ---------------------------------------------------------------------- | ----------------------------------------- | ----------------------- | ------- |
-| [[Subclasses/Third Party/Fighter/Barrow Guard.md\|Barrow Guard]]       | The Crooked Moon                          | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Blade Breaker.md\|Blade Breaker]]     | Grim Hollow: The Raider's Guide to Valika | Ghostfire Gaming        | 5e      |
-| [[Subclasses/Third Party/Fighter/Blood Hound.md\|Blood Hound]]         | Steinhardt's Guide to the Eldritch Hunt   | MonkeyDM                | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Bonesmith.md\|Bonesmith]]             | Dr. Dhrolin's Dictionary of Dinosaurs     | Palaeo Games            | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Bulwark Warrior.md\|Bulwark Warrior]] | Grim Hollow: Player's Guide               | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Couatl Herald.md\|Couatl Herald]]     | The Griffon's Saddlebag: Book One         | The Griffon's Saddlebag | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Dungeoneer.md\|Dungeoneer]]           | Valda's Spire of Secrets                  | Mage Hand Press         | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Hero.md\|Hero]]                       | Cthulhu by Torchlight                     | Chaosium                | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Living Crucible.md\|Living Crucible]] | Grim Hollow: Player's Guide               | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Nightwatcher.md\|Nightwatcher]]       | Grim Hollow: Player's Guide               | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Scofflaw.md\|Scofflaw]]               | Humblewood Campaign Setting               | Hit Point Press         | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Steel Hawk.md\|Steel Hawk]]           | The Griffon's Saddlebag: Book Two         | The Griffon's Saddlebag | 5e      |
-| [[Subclasses/Third Party/Fighter/Viking.md\|Viking]]                   | Northlands Worldbook                      | Kobold Press            | 5.5e    |
+| Name                                                                             | Source                                    | Publisher               | Edition |
+| -------------------------------------------------------------------------------- | ----------------------------------------- | ----------------------- | ------- |
+| [[Subclasses/Third Party/Fighter/Barrow Guard.md\|Barrow Guard]]                 | The Crooked Moon                          | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Blade Breaker.md\|Blade Breaker]]               | Grim Hollow: The Raider's Guide to Valika | Ghostfire Gaming        | 5e      |
+| [[Subclasses/Third Party/Fighter/Blood Hound.md\|Blood Hound]]                   | Steinhardt's Guide to the Eldritch Hunt   | MonkeyDM                | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Bonesmith.md\|Bonesmith]]                       | Dr. Dhrolin's Dictionary of Dinosaurs     | Palaeo Games            | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Bulwark Warrior.md\|Bulwark Warrior]]           | Grim Hollow: Player's Guide               | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Couatl Herald.md\|Couatl Herald]]               | The Griffon's Saddlebag: Book One         | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Dungeoneer.md\|Dungeoneer]]                     | Valda's Spire of Secrets                  | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Hero.md\|Hero]]                                 | Cthulhu by Torchlight                     | Chaosium                | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Living Crucible.md\|Living Crucible]]           | Grim Hollow: Player's Guide               | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Nightwatcher.md\|Nightwatcher]]                 | Grim Hollow: Player's Guide               | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Scofflaw.md\|Scofflaw]]                         | Humblewood Campaign Setting               | Hit Point Press         | 5e      |
+| [[Subclasses/Third Party/Fighter/Spirit-Fused Fighter.md\|Spirit-Fused Fighter]] | Obojima: Tales from the Tall Grass        | 1985 Games              | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Steel Hawk.md\|Steel Hawk]]                     | The Griffon's Saddlebag: Book Two         | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Third Party/Fighter/Viking.md\|Viking]]                             | Northlands Worldbook                      | Kobold Press            | 5.5e    |

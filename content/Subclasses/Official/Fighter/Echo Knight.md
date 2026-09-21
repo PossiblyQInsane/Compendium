@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-24T01:54:46.886-04:00
-modified: 2026-08-28T09:54:12.371-04:00
-published: 2026-08-28T09:54:12.371-04:00
+modified: 2026-09-21T12:36:33.721-04:00
+published: 2026-09-21T12:36:33.721-04:00
+Name: "[[Echo Knight]]"
 Parent Class: "[[Fighter]]"
 Source: Explorer's Guide to Wildemount
 Official: true

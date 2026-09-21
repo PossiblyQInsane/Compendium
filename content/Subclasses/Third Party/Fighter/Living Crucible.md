@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-13T01:32:40.035-04:00
-modified: 2026-08-28T10:10:06.569-04:00
-published: 2026-08-28T10:10:06.569-04:00
+modified: 2026-09-21T12:38:34.365-04:00
+published: 2026-09-21T12:38:34.365-04:00
+Name: "[[Living Crucible]]"
 Parent Class: "[[Fighter]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false

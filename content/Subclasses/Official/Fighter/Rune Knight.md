@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-24T01:54:21.542-04:00
-modified: 2026-08-28T09:54:49.657-04:00
-published: 2026-08-28T09:54:49.657-04:00
+modified: 2026-09-21T12:36:59.183-04:00
+published: 2026-09-21T12:36:59.183-04:00
+Name: "[[Rune Knight]]"
 Parent Class: "[[Fighter]]"
 Source: Tasha's Cauldron of Everything
 Official: true

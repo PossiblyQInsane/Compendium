@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-24T01:55:40.981-04:00
-modified: 2026-08-28T10:09:02.830-04:00
-published: 2026-08-28T10:09:02.830-04:00
+modified: 2026-09-21T12:37:37.371-04:00
+published: 2026-09-21T12:37:37.371-04:00
+Name: "[[Blade Breaker]]"
 Parent Class: "[[Fighter]]"
 Source: "Grim Hollow: The Raider's Guide to Valika"
 Official: false

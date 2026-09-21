@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-24T01:52:37.544-04:00
-modified: 2026-08-28T10:09:40.610-04:00
-published: 2026-08-28T10:09:40.610-04:00
+modified: 2026-09-21T12:38:09.497-04:00
+published: 2026-09-21T12:38:09.497-04:00
+Name: "[[Couatl Herald]]"
 Parent Class: "[[Fighter]]"
 Source: "The Griffon's Saddlebag: Book One"
 Official: false

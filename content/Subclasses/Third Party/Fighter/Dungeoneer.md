@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-13T11:16:36.670-04:00
-modified: 2026-08-28T10:09:45.721-04:00
-published: 2026-08-28T10:09:45.721-04:00
+modified: 2026-09-21T12:38:17.197-04:00
+published: 2026-09-21T12:38:17.197-04:00
+Name: "[[Dungeoneer]]"
 Parent Class: "[[Fighter]]"
 Source: Valda's Spire of Secrets
 Official: false

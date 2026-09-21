@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-11T12:11:05.784-04:00
-modified: 2026-09-11T10:47:37.705-04:00
-published: 2026-09-11T10:47:37.705-04:00
+modified: 2026-09-21T12:36:25.790-04:00
+published: 2026-09-21T12:36:25.790-04:00
+Name: "[[Champion]]"
 Parent Class: "[[Fighter]]"
 Source: Player's Handbook 5.5e
 Official: true

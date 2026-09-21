@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-24T01:54:46.886-04:00
-modified: 2026-09-15T00:23:05.057-04:00
-published: 2026-09-15T00:23:05.057-04:00
+modified: 2026-09-21T12:37:07.023-04:00
+published: 2026-09-21T12:37:07.023-04:00
+Name: "[[Samurai]]"
 Parent Class: "[[Fighter]]"
 Source: Xanathar's Guide to Everything
 Official: true

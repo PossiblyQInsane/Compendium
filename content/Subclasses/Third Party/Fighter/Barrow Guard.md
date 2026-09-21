@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-12T23:43:18.981-04:00
-modified: 2026-08-28T10:08:53.719-04:00
-published: 2026-08-28T10:08:53.719-04:00
+modified: 2026-09-21T12:37:29.582-04:00
+published: 2026-09-21T12:37:29.582-04:00
+Name: "[[Barrow Guard]]"
 Parent Class: "[[Fighter]]"
 Source: The Crooked Moon
 Official: false
