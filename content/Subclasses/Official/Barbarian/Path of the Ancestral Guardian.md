@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-16T12:52:32.372-04:00
-modified: 2026-09-15T00:20:49.468-04:00
-published: 2026-09-15T00:20:49.468-04:00
+modified: 2026-09-21T03:44:08.685-04:00
+published: 2026-09-21T03:44:08.685-04:00
+Name: "[[Path of the Ancestral Guardian]]"
 Parent Class: "[[Barbarian]]"
 Source: Xanathar's Guide to Everything
 Official: true

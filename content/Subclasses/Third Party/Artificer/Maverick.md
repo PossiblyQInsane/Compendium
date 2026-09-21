@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-01T15:03:30.181-04:00
-modified: 2026-08-28T09:55:22.237-04:00
-published: 2026-08-28T09:55:22.237-04:00
+modified: 2026-09-21T03:42:21.716-04:00
+published: 2026-09-21T03:42:21.716-04:00
+Name: "[[Maverick]]"
 Parent Class: "[[Artificer]]"
 Source: Exploring Eberron
 Official: false

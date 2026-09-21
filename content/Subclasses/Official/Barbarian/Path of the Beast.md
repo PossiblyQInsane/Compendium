@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-16T13:13:53.682-04:00
-modified: 2026-09-11T10:02:02.346-04:00
-published: 2026-09-11T10:02:02.346-04:00
+modified: 2026-09-21T03:44:28.376-04:00
+published: 2026-09-21T03:44:28.376-04:00
+Name: "[[Path of the Beast]]"
 Parent Class: "[[Barbarian]]"
 Source: Tasha's Cauldron of Everything
 Official: true

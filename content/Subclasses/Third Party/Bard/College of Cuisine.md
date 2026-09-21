@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-23T16:31:50.612-04:00
-modified: 2026-08-28T09:59:00.863-04:00
-published: 2026-08-28T09:59:00.863-04:00
+modified: 2026-09-21T04:10:05.018-04:00
+published: 2026-09-21T04:10:05.018-04:00
+Name: "[[College of Cuisine]]"
 Parent Class: "[[Bard]]"
 Source: Heliana's Guide to Monster Hunting
 Official: false

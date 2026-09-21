@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-07-26T21:11:12.643-04:00
-modified: 2026-09-11T09:58:17.630-04:00
-published: 2026-09-11T09:58:17.630-04:00
+modified: 2026-09-21T03:41:08.838-04:00
+published: 2026-09-21T03:41:08.838-04:00
+Name: "[[Armorer]]"
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"
 Official: true

@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-03T16:05:01.541-04:00
-modified: 2026-09-03T00:14:10.640-04:00
-published: 2026-09-03T00:14:10.640-04:00
+modified: 2026-09-21T04:10:55.180-04:00
+published: 2026-09-21T04:10:55.180-04:00
+Name: "[[College of Masks (VSoS)|College of Masks]]"
 Parent Class: "[[Bard]]"
 Source: Valda's Spire of Secrets
 Official: false

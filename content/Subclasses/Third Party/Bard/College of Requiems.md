@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-03T15:23:43.803-04:00
-modified: 2026-08-28T10:00:11.761-04:00
-published: 2026-08-28T10:00:11.761-04:00
+modified: 2026-09-21T04:11:17.045-04:00
+published: 2026-09-21T04:11:17.045-04:00
+Name: "[[College of Requiems]]"
 Parent Class: "[[Bard]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false

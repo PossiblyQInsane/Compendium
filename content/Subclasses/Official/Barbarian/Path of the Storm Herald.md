@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-16T13:01:03.520-04:00
-modified: 2026-09-15T00:20:38.775-04:00
-published: 2026-09-15T00:20:38.775-04:00
+modified: 2026-09-21T03:44:54.991-04:00
+published: 2026-09-21T03:44:54.991-04:00
+Name: "[[Path of the Storm Herald]]"
 Parent Class: "[[Barbarian]]"
 Source: Xanathar's Guide to Everything
 Official: true

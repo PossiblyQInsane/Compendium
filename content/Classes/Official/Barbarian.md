@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T09:34:35.165-04:00
-modified: 2026-09-11T00:31:55.516-04:00
-published: 2026-09-11T00:31:55.516-04:00
+modified: 2026-09-21T03:49:03.136-04:00
+published: 2026-09-21T03:49:03.136-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -216,6 +216,7 @@ A Barbarian subclass is a specialization that grants you features at certain Bar
 
 | Name                                                                                               | Source                                    | Publisher               | Edition |
 | -------------------------------------------------------------------------------------------------- | ----------------------------------------- | ----------------------- | ------- |
+| [[Subclasses/Third Party/Barbarian/Belly Brewer.md\|Belly Brewer]]                                 | Obojima: Tales from the Tall Grass        | 1985 Games              | 5.5e    |
 | [[Subclasses/Third Party/Barbarian/Path of the Carrion Raven.md\|Path of the Carrion Raven]]       | Grim Hollow: The Raider's Guide to Valika | Ghostfire Gaming        | 5e      |
 | [[Subclasses/Third Party/Barbarian/Path of the Demonshard.md\|Path of the Demonshard]]             | Frontiers of Eberron: Quickstone          | Visionary               | 5.5e    |
 | [[Subclasses/Third Party/Barbarian/Path of the Experiment.md\|Path of the Experiment]]             | The Crooked Moon                          | Avantris Entertainment  | 5.5e    |

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T00:34:52.804-04:00
-modified: 2026-09-03T00:17:14.481-04:00
-published: 2026-09-03T00:17:14.481-04:00
+modified: 2026-09-21T03:43:20.797-04:00
+published: 2026-09-21T03:43:20.797-04:00
 Source: "Eberron: Forge of the Artificer"
 Official: true
 Edition: 5.5e

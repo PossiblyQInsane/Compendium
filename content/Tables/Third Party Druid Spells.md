@@ -10,7 +10,9 @@
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Consumption.md\|Consumption]]_                   | Evocation (Sangromancy)     | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Daydream.md\|Daydream]]_                         | Enchantment                 | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Veil of Dusk.md\|Veil of Dusk]]_                 | Abjuration                  | C       | Humblewood Campaign Setting        | Hit Point Press        |
-| Level 2     | _[[Spells/Third Party/Level 2 Spells/Preserve (HGtMH).md\|Preserve (HGtMH)]]_         | Biomancy                    | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Water Bullet.md\|Water Bullet]]_                 | Evocation                   | —       | Obojima: Tales from the Tall Grass | 1985 Games             |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Whelm Weapon.md\|Whelm Weapon]]_                 | Transmutation               | C       | Obojima: Tales from the Tall Grass | 1985 Games             |
+| Level 2     | _[[Spells/Third Party/Level 2 Spells/Preserve (HGtMH).md\|Preserve]]_                 | Biomancy                    | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Sense Lifeblood.md\|Sense Lifeblood]]_           | Divination (Sangromancy)    | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_                 | Evocation                   | —       | The Crooked Moon                   | Avantris Entertainment |
 | Level 3     | _[[Spells/Third Party/Level 3 Spells/Blood Bond.md\|Blood Bond]]_                     | Enchantment (Sangromancy)   | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |

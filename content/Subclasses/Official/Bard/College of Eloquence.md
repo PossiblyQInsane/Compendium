@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-16T21:12:35.434-04:00
-modified: 2026-08-28T09:46:33.498-04:00
-published: 2026-08-28T09:46:33.498-04:00
+modified: 2026-09-21T04:25:21.199-04:00
+published: 2026-09-21T04:25:21.199-04:00
+Name: "[[College of Eloquence]]"
 Parent Class: "[[Bard]]"
 Source: Mythic Odysseys of Theros
 Official: true

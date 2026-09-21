@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-16T13:36:47.578-04:00
-modified: 2026-09-11T10:05:04.538-04:00
-published: 2026-09-11T10:05:04.538-04:00
+modified: 2026-09-21T03:45:34.230-04:00
+published: 2026-09-21T03:45:34.230-04:00
+Name: "[[Path of Wild Magic]]"
 Parent Class: "[[Barbarian]]"
 Source: Tasha's Cauldron of Everything
 Official: true

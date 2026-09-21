@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-03T12:47:15.651-04:00
-modified: 2026-09-11T10:10:02.058-04:00
-published: 2026-09-11T10:10:02.058-04:00
+modified: 2026-09-21T04:25:59.763-04:00
+published: 2026-09-21T04:25:59.763-04:00
+Name: "[[College of the Moon]]"
 Parent Class: "[[Bard]]"
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true

@@ -4,8 +4,10 @@
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Blood Rush.md\|Blood Rush]]_                     | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Chameleon Skin.md\|Chameleon Skin]]_             | Biomancy                    | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Spectral Slash.md\|Spectral Slash]]_             | Conjuration                 | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Water Bullet.md\|Water Bullet]]_                 | Evocation                   | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Whelm Weapon.md\|Whelm Weapon]]_                 | Transmutation               | C       | Obojima: Tales from the Tall Grass      | 1985 Games             |
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Bloodletter.md\|Bloodletter]]_                   | Necromancy                  | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
-| Level 2     | _[[Spells/Third Party/Level 2 Spells/Preserve (HGtMH).md\|Preserve (HGtMH)]]_         | Biomancy                    | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| Level 2     | _[[Spells/Third Party/Level 2 Spells/Preserve (HGtMH).md\|Preserve]]_                 | Biomancy                    | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Sense Lifeblood.md\|Sense Lifeblood]]_           | Divination (Sangromancy)    | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_                 | Evocation                   | —       | The Crooked Moon                        | Avantris Entertainment |
 | Level 3     | _[[Spells/Third Party/Level 3 Spells/Freedom of the Waves.md\|Freedom of the Waves]]_ | Conjuration                 | —       | Tal'Dorei Campaign Setting Reborn       | Darrington Press       |

@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-03T15:59:06.943-04:00
-modified: 2026-08-28T09:58:50.017-04:00
-published: 2026-08-28T09:58:50.017-04:00
+modified: 2026-09-21T04:09:56.441-04:00
+published: 2026-09-21T04:09:56.441-04:00
+Name: "[[College of Choreography]]"
 Parent Class: "[[Bard]]"
 Source: "The Griffon's Saddlebag: Book One"
 Official: false

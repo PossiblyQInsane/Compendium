@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-16T14:37:57.209-04:00
-modified: 2026-08-28T09:57:14.502-04:00
-published: 2026-08-28T09:57:14.502-04:00
+modified: 2026-09-21T03:46:51.438-04:00
+published: 2026-09-21T03:46:51.438-04:00
+Name: "[[Path of the Infernal]]"
 Parent Class: "[[Barbarian]]"
 Source: "The Griffon's Saddlebag: Book Two"
 Official: false

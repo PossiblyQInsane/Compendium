@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-02T11:11:56.000-04:00
-modified: 2026-09-11T10:00:56.826-04:00
-published: 2026-09-11T10:00:56.826-04:00
+modified: 2026-09-21T03:44:38.999-04:00
+published: 2026-09-21T03:44:38.999-04:00
+Name: "[[Path of the Berserker]]"
 Parent Class: "[[Barbarian]]"
 Source: Player's Handbook 5.5e
 Official: true

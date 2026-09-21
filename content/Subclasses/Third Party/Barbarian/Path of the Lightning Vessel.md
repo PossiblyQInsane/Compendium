@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-02T14:11:07.456-04:00
-modified: 2026-08-28T09:57:32.039-04:00
-published: 2026-08-28T09:57:32.039-04:00
+modified: 2026-09-21T03:47:08.890-04:00
+published: 2026-09-21T03:47:08.890-04:00
+Name: "[[Path of the Lightning Vessel]]"
 Parent Class: "[[Barbarian]]"
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false

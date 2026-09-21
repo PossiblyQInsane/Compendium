@@ -4,6 +4,7 @@
 | Cantrip     | _[[Spells/Third Party/Cantrips/Finger Guns.md\|Finger Guns]]_                   | Evocation                   | —       | Valda's Spire of Secrets                | Mage Hand Press        |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Chameleon Skin.md\|Chameleon Skin]]_       | Biomancy                    | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Daydream.md\|Daydream]]_                   | Enchantment                 | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Whelm Weapon.md\|Whelm Weapon]]_           | Transmutation               | C       | Obojima: Tales from the Tall Grass      | 1985 Games             |
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Hangover.md\|Hangover]]_                   | Enchantment                 | —       | Valda's Spire of Secrets                | Mage Hand Press        |
 | Level 3     | _[[Spells/Third Party/Level 3 Spells/Sanguine Poppet.md\|Sanguine Poppet]]_     | Transmutation (Sangromancy) | C, M    | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 3     | _[[Spells/Third Party/Level 3 Spells/Suffocate.md\|Suffocate]]_                 | Conjuration                 | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |

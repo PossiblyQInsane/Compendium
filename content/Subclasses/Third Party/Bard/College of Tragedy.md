@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-16T22:24:06.015-04:00
-modified: 2026-08-28T10:00:50.708-04:00
-published: 2026-08-28T10:00:50.708-04:00
+modified: 2026-09-21T04:24:29.015-04:00
+published: 2026-09-21T04:24:29.015-04:00
+Name: "[[College of Tragedy]]"
 Parent Class: "[[Bard]]"
 Source: Tal'Dorei Campaign Setting Reborn
 Official: false

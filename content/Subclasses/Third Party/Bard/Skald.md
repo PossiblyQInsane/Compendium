@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-03T15:45:18.547-04:00
-modified: 2026-09-03T00:16:42.130-04:00
-published: 2026-09-03T00:16:42.130-04:00
+modified: 2026-09-21T04:24:53.781-04:00
+published: 2026-09-21T04:24:53.781-04:00
+Name: "[[Skald]]"
 Parent Class: "[[Bard]]"
 Source: Northlands Worldbook
 Official: false

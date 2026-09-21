@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-16T20:21:27.348-04:00
-modified: 2026-09-15T00:22:11.884-04:00
-published: 2026-09-15T00:22:11.884-04:00
+modified: 2026-09-21T04:25:52.114-04:00
+published: 2026-09-21T04:25:52.114-04:00
+Name: "[[College of Swords]]"
 Parent Class: "[[Bard]]"
 Source: Xanathar's Guide to Everything
 Official: true

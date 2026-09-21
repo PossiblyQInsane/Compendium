@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-03T12:42:49.666-04:00
-modified: 2026-09-11T10:10:48.626-04:00
-published: 2026-09-11T10:10:48.626-04:00
+modified: 2026-09-21T04:26:07.028-04:00
+published: 2026-09-21T04:26:07.028-04:00
+Name: "[[College of Valor]]"
 Parent Class: "[[Bard]]"
 Source: Player's Handbook 5.5e
 Official: true

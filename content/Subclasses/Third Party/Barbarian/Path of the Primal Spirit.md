@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-02T12:55:45.061-04:00
-modified: 2026-09-05T18:14:11.950-04:00
-published: 2026-09-05T18:14:11.950-04:00
+modified: 2026-09-21T03:47:25.707-04:00
+published: 2026-09-21T03:47:25.707-04:00
+Name: "[[Path of the Primal Spirit]]"
 Parent Class: "[[Barbarian]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false

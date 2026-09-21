@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-03T12:57:33.135-04:00
-modified: 2026-09-11T10:09:15.397-04:00
-published: 2026-09-11T10:09:15.397-04:00
+modified: 2026-09-21T04:25:44.193-04:00
+published: 2026-09-21T04:25:44.193-04:00
+Name: "[[College of Spirits]]"
 Parent Class: "[[Bard]]"
 Source: "Ravenloft: The Horrors Within"
 Official: true

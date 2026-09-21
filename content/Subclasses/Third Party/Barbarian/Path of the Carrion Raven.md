@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-16T13:58:36.320-04:00
-modified: 2026-08-28T09:56:29.740-04:00
-published: 2026-08-28T09:56:29.740-04:00
+modified: 2026-09-21T03:46:07.338-04:00
+published: 2026-09-21T03:46:07.338-04:00
+Name: "[[Path of the Carrion Raven]]"
 Parent Class: "[[Barbarian]]"
 Source: "Grim Hollow: The Raider's Guide to Valika"
 Official: false

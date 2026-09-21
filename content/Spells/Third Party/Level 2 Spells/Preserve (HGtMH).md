@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-09-16T12:21:38.406-04:00
-modified: 2026-09-16T12:28:07.742-04:00
-published: 2026-09-16T12:28:07.742-04:00
-Name: "[[Preserve (HGtMH)]]"
+modified: 2026-09-21T03:51:54.234-04:00
+published: 2026-09-21T03:51:54.234-04:00
+Name: "[[Preserve (HGtMH)|Preserve]]"
 Spell Level: Level 2
 School: Biomancy
 Classes: Cleric, Druid, Paladin, Ranger, Wizard

@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-16T14:48:46.441-04:00
-modified: 2026-08-28T09:57:25.052-04:00
-published: 2026-08-28T09:57:25.052-04:00
+modified: 2026-09-21T03:47:00.809-04:00
+published: 2026-09-21T03:47:00.809-04:00
+Name: "[[Path of the Juggernaut]]"
 Parent Class: "[[Barbarian]]"
 Source: Tal'Dorei Campaign Setting Reborn
 Official: false

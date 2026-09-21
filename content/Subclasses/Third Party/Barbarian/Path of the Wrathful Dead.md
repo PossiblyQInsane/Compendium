@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-02T13:46:02.892-04:00
-modified: 2026-08-28T09:58:26.166-04:00
-published: 2026-08-28T09:58:26.166-04:00
+modified: 2026-09-21T03:48:13.480-04:00
+published: 2026-09-21T03:48:13.480-04:00
+Name: "[[Path of the Wrathful Dead]]"
 Parent Class: "[[Barbarian]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false

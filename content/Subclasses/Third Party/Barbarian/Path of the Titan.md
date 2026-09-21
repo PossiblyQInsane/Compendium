@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-02T14:39:13.344-04:00
-modified: 2026-08-28T09:58:19.471-04:00
-published: 2026-08-28T09:58:19.471-04:00
+modified: 2026-09-21T03:48:05.456-04:00
+published: 2026-09-21T03:48:05.456-04:00
+Name: "[[Path of the Titan]]"
 Parent Class: "[[Barbarian]]"
 Source: Northlands Worldbook
 Official: false

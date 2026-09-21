@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-03T12:19:55.753-04:00
-modified: 2026-09-11T10:07:32.407-04:00
-published: 2026-09-11T10:07:32.407-04:00
+modified: 2026-09-21T04:25:29.159-04:00
+published: 2026-09-21T04:25:29.159-04:00
+Name: "[[College of Glamour]]"
 Parent Class: "[[Bard]]"
 Source: Player's Handbook 5.5e
 Official: true
