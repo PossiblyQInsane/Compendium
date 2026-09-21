@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-04T09:56:50.974-04:00
-modified: 2026-09-11T10:21:34.167-04:00
-published: 2026-09-11T10:21:34.167-04:00
+modified: 2026-09-21T10:31:55.474-04:00
+published: 2026-09-21T10:31:55.474-04:00
+Name: "[[Trickery Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-17T22:56:41.610-04:00
-modified: 2026-08-28T09:49:25.654-04:00
-published: 2026-08-28T09:49:25.654-04:00
+modified: 2026-09-21T10:31:25.193-04:00
+published: 2026-09-21T10:31:25.193-04:00
+Name: "[[Order Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Guildmasters' Guide to Ravnica
 Official: true

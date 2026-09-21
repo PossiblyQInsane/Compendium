@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-04T10:25:17.662-04:00
-modified: 2026-09-11T10:20:37.313-04:00
-published: 2026-09-11T10:20:37.313-04:00
+modified: 2026-09-21T10:30:37.290-04:00
+published: 2026-09-21T10:30:37.290-04:00
+Name: "[[Grave Domain]]"
 Parent Class: "[[Cleric]]"
 Source: "Ravenloft: The Horrors Within"
 Official: true

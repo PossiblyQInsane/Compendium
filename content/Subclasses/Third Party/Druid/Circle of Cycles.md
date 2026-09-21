@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-09T10:27:29.080-04:00
-modified: 2026-08-28T10:04:42.703-04:00
-published: 2026-08-28T10:04:42.703-04:00
+modified: 2026-09-21T11:03:26.095-04:00
+published: 2026-09-21T11:03:26.095-04:00
+Name: "[[Circle of Cycles]]"
 Parent Class: "[[Druid]]"
 Source: Dr. Dhrolin's Dictionary of Dinosaurs
 Official: false

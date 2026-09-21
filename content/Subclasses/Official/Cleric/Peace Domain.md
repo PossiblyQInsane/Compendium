@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-17T23:11:24.309-04:00
-modified: 2026-08-28T09:49:35.092-04:00
-published: 2026-08-28T09:49:35.092-04:00
+modified: 2026-09-21T10:31:34.651-04:00
+published: 2026-09-21T10:31:34.651-04:00
+Name: "[[Peace Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Tasha's Cauldron of Everything
 Official: true

@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-04T09:30:35.392-04:00
-modified: 2026-09-11T10:18:58.003-04:00
-published: 2026-09-11T10:18:58.003-04:00
+modified: 2026-09-21T10:30:55.092-04:00
+published: 2026-09-21T10:30:55.092-04:00
+Name: "[[Life Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Player's Handbook 5.5e
 Official: true

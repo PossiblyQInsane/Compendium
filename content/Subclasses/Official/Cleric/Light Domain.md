@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-04T09:37:41.899-04:00
-modified: 2026-09-11T10:19:40.653-04:00
-published: 2026-09-11T10:19:40.653-04:00
+modified: 2026-09-21T10:31:05.482-04:00
+published: 2026-09-21T10:31:05.482-04:00
+Name: "[[Light Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Player's Handbook 5.5e
 Official: true

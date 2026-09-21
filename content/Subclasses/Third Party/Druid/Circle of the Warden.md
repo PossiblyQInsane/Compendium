@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-04T09:52:05.161-04:00
-modified: 2026-09-04T10:01:52.092-04:00
-published: 2026-09-04T10:01:52.092-04:00
+modified: 2026-09-21T12:28:23.618-04:00
+published: 2026-09-21T12:28:23.618-04:00
+Name: "[[Circle of the Warden]]"
 Parent Class: "[[Druid]]"
 Source: Humblewood Tales
 Official: false

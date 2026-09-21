@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-10T15:20:51.891-04:00
-modified: 2026-08-28T10:07:43.144-04:00
-published: 2026-08-28T10:07:43.144-04:00
+modified: 2026-09-21T11:08:18.905-04:00
+published: 2026-09-21T11:08:18.905-04:00
+Name: "[[Circle of the City]]"
 Parent Class: "[[Druid]]"
 Source: Valda's Spire of Secrets
 Official: false

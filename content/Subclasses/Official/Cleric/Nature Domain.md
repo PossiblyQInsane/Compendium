@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-17T21:46:08.183-04:00
-modified: 2026-08-28T09:49:06.072-04:00
-published: 2026-08-28T09:49:06.072-04:00
+modified: 2026-09-21T10:31:16.733-04:00
+published: 2026-09-21T10:31:16.733-04:00
+Name: "[[Nature Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Player's Handbook 5e
 Official: true

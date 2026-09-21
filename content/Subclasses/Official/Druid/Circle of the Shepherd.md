@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-23T23:19:46.722-04:00
-modified: 2026-08-28T09:53:06.582-04:00
-published: 2026-08-28T09:53:06.582-04:00
+modified: 2026-09-21T11:02:20.594-04:00
+published: 2026-09-21T11:02:20.594-04:00
+Name: "[[Circle of the Shepherd]]"
 Parent Class: "[[Druid]]"
 Source: Xanathar's Guide to Everything
 Official: true

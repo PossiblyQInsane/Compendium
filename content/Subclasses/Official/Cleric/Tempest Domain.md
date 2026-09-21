@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-17T22:02:25.906-04:00
-modified: 2026-08-28T09:49:44.833-04:00
-published: 2026-08-28T09:49:44.833-04:00
+modified: 2026-09-21T10:31:44.444-04:00
+published: 2026-09-21T10:31:44.444-04:00
+Name: "[[Tempest Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Player's Handbook 5e
 Official: true

@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-05T01:12:24.746-04:00
-modified: 2026-09-11T11:15:08.428-04:00
-published: 2026-09-11T11:15:08.428-04:00
+modified: 2026-09-21T10:32:38.243-04:00
+published: 2026-09-21T10:32:38.243-04:00
+Name: "[[Apocalypse Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Cthulhu by Torchlight
 Official: false

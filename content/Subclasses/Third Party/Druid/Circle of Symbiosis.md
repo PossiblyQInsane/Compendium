@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-10T13:17:36.607-04:00
-modified: 2026-08-28T10:07:27.195-04:00
-published: 2026-08-28T10:07:27.195-04:00
+modified: 2026-09-21T11:07:54.410-04:00
+published: 2026-09-21T11:07:54.410-04:00
+Name: "[[Circle of Symbiosis]]"
 Parent Class: "[[Druid]]"
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false

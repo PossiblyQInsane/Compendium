@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-10T15:00:05.446-04:00
-modified: 2026-08-28T10:07:48.669-04:00
-published: 2026-08-28T10:07:48.669-04:00
+modified: 2026-09-21T11:08:27.463-04:00
+published: 2026-09-21T11:08:27.463-04:00
+Name: "[[Circle of the Forged]]"
 Parent Class: "[[Druid]]"
 Source: Exploring Eberron
 Official: false

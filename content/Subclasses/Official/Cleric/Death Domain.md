@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-17T22:18:09.109-04:00
-modified: 2026-08-28T09:48:10.864-04:00
-published: 2026-08-28T09:48:10.864-04:00
+modified: 2026-09-21T10:30:18.317-04:00
+published: 2026-09-21T10:30:18.317-04:00
+Name: "[[Death Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Dungeon Master's Guide 5e
 Official: true

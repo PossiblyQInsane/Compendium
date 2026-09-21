@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-23T23:20:29.252-04:00
-modified: 2026-09-05T17:39:22.420-04:00
-published: 2026-09-05T17:39:22.420-04:00
+modified: 2026-09-21T11:08:11.324-04:00
+published: 2026-09-21T11:08:11.324-04:00
+Name: "[[Circle of the Blighted]]"
 Parent Class: "[[Druid]]"
 Source: Tal'Dorei Campaign Setting Reborn
 Official: false

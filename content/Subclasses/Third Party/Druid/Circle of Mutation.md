@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-09T10:13:46.048-04:00
-modified: 2026-08-28T10:07:20.974-04:00
-published: 2026-08-28T10:07:20.974-04:00
+modified: 2026-09-21T11:07:45.220-04:00
+published: 2026-09-21T11:07:45.220-04:00
+Name: "[[Circle of Mutation]]"
 Parent Class: "[[Druid]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false

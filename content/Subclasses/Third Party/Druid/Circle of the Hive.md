@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-23T23:20:29.252-04:00
-modified: 2026-08-28T10:07:58.072-04:00
-published: 2026-08-28T10:07:58.072-04:00
+modified: 2026-09-21T11:08:34.862-04:00
+published: 2026-09-21T11:08:34.862-04:00
+Name: "[[Circle of the Hive]]"
 Parent Class: "[[Druid]]"
 Source: Heliana's Guide to Monster Hunting
 Official: false

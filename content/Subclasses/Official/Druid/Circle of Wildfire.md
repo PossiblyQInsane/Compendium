@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-23T23:19:46.722-04:00
-modified: 2026-09-05T17:54:17.033-04:00
-published: 2026-09-05T17:54:17.033-04:00
+modified: 2026-09-21T11:02:37.784-04:00
+published: 2026-09-21T11:02:37.784-04:00
+Name: "[[Circle of Wildfire]]"
 Parent Class: "[[Druid]]"
 Source: Tasha's Cauldron of Everything
 Official: true

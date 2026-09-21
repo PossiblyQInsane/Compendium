@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-17T22:34:08.211-04:00
-modified: 2026-08-28T09:48:25.041-04:00
-published: 2026-08-28T09:48:25.041-04:00
+modified: 2026-09-21T10:30:27.308-04:00
+published: 2026-09-21T10:30:27.308-04:00
+Name: "[[Forge Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Xanathar's Guide to Everything
 Official: true

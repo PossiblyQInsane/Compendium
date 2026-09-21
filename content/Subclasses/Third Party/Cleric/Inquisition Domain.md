@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-04T10:48:25.640-04:00
-modified: 2026-08-28T10:03:11.213-04:00
-published: 2026-08-28T10:03:11.213-04:00
+modified: 2026-09-21T10:46:10.633-04:00
+published: 2026-09-21T10:46:10.633-04:00
+Name: "[[Inquisition Domain]]"
 Parent Class: "[[Cleric]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false

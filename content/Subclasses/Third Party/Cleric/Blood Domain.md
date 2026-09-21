@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-17T23:45:55.085-04:00
-modified: 2026-08-28T10:01:51.167-04:00
-published: 2026-08-28T10:01:51.167-04:00
+modified: 2026-09-21T10:32:55.226-04:00
+published: 2026-09-21T10:32:55.226-04:00
+Name: "[[Blood Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Tal'Dorei Campaign Setting Reborn
 Official: false

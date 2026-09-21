@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-08-08T01:25:33.352-04:00
-modified: 2026-09-11T10:37:46.412-04:00
-published: 2026-09-11T10:37:46.412-04:00
+modified: 2026-09-21T11:02:28.927-04:00
+published: 2026-09-21T11:02:28.927-04:00
+Name: "[[Circle of the Stars]]"
 Parent Class: "[[Druid]]"
 Source: Player's Handbook 5.5e
 Official: true

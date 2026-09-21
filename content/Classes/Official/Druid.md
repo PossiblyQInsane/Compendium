@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T10:07:32.423-04:00
-modified: 2026-09-11T00:36:25.439-04:00
-published: 2026-09-11T00:36:25.439-04:00
+modified: 2026-09-21T12:30:13.373-04:00
+published: 2026-09-21T12:30:13.373-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -820,7 +820,8 @@ A Druid subclass is a specialization that grants you features at certain Druid l
 | [[Subclasses/Third Party/Druid/Circle of the Forged.md\|Circle of the Forged]]     | Exploring Eberron                       | Visionary               | 5.5e    |
 | [[Subclasses/Third Party/Druid/Circle of the Hive.md\|Circle of the Hive]]         | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |
 | [[Subclasses/Third Party/Druid/Circle of the Old Ways.md\|Circle of the Old Ways]] | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Druid/Circle of the Petal.md\|Circle of the Petal]]       | Obojima: Tales from the Tall Grass      | 1985 Games              | 5.5e    |
 | [[Subclasses/Third Party/Druid/Circle of the Symbiote.md\|Circle of the Symbiote]] | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
 | [[Subclasses/Third Party/Druid/Circle of the Warden.md\|Circle of the Warden]]     | Humblewood Tales                        | Hit Point Press         | 5e      |
 | [[Subclasses/Third Party/Druid/Circle of Wicker.md\|Circle of Wicker]]             | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Druid/The Unbroken Circle.md\|The Unbroken Circle]]       | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Third Party/Druid/Unbroken Circle.md\|The Unbroken Circle]]           | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |
