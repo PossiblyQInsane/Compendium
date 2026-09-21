@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:18:02.055-04:00
-modified: 2026-09-15T11:25:13.913-04:00
-published: 2026-09-15T11:25:13.913-04:00
+modified: 2026-09-21T17:16:15.474-04:00
+published: 2026-09-21T17:16:15.474-04:00
+Name: "[[Rocborne]]"
 Parent Class: "[[Ranger]]"
 Source: "The Griffon's Saddlebag: Book Two"
 Official: false

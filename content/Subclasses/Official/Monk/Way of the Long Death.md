@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:05:00.573-04:00
-modified: 2026-09-12T23:18:10.574-04:00
-published: 2026-09-12T23:18:10.574-04:00
+modified: 2026-09-21T14:14:03.853-04:00
+published: 2026-09-21T14:14:03.853-04:00
+Name: "[[Way of the Long Death]]"
 Parent Class: "[[Monk]]"
 Source: Sword Coast Adventurer's Guide
 Official: true

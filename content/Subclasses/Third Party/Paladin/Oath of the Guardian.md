@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:09:05.617-04:00
-modified: 2026-09-14T00:16:23.101-04:00
-published: 2026-09-14T00:16:23.101-04:00
+modified: 2026-09-21T14:19:45.469-04:00
+published: 2026-09-21T14:19:45.469-04:00
+Name: "[[Oath of the Guardian]]"
 Parent Class: "[[Paladin]]"
 Source: Cthulhu by Torchlight
 Official: false

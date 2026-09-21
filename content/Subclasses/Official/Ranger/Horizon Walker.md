@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:17:10.844-04:00
-modified: 2026-09-15T00:07:21.800-04:00
-published: 2026-09-15T00:07:21.800-04:00
+modified: 2026-09-21T16:53:05.399-04:00
+published: 2026-09-21T16:53:05.399-04:00
+Name: "[[Horizon Walker]]"
 Parent Class: "[[Ranger]]"
 Source: Xanathar's Guide to Everything
 Official: true

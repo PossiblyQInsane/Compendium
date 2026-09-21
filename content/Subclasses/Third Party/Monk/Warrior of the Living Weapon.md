@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:02:58.123-04:00
-modified: 2026-09-13T01:20:10.796-04:00
-published: 2026-09-13T01:20:10.796-04:00
+modified: 2026-09-21T14:15:07.731-04:00
+published: 2026-09-21T14:15:07.731-04:00
+Name: "[[Warrior of the Living Weapon]]"
 Parent Class: "[[Monk]]"
 Source: Exploring Eberron
 Official: false

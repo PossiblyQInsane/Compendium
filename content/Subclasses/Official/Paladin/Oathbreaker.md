@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:11:14.292-04:00
-modified: 2026-09-13T15:12:24.254-04:00
-published: 2026-09-13T15:12:24.254-04:00
+modified: 2026-09-21T14:18:42.870-04:00
+published: 2026-09-21T14:18:42.870-04:00
+Name: "[[Oathbreaker]]"
 Parent Class: "[[Paladin]]"
 Source: Dungeon Master's Guide 5e
 Official: true

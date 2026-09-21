@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T19:50:53.533-04:00
-modified: 2026-08-31T12:06:31.318-04:00
-published: 2026-08-31T12:06:31.318-04:00
+modified: 2026-09-21T16:32:34.870-04:00
+published: 2026-09-21T16:32:34.870-04:00
 Name: "[[Healing Word]]"
 Spell Level: Level 1
 School: Abjuration
 Classes: Bard, Cleric, Druid
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

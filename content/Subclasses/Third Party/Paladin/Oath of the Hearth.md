@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:09:05.617-04:00
-modified: 2026-09-14T00:40:53.889-04:00
-published: 2026-09-14T00:40:53.889-04:00
+modified: 2026-09-21T14:20:01.001-04:00
+published: 2026-09-21T14:20:01.001-04:00
+Name: "[[Oath of the Hearth]]"
 Parent Class: "[[Paladin]]"
 Source: "The Griffon's Saddlebag: Book One"
 Official: false

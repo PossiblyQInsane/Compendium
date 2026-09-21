@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T20:40:22.822-04:00
-modified: 2026-08-31T12:08:57.064-04:00
-published: 2026-08-31T12:08:57.064-04:00
+modified: 2026-09-21T16:34:54.151-04:00
+published: 2026-09-21T16:34:54.151-04:00
 Name: "[[Silent Image]]"
 Spell Level: Level 1
 School: Illusion
 Classes: Bard, Sorcerer, Wizard
+Third Party Classes: Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

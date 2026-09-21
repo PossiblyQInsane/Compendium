@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T00:04:52.598-04:00
-modified: 2026-08-31T15:11:14.215-04:00
-published: 2026-08-31T15:11:14.215-04:00
+modified: 2026-09-21T16:42:49.444-04:00
+published: 2026-09-21T16:42:49.444-04:00
 Name: "[[Tongues]]"
 Spell Level: Level 3
 School: Divination
 Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

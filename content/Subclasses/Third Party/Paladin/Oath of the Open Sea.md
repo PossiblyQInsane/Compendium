@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:12:27.739-04:00
-modified: 2026-09-14T01:04:48.702-04:00
-published: 2026-09-14T01:04:48.702-04:00
+modified: 2026-09-21T14:20:10.377-04:00
+published: 2026-09-21T14:20:10.377-04:00
+Name: "[[Oath of the Open Sea]]"
 Parent Class: "[[Paladin]]"
 Source: Tal'Dorei Campaign Setting Reborn
 Official: false

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T22:55:51.488-04:00
-modified: 2026-08-31T15:06:10.341-04:00
-published: 2026-08-31T15:06:10.341-04:00
+modified: 2026-09-21T16:41:21.323-04:00
+published: 2026-09-21T16:41:21.323-04:00
 Name: "[[Daylight]]"
 Spell Level: Level 3
 School: Evocation
 Classes: Cleric, Druid, Paladin, Ranger, Sorcerer
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

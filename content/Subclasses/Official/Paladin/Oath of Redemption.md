@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:11:14.292-04:00
-modified: 2026-09-13T15:45:53.662-04:00
-published: 2026-09-13T15:45:53.662-04:00
+modified: 2026-09-21T14:17:52.600-04:00
+published: 2026-09-21T14:17:52.600-04:00
+Name: "[[Oath of Redemption]]"
 Parent Class: "[[Paladin]]"
 Source: Xanathar's Guide to Everything
 Official: true

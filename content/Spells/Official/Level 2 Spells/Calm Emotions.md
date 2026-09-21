@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T20:57:51.567-04:00
-modified: 2026-08-31T12:18:11.185-04:00
-published: 2026-08-31T12:18:11.185-04:00
+modified: 2026-09-21T16:36:22.946-04:00
+published: 2026-09-21T16:36:22.946-04:00
 Name: "[[Calm Emotions]]"
 Spell Level: Level 2
 School: Enchantment
 Classes: Bard, Cleric
+Third Party Classes: Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

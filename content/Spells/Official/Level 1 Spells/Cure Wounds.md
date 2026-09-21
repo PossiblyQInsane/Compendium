@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-24T11:46:46.797-04:00
-modified: 2026-08-31T12:04:20.488-04:00
-published: 2026-08-31T12:04:20.488-04:00
+modified: 2026-09-21T16:30:19.202-04:00
+published: 2026-09-21T16:30:19.202-04:00
 Name: "[[Cure Wounds|Cure Wounds]]"
 Spell Level: Level 1
 School: Abjuration
 Classes: Artificer, Bard, Cleric, Druid, Paladin, Ranger
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

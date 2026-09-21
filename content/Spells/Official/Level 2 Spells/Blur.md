@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T23:24:58.244-04:00
-modified: 2026-08-31T12:17:58.149-04:00
-published: 2026-08-31T12:17:58.149-04:00
+modified: 2026-09-21T16:36:12.461-04:00
+published: 2026-09-21T16:36:12.461-04:00
 Name: "[[Blur|Blur]]"
 Spell Level: Level 2
 School: Illusion
 Classes: Artificer, Sorcerer, Wizard
+Third Party Classes: Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

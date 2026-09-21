@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-14T21:40:46.588-04:00
-modified: 2026-09-15T12:59:57.675-04:00
-published: 2026-09-15T12:59:57.675-04:00
+modified: 2026-09-21T17:17:38.396-04:00
+published: 2026-09-21T17:17:38.396-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -312,6 +312,7 @@ A Ranger subclass is a specialization that grants you features at certain Ranger
 | [[Subclasses/Third Party/Ranger/Beastborne.md\|Beastborne]]               | Valda's Spire of Secrets                | Mage Hand Press         | 5.5e    |
 | [[Subclasses/Third Party/Ranger/Big Game Hunter.md\|Big Game Hunter]]     | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games            | 5.5e    |
 | [[Subclasses/Third Party/Ranger/Bloodhound.md\|Bloodhound]]               | Frontiers of Eberron: Quickstone        | Visionary               | 5.5e    |
+| [[Subclasses/Third Party/Ranger/Corrupted Ranger.md\|Corrupted Ranger]]   | Obojima: Tales from the Tall Grass      | 1985 Games              | 5.5e    |
 | [[Subclasses/Third Party/Ranger/Field Researcher.md\|Field Researcher]]   | The Field Guide to Floral Dragons       | Hit Point Press         | 5.5e    |
 | [[Subclasses/Third Party/Ranger/Green Reaper.md\|Green Reaper]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
 | [[Subclasses/Third Party/Ranger/Grim Harbinger.md\|Grim Harbinger]]       | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |

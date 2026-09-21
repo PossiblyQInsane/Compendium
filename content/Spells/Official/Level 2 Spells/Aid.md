@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T23:12:27.045-04:00
-modified: 2026-08-31T12:16:56.644-04:00
-published: 2026-08-31T12:16:56.644-04:00
+modified: 2026-09-21T16:35:31.616-04:00
+published: 2026-09-21T16:35:31.616-04:00
 Name: "[[Aid|Aid]]"
 Spell Level: Level 2
 School: Abjuration
 Classes: Artificer, Bard, Cleric, Druid, Paladin, Ranger
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

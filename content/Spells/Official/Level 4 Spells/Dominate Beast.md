@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-07T11:27:55.880-04:00
-modified: 2026-08-31T15:15:28.913-04:00
-published: 2026-08-31T15:15:28.913-04:00
+modified: 2026-09-21T16:43:57.648-04:00
+published: 2026-09-21T16:43:57.648-04:00
 Name: "[[Dominate Beast]]"
 Spell Level: Level 4
 School: Enchantment
 Classes: Druid, Ranger, Sorcerer
+Third Party Classes: Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

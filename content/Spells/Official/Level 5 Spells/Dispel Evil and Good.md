@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T23:23:19.122-04:00
-modified: 2026-08-31T15:23:10.415-04:00
-published: 2026-08-31T15:23:10.415-04:00
+modified: 2026-09-21T16:45:31.232-04:00
+published: 2026-09-21T16:45:31.232-04:00
 Name: "[[Dispel Evil and Good]]"
 Spell Level: Level 5
 School: Abjuration
 Classes: Cleric, Paladin
+Third Party Classes: Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

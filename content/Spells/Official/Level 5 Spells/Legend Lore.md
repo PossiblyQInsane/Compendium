@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T00:58:25.567-04:00
-modified: 2026-08-31T15:24:14.958-04:00
-published: 2026-08-31T15:24:14.958-04:00
+modified: 2026-09-21T16:46:11.465-04:00
+published: 2026-09-21T16:46:11.465-04:00
 Name: "[[Legend Lore]]"
 Spell Level: Level 5
 School: Divination
 Classes: Bard, Cleric, Wizard
+Third Party Classes: Tamer
 Special: M
 Source: Player's Handbook 5.5e
 Official: true

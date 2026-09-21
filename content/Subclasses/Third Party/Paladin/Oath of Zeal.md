@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:09:05.617-04:00
-modified: 2026-09-13T23:24:30.132-04:00
-published: 2026-09-13T23:24:30.132-04:00
+modified: 2026-09-21T14:20:46.864-04:00
+published: 2026-09-21T14:20:46.864-04:00
+Name: "[[Oath of Zeal]]"
 Parent Class: "[[Paladin]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false

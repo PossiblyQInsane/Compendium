@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:02:58.123-04:00
-modified: 2026-09-13T01:10:11.146-04:00
-published: 2026-09-13T01:10:11.146-04:00
+modified: 2026-09-21T14:14:47.520-04:00
+published: 2026-09-21T14:14:47.520-04:00
+Name: "[[Warrior of the Celestial]]"
 Parent Class: "[[Monk]]"
 Source: "The Griffon's Saddlebag: Book One"
 Official: false

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T14:38:05.010-04:00
-modified: 2026-08-31T15:11:40.575-04:00
-published: 2026-08-31T15:11:40.575-04:00
+modified: 2026-09-21T16:42:57.300-04:00
+published: 2026-09-21T16:42:57.300-04:00
 Name: "[[Water Breathing]]"
 Spell Level: Level 3
 School: Transmutation
 Classes: Artificer, Druid, Ranger, Sorcerer, Wizard
+Third Party Classes: Tamer
 Special: R
 Source: Player's Handbook 5.5e
 Official: true

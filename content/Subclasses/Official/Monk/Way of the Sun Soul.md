@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:05:00.573-04:00
-modified: 2026-09-12T23:28:04.013-04:00
-published: 2026-09-12T23:28:04.013-04:00
+modified: 2026-09-21T14:13:58.264-04:00
+published: 2026-09-21T14:13:58.264-04:00
+Name: "[[Way of the Sun Soul]]"
 Parent Class: "[[Monk]]"
 Source: Sword Coast Adventurer's Guide
 Official: true

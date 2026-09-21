@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-01T13:34:42.435-04:00
-modified: 2026-08-31T15:09:29.040-04:00
-published: 2026-08-31T15:09:29.040-04:00
+modified: 2026-09-21T16:42:37.693-04:00
+published: 2026-09-21T16:42:37.693-04:00
 Name: "[[Remove Curse]]"
 Spell Level: Level 3
 School: Abjuration
 Classes: Cleric, Paladin, Warlock, Wizard
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:01:48.086-04:00
-modified: 2026-09-11T10:16:44.744-04:00
-published: 2026-09-11T10:16:44.744-04:00
+modified: 2026-09-21T14:12:37.211-04:00
+published: 2026-09-21T14:12:37.211-04:00
+Name: "[[Warrior of Mercy]]"
 Parent Class: "[[Monk]]"
 Source: Player's Handbook 5.5e
 Official: true

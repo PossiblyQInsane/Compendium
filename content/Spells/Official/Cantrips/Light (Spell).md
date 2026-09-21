@@ -4,12 +4,13 @@ aliases:
   - Light
 title: Light
 created: 2026-07-25T21:36:37.629-04:00
-modified: 2026-09-11T10:25:06.965-04:00
-published: 2026-09-11T10:25:06.965-04:00
+modified: 2026-09-21T16:27:26.133-04:00
+published: 2026-09-21T16:27:26.133-04:00
 Name: "[[Light (Spell)|Light]]"
 Spell Level: Cantrip
 School: Evocation
 Classes: Artificer, Bard, Cleric, Sorcerer, Wizard
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

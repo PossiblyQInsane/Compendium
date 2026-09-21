@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:09:05.617-04:00
-modified: 2026-09-14T01:31:28.171-04:00
-published: 2026-09-14T01:31:28.171-04:00
+modified: 2026-09-21T14:20:39.109-04:00
+published: 2026-09-21T14:20:39.109-04:00
+Name: "[[Oath of Valhalla]]"
 Parent Class: "[[Paladin]]"
 Source: Northlands Worldbook
 Official: false

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T23:15:57.094-04:00
-modified: 2026-08-31T12:17:07.734-04:00
-published: 2026-08-31T12:17:07.734-04:00
+modified: 2026-09-21T16:35:40.650-04:00
+published: 2026-09-21T16:35:40.650-04:00
 Name: "[[Alter Self|Alter Self]]"
 Spell Level: Level 2
 School: Transmutation
 Classes: Artificer, Sorcerer, Wizard
+Third Party Classes: Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

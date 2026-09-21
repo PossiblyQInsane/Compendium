@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T12:38:21.698-04:00
-modified: 2026-08-31T12:21:49.502-04:00
-published: 2026-08-31T12:21:49.502-04:00
+modified: 2026-09-21T16:38:04.716-04:00
+published: 2026-09-21T16:38:04.716-04:00
 Name: "[[Levitate]]"
 Spell Level: Level 2
 School: Transmutation
 Classes: Artificer, Sorcerer, Wizard
+Third Party Classes: Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

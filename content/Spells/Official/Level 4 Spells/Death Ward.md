@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T20:24:40.705-04:00
-modified: 2026-08-31T15:15:11.801-04:00
-published: 2026-08-31T15:15:11.801-04:00
+modified: 2026-09-21T16:43:39.062-04:00
+published: 2026-09-21T16:43:39.062-04:00
 Name: "[[Death Ward]]"
 Spell Level: Level 4
 School: Abjuration
 Classes: Cleric, Paladin
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

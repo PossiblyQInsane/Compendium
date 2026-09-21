@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T13:25:00.639-04:00
-modified: 2026-08-31T15:05:05.159-04:00
-published: 2026-08-31T15:05:05.159-04:00
+modified: 2026-09-21T16:40:58.935-04:00
+published: 2026-09-21T16:40:58.935-04:00
 Name: "[[Blink]]"
 Spell Level: Level 3
 School: Transmutation
 Classes: Artificer, Sorcerer, Wizard
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

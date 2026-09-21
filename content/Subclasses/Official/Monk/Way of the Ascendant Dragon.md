@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:05:00.573-04:00
-modified: 2026-09-13T00:20:48.073-04:00
-published: 2026-09-13T00:20:48.073-04:00
+modified: 2026-09-21T14:13:23.526-04:00
+published: 2026-09-21T14:13:23.526-04:00
+Name: "[[Way of the Ascendant Dragon]]"
 Parent Class: "[[Monk]]"
 Source: Fizban's Treasury of Dragons
 Official: true

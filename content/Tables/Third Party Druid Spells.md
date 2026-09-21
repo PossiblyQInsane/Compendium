@@ -25,3 +25,4 @@
 | Level 4     | _[[Spells/Third Party/Level 4 Spells/Stellar Bodies.md\|Stellar Bodies]]_             | Evocation                   | —       | Humblewood Campaign Setting        | Hit Point Press        |
 | Level 5     | _[[Spells/Third Party/Level 5 Spells/Field of Reaping.md\|Field of Reaping]]_         | Necromancy                  | C       | The Crooked Moon                   | Avantris Entertainment |
 | Level 5     | _[[Spells/Third Party/Level 5 Spells/Freedom of the Winds.md\|Freedom of the Winds]]_ | Abjuration                  | C       | Tal'Dorei Campaign Setting Reborn  | Darrington Press       |
+| Level 5     | _[[Spells/Third Party/Level 5 Spells/Submerge.md\|Submerge]]_                         | Conjuration                 | —       | Obojima: Tales from the Tall Grass | 1985 Games             |

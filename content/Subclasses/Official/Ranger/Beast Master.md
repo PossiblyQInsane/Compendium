@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:13:35.457-04:00
-modified: 2026-09-14T23:03:21.383-04:00
-published: 2026-09-14T23:03:21.383-04:00
+modified: 2026-09-21T16:51:55.359-04:00
+published: 2026-09-21T16:51:55.359-04:00
+Name: "[[Beast Master]]"
 Parent Class: "[[Ranger]]"
 Source: Player's Handbook 5.5e
 Official: true

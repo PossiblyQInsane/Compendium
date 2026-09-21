@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:14:42.020-04:00
-modified: 2026-09-16T11:48:22.808-04:00
-published: 2026-09-16T11:48:22.808-04:00
+modified: 2026-09-21T17:16:33.190-04:00
+published: 2026-09-21T17:16:33.190-04:00
+Name: "[[Trail Warden]]"
 Parent Class: "[[Ranger]]"
 Source: Cthulhu by Torchlight
 Official: false

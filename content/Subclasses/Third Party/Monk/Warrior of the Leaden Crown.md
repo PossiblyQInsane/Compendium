@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:02:58.123-04:00
-modified: 2026-09-13T01:01:22.301-04:00
-published: 2026-09-13T01:01:22.301-04:00
+modified: 2026-09-21T14:14:56.256-04:00
+published: 2026-09-21T14:14:56.256-04:00
+Name: "[[Warrior of the Leaden Crown]]"
 Parent Class: "[[Monk]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false

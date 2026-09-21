@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T13:31:36.676-04:00
-modified: 2026-08-31T15:05:57.940-04:00
-published: 2026-08-31T15:05:57.940-04:00
+modified: 2026-09-21T16:41:11.897-04:00
+published: 2026-09-21T16:41:11.897-04:00
 Name: "[[Create Food and Water]]"
 Spell Level: Level 3
 School: Conjuration
 Classes: Artificer, Cleric, Paladin
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

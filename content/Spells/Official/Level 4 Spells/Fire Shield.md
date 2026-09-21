@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-28T10:31:28.005-04:00
-modified: 2026-08-31T15:15:53.136-04:00
-published: 2026-08-31T15:15:53.136-04:00
+modified: 2026-09-21T16:44:07.855-04:00
+published: 2026-09-21T16:44:07.855-04:00
 Name: "[[Fire Shield]]"
 Spell Level: Level 4
 School: Evocation
 Classes: Druid, Sorcerer, Wizard
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

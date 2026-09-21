@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T13:35:30.875-04:00
-modified: 2026-08-31T15:06:15.536-04:00
-published: 2026-08-31T15:06:15.536-04:00
+modified: 2026-09-21T16:41:31.473-04:00
+published: 2026-09-21T16:41:31.473-04:00
 Name: "[[Dispel Magic]]"
 Spell Level: Level 3
 School: Abjuration
 Classes: Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

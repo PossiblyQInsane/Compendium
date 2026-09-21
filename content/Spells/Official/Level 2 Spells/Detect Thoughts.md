@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T21:06:45.139-04:00
-modified: 2026-08-31T12:19:18.518-04:00
-published: 2026-08-31T12:19:18.518-04:00
+modified: 2026-09-21T16:36:44.708-04:00
+published: 2026-09-21T16:36:44.708-04:00
 Name: "[[Detect Thoughts]]"
 Spell Level: Level 2
 School: Divination
 Classes: Bard, Sorcerer, Wizard
+Third Party Classes: Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

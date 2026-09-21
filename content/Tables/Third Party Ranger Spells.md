@@ -16,3 +16,4 @@
 | Level 3     | _[[Spells/Third Party/Level 3 Spells/Spectral Fury.md\|Spectral Fury]]_               | Conjuration                 | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | Level 5     | _[[Spells/Third Party/Level 5 Spells/Freedom of the Winds.md\|Freedom of the Winds]]_ | Abjuration                  | C       | Tal'Dorei Campaign Setting Reborn       | Darrington Press       |
 | Level 5     | _[[Spells/Third Party/Level 5 Spells/Lucky Charm.md\|Lucky Charm]]_                   | Transmutation               | C       | The Crooked Moon                        | Avantris Entertainment |
+| Level 5     | _[[Spells/Third Party/Level 5 Spells/Submerge.md\|Submerge]]_                         | Conjuration                 | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |

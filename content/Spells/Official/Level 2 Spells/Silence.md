@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T21:24:57.503-04:00
-modified: 2026-08-31T12:24:33.496-04:00
-published: 2026-08-31T12:24:33.496-04:00
+modified: 2026-09-21T16:40:09.706-04:00
+published: 2026-09-21T16:40:09.706-04:00
 Name: "[[Silence]]"
 Spell Level: Level 2
 School: Illusion
 Classes: Bard, Cleric, Ranger
+Third Party Classes: Tamer
 Special: C, R
 Source: Player's Handbook 5.5e
 Official: true

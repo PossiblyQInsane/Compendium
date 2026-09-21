@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T19:46:13.181-04:00
-modified: 2026-08-31T11:55:09.692-04:00
-published: 2026-08-31T11:55:09.692-04:00
+modified: 2026-09-21T16:28:37.429-04:00
+published: 2026-09-21T16:28:37.429-04:00
 Name: "[[Vicious Mockery]]"
 Spell Level: Cantrip
 School: Enchantment
 Classes: Bard
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

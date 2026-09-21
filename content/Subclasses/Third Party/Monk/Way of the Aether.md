@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:06:37.936-04:00
-modified: 2026-09-13T01:52:58.953-04:00
-published: 2026-09-13T01:52:58.953-04:00
+modified: 2026-09-21T14:15:31.483-04:00
+published: 2026-09-21T14:15:31.483-04:00
+Name: "[[Way of the Aether]]"
 Parent Class: "[[Monk]]"
 Source: "The Griffon's Saddlebag: Book Two"
 Official: false

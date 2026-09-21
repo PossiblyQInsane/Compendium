@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-13T09:48:32.277-04:00
-modified: 2026-09-13T14:45:58.641-04:00
-published: 2026-09-13T14:45:58.641-04:00
+modified: 2026-09-21T14:40:25.256-04:00
+published: 2026-09-21T14:40:25.256-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -316,6 +316,7 @@ Each of these subclasses represents a body of oaths that a Paladin begins taking
 | [[Subclasses/Third Party/Paladin/Oath of the Harvest.md\|Oath of the Harvest]]             | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |
 | [[Subclasses/Third Party/Paladin/Oath of the Hearth.md\|Oath of the Hearth]]               | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |
 | [[Subclasses/Third Party/Paladin/Oath of the Open Sea.md\|Oath of the Open Sea]]           | Tal'Dorei Campaign Setting Reborn       | Darrington Press        | 5e      |
+| [[Subclasses/Third Party/Paladin/Oath of the River.md\|Oath of the River]]                 | Obojima: Tales from the Tall Grass      | 1985 Games              | 5.5e    |
 | [[Subclasses/Third Party/Paladin/Oath of the Spelldrinker.md\|Oath of the Spelldrinker]]   | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
 | [[Subclasses/Third Party/Paladin/Oath of Valhalla.md\|Oath of Valhalla]]                   | Northlands Worldbook                    | Kobold Press            | 5.5e    |
 | [[Subclasses/Third Party/Paladin/Oath of Zeal.md\|Oath of Zeal]]                           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |

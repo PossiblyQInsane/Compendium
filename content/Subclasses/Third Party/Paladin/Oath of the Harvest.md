@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:12:27.739-04:00
-modified: 2026-09-14T00:30:32.368-04:00
-published: 2026-09-14T00:30:32.368-04:00
+modified: 2026-09-21T14:19:52.975-04:00
+published: 2026-09-21T14:19:52.975-04:00
+Name: "[[Oath of the Harvest]]"
 Parent Class: "[[Paladin]]"
 Source: Heliana's Guide to Monster Hunting
 Official: false

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-30T10:41:43.308-04:00
-modified: 2026-08-31T15:17:10.975-04:00
-published: 2026-08-31T15:17:10.975-04:00
+modified: 2026-09-21T16:44:38.424-04:00
+published: 2026-09-21T16:44:38.424-04:00
 Name: "[[Locate Creature]]"
 Spell Level: Level 4
 School: Divination
 Classes: Bard, Cleric, Druid, Paladin, Ranger, Wizard
+Third Party Classes: Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

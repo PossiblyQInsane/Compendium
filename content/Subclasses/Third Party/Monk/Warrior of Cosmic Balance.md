@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:02:58.123-04:00
-modified: 2026-09-13T00:33:05.690-04:00
-published: 2026-09-13T00:33:05.690-04:00
+modified: 2026-09-21T14:14:22.968-04:00
+published: 2026-09-21T14:14:22.968-04:00
+Name: "[[Warrior of Cosmic Balance]]"
 Parent Class: "[[Monk]]"
 Source: Cthulhu by Torchlight
 Official: false

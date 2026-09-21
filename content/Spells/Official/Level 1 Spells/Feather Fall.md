@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T22:52:49.622-04:00
-modified: 2026-08-31T12:05:50.061-04:00
-published: 2026-08-31T12:05:50.061-04:00
+modified: 2026-09-21T16:31:55.457-04:00
+published: 2026-09-21T16:31:55.457-04:00
 Name: "[[Feather Fall|Feather Fall]]"
 Spell Level: Level 1
 School: Transmutation
 Classes: Artificer, Bard, Sorcerer, Wizard
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T12:28:09.983-04:00
-modified: 2026-08-31T12:21:15.283-04:00
-published: 2026-08-31T12:21:15.283-04:00
+modified: 2026-09-21T16:37:29.665-04:00
+published: 2026-09-21T16:37:29.665-04:00
 Name: "[[Invisibility]]"
 Spell Level: Level 2
 School: Illusion
 Classes: Artificer, Bard, Sorcerer, Warlock, Wizard
+Third Party Classes: Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

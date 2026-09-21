@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:13:35.457-04:00
-modified: 2026-09-14T23:43:29.865-04:00
-published: 2026-09-14T23:43:29.865-04:00
+modified: 2026-09-21T16:53:18.562-04:00
+published: 2026-09-21T16:53:18.562-04:00
+Name: "[[Winter Walker]]"
 Parent Class: "[[Ranger]]"
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true

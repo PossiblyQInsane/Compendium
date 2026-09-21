@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-30T10:24:42.837-04:00
-modified: 2026-08-31T12:22:05.213-04:00
-published: 2026-08-31T12:22:05.213-04:00
+modified: 2026-09-21T16:38:21.115-04:00
+published: 2026-09-21T16:38:21.115-04:00
 Name: "[[Locate Object]]"
 Spell Level: Level 2
 School: Divination
 Classes: Bard, Cleric, Druid, Paladin, Ranger, Wizard
+Third Party Classes: Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

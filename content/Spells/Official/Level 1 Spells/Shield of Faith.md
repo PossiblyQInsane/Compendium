@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-01T13:18:24.984-04:00
-modified: 2026-08-31T12:08:51.226-04:00
-published: 2026-08-31T12:08:51.226-04:00
+modified: 2026-09-21T16:34:43.409-04:00
+published: 2026-09-21T16:34:43.409-04:00
 Name: "[[Shield of Faith]]"
 Spell Level: Level 1
 School: Abjuration
 Classes: Cleric, Paladin
+Third Party Classes: Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

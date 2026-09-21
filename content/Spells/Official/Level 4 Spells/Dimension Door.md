@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T00:20:47.143-04:00
-modified: 2026-08-31T15:15:17.343-04:00
-published: 2026-08-31T15:15:17.343-04:00
+modified: 2026-09-21T16:43:49.001-04:00
+published: 2026-09-21T16:43:49.001-04:00
 Name: "[[Dimension Door]]"
 Spell Level: Level 4
 School: Conjuration
 Classes: Bard, Sorcerer, Warlock, Wizard
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

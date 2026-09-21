@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:01:48.086-04:00
-modified: 2026-09-14T22:48:48.381-04:00
-published: 2026-09-14T22:48:48.381-04:00
+modified: 2026-09-21T14:13:06.104-04:00
+published: 2026-09-21T14:13:06.104-04:00
+Name: "[[Warrior of the Mystic Arts]]"
 Parent Class: "[[Monk]]"
 Source: Arcana Unleashed
 Official: true

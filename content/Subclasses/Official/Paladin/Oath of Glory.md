@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:08:01.130-04:00
-modified: 2026-09-13T14:32:45.715-04:00
-published: 2026-09-13T14:32:45.715-04:00
+modified: 2026-09-21T14:17:45.174-04:00
+published: 2026-09-21T14:17:45.174-04:00
+Name: "[[Oath of Glory]]"
 Parent Class: "[[Paladin]]"
 Source: Player's Handbook 5.5e
 Official: true

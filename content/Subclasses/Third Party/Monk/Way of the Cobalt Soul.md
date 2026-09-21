@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:06:37.936-04:00
-modified: 2026-09-13T02:03:20.494-04:00
-published: 2026-09-13T02:03:20.494-04:00
+modified: 2026-09-21T14:15:39.491-04:00
+published: 2026-09-21T14:15:39.491-04:00
+Name: "[[Way of the Cobalt Soul]]"
 Parent Class: "[[Monk]]"
 Source: Tal'Dorei Campaign Setting Reborn
 Official: false

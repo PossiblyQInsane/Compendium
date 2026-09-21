@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:09:05.617-04:00
-modified: 2026-09-14T00:02:53.243-04:00
-published: 2026-09-14T00:02:53.243-04:00
+modified: 2026-09-21T14:19:37.235-04:00
+published: 2026-09-21T14:19:37.235-04:00
+Name: "[[Oath of the Eldritch Hunt]]"
 Parent Class: "[[Paladin]]"
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false

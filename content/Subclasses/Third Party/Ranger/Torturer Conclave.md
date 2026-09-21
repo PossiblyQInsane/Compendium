@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:14:42.020-04:00
-modified: 2026-09-15T11:45:18.739-04:00
-published: 2026-09-15T11:45:18.739-04:00
+modified: 2026-09-21T17:16:25.620-04:00
+published: 2026-09-21T17:16:25.620-04:00
+Name: "[[Torturer Conclave]]"
 Parent Class: "[[Ranger]]"
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false

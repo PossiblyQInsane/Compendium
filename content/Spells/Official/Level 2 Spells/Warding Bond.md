@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-30T00:26:09.317-04:00
-modified: 2026-08-31T12:25:32.796-04:00
-published: 2026-08-31T12:25:32.796-04:00
+modified: 2026-09-21T16:40:34.828-04:00
+published: 2026-09-21T16:40:34.828-04:00
 Name: "[[Warding Bond]]"
 Spell Level: Level 2
 School: Abjuration
 Classes: Cleric, Paladin
+Third Party Classes: Tamer
 Special: M
 Source: Player's Handbook 5.5e
 Official: true

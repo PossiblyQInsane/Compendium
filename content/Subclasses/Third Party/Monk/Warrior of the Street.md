@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:02:58.123-04:00
-modified: 2026-09-13T01:34:44.633-04:00
-published: 2026-09-13T01:34:44.633-04:00
+modified: 2026-09-21T14:15:24.232-04:00
+published: 2026-09-21T14:15:24.232-04:00
+Name: "[[Warrior of the Street]]"
 Parent Class: "[[Monk]]"
 Source: Valda's Spire of Secrets
 Official: false

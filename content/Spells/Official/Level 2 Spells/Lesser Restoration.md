@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T12:33:14.969-04:00
-modified: 2026-08-31T12:21:43.706-04:00
-published: 2026-08-31T12:21:43.706-04:00
+modified: 2026-09-21T16:37:46.852-04:00
+published: 2026-09-21T16:37:46.852-04:00
 Name: "[[Lesser Restoration]]"
 Spell Level: Level 2
 School: Abjuration
 Classes: Artificer, Bard, Cleric, Druid, Paladin, Ranger
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

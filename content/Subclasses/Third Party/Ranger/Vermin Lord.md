@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-08-31T10:55:04.766-04:00
-modified: 2026-09-05T18:22:41.938-04:00
-published: 2026-09-05T18:22:41.938-04:00
+modified: 2026-09-21T17:16:47.061-04:00
+published: 2026-09-21T17:16:47.061-04:00
 Parent Class: "[[Ranger]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false
 Publisher: Ghostfire Gaming
 Edition: 5.5e
+Name: "[[Vermin Lord]]"
 ---
 
 <div class="source">Grim Hollow: Player's Guide<br>Ghostfire Gaming</div>

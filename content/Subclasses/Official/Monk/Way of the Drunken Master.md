@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:05:00.573-04:00
-modified: 2026-09-12T23:41:27.758-04:00
-published: 2026-09-12T23:41:27.758-04:00
+modified: 2026-09-21T14:14:08.566-04:00
+published: 2026-09-21T14:14:08.566-04:00
+Name: "[[Way of the Drunken Master]]"
 Parent Class: "[[Monk]]"
 Source: Xanathar's Guide to Everything
 Official: true

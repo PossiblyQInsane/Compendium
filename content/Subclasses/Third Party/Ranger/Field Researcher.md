@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:14:42.020-04:00
-modified: 2026-09-15T01:36:22.685-04:00
-published: 2026-09-15T01:36:22.685-04:00
+modified: 2026-09-21T17:15:45.078-04:00
+published: 2026-09-21T17:15:45.078-04:00
+Name: "[[Field Researcher]]"
 Parent Class: "[[Ranger]]"
 Source: The Field Guide to Floral Dragons
 Official: false

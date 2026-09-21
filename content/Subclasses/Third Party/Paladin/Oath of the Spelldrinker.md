@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:12:27.739-04:00
-modified: 2026-09-14T01:17:03.819-04:00
-published: 2026-09-14T01:17:03.819-04:00
+modified: 2026-09-21T14:20:27.928-04:00
+published: 2026-09-21T14:20:27.928-04:00
+Name: "[[Oath of the Spelldrinker]]"
 Parent Class: "[[Paladin]]"
 Source: "The Griffon's Saddlebag: Book Two"
 Official: false

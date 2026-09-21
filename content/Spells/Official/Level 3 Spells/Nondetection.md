@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T23:39:52.723-04:00
-modified: 2026-08-31T15:09:10.643-04:00
-published: 2026-08-31T15:09:10.643-04:00
+modified: 2026-09-21T16:42:17.509-04:00
+published: 2026-09-21T16:42:17.509-04:00
 Name: "[[Nondetection]]"
 Spell Level: Level 3
 School: Abjuration
 Classes: Bard, Ranger, Wizard
+Third Party Classes: Tamer
 Special: M
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T23:19:27.461-04:00
-modified: 2026-08-31T12:22:41.713-04:00
-published: 2026-08-31T12:22:41.713-04:00
+modified: 2026-09-21T16:38:39.355-04:00
+published: 2026-09-21T16:38:39.355-04:00
 Name: "[[Mirror Image]]"
 Spell Level: Level 2
 School: Illusion
 Classes: Bard, Sorcerer, Warlock, Wizard
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

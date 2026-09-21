@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T13:08:05.660-04:00
-modified: 2026-08-31T12:24:16.351-04:00
-published: 2026-08-31T12:24:16.351-04:00
+modified: 2026-09-21T16:39:57.862-04:00
+published: 2026-09-21T16:39:57.862-04:00
 Name: "[[See Invisibility]]"
 Spell Level: Level 2
 School: Divination
 Classes: Artificer, Bard, Sorcerer, Wizard
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

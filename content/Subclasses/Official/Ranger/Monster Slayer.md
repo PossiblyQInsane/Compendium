@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:17:10.844-04:00
-modified: 2026-09-15T00:19:58.133-04:00
-published: 2026-09-15T00:19:58.133-04:00
+modified: 2026-09-21T16:53:00.605-04:00
+published: 2026-09-21T16:53:00.605-04:00
+Name: "[[Monster Slayer]]"
 Parent Class: "[[Ranger]]"
 Source: Xanathar's Guide to Everything
 Official: true

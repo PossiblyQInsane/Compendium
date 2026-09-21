@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:08:01.130-04:00
-modified: 2026-09-13T15:03:08.866-04:00
-published: 2026-09-13T15:03:08.866-04:00
+modified: 2026-09-21T14:18:17.988-04:00
+published: 2026-09-21T14:18:17.988-04:00
+Name: "[[Oath of the Noble Genies]]"
 Parent Class: "[[Paladin]]"
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true

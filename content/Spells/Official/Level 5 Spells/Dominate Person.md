@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T00:45:07.026-04:00
-modified: 2026-08-31T15:23:15.942-04:00
-published: 2026-08-31T15:23:15.942-04:00
+modified: 2026-09-21T16:45:40.523-04:00
+published: 2026-09-21T16:45:40.523-04:00
 Name: "[[Dominate Person]]"
 Spell Level: Level 5
 School: Enchantment
 Classes: Bard, Sorcerer, Wizard
+Third Party Classes: Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

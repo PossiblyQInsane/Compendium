@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:11:14.292-04:00
-modified: 2026-09-13T15:24:12.579-04:00
-published: 2026-09-13T15:24:12.579-04:00
+modified: 2026-09-21T14:18:08.395-04:00
+published: 2026-09-21T14:18:08.395-04:00
+Name: "[[Oath of the Crown]]"
 Parent Class: "[[Paladin]]"
 Source: Sword Coast Adventurer's Guide
 Official: true

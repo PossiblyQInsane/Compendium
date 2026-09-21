@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T22:42:28.137-04:00
-modified: 2026-08-31T12:05:25.853-04:00
-published: 2026-08-31T12:05:25.853-04:00
+modified: 2026-09-21T16:31:07.486-04:00
+published: 2026-09-21T16:31:07.486-04:00
 Name: "[[Expeditious Retreat|Expeditious Retreat]]"
 Spell Level: Level 1
 School: Transmutation
 Classes: Artificer, Sorcerer, Warlock, Wizard
+Third Party Classes: Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

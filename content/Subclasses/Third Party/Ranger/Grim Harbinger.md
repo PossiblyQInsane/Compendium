@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:14:42.020-04:00
-modified: 2026-09-15T11:07:11.561-04:00
-published: 2026-09-15T11:07:11.561-04:00
+modified: 2026-09-21T17:16:00.632-04:00
+published: 2026-09-21T17:16:00.632-04:00
+Name: "[[Grim Harbinger]]"
 Parent Class: "[[Ranger]]"
 Source: The Crooked Moon
 Official: false

@@ -4,12 +4,13 @@ aliases:
   - Darkvision
 title: Darkvision
 created: 2026-07-25T23:31:39.059-04:00
-modified: 2026-09-11T10:26:10.651-04:00
-published: 2026-09-11T10:26:10.651-04:00
+modified: 2026-09-21T16:36:34.493-04:00
+published: 2026-09-21T16:36:34.493-04:00
 Name: "[[Darkvision (Spell)|Darkvision]]"
 Spell Level: Level 2
 School: Transmutation
 Classes: Artificer, Druid, Ranger, Sorcerer, Wizard
+Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

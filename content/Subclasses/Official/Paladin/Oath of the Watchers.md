@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T01:11:14.292-04:00
-modified: 2026-09-13T15:58:11.705-04:00
-published: 2026-09-13T15:58:11.705-04:00
+modified: 2026-09-21T14:18:27.737-04:00
+published: 2026-09-21T14:18:27.737-04:00
+Name: "[[Oath of the Watchers]]"
 Parent Class: "[[Paladin]]"
 Source: Tasha's Cauldron of Everything
 Official: true

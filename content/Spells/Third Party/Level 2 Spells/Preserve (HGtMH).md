@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-16T12:21:38.406-04:00
-modified: 2026-09-21T03:51:54.234-04:00
-published: 2026-09-21T03:51:54.234-04:00
+modified: 2026-09-21T16:39:17.307-04:00
+published: 2026-09-21T16:39:17.307-04:00
 Name: "[[Preserve (HGtMH)|Preserve]]"
 Spell Level: Level 2
 School: Biomancy
 Classes: Cleric, Druid, Paladin, Ranger, Wizard
+Third Party Classes: Tamer
 Special: —
 Source: Heliana's Guide to Monster Hunting
 Official: false
@@ -16,7 +17,7 @@ Edition: 5e
 
 <div class="source">Heliana's Guide to Monster Hunting<br>Loot Tavern</div>
 
-_Level 2 Biomancy\* ([[Cleric]], [[Druid]], [[Paladin]], [[Ranger]], [[Wizard]]) (\*can be replaced with abjuration)_
+_Level 2 Biomancy\* ([[Cleric]], [[Druid]], [[Paladin]], [[Ranger]], [[Tamer]], [[Wizard]]) (\*can be replaced with abjuration)_
 
 ---
 
