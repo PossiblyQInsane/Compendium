@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-02T12:06:37.160-04:00
-modified: 2026-09-02T12:11:33.561-04:00
-published: 2026-09-02T12:11:33.561-04:00
+modified: 2026-09-21T23:35:13.974-04:00
+published: 2026-09-21T23:35:13.974-04:00
+Name: "[[Pistolero]]"
 Parent Class: "[[Gunslinger]]"
 Source: Valda's Spire of Secrets
 Official: false

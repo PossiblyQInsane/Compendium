@@ -1,0 +1,11 @@
+| Spell Level | Name                                                                            | School                      | Classes                 | Special | Source                      | Publisher        |
+| ----------- | ------------------------------------------------------------------------------- | --------------------------- | ----------------------- | ------- | --------------------------- | ---------------- |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Blood Rush.md\|Blood Rush]]_               | Transmutation (Sangromancy) | Druid, Ranger           | —       | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Consumption.md\|Consumption]]_             | Evocation (Sangromancy)     | Druid, Sorcerer, Wizard | C       | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Crimson Lash.md\|Crimson Lash]]_           | Conjuration (Sangromancy)   | Warlock, Wizard         | —       | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| Level 2     | _[[Spells/Third Party/Level 2 Spells/Sense Lifeblood.md\|Sense Lifeblood]]_     | Divination (Sangromancy)    | Druid, Ranger, Sorcerer | C       | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| Level 3     | _[[Spells/Third Party/Level 3 Spells/Blood Bond.md\|Blood Bond]]_               | Enchantment (Sangromancy)   | Druid                   | —       | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| Level 3     | _[[Spells/Third Party/Level 3 Spells/Sanguine Poppet.md\|Sanguine Poppet]]_     | Transmutation (Sangromancy) | Bard, Warlock           | C, M    | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| Level 4     | _[[Spells/Third Party/Level 4 Spells/Circle of Scarlet.md\|Circle of Scarlet]]_ | Evocation (Sangromancy)     | Sorcerer, Warlock       | —       | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| Level 4     | _[[Spells/Third Party/Level 4 Spells/Dark Sacrament.md\|Dark Sacrament]]_       | Evocation (Sangromancy)     | Warlock, Wizard         | M       | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| Level 5     | _[[Spells/Third Party/Level 5 Spells/Mortality.md\|Mortality]]_                 | Transmutation (Sangromancy) | Sorcerer                | C, M    | Grim Hollow: Player's Guide | Ghostfire Gaming |

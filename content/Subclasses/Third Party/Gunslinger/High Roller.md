@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-02T11:25:14.430-04:00
-modified: 2026-09-02T11:31:16.806-04:00
-published: 2026-09-02T11:31:16.806-04:00
+modified: 2026-09-21T23:35:07.028-04:00
+published: 2026-09-21T23:35:07.028-04:00
+Name: "[[High Roller]]"
 Parent Class: "[[Gunslinger]]"
 Source: Valda's Spire of Secrets
 Official: false

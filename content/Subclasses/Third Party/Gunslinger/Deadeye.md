@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-02T11:20:30.167-04:00
-modified: 2026-09-02T11:26:39.716-04:00
-published: 2026-09-02T11:26:39.716-04:00
+modified: 2026-09-21T23:34:58.989-04:00
+published: 2026-09-21T23:34:58.989-04:00
+Name: "[[Deadeye]]"
 Parent Class: "[[Gunslinger]]"
 Source: Valda's Spire of Secrets
 Official: false

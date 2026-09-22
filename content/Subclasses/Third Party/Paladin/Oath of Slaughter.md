@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:09:05.617-04:00
-modified: 2026-09-21T14:19:29.115-04:00
-published: 2026-09-21T14:19:29.115-04:00
+modified: 2026-09-21T23:33:37.323-04:00
+published: 2026-09-21T23:33:37.323-04:00
 Name: "[[Oath of Slaughter]]"
 Parent Class: "[[Paladin]]"
 Source: "Grim Hollow: Player's Guide"
@@ -60,7 +60,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 Your lust for blood infects those around you. When a [[Bloodied]] ally within your Aura of Protection makes an attack with a weapon or an [[Unarmed Strike]], it gains a bonus to damage. The bonus equals your Charisma modifier.
 
-Additionally, when a Bloodied creature within your Aura of Protection makes a saving throw against a Sangromancy spell, you can take a [[Reaction]] to impose [[Disadvantage]] on the save.
+Additionally, when a Bloodied creature within your Aura of Protection makes a saving throw against a [[Sangromancy Spells|Sangromancy spell]], you can take a [[Reaction]] to impose [[Disadvantage]] on the save.
 
 > [!quote|author c-white] _Crimson Court Aristocrat_
 > We’re more similar than different to those paladins who revel in slaughter, I think. Though, they are a tad more…wasteful.

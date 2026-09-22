@@ -9,6 +9,7 @@
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Bloodletter.md\|Bloodletter]]_                   | Necromancy                  | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Preserve (HGtMH).md\|Preserve]]_                 | Biomancy                    | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Sense Lifeblood.md\|Sense Lifeblood]]_           | Divination (Sangromancy)    | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| Level 2     | _[[Spells/Third Party/Level 2 Spells/Skeletal Tail.md\|Skeletal Tail]]_               | Conjuration (Osteomancy)    | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_                 | Evocation                   | —       | The Crooked Moon                        | Avantris Entertainment |
 | Level 3     | _[[Spells/Third Party/Level 3 Spells/Freedom of the Waves.md\|Freedom of the Waves]]_ | Conjuration                 | —       | Tal'Dorei Campaign Setting Reborn       | Darrington Press       |
 | Level 3     | _[[Spells/Third Party/Level 3 Spells/Globe of Twilight.md\|Globe of Twilight]]_       | Conjuration                 | C       | Humblewood Campaign Setting             | Hit Point Press        |
