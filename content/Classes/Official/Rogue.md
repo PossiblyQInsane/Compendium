@@ -194,5 +194,11 @@ A Rogue subclass is a specialization that grants you features at certain Rogue l
 
 ### Third Party Rogue Subclasses
 
-| Name | Source | Publisher | Edition |
-| ---- | ------ | --------- | ------- |
+| Name                                                                       | Source                                  | Publisher               | Edition |
+| -------------------------------------------------------------------------- | --------------------------------------- | ----------------------- | ------- |
+| [[Subclasses/Third Party/Rogue/Arachnoid Stalker.md\|Arachnoid Stalker]]   | Valda's Spire of Secrets                | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Third Party/Rogue/Blade of Radiance.md\|Blade of Radiance]]   | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
+| [[Subclasses/Third Party/Rogue/Grim Surgeon.md\|Grim Surgeon]]             | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Third Party/Rogue/Highway Rider.md\|Highway Rider]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Rogue/Misfortune Bringer.md\|Misfortune Bringer]] | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Rogue/Sanguine Thief.md\|Sanguine Thief]]         | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |

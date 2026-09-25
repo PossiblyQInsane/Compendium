@@ -6,9 +6,11 @@
 | Cantrip     | _[[Spells/Third Party/Cantrips/Water Whip.md\|Water Whip]]_                           | Transmutation               | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Ancestral Communion.md\|Ancestral Communion]]_   | Divination                  | C       | The Crooked Moon                        | Avantris Entertainment |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Blood Rush.md\|Blood Rush]]_                     | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Boil Blood.md\|Boil Blood]]_                     | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Chameleon Skin.md\|Chameleon Skin]]_             | Biomancy                    | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Consumption.md\|Consumption]]_                   | Evocation (Sangromancy)     | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Daydream.md\|Daydream]]_                         | Enchantment                 | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Shroud Blood.md\|Shroud Blood]]_                 | Illusion (Sangromancy)      | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Veil of Dusk.md\|Veil of Dusk]]_                 | Abjuration                  | C       | Humblewood Campaign Setting             | Hit Point Press        |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Water Bullet.md\|Water Bullet]]_                 | Evocation                   | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Whelm Weapon.md\|Whelm Weapon]]_                 | Transmutation               | C       | Obojima: Tales from the Tall Grass      | 1985 Games             |
@@ -16,15 +18,19 @@
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Sense Lifeblood.md\|Sense Lifeblood]]_           | Divination (Sangromancy)    | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Skeletal Tail.md\|Skeletal Tail]]_               | Conjuration (Osteomancy)    | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_                 | Evocation                   | —       | The Crooked Moon                        | Avantris Entertainment |
+| Level 2     | _[[Spells/Third Party/Level 2 Spells/Theft of Vitae.md\|Theft of Vitae]]_             | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 3     | _[[Spells/Third Party/Level 3 Spells/Blood Bond.md\|Blood Bond]]_                     | Enchantment (Sangromancy)   | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 3     | _[[Spells/Third Party/Level 3 Spells/Culling Sickle.md\|Culling Sickle]]_             | Necromancy                  | C       | The Crooked Moon                        | Avantris Entertainment |
+| Level 3     | _[[Spells/Third Party/Level 3 Spells/Extract Iron.md\|Extract Iron]]_                 | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 3     | _[[Spells/Third Party/Level 3 Spells/Flash Fever.md\|Flash Fever]]_                   | Necromancy                  | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 3     | _[[Spells/Third Party/Level 3 Spells/Freedom of the Waves.md\|Freedom of the Waves]]_ | Conjuration                 | —       | Tal'Dorei Campaign Setting Reborn       | Darrington Press       |
 | Level 3     | _[[Spells/Third Party/Level 3 Spells/Globe of Twilight.md\|Globe of Twilight]]_       | Conjuration                 | C       | Humblewood Campaign Setting             | Hit Point Press        |
 | Level 3     | _[[Spells/Third Party/Level 3 Spells/Harvest Moonglow.md\|Harvest Moonglow]]_         | Evocation                   | —       | The Crooked Moon                        | Avantris Entertainment |
+| Level 3     | _[[Spells/Third Party/Level 3 Spells/Reanimate.md\|Reanimate]]_                       | Evocation (Sangromancy)     | M       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 4     | _[[Spells/Third Party/Level 4 Spells/Consuming Pyre.md\|Consuming Pyre]]_             | Evocation                   | C       | The Crooked Moon                        | Avantris Entertainment |
 | Level 4     | _[[Spells/Third Party/Level 4 Spells/Marrow Transplant.md\|Marrow Transplant]]_       | Necromancy (Osteomancy)     | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | Level 4     | _[[Spells/Third Party/Level 4 Spells/Stellar Bodies.md\|Stellar Bodies]]_             | Evocation                   | —       | Humblewood Campaign Setting             | Hit Point Press        |
 | Level 5     | _[[Spells/Third Party/Level 5 Spells/Field of Reaping.md\|Field of Reaping]]_         | Necromancy                  | C       | The Crooked Moon                        | Avantris Entertainment |
 | Level 5     | _[[Spells/Third Party/Level 5 Spells/Freedom of the Winds.md\|Freedom of the Winds]]_ | Abjuration                  | C       | Tal'Dorei Campaign Setting Reborn       | Darrington Press       |
 | Level 5     | _[[Spells/Third Party/Level 5 Spells/Submerge.md\|Submerge]]_                         | Conjuration                 | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
+| Level 6     | _[[Spells/Third Party/Level 6 Spells/Blood Tide.md\|Blood Tide]]_                     | Conjuration (Sangromancy)   | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |

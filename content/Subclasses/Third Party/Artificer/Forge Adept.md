@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-01T12:55:23.389-04:00
-modified: 2026-09-21T03:42:08.420-04:00
-published: 2026-09-21T03:42:08.420-04:00
+modified: 2026-09-25T11:10:33.054-04:00
+published: 2026-09-25T11:10:33.054-04:00
 Name: "[[Forge Adept]]"
 Parent Class: "[[Artificer]]"
 Source: Exploring Eberron
@@ -31,12 +31,12 @@ When you reach an Artificer level specified in the Forge Adept Spells table, you
 ##### Forge Adept Spells
 
 | **Artificer Level** | **Spells**                                    |     |
-| ------------------- | --------------------------------------------- | --- |
-| **3**               | _[[Armor of Agathys]]_, _[[Shield of Faith]]_ |     |
-| **5**               | _[[Spiritual Weapon]]_, _[[Warding Bond]]_    |     |
-| **9**               | _[[Beacon of Hope]]_, _[[Remove Curse]]_      |     |
-| **13**              | _[[Death Ward]]_, _[[Fire Shield]]_           |     |
-| **17**              | _[[Banishing Smite]]_, _[[Wall of Force]]_    |     |
+| :-----------------: | --------------------------------------------- | --- |
+|        **3**        | _[[Armor of Agathys]]_, _[[Shield of Faith]]_ |     |
+|        **5**        | _[[Spiritual Weapon]]_, _[[Warding Bond]]_    |     |
+|        **9**        | _[[Beacon of Hope]]_, _[[Remove Curse]]_      |     |
+|       **13**        | _[[Death Ward]]_, _[[Fire Shield]]_           |     |
+|       **17**        | _[[Banishing Smite]]_, _[[Wall of Force]]_    |     |
 
 ### Level 3: Battle Ready
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T14:27:33.074-04:00
-modified: 2026-09-21T03:47:16.422-04:00
-published: 2026-09-21T03:47:16.422-04:00
+modified: 2026-09-25T11:09:34.495-04:00
+published: 2026-09-25T11:09:34.495-04:00
 Name: "[[Path of the Muscle Wizard]]"
 Parent Class: "[[Barbarian]]"
 Source: Valda's Spire of Secrets
@@ -41,7 +41,7 @@ _**True Strike.**_ You really, truly strike, dealing an extra 1d6 damage to the 
 
 Your “magic” is powerful enough to cast every “spell” that exists (and no one can prove otherwise without broken ribs). However, you only prepared the following “spells” today. While your Rage is active, you can use each of the following “Spells” once. When you do so, you can’t use that “Spell” again until you finish a [[Long Rest]].
 
-_**Burning Hands.**_ Your backhand slap is legendary. As an action, you can make an [[Unarmed Strike]] against each creature within your reach. On a hit, this strike deals Bludgeoning damage equal to 1d8 plus your Strength modifier and the target has \[Disadvantage] on the next attack it makes before the start of your next turn.
+_**Burning Hands.**_ Your backhand slap is legendary. As an action, you can make an [[Unarmed Strike]] against each creature within your reach. On a hit, this strike deals Bludgeoning damage equal to 1d8 plus your Strength modifier and the target has [[Disadvantage]] on the next attack it makes before the start of your next turn.
 
 _**Magic Missile.**_ As an action, you can make three ranged attacks using [[Dart|Darts]], [[Dagger|Daggers]], or other weapons with the [[Thrown]] property that use Strength for the attack and damage rolls. Because Magic Missile never misses, you have [[Advantage]] on these attack rolls.
 

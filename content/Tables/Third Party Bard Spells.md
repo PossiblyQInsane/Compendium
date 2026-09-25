@@ -5,11 +5,17 @@
 | Cantrip     | _[[Spells/Third Party/Cantrips/Jolt.md\|Jolt]]_                                 | Evocation                   | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Chameleon Skin.md\|Chameleon Skin]]_       | Biomancy                    | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Daydream.md\|Daydream]]_                   | Enchantment                 | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Shroud Blood.md\|Shroud Blood]]_           | Illusion (Sangromancy)      | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Somnolence.md\|Somnolence]]_               | Enchantment (Sangromancy)   | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Vibrating Humors.md\|Vibrating Humors]]_   | Evocation (Sangromancy)     | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Whelm Weapon.md\|Whelm Weapon]]_           | Transmutation               | C       | Obojima: Tales from the Tall Grass      | 1985 Games             |
+| Level 2     | _[[Spells/Third Party/Level 2 Spells/Blood Wisp.md\|Blood Wisp]]_               | Evocation (Sangromancy)     | M       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 2     | _[[Spells/Third Party/Level 2 Spells/Hangover.md\|Hangover]]_                   | Enchantment                 | —       | Valda's Spire of Secrets                | Mage Hand Press        |
+| Level 3     | _[[Spells/Third Party/Level 3 Spells/Extract Iron.md\|Extract Iron]]_           | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 3     | _[[Spells/Third Party/Level 3 Spells/Sanguine Poppet.md\|Sanguine Poppet]]_     | Transmutation (Sangromancy) | C, M    | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 3     | _[[Spells/Third Party/Level 3 Spells/Suffocate.md\|Suffocate]]_                 | Conjuration                 | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 4     | _[[Spells/Third Party/Level 4 Spells/Dread Scarecrow.md\|Dread Scarecrow]]_     | Illusion (Osteomancy)       | C, M    | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | Level 4     | _[[Spells/Third Party/Level 4 Spells/Intrusive Despair.md\|Intrusive Despair]]_ | Enchantment                 | C       | The Crooked Moon                        | Avantris Entertainment |
 | Level 5     | _[[Spells/Third Party/Level 5 Spells/Incite Riot.md\|Incite Riot]]_             | Enchantment                 | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 5     | _[[Spells/Third Party/Level 5 Spells/Lucky Charm.md\|Lucky Charm]]_             | Transmutation               | C       | The Crooked Moon                        | Avantris Entertainment |
+| Level 7     | _[[Spells/Third Party/Level 7 Spells/Burst Forth.md\|Burst Forth]]_             | Conjuration (Sangromancy)   | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |

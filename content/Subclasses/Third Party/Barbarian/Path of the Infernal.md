@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T14:37:57.209-04:00
-modified: 2026-09-21T03:46:51.438-04:00
-published: 2026-09-21T03:46:51.438-04:00
+modified: 2026-09-23T10:39:54.621-04:00
+published: 2026-09-23T10:39:54.621-04:00
 Name: "[[Path of the Infernal]]"
 Parent Class: "[[Barbarian]]"
 Source: "The Griffon's Saddlebag: Book Two"
@@ -41,6 +41,6 @@ In addition, when you use the [[Attack]] action to [[Unarmed Strike|grapple]]
 
 At 10th level, you can make minor deals with an interested archfiend or similar power to peer into the minds of other creatures and exploit their fears. You can use an action to spend 2 [[Hit Point Dice|Hit Dice]], without regaining any hit points, to cast the _[[Detect Thoughts]]_ spell. The DC for this spell is equal to 8 + your proficiency bonus + your Constitution modifier.
 
-### Level 10: Incinerating Wrath
+### Level 14: Incinerating Wrath
 
 Starting at 14th level, when you take damage from a creature that you can see within 60 feet of you while you’re raging, you can use your [[Reaction|reaction]] to release a punishing flame from your claw toward them, duplicating the effect of the _[[Hellish Rebuke]]_ spell (3rd-level version, DC 8 + your proficiency bonus + your Constitution modifier). You can use this ability twice per rage.

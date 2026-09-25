@@ -2,7 +2,9 @@
 | ----------- | ------------------------------------------------------------------------------------- | --------------------------- | ------- | --------------------------------------- | ---------------------- |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Ancestral Communion.md\|Ancestral Communion]]_   | Divination                  | C       | The Crooked Moon                        | Avantris Entertainment |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Blood Rush.md\|Blood Rush]]_                     | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Boil Blood.md\|Boil Blood]]_                     | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Chameleon Skin.md\|Chameleon Skin]]_             | Biomancy                    | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Shroud Blood.md\|Shroud Blood]]_                 | Illusion (Sangromancy)      | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Spectral Slash.md\|Spectral Slash]]_             | Conjuration                 | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Water Bullet.md\|Water Bullet]]_                 | Evocation                   | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Whelm Weapon.md\|Whelm Weapon]]_                 | Transmutation               | C       | Obojima: Tales from the Tall Grass      | 1985 Games             |

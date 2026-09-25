@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T16:05:01.541-04:00
-modified: 2026-09-21T04:10:55.180-04:00
-published: 2026-09-21T04:10:55.180-04:00
+modified: 2026-09-25T11:10:19.027-04:00
+published: 2026-09-25T11:10:19.027-04:00
 Name: "[[College of Masks (VSoS)|College of Masks]]"
 Parent Class: "[[Bard]]"
 Source: Valda's Spire of Secrets
@@ -58,11 +58,11 @@ _**Archmage.**_ This clay mask topped with a pointed hat bears the wrinkles of 
 ##### Archmage Persona Spells
 
 | **Bard Level** | **Spells**                                              |
-| -------------- | ------------------------------------------------------- |
-| **3**          | _[[Fire Bolt]]_, _[[Scorching Ray]]_, _[[Thunderwave]]_ |
-| **5**          | _[[Lightning Bolt]]_                                    |
-| **7**          | _[[Ice Storm]]_                                         |
-| **9**          | _[[Wall of Stone]]_                                     |
+| :------------: | ------------------------------------------------------- |
+|     **3**      | _[[Fire Bolt]]_, _[[Scorching Ray]]_, _[[Thunderwave]]_ |
+|     **5**      | _[[Lightning Bolt]]_                                    |
+|     **7**      | _[[Ice Storm]]_                                         |
+|     **9**      | _[[Wall of Stone]]_                                     |
 
 _**Devil.**_ This obsidian mask bears the fangs and horns of a handsome fiend. When you take damage from a creature that is within 30 feet of yourself, you can expend a use of your Bardic Inspiration as a [[Reaction]] to deal Fire damage to the creature. This damage equals two rolls of your Bardic Inspiration die, and you gain [[Temporary Hit Points]] equal to the damage dealt.
 
@@ -77,11 +77,11 @@ _**Hierophant.**_ In lieu of a face, this bronze mask bears the image of a holy
 ##### Hierophant Persona Spells
 
 | **Bard Level** | **Spells**                                          |
-| -------------- | --------------------------------------------------- |
-| 3              | _[[Aid]]_, _[[Cure Wounds]]_, _[[Spare the Dying]]_ |
-| 5              | _[[Revivify]]_                                      |
-| 7              | _[[Death Ward]]_                                    |
-| 9              | _[[Mass Cure Wounds]]_                              |
+| :------------: | --------------------------------------------------- |
+|     **3**      | _[[Aid]]_, _[[Cure Wounds]]_, _[[Spare the Dying]]_ |
+|     **5**      | _[[Revivify]]_                                      |
+|     **7**      | _[[Death Ward]]_                                    |
+|     **9**      | _[[Mass Cure Wounds]]_                              |
 
 _**Jester.**_ This cloth mask of a grinning jester is adorned with bells and checkerboard patterns. When you put on this mask, and as a [[Bonus Action]] on each of your turns while you wear it, you can move up to half your [[Speed]] without provoking [[Opportunity Attacks]]. You can also expend a use of Bardic Inspiration to cast _[[Vicious Mockery]]_ as a part of this mask’s Bonus Action.
 
