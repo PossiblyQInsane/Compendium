@@ -6,6 +6,7 @@
 | Cantrip     | _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_   | Illusion                    | —       | The Crooked Moon                        | Avantris Entertainment |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Chameleon Skin.md\|Chameleon Skin]]_       | Biomancy                    | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Daydream.md\|Daydream]]_                   | Enchantment                 | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| Level 1     | _[[Spells/Third Party/Level 1 Spells/Duplicate.md\|Duplicate]]_                 | Conjuration                 | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Shroud Blood.md\|Shroud Blood]]_           | Illusion (Sangromancy)      | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Somnolence.md\|Somnolence]]_               | Enchantment (Sangromancy)   | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Vibrating Humors.md\|Vibrating Humors]]_   | Evocation (Sangromancy)     | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
