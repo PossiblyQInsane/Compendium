@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T21:23:29.626-04:00
-modified: 2026-09-21T04:24:21.661-04:00
-published: 2026-09-21T04:24:21.661-04:00
+modified: 2026-09-26T14:59:02.291-04:00
+published: 2026-09-26T14:59:02.291-04:00
 Name: "[[College of the Road]]"
 Parent Class: "[[Bard]]"
 Source: Humblewood Campaign Setting
@@ -17,7 +17,7 @@ Not an officially recognized college, the College of the Road represents the per
 
 ### Level 3: Bonus Proficiences
 
-When you join the College of the Road at 3rd level, you gain a few useful prociencies picked up from your time on the road. Choose three of the following options (each option can only be selected once):
+When you join the College of the Road at 3rd level, you gain a few useful proficiencies picked up from your time on the road. Choose three of the following options (each option can only be selected once):
 
 - You gain proficiency with a [[Gaming Set]] of your choice
 - You gain proficiency with a martial weapon of your choice
@@ -69,7 +69,7 @@ _**Armed Combat Lessons.**_ A seasoned fighter taught you how to use a simple c
 
 When you make a weapon attack, you can expend one use of your Bardic Inspiration, adding your Bardic Inspiration die to the attack or damage roll. When you do this, you gain the benefits of your chosen Fighting Style for 10 minutes.
 
-At 6th level, you learn how to use your stance to chain your attacks together in deadly combination. Once, while your Fighting Style is active, you may attack twice, instead of once, when taking the [[Attack]]
+At 6th level, you learn how to use your stance to chain your attacks together in deadly combination. Once, while your Fighting Style is active, you may attack twice, instead of once, when taking the [[Attack]] action on your turn.
 
 At 14th level you have learned to shore up any weaknesses in your stance. You gain +1 to your AC for the effect’s duration.
 

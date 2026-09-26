@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-03T15:45:18.547-04:00
-modified: 2026-09-21T04:24:53.781-04:00
-published: 2026-09-21T04:24:53.781-04:00
+modified: 2026-09-26T14:59:15.866-04:00
+published: 2026-09-26T14:59:15.866-04:00
 Name: "[[Skald]]"
 Parent Class: "[[Bard]]"
 Source: Northlands Worldbook
@@ -29,7 +29,7 @@ _**Flyting Master.**_ You can use Charisma ([[Performance]]) in place of Charism
 
 ### Level 3: Martial Training
 
-You gain proficiency with Martial weapoms and training with Medium armor and Shields. In addition, you can use a Simple or Martial weapon as a [[Spellcasting Focus]] to cast spells from the Bard spell list.
+You gain proficiency with Martial weapons and training with Medium armor and Shields. In addition, you can use a Simple or Martial weapon as a [[Spellcasting Focus]] to cast spells from the Bard spell list.
 
 In addition, your training with weapons allows you to use the [[Mastery Properties|mastery properties]] of one Simple or Martial weapon of your choice. Whenever you finish a [[Long Rest]], you can practice weapon drills and change your weapon choice.
 

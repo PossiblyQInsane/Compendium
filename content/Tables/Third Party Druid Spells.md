@@ -2,6 +2,7 @@
 | ----------- | ------------------------------------------------------------------------------------- | --------------------------- | ------- | --------------------------------------- | ---------------------- |
 | Cantrip     | _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_                   | Illusion                    | —       | Valda's Spire of Secrets                | Mage Hand Press        |
 | Cantrip     | _[[Spells/Third Party/Cantrips/Concussion.md\|Concussion]]_                           | Evocation                   | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| Cantrip     | _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_         | Illusion                    | —       | The Crooked Moon                        | Avantris Entertainment |
 | Cantrip     | _[[Spells/Third Party/Cantrips/Swarm.md\|Swarm]]_                                     | Biomancy                    | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | Cantrip     | _[[Spells/Third Party/Cantrips/Water Whip.md\|Water Whip]]_                           | Transmutation               | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Ancestral Communion.md\|Ancestral Communion]]_   | Divination                  | C       | The Crooked Moon                        | Avantris Entertainment |

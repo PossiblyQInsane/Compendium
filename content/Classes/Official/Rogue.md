@@ -201,4 +201,8 @@ A Rogue subclass is a specialization that grants you features at certain Rogue l
 | [[Subclasses/Third Party/Rogue/Grim Surgeon.md\|Grim Surgeon]]             | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
 | [[Subclasses/Third Party/Rogue/Highway Rider.md\|Highway Rider]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
 | [[Subclasses/Third Party/Rogue/Misfortune Bringer.md\|Misfortune Bringer]] | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Rogue/Runetagger.md\|Runetagger]]                 | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |
 | [[Subclasses/Third Party/Rogue/Sanguine Thief.md\|Sanguine Thief]]         | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Rogue/Shadow Stalker.md\|Shadow Stalker]]         | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
+| [[Subclasses/Third Party/Rogue/Sinner.md\|Sinner]]                         | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Rogue/Waxwork Rogue.md\|Waxwork Rogue]]           | Obojima: Tales from the Tall Grass      | 1985 Games              | 5.5e    |
