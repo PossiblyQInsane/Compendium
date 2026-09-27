@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:13:35.457-04:00
-modified: 2026-09-27T17:59:13.976-04:00
-published: 2026-09-27T17:59:13.976-04:00
+modified: 2026-09-27T18:04:52.520-04:00
+published: 2026-09-27T18:04:52.520-04:00
 Name: "[[Beast Master]]"
 Parent Class: "[[Ranger]]"
 Source: Player's Handbook 5.5e
@@ -65,7 +65,7 @@ table, th, td {
      (Keep the less-than character out of this CSS: the PNG path parses it as
      SVG/XML, where a bare one inside the style element breaks parsing.) */
   font-family: var(--font-pt-sans, "PT Sans"), "PT Sans", Arial, Helvetica, sans-serif;
-  color: #020202;
+  color: #020202 !important;
   background-color: #f8f4f0;
   width: 173mm;
   padding: 0 7px 7px;
@@ -95,7 +95,7 @@ table, th, td {
 .flokisstatgen-keyword::after { content: "\0000a0"; }
 .flokisstatgen-title {
   font-family: var(--font-pt-sans, "PT Sans"), "PT Sans", Arial, Helvetica, sans-serif;
-  font-size: 1.7em; font-weight: bold; letter-spacing: 0; text-transform: uppercase;
+  font-size: 1.7em; font-weight: bold; letter-spacing: 0; font-variant: small-caps;
   color: #922610; padding: 0; margin: 0; width: 100%;
   border-bottom: 1px var(--flokisScreenborder) solid;
 }
