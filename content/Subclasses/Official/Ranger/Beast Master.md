@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:13:35.457-04:00
-modified: 2026-09-27T18:07:01.587-04:00
-published: 2026-09-27T18:07:01.587-04:00
+modified: 2026-09-27T18:18:43.434-04:00
+published: 2026-09-27T18:18:43.434-04:00
 Name: "[[Beast Master]]"
 Parent Class: "[[Ranger]]"
 Source: Player's Handbook 5.5e
@@ -32,8 +32,6 @@ The beast is [[Friendly]] to you and your allies and obeys your commands. It v
 Whenever you finish a [[Long Rest]], you can summon a different primal beast, which appears in an unoccupied space within 5 feet of you. You choose its stat block and appearance. If you already have a beast from this feature, the old one vanishes when the new one appears.
 
 ![[Images/Beast of the Land.statblockwizard.png]]
-
-<!DOCTYPE html>
 
 <html lang="en"><head><meta charset="UTF-8"><title>Beast of the Land - Stat Block</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -214,7 +212,7 @@ table, th, td {
 .flokisstatgen-keyword::after { content: "\0000a0"; }
 .flokisstatgen-title {
   font-family: var(--font-pt-sans, "PT Sans"), "PT Sans", Arial, Helvetica, sans-serif;
-  font-size: 1.7em; font-weight: bold; letter-spacing: 0; text-transform: uppercase;
+  font-size: 1.7em; font-weight: bold; letter-spacing: 0; font-variant: small-caps;;
   color: #922610; padding: 0; margin: 0; width: 100%;
   border-bottom: 1px var(--flokisScreenborder) solid;
 }
@@ -247,7 +245,7 @@ table, th, td {
   font-size: 1em; font-weight: lighter; text-transform: lowercase; font-variant: small-caps;
   text-align: right; padding: 2px 5px; line-height: 1.3; color: var(--flokisGrey);
 }
-.flokisstatgen-abilitiesblock td { padding: 4px 5px; line-height: 1.4; color: #000000; }
+.flokisstatgen-abilitiesblock td { padding: 4px 5px; line-height: 1.4; color: #000000; white-space: nowrap;}
 .flokisstatgen-ability { text-align: center; }
 .flokisstatgen-abilityname {
   font-weight: bold; text-transform: uppercase; font-size: 0.85em; letter-spacing: 0.05em;
@@ -257,7 +255,7 @@ table, th, td {
   text-align: right; padding-right: 3px; width: 1.5em;
 }
 .flokisstatgen-features { border: none; margin-bottom: 2px; break-inside: avoid; }
-.flokisstatgen-feature { text-indent: -1em; padding-left: 1em; margin-top: 1px; margin-bottom: 2px; }
+.flokisstatgen-feature { text-indent: -1em; padding-left: 1em; margin-top: 1px; margin-bottom: 2px; color: #020202;}
 .flokisstatgen-skill { color: #000000; }
 .flokisstatgen-cr { margin-right: 3px !important; }
 .flokisstatgen-sectionheader {
