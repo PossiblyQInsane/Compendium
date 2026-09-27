@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-26T15:35:48.947-04:00
-modified: 2026-09-26T16:15:51.596-04:00
-published: 2026-09-26T16:15:51.596-04:00
+modified: 2026-09-26T23:48:28.896-04:00
+published: 2026-09-26T23:48:28.896-04:00
 Name: "[[Duplicate]]"
 Spell Level: Level 1
 School: Conjuration
@@ -13,6 +13,8 @@ Official: false
 Publisher: 1985 Games
 Edition: 5.5e
 ---
+
+<div class="source">Obojima: Tales from the Tall Grass<br>1985 Games</div>
 
 _Level 1 Conjuration ([[Bard]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 

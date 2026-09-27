@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T00:38:41.959-04:00
-modified: 2026-08-31T19:52:13.405-04:00
-published: 2026-08-31T19:52:13.405-04:00
+modified: 2026-09-27T12:49:24.294-04:00
+published: 2026-09-27T12:49:24.294-04:00
 Name: "[[Control Weather]]"
 Spell Level: Level 8
 School: Transmutation

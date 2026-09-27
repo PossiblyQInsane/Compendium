@@ -1,0 +1,31 @@
+---
+publish: true
+created: 2026-09-27T12:55:49.157-04:00
+modified: 2026-09-27T12:58:15.161-04:00
+published: 2026-09-27T12:58:15.161-04:00
+Name: "[[Meteor Swarm]]"
+Spell Level: Level 9
+School: Evocation
+Classes: Sorcerer, Wizard
+Special: —
+Source: Player's Handbook 5.5e
+Official: true
+Edition: 5.5e
+---
+
+<div class="source">Player's Handbook 5.5e</div>
+
+_Level 9 Evocation ([[Sorcerer]], [[Wizard]])_
+
+---
+
+**Casting Time:** Action\
+**Range:** 1 mile\
+**Components:** V, S\
+**Duration:** Instantaneous
+
+---
+
+Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius [[Sphere]] centered on each of those points makes a Dexterity saving throw. A creature takes 20d6 Fire damage and 20d6 Bludgeoning damage on a failed save or half as much damage on a successful one. A creature in the area of more than one fiery Sphere is affected only once.
+
+A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the spell’s area, and the object starts [[burning]] if it’s flammable.

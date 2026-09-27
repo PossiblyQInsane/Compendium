@@ -1,0 +1,33 @@
+---
+publish: true
+created: 2026-09-27T12:43:18.222-04:00
+modified: 2026-09-27T12:50:56.984-04:00
+published: 2026-09-27T12:50:56.984-04:00
+Name: "[[Demiplane]]"
+Spell Level: Level 8
+School: Conjuration
+Classes: Sorcerer, Warlock, Wizard
+Special: —
+Source: Player's Handbook 5.5e
+Official: true
+Edition: 5.5e
+---
+
+<div class="source">Player's Handbook 5.5e</div>
+
+_Level 8 Conjuration ([[Sorcerer]], [[Warlock]], [[Wizard]])_
+
+---
+
+**Casting Time:** Action\
+**Range:** 60 feet\
+**Components:** S\
+**Duration:** 1 hour
+
+---
+
+You create a shadowy Medium door on a flat solid surface that you can see within range. This door can be opened and closed, and it leads to a demiplane that is an empty room 30 feet in each dimension, made of wood or stone (your choice).
+
+When the spell ends, the door vanishes, and any objects inside the demiplane remain there. Any creatures inside also remain unless they opt to be shunted through the door as it vanishes, landing with the [[Prone]] condition in the unoccupied spaces closest to the door’s former space.
+
+Each time you cast this spell, you can create a new demiplane or connect the shadowy door to a demiplane you created with a previous casting of this spell. Additionally, if you know the nature and contents of a demiplane created by a casting of this spell by another creature, you can connect the shadowy door to that demiplane instead.
