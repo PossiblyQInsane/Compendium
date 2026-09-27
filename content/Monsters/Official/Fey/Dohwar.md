@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T00:10:37.864-04:00
-modified: 2026-09-08T11:28:45.879-04:00
-published: 2026-09-08T11:28:45.879-04:00
+modified: 2026-09-27T16:23:08.339-04:00
+published: 2026-09-27T16:23:08.339-04:00
 Creature Type: Fey
 Size: Small
 Alignment: Any Alignment
@@ -22,4 +22,4 @@ The average dohwar stands 3 feet tall and has bright plumage matching a particul
 
 Dohwars prefer to communicate through a form of telepathy they call merging, in which two dohwars stay in mental contact while both are telepathically linked with a third creature.
 
-![[Images/Dohwar.statblockwizard.png]]
+![[Images/DohwarStatblock.jpg]]

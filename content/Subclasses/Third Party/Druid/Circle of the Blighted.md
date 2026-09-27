@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T23:20:29.252-04:00
-modified: 2026-09-21T11:08:11.324-04:00
-published: 2026-09-21T11:08:11.324-04:00
+modified: 2026-09-27T16:05:01.232-04:00
+published: 2026-09-27T16:05:01.232-04:00
 Name: "[[Circle of the Blighted]]"
 Parent Class: "[[Druid]]"
 Source: Tal'Dorei Campaign Setting Reborn
@@ -48,7 +48,7 @@ The blighted sapling remains in your service until it’s reduced to 0 hit point
 
 The sapling uses the statistics below. Its features scale based on your level and proficiency bonus (PB).
 
-![[Images/Blighted Sapling.statblockwizard.png]]
+![[Images/BlightedSaplingStatblock.jpg]]
 
 ### Level 10: Foul Conjuration
 

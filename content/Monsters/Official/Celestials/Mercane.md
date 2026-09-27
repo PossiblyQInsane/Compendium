@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T00:33:55.358-04:00
-modified: 2026-09-08T11:38:02.533-04:00
-published: 2026-09-08T11:38:02.533-04:00
+modified: 2026-09-27T16:33:21.852-04:00
+published: 2026-09-27T16:33:21.852-04:00
 Creature Type: Celestial
 Size: Large
 Alignment: Typically Lawful Neutral
@@ -22,4 +22,4 @@ Mercanes conduct most of their business in Wildspace and the Astral Sea. To a me
 
 Mercanes will conduct business with anyone, fairly and reliably, provided the other party has neither harmed nor swindled another mercane in the past. Mercanes have a special form of telepathy that enables them to communicate with one another across the multiverse. A mercane often uses this ability to warn another mercanes about individuals who are dangerous or unreliable. Once a mercane has been offended by someone, getting back into their good graces is next to impossible.
 
-![[Images/Mercane.statblockwizard.png]]
+![[Images/MercaneStatblock.jpg]]

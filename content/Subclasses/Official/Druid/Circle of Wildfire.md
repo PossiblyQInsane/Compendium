@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T23:19:46.722-04:00
-modified: 2026-09-21T11:02:37.784-04:00
-published: 2026-09-21T11:02:37.784-04:00
+modified: 2026-09-27T15:27:36.866-04:00
+published: 2026-09-27T15:27:36.866-04:00
 Name: "[[Circle of Wildfire]]"
 Parent Class: "[[Druid]]"
 Source: Tasha's Cauldron of Everything
@@ -47,7 +47,7 @@ In combat, the spirit shares your [[initiative]] count, but it takes its turn im
 
 The spirit manifests for 1 hour, until it is reduced to 0 hit points, until you use this feature to summon the spirit again, or until you die.
 
-![[Images/Wildfire Spirit.statblockwizard.png]]
+![[Images/WildfireSpiritStatblock.jpg]]
 
 ### Level 6: Enhanced Bond
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-15T23:21:51.857-04:00
-modified: 2026-09-05T16:51:54.912-04:00
-published: 2026-09-05T16:51:54.912-04:00
+modified: 2026-09-27T16:13:05.855-04:00
+published: 2026-09-27T16:13:05.855-04:00
 Name: "[[Tiny Servant]]"
 Spell Level: Level 3
 School: Transmutation
@@ -34,4 +34,4 @@ When the creature drops to 0 [[Hit Points|hit points]], it reverts to its origin
 
 _**At Higher Levels.**_ When you cast this spell using a spell slot of 4th level or higher, you can animate two additional objects for each slot level above 3rd.
 
-![[Images/Tiny Servant.statblockwizard.png|400]]
+![[Images/TinyServantStatblock.jpg]]

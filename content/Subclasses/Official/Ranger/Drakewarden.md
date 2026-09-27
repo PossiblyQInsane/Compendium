@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:17:10.844-04:00
-modified: 2026-09-21T16:52:03.259-04:00
-published: 2026-09-21T16:52:03.259-04:00
+modified: 2026-09-27T15:42:07.157-04:00
+published: 2026-09-27T15:42:07.157-04:00
 Name: "[[Drakewarden]]"
 Parent Class: "[[Ranger]]"
 Source: Fizban's Treasury of Dragons
@@ -38,8 +38,9 @@ Consider the source of the draconic spirit you have bonded with. The Drakewarden
 
 The bond you share with your drake creates a connection to dragonkind, granting you understanding and empowering your presence. You gain the following benefits:
 
-- **Thaumaturgy.** You learn the _[[Thaumaturgy]]_ cantrip, which is a ranger spell for you.
-- **Tongue of Dragons.** You learn to speak, read, and write Draconic or one other language of your choice.
+**Thaumaturgy.** You learn the _[[Thaumaturgy]]_ cantrip, which is a ranger spell for you.
+
+**Tongue of Dragons.** You learn to speak, read, and write Draconic or one other language of your choice.
 
 ### Level 3: Drake Companion
 
@@ -53,7 +54,7 @@ The drake remains until it is reduced to 0 hit points, until you use this featur
 
 Once you summon the drake, you can’t do so again until you finish a [[long rest]], unless you expend a spell slot of 1st level or higher to summon it.
 
-![[Images/Drake Companion.statblockwizard (1).png]]
+![[Images/DrakeCompanionStatblock.jpg]]
 
 ### Level 7: Bond of Fang and Scale
 
@@ -61,9 +62,11 @@ The bond you share with your drake intensifies, protecting you and stoking the d
 
 In addition, while your drake is summoned, you and the drake gain the following benefits:
 
-- **Drake Mount.** The drake grows to Medium size. Reflecting your special bond, you can use the drake as a mount if your size is Medium or smaller. While you are riding your drake, it can’t use the flying speed of this feature.
-- **Magic Fang.** The drake’s Bite attack deals an extra 1d6 damage of the type chosen for the drake’s Draconic Essence.
-- **Resistance.** You gain [[resistance]] to the damage type chosen for the drake’s Draconic Essence.
+**Drake Mount.** The drake grows to Medium size. Reflecting your special bond, you can use the drake as a mount if your size is Medium or smaller. While you are riding your drake, it can’t use the flying speed of this feature.
+
+**Magic Fang.** The drake’s Bite attack deals an extra 1d6 damage of the type chosen for the drake’s Draconic Essence.
+
+**Resistance.** You gain [[resistance]] to the damage type chosen for the drake’s Draconic Essence.
 
 ### Level 11: Drake’s Breath
 
@@ -77,6 +80,8 @@ Once you use this feature, you can’t do so again until you finish a [[long res
 
 Your bond to your drake reaches the pinnacle of its power. While your drake is summoned, you and the drake gain the following benefits:
 
-- **Empowered Bite.** The drake’s Bite attack deals an extra 1d6 damage of the type chosen for its Draconic Essence (for a total of 2d6 extra damage).
-- **Large Drake.** The drake grows to Large size. When you ride your drake, it is no longer prohibited from using the flying speed of Bond of Fang and Scale.
-- **Reflexive Resistance.** When either you or the drake takes damage while you’re within 30 feet of each other, you can use your [[reaction]] to give yourself or the drake [[resistance]] to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a [[long rest]].
+**Empowered Bite.** The drake’s Bite attack deals an extra 1d6 damage of the type chosen for its Draconic Essence (for a total of 2d6 extra damage).
+
+**Large Drake.** The drake grows to Large size. When you ride your drake, it is no longer prohibited from using the flying speed of Bond of Fang and Scale.
+
+**Reflexive Resistance.** When either you or the drake takes damage while you’re within 30 feet of each other, you can use your [[reaction]] to give yourself or the drake [[resistance]] to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a [[long rest]].

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T20:51:10.650-04:00
-modified: 2026-09-21T04:25:06.712-04:00
-published: 2026-09-21T04:25:06.712-04:00
+modified: 2026-09-27T15:21:21.058-04:00
+published: 2026-09-27T15:21:21.058-04:00
 Name: "[[College of Creation]]"
 Parent Class: "[[Bard]]"
 Source: Tasha's Cauldron of Everything
@@ -51,7 +51,7 @@ When you use your Bardic Inspiration feature, you can command the item as part o
 
 Once you animate an item with this feature, you can’t do so again until you finish a [[Long Rest|long rest]], unless you expend a spell slot of 3rd level or higher to use this feature again. You can have only one item animated by this feature at a time; if you use this action and already have a dancing item from this feature, the first one immediately becomes inanimate.
 
-![[Images/Dancing Item.statblockwizard.png]]
+![[Images/DancingItemStatblock.jpg]]
 
 ### Level 14: Creative Crescendo
 
