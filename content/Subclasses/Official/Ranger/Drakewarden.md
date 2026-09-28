@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:17:10.844-04:00
-modified: 2026-09-27T15:42:07.157-04:00
-published: 2026-09-27T15:42:07.157-04:00
+modified: 2026-09-28T00:48:24.995-04:00
+published: 2026-09-28T00:48:24.995-04:00
 Name: "[[Drakewarden]]"
 Parent Class: "[[Ranger]]"
 Source: Fizban's Treasury of Dragons
@@ -54,7 +54,41 @@ The drake remains until it is reduced to 0 hit points, until you use this featur
 
 Once you summon the drake, you can’t do so again until you finish a [[long rest]], unless you expend a spell slot of 1st level or higher to summon it.
 
-![[Images/DrakeCompanionStatblock.jpg]]
+> [!statblocks|columns flex] Beast of the Sky
+>
+> > [!blank]
+> >
+> > # Drake Companion
+> >
+> > _Small Dragon_
+> >
+> > **Armor Class** 14 + PB (natural armor)
+> > **Hit Points**  5 plus five times your Ranger level (the beast has a number of [[Hit Point Dice|Hit Dice]] \[d10s] equal to your Ranger level)
+> > **Speed**  40 ft.
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|
+> > | 16 (+3) | 12 (+1) | 15 (+2) | 8 (-1) | 14 (+2) | 8 (-1) |
+> >
+> > **Saving Throws** Dex +1 plus PB, Wis +2 plus PB
+> > **Damage Immunities** determined by the drake's Draconic Essence trait
+> > **Senses**  [[darkvision]] 60 ft., passive Perception 12
+> > **Languages** Draconic
+> > **Challenge** — <div align=right><b>Proficiency Bonus (PB)</b> equals your bonus</div>
+>
+> > [!blank]
+> >
+> > ###
+> >
+> > _**Draconic Essence.**_ When you summon the drake, choose a damage type: acid, cold, fire, lightning, or poison. The chosen type determines the drake’s damage immunity and the damage of its Infused Strikes trait.
+> >
+> > ### Actions
+> >
+> > _**Bite.** Melee Weapon Attack:_ +3 plus PB to hit, reach 5 ft., one target. _Hit:_ 1d6 plus PB piercing damage.
+> >
+> > ### Reactions
+> >
+> > _**Infused Strikes.**_ When another creature within 30 feet of the drake that it can see hits a target with a weapon attack, the drake infuses the strike with its essence, causing the target to take an extra 1d6 damage of the type determined by its Draconic Essence.
 
 ### Level 7: Bond of Fang and Scale
 
