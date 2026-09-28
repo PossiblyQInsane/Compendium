@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-31T09:37:39.767-04:00
-modified: 2026-09-21T03:41:56.276-04:00
-published: 2026-09-21T03:41:56.276-04:00
+modified: 2026-09-28T19:01:02.990-04:00
+published: 2026-09-28T19:01:02.990-04:00
 Name: "[[Reanimator]]"
 Parent Class: "[[Artificer]]"
 Source: "Ravenloft: The Horrors Within"
@@ -53,7 +53,40 @@ Once you create a companion, you can’t do so again until you finish a [[Long R
 
 _**The Companion in Combat.**_ In combat, the companion acts during your turn. It can move and take its [[Reaction]] on its own, but the only action it takes is the [[Dodge]] action unless you take a [[Bonus Action]] to command it to take an action. If you have the [[Incapacitated]] condition, the companion acts on its own and isn’t limited to the Dodge action.
 
-![[Images/Reanimated Companion.statblockwizard.png]]
+> [!statblocks|columns flex]
+>
+> > [!blank]
+> >
+> > <h4 class="sb-name">Reanimated Companion</h4>
+> > <i>Medium Undead, Neutral</i>
+> >
+> > **AC** 10 plus your Intelligence modifier
+> > **HP**  5 plus five times your Artificer level (the defender has a number of [[Hit Point Dice|Hit Dice]] \[d8s] equal to your Artificer level)
+> > **Speed** 30 ft.
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |  |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:---|
+> > |  11    |   10    | 16     |  4      | 10      |   6    |
+> > | +0    |  +0     |  +3   |  -3    |  +0    |  -2  | **Mod** |
+> > | +0    |  +0    |   +3  | -3     |   +0   | -2    | **Save** |
+> >
+> > **Resistances** Necrotic, Poison
+> > **Immunities** Lightning; [[Charmed]], [[Exhaustion]], [[Poisoned]]
+> > **Senses**  [[Blindsight]] 60 ft.; Passive Perception 10
+> > **Languages** Understands the languages you know
+> > **CR** None (XP 0; PB equals your Proficiency Bonus)
+>
+> > [!blank]
+> >
+> > <p class="sb-header">Traits</p>
+> >
+> > **_Death Burst._** The companion explodes when it dies. _Dexterity Saving Throw:_ DC equals your spell save DC, each creature in a 10-foot [[Emanation]] originating from the companion. _Failure:_ 2d4 Necrotic damage. _Success:_ Half damage.
+> >
+> > **_Lightning Absorption._** Whenever the companion is subjected to Lightning damage, it regains a number of Hit Points equal to the Lightning damage dealt.
+> >
+> > <p class="sb-header">Actions</p>
+> >
+> > **_Dreadful Swipe._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d4 plus your Intelligence modifier Necrotic damage, and the target can’t take [[Opportunity Attacks]] until the start of its next turn.
 
 ### Level 5: Strange Modifications
 

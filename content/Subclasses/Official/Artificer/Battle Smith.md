@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T02:30:17.849-04:00
-modified: 2026-09-27T13:28:54.259-04:00
-published: 2026-09-27T13:28:54.259-04:00
+modified: 2026-09-28T18:54:04.938-04:00
+published: 2026-09-28T18:54:04.938-04:00
 Name: "[[Battle Smith]]"
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"
@@ -61,7 +61,43 @@ _**Restoring or Replacing the Defender.**_ If the defender has died within the l
 
 Whenever you finish a [[Long Rest]], you can create a new defender if you have [[Smith's Tools]] in hand. If you already have a defender from this feature, the first one vanishes.
 
-![[Images/Steel Defender.statblockwizard.png]]
+> [!statblocks|columns flex]
+>
+> > [!blank]
+> >
+> > <h4 class="sb-name">Steel Defender</h4>
+> > <i>Medium Construct, Neutral</i>
+> >
+> > **AC** 12 + your Intelligence modifier
+> > **HP**  5 + five times your Artificer level (the defender has a number of [[Hit Point Dice|Hit Dice]] \[d8s] equal to your Artificer level)
+> > **Speed**  40 ft.
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |  |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:---|
+> > |  14    |   12    | 14     |  4      | 10      |   6    |
+> > | +2    |  +1     |  +2   |  -3    |  +0    |  -2  | **Mod** |
+> > | +2    |  +1     |   +2  | -3     |   +0   | -2    | **Save** |
+> >
+> > **Immunities** Poison; [[Charmed]], [[Exhaustion]], [[Poisoned]]
+> > **Senses**  [[Darkvision]] 60 ft.; Passive Perception 10
+> > **Languages** Understands the languages you know
+> > **CR** None (XP 0; PB equals your Proficiency Bonus)
+>
+> > [!blank]
+> >
+> > <p class="sb-header">Traits</p>
+> >
+> > **_Steel Bond._** Add your Proficiency Bonus to any ability check or saving throw the defender makes.
+> >
+> > <p class="sb-header">Actions</p>
+> >
+> > **_Force-Empowered Rend._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d8 + 2 plus your Intelligence modifier Force damage.
+> >
+> > **_Repair (3/Day)._** The defender, or one Construct or object it can see within 5 feet of itself, regains a number of Hit Points equal to 2d8 plus your Intelligence modifier.
+> >
+> > <p class="sb-header">Reactions</p>
+> >
+> > **_Deflect Attack._** _Trigger:_ A creature the defender can see within 5 feet of itself makes an attack roll against a creature other than the defender. _Response:_ The triggering creature makes the attack roll with [[Disadvantage]].
 
 ### Level 5: Extra Attack
 

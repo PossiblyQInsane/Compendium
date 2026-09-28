@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:17:10.844-04:00
-modified: 2026-09-28T18:20:56.556-04:00
-published: 2026-09-28T18:20:56.556-04:00
+modified: 2026-09-28T18:51:01.979-04:00
+published: 2026-09-28T18:51:01.979-04:00
 Name: "[[Drakewarden]]"
 Parent Class: "[[Ranger]]"
 Source: Fizban's Treasury of Dragons
@@ -59,8 +59,7 @@ Once you summon the drake, you can’t do so again until you finish a [[long res
 > > [!blank]
 > >
 > > <h4 class="sb-name">Drake Companion</h4>
-> >
-> > _Small Dragon_
+> >  <i>Small Dragon</i>
 > >
 > > **Armor Class** 14 + PB (natural armor)
 > > **Hit Points**  5 + five times your Ranger level (the drake has a number of [[Hit Point Dice|Hit Dice]] \[d10s] equal to your Ranger level)
