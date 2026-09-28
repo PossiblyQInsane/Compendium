@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:13:35.457-04:00
-modified: 2026-09-27T23:05:25.043-04:00
-published: 2026-09-27T23:05:25.043-04:00
+modified: 2026-09-27T23:08:19.582-04:00
+published: 2026-09-27T23:08:19.582-04:00
 Name: "[[Beast Master]]"
 Parent Class: "[[Ranger]]"
 Source: Player's Handbook 5.5e
@@ -41,11 +41,9 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 > >
 > > _Medium Beast, Neutral_
 > >
-> > |   |   |
-> > |:--|:--|
-> > | **AC** | 13 plus your Wisdom modifier |
-> > | **HP** | 5 plus five times your Ranger level (the beast has a number of [[Hit Point Dice|Hit Dice]] \[d8s] equal to your Ranger level) |
-> > | **Speed** | 40 ft., Climb 40 ft. |
+> > **AC** 13 plus your Wisdom modifier
+> > **HP**  5 plus five times your Ranger level (the beast has a number of [[Hit Point Dice|Hit Dice]] \[d8s] equal to your Ranger level)
+> > **Speed**  40 ft., Climb 40 ft.
 > >
 > > | STR | DEX | CON | INT | WIS | CHA |  |
 > > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:---|
@@ -53,11 +51,9 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 > > | +2    |  +2    |  +2   |  -1    |  +2   |  +0  | **Mod** |
 > > | +2   |  +2    |   +2   | -1    |   +2   | +0  | **Save** |
 > >
-> > |      |      |
-> > |:---|:----|
-> > | **Senses** | [[Darkvision]] 60 ft.; Passive Perception 12
-> > | **Languages** | Understands the languages you know |
-> > | **CR** | None (XP 0; PB equals your Proficiency Bonus)
+> > **Senses**  [[Darkvision]] 60 ft.; Passive Perception 12
+> > **Languages** Understands the languages you know
+> > **CR** None (XP 0; PB equals your Proficiency Bonus)
 >
 > > [!blank]
 > >
