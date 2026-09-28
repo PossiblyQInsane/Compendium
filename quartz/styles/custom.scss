@@ -848,6 +848,10 @@ table {
   max-width: 42ch;
   background: transparent;
   box-shadow: var(--shadow-l), 0 0 20px var(--outline, var(--hr-color));
+  table, th, td {
+    border: none !important;
+    border-collapse: collapse;
+  }
 }
 .callout.callout[data-callout=statblocks] > .callout-content {
   --heading-spacing-top: 0;
@@ -897,6 +901,10 @@ table {
   --table-style-column-header-bold-color: var(--text, var(--text-normal));
   margin: 12px auto;
   width: unset;
+  border: none !important;
+  th {
+    color: red;
+  }
 }
 .callout.callout[data-callout=statblocks][data-callout-metadata~=full] {
   max-width: 100%;
