@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:13:35.457-04:00
-modified: 2026-09-27T23:52:31.694-04:00
-published: 2026-09-27T23:52:31.694-04:00
+modified: 2026-09-28T18:27:09.535-04:00
+published: 2026-09-28T18:27:09.535-04:00
 Name: "[[Beast Master]]"
 Parent Class: "[[Ranger]]"
 Source: Player's Handbook 5.5e
@@ -35,7 +35,7 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 >
 > > [!blank]
 > >
-> > # Beast of the Land
+> > <h4 class="sb-name">Beast of the Land</h4>
 > >
 > > _Medium Beast, Neutral_
 > >
@@ -55,11 +55,11 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 >
 > > [!blank]
 > >
-> > ### Traits
+> > <p class="sb-header">Traits</p>
 > >
 > > _**Primal Bond.**_ Add your Proficiency Bonus to any ability check or saving throw the beast makes.
 > >
-> > ### Actions
+> > <p class="sb-header">Actions</p>
 > >
 > > _**Beast's Strike.**_ _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast). If the beast moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 damage of the same type, and the target has the [[Prone]] condition if it is a Large or smaller creature.
 
@@ -67,7 +67,7 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 >
 > > [!blank]
 > >
-> > # Beast of the Sea
+> > <h4 class="sb-name">Beast of the Sea</h4>
 > >
 > > _Medium Beast, Neutral_
 > >
@@ -87,13 +87,13 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 >
 > > [!blank]
 > >
-> > ### Traits
+> > <p class="sb-header">Traits</p>
 > >
 > > _**Amphibious.**_ The beast can breathe air and water
 > >
 > > _**Primal Bond.**_ Add your Proficiency Bonus to any ability check or saving throw the beast makes.
 > >
-> > ### Actions
+> > <p class="sb-header">Actions</p>
 > >
 > > **_Beast’s Strike._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d6 + 2 plus your Wisdom modifier Bludgeoning or Piercing damage (your choice when you summon the beast), and the target has the [[Grappled]] condition (escape DC equals your spell save DC).
 
@@ -101,7 +101,7 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 >
 > > [!blank]
 > >
-> > # Beast of the Sky
+> > <h4 class="sb-name">Beast of the Sky</h4>
 > >
 > > _Small Beast, Neutral_
 > >
@@ -121,13 +121,13 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 >
 > > [!blank]
 > >
-> > ### Traits
+> > <p class="sb-header">Traits</p>
 > >
 > > _**Flyby.**_ The beast doesn’t provoke [[Opportunity Attacks]] when it flies out of an enemy’s reach.
 > >
 > > _**Primal Bond.**_ Add your Proficiency Bonus to any ability check or saving throw the beast makes.
 > >
-> > ### Actions
+> > <p class="sb-header">Actions</p>
 > >
 > > **_Beast’s Strike._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d4 + 3 plus your Wisdom modifier Slashing damage.
 

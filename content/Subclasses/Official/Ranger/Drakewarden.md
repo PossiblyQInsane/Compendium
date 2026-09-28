@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:17:10.844-04:00
-modified: 2026-09-28T00:54:38.457-04:00
-published: 2026-09-28T00:54:38.457-04:00
+modified: 2026-09-28T18:20:56.556-04:00
+published: 2026-09-28T18:20:56.556-04:00
 Name: "[[Drakewarden]]"
 Parent Class: "[[Ranger]]"
 Source: Fizban's Treasury of Dragons
@@ -54,16 +54,16 @@ The drake remains until it is reduced to 0 hit points, until you use this featur
 
 Once you summon the drake, you can’t do so again until you finish a [[long rest]], unless you expend a spell slot of 1st level or higher to summon it.
 
-> [!statblocks|columns flex] Beast of the Sky
+> [!statblocks|columns flex] Drake Companion
 >
 > > [!blank]
 > >
-> > # Drake Companion
+> > <h4 class="sb-name">Drake Companion</h4>
 > >
 > > _Small Dragon_
 > >
 > > **Armor Class** 14 + PB (natural armor)
-> > **Hit Points**  5 + five times your Ranger level (the beast has a number of [[Hit Point Dice|Hit Dice]] \[d10s] equal to your Ranger level)
+> > **Hit Points**  5 + five times your Ranger level (the drake has a number of [[Hit Point Dice|Hit Dice]] \[d10s] equal to your Ranger level)
 > > **Speed**  40 ft.
 > >
 > > | STR | DEX | CON | INT | WIS | CHA |
@@ -74,19 +74,19 @@ Once you summon the drake, you can’t do so again until you finish a [[long res
 > > **Damage Immunities** determined by the drake's Draconic Essence trait
 > > **Senses**  [[darkvision]] 60 ft., passive Perception 12
 > > **Languages** Draconic
-> > **Challenge** — <span align="right"><b>Proficiency Bonus (PB)</b> equals your bonus</span>
+> > **Challenge** — <span style="text-align: right;"><b>Proficiency Bonus (PB)</b> equals your bonus</span>
 >
 > > [!blank]
 > >
-> > ###
+> > <p class="sb-header"></p>
 > >
 > > _**Draconic Essence.**_ When you summon the drake, choose a damage type: acid, cold, fire, lightning, or poison. The chosen type determines the drake’s damage immunity and the damage of its Infused Strikes trait.
 > >
-> > ### Actions
+> > <p class="sb-header">Actions</p>
 > >
 > > _**Bite.** Melee Weapon Attack:_ +3 plus PB to hit, reach 5 ft., one target. _Hit:_ 1d6 plus PB piercing damage.
 > >
-> > ### Reactions
+> > <p class="sb-header">Reactions</p>
 > >
 > > _**Infused Strikes.**_ When another creature within 30 feet of the drake that it can see hits a target with a weapon attack, the drake infuses the strike with its essence, causing the target to take an extra 1d6 damage of the type determined by its Draconic Essence.
 
