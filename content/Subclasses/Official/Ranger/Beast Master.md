@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:13:35.457-04:00
-modified: 2026-09-27T23:10:10.454-04:00
-published: 2026-09-27T23:10:10.454-04:00
+modified: 2026-09-27T23:22:13.812-04:00
+published: 2026-09-27T23:22:13.812-04:00
 Name: "[[Beast Master]]"
 Parent Class: "[[Ranger]]"
 Source: Player's Handbook 5.5e
@@ -35,10 +35,11 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 
 > [!statblocks|columns]
 >
+> # Beast of the Land
+>
+> ---
+>
 > > [!blank]
-> >
-> > # Beast of the Land
-> >
 > > _Medium Beast, Neutral_
 > >
 > > **AC** 13 plus your Wisdom modifier
