@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:13:35.457-04:00
-modified: 2026-09-27T23:22:13.812-04:00
-published: 2026-09-27T23:22:13.812-04:00
+modified: 2026-09-27T23:41:38.396-04:00
+published: 2026-09-27T23:41:38.396-04:00
 Name: "[[Beast Master]]"
 Parent Class: "[[Ranger]]"
 Source: Player's Handbook 5.5e
@@ -33,13 +33,12 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 
 ![[Images/Beast of the Land.statblockwizard.png]]
 
-> [!statblocks|columns]
->
-> # Beast of the Land
->
-> ---
+> [!statblocks|columns flex]
 >
 > > [!blank]
+> >
+> > # Beast of the Land
+> >
 > > _Medium Beast, Neutral_
 > >
 > > **AC** 13 plus your Wisdom modifier
@@ -53,10 +52,10 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 > > | +2   |  +2    |   +2   | -1    |   +2   | +0  | **Save** |
 > >
 > > **Senses**  [[Darkvision]] 60 ft.; Passive Perception 12
-> > **Languages** Understands the languages you know
-> > **CR** None (XP 0; PB equals your Proficiency Bonus)
 >
 > > [!blank]
+> > **Languages** Understands the languages you know
+> > **CR** None (XP 0; PB equals your Proficiency Bonus)
 > >
 > > ### Traits
 > >
