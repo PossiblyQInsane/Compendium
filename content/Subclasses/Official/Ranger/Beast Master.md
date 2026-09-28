@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:13:35.457-04:00
-modified: 2026-09-27T18:25:35.555-04:00
-published: 2026-09-27T18:25:35.555-04:00
+modified: 2026-09-27T23:04:10.765-04:00
+published: 2026-09-27T23:04:10.765-04:00
 Name: "[[Beast Master]]"
 Parent Class: "[[Ranger]]"
 Source: Player's Handbook 5.5e
@@ -32,6 +32,42 @@ The beast is [[Friendly]] to you and your allies and obeys your commands. It v
 Whenever you finish a [[Long Rest]], you can summon a different primal beast, which appears in an unoccupied space within 5 feet of you. You choose its stat block and appearance. If you already have a beast from this feature, the old one vanishes when the new one appears.
 
 ![[Images/Beast of the Land.statblockwizard.png]]
+
+> [!statblocks|columns]
+>
+> > [!blank]
+> >
+> > ## Beast of the Land
+> >
+> > _Medium Beast, Neutral_
+> >
+> > |   |   |
+> > |:--|:--|
+> > | **AC** | 13 plus your Wisdom modifier |
+> > | **HP** | 5 plus five times your Ranger level (the beast has a number of [[Hit Point Dice|Hit Dice]] \[d8s] equal to your Ranger level) |
+> > | **Speed** | 40 ft., Climb 40 ft. |
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |  |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:---|
+> > |  14    |   14    | 15     |  8      | 14    |   11   |
+> > | +2    |  +2    |  +2   |  -1    |  +2   |  +0  | **Mod** |
+> > | +2   |  +2    |   +2   | -1    |   +2   | +0  | **Save** |
+> >
+> > |      |      |
+> > |:---|:----|
+> > | **Senses** | [[Darkvision]] 60 ft.; Passive Perception 12
+> > | **Languages** | Understands the languages you know |
+> > | **CR** | None (XP 0; PB equals your Proficiency Bonus)
+>
+> > [!blank]
+> >
+> > ### Traits
+> >
+> > _**Primal Bond.**_ Add your Proficiency Bonus to any ability check or saving throw the beast makes.
+> >
+> > ### Actions
+> >
+> > _**Beast's Strike.**_ _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast). If the beast moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 damage of the same type, and the target has the [[Prone]] condition if it is a Large or smaller creature.
 
 ![[Images/Beast of the Sea.statblockwizard.png]]
 
