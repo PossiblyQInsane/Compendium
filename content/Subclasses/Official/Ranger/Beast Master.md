@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:13:35.457-04:00
-modified: 2026-09-27T23:41:38.396-04:00
-published: 2026-09-27T23:41:38.396-04:00
+modified: 2026-09-27T23:48:55.161-04:00
+published: 2026-09-27T23:48:55.161-04:00
 Name: "[[Beast Master]]"
 Parent Class: "[[Ranger]]"
 Source: Player's Handbook 5.5e
@@ -30,8 +30,6 @@ The beast is [[Friendly]] to you and your allies and obeys your commands. It v
 **_Restoring or Replacing the Beast._** If the beast has died within the last hour, you can take a [[Magic]] action to touch it and expend a spell slot. The beast returns to life after 1 minute with all its Hit Points restored.
 
 Whenever you finish a [[Long Rest]], you can summon a different primal beast, which appears in an unoccupied space within 5 feet of you. You choose its stat block and appearance. If you already have a beast from this feature, the old one vanishes when the new one appears.
-
-![[Images/Beast of the Land.statblockwizard.png]]
 
 > [!statblocks|columns flex]
 >
@@ -65,9 +63,73 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 > >
 > > _**Beast's Strike.**_ _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast). If the beast moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 damage of the same type, and the target has the [[Prone]] condition if it is a Large or smaller creature.
 
-![[Images/Beast of the Sea.statblockwizard.png]]
+> [!statblocks|columns flex]
+>
+> > [!blank]
+> >
+> > # Beast of the Sea
+> >
+> > _Medium Beast, Neutral_
+> >
+> > **AC** 13 plus your Wisdom modifier
+> > **HP**  5 plus five times your Ranger level (the beast has a number of [[Hit Point Dice|Hit Dice]] \[d8s] equal to your Ranger level)
+> > **Speed**  5 ft., Swim 60 ft.
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |  |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:---|
+> > |  14    |   14    | 15     |  8      | 14    |   11   |
+> > | +2    |  +2    |  +2   |  -1    |  +2   |  +0  | **Mod** |
+> > | +2   |  +2    |   +2   | -1    |   +2   | +0  | **Save** |
+> >
+> > **Senses**  [[Darkvision]] 90 ft.; Passive Perception 12
+>
+> > [!blank]
+> > **Languages** Understands the languages you know
+> > **CR** None (XP 0; PB equals your Proficiency Bonus)
+> >
+> > ### Traits
+> >
+> > _**Amphibious.**_ The beast can breathe air and water
+> >
+> > _**Primal Bond.**_ Add your Proficiency Bonus to any ability check or saving throw the beast makes.
+> >
+> > ### Actions
+> >
+> > **_Beast’s Strike._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d6 + 2 plus your Wisdom modifier Bludgeoning or Piercing damage (your choice when you summon the beast), and the target has the [[Grappled]] condition (escape DC equals your spell save DC).
 
-![[Images/Beast of the Sky.statblockwizard.png]]
+> [!statblocks|columns flex]
+>
+> > [!blank]
+> >
+> > # Beast of the Sky
+> >
+> > _Small Beast, Neutral_
+> >
+> > **AC** 13 plus your Wisdom modifier
+> > **HP**  4 plus four times your Ranger level (the beast has a number of [[Hit Point Dice|Hit Dice]] \[d6s] equal to your Ranger level)
+> > **Speed**  10 ft., Fly 60 ft.
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |  |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:---|
+> > |  6    |   16    | 13     |  8      | 14    |   11   |
+> > | -2    |  +3    |  +1   |  -1    |  +2   |  +0  | **Mod** |
+> > | -2   |  +3    |   +1   | -1    |   +2   | +0  | **Save** |
+> >
+> > **Senses**  [[Darkvision]] 60 ft.; Passive Perception 12
+>
+> > [!blank]
+> > **Languages** Understands the languages you know
+> > **CR** None (XP 0; PB equals your Proficiency Bonus)
+> >
+> > ### Traits
+> >
+> > _**Flyby.**_ The beast doesn’t provoke [[Opportunity Attacks]] when it flies out of an enemy’s reach.
+> >
+> > _**Primal Bond.**_ Add your Proficiency Bonus to any ability check or saving throw the beast makes.
+> >
+> > ### Actions
+> >
+> > **_Beast’s Strike._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d4 + 3 plus your Wisdom modifier Slashing damage.
 
 ### Level 7: Exceptional Training
 
