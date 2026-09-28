@@ -860,7 +860,7 @@ table {
     color: red;
     text-decoration: none;
     border-bottom: 2px solid red;
-    margin-top: 1em;
+    margin-top: 0.5em;
     margin-bottom: 0.2em;
   }
   font-size: 80%;
@@ -876,7 +876,7 @@ table {
   width: auto;
   color: red;
   border-color: red;
-  margin-top: 1em;
+  margin-top: 0.5em;
   margin-bottom: 0.2em;
 }
 .callout.callout[data-callout=statblocks] img:not([class], [width]) {
@@ -921,7 +921,7 @@ table {
   th {
     color: red;
   }
-  background-color: beige;
+  background-color: lavender;
 }
 .callout.callout[data-callout=statblocks][data-callout-metadata~=full] {
   max-width: 100%;
