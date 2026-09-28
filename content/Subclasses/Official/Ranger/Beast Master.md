@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:13:35.457-04:00
-modified: 2026-09-27T23:48:55.161-04:00
-published: 2026-09-27T23:48:55.161-04:00
+modified: 2026-09-27T23:50:52.116-04:00
+published: 2026-09-27T23:50:52.116-04:00
 Name: "[[Beast Master]]"
 Parent Class: "[[Ranger]]"
 Source: Player's Handbook 5.5e
@@ -50,10 +50,10 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 > > | +2   |  +2    |   +2   | -1    |   +2   | +0  | **Save** |
 > >
 > > **Senses**  [[Darkvision]] 60 ft.; Passive Perception 12
->
-> > [!blank]
 > > **Languages** Understands the languages you know
 > > **CR** None (XP 0; PB equals your Proficiency Bonus)
+>
+> > [!blank]
 > >
 > > ### Traits
 > >
@@ -82,10 +82,10 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 > > | +2   |  +2    |   +2   | -1    |   +2   | +0  | **Save** |
 > >
 > > **Senses**  [[Darkvision]] 90 ft.; Passive Perception 12
->
-> > [!blank]
 > > **Languages** Understands the languages you know
 > > **CR** None (XP 0; PB equals your Proficiency Bonus)
+>
+> > [!blank]
 > >
 > > ### Traits
 > >
@@ -116,10 +116,10 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 > > | -2   |  +3    |   +1   | -1    |   +2   | +0  | **Save** |
 > >
 > > **Senses**  [[Darkvision]] 60 ft.; Passive Perception 12
->
-> > [!blank]
 > > **Languages** Understands the languages you know
 > > **CR** None (XP 0; PB equals your Proficiency Bonus)
+>
+> > [!blank]
 > >
 > > ### Traits
 > >
