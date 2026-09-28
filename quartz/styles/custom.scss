@@ -38,6 +38,22 @@ h3 {
   margin-bottom: 3em;
 }
 
+.sb-name {
+  font-variant: small-caps;
+  font-size: 150%;
+  color: gold;
+  margin-top: 0;
+  margin-bottom: 0;
+  border-bottom: 2px solid gold;
+}
+
+.sb-header {
+  font-variant: small-caps;
+  font-size: 120%;
+  color: gold;
+  border-bottom: 2px solid gold;
+}
+
 hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -919,7 +935,7 @@ table {
   width: unset;
   border: none !important;
   th {
-    color: red;
+    color: gold;
   }
   font-size: 120%;
 }
