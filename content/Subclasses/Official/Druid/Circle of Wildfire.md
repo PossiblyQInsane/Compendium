@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T23:19:46.722-04:00
-modified: 2026-09-28T19:18:03.959-04:00
-published: 2026-09-28T19:18:03.959-04:00
+modified: 2026-09-28T20:28:21.308-04:00
+published: 2026-09-28T20:28:21.308-04:00
 Name: "[[Circle of Wildfire]]"
 Parent Class: "[[Druid]]"
 Source: Tasha's Cauldron of Everything
@@ -68,7 +68,7 @@ The spirit manifests for 1 hour, until it is reduced to 0 hit points, until you 
 >
 > > [!blank]
 > > **Languages** understands the languages you speak
-> > **Challenge** — <span style="text-align: right;"><b>Proficiency Bonus (PB)</b> equals your bonus</span>
+> > **Challenge** — **Proficiency Bonus (PB)** equals your bonus
 > >
 > > <p class="sb-header"></p>
 > >

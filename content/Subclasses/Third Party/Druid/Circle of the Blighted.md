@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T23:20:29.252-04:00
-modified: 2026-09-28T20:13:23.173-04:00
-published: 2026-09-28T20:13:23.173-04:00
+modified: 2026-09-28T20:29:02.626-04:00
+published: 2026-09-28T20:29:02.626-04:00
 Name: "[[Circle of the Blighted]]"
 Parent Class: "[[Druid]]"
 Source: Tal'Dorei Campaign Setting Reborn
@@ -66,7 +66,7 @@ The sapling uses the statistics below. Its features scale based on your level an
 > **Condition Immunities** [[blinded]], [[deafened]], [[Poisoned|poisoned]]
 > **Senses** [[blindsight]] 60 ft. (blind beyond this radius), passive Perception 9
 > **Languages** understands the languages you speak
-> **Challenge** — <span style="text-align: right;"><b>Proficiency Bonus (PB)</b> equals your bonus</span>
+> **Challenge** — **Proficiency Bonus (PB)** equals your bonus
 >
 > <p class="sb-header">Actions</p>
 >

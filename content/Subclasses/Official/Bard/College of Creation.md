@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T20:51:10.650-04:00
-modified: 2026-09-28T19:10:14.693-04:00
-published: 2026-09-28T19:10:14.693-04:00
+modified: 2026-09-28T20:27:54.085-04:00
+published: 2026-09-28T20:27:54.085-04:00
 Name: "[[College of Creation]]"
 Parent Class: "[[Bard]]"
 Source: Tasha's Cauldron of Everything
@@ -72,7 +72,7 @@ Once you animate an item with this feature, you can’t do so again until you fi
 >
 > > [!blank]
 > > **Languages** understands the languages you speak
-> > **Challenge** — <span style="text-align: right;"><b>Proficiency Bonus (PB)</b> equals your bonus</span>
+> > **Challenge** — **Proficiency Bonus (PB)** equals your bonus
 > >
 > > <p class="sb-header"></p>
 > >

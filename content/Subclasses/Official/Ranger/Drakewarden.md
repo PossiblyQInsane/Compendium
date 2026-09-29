@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:17:10.844-04:00
-modified: 2026-09-28T18:51:01.979-04:00
-published: 2026-09-28T18:51:01.979-04:00
+modified: 2026-09-28T20:28:39.738-04:00
+published: 2026-09-28T20:28:39.738-04:00
 Name: "[[Drakewarden]]"
 Parent Class: "[[Ranger]]"
 Source: Fizban's Treasury of Dragons
@@ -73,7 +73,7 @@ Once you summon the drake, you can’t do so again until you finish a [[long res
 > > **Damage Immunities** determined by the drake's Draconic Essence trait
 > > **Senses**  [[darkvision]] 60 ft., passive Perception 12
 > > **Languages** Draconic
-> > **Challenge** — <span style="text-align: right;"><b>Proficiency Bonus (PB)</b> equals your bonus</span>
+> > **Challenge** — **Proficiency Bonus (PB)** equals your bonus
 >
 > > [!blank]
 > >
