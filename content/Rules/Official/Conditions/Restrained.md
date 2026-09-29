@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - restrained
 created: 2026-08-06T00:57:18.262-04:00
-modified: 2026-08-17T15:46:52.901-04:00
-published: 2026-08-17T15:46:52.901-04:00
+modified: 2026-09-28T19:16:33.171-04:00
+published: 2026-09-28T19:16:33.171-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

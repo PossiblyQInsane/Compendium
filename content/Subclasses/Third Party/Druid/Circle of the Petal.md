@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T11:02:45.523-04:00
-modified: 2026-09-21T12:27:30.496-04:00
-published: 2026-09-21T12:27:30.496-04:00
+modified: 2026-09-28T20:26:35.346-04:00
+published: 2026-09-28T20:26:35.346-04:00
 Name: "[[Circle of the Petal]]"
 Parent Class: "[[Druid]]"
 Source: "Obojima: Tales from the Tall Grass"
@@ -36,7 +36,43 @@ The spirit appears in an unoccupied space of your choice within 30 feet of you a
 
 You have two uses of this feature, and you gain an additional use of it when you reach Druid levels 11 (three uses) and 16 (four uses). You regain all expended uses of this feature when you finish a [[Long Rest]]. Starting at Druid level 11, you can expend two uses of this feature to summon two **Wild Spirits** instead of one when you take this action.
 
-![[Images/Wild Spirit.statblockwizard.png]]
+> [!statblocks|columns flex]
+>
+> > [!blank]
+> >
+> > <h4 class="sb-name">Wild Spirit</h4>
+> > <i>Medium Spirit, Unaligned</i>
+> >
+> > **AC** 15 **Initiative** +2
+> > **HP** 2 + three times your Druid level
+> > **Speed** 40 ft., [[Fly Speed|Fly]] 20 ft. (hover)
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |  |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:---|
+> > |  15    |   15    | 15     |  9      | 12    |   9  |
+> > | +2    |  +2    |  +2   |  -1    |  +2   |  -1  | **Mod** |
+> > | +2   |  +2    |   +2   | -1    |   +2   | -1  | **Save** |
+> >
+> > **Skills** [[Intimidation]] -1 plus PB, [[Perception]] +1 plus PB, [[Stealth]] +2 plus PB
+> > **Senses** Passive Perception 11 + PB
+> > **Languages** Understands the languages you know
+> > **CR** None (XP 0; PB equals your Proficiency Bonus)
+>
+> > [!blank]
+> >
+> > <p class="sb-header">Traits</p>
+> >
+> > _**Like the Wind.**_ The Wild Spirit can move through other creatures' spaces as if they were [[Difficult Terrain]].
+> >
+> > _**Promising Threat.**_ The Wild Spirit has [[Advantage]] on Charisma ([[Intimidation]]) checks if the target has seen it hit a creature with its Chomp attack in the past minute.
+> >
+> > <p class="sb-header">Actions</p>
+> >
+> > _**Chomp.**_ _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 2d6 + 2 Piercing damage, and the target has the [[Prone]] condition if it is Large or smaller.
+> >
+> > <p class="sb-header">Reactions</p>
+> >
+> > _**Devour.**_ _Trigger:_ The Wild Spirit reduces a creature to 0 Hit Points. _Response:_ The Wild Spirit regains 1d10 Hit Points.
 
 ### Level 10: Spirit of Obojima
 

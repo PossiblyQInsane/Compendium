@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T20:51:10.650-04:00
-modified: 2026-09-27T15:21:21.058-04:00
-published: 2026-09-27T15:21:21.058-04:00
+modified: 2026-09-28T19:10:14.693-04:00
+published: 2026-09-28T19:10:14.693-04:00
 Name: "[[College of Creation]]"
 Parent Class: "[[Bard]]"
 Source: Tasha's Cauldron of Everything
@@ -51,7 +51,38 @@ When you use your Bardic Inspiration feature, you can command the item as part o
 
 Once you animate an item with this feature, you can’t do so again until you finish a [[Long Rest|long rest]], unless you expend a spell slot of 3rd level or higher to use this feature again. You can have only one item animated by this feature at a time; if you use this action and already have a dancing item from this feature, the first one immediately becomes inanimate.
 
-![[Images/DancingItemStatblock.jpg]]
+> [!statblocks|columns flex]
+>
+> > [!blank]
+> >
+> > <h4 class="sb-name">Dancing Item</h4>
+> > <i>Large or smaller construct</i>
+> >
+> > **Armor Class** 16 (natural armor)
+> > **Hit Points** 10 + five times your bard level
+> > **Speed** 30 ft., [[Fly Speed|fly]] 30 ft. (hover)
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|
+> > | 18 (+4) | 14 (+2) | 16 (+3) | 4 (-3) | 10 (+0) | 6 (-2) |
+> >
+> > **Damage Immunities** poison, psychic
+> > **Condition Immunities** [[charmed]], [[frightened]], [[exhaustion]], [[poisoned]]
+> > **Senses**  [[darkvision]] 60 ft., passive Perception 10
+>
+> > [!blank]
+> > **Languages** understands the languages you speak
+> > **Challenge** — <span style="text-align: right;"><b>Proficiency Bonus (PB)</b> equals your bonus</span>
+> >
+> > <p class="sb-header"></p>
+> >
+> > _**Immutable Form.**_ The item is immune to any spell or effect that would alter its form.
+> >
+> > _**Irrepressible Dance.**_ When any creature starts its turn within 10 feet of the item, the item can increase or decrease (your choice) the walking speed of that creature by 10 feet until the end of the turn, provided the item isn’t [[incapacitated]].
+> >
+> > <p class="sb-header">Actions</p>
+> >
+> > _**Force-Empowered Slam.** Melee Weapon Attack:_ your spell attack modifier to hit, reach 5 ft., one target you can see. _Hit:_ 1d10 + PB force damage.
 
 ### Level 14: Creative Crescendo
 

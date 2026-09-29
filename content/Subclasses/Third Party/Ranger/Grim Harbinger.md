@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:14:42.020-04:00
-modified: 2026-09-21T17:16:00.632-04:00
-published: 2026-09-21T17:16:00.632-04:00
+modified: 2026-09-28T20:01:39.531-04:00
+published: 2026-09-28T20:01:39.531-04:00
 Name: "[[Grim Harbinger]]"
 Parent Class: "[[Ranger]]"
 Source: The Crooked Moon
@@ -46,7 +46,43 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 **_The Grim in Combat._** In combat, the grim acts during your turn. It can move and use its [[Reaction]] on its own, but the only action it takes is the [[Dodge]] action unless you take a Bonus Action to command it to take an action in its stat block or some other action. You can also command it as part of the Bonus Action you take to use Omen of Doom, or you can sacrifice one of your attacks when you take the [[Attack]] action to command the grim to take the Ominous Rend action. If you have the [[Incapacitated]] condition, the grim acts on its own and is not limited to the Dodge action.
 
-![[Images/Grim.statblockwizard.png]]
+> [!statblocks|columns flex]
+>
+> > [!blank]
+> >
+> > <h4 class="sb-name">Grim</h4>
+> > <i>Medium Undead, Neutral</i>
+> >
+> > **AC** 13 plus your Wisdom modifier
+> > **HP** 5 plus five times your Ranger level (the grim has a number of [[Hit Point Dice|Hit Dice]] \[d8s] equal to your Ranger level)
+> > **Speed** 40 ft.
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |  |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:---|
+> > |  16    |   16    | 14     |  14     | 10    |   10   |
+> > | +3    |  +3    |  +2   |  +2    |  +0   |  +0  | **Mod** |
+> > | +3   |  +3   |   +2   | +2    |   +0  | +0  | **Save** |
+> >
+> > **Immunities** Necrotic; [[Frightened]], [[Grappled]], [[Petrified]], [[Poisoned]], [[Prone]], [[Restrained]]
+> > **Senses** [[Darkvision]] 60 ft.; Passive Perception 10
+> > **Languages** Understands the languages you know
+> > **CR** None (XP 0; PB equals your Proficiency Bonus)
+>
+> > [!blank]
+> >
+> > <p class="sb-header">Traits</p>
+> >
+> > **_Incorporeal Movement._** The grim can move through other creatures and objects as if they were [[Difficult Terrain]]. The grim takes 1d10 Force damage if it ends its turn inside an object.
+> >
+> > **_Shared Fate._** Add your Proficiency Bonus to any ability check or saving throw the grim makes.
+> >
+> > <p class="sb-header">Actions</p>
+> >
+> > **_Ominous Rend._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d6 + 3 plus your Wisdom modifier Necrotic damage, and if the target is a creature, it has the [[Frightened]] condition until the start of your next turn.
+> >
+> > <p class="sb-header">Reactions</p>
+> >
+> > **_Baleful Howl._** _Trigger:_ A creature moves out of the grim’s reach. _Response—Wisdom Saving Throw:_ Your spell save DC, the triggering creature. _Failure:_ The target’s Speed is 0 until the end of the turn.
 
 ### Level 7: Harbinger of Doom
 

@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - incapacitated
 created: 2026-07-30T00:56:06.563-04:00
-modified: 2026-08-17T15:46:51.805-04:00
-published: 2026-08-17T15:46:51.805-04:00
+modified: 2026-09-28T19:09:34.356-04:00
+published: 2026-09-28T19:09:34.356-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

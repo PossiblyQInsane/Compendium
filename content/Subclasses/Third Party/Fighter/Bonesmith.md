@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T00:19:26.681-04:00
-modified: 2026-09-21T12:37:53.398-04:00
-published: 2026-09-21T12:37:53.398-04:00
+modified: 2026-09-28T19:53:38.225-04:00
+published: 2026-09-28T19:53:38.225-04:00
 Name: "[[Bonesmith]]"
 Parent Class: "[[Fighter]]"
 Source: Dr. Dhrolin's Dictionary of Dinosaurs
@@ -249,7 +249,52 @@ The Construct of Flesh is a [[Friendly]] Undead companion that obeys your comman
 
 _**The Construct of Flesh in Combat.**_ In combat, the Construct of Flesh takes its turn immediately after yours. It can move and use its [[Reaction]] on its own, but may only take the [[Dodge]] action unless you take a [[Bonus Action]] on your turn to command it to take any other Action. If you have the [[Incapacitated]] condition, the Construct of Flesh acts on its own and isn’t limited to the Dodge action.
 
-![[Images/Construct of Flesh.statblockwizard.png]]
+> [!statblocks|columns flex]
+>
+> > [!blank]
+> >
+> > <h4 class="sb-name">Construct of Flesh</h4>
+> > <i>Medium Undead (Amalgamation), your Alignment</i>
+> >
+> > **AC** 15 (Natural Armour)
+> > **HP** 5 + 5\*Your Fighter Level
+> > **Speed** 30 ft.
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |  |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:---|
+> > |  18    |   16    | 14     |  2     | 12    |   4   |
+> > | +4   |  +3    |  +2   |  -4    |  +1   |  -3  | **Mod** |
+> > | +4   |  +3   |   +2   | -4    |   +1  | -3  | **Save** |
+> >
+> > **Resistances** Poison
+> > **Immunities** Necrotic; [[Charmed]], [[Exhaustion]], [[Frightened]], [[Poisoned]]
+> > **Senses** Passive Perception 11 + Your PB
+> > **CR** None (XP 0; PB equals your Proficiency Bonus)
+> >
+> > <p class="sb-header">Traits</p>
+> >
+> > **_Constructed._** When a Construct of Flesh is created, the Bonesmith who created it chooses one of the abilities listed below and one of the attacks. The Construct of Flesh only has the chosen Trait and attack.
+> >
+> > **_Arboreal._** Construct of Flesh gains a [[climb speed]] of 30 ft. and has [[advantage]] on [[Athletics]] and [[Acrobatics]] checks.
+> >
+> > **_Volant._** Construct of Flesh gains a [[fly speed]] of 30 ft.
+>
+> > [!blank]
+> > **_Nocturnal._** Construct of Flesh gains [[Darkvision]] (120 ft.) and has [[advantage]] on [[Stealth]] and [[Perception]] checks.
+> >
+> > **_Robust._** Construct of Flesh’s AC is increased to 17 and its maximum hit points are increased to 5 + 7\*Your Fighter Level.
+> >
+> > **_Nimble._** Construct of Flesh’s speed is increased to 45 ft. and its Dexterity Ability Score is increased by 2. If it succeeds a Dexterity saving throw to avoid half incoming damage, it instead avoids all of that damage.
+> >
+> > <p class="sb-header">Actions</p>
+> >
+> > **_Vicious Bite._** _Melee Attack Roll:_ +(4 + PB) to hit, reach 5 ft., one target. _Hit:_ 1d10 + PB Piercing damage plus 3 (1d6) Necrotic damage, plus: _Constitution Saving Throw:_ DC (your spell save DC). _Failure:_ 2d4 Poison damage.
+> >
+> > **_Mighty Gore._** _Melee Attack Roll:_ +(4 + PB) to hit, reach 5 ft., one target. _Hit:_ 1d10 + PB Bludgeoning damage plus 3 (1d6) Necrotic damage, plus: _Strength Saving Throw:_ DC (your spell save DC). _Failure:_ The [[Prone]] condition.
+> >
+> > **_Noxious Spit._** _Ranged Attack Roll:_ +(4 + PB) to hit, range 60 ft., one target. _Hit:_ 1d10 + PB Acid damage plus 3 (1d6) Necrotic damage.
+> >
+> > **_Gruesome Claw._** _Melee Attack Roll:_ +(4 + PB) to hit, reach 5 ft., one target. _Hit:_ 1d10 + PB Slashing damage plus 3 (1d6) Necrotic damage, plus: _Wisdom Saving Throw:_ (your spell save DC). _Failure:_ The [[Frightened]] condition until the end of the hit creature’s next turn.
 
 ### Level 10: Artisan Crafter
 

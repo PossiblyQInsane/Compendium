@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-31T10:55:04.766-04:00
-modified: 2026-09-21T17:16:47.061-04:00
-published: 2026-09-21T17:16:47.061-04:00
+modified: 2026-09-28T19:41:59.588-04:00
+published: 2026-09-28T19:41:59.588-04:00
 Parent Class: "[[Ranger]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false
@@ -29,7 +29,40 @@ In combat, each swarm acts during your turn. It can move and use its [[Reaction]
 
 Once you use this feature, you can’t use it again until you finish a [[Short Rest|Short]] or [[Long Rest]].
 
-![[Images/Swarm of Vermin.statblockwizard.png]]
+> [!statblocks|columns flex]
+>
+> > [!blank]
+> >
+> > <h4 class="sb-name">Swarm of Vermin</h4>
+> > <i>Medium Swarm of Tiny Beasts, Unaligned</i>
+> >
+> > **AC** 11 + the spell level
+> > **HP** 5 + 10 per spell level (the swarm has [[Hit Point Dice|Hit Dice]] \[d8s] equal to the spell's level)
+> > **Speed** 30 ft., [[Climb Speed|Climb]] 30 ft.
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |  |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:---|
+> > |  9    |   13    | 12     |  2     | 10    |   5   |
+> > | -1    |  +1    |  +1   |  -4    |  +0   |  -3  | **Mod** |
+> > | -1   |  +1   |   +1   | -4    |   +0  | -3  | **Save** |
+> >
+> > **Resistances** Bludgeoning, Piercing, Slashing
+> > **Immunities** [[Charmed]], [[Frightened]], [[Grappled]], [[Paralyzed]], [[Petrified]], [[Prone]], [[Restrained]], [[Stunned]]
+> > **Senses** [[Darkvision]] 30 ft.; Passive Perception 10
+> > **Languages** Understands the languages you know
+> > **CR** None (XP 0; PB equals your Proficiency Bonus)
+>
+> > [!blank]
+> >
+> > <p class="sb-header">Traits</p>
+> >
+> > **_Pack Tactics._** The swarm has [[Advantage]] on an attack roll against a creature if at least one of the swarm’s allies is within 5 feet of the creature and the ally doesn’t have the [[Incapacitated]] condition.
+> >
+> > **_Swarm._** The swarm can enter and occupy the space of another creature and vice versa, and the swarm can move through any opening large enough for a Tiny Beast.
+> >
+> > <p class="sb-header">Actions</p>
+> >
+> > **_Bites._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 0 ft. _Hit:_ 2d6 + 1 + the spell’s level Piercing damage.
 
 ### Level 3: Swarming Strikes
 

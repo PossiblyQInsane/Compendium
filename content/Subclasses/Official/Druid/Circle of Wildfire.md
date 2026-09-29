@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T23:19:46.722-04:00
-modified: 2026-09-27T15:27:36.866-04:00
-published: 2026-09-27T15:27:36.866-04:00
+modified: 2026-09-28T19:18:03.959-04:00
+published: 2026-09-28T19:18:03.959-04:00
 Name: "[[Circle of Wildfire]]"
 Parent Class: "[[Druid]]"
 Source: Tasha's Cauldron of Everything
@@ -47,7 +47,36 @@ In combat, the spirit shares your [[initiative]] count, but it takes its turn im
 
 The spirit manifests for 1 hour, until it is reduced to 0 hit points, until you use this feature to summon the spirit again, or until you die.
 
-![[Images/WildfireSpiritStatblock.jpg]]
+> [!statblocks|columns flex]
+>
+> > [!blank]
+> >
+> > <h4 class="sb-name">Wildfire Spirit</h4>
+> > <i>Small elemental</i>
+> >
+> > **Armor Class** 13 (natural armor)
+> > **Hit Points** 5 + five times your druid level
+> > **Speed** 30 ft., [[Fly Speed|fly]] 30 ft. (hover)
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|
+> > | 10 (+0) | 14 (+2) | 14 (+2) | 13 (+1) | 15 (+2) | 11 (+0) |
+> >
+> > **Damage Immunities** fire
+> > **Condition Immunities** [[charmed]], [[frightened]], [[grappled]], [[prone]], [[restrained]]
+> > **Senses**  [[darkvision]] 60 ft., passive Perception 12
+>
+> > [!blank]
+> > **Languages** understands the languages you speak
+> > **Challenge** — <span style="text-align: right;"><b>Proficiency Bonus (PB)</b> equals your bonus</span>
+> >
+> > <p class="sb-header"></p>
+> >
+> > <p class="sb-header">Actions</p>
+> >
+> > _**Flame Seed.** Ranged Weapon Attack:_ your spell attack modifier to hit, range 60 ft., one target you can see. _Hit:_ 1d6 + PB fire damage.
+> >
+> > _**Fiery Teleportation.**_ The spirit and each willing creature of your choice within 5 feet of it teleport up to 15 feet to unoccupied spaces you can see. Then each creature within 5 feet of the space that the spirit left must succeed on a Dexterity saving throw against your spell save DC or take 1d6 + PB fire damage.
 
 ### Level 6: Enhanced Bond
 
