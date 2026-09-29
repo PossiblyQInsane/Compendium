@@ -553,8 +553,9 @@ A Sorcerer subclass is a specialization that grants you features at certain Sorc
 
 ### Official Sorcerer Subclasses
 
-| Name | Source | Edition |
-| ---- | ------ | ------- |
+| Name                                                                   | Source                 | Edition |
+| ---------------------------------------------------------------------- | ---------------------- | ------- |
+| [[Subclasses/Official/Sorcerer/Aberrant Sorcery.md\|Aberrant Sorcery]] | Player's Handbook 5.5e | 5.5e    |
 
 ### Third Party Sorcerer Subclasses
 
