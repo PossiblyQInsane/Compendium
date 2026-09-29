@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T23:19:46.722-04:00
-modified: 2026-09-28T20:28:21.308-04:00
-published: 2026-09-28T20:28:21.308-04:00
+modified: 2026-09-28T23:11:49.009-04:00
+published: 2026-09-28T23:11:49.009-04:00
 Name: "[[Circle of Wildfire]]"
 Parent Class: "[[Druid]]"
 Source: Tasha's Cauldron of Everything
@@ -55,7 +55,9 @@ The spirit manifests for 1 hour, until it is reduced to 0 hit points, until you 
 > > <i>Small elemental</i>
 > >
 > > **Armor Class** 13 (natural armor)
+> >
 > > **Hit Points** 5 + five times your druid level
+> >
 > > **Speed** 30 ft., [[Fly Speed|fly]] 30 ft. (hover)
 > >
 > > | STR | DEX | CON | INT | WIS | CHA |
@@ -63,11 +65,14 @@ The spirit manifests for 1 hour, until it is reduced to 0 hit points, until you 
 > > | 10 (+0) | 14 (+2) | 14 (+2) | 13 (+1) | 15 (+2) | 11 (+0) |
 > >
 > > **Damage Immunities** fire
+> >
 > > **Condition Immunities** [[charmed]], [[frightened]], [[grappled]], [[prone]], [[restrained]]
+> >
 > > **Senses**  [[darkvision]] 60 ft., passive Perception 12
 >
 > > [!blank]
 > > **Languages** understands the languages you speak
+> >
 > > **Challenge** — **Proficiency Bonus (PB)** equals your bonus
 > >
 > > <p class="sb-header"></p>

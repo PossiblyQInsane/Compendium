@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-31T10:55:04.766-04:00
-modified: 2026-09-28T19:41:59.588-04:00
-published: 2026-09-28T19:41:59.588-04:00
+modified: 2026-09-28T23:16:46.262-04:00
+published: 2026-09-28T23:16:46.262-04:00
 Parent Class: "[[Ranger]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false
@@ -37,7 +37,9 @@ Once you use this feature, you can’t use it again until you finish a [[Short R
 > > <i>Medium Swarm of Tiny Beasts, Unaligned</i>
 > >
 > > **AC** 11 + the spell level
+> >
 > > **HP** 5 + 10 per spell level (the swarm has [[Hit Point Dice|Hit Dice]] \[d8s] equal to the spell's level)
+> >
 > > **Speed** 30 ft., [[Climb Speed|Climb]] 30 ft.
 > >
 > > | STR | DEX | CON | INT | WIS | CHA |  |
@@ -47,9 +49,13 @@ Once you use this feature, you can’t use it again until you finish a [[Short R
 > > | -1   |  +1   |   +1   | -4    |   +0  | -3  | **Save** |
 > >
 > > **Resistances** Bludgeoning, Piercing, Slashing
+> >
 > > **Immunities** [[Charmed]], [[Frightened]], [[Grappled]], [[Paralyzed]], [[Petrified]], [[Prone]], [[Restrained]], [[Stunned]]
+> >
 > > **Senses** [[Darkvision]] 30 ft.; Passive Perception 10
+> >
 > > **Languages** Understands the languages you know
+> >
 > > **CR** None (XP 0; PB equals your Proficiency Bonus)
 >
 > > [!blank]

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-31T09:37:39.767-04:00
-modified: 2026-09-28T19:01:02.990-04:00
-published: 2026-09-28T19:01:02.990-04:00
+modified: 2026-09-28T23:13:02.167-04:00
+published: 2026-09-28T23:13:02.167-04:00
 Name: "[[Reanimator]]"
 Parent Class: "[[Artificer]]"
 Source: "Ravenloft: The Horrors Within"
@@ -61,7 +61,9 @@ _**The Companion in Combat.**_ In combat, the companion acts during your turn. I
 > > <i>Medium Undead, Neutral</i>
 > >
 > > **AC** 10 plus your Intelligence modifier
+> >
 > > **HP**  5 plus five times your Artificer level (the defender has a number of [[Hit Point Dice|Hit Dice]] \[d8s] equal to your Artificer level)
+> >
 > > **Speed** 30 ft.
 > >
 > > | STR | DEX | CON | INT | WIS | CHA |  |
@@ -71,9 +73,13 @@ _**The Companion in Combat.**_ In combat, the companion acts during your turn. I
 > > | +0    |  +0    |   +3  | -3     |   +0   | -2    | **Save** |
 > >
 > > **Resistances** Necrotic, Poison
+> >
 > > **Immunities** Lightning; [[Charmed]], [[Exhaustion]], [[Poisoned]]
+> >
 > > **Senses**  [[Blindsight]] 60 ft.; Passive Perception 10
+> >
 > > **Languages** Understands the languages you know
+> >
 > > **CR** None (XP 0; PB equals your Proficiency Bonus)
 >
 > > [!blank]

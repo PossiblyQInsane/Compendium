@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T23:20:29.252-04:00
-modified: 2026-09-28T22:48:09.205-04:00
-published: 2026-09-28T22:48:09.205-04:00
+modified: 2026-09-28T23:14:56.355-04:00
+published: 2026-09-28T23:14:56.355-04:00
 Name: "[[Circle of the Blighted]]"
 Parent Class: "[[Druid]]"
 Source: Tal'Dorei Campaign Setting Reborn
@@ -56,7 +56,9 @@ The sapling uses the statistics below. Its features scale based on your level an
 > > <i>Medium plant</i>
 > >
 > > **Armor Class** 10 + PB (natural armor)
+> >
 > > **Hit Points** twice your druid level
+> >
 > > **Speed** 30 ft.
 > >
 > > | STR | DEX | CON | INT | WIS | CHA |
@@ -64,12 +66,16 @@ The sapling uses the statistics below. Its features scale based on your level an
 > > | 8 (-1) | 13 (+1) | 12 (+1) | 4 (-3) | 8 (-1) | 3 (-4) |
 > >
 > > **Damage Vulnerabilities** fire
+> >
 > > **Damage Resistances** necrotic, poison
+> >
 > > **Condition Immunities** [[blinded]], [[deafened]], [[Poisoned|poisoned]]
 >
 > > [!blank]
 > > **Senses** [[blindsight]] 60 ft. (blind beyond this radius), passive Perception 9
+> >
 > > **Languages** understands the languages you speak
+> >
 > > **Challenge** — **Proficiency Bonus (PB)** equals your bonus
 > >
 > > <p class="sb-header">Actions</p>

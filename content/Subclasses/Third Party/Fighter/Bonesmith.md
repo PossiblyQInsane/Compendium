@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T00:19:26.681-04:00
-modified: 2026-09-28T19:53:38.225-04:00
-published: 2026-09-28T19:53:38.225-04:00
+modified: 2026-09-28T23:15:49.875-04:00
+published: 2026-09-28T23:15:49.875-04:00
 Name: "[[Bonesmith]]"
 Parent Class: "[[Fighter]]"
 Source: Dr. Dhrolin's Dictionary of Dinosaurs
@@ -257,7 +257,9 @@ _**The Construct of Flesh in Combat.**_ In combat, the Construct of Flesh takes 
 > > <i>Medium Undead (Amalgamation), your Alignment</i>
 > >
 > > **AC** 15 (Natural Armour)
+> >
 > > **HP** 5 + 5\*Your Fighter Level
+> >
 > > **Speed** 30 ft.
 > >
 > > | STR | DEX | CON | INT | WIS | CHA |  |
@@ -267,8 +269,11 @@ _**The Construct of Flesh in Combat.**_ In combat, the Construct of Flesh takes 
 > > | +4   |  +3   |   +2   | -4    |   +1  | -3  | **Save** |
 > >
 > > **Resistances** Poison
+> >
 > > **Immunities** Necrotic; [[Charmed]], [[Exhaustion]], [[Frightened]], [[Poisoned]]
+> >
 > > **Senses** Passive Perception 11 + Your PB
+> >
 > > **CR** None (XP 0; PB equals your Proficiency Bonus)
 > >
 > > <p class="sb-header">Traits</p>

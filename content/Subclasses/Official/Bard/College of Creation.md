@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T20:51:10.650-04:00
-modified: 2026-09-28T20:27:54.085-04:00
-published: 2026-09-28T20:27:54.085-04:00
+modified: 2026-09-28T23:11:24.279-04:00
+published: 2026-09-28T23:11:24.279-04:00
 Name: "[[College of Creation]]"
 Parent Class: "[[Bard]]"
 Source: Tasha's Cauldron of Everything
@@ -59,7 +59,9 @@ Once you animate an item with this feature, you can’t do so again until you fi
 > > <i>Large or smaller construct</i>
 > >
 > > **Armor Class** 16 (natural armor)
+> >
 > > **Hit Points** 10 + five times your bard level
+> >
 > > **Speed** 30 ft., [[Fly Speed|fly]] 30 ft. (hover)
 > >
 > > | STR | DEX | CON | INT | WIS | CHA |
@@ -67,11 +69,14 @@ Once you animate an item with this feature, you can’t do so again until you fi
 > > | 18 (+4) | 14 (+2) | 16 (+3) | 4 (-3) | 10 (+0) | 6 (-2) |
 > >
 > > **Damage Immunities** poison, psychic
+> >
 > > **Condition Immunities** [[charmed]], [[frightened]], [[exhaustion]], [[poisoned]]
+> >
 > > **Senses**  [[darkvision]] 60 ft., passive Perception 10
 >
 > > [!blank]
 > > **Languages** understands the languages you speak
+> >
 > > **Challenge** — **Proficiency Bonus (PB)** equals your bonus
 > >
 > > <p class="sb-header"></p>

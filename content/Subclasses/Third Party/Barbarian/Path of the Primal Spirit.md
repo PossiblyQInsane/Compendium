@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-02T12:55:45.061-04:00
-modified: 2026-09-28T19:34:20.183-04:00
-published: 2026-09-28T19:34:20.183-04:00
+modified: 2026-09-28T23:13:48.387-04:00
+published: 2026-09-28T23:13:48.387-04:00
 Name: "[[Path of the Primal Spirit]]"
 Parent Class: "[[Barbarian]]"
 Source: "Grim Hollow: Player's Guide"
@@ -41,7 +41,9 @@ Whenever you finish a [[Long Rest]], you can summon a different primal companion
 > > <i>Medium (Large if Land or Sea) Beast, Neutral</i>
 > >
 > > **AC** 12 plus your Constitution modifier
+> >
 > > **HP** 6 plus six times your Barbarian level (the beast has [[Hit Point Dice|Hit Dice]] \[d10s] equal to your Barbarian level)
+> >
 > > **Speed** 30 ft.; [[Fly Speed|Fly]] 40 ft. (Sky only); [[Swim Speed|Swim]] 40 ft. (Sea only)
 > >
 > > | STR | DEX | CON | INT | WIS | CHA |  |
@@ -51,7 +53,9 @@ Whenever you finish a [[Long Rest]], you can summon a different primal companion
 > > | +2   |  +1   |   +3   | -3    |   +1  | -2  | **Save** |
 > >
 > > **Senses** [[Darkvision]] 60 ft.; Passive Perception 11
+> >
 > > **Languages** Understands the languages you know
+> >
 > > **CR** None (XP 0; PB equals your Proficiency Bonus)
 >
 > > [!blank]
@@ -80,7 +84,9 @@ Whenever you finish a [[Long Rest]], you can summon a different primal companion
 > > <i>Medium Beast, Neutral</i>
 > >
 > > **AC** 12 plus your Constitution modifier
+> >
 > > **HP** 5 plus four times your Barbarian level (the beast has [[Hit Point Dice|Hit Dice]] \[d6s] equal to your Barbarian level)
+> >
 > > **Speed** 40 ft.; [[Fly Speed|Fly]] 60 ft. (Sky only); [[Swim Speed|Swim]] 60 ft. (Sea only)
 > >
 > > | STR | DEX | CON | INT | WIS | CHA |  |
@@ -90,7 +96,9 @@ Whenever you finish a [[Long Rest]], you can summon a different primal companion
 > > | +2   |  +2   |   +2   | -3    |   +1  | -2  | **Save** |
 > >
 > > **Senses** [[Darkvision]] 60 ft.; Passive Perception 11
+> >
 > > **Languages** Understands the languages you know
+> >
 > > **CR** None (XP 0; PB equals your Proficiency Bonus)
 > >
 > > <p class="sb-header">Traits</p>

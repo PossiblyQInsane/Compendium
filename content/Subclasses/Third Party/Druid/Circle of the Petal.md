@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T11:02:45.523-04:00
-modified: 2026-09-28T20:26:35.346-04:00
-published: 2026-09-28T20:26:35.346-04:00
+modified: 2026-09-28T23:15:20.425-04:00
+published: 2026-09-28T23:15:20.425-04:00
 Name: "[[Circle of the Petal]]"
 Parent Class: "[[Druid]]"
 Source: "Obojima: Tales from the Tall Grass"
@@ -44,7 +44,9 @@ You have two uses of this feature, and you gain an additional use of it when you
 > > <i>Medium Spirit, Unaligned</i>
 > >
 > > **AC** 15 **Initiative** +2
+> >
 > > **HP** 2 + three times your Druid level
+> >
 > > **Speed** 40 ft., [[Fly Speed|Fly]] 20 ft. (hover)
 > >
 > > | STR | DEX | CON | INT | WIS | CHA |  |
@@ -54,8 +56,11 @@ You have two uses of this feature, and you gain an additional use of it when you
 > > | +2   |  +2    |   +2   | -1    |   +2   | -1  | **Save** |
 > >
 > > **Skills** [[Intimidation]] -1 plus PB, [[Perception]] +1 plus PB, [[Stealth]] +2 plus PB
+> >
 > > **Senses** Passive Perception 11 + PB
+> >
 > > **Languages** Understands the languages you know
+> >
 > > **CR** None (XP 0; PB equals your Proficiency Bonus)
 >
 > > [!blank]

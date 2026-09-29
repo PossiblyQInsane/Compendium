@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T02:30:17.849-04:00
-modified: 2026-09-28T18:54:04.938-04:00
-published: 2026-09-28T18:54:04.938-04:00
+modified: 2026-09-28T23:12:31.925-04:00
+published: 2026-09-28T23:12:31.925-04:00
 Name: "[[Battle Smith]]"
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"
@@ -69,8 +69,10 @@ Whenever you finish a [[Long Rest]], you can create a new defender if you have [
 > > <i>Medium Construct, Neutral</i>
 > >
 > > **AC** 12 + your Intelligence modifier
-> > **HP**  5 + five times your Artificer level (the defender has a number of [[Hit Point Dice|Hit Dice]] \[d8s] equal to your Artificer level)
-> > **Speed**  40 ft.
+> >
+> > **HP** 5 + five times your Artificer level (the defender has a number of [[Hit Point Dice|Hit Dice]] \[d8s] equal to your Artificer level)
+> >
+> > **Speed** 40 ft.
 > >
 > > | STR | DEX | CON | INT | WIS | CHA |  |
 > > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:---|
@@ -79,8 +81,11 @@ Whenever you finish a [[Long Rest]], you can create a new defender if you have [
 > > | +2    |  +1     |   +2  | -3     |   +0   | -2    | **Save** |
 > >
 > > **Immunities** Poison; [[Charmed]], [[Exhaustion]], [[Poisoned]]
-> > **Senses**  [[Darkvision]] 60 ft.; Passive Perception 10
+> >
+> > **Senses** [[Darkvision]] 60 ft.; Passive Perception 10
+> >
 > > **Languages** Understands the languages you know
+> >
 > > **CR** None (XP 0; PB equals your Proficiency Bonus)
 >
 > > [!blank]

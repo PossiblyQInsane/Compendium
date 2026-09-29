@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:14:42.020-04:00
-modified: 2026-09-28T20:01:39.531-04:00
-published: 2026-09-28T20:01:39.531-04:00
+modified: 2026-09-28T23:16:21.361-04:00
+published: 2026-09-28T23:16:21.361-04:00
 Name: "[[Grim Harbinger]]"
 Parent Class: "[[Ranger]]"
 Source: The Crooked Moon
@@ -54,7 +54,9 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 > > <i>Medium Undead, Neutral</i>
 > >
 > > **AC** 13 plus your Wisdom modifier
+> >
 > > **HP** 5 plus five times your Ranger level (the grim has a number of [[Hit Point Dice|Hit Dice]] \[d8s] equal to your Ranger level)
+> >
 > > **Speed** 40 ft.
 > >
 > > | STR | DEX | CON | INT | WIS | CHA |  |
@@ -64,8 +66,11 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 > > | +3   |  +3   |   +2   | +2    |   +0  | +0  | **Save** |
 > >
 > > **Immunities** Necrotic; [[Frightened]], [[Grappled]], [[Petrified]], [[Poisoned]], [[Prone]], [[Restrained]]
+> >
 > > **Senses** [[Darkvision]] 60 ft.; Passive Perception 10
+> >
 > > **Languages** Understands the languages you know
+> >
 > > **CR** None (XP 0; PB equals your Proficiency Bonus)
 >
 > > [!blank]
