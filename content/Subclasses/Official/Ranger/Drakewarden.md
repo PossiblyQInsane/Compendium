@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:17:10.844-04:00
-modified: 2026-09-28T20:28:39.738-04:00
-published: 2026-09-28T20:28:39.738-04:00
+modified: 2026-09-28T23:02:17.741-04:00
+published: 2026-09-28T23:02:17.741-04:00
 Name: "[[Drakewarden]]"
 Parent Class: "[[Ranger]]"
 Source: Fizban's Treasury of Dragons
@@ -62,7 +62,9 @@ Once you summon the drake, you can’t do so again until you finish a [[long res
 > >  <i>Small Dragon</i>
 > >
 > > **Armor Class** 14 + PB (natural armor)
-> > **Hit Points**  5 + five times your Ranger level (the drake has a number of [[Hit Point Dice|Hit Dice]] \[d10s] equal to your Ranger level)
+> >
+> > **Hit Points** 5 + five times your Ranger level (the drake has a number of [[Hit Point Dice|Hit Dice]] \[d10s] equal to your Ranger level)
+> >
 > > **Speed**  40 ft.
 > >
 > > | STR | DEX | CON | INT | WIS | CHA |
@@ -70,9 +72,13 @@ Once you summon the drake, you can’t do so again until you finish a [[long res
 > > | 16 (+3) | 12 (+1) | 15 (+2) | 8 (-1) | 14 (+2) | 8 (-1) |
 > >
 > > **Saving Throws** Dex +1 plus PB, Wis +2 plus PB
+> >
 > > **Damage Immunities** determined by the drake's Draconic Essence trait
+> >
 > > **Senses**  [[darkvision]] 60 ft., passive Perception 12
+> >
 > > **Languages** Draconic
+> >
 > > **Challenge** — **Proficiency Bonus (PB)** equals your bonus
 >
 > > [!blank]

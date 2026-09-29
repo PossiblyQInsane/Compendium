@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-23T23:20:29.252-04:00
-modified: 2026-09-28T20:29:02.626-04:00
-published: 2026-09-28T20:29:02.626-04:00
+modified: 2026-09-28T22:48:09.205-04:00
+published: 2026-09-28T22:48:09.205-04:00
 Name: "[[Circle of the Blighted]]"
 Parent Class: "[[Druid]]"
 Source: Tal'Dorei Campaign Setting Reborn
@@ -48,31 +48,35 @@ The blighted sapling remains in your service until it’s reduced to 0 hit point
 
 The sapling uses the statistics below. Its features scale based on your level and proficiency bonus (PB).
 
-> [!statblocks|wfull]
+> [!statblocks|columns flex]
 >
-> <h4 class="sb-name">Blighted Sapling</h4>
-> <i>Medium plant</i>
+> > [!blank]
+> >
+> > <h4 class="sb-name">Blighted Sapling</h4>
+> > <i>Medium plant</i>
+> >
+> > **Armor Class** 10 + PB (natural armor)
+> > **Hit Points** twice your druid level
+> > **Speed** 30 ft.
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|
+> > | 8 (-1) | 13 (+1) | 12 (+1) | 4 (-3) | 8 (-1) | 3 (-4) |
+> >
+> > **Damage Vulnerabilities** fire
+> > **Damage Resistances** necrotic, poison
+> > **Condition Immunities** [[blinded]], [[deafened]], [[Poisoned|poisoned]]
 >
-> **Armor Class** 10 + PB (natural armor)
-> **Hit Points** twice your druid level
-> **Speed** 30 ft.
->
-> | STR | DEX | CON | INT | WIS | CHA |
-> |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|
-> | 8 (-1) | 13 (+1) | 12 (+1) | 4 (-3) | 8 (-1) | 3 (-4) |
->
-> **Damage Vulnerabilities** fire
-> **Damage Resistances** necrotic, poison
-> **Condition Immunities** [[blinded]], [[deafened]], [[Poisoned|poisoned]]
-> **Senses** [[blindsight]] 60 ft. (blind beyond this radius), passive Perception 9
-> **Languages** understands the languages you speak
-> **Challenge** — **Proficiency Bonus (PB)** equals your bonus
->
-> <p class="sb-header">Actions</p>
->
-> **_Multiattack._** When you reach 14th level in this class, the blighted sapling makes two claw attacks.
->
-> **_Claws._** _Melee Weapon Attack:_ your spell attack modifier to hit, reach 5 ft., one target. _Hit:_ 2d4 + PB piercing damage.
+> > [!blank]
+> > **Senses** [[blindsight]] 60 ft. (blind beyond this radius), passive Perception 9
+> > **Languages** understands the languages you speak
+> > **Challenge** — **Proficiency Bonus (PB)** equals your bonus
+> >
+> > <p class="sb-header">Actions</p>
+> >
+> > **_Multiattack._** When you reach 14th level in this class, the blighted sapling makes two claw attacks.
+> >
+> > **_Claws._** _Melee Weapon Attack:_ your spell attack modifier to hit, reach 5 ft., one target. _Hit:_ 2d4 + PB piercing damage.
 
 ### Level 10: Foul Conjuration
 

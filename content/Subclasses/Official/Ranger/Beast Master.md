@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:13:35.457-04:00
-modified: 2026-09-28T18:50:34.709-04:00
-published: 2026-09-28T18:50:34.709-04:00
+modified: 2026-09-28T23:01:47.762-04:00
+published: 2026-09-28T23:01:47.762-04:00
 Name: "[[Beast Master]]"
 Parent Class: "[[Ranger]]"
 Source: Player's Handbook 5.5e
@@ -39,7 +39,9 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 > > <i>Medium Beast, Neutral</i>
 > >
 > > **AC** 13 plus your Wisdom modifier
+> >
 > > **HP**  5 plus five times your Ranger level (the beast has a number of [[Hit Point Dice|Hit Dice]] \[d8s] equal to your Ranger level)
+> >
 > > **Speed**  40 ft., [[Climb Speed|Climb]] 40 ft.
 > >
 > > | STR | DEX | CON | INT | WIS | CHA |  |
@@ -49,7 +51,9 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 > > | +2   |  +2    |   +2   | -1    |   +2   | +0  | **Save** |
 > >
 > > **Senses**  [[Darkvision]] 60 ft.; Passive Perception 12
+> >
 > > **Languages** Understands the languages you know
+> >
 > > **CR** None (XP 0; PB equals your Proficiency Bonus)
 >
 > > [!blank]
@@ -70,7 +74,9 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 > > <i>Medium Beast, Neutral</i>
 > >
 > > **AC** 13 plus your Wisdom modifier
-> > **HP**  5 plus five times your Ranger level (the beast has a number of [[Hit Point Dice|Hit Dice]] \[d8s] equal to your Ranger level)
+> >
+> > **HP** 5 plus five times your Ranger level (the beast has a number of [[Hit Point Dice|Hit Dice]] \[d8s] equal to your Ranger level)
+> >
 > > **Speed**  5 ft., [[Swim Speed|Swim]] 60 ft.
 > >
 > > | STR | DEX | CON | INT | WIS | CHA |  |
@@ -80,7 +86,9 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 > > | +2   |  +2    |   +2   | -1    |   +2   | +0  | **Save** |
 > >
 > > **Senses**  [[Darkvision]] 90 ft.; Passive Perception 12
+> >
 > > **Languages** Understands the languages you know
+> >
 > > **CR** None (XP 0; PB equals your Proficiency Bonus)
 >
 > > [!blank]
@@ -103,7 +111,9 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 > > <i>Small Beast, Neutral</i>
 > >
 > > **AC** 13 plus your Wisdom modifier
+> >
 > > **HP**  4 plus four times your Ranger level (the beast has a number of [[Hit Point Dice|Hit Dice]] \[d6s] equal to your Ranger level)
+> >
 > > **Speed**  10 ft., [[Fly Speed|Fly]] 60 ft.
 > >
 > > | STR | DEX | CON | INT | WIS | CHA |  |
@@ -113,7 +123,9 @@ Whenever you finish a [[Long Rest]], you can summon a different primal beast, w
 > > | -2   |  +3    |   +1   | -1    |   +2   | +0  | **Save** |
 > >
 > > **Senses**  [[Darkvision]] 60 ft.; Passive Perception 12
+> >
 > > **Languages** Understands the languages you know
+> >
 > > **CR** None (XP 0; PB equals your Proficiency Bonus)
 >
 > > [!blank]
