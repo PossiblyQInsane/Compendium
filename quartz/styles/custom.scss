@@ -41,17 +41,17 @@ h3 {
 .sb-name {
   font-variant: small-caps;
   font-size: 200%;
-  color: gold;
+  color: goldenrod;
   margin-top: 0;
-  margin-bottom: 0;
-  border-bottom: 2px solid gold;
+  margin-bottom: 0.1rem;
+  border-bottom: 2px solid goldenrod;
 }
 
 .sb-header {
   font-variant: small-caps;
   font-size: 150%;
-  color: gold;
-  border-bottom: 2px solid gold;
+  color: goldenrod;
+  border-bottom: 2px solid goldenrod;
   margin-bottom: 0;
 }
 
@@ -924,7 +924,7 @@ table {
   --table-header-background-hover: var(--table-header-background);
   --table-header-color: var(--headers, var(--text-faint));
   --table-header-border-color: transparent;
-  --table-row-alt-background: transparent;
+  --table-row-alt-background: lavender;
   --table-row-alt-background-hover: var(--table-row-alt-background);
   --table-row-background-hover: var(--table-row-alt-background);
   --table-column-alt-background: transparent;
@@ -939,8 +939,8 @@ table {
   margin: 12px auto;
   width: unset;
   border: none !important;
-  th {
-    color: gold;
+  th, td {
+    color: goldenrod;
   }
   font-size: 120%;
 }
