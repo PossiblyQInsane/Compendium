@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T16:23:10.008-04:00
-modified: 2026-09-05T12:50:26.776-04:00
-published: 2026-09-05T12:50:26.776-04:00
+modified: 2026-09-28T23:20:24.875-04:00
+published: 2026-09-28T23:20:24.875-04:00
 Name: "[[Animate Objects]]"
 Spell Level: Level 5
 School: Transmutation
@@ -34,4 +34,34 @@ Until the spell ends, you can take a [[Bonus Action]] to mentally command any cr
 
 _**Using a Higher-Level Spell Slot.**_ The creature’s Slam damage increases by 1d4 (Medium or smaller), 1d6 (Large), or 1d12 (Huge) for each spell slot level above 5.
 
-![[Images/Animated Object.statblockwizard.png|400]]
+> [!statblocks|columns flex]
+>
+> > [!blank]
+> >
+> > <h4 class="sb-name">Animated Object</h4>
+> > <i>Huge or Smaller Construct, Unaligned</i>
+> >
+> > **AC** 15
+> >
+> > **HP** 10 (Medium or smaller), 20 (Large), 40 (Huge)
+> >
+> > **Speed** 30 ft.
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |  |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:---|
+> > |  16    |   10    | 10     |  3      | 3    |   1   | |
+> > | +3    |  +0    |  +0   |  -4    |  -4   |  -5  | **Mod** |
+> > | +3   |  +0   |   +0   | -4    |   -4   | -5  | **Save** |
+>
+> > [!blank]
+> > **Immunities** Poison, Psychic; [[Charmed]], [[Exhaustion]], [[Frightened]], [[Paralyzed]], [[Poisoned]]
+> >
+> > **Senses** [[Blindsight]] 30 ft.; Passive Perception 6
+> >
+> > **Languages** Understands the languages you know
+> >
+> > **CR** None (XP 0; PB equals your Proficiency Bonus)
+> >
+> > <p class="sb-header">Actions</p>
+> >
+> > **_Slam._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ Force damage equal to 1d4 + 3 (Medium or smaller), 2d6 + 3 + your spellcasting ability modifier (Large), or 2d12 + 3 + your spellcasting ability modifier (Huge).

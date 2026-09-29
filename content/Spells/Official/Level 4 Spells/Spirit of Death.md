@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-27T01:48:03.540-04:00
-modified: 2026-09-27T02:06:18.689-04:00
-published: 2026-09-27T02:06:18.689-04:00
+modified: 2026-09-29T01:50:35.849-04:00
+published: 2026-09-29T01:50:35.849-04:00
 Name: "[[Spirit of Death]]"
 Spell Level: Level 4
 School: Necromancy
@@ -32,4 +32,45 @@ The spirit is an ally to you and your companions. In combat, the spirit shares y
 
 _**At Higher Levels.**_ When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell’s level appears in the reaper spirit stat block.
 
-![[Images/ReaperSpiritStatBlock.jpg]]
+> [!statblocks|columns flex]
+>
+> > [!blank]
+> >
+> > <h4 class="sb-name">Reaper Spirit</h4>
+> > <i>Medium Undead, Neutral</i>
+> >
+> > **Armor Class** 11 + the level of the spell (natural armor)
+> >
+> > **Hit Points** 40 + 10 for each spell level above 4th
+> >
+> > **Speed** 30 ft., [[Fly Speed|fly]] 30 ft. (hover)
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|
+> > | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) |
+> >
+> > **Damage Immunities** necrotic, poison
+> >
+> > **Condition Immunities** [[Charmed|charmed]], [[Exhaustion|exhaustion]], [[Frightened|frightened]], [[Paralyzed|paralyzed]], [[Poisoned|poisoned]]
+> >
+> > **Senses** [[darkvision]] 60 ft., passive Perception 13
+> >
+> > **Languages** understands the languages you speak
+> >
+> > **Challenge** — **Proficiency Bonus** equals your bonus
+> >
+> > <p class="sb-header"></p>
+> >
+> > _**Incorporeal Movement.**_ The spirit can move through other creatures and objects as if they were [[difficult terrain]]. If it ends its turn inside an object, it is shunted to the nearest unoccupied space and takes 1d10 force damage for every 5 feet shunted.
+>
+> > [!blank]
+> >
+> > <p class="sb-header">Actions</p>
+> >
+> > _**Multiattack.**_ The spirit makes a number of Reaping Scythe attacks equal to half the level of the spell (rounded down).
+> >
+> > _**Reaping Scythe.**_ _Melee Weapon Attack:_ your spell attack modifier to hit (with advantage), reach 5 ft., the creature haunted by Haunt Creature. _Hit:_ 1d8 + 3 + the spell’s level necrotic damage.
+> >
+> > <p class="sb-header">Bonus Actions</p>
+> >
+> > _**Haunt Creature.**_ The spirit targets a creature it can see within 10 feet of itself and begins haunting it. While the target is haunted, you and the spirit sense the direction and distance to the target if it is on the same plane of existence as you. Additionally, if the target starts its turn within 10 feet of the spirit, the target must succeed on a Wisdom saving throw against your spell save DC or have the [[frightened]] condition until the start of the target’s next turn. The target remains haunted until it dies, the spirit disappears, or the spirit uses this action again.

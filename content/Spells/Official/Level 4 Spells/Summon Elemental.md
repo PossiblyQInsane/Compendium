@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-07T11:45:07.112-04:00
-modified: 2026-09-05T16:09:59.508-04:00
-published: 2026-09-05T16:09:59.508-04:00
+modified: 2026-09-29T00:22:02.865-04:00
+published: 2026-09-29T00:22:02.865-04:00
 Name: "[[Summon Elemental]]"
 Spell Level: Level 4
 School: Conjuration
@@ -32,4 +32,42 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 _**Using a Higher-Level Spell Slot.**_ Use the spell slot’s level for the spell’s level in the stat block.
 
-![[Images/Elemental Spirit.statblockwizard.png]]
+> [!statblocks|columns flex]
+>
+> > [!blank]
+> >
+> > <h4 class="sb-name">Elemental Spirit</h4>
+> > <i>Medium Elemental, Neutral</i>
+> >
+> > **AC** 11 + the spell's level
+> >
+> > **HP** 50 + 10 for each spell level above 4
+> >
+> > **Speed** 40 ft.; [[Burrow Speed|Burrow]] 40 ft. (Earth only); [[Fly Speed|Fly]] 40 ft. (hover; Air only); [[Swim Speed|Swim]] 40 ft. (Water only)
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |  |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:---|
+> > |  18    |   15    | 17     |  4      |  10   |   16   | |
+> > | +4    |  +2    |  +3   |  -3    |  +0   |  +3  | **Mod** |
+> > | +4   |  +2   |   +3  | -3  |   +0   | +3  | **Save** |
+> >
+> > **Resistances** Acid (Water only), Lightning and Thunder (Air only), Piercing and Slashing (Earth only)
+> >
+> > **Immunities** Fire (Fire only), Poison; [[Exhaustion]], [[Paralyzed]], [[Petrified]], [[Poisoned]]
+> >
+> > **Senses** [[Darkvision]] 60 ft.; Passive Perception 10
+>
+> > [!blank]
+> > **Languages** Primordial, understands the languages you know
+> >
+> > **CR** None (XP 0; PB equals your Proficiency Bonus)
+> >
+> > <p class="sb-header">Traits</p>
+> >
+> > **_Amorphous Form (Air, Fire, and Water Only)._** The spirit can move through a space as narrow as 1 inch wide without it counting as [[Difficult Terrain]].
+> >
+> > <p class="sb-header">Actions</p>
+> >
+> > **_Multiattack._** The spirit makes a number of Slam attacks equal to half this spell’s level (round down).
+> >
+> > **_Slam._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d10 + 4 + the spell’s level Bludgeoning (Earth only), Cold (Water only), Lightning (Air only), or Fire (Fire only) damage.

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-05T16:29:03.616-04:00
-modified: 2026-09-05T16:40:16.378-04:00
-published: 2026-09-05T16:40:16.378-04:00
+modified: 2026-09-29T00:48:19.822-04:00
+published: 2026-09-29T00:48:19.822-04:00
 Name: "[[Summon Undead]]"
 Spell Level: Level 3
 School: Necromancy
@@ -32,4 +32,46 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **_Using a Higher-Level Spell Slot._** Use the spell slot’s level for the spell’s level in the stat block.
 
-![[Images/Undead Spirit.statblockwizard (1).png]]
+> [!statblocks|columns flex]
+>
+> > [!blank]
+> >
+> > <h4 class="sb-name">Undead Spirit</h4>
+> > <i>Medium Undead, Neutral</i>
+> >
+> > **AC** 11 + the spell's level
+> >
+> > **HP** 30 (Ghostly and Putrid only) or 20 (Skeletal only) + 10 for each spell level above 3
+> >
+> > **Speed** 30 ft.; [[Fly Speed|Fly]] 40 ft. (hover; Ghostly only)
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |  |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:---|
+> > |  12    |   16    | 15     |  4      |  10   |   9  | |
+> > | +1    |  +3   |  +2   |  -3    |  +0   |  -1  | **Mod** |
+> > | +1   |  +3   |   +2  | -3  |   +0   | -1  | **Save** |
+> >
+> > **Immunities** Necrotic, Poison; [[Exhaustion]], [[Frightened]], [[Paralyzed]], [[Poisoned]]
+> >
+> > **Senses** [[Darkvision]] 60 ft.; Passive Perception 10
+> >
+> > **Languages** Understands the languages you know
+> >
+> > **CR** None (XP 0; PB equals your Proficiency Bonus)
+> >
+> > <p class="sb-header">Traits</p>
+> >
+> > **_Festering Aura (Putrid Only)._** _Constitution Saving Throw:_ DC equals your spell save DC, any creature (other than you) that starts its turn within a 5-foot [[Emanation]] originating from the spirit. _Failure:_ The creature has the [[Poisoned]] condition until the start of its next turn.
+>
+> > [!blank]
+> > **_Incorporeal Passage (Ghostly Only)._** The spirit can move through other creatures and objects as if they were [[Difficult Terrain]]. If it ends its turn inside an object, it is shunted to the nearest unoccupied space and takes 1d10 Force damage for every 5 feet traveled.
+> >
+> > <p class="sb-header">Actions</p>
+> >
+> > **_Multiattack._** The spirit makes a number of attacks equal to half this spell’s level (round down).
+> >
+> > **_Deathly Touch (Ghostly Only)._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d8 + 3 + the spell’s level Necrotic damage, and the target has the [[Frightened]] condition until the end of its next turn.
+> >
+> > **_Grave Bolt (Skeletal Only)._** _Ranged Attack Roll:_ Bonus equals your spell attack modifier, range 150 ft. _Hit:_ 2d4 + 3 + the spell’s level Necrotic damage.
+> >
+> > **_Rotting Claw (Putrid Only)._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d6 + 3 + the spell’s level Slashing damage. If the target has the [[Poisoned]] condition, it has the [[Paralyzed]] condition until the end of its next turn.

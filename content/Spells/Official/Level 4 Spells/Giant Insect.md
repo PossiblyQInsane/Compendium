@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-07T11:30:47.459-04:00
-modified: 2026-09-05T12:58:48.747-04:00
-published: 2026-09-05T12:58:48.747-04:00
+modified: 2026-09-28T23:38:26.435-04:00
+published: 2026-09-28T23:38:26.435-04:00
 Name: "[[Giant Insect]]"
 Spell Level: Level 4
 School: Conjuration
@@ -32,4 +32,45 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 _**Using a Higher-Level Spell Slot.**_ Use the spell slot’s level for the spell’s level in the stat block.
 
-![[Images/Giant Insect.statblockwizard.png]]
+> [!statblocks|columns flex]
+>
+> > [!blank]
+> >
+> > <h4 class="sb-name">Giant Insect</h4>
+> > <i>Large Beast, Unaligned</i>
+> >
+> > **AC** 11 + the spell's level
+> >
+> > **HP** 30 + 10 for each spell level above 4
+> >
+> > **Speed** 40 ft., [[Climb Speed|Climb]] 40 ft., [[Fly Speed|Fly]] 40 ft. (Wasp only)
+> >
+> > | STR | DEX | CON | INT | WIS | CHA |  |
+> > |:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:---|
+> > |  17    |   13    | 15     |  4      |  14   |   3   | |
+> > | +3    |  +1    |  +2   |  -3    |  +2   |  -4  | **Mod** |
+> > | +3   |  +1   |   +2  | -3   |   +2   | -4  | **Save** |
+> >
+> > **Senses** [[Darkvision]] 60 ft.; Passive Perception 12
+> >
+> > **Languages** Understands the languages you know
+> >
+> > **CR** None (XP 0; PB equals your Proficiency Bonus)
+>
+> > [!blank]
+> >
+> > <p class="sb-header">Traits</p>
+> >
+> > **_Spider Climb._** The insect can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+> >
+> > <p class="sb-header">Actions</p>
+> >
+> > **_Multiattack._** The insect makes a number of attacks equal to half this spell’s level (round down).
+> >
+> > **_Poison Jab._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 10 ft. _Hit:_ 1d6 + 3 plus the spell’s level Piercing damage plus 1d4 Poison damage.
+> >
+> > **_Web Bolt (Spider Only)._** _Ranged Attack Roll:_ Bonus equals your spell attack modifier, range 60 ft. _Hit:_ 1d10 + 3 plus the spell’s level Bludgeoning damage, and the target’s Speed is reduced to 0 until the start of the insect’s next turn.
+> >
+> > <p class="sb-header">Bonus Actions</p>
+> >
+> > **_Venomous Spew (Centipede Only)._** _Constitution Saving Throw:_ Your spell save DC, one creature the insect can see within 10 feet. _Failure:_ The target has the [[Poisoned]] condition until the start of the insect’s next turn.

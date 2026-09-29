@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - paralyzed
 created: 2026-07-29T12:19:35.624-04:00
-modified: 2026-08-17T15:46:52.560-04:00
-published: 2026-08-17T15:46:52.560-04:00
+modified: 2026-09-29T01:26:57.986-04:00
+published: 2026-09-29T01:26:57.986-04:00
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

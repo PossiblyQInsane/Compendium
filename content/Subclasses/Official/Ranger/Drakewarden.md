@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:17:10.844-04:00
-modified: 2026-09-28T23:02:17.741-04:00
-published: 2026-09-28T23:02:17.741-04:00
+modified: 2026-09-29T01:36:18.098-04:00
+published: 2026-09-29T01:36:18.098-04:00
 Name: "[[Drakewarden]]"
 Parent Class: "[[Ranger]]"
 Source: Fizban's Treasury of Dragons
@@ -54,7 +54,7 @@ The drake remains until it is reduced to 0 hit points, until you use this featur
 
 Once you summon the drake, you can’t do so again until you finish a [[long rest]], unless you expend a spell slot of 1st level or higher to summon it.
 
-> [!statblocks|columns flex] Drake Companion
+> [!statblocks|columns flex]
 >
 > > [!blank]
 > >
