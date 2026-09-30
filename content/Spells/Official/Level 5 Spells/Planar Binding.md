@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T01:08:07.297-04:00
-modified: 2026-08-31T15:24:57.994-04:00
-published: 2026-08-31T15:24:57.994-04:00
+modified: 2026-09-30T01:03:30.063-04:00
+published: 2026-09-30T01:03:30.063-04:00
 Name: "[[Planar Binding]]"
 Spell Level: Level 5
 School: Abjuration
 Classes: Bard, Cleric, Druid, Warlock, Wizard
+Third Party Classes: Magus
 Special: M
 Source: Player's Handbook 5.5e
 Official: true

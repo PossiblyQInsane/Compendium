@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-09T10:43:21.620-04:00
-modified: 2026-08-31T19:44:26.872-04:00
-published: 2026-08-31T19:44:26.872-04:00
+modified: 2026-09-30T01:04:13.393-04:00
+published: 2026-09-30T01:04:13.393-04:00
 Name: "[[Contingency]]"
 Spell Level: Level 6
 School: Abjuration
 Classes: Wizard
+Third Party Classes: Magus
 Special: M
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-05T01:19:43.342-04:00
-modified: 2026-08-31T12:06:37.375-04:00
-published: 2026-08-31T12:06:37.375-04:00
+modified: 2026-09-30T00:46:17.341-04:00
+published: 2026-09-30T00:46:17.341-04:00
 Name: "[[Hellish Rebuke]]"
 Spell Level: Level 1
 School: Evocation
 Classes: Warlock
+Third Party Classes: Illrigger (AoR)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

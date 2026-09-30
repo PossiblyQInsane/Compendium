@@ -4,12 +4,13 @@ aliases:
   - Darkness
 title: Darkness
 created: 2026-08-04T09:50:10.915-04:00
-modified: 2026-09-11T10:25:59.031-04:00
-published: 2026-09-11T10:25:59.031-04:00
+modified: 2026-09-30T00:49:37.686-04:00
+published: 2026-09-30T00:49:37.686-04:00
 Name: "[[Darkness (Spell)|Darkness]]"
 Spell Level: Level 2
 School: Evocation
 Classes: Sorcerer, Warlock, Wizard
+Third Party Classes: Illrigger (AoR)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

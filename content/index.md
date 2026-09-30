@@ -2,8 +2,8 @@
 publish: true
 title: Front Page
 created: 2026-07-27T11:22:33.072-04:00
-modified: 2026-08-23T16:29:28.440-04:00
-published: 2026-08-23T16:29:28.440-04:00
+modified: 2026-09-30T00:34:29.499-04:00
+published: 2026-09-30T00:34:29.499-04:00
 ---
 
 # Classes
@@ -27,7 +27,9 @@ published: 2026-08-23T16:29:28.440-04:00
 ### Third Party
 
 - [[Gunslinger]]
+- [[Illrigger]]
 - [[Kindred]]
+- [[Magus]]
 - [[Monster Hunter]]
 - [[Pugilist]]
 - [[Tamer]]

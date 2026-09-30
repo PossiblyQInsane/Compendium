@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-03T00:34:39.809-04:00
-modified: 2026-09-03T00:37:32.419-04:00
-published: 2026-09-03T00:37:32.419-04:00
+modified: 2026-09-30T00:48:49.895-04:00
+published: 2026-09-30T00:48:49.895-04:00
 Name: "[[Nystul's Magic Aura]]"
 Spell Level: Level 2
 School: Illusion
 Classes: Wizard
+Third Party Classes: Illrigger (AoR)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

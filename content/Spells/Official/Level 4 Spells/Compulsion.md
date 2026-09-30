@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T00:15:06.108-04:00
-modified: 2026-08-31T15:14:40.040-04:00
-published: 2026-08-31T15:14:40.040-04:00
+modified: 2026-09-30T00:59:14.344-04:00
+published: 2026-09-30T00:59:14.344-04:00
 Name: "[[Compulsion]]"
 Spell Level: Level 4
 School: Enchantment
 Classes: Bard
+Third Party Classes: Illrigger (AoR)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

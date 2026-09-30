@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T23:26:00.276-04:00
-modified: 2026-09-21T16:41:45.045-04:00
-published: 2026-09-21T16:41:45.045-04:00
+modified: 2026-09-30T00:54:47.064-04:00
+published: 2026-09-30T00:54:47.064-04:00
 Name: "[[Fear]]"
 Spell Level: Level 3
 School: Illusion
 Classes: Bard, Sorcerer, Warlock, Wizard
-Third Party Classes: Tamer
+Third Party Classes: Illrigger (AoR), Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T10:38:25.947-04:00
-modified: 2026-09-21T10:45:34.360-04:00
-published: 2026-09-21T10:45:34.360-04:00
+modified: 2026-09-30T00:32:18.229-04:00
+published: 2026-09-30T00:32:18.229-04:00
 Name: "[[Eldritch Domain]]"
 Parent Class: "[[Cleric]]"
 Source: "Grim Hollow: Player's Guide"
@@ -27,7 +27,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells                                                                            |
 | :----------: | :----------------------------------------------------------------------------------------- |
-|    **3**     | _[[Detect Thoughts]]_, _[[Tasha's Hideous Laughter]]_, _[[See Invisibility]]_, _[[Sleep]]_ |
+|    **3**     | _[[Detect Thoughts]]_, _[[See Invisibility]]_, _[[Sleep]]_, _[[Tasha's Hideous Laughter]]_ |
 |    **5**     | _[[Fear]]_, _[[Tongues]]_                                                                  |
 |    **7**     | _[[Confusion]]_, _[[Phantasmal Killer]]_                                                   |
 |    **9**     | _[[Contact Other Plane]]_, _[[Dream]]_                                                     |

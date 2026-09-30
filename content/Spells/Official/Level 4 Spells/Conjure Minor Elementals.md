@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-07T11:20:55.221-04:00
-modified: 2026-08-31T15:14:52.840-04:00
-published: 2026-08-31T15:14:52.840-04:00
+modified: 2026-09-30T00:59:31.214-04:00
+published: 2026-09-30T00:59:31.214-04:00
 Name: "[[Conjure Minor Elementals]]"
 Spell Level: Level 4
 School: Conjuration
 Classes: Druid, Wizard
+Third Party Classes: Magus
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

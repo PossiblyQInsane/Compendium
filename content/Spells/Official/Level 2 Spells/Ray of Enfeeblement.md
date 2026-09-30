@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-04T10:29:51.042-04:00
-modified: 2026-08-31T12:23:47.566-04:00
-published: 2026-08-31T12:23:47.566-04:00
+modified: 2026-09-30T00:53:06.087-04:00
+published: 2026-09-30T00:53:06.087-04:00
 Name: "[[Ray of Enfeeblement]]"
 Spell Level: Level 2
 School: Necromancy
 Classes: Warlock, Wizard
+Third Party Classes: Illrigger (AoR), Magus
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

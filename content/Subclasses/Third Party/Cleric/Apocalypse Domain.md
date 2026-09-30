@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T01:12:24.746-04:00
-modified: 2026-09-21T10:32:38.243-04:00
-published: 2026-09-21T10:32:38.243-04:00
+modified: 2026-09-30T00:28:05.647-04:00
+published: 2026-09-30T00:28:05.647-04:00
 Name: "[[Apocalypse Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Cthulhu by Torchlight
@@ -42,11 +42,11 @@ Your connection to this divine domain ensures you always have certain spells rea
 ##### Apocalypse Domain Spells
 
 | Cleric Level | Prepared Spells                                                                                   |
-| ------------ | ------------------------------------------------------------------------------------------------- |
-| 3            | _[[Darkness (Spell)\|Darkness]]_, _[[Hellish Rebuke]]_, _[[Phantasmal Force]]_, _[[Thunderwave]]_ |
-| 5            | _[[Doom]]_, _[[Fear]]_                                                                            |
-| 7            | _[[Blight]]_, _[[Ice Storm]]_                                                                     |
-| 9            | _[[Antilife Shell]]_, _[[Insect Plague]]_                                                         |
+| :----------: | ------------------------------------------------------------------------------------------------- |
+|      3       | _[[Darkness (Spell)\|Darkness]]_, _[[Hellish Rebuke]]_, _[[Phantasmal Force]]_, _[[Thunderwave]]_ |
+|      5       | _[[Doom]]_, _[[Fear]]_                                                                            |
+|      7       | _[[Blight]]_, _[[Ice Storm]]_                                                                     |
+|      9       | _[[Antilife Shell]]_, _[[Insect Plague]]_                                                         |
 
 ### Level 3: Visions of Annihilation
 

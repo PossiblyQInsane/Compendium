@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T22:59:59.209-04:00
-modified: 2026-08-31T15:08:40.664-04:00
-published: 2026-08-31T15:08:40.664-04:00
+modified: 2026-09-30T00:55:49.755-04:00
+published: 2026-09-30T00:55:49.755-04:00
 Name: "[[Magic Circle]]"
 Spell Level: Level 3
 School: Abjuration
 Classes: Cleric, Paladin, Warlock, Wizard
+Third Party Classes: Magus
 Special: M
 Source: Player's Handbook 5.5e
 Official: true

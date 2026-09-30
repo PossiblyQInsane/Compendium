@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T21:28:20.646-04:00
-modified: 2026-08-31T12:25:06.701-04:00
-published: 2026-08-31T12:25:06.701-04:00
+modified: 2026-09-30T00:53:39.390-04:00
+published: 2026-09-30T00:53:39.390-04:00
 Name: "[[Suggestion]]"
 Spell Level: Level 2
 School: Enchantment
 Classes: Bard, Sorcerer, Warlock, Wizard
+Third Party Classes: Illrigger (AoR)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

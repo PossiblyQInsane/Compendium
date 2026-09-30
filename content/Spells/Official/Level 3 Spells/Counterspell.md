@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T15:06:05.781-04:00
-modified: 2026-08-31T15:05:51.680-04:00
-published: 2026-08-31T15:05:51.680-04:00
+modified: 2026-09-30T00:54:24.227-04:00
+published: 2026-09-30T00:54:24.227-04:00
 Name: "[[Counterspell]]"
 Spell Level: Level 3
 School: Abjuration
 Classes: Sorcerer, Warlock, Wizard
+Third Party Classes: Magus
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

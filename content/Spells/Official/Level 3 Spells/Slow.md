@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T23:48:22.828-04:00
-modified: 2026-08-31T15:09:56.469-04:00
-published: 2026-08-31T15:09:56.469-04:00
+modified: 2026-09-30T00:57:23.748-04:00
+published: 2026-09-30T00:57:23.748-04:00
 Name: "[[Spells/Official/Level 3 Spells/Slow|Slow]]"
 Spell Level: Level 3
 School: Transmutation
 Classes: Bard, Sorcerer, Wizard
+Third Party Classes: Illrigger (AoR), Magus
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

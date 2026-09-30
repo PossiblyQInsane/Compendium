@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T23:35:37.108-04:00
-modified: 2026-08-31T12:19:23.903-04:00
-published: 2026-08-31T12:19:23.903-04:00
+modified: 2026-09-30T00:50:02.313-04:00
+published: 2026-09-30T00:50:02.313-04:00
 Name: "[[Dragon's Breath|Dragon's Breath]]"
 Spell Level: Level 2
 School: Transmutation
 Classes: Artificer, Sorcerer, Wizard
+Third Party Classes: Magus
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

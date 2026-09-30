@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T00:12:22.796-04:00
-modified: 2026-08-31T15:14:25.898-04:00
-published: 2026-08-31T15:14:25.898-04:00
+modified: 2026-09-30T00:59:02.247-04:00
+published: 2026-09-30T00:59:02.247-04:00
 Name: "[[Charm Monster]]"
 Spell Level: Level 4
 School: Enchantment
 Classes: Bard, Druid, Sorcerer, Warlock, Wizard
+Third Party Classes: Magus
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

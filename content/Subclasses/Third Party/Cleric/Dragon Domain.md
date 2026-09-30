@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T00:45:59.666-04:00
-modified: 2026-09-21T10:45:17.504-04:00
-published: 2026-09-21T10:45:17.504-04:00
+modified: 2026-09-30T00:31:43.581-04:00
+published: 2026-09-30T00:31:43.581-04:00
 Name: "[[Dragon Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Valda's Spire of Secrets
@@ -34,11 +34,11 @@ Your connection to this divine domain ensures you always have certain spells rea
 ##### Dragon Domain Spells
 
 | **Cleric Level** | **Spells**                                                                                      |
-| ---------------- | ----------------------------------------------------------------------------------------------- |
-| **3**            | _[[Chromatic Orb]]_, _[[Command]]_, _[[Darkvision (Spell)\|Darkvision]]_, _[[Dragon's Breath]]_ |
-| **5**            | _[[Fly]]_, _[[Protection from Energy]]_                                                         |
-| **7**            | _[[Banishment]]_, _[[Charm Monster]]_                                                           |
-| **9**            | _[[Dominate Person]]_, _[[Summon Dragon]]_                                                      |
+| :--------------: | ----------------------------------------------------------------------------------------------- |
+|      **3**       | _[[Chromatic Orb]]_, _[[Command]]_, _[[Darkvision (Spell)\|Darkvision]]_, _[[Dragon's Breath]]_ |
+|      **5**       | _[[Fly]]_, _[[Protection from Energy]]_                                                         |
+|      **7**       | _[[Banishment]]_, _[[Charm Monster]]_                                                           |
+|      **9**       | _[[Dominate Person]]_, _[[Summon Dragon]]_                                                      |
 
 ### Level 3: Draconic Majesty
 

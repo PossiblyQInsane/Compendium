@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-30T10:51:13.912-04:00
-modified: 2026-08-31T15:26:26.939-04:00
-published: 2026-08-31T15:26:26.939-04:00
+modified: 2026-09-30T01:03:41.460-04:00
+published: 2026-09-30T01:03:41.460-04:00
 Name: "[[Teleportation Circle]]"
 Spell Level: Level 5
 School: Conjuration
 Classes: Bard, Sorcerer, Warlock, Wizard
+Third Party Classes: Magus
 Special: M
 Source: Player's Handbook 5.5e
 Official: true

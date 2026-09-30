@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T22:37:54.050-04:00
-modified: 2026-08-31T12:04:44.780-04:00
-published: 2026-08-31T12:04:44.780-04:00
+modified: 2026-09-30T00:45:28.231-04:00
+published: 2026-09-30T00:45:28.231-04:00
 Name: "[[Disguise Self|Disguise Self]]"
 Spell Level: Level 1
 School: Illusion
 Classes: Artificer, Bard, Sorcerer, Wizard
+Third Party Classes: Illrigger (AoR)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

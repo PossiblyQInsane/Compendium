@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T23:15:33.162-04:00
-modified: 2026-08-31T15:04:59.847-04:00
-published: 2026-08-31T15:04:59.847-04:00
+modified: 2026-09-30T00:54:09.719-04:00
+published: 2026-09-30T00:54:09.719-04:00
 Name: "[[Bestow Curse]]"
 Spell Level: Level 3
 School: Necromancy
 Classes: Bard, Cleric, Wizard
+Third Party Classes: Illrigger (AoR)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

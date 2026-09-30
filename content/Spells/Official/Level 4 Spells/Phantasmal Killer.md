@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T00:30:59.488-04:00
-modified: 2026-08-31T15:17:34.343-04:00
-published: 2026-08-31T15:17:34.343-04:00
+modified: 2026-09-30T01:01:40.636-04:00
+published: 2026-09-30T01:01:40.636-04:00
 Name: "[[Phantasmal Killer]]"
 Spell Level: Level 4
 School: Illusion
 Classes: Bard, Wizard
+Third Party Classes: Illrigger (AoR)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

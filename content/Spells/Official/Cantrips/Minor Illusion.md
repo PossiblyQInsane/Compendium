@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T20:21:20.959-04:00
-modified: 2026-08-31T11:52:36.292-04:00
-published: 2026-08-31T11:52:36.292-04:00
+modified: 2026-09-30T00:41:16.944-04:00
+published: 2026-09-30T00:41:16.944-04:00
 Name: "[[Minor Illusion]]"
 Spell Level: Cantrip
 School: Illusion
 Classes: Bard, Sorcerer, Warlock, Wizard
+Third Party Classes: Illrigger (AoR)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

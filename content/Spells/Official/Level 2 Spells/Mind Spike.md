@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-30T10:28:01.164-04:00
-modified: 2026-08-31T12:22:30.213-04:00
-published: 2026-08-31T12:22:30.213-04:00
+modified: 2026-09-30T00:52:15.870-04:00
+published: 2026-09-30T00:52:15.870-04:00
 Name: "[[Mind Spike]]"
 Spell Level: Level 2
 School: Divination
 Classes: Sorcerer, Warlock, Wizard
+Third Party Classes: Magus
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

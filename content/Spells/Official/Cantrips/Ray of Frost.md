@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T22:00:47.793-04:00
-modified: 2026-08-31T11:53:22.750-04:00
-published: 2026-08-31T11:53:22.750-04:00
+modified: 2026-09-30T00:41:59.936-04:00
+published: 2026-09-30T00:41:59.936-04:00
 Name: "[[Ray of Frost|Ray of Frost]]"
 Spell Level: Cantrip
 School: Evocation
 Classes: Artificer, Sorcerer, Wizard
+Third Party Classes: Illrigger (AoR), Magus
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

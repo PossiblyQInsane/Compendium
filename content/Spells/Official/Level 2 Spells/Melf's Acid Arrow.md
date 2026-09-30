@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T20:07:12.027-04:00
-modified: 2026-08-31T12:22:24.527-04:00
-published: 2026-08-31T12:22:24.527-04:00
+modified: 2026-09-30T00:48:30.569-04:00
+published: 2026-09-30T00:48:30.569-04:00
 Name: "[[Melf's Acid Arrow]]"
 Spell Level: Level 2
 School: Evocation
 Classes: Wizard
+Third Party Classes: Magus
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

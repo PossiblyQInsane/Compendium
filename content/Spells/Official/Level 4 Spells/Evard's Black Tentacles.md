@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-09-13T23:56:55.878-04:00
-modified: 2026-09-13T23:59:25.927-04:00
-published: 2026-09-13T23:59:25.927-04:00
+modified: 2026-09-30T00:58:34.505-04:00
+published: 2026-09-30T00:58:34.505-04:00
 Name: "[[Evard's Black Tentacles]]"
 Spell Level: Level 4
 School: Conjuration
 Classes: Wizard
+Third Party Classes: Magus
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T23:55:36.552-04:00
-modified: 2026-08-31T19:43:35.129-04:00
-published: 2026-08-31T19:43:35.129-04:00
+modified: 2026-09-30T01:04:01.789-04:00
+published: 2026-09-30T01:04:01.789-04:00
 Name: "[[Blade Barrier]]"
 Spell Level: Level 6
 School: Evocation
 Classes: Cleric
+Third Party Classes: Magus
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

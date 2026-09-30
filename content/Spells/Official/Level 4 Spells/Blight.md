@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-31T10:13:29.535-04:00
-modified: 2026-08-31T15:14:16.955-04:00
-published: 2026-08-31T15:14:16.955-04:00
+modified: 2026-09-30T00:58:47.960-04:00
+published: 2026-09-30T00:58:47.960-04:00
 Name: "[[Blight]]"
 Spell Level: Level 4
 School: Necromancy
 Classes: Druid, Sorcerer, Warlock, Wizard
+Third Party Classes: Illrigger (AoR)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

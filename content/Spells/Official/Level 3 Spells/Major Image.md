@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T23:36:32.246-04:00
-modified: 2026-08-31T15:08:46.955-04:00
-published: 2026-08-31T15:08:46.955-04:00
+modified: 2026-09-30T00:56:05.010-04:00
+published: 2026-09-30T00:56:05.010-04:00
 Name: "[[Major Image]]"
 Spell Level: Level 3
 School: Illusion
 Classes: Bard, Sorcerer, Warlock, Wizard
+Third Party Classes: Illrigger (AoR)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

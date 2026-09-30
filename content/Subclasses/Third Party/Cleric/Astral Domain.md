@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-05T00:32:52.877-04:00
-modified: 2026-09-21T10:32:46.071-04:00
-published: 2026-09-21T10:32:46.071-04:00
+modified: 2026-09-30T00:28:13.586-04:00
+published: 2026-09-30T00:28:13.586-04:00
 Name: "[[Astral Domain]]"
 Parent Class: "[[Cleric]]"
 Source: "The Griffon's Saddlebag: Book One"
@@ -26,11 +26,11 @@ Your connection to this divine domain ensures you always have certain spells rea
 ##### Astral Domain Spells
 
 | **Cleric Level** | **Spells**                                                                               |
-| ---------------- | ---------------------------------------------------------------------------------------- |
-| **3**            | _[[Blur]]_, _[[Guiding Bolt]]_, _[[Invisibility]]_, _[[Longstrider]]_, _[[Starry Wisp]]_ |
-| **5**            | _[[Blink]]_, _[[Spells/Official/Level 3 Spells/Slow\|Slow]]_                             |
-| **7**            | _[[Banishment]]_, _[[Dimension Door]]_                                                   |
-| **9**            | _[[Teleportation Circle]]_, _[[Wall of Force]]_                                          |
+| :--------------: | ---------------------------------------------------------------------------------------- |
+|      **3**       | _[[Blur]]_, _[[Guiding Bolt]]_, _[[Invisibility]]_, _[[Longstrider]]_, _[[Starry Wisp]]_ |
+|      **5**       | _[[Blink]]_, _[[Spells/Official/Level 3 Spells/Slow\|Slow]]_                             |
+|      **7**       | _[[Banishment]]_, _[[Dimension Door]]_                                                   |
+|      **9**       | _[[Teleportation Circle]]_, _[[Wall of Force]]_                                          |
 
 ### Level 3: Create Void
 

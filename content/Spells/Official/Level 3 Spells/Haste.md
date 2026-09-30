@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T13:53:53.498-04:00
-modified: 2026-09-21T16:42:05.086-04:00
-published: 2026-09-21T16:42:05.086-04:00
+modified: 2026-09-30T00:55:14.013-04:00
+published: 2026-09-30T00:55:14.013-04:00
 Name: "[[Haste]]"
 Spell Level: Level 3
 School: Transmutation
 Classes: Artificer, Sorcerer, Wizard
-Third Party Classes: Tamer
+Third Party Classes: Illrigger (AoR), Magus, Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

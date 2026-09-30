@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T12:46:07.351-04:00
-modified: 2026-08-31T12:22:18.939-04:00
-published: 2026-08-31T12:22:18.939-04:00
+modified: 2026-09-30T00:52:07.916-04:00
+published: 2026-09-30T00:52:07.916-04:00
 Name: "[[Magic Weapon]]"
 Spell Level: Level 2
 School: Transmutation
 Classes: Artificer, Paladin, Ranger, Sorcerer, Wizard
+Third Party Classes: Magus
 Special: —
 Source: Player's Handbook 5.5e
 Official: true
