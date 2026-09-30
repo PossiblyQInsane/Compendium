@@ -553,10 +553,12 @@ A Sorcerer subclass is a specialization that grants you features at certain Sorc
 
 ### Official Sorcerer Subclasses
 
-| Name                                                                     | Source                 | Edition |
-| ------------------------------------------------------------------------ | ---------------------- | ------- |
-| [[Subclasses/Official/Sorcerer/Aberrant Sorcery.md\|Aberrant Sorcery]]   | Player's Handbook 5.5e | 5.5e    |
-| [[Subclasses/Official/Sorcerer/Clockwork Sorcery.md\|Clockwork Sorcery]] | Player's Handbook 5.5e | 5.5e    |
+| Name                                                                       | Source                 | Edition |
+| -------------------------------------------------------------------------- | ---------------------- | ------- |
+| [[Subclasses/Official/Sorcerer/Aberrant Sorcery.md\|Aberrant Sorcery]]     | Player's Handbook 5.5e | 5.5e    |
+| [[Subclasses/Official/Sorcerer/Clockwork Sorcery.md\|Clockwork Sorcery]]   | Player's Handbook 5.5e | 5.5e    |
+| [[Subclasses/Official/Sorcerer/Draconic Sorcery.md\|Draconic Sorcery]]     | Player's Handbook 5.5e | 5.5e    |
+| [[Subclasses/Official/Sorcerer/Wild Magic Sorcery.md\|Wild Magic Sorcery]] | Player's Handbook 5.5e | 5.5e    |
 
 ### Third Party Sorcerer Subclasses
 
