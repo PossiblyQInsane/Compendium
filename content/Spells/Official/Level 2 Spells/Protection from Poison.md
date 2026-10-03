@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T12:51:02.504-04:00
-modified: 2026-09-21T16:39:44.678-04:00
-published: 2026-09-21T16:39:44.678-04:00
+modified: 2026-10-02T18:10:30.729-04:00
+published: 2026-10-02T18:10:30.729-04:00
 Name: "[[Protection from Poison]]"
 Spell Level: Level 2
 School: Abjuration
 Classes: Artificer, Cleric, Druid, Paladin, Ranger
-Third Party Classes: Tamer
+Third Party Classes: Bender (earth), Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

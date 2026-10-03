@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T23:12:33.512-04:00
-modified: 2026-08-31T15:15:23.433-04:00
-published: 2026-08-31T15:15:23.433-04:00
+modified: 2026-10-02T18:22:01.882-04:00
+published: 2026-10-02T18:22:01.882-04:00
 Name: "[[Divination]]"
 Spell Level: Level 4
 School: Divination
 Classes: Cleric, Druid, Wizard
+Third Party Classes: Bender (water)
 Special: R, M
 Source: Player's Handbook 5.5e
 Official: true

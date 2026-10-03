@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T20:13:16.410-04:00
-modified: 2026-08-31T15:07:25.609-04:00
-published: 2026-08-31T15:07:25.609-04:00
+modified: 2026-10-02T18:13:34.589-04:00
+published: 2026-10-02T18:13:34.589-04:00
 Name: "[[Gaseous Form]]"
 Spell Level: Level 3
 School: Transmutation
 Classes: Sorcerer, Warlock, Wizard
+Third Party Classes: Bender (air)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

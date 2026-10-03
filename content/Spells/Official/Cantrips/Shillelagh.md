@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-07T10:18:15.972-04:00
-modified: 2026-08-31T11:54:00.727-04:00
-published: 2026-08-31T11:54:00.727-04:00
+modified: 2026-10-02T17:45:06.504-04:00
+published: 2026-10-02T17:45:06.504-04:00
 Name: "[[Shillelagh]]"
 Spell Level: Cantrip
 School: Transmutation
 Classes: Druid
+Third Party Classes: Bender (earth)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

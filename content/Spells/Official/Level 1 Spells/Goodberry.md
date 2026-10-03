@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-04T11:18:14.147-04:00
-modified: 2026-08-31T12:06:05.900-04:00
-published: 2026-08-31T12:06:05.900-04:00
+modified: 2026-10-02T17:57:31.006-04:00
+published: 2026-10-02T17:57:31.006-04:00
 Name: "[[Goodberry]]"
 Spell Level: Level 1
 School: Conjuration
 Classes: Druid, Ranger
+Third Party Classes: Bender (earth)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

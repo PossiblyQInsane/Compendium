@@ -1,0 +1,59 @@
+---
+publish: true
+created: 2026-09-11T01:22:42.326-04:00
+modified: 2026-10-02T19:23:17.671-04:00
+published: 2026-10-02T19:23:17.671-04:00
+Name: "[[Shadow Sorcery]]"
+Parent Class: "[[Sorcerer]]"
+Source: "Ravenloft: The Horrors Within"
+Official: true
+Edition: 5.5e
+---
+
+<div class="source">Ravenloft: The Horrors Within</div>
+
+> [!caption|right wm-sm]
+> ![[Images/Shadow Sorcery.png]]
+
+_Bend Doom and Darkness to Your Will_
+
+Your innate magic comes from the most nebulous and inscrutable forces of the Shadowfell or from other regions of supernatural darkness. You might trace your lineage to an entity from such a place, or perhaps you were exposed to the sinister energy of a shadow dragon and were transformed by it. Your shadowy magic allows you to command darkness, undeath, and woe.
+
+### Level 3: Shadow Spells
+
+When you reach a Sorcerer level specified in the Shadow Spells table, you thereafter always have the listed spells prepared.
+
+##### Shadow Spells
+
+| Sorcerer Level | Spells                                                                                       |
+| -------------- | -------------------------------------------------------------------------------------------- |
+| 3              | _[[Bane]]_, _[[Darkness (Spell)\|Darkness]]_, _[[Inflict Wounds]]_, _[[Pass without Trace]]_ |
+| 5              | _[[Hunger of Hadar]]_, _[[Nondetection]]_                                                    |
+| 7              | _[[Greater Invisibility]]_, _[[Phantasmal Killer]]_                                          |
+| 9              | _[[Contagion]]_, _[[Creation]]_                                                              |
+
+### Level 3: Power of Shadow
+
+You gain the following benefits.
+
+**_Eyes of the Dark._** You have [[Darkvision]] with a range of 120 feet and [[Blindsight]] with a range of 10 feet. In addition, if a spell you cast creates an area of [[Darkness]], you can see normally through that spell’s Darkness.
+
+**_Strength of the Grave._** If you would drop to 0 Hit Points and not die outright, you can make a Charisma saving throw (DC 5 plus the damage taken). On a successful save, your Hit Points instead change to a number equal to your Charisma modifier plus your Sorcerer level. After you succeed on this save, you can’t use this benefit again until you finish a [[Long Rest]].
+
+### Level 6: Beasts of Ill Omen
+
+You can call forth a howling creature of shadow to hound your foes. You can spend 3 Sorcery Points to cast _[[Summon Beast]]_ as a [[Bonus Action]] without expending a spell slot, without preparing the spell, and without Material components. The summoned creature appears as a beast made of shadow, and enemies within 5 feet of the summoned creature have [[Disadvantage]] on saving throws against spells you cast.
+
+Whenever you cast the spell, you can modify it so that it doesn’t require [[Concentration]]. If you do so, the spell’s duration becomes 1 minute for that casting, and the spell ends early if you cast the spell again.
+
+### Level 14: Shadow Walk
+
+While you are in [[Dim Light]] or [[Darkness]], you can take a Bonus Action to teleport up to 120 feet to an unoccupied space you can see that is also in Dim Light or Darkness.
+
+### Level 18: Umbral Form
+
+When you use Innate Sorcery, you can adopt a shadowy form, gaining the benefits below while your Innate Sorcery is active or until you end the form (no action required). Once you use this feature, you can’t use it again until you finish a [[Long Rest]] unless you spend 6 Sorcery Points (no action required) to restore your use of it.
+
+**_Incorporeal Movement._** You can move through creatures and objects as if they were [[Difficult Terrain]], but you take 1d10 Force damage if you end your turn inside a creature or an object.
+
+**_Shadow Resilience._** You have [[Resistance]] to all damage except Force and Radiant damage.

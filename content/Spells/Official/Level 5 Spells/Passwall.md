@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-07-28T10:40:19.744-04:00
-modified: 2026-08-31T15:24:50.982-04:00
-published: 2026-08-31T15:24:50.982-04:00
+modified: 2026-10-02T18:26:33.367-04:00
+published: 2026-10-02T18:26:33.367-04:00
 Name: "[[Passwall]]"
 Spell Level: Level 5
 School: Transmutation
 Classes: Wizard
+Third Party Classes: Bender (earth)
+Earth constraint: (stone only)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-30T10:34:03.492-04:00
-modified: 2026-08-31T15:05:27.582-04:00
-published: 2026-08-31T15:05:27.582-04:00
+modified: 2026-10-02T18:15:30.002-04:00
+published: 2026-10-02T18:15:30.002-04:00
 Name: "[[Clairvoyance]]"
 Spell Level: Level 3
 School: Divination
 Classes: Bard, Cleric, Sorcerer, Wizard
+Third Party Classes: Bender (water)
 Special: C, M
 Source: Player's Handbook 5.5e
 Official: true

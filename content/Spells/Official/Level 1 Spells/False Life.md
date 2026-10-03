@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T22:49:54.306-04:00
-modified: 2026-09-30T00:45:48.043-04:00
-published: 2026-09-30T00:45:48.043-04:00
+modified: 2026-10-02T17:52:12.242-04:00
+published: 2026-10-02T17:52:12.242-04:00
 Name: "[[False Life|False Life]]"
 Spell Level: Level 1
 School: Necromancy
 Classes: Artificer, Sorcerer, Wizard
-Third Party Classes: Magus, Tamer
+Third Party Classes: Bender (earth), Magus, Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T19:48:25.382-04:00
-modified: 2026-09-30T00:44:23.976-04:00
-published: 2026-09-30T00:44:23.976-04:00
+modified: 2026-10-02T17:48:07.564-04:00
+published: 2026-10-02T17:48:07.564-04:00
 Name: "[[Color Spray]]"
 Spell Level: Level 1
 School: Illusion
 Classes: Bard, Sorcerer, Wizard
-Third Party Classes: Illrigger (AoR), Magus
+Third Party Classes: Bender (air, fire), Illrigger (AoR), Magus
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

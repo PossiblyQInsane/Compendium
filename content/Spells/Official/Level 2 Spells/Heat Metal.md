@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T00:59:59.738-04:00
-modified: 2026-09-30T00:51:14.046-04:00
-published: 2026-09-30T00:51:14.046-04:00
+modified: 2026-10-02T18:11:31.954-04:00
+published: 2026-10-02T18:11:31.954-04:00
 Name: "[[Heat Metal]]"
 Spell Level: Level 2
 School: Transmutation
 Classes: Artificer, Bard, Druid
-Third Party Classes: Illrigger (AoR)
+Third Party Classes: Bender (fire), Illrigger (AoR)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

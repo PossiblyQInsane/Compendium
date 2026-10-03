@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T23:02:57.354-04:00
-modified: 2026-08-31T15:08:57.928-04:00
-published: 2026-08-31T15:08:57.928-04:00
+modified: 2026-10-02T18:14:16.161-04:00
+published: 2026-10-02T18:14:16.161-04:00
 Name: "[[Meld into Stone]]"
 Spell Level: Level 3
 School: Transmutation
 Classes: Cleric, Druid, Ranger
+Third Party Classes: Bender (earth)
 Special: R
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T23:22:26.665-04:00
-modified: 2026-08-31T12:24:22.237-04:00
-published: 2026-08-31T12:24:22.237-04:00
+modified: 2026-10-02T18:09:59.117-04:00
+published: 2026-10-02T18:09:59.117-04:00
 Name: "[[Shatter]]"
 Spell Level: Level 2
 School: Evocation
 Classes: Bard, Sorcerer, Wizard
+Third Party Classes: Bender (air)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

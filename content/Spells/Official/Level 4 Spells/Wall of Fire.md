@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-29T11:47:50.730-04:00
-modified: 2026-09-30T01:02:11.918-04:00
-published: 2026-09-30T01:02:11.918-04:00
+modified: 2026-10-02T18:21:20.440-04:00
+published: 2026-10-02T18:21:20.440-04:00
 Name: "[[Wall of Fire]]"
 Spell Level: Level 4
 School: Evocation
 Classes: Druid, Sorcerer, Wizard
-Third Party Classes: Magus
+Third Party Classes: Bender (fire), Magus
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

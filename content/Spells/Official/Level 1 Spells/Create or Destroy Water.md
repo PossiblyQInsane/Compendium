@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T22:29:50.561-04:00
-modified: 2026-09-03T01:01:35.010-04:00
-published: 2026-09-03T01:01:35.010-04:00
+modified: 2026-10-02T17:49:27.568-04:00
+published: 2026-10-02T17:49:27.568-04:00
 Name: "[[Create or Destroy Water]]"
 Spell Level: Level 1
 School: Transmutation
 Classes: Cleric, Druid
+Third Party Classes: Bender (water)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

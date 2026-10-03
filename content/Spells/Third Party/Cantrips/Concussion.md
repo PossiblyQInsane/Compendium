@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-24T21:29:18.816-04:00
-modified: 2026-08-31T11:55:33.785-04:00
-published: 2026-08-31T11:55:33.785-04:00
+modified: 2026-10-02T17:37:27.607-04:00
+published: 2026-10-02T17:37:27.607-04:00
 Name: "[[Concussion]]"
 Spell Level: Cantrip
 School: Evocation
 Classes: Druid, Sorcerer, Warlock, Wizard
+Third Party Classes: Bender (air)
 Special: —
 Source: Heliana's Guide to Monster Hunting
 Official: false
@@ -16,7 +17,7 @@ Edition: 5e
 
 <div class="source">Heliana's Guide to Monster Hunting<br>Loot Tavern</div>
 
-_Evocation Cantrip ([[Druid]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
+_Evocation Cantrip ([[Bender]] (air), [[Druid]], [[Sorcerer]], [[Warlock]], [[Wizard]])_
 
 ---
 

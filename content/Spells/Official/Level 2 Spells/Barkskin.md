@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-08-07T10:33:48.465-04:00
-modified: 2026-09-21T16:36:01.105-04:00
-published: 2026-09-21T16:36:01.105-04:00
+modified: 2026-10-02T18:02:25.830-04:00
+published: 2026-10-02T18:02:25.830-04:00
 Name: "[[Barkskin]]"
 Spell Level: Level 2
 School: Transmutation
 Classes: Druid, Ranger
-Third Party Classes: Tamer
+Third Party Classes: Bender (earth), Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

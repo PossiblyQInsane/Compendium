@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T15:29:09.666-04:00
-modified: 2026-08-31T15:18:04.947-04:00
-published: 2026-08-31T15:18:04.947-04:00
+modified: 2026-10-02T18:19:50.653-04:00
+published: 2026-10-02T18:19:50.653-04:00
 Name: "[[Stone Shape]]"
 Spell Level: Level 4
 School: Transmutation
 Classes: Artificer, Cleric, Druid, Wizard
+Third Party Classes: Bender (earth)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

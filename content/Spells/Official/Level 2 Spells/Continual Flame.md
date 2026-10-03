@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T23:28:03.232-04:00
-modified: 2026-08-31T12:18:28.188-04:00
-published: 2026-08-31T12:18:28.188-04:00
+modified: 2026-10-02T18:03:57.167-04:00
+published: 2026-10-02T18:03:57.167-04:00
 Name: "[[Continual Flame|Continual Flame]]"
 Spell Level: Level 2
 School: Evocation
 Classes: Artificer, Cleric, Druid, Wizard
+Third Party Classes: Bender (fire)
 Special: M
 Source: Player's Handbook 5.5e
 Official: true

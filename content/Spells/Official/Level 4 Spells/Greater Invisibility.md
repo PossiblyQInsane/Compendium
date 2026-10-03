@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-28T10:36:36.371-04:00
-modified: 2026-09-30T01:00:28.634-04:00
-published: 2026-09-30T01:00:28.634-04:00
+modified: 2026-10-02T18:21:09.843-04:00
+published: 2026-10-02T18:21:09.843-04:00
 Name: "[[Greater Invisibility]]"
 Spell Level: Level 4
 School: Illusion
 Classes: Bard, Sorcerer, Wizard
-Third Party Classes: Illrigger (AoR), Tamer
+Third Party Classes: Bender (fire), Illrigger (AoR), Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

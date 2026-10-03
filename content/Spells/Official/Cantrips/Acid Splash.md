@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-23T11:10:02.614-04:00
-modified: 2026-09-30T00:38:50.365-04:00
-published: 2026-09-30T00:38:50.365-04:00
+modified: 2026-10-02T17:39:50.133-04:00
+published: 2026-10-02T17:39:50.133-04:00
 Name: "[[Acid Splash|Acid Splash]]"
 Spell Level: Cantrip
 School: Evocation
 Classes: Artificer, Sorcerer, Wizard
-Third Party Classes: Magus
+Third Party Classes: Bender (earth), Magus
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

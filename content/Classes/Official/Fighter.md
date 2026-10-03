@@ -166,6 +166,7 @@ A Fighter subclass is a specialization that grants you features at certain Fight
 | [[Subclasses/Official/Fighter/Psi Warrior.md\|Psi Warrior]]         | Player's Handbook 5.5e             | 5.5e    |
 | [[Subclasses/Official/Fighter/Rune Knight.md\|Rune Knight]]         | Tasha's Cauldron of Everything     | 5e      |
 | [[Subclasses/Official/Fighter/Samurai.md\|Samurai]]                 | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Official/Fighter/Sorrow Knight.md\|Sorrow Knight]]     | D\&D Beyond Drops                   | 5.5e    |
 
 ### Third Party Fighter Subclasses
 

@@ -1,13 +1,17 @@
 ---
 publish: true
 created: 2026-08-03T01:08:07.297-04:00
-modified: 2026-09-30T01:03:30.063-04:00
-published: 2026-09-30T01:03:30.063-04:00
+modified: 2026-10-02T18:25:47.167-04:00
+published: 2026-10-02T18:25:47.167-04:00
 Name: "[[Planar Binding]]"
 Spell Level: Level 5
 School: Abjuration
 Classes: Bard, Cleric, Druid, Warlock, Wizard
-Third Party Classes: Magus
+Third Party Classes: Bender (air, earth, fire, water), Magus
+Air constraint: (air elemental only)
+Earth constraint: (earth elemental only)
+Fire constraint: (fire elemental only)
+Water constraint: (water elemental only)
 Special: M
 Source: Player's Handbook 5.5e
 Official: true

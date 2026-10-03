@@ -1,13 +1,17 @@
 ---
 publish: true
 created: 2026-07-26T00:51:16.236-04:00
-modified: 2026-09-21T16:37:04.358-04:00
-published: 2026-09-21T16:37:04.358-04:00
+modified: 2026-10-02T18:08:18.095-04:00
+published: 2026-10-02T18:08:18.095-04:00
 Name: "[[Enhance Ability]]"
 Spell Level: Level 2
 School: Transmutation
 Classes: Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard
-Third Party Classes: Tamer
+Third Party Classes: Bender (air, earth, fire, water), Tamer
+Air constraint: (Dexterity only)
+Earth constraint: (Constitution or Strength only)
+Fire constraint: (Charisma only)
+Water constraint: (Wisdom only)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T21:32:41.127-04:00
-modified: 2026-09-21T16:27:00.755-04:00
-published: 2026-09-21T16:27:00.755-04:00
+modified: 2026-10-02T17:41:17.364-04:00
+published: 2026-10-02T17:41:17.364-04:00
 Name: "[[Guidance|Guidance]]"
 Spell Level: Cantrip
 School: Divination
 Classes: Artificer, Cleric, Druid
-Third Party Classes: Tamer
+Third Party Classes: Bender (water), Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T22:58:18.183-04:00
-modified: 2026-09-30T00:46:46.837-04:00
-published: 2026-09-30T00:46:46.837-04:00
+modified: 2026-10-02T17:59:02.635-04:00
+published: 2026-10-02T17:59:02.635-04:00
 Name: "[[Jump|Jump]]"
 Spell Level: Level 1
 School: Transmutation
 Classes: Artificer, Druid, Ranger, Sorcerer, Wizard
-Third Party Classes: Magus, Tamer
+Third Party Classes: Bender (air), Magus, Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

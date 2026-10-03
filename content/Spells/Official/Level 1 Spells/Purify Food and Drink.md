@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T23:04:55.856-04:00
-modified: 2026-09-21T16:34:13.670-04:00
-published: 2026-09-21T16:34:13.670-04:00
+modified: 2026-10-02T17:59:42.060-04:00
+published: 2026-10-02T17:59:42.060-04:00
 Name: "[[Purify Food and Drink|Purify Food and Drink]]"
 Spell Level: Level 1
 School: Transmutation
 Classes: Artificer, Cleric, Druid, Paladin
-Third Party Classes: Tamer
+Third Party Classes: Bender (water), Tamer
 Special: R
 Source: Player's Handbook 5.5e
 Official: true

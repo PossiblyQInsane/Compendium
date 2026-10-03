@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-29T11:40:39.734-04:00
-modified: 2026-08-31T15:11:52.051-04:00
-published: 2026-08-31T15:11:52.051-04:00
+modified: 2026-10-02T18:13:54.593-04:00
+published: 2026-10-02T18:13:54.593-04:00
 Name: "[[Wind Wall]]"
 Spell Level: Level 3
 School: Evocation
 Classes: Druid, Ranger
+Third Party Classes: Bender (air)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

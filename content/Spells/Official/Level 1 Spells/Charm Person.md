@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T19:42:25.294-04:00
-modified: 2026-09-30T00:43:52.793-04:00
-published: 2026-09-30T00:43:52.793-04:00
+modified: 2026-10-02T17:47:23.961-04:00
+published: 2026-10-02T17:47:23.961-04:00
 Name: "[[Charm Person]]"
 Spell Level: Level 1
 School: Enchantment
 Classes: Bard, Druid, Sorcerer, Warlock, Wizard
-Third Party Classes: Illrigger (AoR)
+Third Party Classes: Bender (water), Illrigger (AoR)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

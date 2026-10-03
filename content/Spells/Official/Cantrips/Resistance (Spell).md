@@ -4,13 +4,13 @@ aliases:
   - Resistance
 title: Resistance
 created: 2026-07-25T22:05:27.156-04:00
-modified: 2026-09-21T16:27:56.847-04:00
-published: 2026-09-21T16:27:56.847-04:00
+modified: 2026-10-02T17:44:11.498-04:00
+published: 2026-10-02T17:44:11.498-04:00
 Name: "[[Resistance (Spell)|Resistance]]"
 Spell Level: Cantrip
 School: Abjuration
 Classes: Artificer, Cleric, Druid
-Third Party Classes: Tamer
+Third Party Classes: Bender (earth), Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

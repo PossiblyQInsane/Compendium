@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T23:14:07.232-04:00
-modified: 2026-08-31T12:11:34.851-04:00
-published: 2026-08-31T12:11:34.851-04:00
+modified: 2026-10-02T18:00:58.784-04:00
+published: 2026-10-02T18:00:58.784-04:00
 Name: "[[Thunderwave]]"
 Spell Level: Level 1
 School: Evocation
 Classes: Bard, Druid, Sorcerer, Wizard
+Third Party Classes: Bender (air)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

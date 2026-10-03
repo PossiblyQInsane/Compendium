@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T20:47:43.306-04:00
-modified: 2026-08-31T12:11:25.641-04:00
-published: 2026-08-31T12:11:25.641-04:00
+modified: 2026-10-02T17:58:33.044-04:00
+published: 2026-10-02T17:58:33.044-04:00
 Name: "[[Tasha's Hideous Laughter]]"
 Spell Level: Level 1
 School: Enchantment
 Classes: Bard, Warlock, Wizard
+Third Party Classes: Bender (air)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

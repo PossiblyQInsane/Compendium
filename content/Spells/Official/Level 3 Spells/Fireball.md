@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-29T11:34:38.842-04:00
-modified: 2026-09-30T00:54:58.839-04:00
-published: 2026-09-30T00:54:58.839-04:00
+modified: 2026-10-02T18:14:33.838-04:00
+published: 2026-10-02T18:14:33.838-04:00
 Name: "[[Fireball]]"
 Spell Level: Level 3
 School: Evocation
 Classes: Sorcerer, Wizard
-Third Party Classes: Magus
+Third Party Classes: Bender (fire), Magus
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

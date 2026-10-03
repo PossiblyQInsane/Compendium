@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-30T10:45:58.019-04:00
-modified: 2026-09-21T16:46:31.607-04:00
-published: 2026-09-21T16:46:31.607-04:00
+modified: 2026-10-02T18:28:12.529-04:00
+published: 2026-10-02T18:28:12.529-04:00
 Name: "[[Scrying]]"
 Spell Level: Level 5
 School: Divination
 Classes: Bard, Cleric, Druid, Warlock, Wizard
-Third Party Classes: Tamer
+Third Party Classes: Bender (water), Tamer
 Special: C, M
 Source: Player's Handbook 5.5e
 Official: true

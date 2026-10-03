@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-30T10:30:58.023-04:00
-modified: 2026-08-31T15:05:16.362-04:00
-published: 2026-08-31T15:05:16.362-04:00
+modified: 2026-10-02T18:13:14.618-04:00
+published: 2026-10-02T18:13:14.618-04:00
 Name: "[[Call Lightning]]"
 Spell Level: Level 3
 School: Conjuration
 Classes: Druid
+Third Party Classes: Bender (air)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

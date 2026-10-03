@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T21:13:33.348-04:00
-modified: 2026-09-30T00:51:25.993-04:00
-published: 2026-09-30T00:51:25.993-04:00
+modified: 2026-10-02T18:12:20.685-04:00
+published: 2026-10-02T18:12:20.685-04:00
 Name: "[[Hold Person]]"
 Spell Level: Level 2
 School: Enchantment
 Classes: Bard, Cleric, Druid, Sorcerer, Warlock, Wizard
-Third Party Classes: Illrigger (AoR), Magus
+Third Party Classes: Bender (water), Illrigger (AoR), Magus
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T00:20:47.143-04:00
-modified: 2026-09-30T00:59:52.925-04:00
-published: 2026-09-30T00:59:52.925-04:00
+modified: 2026-10-02T18:19:01.523-04:00
+published: 2026-10-02T18:19:01.523-04:00
 Name: "[[Dimension Door]]"
 Spell Level: Level 4
 School: Conjuration
 Classes: Bard, Sorcerer, Warlock, Wizard
-Third Party Classes: Illrigger (AoR), Tamer
+Third Party Classes: Bender (air), Illrigger (AoR), Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

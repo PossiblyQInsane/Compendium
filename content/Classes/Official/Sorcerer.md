@@ -553,12 +553,17 @@ A Sorcerer subclass is a specialization that grants you features at certain Sorc
 
 ### Official Sorcerer Subclasses
 
-| Name                                                                       | Source                 | Edition |
-| -------------------------------------------------------------------------- | ---------------------- | ------- |
-| [[Subclasses/Official/Sorcerer/Aberrant Sorcery.md\|Aberrant Sorcery]]     | Player's Handbook 5.5e | 5.5e    |
-| [[Subclasses/Official/Sorcerer/Clockwork Sorcery.md\|Clockwork Sorcery]]   | Player's Handbook 5.5e | 5.5e    |
-| [[Subclasses/Official/Sorcerer/Draconic Sorcery.md\|Draconic Sorcery]]     | Player's Handbook 5.5e | 5.5e    |
-| [[Subclasses/Official/Sorcerer/Wild Magic Sorcery.md\|Wild Magic Sorcery]] | Player's Handbook 5.5e | 5.5e    |
+| Name                                                                       | Source                                  | Edition |
+| -------------------------------------------------------------------------- | --------------------------------------- | ------- |
+| [[Subclasses/Official/Sorcerer/Aberrant Sorcery.md\|Aberrant Sorcery]]     | Player's Handbook 5.5e                  | 5.5e    |
+| [[Subclasses/Official/Sorcerer/Clockwork Sorcery.md\|Clockwork Sorcery]]   | Player's Handbook 5.5e                  | 5.5e    |
+| [[Subclasses/Official/Sorcerer/Divine Soul.md\|Divine Soul]]               | Xanathar's Guide to Everything          | 5e      |
+| [[Subclasses/Official/Sorcerer/Draconic Sorcery.md\|Draconic Sorcery]]     | Player's Handbook 5.5e                  | 5.5e    |
+| [[Subclasses/Official/Sorcerer/Lunar Sorcery.md\|Lunar Sorcery]]           | Dragonlance: Shadow of the Dragon Queen | 5e      |
+| [[Subclasses/Official/Sorcerer/Shadow Sorcery.md\|Shadow Sorcery]]         | Ravenloft: The Horrors Within           | 5.5e    |
+| [[Subclasses/Official/Sorcerer/Spellfire Sorcery.md\|Spellfire Sorcery]]   | Forgotten Realms: Heroes of Faerûn      | 5.5e    |
+| [[Subclasses/Official/Sorcerer/Storm Sorcery.md\|Storm Sorcery]]           | Sword Coast Adventurer's Guide          | 5e      |
+| [[Subclasses/Official/Sorcerer/Wild Magic Sorcery.md\|Wild Magic Sorcery]] | Player's Handbook 5.5e                  | 5.5e    |
 
 ### Third Party Sorcerer Subclasses
 

@@ -1,13 +1,17 @@
 ---
 publish: true
 created: 2026-08-07T12:00:02.750-04:00
-modified: 2026-09-30T01:02:44.651-04:00
-published: 2026-09-30T01:02:44.651-04:00
+modified: 2026-10-02T18:23:52.396-04:00
+published: 2026-10-02T18:23:52.396-04:00
 Name: "[[Conjure Elemental]]"
 Spell Level: Level 5
 School: Conjuration
 Classes: Druid, Wizard
-Third Party Classes: Magus
+Third Party Classes: Bender (air, earth, fire, water), Magus
+Air constraint: (air only)
+Earth constraint: (earth only)
+Fire constraint: (fire only)
+Water constraint: (water only)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

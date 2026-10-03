@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T15:04:39.447-04:00
-modified: 2026-09-21T16:44:14.514-04:00
-published: 2026-09-21T16:44:14.514-04:00
+modified: 2026-10-02T18:19:13.283-04:00
+published: 2026-10-02T18:19:13.283-04:00
 Name: "[[Freedom of Movement]]"
 Spell Level: Level 4
 School: Abjuration
 Classes: Artificer, Bard, Cleric, Druid, Ranger
-Third Party Classes: Tamer
+Third Party Classes: Bender (air), Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

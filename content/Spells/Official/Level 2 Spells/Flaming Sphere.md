@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T20:01:12.755-04:00
-modified: 2026-08-31T12:20:17.584-04:00
-published: 2026-08-31T12:20:17.584-04:00
+modified: 2026-10-02T18:11:17.844-04:00
+published: 2026-10-02T18:11:17.844-04:00
 Name: "[[Flaming Sphere]]"
 Spell Level: Level 2
 School: Conjuration
 Classes: Druid, Sorcerer, Wizard
+Third Party Classes: Bender (fire)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

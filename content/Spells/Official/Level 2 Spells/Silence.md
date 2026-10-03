@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T21:24:57.503-04:00
-modified: 2026-09-30T00:53:30.264-04:00
-published: 2026-09-30T00:53:30.264-04:00
+modified: 2026-10-02T18:10:17.076-04:00
+published: 2026-10-02T18:10:17.076-04:00
 Name: "[[Silence]]"
 Spell Level: Level 2
 School: Illusion
 Classes: Bard, Cleric, Ranger
-Third Party Classes: Illrigger (AoR), Tamer
+Third Party Classes: Bender (air), Illrigger (AoR), Tamer
 Special: C, R
 Source: Player's Handbook 5.5e
 Official: true

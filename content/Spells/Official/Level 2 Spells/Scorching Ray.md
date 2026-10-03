@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-29T10:25:54.048-04:00
-modified: 2026-09-30T00:53:25.264-04:00
-published: 2026-09-30T00:53:25.264-04:00
+modified: 2026-10-02T18:11:57.069-04:00
+published: 2026-10-02T18:11:57.069-04:00
 Name: "[[Scorching Ray]]"
 Spell Level: Level 2
 School: Evocation
 Classes: Sorcerer, Wizard
-Third Party Classes: Illrigger (AoR)
+Third Party Classes: Bender (fire), Illrigger (AoR)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-08-02T20:31:45.478-04:00
-modified: 2026-09-30T00:44:42.711-04:00
-published: 2026-09-30T00:44:42.711-04:00
+modified: 2026-10-02T17:49:10.863-04:00
+published: 2026-10-02T17:49:10.863-04:00
 Name: "[[Command]]"
 Spell Level: Level 1
 School: Enchantment
 Classes: Bard, Cleric, Paladin
-Third Party Classes: Illrigger (AoR)
+Third Party Classes: Bender (water), Illrigger (AoR)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

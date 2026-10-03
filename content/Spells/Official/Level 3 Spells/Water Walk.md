@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-26T14:42:53.264-04:00
-modified: 2026-09-21T16:43:12.552-04:00
-published: 2026-09-21T16:43:12.552-04:00
+modified: 2026-10-02T18:16:23.501-04:00
+published: 2026-10-02T18:16:23.501-04:00
 Name: "[[Water Walk]]"
 Spell Level: Level 3
 School: Transmutation
 Classes: Artificer, Cleric, Druid, Ranger, Sorcerer
-Third Party Classes: Tamer
+Third Party Classes: Bender (water), Tamer
 Special: R
 Source: Player's Handbook 5.5e
 Official: true

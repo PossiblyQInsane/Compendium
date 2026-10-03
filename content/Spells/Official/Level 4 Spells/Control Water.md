@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T23:09:45.282-04:00
-modified: 2026-09-21T16:43:32.051-04:00
-published: 2026-09-21T16:43:32.051-04:00
+modified: 2026-10-02T18:21:48.686-04:00
+published: 2026-10-02T18:21:48.686-04:00
 Name: "[[Control Water]]"
 Spell Level: Level 4
 School: Transmutation
 Classes: Cleric, Druid, Wizard
-Third Party Classes: Tamer
+Third Party Classes: Bender (water), Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

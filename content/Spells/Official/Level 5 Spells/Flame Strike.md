@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-03T23:27:58.455-04:00
-modified: 2026-08-31T15:23:29.033-04:00
-published: 2026-08-31T15:23:29.033-04:00
+modified: 2026-10-02T18:27:17.665-04:00
+published: 2026-10-02T18:27:17.665-04:00
 Name: "[[Flame Strike]]"
 Spell Level: Level 5
 School: Evocation
 Classes: Cleric
+Third Party Classes: Bender (fire)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true
