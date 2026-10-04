@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T12:45:15.345-04:00
-modified: 2026-09-21T13:15:51.825-04:00
-published: 2026-09-21T13:15:51.825-04:00
+modified: 2026-10-04T00:48:25.050-04:00
+published: 2026-10-04T00:48:25.050-04:00
 Name: "[[Spirit-Fused Fighter]]"
 Parent Class: "[[Fighter]]"
 Source: "Obojima: Tales from the Tall Grass"
@@ -14,7 +14,7 @@ Edition: 5.5e
 <div class="source">Obojima: Tales from the Tall Grass<br>1985 Games</div>
 
 > [!caption|left ws-med]
-> ![[Images/Spirit-Fused Fighter.jpg]]
+> ![[Images/Pasted image 20261004004823.png]]
 
 Even the life of a spirit must come to an end.
 

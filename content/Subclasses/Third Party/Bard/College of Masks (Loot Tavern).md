@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-02T18:30:48.098-04:00
-modified: 2026-10-03T01:34:03.037-04:00
-published: 2026-10-03T01:34:03.037-04:00
+modified: 2026-10-04T14:26:19.039-04:00
+published: 2026-10-04T14:26:19.039-04:00
 Name: "[[College of Masks (Loot Tavern)|College of Masks]]"
 Parent Class: "[[Bard]]"
 Source: Ryoko's Guide to the Yokai Realms

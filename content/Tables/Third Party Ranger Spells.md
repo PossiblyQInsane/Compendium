@@ -16,6 +16,7 @@
 | Name                                                                        | School                   | Special | Source                                  | Publisher              |
 | --------------------------------------------------------------------------- | ------------------------ | ------- | --------------------------------------- | ---------------------- |
 | _[[Spells/Third Party/Level 2 Spells/Bloodletter.md\|Bloodletter]]_         | Necromancy               | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 2 Spells/Earthskin.md\|Earthskin]]_             | Biomancy                 | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 | _[[Spells/Third Party/Level 2 Spells/Preserve (Loot Tavern).md\|Preserve]]_ | Biomancy                 | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Level 2 Spells/Protection (Spell).md\|Protection]]_   | Abjuration               | C, M    | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Level 2 Spells/Sense Lifeblood.md\|Sense Lifeblood]]_ | Divination (Sangromancy) | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
@@ -27,6 +28,7 @@
 
 | Name                                                                                  | School      | Special | Source                                  | Publisher              |
 | ------------------------------------------------------------------------------------- | ----------- | ------- | --------------------------------------- | ---------------------- |
+| _[[Spells/Third Party/Level 3 Spells/Flashbang.md\|Flashbang]]_                       | Evocation   | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 | _[[Spells/Third Party/Level 3 Spells/Freedom of the Waves.md\|Freedom of the Waves]]_ | Conjuration | —       | Tal'Dorei Campaign Setting Reborn       | Darrington Press       |
 | _[[Spells/Third Party/Level 3 Spells/Globe of Twilight.md\|Globe of Twilight]]_       | Conjuration | C       | Humblewood Campaign Setting             | Hit Point Press        |
 | _[[Spells/Third Party/Level 3 Spells/Harvest Moonglow.md\|Harvest Moonglow]]_         | Evocation   | —       | The Crooked Moon                        | Avantris Entertainment |
@@ -38,6 +40,7 @@
 | Name                                                                | School      | Special | Source                            | Publisher   |
 | ------------------------------------------------------------------- | ----------- | ------- | --------------------------------- | ----------- |
 | _[[Spells/Third Party/Level 4 Spells/Lion's Roar.md\|Lion's Roar]]_ | Conjuration | C       | Ryoko's Guide to the Yokai Realms | Loot Tavern |
+| _[[Spells/Third Party/Level 4 Spells/Steelskin.md\|Steelskin]]_     | Biomancy    | —       | Ryoko's Guide to the Yokai Realms | Loot Tavern |
 
 ### Level 5 Ranger Spells
 

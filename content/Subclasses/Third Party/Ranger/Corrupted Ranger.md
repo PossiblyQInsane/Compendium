@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T13:23:03.543-04:00
-modified: 2026-09-21T17:15:12.967-04:00
-published: 2026-09-21T17:15:12.967-04:00
+modified: 2026-10-04T14:24:07.274-04:00
+published: 2026-10-04T14:24:07.274-04:00
 Name: "[[Corrupted Ranger]]"
 Parent Class: "[[Ranger]]"
 Source: "Obojima: Tales from the Tall Grass"
@@ -14,7 +14,7 @@ Edition: 5.5e
 <div class="source">Obojima: Tales from the Tall Grass<br>1985 Games</div>
 
 > [!caption|left wm-sm]
-> ![[Images/Corrupted Ranger.jpg]]
+> ![[Images/Pasted image 20261004142405.png]]
 
 You have become afflicted by the mysterious illness that haunts the island, known as the Corruption. This same foul magic, which has stained the coastlines black, now resides within your body. It curses your skin and seeps from your pores, and in time, it will even become difficult to distinguish you from it.
 

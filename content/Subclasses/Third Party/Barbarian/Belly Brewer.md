@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T03:16:44.644-04:00
-modified: 2026-09-21T03:45:57.059-04:00
-published: 2026-09-21T03:45:57.059-04:00
+modified: 2026-10-04T00:46:02.922-04:00
+published: 2026-10-04T00:46:02.922-04:00
 Name: "[[Belly Brewer]]"
 Parent Class: "[[Barbarian]]"
 Source: "Obojima: Tales from the Tall Grass"
@@ -14,7 +14,7 @@ Edition: 5.5e
 <div class="source">Obojima: Tales from the Tall Grass<br>1985 Games</div>
 
 > [!caption|left ws-med]
-> ![[Images/Belly Brewer.jpg]]
+> ![[Images/Pasted image 20261004004600.png]]
 
 These Barbarians are masters of brewing potions on the fly—directly in their guts! While others must painstakingly prepare potions with finesse, Belly Brewers channel their inner hunger to unlock the latent magic within raw ingredients without any preparation.
 

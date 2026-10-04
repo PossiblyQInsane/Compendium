@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T13:23:20.365-04:00
-modified: 2026-09-26T15:14:49.393-04:00
-published: 2026-09-26T15:14:49.393-04:00
+modified: 2026-10-04T00:52:40.815-04:00
+published: 2026-10-04T00:52:40.815-04:00
 Name: "[[Waxwork Rogue]]"
 Parent Class: "[[Rogue]]"
 Source: "Obojima: Tales from the Tall Grass"
@@ -14,7 +14,7 @@ Edition: 5.5e
 <div class="source">Obojima: Tales from the Tall Grass<br>1985 Games</div>
 
 > [!caption|left wm-sm]
-> ![[Images/Waxwork Rogue.jpg]]
+> ![[Images/Pasted image 20261004005238.png]]
 
 Waxwork Rogues have a long history on Obojima of dealing with the dangerous and the arcane. They’re known for having an array of tools and tricks to delve into the most perilous places— and almost always return with treasures and tales. To a Waxwork Rogue, any challenge can be solved with a bit of wax, a pinch of smarts, and a whole lot of magic.
 

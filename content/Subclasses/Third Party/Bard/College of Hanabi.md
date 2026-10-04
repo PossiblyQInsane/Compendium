@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-02T18:30:48.098-04:00
-modified: 2026-10-03T01:11:44.191-04:00
-published: 2026-10-03T01:11:44.191-04:00
+modified: 2026-10-03T23:56:37.274-04:00
+published: 2026-10-03T23:56:37.274-04:00
 Name: "[[College of Hanabi]]"
 Parent Class: "[[Bard]]"
 Source: Ryoko's Guide to the Yokai Realms
@@ -14,7 +14,7 @@ Edition: 5e
 <div class="source">Ryoko's Guide to the Yokai Realms<br>Loot Tavern</div>
 
 > [!caption|right ws-med]
-> ![[Images/College of Hanabi.jpg]]
+> ![[Images/Pasted image 20261003235635.png]]
 
 > [!quote|no-t]
 > “Yes, these days the College of Hanabi is all arcanotech gizmos and magiflash whatsits, but hanabi—fireworks—is where it all started! Now then, the first question to consider is how important is your hearing?”

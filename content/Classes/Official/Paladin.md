@@ -318,5 +318,6 @@ Each of these subclasses represents a body of oaths that a Paladin begins taking
 | [[Subclasses/Third Party/Paladin/Oath of the Open Sea.md\|Oath of the Open Sea]]           | Tal'Dorei Campaign Setting Reborn       | Darrington Press        | 5e      |
 | [[Subclasses/Third Party/Paladin/Oath of the River.md\|Oath of the River]]                 | Obojima: Tales from the Tall Grass      | 1985 Games              | 5.5e    |
 | [[Subclasses/Third Party/Paladin/Oath of the Spelldrinker.md\|Oath of the Spelldrinker]]   | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Third Party/Paladin/Oath of the Yojimbo.md\|Oath of the Yojimbo]]             | Ryoko's Guide to the Yokai Realms       | Loot Tavern             | 5e      |
 | [[Subclasses/Third Party/Paladin/Oath of Valhalla.md\|Oath of Valhalla]]                   | Northlands Worldbook                    | Kobold Press            | 5.5e    |
 | [[Subclasses/Third Party/Paladin/Oath of Zeal.md\|Oath of Zeal]]                           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T13:22:44.154-04:00
-modified: 2026-09-21T14:35:57.028-04:00
-published: 2026-09-21T14:35:57.028-04:00
+modified: 2026-10-04T00:49:52.711-04:00
+published: 2026-10-04T00:49:52.711-04:00
 Name: "[[Oath of the River]]"
 Parent Class: "[[Paladin]]"
 Source: "Obojima: Tales from the Tall Grass"
@@ -14,7 +14,7 @@ Edition: 5.5e
 <div class="source">Obojima: Tales from the Tall Grass<br>1985 Games</div>
 
 > [!caption|left wm-sm]
-> ![[Images/Oath of the River.jpg]]
+> ![[Images/Pasted image 20261004004950.png]]
 
 Those who commit themselves to the Oath of the River have found guidance in the shifting waters and the great creatures that live within them. These diverse individuals model their lives and the tenets they follow after the tranquil waters of a blue pool and the rushing rapids that spill over a great waterfall—always striving to flow around obstacles if possible, but ready to crash through them when left with no other option. As the river flows and bends, it seeks the path of least resistance on its journey to the ocean. Like the river, Paladins who have sworn this oath remain adaptable but steadfast in their own course.
 

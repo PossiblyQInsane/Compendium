@@ -238,3 +238,4 @@ A Monk subclass is a specialization that grants you features at certain Monk lev
 | [[Subclasses/Third Party/Monk/Warrior of the Street.md\|Warrior of the Street]]                 | Valda's Spire of Secrets           | Mage Hand Press         | 5.5e    |
 | [[Subclasses/Third Party/Monk/Way of the Aether.md\|Way of the Aether]]                         | The Griffon's Saddlebag: Book Two  | The Griffon's Saddlebag | 5e      |
 | [[Subclasses/Third Party/Monk/Way of the Cobalt Soul.md\|Way of the Cobalt Soul]]               | Tal'Dorei Campaign Setting Reborn  | Darrington Press        | 5e      |
+| [[Subclasses/Third Party/Monk/Way of the Eight Gates.md\|Way of the Eight Gates]]               | Ryoko's Guide to the Yokai Realms  | Loot Tavern             | 5e      |

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-02T18:32:06.602-04:00
-modified: 2026-10-03T20:58:03.685-04:00
-published: 2026-10-03T20:58:03.685-04:00
+modified: 2026-10-04T14:22:50.190-04:00
+published: 2026-10-04T14:22:50.190-04:00
 Name: "[[Circle of the Yokai]]"
 Parent Class: "[[Druid]]"
 Source: Ryoko's Guide to the Yokai Realms
@@ -44,17 +44,36 @@ Your circle’s connection to the realms allows you to assume more powerful, yok
 
 ##### Circle of the Yokai Wild Shapes
 
-| Druid Level | Max. CR | Yokai                                                                                                                                                                                          | Limitations                 |
-| :---------: | :-----: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-|   **2nd**   |   1/2   | [[Bakezōri]], [[Bancho-gama]], [[Betobeto-kun]], [[Betobeto-san.jpeg\|Betobeto-san]], <span style="white-space: nowrap;">[[Ko-inari]]</span>, [[Kodama Ponderling]], [[Nuekō]], [[Shumongani]] | No flying or swimming speed |
-|   **4th**   |    1    | [[Kamaitachi]], [[Kasha]], [[Kawawappa]], [[Narigama]], [[Ushi-Oni Moultling]]                                                                                                                 | No flying speed             |
-|   **8th**   |    2    | [[Anise Starshooter]], [[Futsu Kabuto]], [[Hone Karakasa]], [[Kappa]], [[Kodama Muser]], [[Stone Komainu]], [[Tatsugoi]]                                                                       | —                           |
-|  **12th**   |    3    | [[Animate Porcelain Doll]], [[Animate Robe]], [[Bitan]], [[Ōmukade Spawn]], [[Ryūme]], [[Wanyūdō]]                                                                                             | —                           |
-|  **16th**   |    4    | [[Animate Armour]], [[Ebi'ishi.jpeg\|Ebi'ishi]], [[Hemlock Whipweed]], [[Jade Komainu]], [[Kabuto Matriarch]], [[Kappa Tideweaver]], [[Nue]]                                                   | —                           |
-|  **20th**   |    5    | [[Dodomeki.jpeg\|Dodomeki]], [[Kanibōzu.jpeg\|Kanibōzu]], [[Ushi-Oni]]                                                                                                                         | —                           |
+| Druid Level | Max. CR | Yokai                                                                                                                                                                       | Limitations                 |
+| :---------: | :-----: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+|   **2nd**   |   1/2   | [[Bakezōri]], [[Bancho-gama]], [[Betobeto-kun]], [[Betobeto-san]], <span style="white-space: nowrap;">[[Ko-inari]]</span>, [[Kodama Ponderling]], [[Nuekō]], [[Shumongani]] | No flying or swimming speed |
+|   **4th**   |    1    | [[Kamaitachi]], [[Kasha]], [[Kawawappa]], [[Narigama]], [[Ushi-Oni Moultling]]                                                                                              | No flying speed             |
+|   **8th**   |    2    | [[Anise Starshooter]], [[Futsu Kabuto]], [[Hone Karakasa]], [[Kappa]], [[Kodama Muser]], [[Stone Komainu]], [[Tatsugoi]]                                                    | —                           |
+|  **12th**   |    3    | [[Animate Porcelain Doll]], [[Animate Robe]], [[Bitan]], [[Ōmukade Spawn]], [[Ryūme]], [[Wanyūdō]]                                                                          | —                           |
+|  **16th**   |    4    | [[Animate Armour]], [[Ebi'ishi]], [[Hemlock Whipweed]], [[Jade Komainu]], [[Kabuto Matriarch]], [[Kappa Tideweaver]], [[Nue]]                                               | —                           |
+|  **20th**   |    5    | [[Dodomeki]], [[Kanibōzu\|Kanibōzu]], [[Ushi-Oni]]                                                                                                                     | —                           |
 
 In addition, while in any form using your Wild Shape, you retain more of your druidic power, granting the following benefits:
 
 - You can speak as normal.
 - You have **[[advantage]]** on Constitution saving throws to maintain [[concentration]] on a spell.
 - You can cast spells present in the Circle of the Yokai Spells table or in your Wild Shape form’s statistics. When you cast a spell in this way, it doesn’t require material or somatic components, and you use your spell slots and **druid spell save DC**.
+
+### Level 6: Empowered Transformation
+
+Your connection to the yokai allows you to channel their power when you draw upon your druidic spellcasting. Immediately after you cast a spell of 1st level or higher, you can use your Wild Shape feature as a [[reaction]]. Once you use this reaction, you can’t do so again until you finish a [[short rest|short]] or [[long rest]].
+
+In addition, while you are concentrating on a spell and transformed by your Wild Shape, your weapon attacks count as magical for the purpose of overcoming [[resistance]] and [[immunity]] to nonmagical attacks and damage.
+
+### Level 10: Beckon the Yokai
+
+You have the power to call upon the Fey yokai that inhabit objects. You can cast the _[[Animate Objects]]_ spell as an action without using a spell slot or material components. Wheny ou cast the spell in this way, the effect lasts for the next 10 minutes, after which time the magic ends and the target returns to normal. Once you do so, you must finish a [[long rest]] before you can cast it in this way again.
+
+### Level 14: Yokai Fortification
+
+Your yokai forms overflow with magic, fortifying your connection to the spirit realm. If you drop to 0 hit points while transformed into a yokai with your Wild Shape, you can use your [[reaction]] to instantly use Wild Shape again (expending a use as normal), and any remaining damage carries over to your new form. Once you use this reaction, you can’t do so again until you finish a [[short rest|short]] or [[long rest]].
+
+In addition, while transformed by your Wild Shape, if you use an action to cast a spell, you can use your [[bonus action]] on that turn to make one attack.
+
+> [!caption|center wm-tl]
+> ![[Images/Pasted image 20261003235935.png]]

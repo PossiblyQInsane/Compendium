@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T13:22:23.536-04:00
-modified: 2026-09-21T13:58:57.496-04:00
-published: 2026-09-21T13:58:57.496-04:00
+modified: 2026-10-04T00:49:03.922-04:00
+published: 2026-10-04T00:49:03.922-04:00
 Name: "[[Sheep Dragon Shepherd]]"
 Parent Class: "[[Monk]]"
 Source: "Obojima: Tales from the Tall Grass"
@@ -14,7 +14,7 @@ Edition: 5.5e
 <div class="source">Obojima: Tales from the Tall Grass<br>1985 Games</div>
 
 > [!caption|center wm-tl]
-> ![[Images/Sheep Dragon Shepherd.jpg]]
+> ![[Images/Pasted image 20261004004901.png]]
 
 The sheep dragon is often regarded as the epitome of goodness and authenticity on the island. These creatures are dedicated to freedom and unwavering kinship. Those shepherds who live and train among the wandering sheep dragons learn to care deeply for those around them and understand how a flock works together to overcome obstacles. They must be ready to flee to safety yet know when to defend their herd. The role of a Sheep Dragon Shepherd requires resilience, compassion, and a kind heart. Because of this, these Monks are regarded by the people of Obojima as heroic—sometimes even mythic—figures.
 

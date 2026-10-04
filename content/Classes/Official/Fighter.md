@@ -183,6 +183,7 @@ A Fighter subclass is a specialization that grants you features at certain Fight
 | [[Subclasses/Third Party/Fighter/Living Crucible.md\|Living Crucible]]           | Grim Hollow: Player's Guide               | Ghostfire Gaming        | 5.5e    |
 | [[Subclasses/Third Party/Fighter/Nightwatcher.md\|Nightwatcher]]                 | Grim Hollow: Player's Guide               | Ghostfire Gaming        | 5.5e    |
 | [[Subclasses/Third Party/Fighter/Scofflaw.md\|Scofflaw]]                         | Humblewood Campaign Setting               | Hit Point Press         | 5e      |
+| [[Subclasses/Third Party/Fighter/Skeletal Blade.md\|Skeletal Blade]]             | Ryoko's Guide to the Yokai Realms         | Loot Tavern             | 5e      |
 | [[Subclasses/Third Party/Fighter/Spirit-Fused Fighter.md\|Spirit-Fused Fighter]] | Obojima: Tales from the Tall Grass        | 1985 Games              | 5.5e    |
 | [[Subclasses/Third Party/Fighter/Steel Hawk.md\|Steel Hawk]]                     | The Griffon's Saddlebag: Book Two         | The Griffon's Saddlebag | 5e      |
 | [[Subclasses/Third Party/Fighter/Viking.md\|Viking]]                             | Northlands Worldbook                      | Kobold Press            | 5.5e    |

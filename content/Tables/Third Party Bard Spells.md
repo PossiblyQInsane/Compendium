@@ -1,11 +1,12 @@
 ### Cantrips (Level 0 Bard Spells)
 
-| Name                                                                          | School    | Special | Source                             | Publisher              |
-| ----------------------------------------------------------------------------- | --------- | ------- | ---------------------------------- | ---------------------- |
-| _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_           | Illusion  | —       | Valda's Spire of Secrets           | Mage Hand Press        |
-| _[[Spells/Third Party/Cantrips/Finger Guns.md\|Finger Guns]]_                 | Evocation | —       | Valda's Spire of Secrets           | Mage Hand Press        |
-| _[[Spells/Third Party/Cantrips/Jolt.md\|Jolt]]_                               | Evocation | —       | Obojima: Tales from the Tall Grass | 1985 Games             |
-| _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_ | Illusion  | —       | The Crooked Moon                   | Avantris Entertainment |
+| Name                                                                          | School      | Special | Source                             | Publisher              |
+| ----------------------------------------------------------------------------- | ----------- | ------- | ---------------------------------- | ---------------------- |
+| _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_           | Illusion    | —       | Valda's Spire of Secrets           | Mage Hand Press        |
+| _[[Spells/Third Party/Cantrips/Finger Guns.md\|Finger Guns]]_                 | Evocation   | —       | Valda's Spire of Secrets           | Mage Hand Press        |
+| _[[Spells/Third Party/Cantrips/Jolt.md\|Jolt]]_                               | Evocation   | —       | Obojima: Tales from the Tall Grass | 1985 Games             |
+| _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_ | Illusion    | —       | The Crooked Moon                   | Avantris Entertainment |
+| _[[Spells/Third Party/Cantrips/Smokescreen.md\|Smokescreen]]_                 | Conjuration | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 
 ### Level 1 Bard Spells
 
@@ -29,11 +30,14 @@
 
 ### Level 3 Bard Spells
 
-| Name                                                                        | School                      | Special | Source                      | Publisher        |
-| --------------------------------------------------------------------------- | --------------------------- | ------- | --------------------------- | ---------------- |
-| _[[Spells/Third Party/Level 3 Spells/Extract Iron.md\|Extract Iron]]_       | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide | Ghostfire Gaming |
-| _[[Spells/Third Party/Level 3 Spells/Sanguine Poppet.md\|Sanguine Poppet]]_ | Transmutation (Sangromancy) | C, M    | Grim Hollow: Player's Guide | Ghostfire Gaming |
-| _[[Spells/Third Party/Level 3 Spells/Suffocate.md\|Suffocate]]_             | Conjuration                 | C       | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| Name                                                                        | School                      | Special | Source                             | Publisher        |
+| --------------------------------------------------------------------------- | --------------------------- | ------- | ---------------------------------- | ---------------- |
+| _[[Spells/Official/Level 3 Spells/Mireball.md\|Mireball]]_                  | Conjuration                 | —       | Heliana's Guide to Monster Hunting | Loot Tavern      |
+| _[[Spells/Third Party/Level 3 Spells/Extract Iron.md\|Extract Iron]]_       | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming |
+| _[[Spells/Third Party/Level 3 Spells/Flashbang.md\|Flashbang]]_             | Evocation                   | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern      |
+| _[[Spells/Third Party/Level 3 Spells/Sanguine Poppet.md\|Sanguine Poppet]]_ | Transmutation (Sangromancy) | C, M    | Grim Hollow: Player's Guide        | Ghostfire Gaming |
+| _[[Spells/Third Party/Level 3 Spells/Suffocate.md\|Suffocate]]_             | Conjuration                 | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming |
+| _[[Spells/Third Party/Level 3 Spells/Switcheroo.md\|Switcheroo]]_           | Transmutation               | —       | Heliana's Guide to Monster Hunting | Loot Tavern      |
 
 ### Level 4 Bard Spells
 

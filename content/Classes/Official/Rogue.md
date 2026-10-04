@@ -205,4 +205,5 @@ A Rogue subclass is a specialization that grants you features at certain Rogue l
 | [[Subclasses/Third Party/Rogue/Sanguine Thief.md\|Sanguine Thief]]         | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
 | [[Subclasses/Third Party/Rogue/Shadow Stalker.md\|Shadow Stalker]]         | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
 | [[Subclasses/Third Party/Rogue/Sinner.md\|Sinner]]                         | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Rogue/Tamaya.md\|Tamaya]]                         | Ryoko's Guide to the Yokai Realms       | Loot Tavern             | 5e      |
 | [[Subclasses/Third Party/Rogue/Waxwork Rogue.md\|Waxwork Rogue]]           | Obojima: Tales from the Tall Grass      | 1985 Games              | 5.5e    |

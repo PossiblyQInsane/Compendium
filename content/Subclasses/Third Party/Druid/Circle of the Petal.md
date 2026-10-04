@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T11:02:45.523-04:00
-modified: 2026-09-28T23:15:20.425-04:00
-published: 2026-09-28T23:15:20.425-04:00
+modified: 2026-10-04T00:47:46.598-04:00
+published: 2026-10-04T00:47:46.598-04:00
 Name: "[[Circle of the Petal]]"
 Parent Class: "[[Druid]]"
 Source: "Obojima: Tales from the Tall Grass"
@@ -14,7 +14,7 @@ Edition: 5.5e
 <div class="source">Obojima: Tales from the Tall Grass<br>1985 Games</div>
 
 > [!caption|left wm-sm]
-> ![[Images/Circle of the Petal.jpg]]
+> ![[Images/Pasted image 20261004004744.png]]
 
 In the tranquil groves where nature's harmony sings loudest, there exists a circle of Druids attuned to the delicate dance of petals upon the breeze. These Druid guardians of the natural world, known as the Circle of the Petal, draw their power from the spirit of Obojima, the steady island breeze, and the ephemeral beauty and resilience of flowers. Embracing these subtle forces, they harness the whispers of the wind and the gentle caress of petals to weave their enchantments and shape the world around them.
 

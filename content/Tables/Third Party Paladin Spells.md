@@ -23,11 +23,12 @@
 
 ### Level 4 Paladin Spells
 
-| Name                                                                                        | School     | Special | Source                      | Publisher              |
-| ------------------------------------------------------------------------------------------- | ---------- | ------- | --------------------------- | ---------------------- |
-| _[[Spells/Third Party/Level 4 Spells/Consuming Pyre.md\|Consuming Pyre]]_                   | Evocation  | C       | The Crooked Moon            | Avantris Entertainment |
-| _[[Spells/Third Party/Level 4 Spells/Sanctum of the Shepherd.md\|Sanctum of the Shepherd]]_ | Abjuration | M       | The Crooked Moon            | Avantris Entertainment |
-| _[[Spells/Third Party/Level 4 Spells/Supernal Smite.md\|Supernal Smite]]_                   | Evocation  | —       | Grim Hollow: Player's Guide | Ghostfire Gaming       |
+| Name                                                                                        | School     | Special | Source                             | Publisher              |
+| ------------------------------------------------------------------------------------------- | ---------- | ------- | ---------------------------------- | ---------------------- |
+| _[[Spells/Third Party/Level 4 Spells/Blinding Radiance.md\|Blinding Radiance]]_             | Evocation  | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| _[[Spells/Third Party/Level 4 Spells/Consuming Pyre.md\|Consuming Pyre]]_                   | Evocation  | C       | The Crooked Moon                   | Avantris Entertainment |
+| _[[Spells/Third Party/Level 4 Spells/Sanctum of the Shepherd.md\|Sanctum of the Shepherd]]_ | Abjuration | M       | The Crooked Moon                   | Avantris Entertainment |
+| _[[Spells/Third Party/Level 4 Spells/Supernal Smite.md\|Supernal Smite]]_                   | Evocation  | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
 
 ### Level 5 Paladin Spells
 

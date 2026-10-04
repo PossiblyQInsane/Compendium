@@ -22,17 +22,19 @@
 
 ### Level 3 Cleric Spells
 
-| Name                                                                                | School                      | Special | Source                            | Publisher              |
-| ----------------------------------------------------------------------------------- | --------------------------- | ------- | --------------------------------- | ---------------------- |
-| _[[Spells/Third Party/Level 3 Spells/Doom.md\|Doom]]_                               | Necromancy                  | C       | Cthulhu by Torchlight             | Chaosium               |
-| _[[Spells/Third Party/Level 3 Spells/Extract Iron.md\|Extract Iron]]_               | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide       | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 3 Spells/Extract Shirikodama.md\|Extract Shirikodama]]_ | Necromancy                  | —       | Ryoko's Guide to the Yokai Realms | Loot Tavern            |
-| _[[Spells/Third Party/Level 3 Spells/Harvest Moonglow.md\|Harvest Moonglow]]_       | Evocation                   | —       | The Crooked Moon                  | Avantris Entertainment |
+| Name                                                                                | School                      | Special | Source                             | Publisher              |
+| ----------------------------------------------------------------------------------- | --------------------------- | ------- | ---------------------------------- | ---------------------- |
+| _[[Spells/Third Party/Level 3 Spells/Doom.md\|Doom]]_                               | Necromancy                  | C       | Cthulhu by Torchlight              | Chaosium               |
+| _[[Spells/Third Party/Level 3 Spells/Extract Iron.md\|Extract Iron]]_               | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 3 Spells/Extract Shirikodama.md\|Extract Shirikodama]]_ | Necromancy                  | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
+| _[[Spells/Third Party/Level 3 Spells/Harvest Moonglow.md\|Harvest Moonglow]]_       | Evocation                   | —       | The Crooked Moon                   | Avantris Entertainment |
+| _[[Spells/Third Party/Level 3 Spells/Switcheroo.md\|Switcheroo]]_                   | Transmutation               | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 
 ### Level 4 Cleric Spells
 
 | Name                                                                                        | School                  | Special | Source                                  | Publisher              |
 | ------------------------------------------------------------------------------------------- | ----------------------- | ------- | --------------------------------------- | ---------------------- |
+| _[[Spells/Third Party/Level 4 Spells/Blinding Radiance.md\|Blinding Radiance]]_             | Evocation               | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Level 4 Spells/Consume Mind.md\|Consume Mind]]_                       | Necromancy              | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 4 Spells/Marrow Transplant.md\|Marrow Transplant]]_             | Necromancy (Osteomancy) | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | _[[Spells/Third Party/Level 4 Spells/Sanctum of the Shepherd.md\|Sanctum of the Shepherd]]_ | Abjuration              | M       | The Crooked Moon                        | Avantris Entertainment |

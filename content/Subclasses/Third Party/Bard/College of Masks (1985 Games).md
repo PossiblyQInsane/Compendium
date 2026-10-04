@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T03:49:35.774-04:00
-modified: 2026-10-02T19:11:45.057-04:00
-published: 2026-10-02T19:11:45.057-04:00
+modified: 2026-10-04T00:46:50.514-04:00
+published: 2026-10-04T00:46:50.514-04:00
 Name: "[[College of Masks (1985 Games)|College of Masks]]"
 Parent Class: "[[Bard]]"
 Source: "Obojima: Tales from the Tall Grass"
@@ -14,7 +14,7 @@ Edition: 5.5e
 <div class="source">Obojima: Tales from the Tall Grass<br>1985 Games</div>
 
 > [!caption|left ws-med]
-> ![[Images/College of Masks Obojima.jpg]]
+> ![[Images/Pasted image 20261004004648.png]]
 
 To be a Bard from the College of Masks is to be a theater actor capable of losing themselves in a role by using masks they imbue with magic. Through these masks, Bards can mimic others and even take on attributes of the personas their masks depict.
 

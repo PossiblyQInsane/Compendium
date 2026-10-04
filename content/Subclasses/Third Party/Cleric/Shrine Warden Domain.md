@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-02T18:31:46.858-04:00
-modified: 2026-10-03T02:54:38.776-04:00
-published: 2026-10-03T02:54:38.776-04:00
+modified: 2026-10-03T23:58:30.953-04:00
+published: 2026-10-03T23:58:30.953-04:00
 Name: "[[Shrine Warden Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Ryoko's Guide to the Yokai Realms
@@ -14,7 +14,7 @@ Edition: 5e
 <div class="source">Ryoko's Guide to the Yokai Realms<br>Loot Tavern</div>
 
 > [!caption|center wm-tl]
-> ![[Images/Shrine Warden Domain.jpg]]
+> ![[Images/Pasted image 20261003235825.png]]
 
 > [!quote|no-t]
 > "Let’s face the fading sun, in safety and comfort, and remember what matters."

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-02T18:30:28.693-04:00
-modified: 2026-10-03T00:25:47.500-04:00
-published: 2026-10-03T00:25:47.500-04:00
+modified: 2026-10-03T23:55:49.116-04:00
+published: 2026-10-03T23:55:49.116-04:00
 Name: "[[Path of the Kaiju]]"
 Parent Class: "[[Barbarian]]"
 Source: Ryoko's Guide to the Yokai Realms
@@ -14,7 +14,7 @@ Edition: 5e
 <div class="source">Ryoko's Guide to the Yokai Realms<br>Loot Tavern</div>
 
 > [!caption|right ws-med]
-> ![[Images/Path of the Kaiju.jpg]]
+> ![[Images/Pasted image 20261003235547.png]]
 
 > [!quote|no-t]
 > "Be it man, beast, or earth itself, everything trembles before me"
