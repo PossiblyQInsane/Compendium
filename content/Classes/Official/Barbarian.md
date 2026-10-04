@@ -224,6 +224,7 @@ A Barbarian subclass is a specialization that grants you features at certain Bar
 | [[Subclasses/Third Party/Barbarian/Path of the Glacier.md\|Path of the Glacier]]                   | The Griffon's Saddlebag: Book One         | The Griffon's Saddlebag | 5.5e    |
 | [[Subclasses/Third Party/Barbarian/Path of the Infernal.md\|Path of the Infernal]]                 | The Griffon's Saddlebag: Book Two         | The Griffon's Saddlebag | 5e      |
 | [[Subclasses/Third Party/Barbarian/Path of the Juggernaut.md\|Path of the Juggernaut]]             | Tal'Dorei Campaign Setting Reborn         | Darrington Press        | 5e      |
+| [[Subclasses/Third Party/Barbarian/Path of the Kaiju.md\|Path of the Kaiju]]                       | Ryoko's Guide to the Yokai Realms         | Loot Tavern             | 5e      |
 | [[Subclasses/Third Party/Barbarian/Path of the Lightning Vessel.md\|Path of the Lightning Vessel]] | Steinhardt's Guide to the Eldritch Hunt   | MonkeyDM                | 5.5e    |
 | [[Subclasses/Third Party/Barbarian/Path of the Muscle Wizard.md\|Path of the Muscle Wizard]]       | Valda's Spire of Secrets                  | Mage Hand Press         | 5.5e    |
 | [[Subclasses/Third Party/Barbarian/Path of the Primal Spirit.md\|Path of the Primal Spirit]]       | Grim Hollow: Player's Guide               | Ghostfire Gaming        | 5.5e    |

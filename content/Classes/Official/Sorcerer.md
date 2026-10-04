@@ -313,7 +313,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | _[[Spells/Official/Level 1 Spells/Silent Image.md\|Silent Image]]_                 | Illusion      | C       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 1 Spells/Silvery Barbs.md\|Silvery Barbs]]_               | Enchantment   | —       | Strixhaven: A Curriculum of Chaos  |
 | _[[Spells/Official/Level 1 Spells/Sleep.md\|Sleep]]_                               | Enchantment   | C       | Player's Handbook 5.5e             |
-| _[[Spells/Official/Level 1 Spells/Spellfire Flare.md\|Spellfire Flare]]_           | Evocation     | -      | Forgotten Realms: Heroes of Faerûn |
+| _[[Spells/Official/Level 1 Spells/Spellfire Flare.md\|Spellfire Flare]]_           | Evocation     |         | Forgotten Realms: Heroes of Faerûn |
 | _[[Spells/Official/Level 1 Spells/Tasha's Caustic Brew.md\|Tasha's Caustic Brew]]_ | Evocation     | C       | Tasha's Cauldron of Everything     |
 | _[[Spells/Official/Level 1 Spells/Thunderwave.md\|Thunderwave]]_                   | Evocation     | —       | Player's Handbook 5.5e             |
 | _[[Spells/Official/Level 1 Spells/Witch Bolt.md\|Witch Bolt]]_                     | Evocation     | C       | Player's Handbook 5.5e             |

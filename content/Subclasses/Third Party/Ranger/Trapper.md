@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:14:42.020-04:00
-modified: 2026-09-21T17:16:40.666-04:00
-published: 2026-09-21T17:16:40.666-04:00
+modified: 2026-10-03T02:01:19.246-04:00
+published: 2026-10-03T02:01:19.246-04:00
 Name: "[[Trapper]]"
 Parent Class: "[[Ranger]]"
 Source: Heliana's Guide to Monster Hunting
@@ -142,7 +142,7 @@ When activated, a **20-foot-radius sphere** centred on the trap fills with gas
 
 _5th-level ranger; magical; 2nd-level spell slot_
 
-When activated, there is a flare of brilliant octarine light, and each creature in a **20-foot-radius sphere** centred on the trap must succeed on a **Charisma saving throw** or become soulbound, as per the _[[Preserve (HGtMH)|Preserve]]_ spell. In addition, while a creature is soulbound in this way, it can’t benefit from being [[invisible]]. Creatures possessing _robust_ or more powerful _essence_ within their bodies (typically, those of CR 7 or higher) automatically succeed on this saving throw.
+When activated, there is a flare of brilliant octarine light, and each creature in a **20-foot-radius sphere** centred on the trap must succeed on a **Charisma saving throw** or become soulbound, as per the _[[Preserve (Loot Tavern)|Preserve]]_ spell. In addition, while a creature is soulbound in this way, it can’t benefit from being [[invisible]]. Creatures possessing _robust_ or more powerful _essence_ within their bodies (typically, those of CR 7 or higher) automatically succeed on this saving throw.
 
 You can expend a spell slot of 4th level or higher when you create this trap instead of a 2nd-level slot. When you do so, creatures with _robust_ or less powerful _essence_ (typically CR 11 or lower) must make the saving throw, while creatures with _potent_ or more powerful _essence_ automatically succeed.
 

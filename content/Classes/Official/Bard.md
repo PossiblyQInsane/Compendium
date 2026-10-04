@@ -784,7 +784,9 @@ A Bard subclass is a specialization that grants you features at certain Bard lev
 | [[Subclasses/Third Party/Bard/College of Drama.md\|College of Drama]]                       | Cthulhu by Torchlight              | Chaosium                | 5.5e    |
 | [[Subclasses/Third Party/Bard/College of Fleshweaving.md\|College of Fleshweaving]]         | Heliana's Guide to Monster Hunting | Loot Tavern             | 5e      |
 | [[Subclasses/Third Party/Bard/College of Fools.md\|College of Fools]]                       | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Hanabi.md\|College of Hanabi]]                     | Ryoko's Guide to the Yokai Realms  | Loot Tavern             | 5e      |
 | [[Subclasses/Third Party/Bard/College of Masks (1985 Games).md\|College of Masks]]          | Obojima: Tales from the Tall Grass | 1985 Games              | 5.5e    |
+| [[Subclasses/Third Party/Bard/College of Masks (Loot Tavern).md\|College of Masks]]         | Ryoko's Guide to the Yokai Realms  | Loot Tavern             | 5e      |
 | [[Subclasses/Third Party/Bard/College of Masks (Mage Hand Press).md\|College of Masks]]     | Valda's Spire of Secrets           | Mage Hand Press         | 5.5e    |
 | [[Subclasses/Third Party/Bard/College of Mercantile.md\|College of Mercantile]]             | The Griffon's Saddlebag: Book Two  | The Griffon's Saddlebag | 5e      |
 | [[Subclasses/Third Party/Bard/College of Requiems.md\|College of Requiems]]                 | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
