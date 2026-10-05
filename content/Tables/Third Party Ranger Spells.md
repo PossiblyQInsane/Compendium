@@ -21,6 +21,7 @@
 | _[[Spells/Third Party/Level 2 Spells/Protection (Spell).md\|Protection]]_   | Abjuration               | C, M    | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Level 2 Spells/Sense Lifeblood.md\|Sense Lifeblood]]_ | Divination (Sangromancy) | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 2 Spells/Skeletal Tail.md\|Skeletal Tail]]_     | Conjuration (Osteomancy) | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
+| _[[Spells/Third Party/Level 2 Spells/Spell Signature.md\|Spell Signature]]_ | Divination               | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
 | _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_       | Evocation                | —       | The Crooked Moon                        | Avantris Entertainment |
 | _[[Spells/Third Party/Level 2 Spells/Wanyūdō’s Fury.md\|Wanyūdō’s Fury]]_   | Evocation                | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 

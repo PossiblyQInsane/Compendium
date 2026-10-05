@@ -18,6 +18,7 @@
 | _[[Spells/Third Party/Level 2 Spells/Bloodletter.md\|Bloodletter]]_         | Necromancy | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 2 Spells/Preserve (Loot Tavern).md\|Preserve]]_ | Biomancy   | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 2 Spells/Protection (Spell).md\|Protection]]_   | Abjuration | C, M    | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| _[[Spells/Third Party/Level 2 Spells/Spell Signature.md\|Spell Signature]]_ | Divination | —       | Obojima: Tales from the Tall Grass | 1985 Games             |
 | _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_       | Evocation  | —       | The Crooked Moon                   | Avantris Entertainment |
 
 ### Level 3 Cleric Spells
@@ -37,15 +38,17 @@
 | _[[Spells/Third Party/Level 4 Spells/Blinding Radiance.md\|Blinding Radiance]]_             | Evocation               | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Level 4 Spells/Consume Mind.md\|Consume Mind]]_                       | Necromancy              | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 4 Spells/Marrow Transplant.md\|Marrow Transplant]]_             | Necromancy (Osteomancy) | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
+| _[[Spells/Third Party/Level 4 Spells/Sacrificial Siphon.md\|Sacrificial Siphon]]_           | Necromancy              | C       | The Crooked Moon                        | Avantris Entertainment |
 | _[[Spells/Third Party/Level 4 Spells/Sanctum of the Shepherd.md\|Sanctum of the Shepherd]]_ | Abjuration              | M       | The Crooked Moon                        | Avantris Entertainment |
 | _[[Spells/Third Party/Level 4 Spells/Stellar Bodies.md\|Stellar Bodies]]_                   | Evocation               | —       | Humblewood Campaign Setting             | Hit Point Press        |
 
 ### Level 5 Cleric Spells
 
-| Name                                                                                              | School      | Special | Source                            | Publisher              |
-| ------------------------------------------------------------------------------------------------- | ----------- | ------- | --------------------------------- | ---------------------- |
-| _[[Spells/Third Party/Level 5 Spells/Bakuryō’s Blessèd Blizzard.md\|Bakuryō’s Blessèd Blizzard]]_ | Conjuration | C, M    | Ryoko's Guide to the Yokai Realms | Loot Tavern            |
-| _[[Spells/Third Party/Level 5 Spells/Field of Reaping.md\|Field of Reaping]]_                     | Necromancy  | C       | The Crooked Moon                  | Avantris Entertainment |
+| Name                                                                                              | School      | Special | Source                             | Publisher              |
+| ------------------------------------------------------------------------------------------------- | ----------- | ------- | ---------------------------------- | ---------------------- |
+| _[[Spells/Third Party/Level 5 Spells/Bakuryō’s Blessèd Blizzard.md\|Bakuryō’s Blessèd Blizzard]]_ | Conjuration | C, M    | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
+| _[[Spells/Third Party/Level 5 Spells/Feverskin.md\|Feverskin]]_                                   | Biomancy    | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| _[[Spells/Third Party/Level 5 Spells/Field of Reaping.md\|Field of Reaping]]_                     | Necromancy  | C       | The Crooked Moon                   | Avantris Entertainment |
 
 ### Level 6 Cleric Spells
 

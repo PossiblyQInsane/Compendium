@@ -34,6 +34,7 @@
 | _[[Spells/Third Party/Level 2 Spells/Protection (Spell).md\|Protection]]_   | Abjuration                  | C, M    | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Level 2 Spells/Sense Lifeblood.md\|Sense Lifeblood]]_ | Divination (Sangromancy)    | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 2 Spells/Skeletal Tail.md\|Skeletal Tail]]_     | Conjuration (Osteomancy)    | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
+| _[[Spells/Third Party/Level 2 Spells/Spell Signature.md\|Spell Signature]]_ | Divination                  | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
 | _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_       | Evocation                   | —       | The Crooked Moon                        | Avantris Entertainment |
 | _[[Spells/Third Party/Level 2 Spells/Theft of Vitae.md\|Theft of Vitae]]_   | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 
@@ -51,12 +52,14 @@
 | _[[Spells/Third Party/Level 3 Spells/Harvest Moonglow.md\|Harvest Moonglow]]_         | Evocation                   | —       | The Crooked Moon                   | Avantris Entertainment |
 | _[[Spells/Third Party/Level 3 Spells/Reanimate.md\|Reanimate]]_                       | Evocation (Sangromancy)     | M       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 3 Spells/Water Wyrm.md\|Water Wyrm]]_                     | Conjuration                 | C       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
+| _[[Spells/Third Party/Level 3 Spells/Zippit!.md\|Zippit!]]_                           | Biomancy                    | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 
 ### Level 4 Druid Spells
 
 | Name                                                                            | School                  | Special | Source                                  | Publisher              |
 | ------------------------------------------------------------------------------- | ----------------------- | ------- | --------------------------------------- | ---------------------- |
 | _[[Spells/Third Party/Level 4 Spells/Consuming Pyre.md\|Consuming Pyre]]_       | Evocation               | C       | The Crooked Moon                        | Avantris Entertainment |
+| _[[Spells/Third Party/Level 4 Spells/Frogskin.md\|Frogskin]]_                   | Biomancy                | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Level 4 Spells/Lion's Roar.md\|Lion's Roar]]_             | Conjuration             | C       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 | _[[Spells/Third Party/Level 4 Spells/Marrow Transplant.md\|Marrow Transplant]]_ | Necromancy (Osteomancy) | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | _[[Spells/Third Party/Level 4 Spells/Rock Tomb.md\|Rock Tomb]]_                 | Conjuration             | C       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
@@ -69,6 +72,7 @@
 | ------------------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ---------------------- |
 | _[[Spells/Third Party/Level 5 Spells/Bakuryō’s Blessèd Blizzard.md\|Bakuryō’s Blessèd Blizzard]]_ | Conjuration   | C, M    | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Eruption.md\|Eruption]]_                                     | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
+| _[[Spells/Third Party/Level 5 Spells/Feverskin.md\|Feverskin]]_                                   | Biomancy      | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Field of Reaping.md\|Field of Reaping]]_                     | Necromancy    | C       | The Crooked Moon                   | Avantris Entertainment |
 | _[[Spells/Third Party/Level 5 Spells/Freedom of the Winds.md\|Freedom of the Winds]]_             | Abjuration    | C       | Tal'Dorei Campaign Setting Reborn  | Darrington Press       |
 | _[[Spells/Third Party/Level 5 Spells/Magatsuchi’s Lantern.md\|Magatsuchi’s Lantern]]_             | Illusion      | C       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |

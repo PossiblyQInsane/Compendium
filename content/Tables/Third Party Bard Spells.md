@@ -3,6 +3,7 @@
 | Name                                                                          | School      | Special | Source                             | Publisher              |
 | ----------------------------------------------------------------------------- | ----------- | ------- | ---------------------------------- | ---------------------- |
 | _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_           | Illusion    | —       | Valda's Spire of Secrets           | Mage Hand Press        |
+| _[[Spells/Third Party/Cantrips/Confounding Shadows.md\|Confounding Shadows]]_ | Conjuration | —       | Cthulhu by Torchlight              | Chaosium               |
 | _[[Spells/Third Party/Cantrips/Finger Guns.md\|Finger Guns]]_                 | Evocation   | —       | Valda's Spire of Secrets           | Mage Hand Press        |
 | _[[Spells/Third Party/Cantrips/Jolt.md\|Jolt]]_                               | Evocation   | —       | Obojima: Tales from the Tall Grass | 1985 Games             |
 | _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_ | Illusion    | —       | The Crooked Moon                   | Avantris Entertainment |
@@ -17,16 +18,19 @@
 | _[[Spells/Third Party/Level 1 Spells/Duplicate.md\|Duplicate]]_               | Conjuration               | —       | Obojima: Tales from the Tall Grass | 1985 Games       |
 | _[[Spells/Third Party/Level 1 Spells/Shroud Blood.md\|Shroud Blood]]_         | Illusion (Sangromancy)    | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming |
 | _[[Spells/Third Party/Level 1 Spells/Somnolence.md\|Somnolence]]_             | Enchantment (Sangromancy) | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming |
+| _[[Spells/Third Party/Level 1 Spells/Swallow Magic.md\|Swallow Magic]]_       | Transmutation             | —       | Obojima: Tales from the Tall Grass | 1985 Games       |
 | _[[Spells/Third Party/Level 1 Spells/Vibrating Humors.md\|Vibrating Humors]]_ | Evocation (Sangromancy)   | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming |
 | _[[Spells/Third Party/Level 1 Spells/Whelm Weapon.md\|Whelm Weapon]]_         | Transmutation             | C       | Obojima: Tales from the Tall Grass | 1985 Games       |
 
 ### Level 2 Bard Spells
 
-| Name                                                                      | School                  | Special | Source                             | Publisher        |
-| ------------------------------------------------------------------------- | ----------------------- | ------- | ---------------------------------- | ---------------- |
-| _[[Spells/Third Party/Level 2 Spells/Blood Wisp.md\|Blood Wisp]]_         | Evocation (Sangromancy) | M       | Grim Hollow: Player's Guide        | Ghostfire Gaming |
-| _[[Spells/Third Party/Level 2 Spells/Hangover.md\|Hangover]]_             | Enchantment             | —       | Valda's Spire of Secrets           | Mage Hand Press  |
-| _[[Spells/Third Party/Level 2 Spells/Protection (Spell).md\|Protection]]_ | Abjuration              | C, M    | Heliana's Guide to Monster Hunting | Loot Tavern      |
+| Name                                                                        | School                  | Special | Source                             | Publisher        |
+| --------------------------------------------------------------------------- | ----------------------- | ------- | ---------------------------------- | ---------------- |
+| _[[Spells/Third Party/Level 2 Spells/Blood Wisp.md\|Blood Wisp]]_           | Evocation (Sangromancy) | M       | Grim Hollow: Player's Guide        | Ghostfire Gaming |
+| _[[Spells/Third Party/Level 2 Spells/Hangover.md\|Hangover]]_               | Enchantment             | —       | Valda's Spire of Secrets           | Mage Hand Press  |
+| _[[Spells/Third Party/Level 2 Spells/Protection (Spell).md\|Protection]]_   | Abjuration              | C, M    | Heliana's Guide to Monster Hunting | Loot Tavern      |
+| _[[Spells/Third Party/Level 2 Spells/Spell Signature.md\|Spell Signature]]_ | Divination              | —       | Obojima: Tales from the Tall Grass | 1985 Games       |
+| _[[Spells/Third Party/Level 2 Spells/Transparency.md\|Transparency]]_       | Illusion                | —       | Obojima: Tales from the Tall Grass | 1985 Games       |
 
 ### Level 3 Bard Spells
 
@@ -38,6 +42,7 @@
 | _[[Spells/Third Party/Level 3 Spells/Sanguine Poppet.md\|Sanguine Poppet]]_ | Transmutation (Sangromancy) | C, M    | Grim Hollow: Player's Guide        | Ghostfire Gaming |
 | _[[Spells/Third Party/Level 3 Spells/Suffocate.md\|Suffocate]]_             | Conjuration                 | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming |
 | _[[Spells/Third Party/Level 3 Spells/Switcheroo.md\|Switcheroo]]_           | Transmutation               | —       | Heliana's Guide to Monster Hunting | Loot Tavern      |
+| _[[Spells/Third Party/Level 3 Spells/Zippit!.md\|Zippit!]]_                 | Biomancy                    | C       | Heliana's Guide to Monster Hunting | Loot Tavern      |
 
 ### Level 4 Bard Spells
 

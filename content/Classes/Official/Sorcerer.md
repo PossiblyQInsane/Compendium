@@ -567,5 +567,19 @@ A Sorcerer subclass is a specialization that grants you features at certain Sorc
 
 ### Third Party Sorcerer Subclasses
 
-| Name | Source | Publisher | Edition |
-| ---- | ------ | --------- | ------- |
+| Name                                                                                          | Source                             | Publisher               | Edition |
+| --------------------------------------------------------------------------------------------- | ---------------------------------- | ----------------------- | ------- |
+| [[Subclasses/Third Party/Sorcerer/Apocalypse Sorcery.md\|Apocalypse Sorcery]]                 | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Sorcerer/Crimson Sorcery.md\|Crimson Sorcery]]                       | The Crooked Moon                   | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Sorcerer/Desert Soul.md\|Desert Soul]]                               | The Griffon's Saddlebag: Book Two  | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Third Party/Sorcerer/Frost Sorcery.md\|Frost Sorcery]]                           | The Griffon's Saddlebag: Book One  | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Third Party/Sorcerer/Haunted Sorcery.md\|Haunted Sorcery]]                       | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Sorcerer/Heroic Sorcery.md\|Heroic Sorcery]]                         | Valda's Spire of Secrets           | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Third Party/Sorcerer/Hungering Dark.md\|Hungering Dark]]                         | Cthulhu by Torchlight              | Chaosium                | 5.5e    |
+| [[Subclasses/Third Party/Sorcerer/Nemesis Sorcery.md\|Nemesis Sorcery]]                       | Frontiers of Eberron: Quickstone   | Visionary               | 5.5e    |
+| [[Subclasses/Third Party/Sorcerer/Oni Kin Sorcery.md\|Oni Kin Sorcery]]                       | Obojima: Tales from the Tall Grass | 1985 Games              | 5.5e    |
+| [[Subclasses/Third Party/Sorcerer/Runechild.md\|Runechild]]                                   | Tal'Dorei Campaign Setting Reborn  | Darrington Press        | 5e      |
+| [[Subclasses/Third Party/Sorcerer/Skinshifter.md\|Skinshifter]]                               | Heliana's Guide to Monster Hunting | Loot Tavern             | 5e      |
+| [[Subclasses/Third Party/Sorcerer/Spirit Caller (Kobold Press).md\|Spirit Caller]]            | Northlands Worldbook               | Kobold Press            | 5.5e    |
+| [[Subclasses/Third Party/Sorcerer/Spirit Caller (Loot Tavern).md\|Spirit Caller]]             | Ryoko's Guide to the Yokai Realms  | Loot Tavern             | 5e      |
+| [[Subclasses/Third Party/Sorcerer/Wretched Bloodline Sorcery.md\|Wretched Bloodline Sorcery]] | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |

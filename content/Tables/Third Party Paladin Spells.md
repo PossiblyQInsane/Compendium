@@ -12,6 +12,7 @@
 | _[[Spells/Third Party/Level 2 Spells/Chain of Conviction.md\|Chain of Conviction]]_ | Conjuration                 | —       | The Crooked Moon                   | Avantris Entertainment |
 | _[[Spells/Third Party/Level 2 Spells/Preserve (Loot Tavern).md\|Preserve]]_         | Biomancy                    | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 2 Spells/Protection (Spell).md\|Protection]]_           | Abjuration                  | C, M    | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| _[[Spells/Third Party/Level 2 Spells/Spell Signature.md\|Spell Signature]]_         | Divination                  | —       | Obojima: Tales from the Tall Grass | 1985 Games             |
 | _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_               | Evocation                   | —       | The Crooked Moon                   | Avantris Entertainment |
 | _[[Spells/Third Party/Level 2 Spells/Wilting Smite.md\|Wilting Smite]]_             | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
 
@@ -27,6 +28,7 @@
 | ------------------------------------------------------------------------------------------- | ---------- | ------- | ---------------------------------- | ---------------------- |
 | _[[Spells/Third Party/Level 4 Spells/Blinding Radiance.md\|Blinding Radiance]]_             | Evocation  | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 4 Spells/Consuming Pyre.md\|Consuming Pyre]]_                   | Evocation  | C       | The Crooked Moon                   | Avantris Entertainment |
+| _[[Spells/Third Party/Level 4 Spells/Sacrificial Siphon.md\|Sacrificial Siphon]]_           | Necromancy | C       | The Crooked Moon                   | Avantris Entertainment |
 | _[[Spells/Third Party/Level 4 Spells/Sanctum of the Shepherd.md\|Sanctum of the Shepherd]]_ | Abjuration | M       | The Crooked Moon                   | Avantris Entertainment |
 | _[[Spells/Third Party/Level 4 Spells/Supernal Smite.md\|Supernal Smite]]_                   | Evocation  | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
 
