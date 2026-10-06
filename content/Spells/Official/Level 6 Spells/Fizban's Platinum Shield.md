@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-27T02:36:19.677-04:00
-modified: 2026-09-27T02:41:43.768-04:00
-published: 2026-09-27T02:41:43.768-04:00
+modified: 2026-10-05T20:09:17.881-04:00
+published: 2026-10-05T20:09:17.881-04:00
 Name: "[[Fizban's Platinum Shield]]"
 Spell Level: Level 6
 School: Abjuration
@@ -28,8 +28,10 @@ _Level 6 Abjuration ([[Sorcerer]], [[Wizard]])_
 
 You create a field of silvery light that surrounds a creature of your choice within range (you can choose yourself). The field sheds [[dim light]] out to 5 feet. While surrounded by the field, a creature gains the following benefits:
 
-- **Cover.** The creature has [[cover|half cover]].
-- **Damage Resistance.** The creature has [[resistance]] to acid, cold, fire, lightning, and poison damage.
-- **Evasion.** If the creature is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the creature instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+**Cover.** The creature has [[cover|half cover]].
+
+**Damage Resistance.** The creature has [[resistance]] to acid, cold, fire, lightning, and poison damage.
+
+**Evasion.** If the creature is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the creature instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
 As a [[bonus action]] on subsequent turns, you can move the field to another creature within 60 feet of the field.

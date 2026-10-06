@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-03T23:35:32.984-04:00
-modified: 2026-10-03T23:37:31.971-04:00
-published: 2026-10-03T23:37:31.971-04:00
+modified: 2026-10-05T13:23:26.886-04:00
+published: 2026-10-05T13:23:26.886-04:00
 Creature Type: Fey (Yokai)
 Size: Tiny
 Alignment: Chaotic Neutral

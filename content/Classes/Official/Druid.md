@@ -825,4 +825,4 @@ A Druid subclass is a specialization that grants you features at certain Druid l
 | [[Subclasses/Third Party/Druid/Circle of the Warden.md\|Circle of the Warden]]     | Humblewood Tales                        | Hit Point Press         | 5e      |
 | [[Subclasses/Third Party/Druid/Circle of the Yokai.md\|Circle of the Yokai]]       | Ryoko's Guide to the Yokai Realms       | Loot Tavern             | 5e      |
 | [[Subclasses/Third Party/Druid/Circle of Wicker.md\|Circle of Wicker]]             | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Druid/Unbroken Circle.md\|The Unbroken Circle]]           | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Third Party/Druid/Unbroken Circle, The.md\|The Unbroken Circle]]      | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |
