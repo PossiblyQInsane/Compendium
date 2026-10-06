@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-11T01:23:54.649-04:00
-modified: 2026-10-05T02:04:51.681-04:00
-published: 2026-10-05T02:04:51.681-04:00
+modified: 2026-10-05T22:52:48.335-04:00
+published: 2026-10-05T22:52:48.335-04:00
 Name: "[[Skinshifter]]"
 Parent Class: "[[Sorcerer]]"
 Source: Heliana's Guide to Monster Hunting
@@ -62,7 +62,7 @@ Your spellcasting stimulates the latent changeability of your body. Immediately 
 |  16  | **_Aerial Adaptation._** You gain a [[Fly Speed\|flying speed]] equal to your walking speed.                                                                                                                                                                                                                                                                                       |
 |  17  | **_Elemental Resistance._** You gain **[[resistance]]** to an elemental damage type. Roll a **d4** to determine which type: 1, acid; 2, cold; 3, fire; 4, lightning.                                                                                                                                                                                                               |
 |  18  | **_Rubber Skin\*\*._** You gain **resistance** to bludgeoning damage.                                                                                                                                                                                                                                                                                                              |
-|  19  | **\_Crystal Skin**.\_\*\* You gain **resistance** to piercing damage.                                                                                                                                                                                                                                                                                                                |
+|  19  | **_Crystal Skin\*\*._** You gain **resistance** to piercing damage.                                                                                                                                                                                                                                                                                                                |
 |  20  | **_Steel Skin\*\*._** You gain **resistance** to slashing damage.                                                                                                                                                                                                                                                                                                                  |
 |  21  | **_Tumour Skin\*\*._** At the start of each of your turns, you gain [[temporary hit points]] equal to your Charisma modifier (minimum 1).                                                                                                                                                                                                                                          |
 |  22  | **_Stimulated Metabolism<sup><b><i>+</i></b></sup>._** Your speed increases by **10 feet** and, when you take the [[Attack]] action on your turn, you can attack twice instead of once.                                                                                                                                                                                            |

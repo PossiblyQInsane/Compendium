@@ -626,8 +626,21 @@ A Wizard subclass is a specialization that grants you features at certain Wizard
 
 ### Official Wizard Subclasses
 
-| Name | Source | Edition |
-| ---- | ------ | ------- |
+| Name                                                                 | Source                             | Edition |
+| -------------------------------------------------------------------- | ---------------------------------- | ------- |
+| [[Subclasses/Official/Wizard/Abjurer.md\|Abjurer]]                   | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Wizard/Bladesinger.md\|Bladesinger]]           | Forgotten Realms: Heroes of Faerûn | 5.5e    |
+| [[Subclasses/Official/Wizard/Chronurgy Magic.md\|Chronurgy Magic]]   | Explorer's Guide to Wildemount     | 5e      |
+| [[Subclasses/Official/Wizard/Conjurer.md\|Conjurer]]                 | Arcana Unleashed                   | 5.5e    |
+| [[Subclasses/Official/Wizard/Diviner.md\|Diviner]]                   | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Wizard/Enchanter.md\|Enchanter]]               | Arcana Unleashed                   | 5.5e    |
+| [[Subclasses/Official/Wizard/Evoker.md\|Evoker]]                     | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Wizard/Graviturgy Magic.md\|Graviturgy Magic]] | Explorer's Guide to Wildemount     | 5e      |
+| [[Subclasses/Official/Wizard/Illusionist.md\|Illusionist]]           | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Official/Wizard/Necromancer.md\|Necromancer]]           | Arcana Unleashed                   | 5.5e    |
+| [[Subclasses/Official/Wizard/Order of Scribes.md\|Order of Scribes]] | Tasha's Cauldron of Everything     | 5e      |
+| [[Subclasses/Official/Wizard/Transmuter.md\|Transmuter]]             | Arcana Unleashed                   | 5.5e    |
+| [[Subclasses/Official/Wizard/War Magic.md\|War Magic]]               | Xanathar's Guide to Everything     | 5e      |
 
 ### Third Party Wizard Subclasses
 

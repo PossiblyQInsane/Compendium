@@ -571,8 +571,18 @@ A Warlock subclass is a specialization that grants you features at certain Warlo
 
 ### Official Warlock Subclasses
 
-| Name | Source | Edition |
-| ---- | ------ | ------- |
+| Name                                                                          | Source                         | Edition |
+| ----------------------------------------------------------------------------- | ------------------------------ | ------- |
+| [[Subclasses/Official/Warlock/Archfey Patron.md\|Archfey Patron]]             | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Official/Warlock/Celestial Patron.md\|Celestial Patron]]         | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Official/Warlock/Fathomless.md\|The Fathomless]]                 | Tasha's Cauldron of Everything | 5e      |
+| [[Subclasses/Official/Warlock/Fiend Patron.md\|Fiend Patron]]                 | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Official/Warlock/Genie.md\|The Genie]]                           | Tasha's Cauldron of Everything | 5e      |
+| [[Subclasses/Official/Warlock/Great Old One Patron.md\|Great Old One Patron]] | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Official/Warlock/Hexblade.md\|The Hexblade]]                     | Xanathar's Guide to Everything | 5e      |
+| [[Subclasses/Official/Warlock/Undead Patron.md\|Undead Patron]]               | Ravenloft: The Horrors Within  | 5.5e    |
+| [[Subclasses/Official/Warlock/Undying.md\|The Undying]]                       | Sword Coast Adventurer's Guide | 5e      |
+| [[Subclasses/Official/Warlock/Vestige Patron.md\|Vestige Patron]]             | Arcana Unleashed               | 5.5e    |
 
 ### Third Party Warlock Subclasses
 
