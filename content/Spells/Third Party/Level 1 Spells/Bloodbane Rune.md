@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-09-22T11:46:40.640-04:00
-modified: 2026-09-22T11:49:39.475-04:00
-published: 2026-09-22T11:49:39.475-04:00
+modified: 2026-10-08T01:22:02.901-04:00
+published: 2026-10-08T01:22:02.901-04:00
 Name: "[[Bloodbane Rune]]"
 Spell Level: Level 1
-School: Transmutation (Sangromancy)
+School: Transmutation
+Subschool:
+  - Sangromancy
 Classes: Cleric
 Special: C
 Source: "Grim Hollow: Player's Guide"

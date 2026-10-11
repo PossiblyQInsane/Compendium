@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-27T12:34:34.996-04:00
-modified: 2026-09-27T12:37:37.457-04:00
-published: 2026-09-27T12:37:37.457-04:00
+modified: 2026-10-09T01:35:48.335-04:00
+published: 2026-10-09T01:35:48.335-04:00
 Name: "[[Simbul's Synostodweomer]]"
 Spell Level: Level 7
 School: Transmutation
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Special: —
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true

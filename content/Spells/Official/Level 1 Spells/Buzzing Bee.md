@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-20T11:45:11.012-04:00
-modified: 2026-08-31T12:03:23.241-04:00
-published: 2026-08-31T12:03:23.241-04:00
+modified: 2026-10-08T00:24:14.336-04:00
+published: 2026-10-08T00:24:14.336-04:00
 Name: "[[Buzzing Bee]]"
 Spell Level: Level 1
 School: Conjuration
-Classes: Druid, Ranger, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Ranger
+  - Sorcerer
+  - Wizard
 Special: C
 Source: D&D Beyond Drops
 Official: true

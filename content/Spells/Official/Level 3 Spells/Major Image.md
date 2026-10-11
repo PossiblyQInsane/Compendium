@@ -1,13 +1,19 @@
 ---
 publish: true
 created: 2026-08-02T23:36:32.246-04:00
-modified: 2026-10-02T18:15:03.968-04:00
-published: 2026-10-02T18:15:03.968-04:00
+modified: 2026-10-08T11:47:01.426-04:00
+published: 2026-10-08T11:47:01.426-04:00
 Name: "[[Major Image]]"
 Spell Level: Level 3
 School: Illusion
-Classes: Bard, Sorcerer, Warlock, Wizard
-Third Party Classes: Bender (fire), Illrigger (AoR)
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
+Third Party Classes:
+  - Bender (fire)
+  - Illrigger (Architect of Ruin)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

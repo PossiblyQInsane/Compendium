@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-15T22:18:24.527-04:00
-modified: 2026-08-31T12:09:15.516-04:00
-published: 2026-08-31T12:09:15.516-04:00
+modified: 2026-10-08T00:46:31.159-04:00
+published: 2026-10-08T00:46:31.159-04:00
 Name: "[[Snare]]"
 Spell Level: Level 1
 School: Abjuration
-Classes: Artificer, Druid, Ranger, Wizard
+Classes:
+  - Artificer
+  - Druid
+  - Ranger
+  - Wizard
 Special: M
 Source: Xanathar's Guide to Everything
 Official: true

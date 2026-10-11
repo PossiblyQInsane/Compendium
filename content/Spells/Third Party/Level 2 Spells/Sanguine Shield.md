@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-23T10:47:50.851-04:00
-modified: 2026-09-23T10:53:31.255-04:00
-published: 2026-09-23T10:53:31.255-04:00
+modified: 2026-10-08T01:32:56.568-04:00
+published: 2026-10-08T01:32:56.568-04:00
 Name: "[[Sanguine Shield]]"
 Spell Level: Level 2
-School: Abjuration (Sangromancy)
-Classes: Sorcerer, Wizard
+School: Abjuration
+Subschool:
+  - Sangromancy
+Classes:
+  - Sorcerer
+  - Wizard
 Special: C
 Source: "Grim Hollow: Player's Guide"
 Official: false

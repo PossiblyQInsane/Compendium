@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T12:55:58.405-04:00
-modified: 2026-08-31T12:23:53.532-04:00
-published: 2026-08-31T12:23:53.532-04:00
+modified: 2026-10-08T01:10:53.581-04:00
+published: 2026-10-08T01:10:53.581-04:00
 Name: "[[Rope Trick]]"
 Spell Level: Level 2
 School: Transmutation
-Classes: Artificer, Wizard
+Classes:
+  - Artificer
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

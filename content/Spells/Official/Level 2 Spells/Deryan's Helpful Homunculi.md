@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-17T20:45:41.576-04:00
-modified: 2026-08-31T12:19:12.177-04:00
-published: 2026-08-31T12:19:12.177-04:00
+modified: 2026-10-08T12:10:06.904-04:00
+published: 2026-10-08T12:10:06.904-04:00
 Name: "[[Deryan's Helpful Homunculi]]"
 Spell Level: Level 2
 School: Conjuration
-Classes: Cleric, Wizard
+Classes:
+  - Cleric
+  - Wizard
 Special: R, M
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true

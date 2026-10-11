@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-10-06T11:39:47.693-04:00
-modified: 2026-10-06T11:42:56.400-04:00
-published: 2026-10-06T11:42:56.400-04:00
+modified: 2026-10-09T01:49:38.345-04:00
+published: 2026-10-09T01:49:38.345-04:00
 Name: "[[Gravity Fissure]]"
 Spell Level: Level 6
 School: Evocation
-Subschool: Dunamancy [Graviturgy]
+Subschool: Dunamancy
 Classes: —
 Special: —
 Source: Explorer's Guide to Wildemount
@@ -16,7 +16,7 @@ Edition: 5e
 
 <div class="source">Explorer's Guide to Wildemount</div>
 
-_Level 6 Evocation (Dunamancy \[Graviturgy])_
+_Level 6 Evocation (Dunamancy)_
 
 ---
 

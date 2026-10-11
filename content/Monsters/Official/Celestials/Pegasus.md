@@ -1,13 +1,17 @@
 ---
 publish: true
 created: 2026-09-13T11:13:23.433-04:00
-modified: 2026-09-13T11:31:17.513-04:00
-published: 2026-09-13T11:31:17.513-04:00
+modified: 2026-10-10T01:19:31.162-04:00
+published: 2026-10-10T01:19:31.162-04:00
 Creature Type: Celestial
 Size: Large
 Alignment: Chaotic Good
 CR: "2"
-Habitat: Forest, Grassland, Hill, Planar (Upper Planes)
+Habitat:
+  - Forest
+  - Grassland
+  - Hill
+  - Planar (Upper Planes)
 Treasure: None
 Source: Monster Manual 5.5e
 Official: true

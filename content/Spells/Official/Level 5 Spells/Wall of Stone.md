@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-07-26T17:51:35.263-04:00
-modified: 2026-10-02T18:26:58.179-04:00
-published: 2026-10-02T18:26:58.179-04:00
+modified: 2026-10-09T01:22:17.889-04:00
+published: 2026-10-09T01:22:17.889-04:00
 Name: "[[Wall of Stone]]"
 Spell Level: Level 5
 School: Evocation
-Classes: Artificer, Druid, Sorcerer, Wizard
+Classes:
+  - Artificer
+  - Druid
+  - Sorcerer
+  - Wizard
 Third Party Classes: Bender (earth)
 Special: C
 Source: Player's Handbook 5.5e

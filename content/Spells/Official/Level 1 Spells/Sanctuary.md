@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-07-25T23:08:13.572-04:00
-modified: 2026-09-21T16:34:25.601-04:00
-published: 2026-09-21T16:34:25.601-04:00
+modified: 2026-10-08T00:44:18.866-04:00
+published: 2026-10-08T00:44:18.866-04:00
 Name: "[[Sanctuary|Sanctuary]]"
 Spell Level: Level 1
 School: Abjuration
-Classes: Artificer, Cleric
+Classes:
+  - Artificer
+  - Cleric
 Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e

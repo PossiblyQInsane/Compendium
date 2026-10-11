@@ -1,10 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T23:30:27.612-04:00
-modified: 2026-09-07T22:45:38.088-04:00
-published: 2026-09-07T22:45:38.088-04:00
-Habitat: Desert, Swamp
-Treasure: Relics
+modified: 2026-10-10T01:47:30.671-04:00
+published: 2026-10-10T01:47:30.671-04:00
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

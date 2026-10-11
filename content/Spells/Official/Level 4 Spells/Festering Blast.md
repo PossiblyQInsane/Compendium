@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-03T09:22:20.860-04:00
-modified: 2026-09-03T09:26:05.658-04:00
-published: 2026-09-03T09:26:05.658-04:00
+modified: 2026-10-09T00:58:01.517-04:00
+published: 2026-10-09T00:58:01.517-04:00
 Name: "[[Festering Blast]]"
 Spell Level: Level 4
 School: Necromancy
-Classes: Druid, Sorcerer, Warlock, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Arcana Unleashed
 Official: true

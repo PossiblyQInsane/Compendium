@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-07T11:45:07.112-04:00
-modified: 2026-09-29T00:22:02.865-04:00
-published: 2026-09-29T00:22:02.865-04:00
+modified: 2026-10-09T01:06:21.159-04:00
+published: 2026-10-09T01:06:21.159-04:00
 Name: "[[Summon Elemental]]"
 Spell Level: Level 4
 School: Conjuration
-Classes: Druid, Ranger, Wizard
+Classes:
+  - Druid
+  - Ranger
+  - Wizard
 Special: C, M
 Source: Player's Handbook 5.5e
 Official: true

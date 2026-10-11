@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-23T21:33:13.116-04:00
-modified: 2026-08-31T15:19:22.051-04:00
-published: 2026-08-31T15:19:22.051-04:00
+modified: 2026-10-09T01:07:03.672-04:00
+published: 2026-10-09T01:07:03.672-04:00
 Name: "[[Watery Sphere]]"
 Spell Level: Level 4
 School: Conjuration
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Elemental Evil Player's Companion
 Official: true

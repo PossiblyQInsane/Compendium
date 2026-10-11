@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-03T02:08:05.059-04:00
-modified: 2026-09-03T02:11:07.606-04:00
-published: 2026-09-03T02:11:07.606-04:00
+modified: 2026-10-09T00:56:30.952-04:00
+published: 2026-10-09T00:56:30.952-04:00
 Name: "[[Distorted Distance]]"
 Spell Level: Level 4
 School: Illusion
-Classes: Artificer, Bard, Warlock, Wizard
+Classes:
+  - Artificer
+  - Bard
+  - Warlock
+  - Wizard
 Special: C
 Source: Arcana Unleashed
 Official: true

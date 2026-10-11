@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-23T22:43:22.296-04:00
-modified: 2026-08-31T19:46:18.198-04:00
-published: 2026-08-31T19:46:18.198-04:00
+modified: 2026-10-09T01:28:46.536-04:00
+published: 2026-10-09T01:28:46.536-04:00
 Name: "[[Investiture of Flame]]"
 Spell Level: Level 6
 School: Transmutation
-Classes: Druid, Sorcerer, Warlock, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Elemental Evil Player's Companion
 Official: true

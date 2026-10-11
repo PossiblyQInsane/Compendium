@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-04T10:01:23.101-04:00
-modified: 2026-09-21T16:38:49.877-04:00
-published: 2026-09-21T16:38:49.877-04:00
+modified: 2026-10-08T01:08:47.282-04:00
+published: 2026-10-08T01:08:47.282-04:00
 Name: "[[Pass without Trace]]"
 Spell Level: Level 2
 School: Abjuration
-Classes: Druid, Ranger
+Classes:
+  - Druid
+  - Ranger
 Third Party Classes: Tamer
 Special: C
 Source: Player's Handbook 5.5e

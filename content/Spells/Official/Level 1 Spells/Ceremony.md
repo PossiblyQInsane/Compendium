@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-17T20:34:42.965-04:00
-modified: 2026-08-31T12:03:37.346-04:00
-published: 2026-08-31T12:03:37.346-04:00
+modified: 2026-10-08T12:08:19.856-04:00
+published: 2026-10-08T12:08:19.856-04:00
 Name: "[[Ceremony]]"
 Spell Level: Level 1
 School: Abjuration
-Classes: Cleric, Paladin
+Classes:
+  - Cleric
+  - Paladin
 Special: R, M
 Source: Xanathar's Guide to Everything
 Official: true

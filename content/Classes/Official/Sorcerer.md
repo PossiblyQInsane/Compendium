@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-26T16:36:28.992-04:00
-modified: 2026-09-27T00:23:44.542-04:00
-published: 2026-09-27T00:23:44.542-04:00
+modified: 2026-10-07T11:51:42.847-04:00
+published: 2026-10-07T11:51:42.847-04:00
+Name: "[[Sorcerer]]"
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

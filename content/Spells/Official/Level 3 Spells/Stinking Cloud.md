@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-03T00:01:02.995-04:00
-modified: 2026-08-31T15:10:33.393-04:00
-published: 2026-08-31T15:10:33.393-04:00
+modified: 2026-10-08T11:52:45.052-04:00
+published: 2026-10-08T11:52:45.052-04:00
 Name: "[[Stinking Cloud]]"
 Spell Level: Level 3
 School: Conjuration
-Classes: Bard, Sorcerer, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-05T16:18:27.794-04:00
-modified: 2026-09-29T00:41:29.951-04:00
-published: 2026-09-29T00:41:29.951-04:00
+modified: 2026-10-09T01:30:40.676-04:00
+published: 2026-10-09T01:30:40.676-04:00
 Name: "[[Summon Fiend]]"
 Spell Level: Level 6
 School: Conjuration
-Classes: Warlock, Wizard
+Classes:
+  - Warlock
+  - Wizard
 Special: C, M
 Source: Player's Handbook 5.5e
 Official: true

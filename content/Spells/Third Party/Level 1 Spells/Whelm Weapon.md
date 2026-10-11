@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-09-21T04:32:45.894-04:00
-modified: 2026-09-21T04:36:28.941-04:00
-published: 2026-09-21T04:36:28.941-04:00
+modified: 2026-10-08T01:28:32.471-04:00
+published: 2026-10-08T01:28:32.471-04:00
 Name: "[[Whelm Weapon]]"
 Spell Level: Level 1
 School: Transmutation
-Classes: Bard, Druid, Ranger, Sorcerer, Wizard
+Classes:
+  - Bard
+  - Druid
+  - Ranger
+  - Sorcerer
+  - Wizard
 Special: C
 Source: "Obojima: Tales from the Tall Grass"
 Official: false

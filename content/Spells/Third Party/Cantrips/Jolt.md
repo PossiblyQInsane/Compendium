@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-21T13:16:06.580-04:00
-modified: 2026-09-21T13:19:47.797-04:00
-published: 2026-09-21T13:19:47.797-04:00
+modified: 2026-10-08T01:20:05.577-04:00
+published: 2026-10-08T01:20:05.577-04:00
 Name: "[[Jolt]]"
 Spell Level: Cantrip
 School: Evocation
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: "Obojima: Tales from the Tall Grass"
 Official: false

@@ -1,13 +1,16 @@
 ---
 publish: true
 created: 2026-09-08T00:15:41.111-04:00
-modified: 2026-09-08T00:18:48.663-04:00
-published: 2026-09-08T00:18:48.663-04:00
-Creature Type: Dragon (Chromatic)
+modified: 2026-10-10T01:27:38.532-04:00
+published: 2026-10-10T01:27:38.532-04:00
+Creature Type: Dragon
+Subtype: Chromatic
 Size: Gargantuan
 Alignment: Chaotic Evil
 CR: "24"
-Habitat: Hill, Mountain
+Habitat:
+  - Hill
+  - Mountain
 Treasure: Any
 Source: Monster Manual 5.5e
 Official: true

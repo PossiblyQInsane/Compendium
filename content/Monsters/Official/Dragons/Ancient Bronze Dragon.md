@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 2026-09-07T12:15:17.999-04:00
-modified: 2026-09-07T20:29:05.575-04:00
-published: 2026-09-07T20:29:05.575-04:00
-Creature Type: Dragon (Metallic)
+modified: 2026-10-10T01:26:45.215-04:00
+published: 2026-10-10T01:26:45.215-04:00
+Creature Type: Dragon
+Subtype: Metallic
 Size: Gargantuan
 Alignment: Lawful Good
 CR: "22"

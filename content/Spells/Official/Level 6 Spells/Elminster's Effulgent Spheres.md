@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-23T22:38:24.544-04:00
-modified: 2026-09-03T01:03:09.658-04:00
-published: 2026-09-03T01:03:09.658-04:00
+modified: 2026-10-09T01:27:19.727-04:00
+published: 2026-10-09T01:27:19.727-04:00
 Name: "[[Elminster's Effulgent Spheres]]"
 Spell Level: Level 6
 School: Evocation
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: M
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true

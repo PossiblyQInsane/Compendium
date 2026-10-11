@@ -1,13 +1,18 @@
 ---
 publish: true
 created: 2026-07-25T22:46:33.483-04:00
-modified: 2026-10-02T17:51:46.805-04:00
-published: 2026-10-02T17:51:46.805-04:00
+modified: 2026-10-08T00:36:00.604-04:00
+published: 2026-10-08T00:36:00.604-04:00
 Name: "[[Faerie Fire|Faerie Fire]]"
 Spell Level: Level 1
 School: Evocation
-Classes: Artificer, Bard, Druid
-Third Party Classes: Bender (fire), Tamer
+Classes:
+  - Artificer
+  - Bard
+  - Druid
+Third Party Classes:
+  - Bender (fire)
+  - Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

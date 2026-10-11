@@ -1,13 +1,16 @@
 ---
 publish: true
 created: 2026-08-24T21:54:59.792-04:00
-modified: 2026-09-08T02:34:17.596-04:00
-published: 2026-09-08T02:34:17.596-04:00
+modified: 2026-10-10T01:52:48.694-04:00
+published: 2026-10-10T01:52:48.694-04:00
 Creature Type: Undead
 Size: Large
 Alignment: Neutral Evil
 CR: "2"
-Habitat: Planar (Shadowfell), Underdark, Urban
+Habitat:
+  - Planar (Shadowfell)
+  - Underdark
+  - Urban
 Treasure: None
 Source: Monster Manual 5.5e
 Official: true

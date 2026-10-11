@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-03T09:36:43.658-04:00
-modified: 2026-09-03T09:39:29.233-04:00
-published: 2026-09-03T09:39:29.233-04:00
+modified: 2026-10-09T01:18:39.296-04:00
+published: 2026-10-09T01:18:39.296-04:00
 Name: "[[Negative Energy Flood]]"
 Spell Level: Level 5
 School: Necromancy
-Classes: Warlock, Wizard
+Classes:
+  - Warlock
+  - Wizard
 Special: —
 Source: Arcana Unleashed
 Official: true

@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-03T02:18:49.556-04:00
-modified: 2026-08-31T19:50:50.708-04:00
-published: 2026-08-31T19:50:50.708-04:00
+modified: 2026-10-09T01:36:07.367-04:00
+published: 2026-10-09T01:36:07.367-04:00
 Name: "[[Teleport]]"
 Spell Level: Level 7
 School: Conjuration
-Classes: Bard, Sorcerer, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

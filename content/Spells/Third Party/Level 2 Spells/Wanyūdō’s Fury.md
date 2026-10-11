@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-10-03T16:13:15.041-04:00
-modified: 2026-10-03T16:46:07.999-04:00
-published: 2026-10-03T16:46:07.999-04:00
+modified: 2026-10-08T01:35:30.469-04:00
+published: 2026-10-08T01:35:30.469-04:00
 Name: "[[Wanyūdō’s Fury]]"
 Spell Level: Level 2
 School: Evocation
-Classes: Ranger, Sorcerer
+Classes:
+  - Ranger
+  - Sorcerer
 Third Party Classes: Bender (fire)
 Special: —
 Source: Ryoko's Guide to the Yokai Realms

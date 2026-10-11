@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-10-05T17:20:32.428-04:00
-modified: 2026-10-05T17:25:00.719-04:00
-published: 2026-10-05T17:25:00.719-04:00
+modified: 2026-10-08T01:01:14.489-04:00
+published: 2026-10-08T01:01:14.489-04:00
 Name: "[[Flock of Familiars]]"
 Spell Level: Level 2
 School: Conjuration
-Classes: Warlock, Wizard
+Classes:
+  - Warlock
+  - Wizard
 Special: C
 Source: Lost Laboratory of Kwalish
 Official: true

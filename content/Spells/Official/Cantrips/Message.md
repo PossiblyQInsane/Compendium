@@ -1,13 +1,19 @@
 ---
 publish: true
 created: 2026-07-25T21:49:02.339-04:00
-modified: 2026-09-30T00:41:05.988-04:00
-published: 2026-09-30T00:41:05.988-04:00
+modified: 2026-10-08T00:14:01.957-04:00
+published: 2026-10-08T00:14:01.957-04:00
 Name: "[[Message|Message]]"
 Spell Level: Cantrip
 School: Transmutation
-Classes: Artificer, Bard, Druid, Sorcerer, Wizard
-Third Party Classes: Illrigger (AoR)
+Classes:
+  - Artificer
+  - Bard
+  - Druid
+  - Sorcerer
+  - Wizard
+Third Party Classes:
+  - Illrigger (Architect of Ruin)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

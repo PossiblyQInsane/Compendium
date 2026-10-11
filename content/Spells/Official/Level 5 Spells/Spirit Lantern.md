@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-03T09:40:13.349-04:00
-modified: 2026-09-03T09:43:57.075-04:00
-published: 2026-09-03T09:43:57.075-04:00
+modified: 2026-10-09T01:20:23.050-04:00
+published: 2026-10-09T01:20:23.050-04:00
 Name: "[[Spirit Lantern]]"
 Spell Level: Level 5
 School: Necromancy
-Classes: Artificer, Cleric, Warlock, Wizard
+Classes:
+  - Artificer
+  - Cleric
+  - Warlock
+  - Wizard
 Special: —
 Source: Arcana Unleashed
 Official: true

@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-03T22:49:46.348-04:00
-modified: 2026-08-31T12:20:28.828-04:00
-published: 2026-08-31T12:20:28.828-04:00
+modified: 2026-10-08T12:10:36.400-04:00
+published: 2026-10-08T12:10:36.400-04:00
 Name: "[[Gentle Repose]]"
 Spell Level: Level 2
 School: Necromancy
-Classes: Cleric, Paladin, Wizard
+Classes:
+  - Cleric
+  - Paladin
+  - Wizard
 Special: R, M
 Source: Player's Handbook 5.5e
 Official: true

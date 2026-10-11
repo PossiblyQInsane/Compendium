@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-02T21:31:08.716-04:00
-modified: 2026-08-31T12:25:58.674-04:00
-published: 2026-08-31T12:25:58.674-04:00
+modified: 2026-10-08T01:16:50.759-04:00
+published: 2026-10-08T01:16:50.759-04:00
 Name: "[[Zone of Truth]]"
 Spell Level: Level 2
 School: Enchantment
-Classes: Bard, Cleric, Paladin
+Classes:
+  - Bard
+  - Cleric
+  - Paladin
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

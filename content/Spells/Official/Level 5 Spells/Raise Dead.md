@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-07-26T20:39:58.657-04:00
-modified: 2026-08-31T15:25:03.444-04:00
-published: 2026-08-31T15:25:03.444-04:00
+modified: 2026-10-09T01:19:21.609-04:00
+published: 2026-10-09T01:19:21.609-04:00
 Name: "[[Raise Dead]]"
 Spell Level: Level 5
 School: Necromancy
-Classes: Bard, Cleric, Paladin
+Classes:
+  - Bard
+  - Cleric
+  - Paladin
 Special: M
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-02T11:41:08.595-04:00
-modified: 2026-08-31T15:21:53.807-04:00
-published: 2026-08-31T15:21:53.807-04:00
+modified: 2026-10-09T01:13:25.344-04:00
+published: 2026-10-09T01:13:25.344-04:00
 Name: "[[Commune with Nature]]"
 Spell Level: Level 5
 School: Divination
-Classes: Druid, Ranger
+Classes:
+  - Druid
+  - Ranger
 Special: R
 Source: Player's Handbook 5.5e
 Official: true

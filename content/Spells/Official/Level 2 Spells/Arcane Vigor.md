@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-07-25T23:22:08.658-04:00
-modified: 2026-08-31T12:17:28.020-04:00
-published: 2026-08-31T12:17:28.020-04:00
+modified: 2026-10-08T00:50:32.004-04:00
+published: 2026-10-08T00:50:32.004-04:00
 Name: "[[Arcane Vigor|Arcane Vigor]]"
 Spell Level: Level 2
 School: Abjuration
-Classes: Artificer, Sorcerer, Wizard
+Classes:
+  - Artificer
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

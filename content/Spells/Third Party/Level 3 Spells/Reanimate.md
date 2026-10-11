@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-09-23T11:13:56.312-04:00
-modified: 2026-09-23T11:18:35.638-04:00
-published: 2026-09-23T11:18:35.638-04:00
+modified: 2026-10-08T12:01:46.701-04:00
+published: 2026-10-08T12:01:46.701-04:00
 Name: "[[Reanimate]]"
 Spell Level: Level 3
-School: Evocation (Sangromancy)
+School: Evocation
+Subschool:
+  - Sangromancy
 Classes: Druid
 Special: M
 Source: "Grim Hollow: Player's Guide"

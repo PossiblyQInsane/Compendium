@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-23T21:26:13.474-04:00
-modified: 2026-08-31T15:16:40.750-04:00
-published: 2026-08-31T15:16:40.750-04:00
+modified: 2026-10-09T01:01:15.711-04:00
+published: 2026-10-09T01:01:15.711-04:00
 Name: "[[Guardian of Nature]]"
 Spell Level: Level 4
 School: Transmutation
-Classes: Druid, Ranger
+Classes:
+  - Druid
+  - Ranger
 Special: C
 Source: Xanathar's Guide to Everything
 Official: true

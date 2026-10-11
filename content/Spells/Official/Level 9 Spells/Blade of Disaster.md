@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-27T12:51:56.162-04:00
-modified: 2026-09-27T12:55:02.563-04:00
-published: 2026-09-27T12:55:02.563-04:00
+modified: 2026-10-09T01:42:58.093-04:00
+published: 2026-10-09T01:42:58.093-04:00
 Name: "[[Blade of Disaster]]"
 Spell Level: Level 9
 School: Conjuration
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true

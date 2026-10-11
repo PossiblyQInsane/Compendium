@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-23T10:58:44.954-04:00
-modified: 2026-09-23T11:03:08.190-04:00
-published: 2026-09-23T11:03:08.190-04:00
+modified: 2026-10-08T01:35:06.921-04:00
+published: 2026-10-08T01:35:06.921-04:00
 Name: "[[Theft of Vitae]]"
 Spell Level: Level 2
-School: Transmutation (Sangromancy)
-Classes: Druid, Wizard
+School: Transmutation
+Subschool:
+  - Sangromancy
+Classes:
+  - Druid
+  - Wizard
 Special: —
 Source: "Grim Hollow: Player's Guide"
 Official: false

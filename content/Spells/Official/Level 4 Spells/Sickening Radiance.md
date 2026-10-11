@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-27T01:35:55.583-04:00
-modified: 2026-09-27T01:42:14.522-04:00
-published: 2026-09-27T01:42:14.522-04:00
+modified: 2026-10-09T01:04:00.609-04:00
+published: 2026-10-09T01:04:00.609-04:00
 Name: "[[Sickening Radiance]]"
 Spell Level: Level 4
 School: Evocation
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Xanathar's Guide to Everything
 Official: true

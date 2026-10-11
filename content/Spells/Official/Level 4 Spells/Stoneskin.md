@@ -1,13 +1,21 @@
 ---
 publish: true
 created: 2026-07-26T15:33:05.987-04:00
-modified: 2026-10-02T18:20:04.552-04:00
-published: 2026-10-02T18:20:04.552-04:00
+modified: 2026-10-09T01:05:46.890-04:00
+published: 2026-10-09T01:05:46.890-04:00
 Name: "[[Stoneskin]]"
 Spell Level: Level 4
 School: Transmutation
-Classes: Artificer, Druid, Ranger, Sorcerer, Wizard
-Third Party Classes: Bender (earth), Magus, Tamer
+Classes:
+  - Artificer
+  - Druid
+  - Ranger
+  - Sorcerer
+  - Wizard
+Third Party Classes:
+  - Bender (earth)
+  - Magus
+  - Tamer
 Special: C, M
 Source: Player's Handbook 5.5e
 Official: true

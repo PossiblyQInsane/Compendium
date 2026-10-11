@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-14T21:40:46.588-04:00
-modified: 2026-09-21T17:17:38.396-04:00
-published: 2026-09-21T17:17:38.396-04:00
+modified: 2026-10-07T11:51:26.253-04:00
+published: 2026-10-07T11:51:26.253-04:00
+Name: "[[Ranger]]"
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

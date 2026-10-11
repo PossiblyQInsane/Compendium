@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-10-06T11:46:34.905-04:00
-modified: 2026-10-06T11:58:21.511-04:00
-published: 2026-10-06T11:58:21.511-04:00
+modified: 2026-10-09T01:50:00.807-04:00
+published: 2026-10-09T01:50:00.807-04:00
 Name: "[[Reality Break]]"
 Spell Level: Level 8
 School: Conjuration
-Subschool: Dunamancy [Chronurgy]
+Subschool: Dunamancy
 Classes: —
 Special: C
 Source: Explorer's Guide to Wildemount
@@ -16,7 +16,7 @@ Edition: 5e
 
 <div class="source">Explorer's Guide to Wildemount</div>
 
-_Level 8 Conjuration (Dunamancy \[Chronurgy])_
+_Level 8 Conjuration (Dunamancy)_
 
 ---
 

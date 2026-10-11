@@ -1,13 +1,16 @@
 ---
 publish: true
 created: 2026-08-28T10:48:20.708-04:00
-modified: 2026-09-07T20:25:25.417-04:00
-published: 2026-09-07T20:25:25.417-04:00
+modified: 2026-10-10T01:49:46.691-04:00
+published: 2026-10-10T01:49:46.691-04:00
 Creature Type: Undead
 Size: Medium
 Alignment: Chaotic Evil
 CR: "6"
-Habitat: Swamp, Underdark, Urban
+Habitat:
+  - Swamp
+  - Underdark
+  - Urban
 Treasure: Any
 Source: Monster Manual 5.5e
 Official: true

@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-03T09:44:36.027-04:00
-modified: 2026-09-29T01:20:50.147-04:00
-published: 2026-09-29T01:20:50.147-04:00
+modified: 2026-10-09T01:20:54.718-04:00
+published: 2026-10-09T01:20:54.718-04:00
 Name: "[[Summon Plant]]"
 Spell Level: Level 5
 School: Conjuration
-Classes: Druid, Ranger
+Classes:
+  - Druid
+  - Ranger
 Special: C, M
 Source: Arcana Unleashed
 Official: true

@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-23T11:30:42.783-04:00
-modified: 2026-09-23T11:35:39.165-04:00
-published: 2026-09-23T11:35:39.165-04:00
+modified: 2026-10-09T01:32:00.202-04:00
+published: 2026-10-09T01:32:00.202-04:00
 Name: "[[Blood Tide]]"
 Spell Level: Level 6
-School: Conjuration (Sangromancy)
-Classes: Druid, Sorcerer, Wizard
+School: Conjuration
+Subschool: Sangromancy
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: —
 Source: "Grim Hollow: Player's Guide"
 Official: false

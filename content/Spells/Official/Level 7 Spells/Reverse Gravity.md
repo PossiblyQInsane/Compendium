@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-08T00:48:39.900-04:00
-modified: 2026-08-31T19:50:35.583-04:00
-published: 2026-08-31T19:50:35.583-04:00
+modified: 2026-10-09T01:35:30.517-04:00
+published: 2026-10-09T01:35:30.517-04:00
 Name: "[[Reverse Gravity]]"
 Spell Level: Level 7
 School: Transmutation
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

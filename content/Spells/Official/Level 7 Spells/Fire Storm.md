@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-04T00:30:40.232-04:00
-modified: 2026-08-31T19:49:27.787-04:00
-published: 2026-08-31T19:49:27.787-04:00
+modified: 2026-10-09T01:33:44.564-04:00
+published: 2026-10-09T01:33:44.564-04:00
 Name: "[[Fire Storm]]"
 Spell Level: Level 7
 School: Evocation
-Classes: Cleric, Druid, Sorcerer
+Classes:
+  - Cleric
+  - Druid
+  - Sorcerer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

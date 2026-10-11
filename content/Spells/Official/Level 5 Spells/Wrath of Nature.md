@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-23T22:03:01.126-04:00
-modified: 2026-08-31T15:27:18.630-04:00
-published: 2026-08-31T15:27:18.630-04:00
+modified: 2026-10-09T01:22:35.952-04:00
+published: 2026-10-09T01:22:35.952-04:00
 Name: "[[Wrath of Nature]]"
 Spell Level: Level 5
 School: Evocation
-Classes: Druid, Ranger
+Classes:
+  - Druid
+  - Ranger
 Special: C
 Source: Xanathar's Guide to Everything
 Official: true

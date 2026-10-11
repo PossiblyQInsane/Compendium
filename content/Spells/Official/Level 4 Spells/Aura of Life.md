@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-03T23:07:19.441-04:00
-modified: 2026-08-31T15:13:53.239-04:00
-published: 2026-08-31T15:13:53.239-04:00
+modified: 2026-10-09T00:51:38.559-04:00
+published: 2026-10-09T00:51:38.559-04:00
 Name: "[[Aura of Life]]"
 Spell Level: Level 4
 School: Abjuration
-Classes: Cleric, Paladin
+Classes:
+  - Cleric
+  - Paladin
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

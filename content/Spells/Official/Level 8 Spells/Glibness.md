@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-03T02:32:01.266-04:00
-modified: 2026-08-31T19:52:30.305-04:00
-published: 2026-08-31T19:52:30.305-04:00
+modified: 2026-10-09T01:40:16.965-04:00
+published: 2026-10-09T01:40:16.965-04:00
 Name: "[[Glibness]]"
 Spell Level: Level 8
 School: Enchantment
-Classes: Bard, Warlock
+Classes:
+  - Bard
+  - Warlock
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

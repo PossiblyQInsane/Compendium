@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-03T02:12:02.926-04:00
-modified: 2026-08-31T19:50:28.712-04:00
-published: 2026-08-31T19:50:28.712-04:00
+modified: 2026-10-09T01:35:21.273-04:00
+published: 2026-10-09T01:35:21.273-04:00
 Name: "[[Resurrection]]"
 Spell Level: Level 7
 School: Necromancy
-Classes: Bard, Cleric
+Classes:
+  - Bard
+  - Cleric
 Special: M
 Source: Player's Handbook 5.5e
 Official: true

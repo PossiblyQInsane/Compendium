@@ -1,13 +1,18 @@
 ---
 publish: true
 created: 2026-07-25T22:15:54.693-04:00
-modified: 2026-10-02T17:46:06.520-04:00
-published: 2026-10-02T17:46:06.520-04:00
+modified: 2026-10-08T00:18:45.116-04:00
+published: 2026-10-08T00:18:45.116-04:00
 Name: "[[Spare the Dying|Spare the Dying]]"
 Spell Level: Cantrip
 School: Necromancy
-Classes: Artificer, Cleric, Druid
-Third Party Classes: Bender (water), Tamer
+Classes:
+  - Artificer
+  - Cleric
+  - Druid
+Third Party Classes:
+  - Bender (water)
+  - Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

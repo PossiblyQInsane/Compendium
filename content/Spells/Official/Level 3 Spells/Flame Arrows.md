@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-08-15T23:12:03.692-04:00
-modified: 2026-08-31T15:07:12.377-04:00
-published: 2026-08-31T15:07:12.377-04:00
+modified: 2026-10-08T11:41:15.433-04:00
+published: 2026-10-08T11:41:15.433-04:00
 Name: "[[Flame Arrows]]"
 Spell Level: Level 3
 School: Transmutation
-Classes: Artificer, Druid, Ranger, Sorcerer, Wizard
+Classes:
+  - Artificer
+  - Druid
+  - Ranger
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Elemental Evil Player's Companion
 Official: true

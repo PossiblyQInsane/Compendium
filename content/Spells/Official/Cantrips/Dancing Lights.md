@@ -1,13 +1,19 @@
 ---
 publish: true
 created: 2026-07-25T21:16:36.373-04:00
-modified: 2026-10-02T17:40:15.602-04:00
-published: 2026-10-02T17:40:15.602-04:00
+modified: 2026-10-08T00:07:23.677-04:00
+published: 2026-10-08T00:07:23.677-04:00
 Name: "[[Dancing Lights|Dancing Lights]]"
 Spell Level: Cantrip
 School: Illusion
-Classes: Artificer, Bard, Sorcerer, Wizard
-Third Party Classes: Bender (fire), Illrigger (AoR)
+Classes:
+  - Artificer
+  - Bard
+  - Sorcerer
+  - Wizard
+Third Party Classes:
+  - Bender (fire)
+  - Illrigger (Architect of Ruin)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

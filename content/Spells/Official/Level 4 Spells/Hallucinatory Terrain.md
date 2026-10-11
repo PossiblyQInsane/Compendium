@@ -1,13 +1,19 @@
 ---
 publish: true
 created: 2026-08-03T00:27:54.704-04:00
-modified: 2026-10-02T18:19:28.428-04:00
-published: 2026-10-02T18:19:28.428-04:00
+modified: 2026-10-09T01:01:36.224-04:00
+published: 2026-10-09T01:01:36.224-04:00
 Name: "[[Hallucinatory Terrain]]"
 Spell Level: Level 4
 School: Illusion
-Classes: Bard, Druid, Warlock, Wizard
-Third Party Classes: Bender (air), Illrigger (AoR)
+Classes:
+  - Bard
+  - Druid
+  - Warlock
+  - Wizard
+Third Party Classes:
+  - Bender (air)
+  - Illrigger (Architect of Ruin)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

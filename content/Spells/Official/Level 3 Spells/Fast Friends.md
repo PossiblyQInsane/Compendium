@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-16T17:33:58.314-04:00
-modified: 2026-08-31T15:06:40.976-04:00
-published: 2026-08-31T15:06:40.976-04:00
+modified: 2026-10-08T11:39:38.654-04:00
+published: 2026-10-08T11:39:38.654-04:00
 Name: "[[Fast Friends]]"
 Spell Level: Level 3
 School: Enchantment
-Classes: Bard, Cleric, Wizard
+Classes:
+  - Bard
+  - Cleric
+  - Wizard
 Special: C
 Source: Acquisitions Incorporated
 Official: true

@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-10-04T23:33:45.231-04:00
-modified: 2026-10-04T23:36:40.296-04:00
-published: 2026-10-04T23:36:40.296-04:00
+modified: 2026-10-10T13:25:36.599-04:00
+published: 2026-10-10T13:25:36.599-04:00
 Name: "[[Shadowy Eruption]]"
 Spell Level: Level 3
 School: Conjuration
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Cthulhu by Torchlight
 Official: false
@@ -31,6 +34,6 @@ A 20-foot radius [[Sphere]] of gloom erupts from a point you choose within range
 
 **The Darkness Hides Terrors**. Creatures of your choice in the area must make Dexterity saving throws. A target takes 4d8 psychic damage on a failed save and must use a [[reaction]] to move as far away as it can from the point you chose, using the safest route. On a successful save, the target takes half as much damage only.
 
-**Tomb of Shadows.** Creatures of your choice in the area must make Constitution saving throws. A target takes 4d8 necrotic damage on a failed save and its speed is reduced by 20 feet. On a successful save, the target takes half as much damage only.
+**Tomb of Shadows.** Creatures of your choice in the area must make Constitution saving throws. A target takes 4d8 necrotic damage on a failed save and its speed is reduced by 20 feet for 1 minute. On a successful save, the target takes half as much damage only.
 
 **_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 3.

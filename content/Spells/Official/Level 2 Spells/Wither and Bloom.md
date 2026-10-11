@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-20T12:08:40.591-04:00
-modified: 2026-09-03T09:16:29.361-04:00
-published: 2026-09-03T09:16:29.361-04:00
+modified: 2026-10-08T01:16:33.151-04:00
+published: 2026-10-08T01:16:33.151-04:00
 Name: "[[Wither and Bloom]]"
 Spell Level: Level 2
 School: Necromancy
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Arcana Unleashed
 Official: true

@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-16T17:41:00.018-04:00
-modified: 2026-08-31T15:09:04.564-04:00
-published: 2026-08-31T15:09:04.564-04:00
+modified: 2026-10-08T11:48:24.640-04:00
+published: 2026-10-08T11:48:24.640-04:00
 Name: "[[Motivational Speech]]"
 Spell Level: Level 3
 School: Enchantment
-Classes: Bard, Cleric
+Classes:
+  - Bard
+  - Cleric
 Special: —
 Source: Acquisitions Incorporated
 Official: true

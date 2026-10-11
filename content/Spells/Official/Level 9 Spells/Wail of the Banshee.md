@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-03T10:55:29.620-04:00
-modified: 2026-09-03T10:57:37.947-04:00
-published: 2026-09-03T10:57:37.947-04:00
+modified: 2026-10-09T01:45:22.117-04:00
+published: 2026-10-09T01:45:22.117-04:00
 Name: "[[Wail of the Banshee]]"
 Spell Level: Level 9
 School: Necromancy
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Arcana Unleashed
 Official: true

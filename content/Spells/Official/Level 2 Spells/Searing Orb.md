@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-17T20:50:35.973-04:00
-modified: 2026-08-31T12:24:07.941-04:00
-published: 2026-08-31T12:24:07.941-04:00
+modified: 2026-10-08T01:11:27.498-04:00
+published: 2026-10-08T01:11:27.498-04:00
 Name: "[[Searing Orb]]"
 Spell Level: Level 2
 School: Evocation
-Classes: Cleric, Paladin
+Classes:
+  - Cleric
+  - Paladin
 Special: —
 Source: D&D Beyond Drops
 Official: true

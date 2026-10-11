@@ -1,13 +1,18 @@
 ---
 publish: true
 created: 2026-08-28T11:12:40.466-04:00
-modified: 2026-09-07T22:46:28.711-04:00
-published: 2026-09-07T22:46:28.711-04:00
-Creature Type: Undead (Cleric)
-Size: Medium or Small
+modified: 2026-10-10T02:03:30.856-04:00
+published: 2026-10-10T02:03:30.856-04:00
+Creature Type: Undead
+Subtype: Cleric
+Size:
+  - Medium
+  - Small
 Alignment: Lawful Evil
 CR: "15"
-Habitat: Desert, Swamp
+Habitat:
+  - Desert
+  - Swamp
 Treasure: Relics
 Source: Monster Manual 5.5e
 Official: true

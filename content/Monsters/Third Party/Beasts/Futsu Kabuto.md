@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 2026-10-04T00:02:19.328-04:00
-modified: 2026-10-04T00:04:18.988-04:00
-published: 2026-10-04T00:04:18.988-04:00
-Creature Type: Beast (Yokai)
+modified: 2026-10-10T01:56:38.191-04:00
+published: 2026-10-10T01:56:38.191-04:00
+Creature Type: Beast
+Subtype: Yokai
 Size: Large
 Alignment: Unaligned
 CR: "2"

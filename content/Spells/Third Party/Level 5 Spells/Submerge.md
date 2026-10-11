@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-09-21T14:36:08.273-04:00
-modified: 2026-09-21T14:39:37.673-04:00
-published: 2026-09-21T14:39:37.673-04:00
+modified: 2026-10-09T01:25:53.083-04:00
+published: 2026-10-09T01:25:53.083-04:00
 Name: "[[Submerge]]"
 Spell Level: Level 5
 School: Conjuration
-Classes: Druid, Ranger, Sorcerer, Warlock, Wizard
+Classes:
+  - Druid
+  - Ranger
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: "Obojima: Tales from the Tall Grass"
 Official: false

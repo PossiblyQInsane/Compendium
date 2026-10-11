@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-07-25T22:27:58.335-04:00
-modified: 2026-08-31T12:02:28.658-04:00
-published: 2026-08-31T12:02:28.658-04:00
+modified: 2026-10-08T00:21:56.411-04:00
+published: 2026-10-08T00:21:56.411-04:00
 Name: "[[Alarm|Alarm]]"
 Spell Level: Level 1
 School: Abjuration
-Classes: Artificer, Ranger, Wizard
+Classes:
+  - Artificer
+  - Ranger
+  - Wizard
 Special: R
 Source: Player's Handbook 5.5e
 Official: true

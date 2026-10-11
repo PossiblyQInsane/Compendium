@@ -1,13 +1,19 @@
 ---
 publish: true
 created: 2026-07-25T22:11:25.617-04:00
-modified: 2026-10-02T17:45:26.744-04:00
-published: 2026-10-02T17:45:26.744-04:00
+modified: 2026-10-08T00:18:14.746-04:00
+published: 2026-10-08T00:18:14.746-04:00
 Name: "[[Shocking Grasp|Shocking Grasp]]"
 Spell Level: Cantrip
 School: Evocation
-Classes: Artificer, Sorcerer, Wizard
-Third Party Classes: Bender (fire), Illrigger (AoR), Magus
+Classes:
+  - Artificer
+  - Sorcerer
+  - Wizard
+Third Party Classes:
+  - Bender (fire)
+  - Illrigger (Architect of Ruin)
+  - Magus
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-15T21:55:33.515-04:00
-modified: 2026-08-31T11:52:17.665-04:00
-published: 2026-08-31T11:52:17.665-04:00
+modified: 2026-10-08T00:12:55.850-04:00
+published: 2026-10-08T00:12:55.850-04:00
 Name: "[[Magic Stone]]"
 Spell Level: Cantrip
 School: Transmutation
-Classes: Artificer, Druid, Warlock
+Classes:
+  - Artificer
+  - Druid
+  - Warlock
 Special: —
 Source: Elemental Evil Player's Companion
 Official: true

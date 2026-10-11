@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-10-05T17:27:31.434-04:00
-modified: 2026-10-05T17:34:48.803-04:00
-published: 2026-10-05T17:34:48.803-04:00
+modified: 2026-10-09T00:59:10.634-04:00
+published: 2026-10-09T00:59:10.634-04:00
 Name: "[[Galder's Speedy Courier]]"
 Spell Level: Level 4
 School: Conjuration
-Classes: Warlock, Wizard
+Classes:
+  - Warlock
+  - Wizard
 Special: M
 Source: Lost Laboratory of Kwalish
 Official: true

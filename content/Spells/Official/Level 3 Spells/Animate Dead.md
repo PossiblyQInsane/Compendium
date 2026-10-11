@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-07-31T10:08:46.872-04:00
-modified: 2026-08-31T15:04:28.141-04:00
-published: 2026-08-31T15:04:28.141-04:00
+modified: 2026-10-08T11:30:45.461-04:00
+published: 2026-10-08T11:30:45.461-04:00
 Name: "[[Animate Dead]]"
 Spell Level: Level 3
 School: Necromancy
-Classes: Cleric, Wizard
+Classes:
+  - Cleric
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

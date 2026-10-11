@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-16T17:30:01.937-04:00
-modified: 2026-08-31T15:06:26.548-04:00
-published: 2026-08-31T15:06:26.548-04:00
+modified: 2026-10-08T11:39:12.758-04:00
+published: 2026-10-08T11:39:12.758-04:00
 Name: "[[Enemies Abound]]"
 Spell Level: Level 3
 School: Enchantment
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Xanathar's Guide to Everything
 Official: true

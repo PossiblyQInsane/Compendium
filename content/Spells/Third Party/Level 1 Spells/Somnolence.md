@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-22T12:00:09.485-04:00
-modified: 2026-09-22T12:05:11.018-04:00
-published: 2026-09-22T12:05:11.018-04:00
+modified: 2026-10-08T01:26:45.163-04:00
+published: 2026-10-08T01:26:45.163-04:00
 Name: "[[Somnolence]]"
 Spell Level: Level 1
-School: Enchantment (Sangromancy)
-Classes: Bard, Warlock
+School: Enchantment
+Subschool:
+  - Sangromancy
+Classes:
+  - Bard
+  - Warlock
 Special: —
 Source: "Grim Hollow: Player's Guide"
 Official: false

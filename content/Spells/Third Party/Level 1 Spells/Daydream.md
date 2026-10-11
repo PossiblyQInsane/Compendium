@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-24T20:51:41.260-04:00
-modified: 2026-08-31T12:13:05.949-04:00
-published: 2026-08-31T12:13:05.949-04:00
+modified: 2026-10-08T01:24:22.433-04:00
+published: 2026-10-08T01:24:22.433-04:00
 Name: "[[Daydream]]"
 Spell Level: Level 1
 School: Enchantment
-Classes: Bard, Druid, Warlock
+Classes:
+  - Bard
+  - Druid
+  - Warlock
 Special: C
 Source: Heliana's Guide to Monster Hunting
 Official: false

@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-17T21:05:16.087-04:00
-modified: 2026-08-31T15:08:24.208-04:00
-published: 2026-08-31T15:08:24.208-04:00
+modified: 2026-10-08T11:45:38.115-04:00
+published: 2026-10-08T11:45:38.115-04:00
 Name: "[[Life Transference]]"
 Spell Level: Level 3
 School: Necromancy
-Classes: Cleric, Wizard
+Classes:
+  - Cleric
+  - Wizard
 Special: —
 Source: Xanathar's Guide to Everything
 Official: true

@@ -1,13 +1,19 @@
 ---
 publish: true
 created: 2026-08-02T21:28:20.646-04:00
-modified: 2026-10-02T18:12:53.641-04:00
-published: 2026-10-02T18:12:53.641-04:00
+modified: 2026-10-08T01:14:17.856-04:00
+published: 2026-10-08T01:14:17.856-04:00
 Name: "[[Suggestion]]"
 Spell Level: Level 2
 School: Enchantment
-Classes: Bard, Sorcerer, Warlock, Wizard
-Third Party Classes: Bender (water), Illrigger (AoR)
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
+Third Party Classes:
+  - Bender (water)
+  - Illrigger (Architect of Ruin)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

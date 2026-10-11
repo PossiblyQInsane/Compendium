@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-04T11:23:00.010-04:00
-modified: 2026-08-31T12:26:37.934-04:00
-published: 2026-08-31T12:26:37.934-04:00
+modified: 2026-10-08T01:34:43.549-04:00
+published: 2026-10-08T01:34:43.549-04:00
 Name: "[[Summer Winds]]"
 Spell Level: Level 2
 School: Evocation
-Classes: Cleric, Druid, Paladin, Ranger
+Classes:
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
 Special: —
 Source: The Crooked Moon
 Official: false

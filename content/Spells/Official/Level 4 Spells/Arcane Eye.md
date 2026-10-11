@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T14:50:38.647-04:00
-modified: 2026-08-31T15:13:46.998-04:00
-published: 2026-08-31T15:13:46.998-04:00
+modified: 2026-10-09T00:51:28.748-04:00
+published: 2026-10-09T00:51:28.748-04:00
 Name: "[[Arcane Eye]]"
 Spell Level: Level 4
 School: Divination
-Classes: Artificer, Wizard
+Classes:
+  - Artificer
+  - Wizard
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

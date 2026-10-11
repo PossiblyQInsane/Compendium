@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-27T02:45:16.000-04:00
-modified: 2026-09-27T02:48:58.592-04:00
-published: 2026-09-27T02:48:58.592-04:00
+modified: 2026-10-09T01:29:44.559-04:00
+published: 2026-10-09T01:29:44.559-04:00
 Name: "[[Mental Prison]]"
 Spell Level: Level 6
 School: Illusion
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Xanathar's Guide to Everything
 Official: true

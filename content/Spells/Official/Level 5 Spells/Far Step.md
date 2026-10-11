@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-27T02:17:20.665-04:00
-modified: 2026-09-27T02:21:12.091-04:00
-published: 2026-09-27T02:21:12.091-04:00
+modified: 2026-10-09T01:15:54.331-04:00
+published: 2026-10-09T01:15:54.331-04:00
 Name: "[[Far Step]]"
 Spell Level: Level 5
 School: Conjuration
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Xanathar's Guide to Everything
 Official: true

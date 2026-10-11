@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-03T10:17:45.050-04:00
-modified: 2026-09-03T10:21:12.009-04:00
-published: 2026-09-03T10:21:12.009-04:00
+modified: 2026-10-09T01:35:40.805-04:00
+published: 2026-10-09T01:35:40.805-04:00
 Name: "[[Reweave Fate]]"
 Spell Level: Level 7
 School: Divination
-Classes: Bard, Cleric, Warlock, Wizard
+Classes:
+  - Bard
+  - Cleric
+  - Warlock
+  - Wizard
 Special: —
 Source: Arcana Unleashed
 Official: true

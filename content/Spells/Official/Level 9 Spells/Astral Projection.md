@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-04T00:52:12.780-04:00
-modified: 2026-08-31T19:53:29.945-04:00
-published: 2026-08-31T19:53:29.945-04:00
+modified: 2026-10-09T01:42:50.298-04:00
+published: 2026-10-09T01:42:50.298-04:00
 Name: "[[Astral Projection]]"
 Spell Level: Level 9
 School: Necromancy
-Classes: Cleric, Warlock, Wizard
+Classes:
+  - Cleric
+  - Warlock
+  - Wizard
 Special: M
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-19T10:12:34.131-04:00
-modified: 2026-10-01T11:40:25.694-04:00
-published: 2026-10-01T11:40:25.694-04:00
+modified: 2026-10-08T01:27:38.718-04:00
+published: 2026-10-08T01:27:38.718-04:00
 Name: "[[Veil of Dusk]]"
 Spell Level: Level 1
 School: Abjuration
-Classes: Druid, Warlock
+Classes:
+  - Druid
+  - Warlock
 Special: C
 Source: Humblewood Campaign Setting
 Official: false

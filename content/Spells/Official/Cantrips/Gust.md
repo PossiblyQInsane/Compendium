@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-20T11:14:39.555-04:00
-modified: 2026-08-31T11:51:43.132-04:00
-published: 2026-08-31T11:51:43.132-04:00
+modified: 2026-10-08T00:10:56.131-04:00
+published: 2026-10-08T00:10:56.131-04:00
 Name: "[[Gust]]"
 Spell Level: Cantrip
 School: Transmutation
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Elemental Evil Player's Companion
 Official: true

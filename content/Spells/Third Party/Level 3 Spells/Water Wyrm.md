@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-10-03T16:46:37.740-04:00
-modified: 2026-10-03T16:56:07.932-04:00
-published: 2026-10-03T16:56:07.932-04:00
+modified: 2026-10-08T12:03:27.370-04:00
+published: 2026-10-08T12:03:27.370-04:00
 Name: "[[Water Wyrm]]"
 Spell Level: Level 3
 School: Conjuration
-Classes: Druid, Ranger, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Ranger
+  - Sorcerer
+  - Wizard
 Third Party Classes: Bender (water)
 Special: C
 Source: Ryoko's Guide to the Yokai Realms

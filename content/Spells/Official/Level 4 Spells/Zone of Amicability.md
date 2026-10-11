@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-03T09:26:57.730-04:00
-modified: 2026-09-03T09:29:45.976-04:00
-published: 2026-09-03T09:29:45.976-04:00
+modified: 2026-10-09T01:07:10.901-04:00
+published: 2026-10-09T01:07:10.901-04:00
 Name: "[[Zone of Amicability]]"
 Spell Level: Level 4
 School: Enchantment
-Classes: Bard, Warlock
+Classes:
+  - Bard
+  - Warlock
 Special: —
 Source: Arcana Unleashed
 Official: true

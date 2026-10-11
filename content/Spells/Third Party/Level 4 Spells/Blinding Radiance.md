@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-10-04T16:56:14.553-04:00
-modified: 2026-10-04T17:02:25.385-04:00
-published: 2026-10-04T17:02:25.385-04:00
+modified: 2026-10-09T01:07:27.352-04:00
+published: 2026-10-09T01:07:27.352-04:00
 Name: "[[Blinding Radiance]]"
 Spell Level: Level 4
 School: Evocation
-Classes: Cleric, Paladin, Sorcerer, Warlock
+Classes:
+  - Cleric
+  - Paladin
+  - Sorcerer
+  - Warlock
 Special: C
 Source: Heliana's Guide to Monster Hunting
 Official: false

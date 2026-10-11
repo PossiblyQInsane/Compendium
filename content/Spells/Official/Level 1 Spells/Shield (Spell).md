@@ -4,13 +4,18 @@ aliases:
   - Shield
 title: Shield
 created: 2026-07-29T10:20:00.473-04:00
-modified: 2026-10-02T18:00:08.039-04:00
-published: 2026-10-02T18:00:08.039-04:00
+modified: 2026-10-08T00:44:45.291-04:00
+published: 2026-10-08T00:44:45.291-04:00
 Name: "[[Shield (Spell)|Shield]]"
 Spell Level: Level 1
 School: Abjuration
-Classes: Sorcerer, Wizard
-Third Party Classes: Bender (earth), Illrigger (AoR), Magus
+Classes:
+  - Sorcerer
+  - Wizard
+Third Party Classes:
+  - Bender (earth)
+  - Illrigger (Architect of Ruin)
+  - Magus
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-27T01:01:35.718-04:00
-modified: 2026-09-27T01:05:39.566-04:00
-published: 2026-09-27T01:05:39.566-04:00
+modified: 2026-10-08T01:13:11.417-04:00
+published: 2026-10-08T01:13:11.417-04:00
 Name: "[[Snilloc's Snowball Swarm]]"
 Spell Level: Level 2
 School: Evocation
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Elemental Evil Player's Companion
 Official: true

@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-29T01:31:08.059-04:00
-modified: 2026-09-29T01:43:11.936-04:00
-published: 2026-09-29T01:43:11.936-04:00
+modified: 2026-10-08T11:54:09.821-04:00
+published: 2026-10-08T11:54:09.821-04:00
 Name: "[[Summon Shadowspawn]]"
 Spell Level: Level 3
 School: Conjuration
-Classes: Warlock, Wizard
+Classes:
+  - Warlock
+  - Wizard
 Special: C, M
 Source: Tasha's Cauldron of Everything
 Official: true

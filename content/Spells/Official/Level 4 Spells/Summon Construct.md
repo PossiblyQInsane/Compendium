@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T15:37:24.546-04:00
-modified: 2026-09-29T00:07:27.032-04:00
-published: 2026-09-29T00:07:27.032-04:00
+modified: 2026-10-09T01:06:10.422-04:00
+published: 2026-10-09T01:06:10.422-04:00
 Name: "[[Summon Construct]]"
 Spell Level: Level 4
 School: Conjuration
-Classes: Artificer, Wizard
+Classes:
+  - Artificer
+  - Wizard
 Special: C, M
 Source: Player's Handbook 5.5e
 Official: true

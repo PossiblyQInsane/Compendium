@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-02T18:32:06.602-04:00
-modified: 2026-10-04T14:22:50.190-04:00
-published: 2026-10-04T14:22:50.190-04:00
+modified: 2026-10-10T16:21:37.915-04:00
+published: 2026-10-10T16:21:37.915-04:00
 Name: "[[Circle of the Yokai]]"
 Parent Class: "[[Druid]]"
 Source: Ryoko's Guide to the Yokai Realms
@@ -76,4 +76,4 @@ Your yokai forms overflow with magic, fortifying your connection to the spirit r
 In addition, while transformed by your Wild Shape, if you use an action to cast a spell, you can use your [[bonus action]] on that turn to make one attack.
 
 > [!caption|center wm-tl]
-> ![[Images/Pasted image 20261003235935.png]]
+> ![[Images/Circle of the Yokai 2.png]]

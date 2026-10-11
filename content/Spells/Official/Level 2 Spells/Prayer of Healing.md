@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-03T22:52:44.941-04:00
-modified: 2026-08-31T12:23:28.637-04:00
-published: 2026-08-31T12:23:28.637-04:00
+modified: 2026-10-08T01:09:26.185-04:00
+published: 2026-10-08T01:09:26.185-04:00
 Name: "[[Prayer of Healing]]"
 Spell Level: Level 2
 School: Abjuration
-Classes: Cleric, Paladin
+Classes:
+  - Cleric
+  - Paladin
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

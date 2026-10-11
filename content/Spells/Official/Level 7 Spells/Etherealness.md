@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-08-03T01:46:05.967-04:00
-modified: 2026-08-31T19:49:16.235-04:00
-published: 2026-08-31T19:49:16.235-04:00
+modified: 2026-10-09T01:33:24.923-04:00
+published: 2026-10-09T01:33:24.923-04:00
 Name: "[[Etherealness]]"
 Spell Level: Level 7
 School: Conjuration
-Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Cleric
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

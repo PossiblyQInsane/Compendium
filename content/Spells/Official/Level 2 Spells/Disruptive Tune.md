@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-03T02:04:41.966-04:00
-modified: 2026-09-03T02:07:31.166-04:00
-published: 2026-09-03T02:07:31.166-04:00
+modified: 2026-10-08T00:56:21.402-04:00
+published: 2026-10-08T00:56:21.402-04:00
 Name: "[[Disruptive Tune]]"
 Spell Level: Level 2
 School: Abjuration
-Classes: Bard, Sorcerer, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Arcana Unleashed
 Official: true

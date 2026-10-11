@@ -3,10 +3,8 @@ publish: true
 aliases:
   - red dragon
 created: 2026-09-07T22:48:58.597-04:00
-modified: 2026-09-08T00:15:17.459-04:00
-published: 2026-09-08T00:15:17.459-04:00
-Habitat: Hill, Mountain
-Treasure: Any
+modified: 2026-10-10T01:47:37.482-04:00
+published: 2026-10-10T01:47:37.482-04:00
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

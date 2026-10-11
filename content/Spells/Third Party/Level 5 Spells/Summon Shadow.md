@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-10-04T23:37:27.038-04:00
-modified: 2026-10-04T23:55:04.137-04:00
-published: 2026-10-04T23:55:04.137-04:00
+modified: 2026-10-09T01:26:04.315-04:00
+published: 2026-10-09T01:26:04.315-04:00
 Name: "[[Summon Shadow]]"
 Spell Level: Level 5
 School: Conjuration
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Cthulhu by Torchlight
 Official: false

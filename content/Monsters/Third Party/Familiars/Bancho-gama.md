@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 2026-10-03T23:32:08.231-04:00
-modified: 2026-10-05T13:23:19.674-04:00
-published: 2026-10-05T13:23:19.674-04:00
-Creature Type: Monstrosity (Yokai)
+modified: 2026-10-10T01:59:11.096-04:00
+published: 2026-10-10T01:59:11.096-04:00
+Creature Type: Monstrosity
+Subtype: Yokai
 Size: Tiny
 Alignment: Lawful Neutral
 CR: 1/8

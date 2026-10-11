@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-16T18:14:20.807-04:00
-modified: 2026-09-03T00:58:07.680-04:00
-published: 2026-09-03T00:58:07.680-04:00
+modified: 2026-10-09T01:12:25.352-04:00
+published: 2026-10-09T01:12:25.352-04:00
 Name: "[[Alustriel's Mooncloak]]"
 Spell Level: Level 5
 School: Abjuration
-Classes: Bard, Druid, Ranger, Wizard
+Classes:
+  - Bard
+  - Druid
+  - Ranger
+  - Wizard
 Special: C, M
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true

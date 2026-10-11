@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 2026-10-03T23:11:25.120-04:00
-modified: 2026-10-03T23:13:30.186-04:00
-published: 2026-10-03T23:13:30.186-04:00
-Creature Type: Celestial (Yokai)
+modified: 2026-10-10T01:57:04.093-04:00
+published: 2026-10-10T01:57:04.093-04:00
+Creature Type: Celestial
+Subtype: Yokai
 Size: Large
 Alignment: Lawful Good
 CR: "3"

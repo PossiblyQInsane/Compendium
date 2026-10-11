@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-08-15T22:04:54.056-04:00
-modified: 2026-08-31T12:02:17.533-04:00
-published: 2026-08-31T12:02:17.533-04:00
+modified: 2026-10-08T00:21:37.888-04:00
+published: 2026-10-08T00:21:37.888-04:00
 Name: "[[Absorb Elements]]"
 Spell Level: Level 1
 School: Abjuration
-Classes: Artificer, Druid, Ranger, Sorcerer, Wizard
+Classes:
+  - Artificer
+  - Druid
+  - Ranger
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Elemental Evil Player's Companion
 Official: true

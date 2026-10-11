@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-15T22:49:00.776-04:00
-modified: 2026-08-31T12:24:38.491-04:00
-published: 2026-08-31T12:24:38.491-04:00
+modified: 2026-10-08T12:11:40.912-04:00
+published: 2026-10-08T12:11:40.912-04:00
 Name: "[[Skywrite]]"
 Spell Level: Level 2
 School: Transmutation
-Classes: Artificer, Bard, Druid, Wizard
+Classes:
+  - Artificer
+  - Bard
+  - Druid
+  - Wizard
 Special: C, R
 Source: Elemental Evil Player's Companion
 Official: true

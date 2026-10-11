@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-27T12:22:47.761-04:00
-modified: 2026-09-27T12:28:49.438-04:00
-published: 2026-09-27T12:28:49.438-04:00
+modified: 2026-10-09T01:32:53.730-04:00
+published: 2026-10-09T01:32:53.730-04:00
 Name: "[[Crown of Stars]]"
 Spell Level: Level 7
 School: Evocation
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Xanathar's Guide to Everything
 Official: true

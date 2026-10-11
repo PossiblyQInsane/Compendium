@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-03T09:17:18.221-04:00
-modified: 2026-09-03T09:21:22.599-04:00
-published: 2026-09-03T09:21:22.599-04:00
+modified: 2026-10-08T11:44:33.700-04:00
+published: 2026-10-08T11:44:33.700-04:00
 Name: "[[Inflict Doubt]]"
 Spell Level: Level 3
 School: Enchantment
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Arcana Unleashed
 Official: true

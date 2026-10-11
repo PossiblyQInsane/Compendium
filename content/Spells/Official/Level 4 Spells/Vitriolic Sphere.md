@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T20:29:48.641-04:00
-modified: 2026-09-30T01:02:02.833-04:00
-published: 2026-09-30T01:02:02.833-04:00
+modified: 2026-10-09T01:06:35.819-04:00
+published: 2026-10-09T01:06:35.819-04:00
 Name: "[[Vitriolic Sphere]]"
 Spell Level: Level 4
 School: Evocation
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Third Party Classes: Magus
 Special: —
 Source: Player's Handbook 5.5e

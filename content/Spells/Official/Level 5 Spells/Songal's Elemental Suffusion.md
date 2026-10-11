@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-23T21:56:32.959-04:00
-modified: 2026-09-03T01:04:32.770-04:00
-published: 2026-09-03T01:04:32.770-04:00
+modified: 2026-10-09T01:20:13.520-04:00
+published: 2026-10-09T01:20:13.520-04:00
 Name: "[[Songal's Elemental Suffusion]]"
 Spell Level: Level 5
 School: Transmutation
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: C, M
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true

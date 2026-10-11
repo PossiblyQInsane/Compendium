@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-09-23T11:42:22.271-04:00
-modified: 2026-09-25T11:17:11.990-04:00
-published: 2026-09-25T11:17:11.990-04:00
+modified: 2026-10-09T01:46:17.814-04:00
+published: 2026-10-09T01:46:17.814-04:00
 Name: "[[Steal Immortality]]"
 Spell Level: Level 9
-School: Transmutation (Sangromancy)
+School: Transmutation
+Subschool: Sangromancy
 Classes: Warlock
 Special: M
 Source: "Grim Hollow: Player's Guide"
@@ -16,7 +17,7 @@ Edition: 5.5e
 
 <div class="source">Grim Hollow: Player's Guide<br>Ghostfire Gaming</div>
 
-_Level 9 Transmutation (Sangromancy) ([Warlock](https://app.notion.com/p/Warlock-39244a81a3ae80d4a35bf0ed0ab2f2ae?pvs=21))_
+_Level 9 Transmutation (Sangromancy) ([[Warlock]])_
 
 ---
 

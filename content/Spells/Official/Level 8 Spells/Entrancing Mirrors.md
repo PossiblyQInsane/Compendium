@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-03T02:19:30.639-04:00
-modified: 2026-09-03T02:21:54.111-04:00
-published: 2026-09-03T02:21:54.111-04:00
+modified: 2026-10-09T01:40:08.183-04:00
+published: 2026-10-09T01:40:08.183-04:00
 Name: "[[Entrancing Mirrors]]"
 Spell Level: Level 8
 School: Illusion
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Arcana Unleashed
 Official: true

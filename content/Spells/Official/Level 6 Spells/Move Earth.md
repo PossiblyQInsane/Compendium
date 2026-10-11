@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-08T00:25:08.043-04:00
-modified: 2026-08-31T19:47:09.911-04:00
-published: 2026-08-31T19:47:09.911-04:00
+modified: 2026-10-09T01:29:51.654-04:00
+published: 2026-10-09T01:29:51.654-04:00
 Name: "[[Move Earth]]"
 Spell Level: Level 6
 School: Transmutation
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

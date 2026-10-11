@@ -3,10 +3,8 @@ publish: true
 aliases:
   - bronze dragon
 created: 2026-09-06T00:49:19.588-04:00
-modified: 2026-09-07T20:28:51.837-04:00
-published: 2026-09-07T20:28:51.837-04:00
-Habitat: Coastal
-Treasure: Implements
+modified: 2026-10-10T01:46:53.205-04:00
+published: 2026-10-10T01:46:53.205-04:00
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

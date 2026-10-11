@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-24T21:07:32.270-04:00
-modified: 2026-09-21T16:29:40.994-04:00
-published: 2026-09-21T16:29:40.994-04:00
+modified: 2026-10-08T01:23:14.208-04:00
+published: 2026-10-08T01:23:14.208-04:00
 Name: "[[Chameleon Skin]]"
 Spell Level: Level 1
 School: Biomancy
-Classes: Bard, Druid, Ranger, Wizard
+Classes:
+  - Bard
+  - Druid
+  - Ranger
+  - Wizard
 Third Party Classes: Tamer
 Special: C
 Source: Heliana's Guide to Monster Hunting

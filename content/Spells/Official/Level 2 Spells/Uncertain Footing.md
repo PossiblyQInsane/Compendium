@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-03T09:07:45.139-04:00
-modified: 2026-09-03T09:13:47.251-04:00
-published: 2026-09-03T09:13:47.251-04:00
+modified: 2026-10-08T01:15:19.749-04:00
+published: 2026-10-08T01:15:19.749-04:00
 Name: "[[Uncertain Footing]]"
 Spell Level: Level 2
 School: Illusion
-Classes: Artificer, Bard, Warlock, Wizard
+Classes:
+  - Artificer
+  - Bard
+  - Warlock
+  - Wizard
 Special: C
 Source: Arcana Unleashed
 Official: true

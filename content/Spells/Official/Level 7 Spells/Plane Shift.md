@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-08-04T00:32:55.326-04:00
-modified: 2026-08-31T19:49:56.575-04:00
-published: 2026-08-31T19:49:56.575-04:00
+modified: 2026-10-09T01:34:34.710-04:00
+published: 2026-10-09T01:34:34.710-04:00
 Name: "[[Plane Shift]]"
 Spell Level: Level 7
 School: Conjuration
-Classes: Cleric, Druid, Sorcerer, Warlock, Wizard
+Classes:
+  - Cleric
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: M
 Source: Player's Handbook 5.5e
 Official: true

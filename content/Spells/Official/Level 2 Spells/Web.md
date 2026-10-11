@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-07-26T13:18:06.455-04:00
-modified: 2026-08-31T12:25:43.987-04:00
-published: 2026-08-31T12:25:43.987-04:00
+modified: 2026-10-08T01:16:21.976-04:00
+published: 2026-10-08T01:16:21.976-04:00
 Name: "[[Web]]"
 Spell Level: Level 2
 School: Conjuration
-Classes: Artificer, Sorcerer, Wizard
+Classes:
+  - Artificer
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

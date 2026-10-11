@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-10-04T21:47:52.388-04:00
-modified: 2026-10-04T21:50:47.443-04:00
-published: 2026-10-04T21:50:47.443-04:00
+modified: 2026-10-08T01:17:19.683-04:00
+published: 2026-10-08T01:17:19.683-04:00
 Name: "[[Blood Bolt]]"
 Spell Level: Cantrip
 School: Necromancy
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: The Crooked Moon
 Official: false

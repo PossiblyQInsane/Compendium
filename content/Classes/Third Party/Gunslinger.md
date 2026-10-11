@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-02T10:54:24.605-04:00
-modified: 2026-09-21T23:36:13.554-04:00
-published: 2026-09-21T23:36:13.554-04:00
+modified: 2026-10-07T11:53:02.133-04:00
+published: 2026-10-07T11:53:02.133-04:00
+Name: "[[Gunslinger]]"
 Source: Valda's Spire of Secrets
 Official: false
 Publisher: Mage Hand Press

@@ -4,12 +4,15 @@ aliases:
   - Antipathy/Sympathy
 title: Antipathy/Sympathy
 created: 2026-08-03T02:22:24.368-04:00
-modified: 2026-09-11T10:27:14.588-04:00
-published: 2026-09-11T10:27:14.588-04:00
+modified: 2026-10-09T01:38:13.633-04:00
+published: 2026-10-09T01:38:13.633-04:00
 Name: "[[Antipathy-Sympathy|Antipathy/Sympathy]]"
 Spell Level: Level 8
 School: Enchantment
-Classes: Bard, Druid, Wizard
+Classes:
+  - Bard
+  - Druid
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

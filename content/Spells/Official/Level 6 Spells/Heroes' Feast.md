@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-03T01:30:28.089-04:00
-modified: 2026-08-31T19:46:09.294-04:00
-published: 2026-08-31T19:46:09.294-04:00
+modified: 2026-10-09T01:28:36.119-04:00
+published: 2026-10-09T01:28:36.119-04:00
 Name: "[[Heroes' Feast]]"
 Spell Level: Level 6
 School: Conjuration
-Classes: Bard, Cleric, Druid
+Classes:
+  - Bard
+  - Cleric
+  - Druid
 Special: M
 Source: Player's Handbook 5.5e
 Official: true

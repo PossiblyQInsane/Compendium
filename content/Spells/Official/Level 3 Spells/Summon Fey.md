@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-07T11:05:41.662-04:00
-modified: 2026-09-29T00:29:35.881-04:00
-published: 2026-09-29T00:29:35.881-04:00
+modified: 2026-10-08T11:53:23.797-04:00
+published: 2026-10-08T11:53:23.797-04:00
 Name: "[[Summon Fey]]"
 Spell Level: Level 3
 School: Conjuration
-Classes: Druid, Ranger, Warlock, Wizard
+Classes:
+  - Druid
+  - Ranger
+  - Warlock
+  - Wizard
 Special: C, M
 Source: Player's Handbook 5.5e
 Official: true

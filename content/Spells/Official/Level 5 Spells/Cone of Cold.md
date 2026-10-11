@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-07-29T11:51:36.592-04:00
-modified: 2026-10-02T18:27:42.345-04:00
-published: 2026-10-02T18:27:42.345-04:00
+modified: 2026-10-09T01:13:34.848-04:00
+published: 2026-10-09T01:13:34.848-04:00
 Name: "[[Cone of Cold]]"
 Spell Level: Level 5
 School: Evocation
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Third Party Classes: Bender (water)
 Special: —
 Source: Player's Handbook 5.5e

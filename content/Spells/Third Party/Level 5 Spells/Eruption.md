@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-10-03T17:12:39.974-04:00
-modified: 2026-10-03T17:20:00.470-04:00
-published: 2026-10-03T17:20:00.470-04:00
+modified: 2026-10-09T01:23:27.541-04:00
+published: 2026-10-09T01:23:27.541-04:00
 Name: "[[Eruption]]"
 Spell Level: Level 5
 School: Transmutation
-Classes: Druid, Sorcerer
+Classes:
+  - Druid
+  - Sorcerer
 Third Party Classes: Bender (earth)
 Special: —
 Source: Ryoko's Guide to the Yokai Realms

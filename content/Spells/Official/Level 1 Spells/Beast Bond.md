@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-20T11:38:29.941-04:00
-modified: 2026-08-31T12:02:58.598-04:00
-published: 2026-08-31T12:02:58.598-04:00
+modified: 2026-10-08T00:22:51.141-04:00
+published: 2026-10-08T00:22:51.141-04:00
 Name: "[[Beast Bond]]"
 Spell Level: Level 1
 School: Divination
-Classes: Druid, Ranger
+Classes:
+  - Druid
+  - Ranger
 Special: C
 Source: Elemental Evil Player's Companion
 Official: true

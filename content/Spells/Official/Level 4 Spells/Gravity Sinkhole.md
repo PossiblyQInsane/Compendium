@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-10-06T11:33:03.572-04:00
-modified: 2026-10-06T11:35:28.897-04:00
-published: 2026-10-06T11:35:28.897-04:00
+modified: 2026-10-09T01:49:23.082-04:00
+published: 2026-10-09T01:49:23.082-04:00
 Name: "[[Gravity Sinkhole]]"
 Spell Level: Level 4
 School: Evocation
-Subschool: Dunamancy [Graviturgy]
+Subschool: Dunamancy
 Classes: —
 Special: —
 Source: Explorer's Guide to Wildemount
@@ -16,7 +16,7 @@ Edition: 5e
 
 <div class="source">Explorer's Guide to Wildemount</div>
 
-_Level 4 Evocation (Dunamancy \[Graviturgy])_
+_Level 4 Evocation (Dunamancy)_
 
 ---
 

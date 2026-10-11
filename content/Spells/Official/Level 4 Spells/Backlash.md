@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-16T17:54:10.248-04:00
-modified: 2026-08-31T15:14:04.059-04:00
-published: 2026-08-31T15:14:04.059-04:00
+modified: 2026-10-09T00:52:02.645-04:00
+published: 2026-10-09T00:52:02.645-04:00
 Name: "[[Backlash]]"
 Spell Level: Level 4
 School: Abjuration
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true

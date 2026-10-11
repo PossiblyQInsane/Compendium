@@ -1,13 +1,20 @@
 ---
 publish: true
 created: 2026-08-03T22:55:51.488-04:00
-modified: 2026-10-02T18:14:26.046-04:00
-published: 2026-10-02T18:14:26.046-04:00
+modified: 2026-10-08T11:37:11.362-04:00
+published: 2026-10-08T11:37:11.362-04:00
 Name: "[[Daylight]]"
 Spell Level: Level 3
 School: Evocation
-Classes: Cleric, Druid, Paladin, Ranger, Sorcerer
-Third Party Classes: Bender (fire), Tamer
+Classes:
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
+  - Sorcerer
+Third Party Classes:
+  - Bender (fire)
+  - Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

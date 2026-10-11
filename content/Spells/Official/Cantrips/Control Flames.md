@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-20T11:07:30.615-04:00
-modified: 2026-08-31T11:50:31.475-04:00
-published: 2026-08-31T11:50:31.475-04:00
+modified: 2026-10-08T00:06:17.722-04:00
+published: 2026-10-08T00:06:17.722-04:00
 Name: "[[Control Flames]]"
 Spell Level: Cantrip
 School: Transmutation
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Elemental Evil Player's Companion
 Official: true

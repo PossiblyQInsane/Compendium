@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-27T00:34:50.429-04:00
-modified: 2026-09-27T00:39:36.438-04:00
-published: 2026-09-27T00:39:36.438-04:00
+modified: 2026-10-08T00:48:44.029-04:00
+published: 2026-10-08T00:48:44.029-04:00
 Name: "[[Aganazzar's Scorcher]]"
 Spell Level: Level 2
 School: Evocation
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Elemental Evil Player's Companion
 Official: true

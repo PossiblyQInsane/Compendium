@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-05T00:54:27.926-04:00
-modified: 2026-09-30T00:44:09.623-04:00
-published: 2026-09-30T00:44:09.623-04:00
+modified: 2026-10-08T00:26:01.176-04:00
+published: 2026-10-08T00:26:01.176-04:00
 Name: "[[Chromatic Orb]]"
 Spell Level: Level 1
 School: Evocation
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Third Party Classes: Magus
 Special: M
 Source: Player's Handbook 5.5e

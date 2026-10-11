@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-15T23:21:51.857-04:00
-modified: 2026-09-29T01:29:42.224-04:00
-published: 2026-09-29T01:29:42.224-04:00
+modified: 2026-10-08T11:55:07.774-04:00
+published: 2026-10-08T11:55:07.774-04:00
 Name: "[[Tiny Servant]]"
 Spell Level: Level 3
 School: Transmutation
-Classes: Artificer, Wizard
+Classes:
+  - Artificer
+  - Wizard
 Special: —
 Source: Xanathar's Guide to Everything
 Official: true

@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-02T21:03:55.807-04:00
-modified: 2026-08-31T12:18:34.387-04:00
-published: 2026-08-31T12:18:34.387-04:00
+modified: 2026-10-08T00:54:27.292-04:00
+published: 2026-10-08T00:54:27.292-04:00
 Name: "[[Crown of Madness]]"
 Spell Level: Level 2
 School: Enchantment
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

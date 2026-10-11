@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-09T10:47:24.259-04:00
-modified: 2026-08-31T19:43:58.771-04:00
-published: 2026-08-31T19:43:58.771-04:00
+modified: 2026-10-09T01:26:40.205-04:00
+published: 2026-10-09T01:26:40.205-04:00
 Name: "[[Circle of Death]]"
 Spell Level: Level 6
 School: Necromancy
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: M
 Source: Player's Handbook 5.5e
 Official: true

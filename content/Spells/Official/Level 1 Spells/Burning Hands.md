@@ -1,13 +1,18 @@
 ---
 publish: true
 created: 2026-08-04T09:43:48.280-04:00
-modified: 2026-10-02T17:46:56.924-04:00
-published: 2026-10-02T17:46:56.924-04:00
+modified: 2026-10-08T00:23:56.132-04:00
+published: 2026-10-08T00:23:56.132-04:00
 Name: "[[Burning Hands]]"
 Spell Level: Level 1
 School: Evocation
-Classes: Sorcerer, Wizard
-Third Party Classes: Bender (fire), Illrigger (AoR), Magus
+Classes:
+  - Sorcerer
+  - Wizard
+Third Party Classes:
+  - Bender (fire)
+  - Illrigger (Architect of Ruin)
+  - Magus
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

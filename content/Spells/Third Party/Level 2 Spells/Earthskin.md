@@ -1,13 +1,19 @@
 ---
 publish: true
 created: 2026-10-04T15:09:40.886-04:00
-modified: 2026-10-04T15:15:54.692-04:00
-published: 2026-10-04T15:15:54.692-04:00
+modified: 2026-10-08T01:31:22.815-04:00
+published: 2026-10-08T01:31:22.815-04:00
 Name: "[[Earthskin]]"
 Spell Level: Level 2
 School: Biomancy
-Classes: Druid, Ranger, Sorcerer, Wizard
-Third Party Classes: Bender (earth), Tamer
+Classes:
+  - Druid
+  - Ranger
+  - Sorcerer
+  - Wizard
+Third Party Classes:
+  - Bender (earth)
+  - Tamer
 Special: —
 Source: Ryoko's Guide to the Yokai Realms
 Official: false

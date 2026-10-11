@@ -1,13 +1,19 @@
 ---
 publish: true
 created: 2026-08-02T23:26:00.276-04:00
-modified: 2026-09-30T00:54:47.064-04:00
-published: 2026-09-30T00:54:47.064-04:00
+modified: 2026-10-08T11:40:01.621-04:00
+published: 2026-10-08T11:40:01.621-04:00
 Name: "[[Fear]]"
 Spell Level: Level 3
 School: Illusion
-Classes: Bard, Sorcerer, Warlock, Wizard
-Third Party Classes: Illrigger (AoR), Tamer
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
+Third Party Classes:
+  - Illrigger (Architect of Ruin)
+  - Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

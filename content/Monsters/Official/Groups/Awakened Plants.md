@@ -3,10 +3,8 @@ publish: true
 aliases:
   - Awakened Plants
 created: 2026-08-16T22:49:33.950-04:00
-modified: 2026-09-05T23:50:34.642-04:00
-published: 2026-09-05T23:50:34.642-04:00
-Habitat: Forest
-Treasure: None
+modified: 2026-10-10T01:46:34.307-04:00
+published: 2026-10-10T01:46:34.307-04:00
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

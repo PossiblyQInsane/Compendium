@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-27T00:40:39.175-04:00
-modified: 2026-09-27T00:43:11.637-04:00
-published: 2026-09-27T00:43:11.637-04:00
+modified: 2026-10-08T00:55:28.645-04:00
+published: 2026-10-08T00:55:28.645-04:00
 Name: "[[Death Armor]]"
 Spell Level: Level 2
 School: Necromancy
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Special: M
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true

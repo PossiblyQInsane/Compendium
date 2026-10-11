@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-26T15:35:48.947-04:00
-modified: 2026-09-26T23:48:28.896-04:00
-published: 2026-09-26T23:48:28.896-04:00
+modified: 2026-10-08T01:24:36.519-04:00
+published: 2026-10-08T01:24:36.519-04:00
 Name: "[[Duplicate]]"
 Spell Level: Level 1
 School: Conjuration
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: "Obojima: Tales from the Tall Grass"
 Official: false

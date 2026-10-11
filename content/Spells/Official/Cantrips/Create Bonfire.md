@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-08-15T21:35:58.944-04:00
-modified: 2026-08-31T11:50:39.269-04:00
-published: 2026-08-31T11:50:39.269-04:00
+modified: 2026-10-08T00:06:46.488-04:00
+published: 2026-10-08T00:06:46.488-04:00
 Name: "[[Create Bonfire]]"
 Spell Level: Cantrip
 School: Conjuration
-Classes: Artificer, Druid, Sorcerer, Warlock, Wizard
+Classes:
+  - Artificer
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Elemental Evil Player's Companion
 Official: true

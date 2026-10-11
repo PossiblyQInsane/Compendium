@@ -1,13 +1,20 @@
 ---
 publish: true
 created: 2026-07-30T10:37:26.715-04:00
-modified: 2026-09-30T00:58:11.949-04:00
-published: 2026-09-30T00:58:11.949-04:00
+modified: 2026-10-09T00:52:31.233-04:00
+published: 2026-10-09T00:52:31.233-04:00
 Name: "[[Banishment]]"
 Spell Level: Level 4
 School: Abjuration
-Classes: Cleric, Paladin, Sorcerer, Warlock, Wizard
-Third Party Classes: Illrigger (AoR), Magus
+Classes:
+  - Cleric
+  - Paladin
+  - Sorcerer
+  - Warlock
+  - Wizard
+Third Party Classes:
+  - Illrigger (Architect of Ruin)
+  - Magus
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-04T11:32:16.611-04:00
-modified: 2026-08-31T15:20:22.069-04:00
-published: 2026-08-31T15:20:22.069-04:00
+modified: 2026-10-09T01:10:49.049-04:00
+published: 2026-10-09T01:10:49.049-04:00
 Name: "[[Sanctum of the Shepherd]]"
 Spell Level: Level 4
 School: Abjuration
-Classes: Cleric, Paladin, Wizard
+Classes:
+  - Cleric
+  - Paladin
+  - Wizard
 Special: M
 Source: The Crooked Moon
 Official: false

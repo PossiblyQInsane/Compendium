@@ -3,10 +3,8 @@ publish: true
 aliases:
   - copper dragon
 created: 2026-09-06T00:49:19.588-04:00
-modified: 2026-09-07T13:36:38.913-04:00
-published: 2026-09-07T13:36:38.913-04:00
-Habitat: Hill
-Treasure: Arcana
+modified: 2026-10-10T01:46:57.858-04:00
+published: 2026-10-10T01:46:57.858-04:00
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

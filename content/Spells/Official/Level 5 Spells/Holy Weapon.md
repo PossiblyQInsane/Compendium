@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-17T21:27:30.023-04:00
-modified: 2026-08-31T15:24:01.794-04:00
-published: 2026-08-31T15:24:01.794-04:00
+modified: 2026-10-09T01:17:12.865-04:00
+published: 2026-10-09T01:17:12.865-04:00
 Name: "[[Holy Weapon]]"
 Spell Level: Level 5
 School: Evocation
-Classes: Cleric, Paladin
+Classes:
+  - Cleric
+  - Paladin
 Special: C
 Source: Xanathar's Guide to Everything
 Official: true

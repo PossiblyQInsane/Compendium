@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-05T16:29:03.616-04:00
-modified: 2026-09-29T00:48:19.822-04:00
-published: 2026-09-29T00:48:19.822-04:00
+modified: 2026-10-08T11:54:17.241-04:00
+published: 2026-10-08T11:54:17.241-04:00
 Name: "[[Summon Undead]]"
 Spell Level: Level 3
 School: Necromancy
-Classes: Warlock, Wizard
+Classes:
+  - Warlock
+  - Wizard
 Special: C, M
 Source: Player's Handbook 5.5e
 Official: true

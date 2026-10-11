@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-09T09:14:21.314-04:00
-modified: 2026-08-31T12:12:49.419-04:00
-published: 2026-08-31T12:12:49.419-04:00
+modified: 2026-10-08T01:24:07.629-04:00
+published: 2026-10-08T01:24:07.629-04:00
 Name: "[[Crimson Lash]]"
 Spell Level: Level 1
-School: Conjuration (Sangromancy)
-Classes: Warlock, Wizard
+School: Conjuration
+Subschool:
+  - Sangromancy
+Classes:
+  - Warlock
+  - Wizard
 Special: —
 Source: "Grim Hollow: Player's Guide"
 Official: false

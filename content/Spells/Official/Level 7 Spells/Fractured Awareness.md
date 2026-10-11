@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-03T10:10:31.586-04:00
-modified: 2026-09-03T10:13:12.291-04:00
-published: 2026-09-03T10:13:12.291-04:00
+modified: 2026-10-09T01:34:00.492-04:00
+published: 2026-10-09T01:34:00.492-04:00
 Name: "[[Fractured Awareness]]"
 Spell Level: Level 7
 School: Divination
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Arcana Unleashed
 Official: true

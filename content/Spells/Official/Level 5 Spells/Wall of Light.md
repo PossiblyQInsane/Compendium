@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-27T02:27:21.797-04:00
-modified: 2026-09-27T02:32:01.586-04:00
-published: 2026-09-27T02:32:01.586-04:00
+modified: 2026-10-09T01:22:06.883-04:00
+published: 2026-10-09T01:22:06.883-04:00
 Name: "[[Wall of Light]]"
 Spell Level: Level 5
 School: Evocation
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Xanathar's Guide to Everything
 Official: true

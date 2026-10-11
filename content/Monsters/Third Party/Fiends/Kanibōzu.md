@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 2026-10-03T22:34:27.570-04:00
-modified: 2026-10-03T22:37:06.604-04:00
-published: 2026-10-03T22:37:06.604-04:00
-Creature Type: Fiend (Yokai)
+modified: 2026-10-10T02:02:06.060-04:00
+published: 2026-10-10T02:02:06.060-04:00
+Creature Type: Fiend
+Subtype: Yokai
 Size: Medium
 Alignment: Neutral
 CR: "5"

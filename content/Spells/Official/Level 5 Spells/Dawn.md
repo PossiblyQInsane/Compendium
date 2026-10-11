@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-17T21:21:21.518-04:00
-modified: 2026-08-31T15:22:54.903-04:00
-published: 2026-08-31T15:22:54.903-04:00
+modified: 2026-10-09T01:14:59.198-04:00
+published: 2026-10-09T01:14:59.198-04:00
 Name: "[[Dawn]]"
 Spell Level: Level 5
 School: Evocation
-Classes: Cleric, Wizard
+Classes:
+  - Cleric
+  - Wizard
 Special: C, M
 Source: Xanathar's Guide to Everything
 Official: true

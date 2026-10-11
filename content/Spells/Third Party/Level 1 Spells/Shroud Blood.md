@@ -1,12 +1,18 @@
 ---
 publish: true
 created: 2026-09-22T11:54:20.194-04:00
-modified: 2026-09-22T11:58:39.964-04:00
-published: 2026-09-22T11:58:39.964-04:00
+modified: 2026-10-08T01:26:17.267-04:00
+published: 2026-10-08T01:26:17.267-04:00
 Name: "[[Shroud Blood]]"
 Spell Level: Level 1
-School: Illusion (Sangromancy)
-Classes: Bard, Druid, Ranger, Wizard
+School: Illusion
+Subschool:
+  - Sangromancy
+Classes:
+  - Bard
+  - Druid
+  - Ranger
+  - Wizard
 Special: C
 Source: "Grim Hollow: Player's Guide"
 Official: false

@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-05T13:00:19.651-04:00
-modified: 2026-09-28T23:45:53.662-04:00
-published: 2026-09-28T23:45:53.662-04:00
+modified: 2026-10-09T01:06:03.534-04:00
+published: 2026-10-09T01:06:03.534-04:00
 Name: "[[Summon Aberration]]"
 Spell Level: Level 4
 School: Conjuration
-Classes: Warlock, Wizard
+Classes:
+  - Warlock
+  - Wizard
 Special: C, M
 Source: Player's Handbook 5.5e
 Official: true

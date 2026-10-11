@@ -1,10 +1,8 @@
 ---
 publish: true
 created: 2026-08-17T01:07:12.770-04:00
-modified: 2026-09-08T01:35:56.685-04:00
-published: 2026-09-08T01:35:56.685-04:00
-Habitat: Planar (Shadowfell), Underdark, Urban
-Treasure: None
+modified: 2026-10-10T01:47:46.560-04:00
+published: 2026-10-10T01:47:46.560-04:00
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

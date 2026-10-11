@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-27T01:10:48.797-04:00
-modified: 2026-09-27T01:17:09.109-04:00
-published: 2026-09-27T01:17:09.109-04:00
+modified: 2026-10-08T01:16:08.677-04:00
+published: 2026-10-08T01:16:08.677-04:00
 Name: "[[Warp Sense]]"
 Spell Level: Level 2
 School: Divination
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: "Planescape: Adventures in the Multiverse"
 Official: true

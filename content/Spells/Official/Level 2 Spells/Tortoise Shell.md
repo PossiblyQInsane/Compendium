@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-15T22:52:20.088-04:00
-modified: 2026-08-31T12:25:20.797-04:00
-published: 2026-08-31T12:25:20.797-04:00
+modified: 2026-10-08T01:15:05.153-04:00
+published: 2026-10-08T01:15:05.153-04:00
 Name: "[[Tortoise Shell]]"
 Spell Level: Level 2
 School: Abjuration
-Classes: Artificer, Druid, Ranger
+Classes:
+  - Artificer
+  - Druid
+  - Ranger
 Special: C
 Source: D&D Beyond Drops
 Official: true

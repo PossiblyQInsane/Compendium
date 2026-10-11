@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-24T01:17:51.119-04:00
-modified: 2026-08-31T11:55:43.038-04:00
-published: 2026-08-31T11:55:43.038-04:00
+modified: 2026-10-08T01:20:51.675-04:00
+published: 2026-10-08T01:20:51.675-04:00
 Name: "[[Swarm]]"
 Spell Level: Cantrip
 School: Biomancy
-Classes: Druid, Sorcerer, Warlock
+Classes:
+  - Druid
+  - Sorcerer
+  - Warlock
 Special: —
 Source: Heliana's Guide to Monster Hunting
 Official: false

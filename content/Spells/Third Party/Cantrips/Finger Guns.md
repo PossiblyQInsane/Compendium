@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-02T11:50:04.832-04:00
-modified: 2026-09-02T11:52:56.206-04:00
-published: 2026-09-02T11:52:56.206-04:00
+modified: 2026-10-08T01:19:41.785-04:00
+published: 2026-10-08T01:19:41.785-04:00
 Name: "[[Finger Guns]]"
 Spell Level: Cantrip
 School: Evocation
-Classes: Bard, Sorcerer, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Valda's Spire of Secrets
 Official: false

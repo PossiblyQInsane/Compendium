@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-23T21:15:45.595-04:00
-modified: 2026-08-31T15:11:00.305-04:00
-published: 2026-08-31T15:11:00.305-04:00
+modified: 2026-10-08T11:54:53.804-04:00
+published: 2026-10-08T11:54:53.804-04:00
 Name: "[[Tidal Wave]]"
 Spell Level: Level 3
 School: Conjuration
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Elemental Evil Player's Companion
 Official: true

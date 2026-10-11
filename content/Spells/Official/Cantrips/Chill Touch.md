@@ -1,13 +1,18 @@
 ---
 publish: true
 created: 2026-08-04T11:16:09.755-04:00
-modified: 2026-09-30T00:39:35.676-04:00
-published: 2026-09-30T00:39:35.676-04:00
+modified: 2026-10-08T00:05:53.543-04:00
+published: 2026-10-08T00:05:53.543-04:00
 Name: "[[Chill Touch]]"
 Spell Level: Cantrip
 School: Necromancy
-Classes: Sorcerer, Warlock, Wizard
-Third Party Classes: Illrigger (AoR), Magus
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
+Third Party Classes:
+  - Illrigger (Architect of Ruin)
+  - Magus
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-08-10T13:35:48.675-04:00
-modified: 2026-08-31T12:13:34.340-04:00
-published: 2026-08-31T12:13:34.340-04:00
+modified: 2026-10-08T01:25:43.197-04:00
+published: 2026-10-08T01:25:43.197-04:00
 Name: "[[Phalangeal Shot]]"
 Spell Level: Level 1
-School: Evocation (Osteomancy)
-Classes: Sorcerer, Warlock, Wizard
+School: Evocation
+Subschool:
+  - Osteomancy
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false

@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-08-09T09:27:49.136-04:00
-modified: 2026-08-31T15:12:09.415-04:00
-published: 2026-08-31T15:12:09.415-04:00
+modified: 2026-10-08T11:57:39.051-04:00
+published: 2026-10-08T11:57:39.051-04:00
 Name: "[[Blood Bond]]"
 Spell Level: Level 3
-School: Enchantment (Sangromancy)
+School: Enchantment
+Subschool:
+  - Sangromancy
 Classes: Druid
 Special: —
 Source: "Grim Hollow: Player's Guide"

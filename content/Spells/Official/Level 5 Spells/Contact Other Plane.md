@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-04T10:42:22.794-04:00
-modified: 2026-09-30T01:02:54.279-04:00
-published: 2026-09-30T01:02:54.279-04:00
+modified: 2026-10-09T01:14:12.746-04:00
+published: 2026-10-09T01:14:12.746-04:00
 Name: "[[Contact Other Plane]]"
 Spell Level: Level 5
 School: Divination
-Classes: Warlock, Wizard
+Classes:
+  - Warlock
+  - Wizard
 Third Party Classes: Magus
 Special: R
 Source: Player's Handbook 5.5e

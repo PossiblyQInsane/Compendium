@@ -1,13 +1,19 @@
 ---
 publish: true
 created: 2026-10-04T16:24:51.024-04:00
-modified: 2026-10-04T16:31:23.009-04:00
-published: 2026-10-04T16:31:23.009-04:00
+modified: 2026-10-08T01:20:37.513-04:00
+published: 2026-10-08T01:20:37.513-04:00
 Name: "[[Smokescreen]]"
 Spell Level: Cantrip
 School: Conjuration
-Classes: Bard, Druid, Sorcerer, Wizard
-Third Party Classes: Bender (air), Tamer
+Classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Wizard
+Third Party Classes:
+  - Bender (air)
+  - Tamer
 Special: C
 Source: Heliana's Guide to Monster Hunting
 Official: false

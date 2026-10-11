@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-07T10:57:54.745-04:00
-modified: 2026-08-31T15:05:38.920-04:00
-published: 2026-08-31T15:05:38.920-04:00
+modified: 2026-10-08T11:35:02.579-04:00
+published: 2026-10-08T11:35:02.579-04:00
 Name: "[[Conjure Animals]]"
 Spell Level: Level 3
 School: Conjuration
-Classes: Druid, Ranger
+Classes:
+  - Druid
+  - Ranger
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

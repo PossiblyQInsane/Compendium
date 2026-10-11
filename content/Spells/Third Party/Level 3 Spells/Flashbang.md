@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-10-04T16:32:18.415-04:00
-modified: 2026-10-04T16:48:09.619-04:00
-published: 2026-10-04T16:48:09.619-04:00
+modified: 2026-10-08T12:00:26.695-04:00
+published: 2026-10-08T12:00:26.695-04:00
 Name: "[[Flashbang]]"
 Spell Level: Level 3
 School: Evocation
-Classes: Bard, Ranger, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Ranger
+  - Sorcerer
+  - Warlock
+  - Wizard
 Third Party Classes: Bender (air)
 Special: —
 Source: Ryoko's Guide to the Yokai Realms

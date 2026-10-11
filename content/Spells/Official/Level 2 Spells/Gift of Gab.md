@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-16T16:50:56.342-04:00
-modified: 2026-08-31T12:20:35.028-04:00
-published: 2026-08-31T12:20:35.028-04:00
+modified: 2026-10-08T01:01:42.245-04:00
+published: 2026-10-08T01:01:42.245-04:00
 Name: "[[Gift of Gab]]"
 Spell Level: Level 2
 School: Enchantment
-Classes: Bard, Wizard
+Classes:
+  - Bard
+  - Wizard
 Special: M
 Source: Acquisitions Incorporated
 Official: true

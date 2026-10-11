@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-13T23:06:49.503-04:00
-modified: 2026-09-13T23:11:20.901-04:00
-published: 2026-09-13T23:11:20.901-04:00
+modified: 2026-10-09T01:24:39.439-04:00
+published: 2026-10-09T01:24:39.439-04:00
 Name: "[[Incite Riot]]"
 Spell Level: Level 5
 School: Enchantment
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: "Grim Hollow: Player's Guide"
 Official: false

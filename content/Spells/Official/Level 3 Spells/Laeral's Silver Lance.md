@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-17T21:01:00.063-04:00
-modified: 2026-08-31T15:08:06.212-04:00
-published: 2026-08-31T15:08:06.212-04:00
+modified: 2026-10-08T11:45:06.171-04:00
+published: 2026-10-08T11:45:06.171-04:00
 Name: "[[Laeral's Silver Lance]]"
 Spell Level: Level 3
 School: Evocation
-Classes: Cleric, Sorcerer, Wizard
+Classes:
+  - Cleric
+  - Sorcerer
+  - Wizard
 Special: M
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true

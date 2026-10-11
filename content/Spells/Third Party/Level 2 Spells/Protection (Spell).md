@@ -4,13 +4,20 @@ aliases:
   - Protection
 title: Protection
 created: 2026-10-03T01:51:10.682-04:00
-modified: 2026-10-03T02:10:09.085-04:00
-published: 2026-10-03T02:10:09.085-04:00
+modified: 2026-10-08T12:13:59.537-04:00
+published: 2026-10-08T12:13:59.537-04:00
 Name: "[[Protection (Spell)|Protection]]"
 Spell Level: Level 2
 School: Abjuration
-Classes: Bard, Cleric, Druid, Paladin, Ranger
-Third Party Classes: Bender (earth), Tamer
+Classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
+Third Party Classes:
+  - Bender (earth)
+  - Tamer
 Special: C, M
 Source: Heliana's Guide to Monster Hunting
 Official: false

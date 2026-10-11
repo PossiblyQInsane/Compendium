@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T21:23:29.626-04:00
-modified: 2026-09-26T14:59:02.291-04:00
-published: 2026-09-26T14:59:02.291-04:00
+modified: 2026-10-10T06:24:03.808-04:00
+published: 2026-10-10T06:24:03.808-04:00
 Name: "[[College of the Road]]"
 Parent Class: "[[Bard]]"
 Source: Humblewood Campaign Setting
@@ -91,7 +91,7 @@ At 6th level, your bond with the guardian spirit grows even deeper. Any creature
 
 At 14th level, any Large or smaller creature who has their speed reduced to 0 by the guardian spirit is [[restrained]] for as long as you maintain your concentration, as your guardian spirit pins them in place. The target can break free by spending an action to make a Strength ([[Athletics]]) check against your Traveler’s Trick save DC.
 
-_**Dark Bargain.\***_ You made a shady bargain with a haggard warlock. When you select this option, choose a Eldritch Invocation from the Warlock’s list of class features for which you meet the prerequisites. You can expend one use of your Bardic Inspiration to gain the benefits of this Dark Invocation for 10 minutes. Doing this requires you to roll your Bardic Inspiration die and take an amount of necrotic damage equal to the roll.
+_**Dark Bargain.\***_ You made a shady bargain with a haggard warlock. When you select this option, choose a [[Warlock#Eldritch Invocation Options|Eldritch Invocation]] from the Warlock’s list of class features for which you meet the prerequisites. You can expend one use of your Bardic Inspiration to gain the benefits of this Dark Invocation for 10 minutes. Doing this requires you to roll your Bardic Inspiration die and take an amount of necrotic damage equal to the roll.
 
 At 6th level, you have learned how to deepen your pact with the warlock you once met. You may choose to take double the necrotic damage you rolled on your Bardic Inspiration die to instead have the effect last for 1 hour.
 

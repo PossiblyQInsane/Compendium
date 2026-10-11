@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-16T18:30:22.628-04:00
-modified: 2026-08-31T19:49:10.694-04:00
-published: 2026-08-31T19:49:10.694-04:00
+modified: 2026-10-09T01:33:15.011-04:00
+published: 2026-10-09T01:33:15.011-04:00
 Name: "[[Dream of the Blue Veil]]"
 Spell Level: Level 7
 School: Conjuration
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Tasha's Cauldron of Everything
 Official: true

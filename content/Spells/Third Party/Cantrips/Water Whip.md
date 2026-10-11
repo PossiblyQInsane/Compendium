@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-24T21:34:33.687-04:00
-modified: 2026-10-02T17:39:11.135-04:00
-published: 2026-10-02T17:39:11.135-04:00
+modified: 2026-10-08T01:21:02.606-04:00
+published: 2026-10-08T01:21:02.606-04:00
 Name: "[[Water Whip]]"
 Spell Level: Cantrip
 School: Transmutation
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Third Party Classes: Bender (water)
 Special: —
 Source: Heliana's Guide to Monster Hunting

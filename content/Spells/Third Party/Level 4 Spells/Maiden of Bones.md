@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-10T13:50:59.561-04:00
-modified: 2026-08-31T15:20:09.646-04:00
-published: 2026-08-31T15:20:09.646-04:00
+modified: 2026-10-09T01:09:52.506-04:00
+published: 2026-10-09T01:09:52.506-04:00
 Name: "[[Maiden of Bones]]"
 Spell Level: Level 4
-School: Conjuration (Osteomancy)
-Classes: Warlock, Wizard
+School: Conjuration
+Subschool: Osteomancy
+Classes:
+  - Warlock
+  - Wizard
 Special: —
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false

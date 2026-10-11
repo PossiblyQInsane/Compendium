@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-15T22:56:36.721-04:00
-modified: 2026-08-31T12:25:26.496-04:00
-published: 2026-08-31T12:25:26.496-04:00
+modified: 2026-10-08T01:15:33.969-04:00
+published: 2026-10-08T01:15:33.969-04:00
 Name: "[[Vortex Warp]]"
 Spell Level: Level 2
 School: Conjuration
-Classes: Artificer, Sorcerer, Wizard
+Classes:
+  - Artificer
+  - Sorcerer
+  - Wizard
 Special: —
 Source: "Strixhaven: A Curriculum of Chaos"
 Official: true

@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-13T22:49:47.576-04:00
-modified: 2026-09-13T22:54:55.624-04:00
-published: 2026-09-13T22:54:55.624-04:00
+modified: 2026-10-08T12:02:44.226-04:00
+published: 2026-10-08T12:02:44.226-04:00
 Name: "[[Suffocate]]"
 Spell Level: Level 3
 School: Conjuration
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: "Grim Hollow: Player's Guide"
 Official: false

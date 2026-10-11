@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-03T01:14:06.929-04:00
-modified: 2026-08-31T15:25:29.500-04:00
-published: 2026-08-31T15:25:29.500-04:00
+modified: 2026-10-09T01:19:55.611-04:00
+published: 2026-10-09T01:19:55.611-04:00
 Name: "[[Seeming]]"
 Spell Level: Level 5
 School: Illusion
-Classes: Bard, Sorcerer, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

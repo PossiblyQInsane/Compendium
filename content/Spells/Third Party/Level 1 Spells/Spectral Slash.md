@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-13T23:46:26.399-04:00
-modified: 2026-09-13T23:50:04.434-04:00
-published: 2026-09-13T23:50:04.434-04:00
+modified: 2026-10-08T01:26:58.499-04:00
+published: 2026-10-08T01:26:58.499-04:00
 Name: "[[Spectral Slash]]"
 Spell Level: Level 1
 School: Conjuration
-Classes: Paladin, Ranger
+Classes:
+  - Paladin
+  - Ranger
 Special: M
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false

@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-03T01:11:34.248-04:00
-modified: 2026-09-21T16:46:42.801-04:00
-published: 2026-09-21T16:46:42.801-04:00
+modified: 2026-10-09T01:19:28.424-04:00
+published: 2026-10-09T01:19:28.424-04:00
 Name: "[[Rary's Telepathic Bond]]"
 Spell Level: Level 5
 School: Divination
-Classes: Bard, Wizard
+Classes:
+  - Bard
+  - Wizard
 Third Party Classes: Tamer
 Special: R
 Source: Player's Handbook 5.5e

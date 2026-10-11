@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-16T17:10:41.257-04:00
-modified: 2026-08-31T12:25:39.143-04:00
-published: 2026-08-31T12:25:39.143-04:00
+modified: 2026-10-08T01:15:57.762-04:00
+published: 2026-10-08T01:15:57.762-04:00
 Name: "[[Warding Wind]]"
 Spell Level: Level 2
 School: Evocation
-Classes: Bard, Druid, Sorcerer, Wizard
+Classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Elemental Evil Player's Companion
 Official: true

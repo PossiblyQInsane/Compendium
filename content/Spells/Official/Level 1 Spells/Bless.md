@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-03T22:15:13.924-04:00
-modified: 2026-08-31T12:03:06.644-04:00
-published: 2026-08-31T12:03:06.644-04:00
+modified: 2026-10-08T12:08:10.703-04:00
+published: 2026-10-08T12:08:10.703-04:00
 Name: "[[Bless]]"
 Spell Level: Level 1
 School: Enchantment
-Classes: Cleric, Paladin
+Classes:
+  - Cleric
+  - Paladin
 Special: C, M
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-27T00:31:51.489-04:00
-modified: 2026-09-27T00:34:08.085-04:00
-published: 2026-09-27T00:34:08.085-04:00
+modified: 2026-10-08T00:47:00.108-04:00
+published: 2026-10-08T00:47:00.108-04:00
 Name: "[[Spellfire Flare]]"
 Spell Level: Level 1
 School: Evocation
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true
 Edition: 5.5e

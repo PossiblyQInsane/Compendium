@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T20:34:02.194-04:00
-modified: 2026-09-30T01:02:34.627-04:00
-published: 2026-09-30T01:02:34.627-04:00
+modified: 2026-10-09T01:13:16.401-04:00
+published: 2026-10-09T01:13:16.401-04:00
 Name: "[[Cloudkill]]"
 Spell Level: Level 5
 School: Conjuration
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Third Party Classes: Magus
 Special: C
 Source: Player's Handbook 5.5e

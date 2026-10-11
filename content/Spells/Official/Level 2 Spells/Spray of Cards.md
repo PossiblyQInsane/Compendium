@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-16T17:06:03.245-04:00
-modified: 2026-08-31T12:25:01.496-04:00
-published: 2026-08-31T12:25:01.496-04:00
+modified: 2026-10-08T01:13:54.406-04:00
+published: 2026-10-08T01:13:54.406-04:00
 Name: "[[Spray of Cards]]"
 Spell Level: Level 2
 School: Conjuration
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: The Book of Many Things
 Official: true

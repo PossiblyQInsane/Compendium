@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-27T12:43:18.222-04:00
-modified: 2026-09-27T12:50:56.984-04:00
-published: 2026-09-27T12:50:56.984-04:00
+modified: 2026-10-09T01:39:42.202-04:00
+published: 2026-10-09T01:39:42.202-04:00
 Name: "[[Demiplane]]"
 Spell Level: Level 8
 School: Conjuration
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

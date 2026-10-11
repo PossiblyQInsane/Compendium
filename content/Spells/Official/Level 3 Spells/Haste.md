@@ -1,13 +1,21 @@
 ---
 publish: true
 created: 2026-07-26T13:53:53.498-04:00
-modified: 2026-10-02T18:14:42.798-04:00
-published: 2026-10-02T18:14:42.798-04:00
+modified: 2026-10-08T11:43:11.756-04:00
+published: 2026-10-08T11:43:11.756-04:00
 Name: "[[Haste]]"
 Spell Level: Level 3
 School: Transmutation
-Classes: Artificer, Sorcerer, Wizard
-Third Party Classes: Bender (air, fire), Illrigger (AoR), Magus, Tamer
+Classes:
+  - Artificer
+  - Sorcerer
+  - Wizard
+Third Party Classes:
+  - Bender (air)
+  - Bender (fire)
+  - Illrigger (Architect of Ruin)
+  - Magus
+  - Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

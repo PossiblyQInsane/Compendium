@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-16T16:32:59.828-04:00
-modified: 2026-08-31T12:09:03.676-04:00
-published: 2026-08-31T12:09:03.676-04:00
+modified: 2026-10-08T00:46:04.315-04:00
+published: 2026-10-08T00:46:04.315-04:00
 Name: "[[Silvery Barbs]]"
 Spell Level: Level 1
 School: Enchantment
-Classes: Bard, Sorcerer, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 Special: —
 Source: "Strixhaven: A Curriculum of Chaos"
 Official: true

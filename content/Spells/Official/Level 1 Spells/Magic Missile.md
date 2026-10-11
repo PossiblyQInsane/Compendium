@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T23:10:47.074-04:00
-modified: 2026-08-31T12:07:52.646-04:00
-published: 2026-08-31T12:07:52.646-04:00
+modified: 2026-10-08T00:42:16.391-04:00
+published: 2026-10-08T00:42:16.391-04:00
 Name: "[[Magic Missile]]"
 Spell Level: Level 1
 School: Evocation
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-03T10:30:55.215-04:00
-modified: 2026-09-03T10:33:46.211-04:00
-published: 2026-09-03T10:33:46.211-04:00
+modified: 2026-10-09T01:40:42.558-04:00
+published: 2026-10-09T01:40:42.558-04:00
 Name: "[[Iron Body]]"
 Spell Level: Level 8
 School: Transmutation
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C, M
 Source: Arcana Unleashed
 Official: true

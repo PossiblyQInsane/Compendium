@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-23T11:42:02.080-04:00
-modified: 2026-09-25T11:12:24.085-04:00
-published: 2026-09-25T11:12:24.085-04:00
+modified: 2026-10-09T01:42:20.869-04:00
+published: 2026-10-09T01:42:20.869-04:00
 Name: "[[Red Rain]]"
 Spell Level: Level 8
-School: Conjuration (Sangromancy)
-Classes: Cleric, Warlock
+School: Conjuration
+Subschool: Sangromancy
+Classes:
+  - Cleric
+  - Warlock
 Special: C
 Source: "Grim Hollow: Player's Guide"
 Official: false

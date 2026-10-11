@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-10-05T18:15:56.412-04:00
-modified: 2026-10-05T18:23:42.535-04:00
-published: 2026-10-05T18:23:42.535-04:00
+modified: 2026-10-09T01:17:26.515-04:00
+published: 2026-10-09T01:17:26.515-04:00
 Name: "[[Infernal Calling]]"
 Spell Level: Level 5
 School: Conjuration
-Classes: Warlock, Wizard
+Classes:
+  - Warlock
+  - Wizard
 Special: C, M
 Source: Xanathar's Guide to Everything
 Official: true

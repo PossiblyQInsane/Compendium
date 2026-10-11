@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-02T13:22:59.475-04:00
-modified: 2026-08-31T12:02:34.609-04:00
-published: 2026-08-31T12:02:34.609-04:00
+modified: 2026-10-08T00:22:13.052-04:00
+published: 2026-10-08T00:22:13.052-04:00
 Name: "[[Animal Friendship]]"
 Spell Level: Level 1
 School: Enchantment
-Classes: Bard, Druid, Ranger
+Classes:
+  - Bard
+  - Druid
+  - Ranger
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

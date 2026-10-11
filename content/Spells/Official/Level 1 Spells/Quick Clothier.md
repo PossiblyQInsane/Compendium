@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-04T09:42:53.383-04:00
-modified: 2026-09-04T09:46:24.352-04:00
-published: 2026-09-04T09:46:24.352-04:00
+modified: 2026-10-08T00:43:58.826-04:00
+published: 2026-10-08T00:43:58.826-04:00
 Name: "[[Quick Clothier]]"
 Spell Level: Level 1
 School: Transmutation
-Classes: Artificer, Bard, Wizard
+Classes:
+  - Artificer
+  - Bard
+  - Wizard
 Special: —
 Source: D&D Beyond Drops
 Official: true

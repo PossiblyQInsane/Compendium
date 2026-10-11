@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-10-03T15:55:41.478-04:00
-modified: 2026-10-03T16:38:05.494-04:00
-published: 2026-10-03T16:38:05.494-04:00
+modified: 2026-10-08T01:24:44.683-04:00
+published: 2026-10-08T01:24:44.683-04:00
 Name: "[[Earthen Uppercut]]"
 Spell Level: Level 1
 School: Transmutation
-Classes: Druid, Wizard
+Classes:
+  - Druid
+  - Wizard
 Third Party Classes: Bender (earth)
 Special: —
 Source: Ryoko's Guide to the Yokai Realms

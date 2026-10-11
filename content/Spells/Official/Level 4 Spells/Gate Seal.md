@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-27T01:30:40.238-04:00
-modified: 2026-09-27T01:34:49.615-04:00
-published: 2026-09-27T01:34:49.615-04:00
+modified: 2026-10-09T01:00:16.239-04:00
+published: 2026-10-09T01:00:16.239-04:00
 Name: "[[Gate Seal]]"
 Spell Level: Level 4
 School: Abjuration
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: M
 Source: "Planescape: Adventures in the Multiverse"
 Official: true

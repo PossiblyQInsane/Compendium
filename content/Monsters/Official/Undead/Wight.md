@@ -1,13 +1,18 @@
 ---
 publish: true
 created: 2026-08-06T12:02:43.095-04:00
-modified: 2026-09-07T23:08:47.295-04:00
-published: 2026-09-07T23:08:47.295-04:00
+modified: 2026-10-10T01:54:35.711-04:00
+published: 2026-10-10T01:54:35.711-04:00
 Creature Type: Undead
 Size: Medium
 Alignment: Neutral Evil
 CR: "3"
-Habitat: Desert, Planar (Shadowfell), Swamp, Underdark, Urban
+Habitat:
+  - Desert
+  - Planar (Shadowfell)
+  - Swamp
+  - Underdark
+  - Urban
 Treasure: Armaments
 Source: Monster Manual 5.5e
 Official: true

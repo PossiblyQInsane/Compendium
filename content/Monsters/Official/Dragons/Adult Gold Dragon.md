@@ -1,13 +1,16 @@
 ---
 publish: true
 created: 2026-09-07T20:40:14.934-04:00
-modified: 2026-09-07T20:43:06.795-04:00
-published: 2026-09-07T20:43:06.795-04:00
-Creature Type: Dragon (Metallic)
+modified: 2026-10-10T01:25:03.017-04:00
+published: 2026-10-10T01:25:03.017-04:00
+Creature Type: Dragon
+Subtype: Metallic
 Size: Huge
 Alignment: Lawful Good
 CR: "17"
-Habitat: Forest, Grassland
+Habitat:
+  - Forest
+  - Grassland
 Treasure: Arcana
 Source: Monster Manual 5.5e
 Official: true

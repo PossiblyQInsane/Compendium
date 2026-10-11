@@ -1,12 +1,19 @@
 ---
 publish: true
 created: 2026-09-22T11:50:13.334-04:00
-modified: 2026-09-22T11:57:08.567-04:00
-published: 2026-09-22T11:57:08.567-04:00
+modified: 2026-10-08T01:22:40.817-04:00
+published: 2026-10-08T01:22:40.817-04:00
 Name: "[[Boil Blood]]"
 Spell Level: Level 1
-School: Transmutation (Sangromancy)
-Classes: Cleric, Druid, Ranger, Sorcerer, Warlock
+School: Transmutation
+Subschool:
+  - Sangromancy
+Classes:
+  - Cleric
+  - Druid
+  - Ranger
+  - Sorcerer
+  - Warlock
 Special: —
 Source: "Grim Hollow: Player's Guide"
 Official: false

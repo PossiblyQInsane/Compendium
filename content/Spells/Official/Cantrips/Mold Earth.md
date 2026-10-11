@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-20T11:23:41.603-04:00
-modified: 2026-08-31T11:52:48.076-04:00
-published: 2026-08-31T11:52:48.076-04:00
+modified: 2026-10-08T00:15:14.532-04:00
+published: 2026-10-08T00:15:14.532-04:00
 Name: "[[Mold Earth]]"
 Spell Level: Cantrip
 School: Transmutation
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Elemental Evil Player's Companion
 Official: true

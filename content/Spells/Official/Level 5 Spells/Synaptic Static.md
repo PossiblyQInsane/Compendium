@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-03T01:16:43.839-04:00
-modified: 2026-08-31T15:26:12.051-04:00
-published: 2026-08-31T15:26:12.051-04:00
+modified: 2026-10-09T01:21:07.362-04:00
+published: 2026-10-09T01:21:07.362-04:00
 Name: "[[Synaptic Static]]"
 Spell Level: Level 5
 School: Enchantment
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

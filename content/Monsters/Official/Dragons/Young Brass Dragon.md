@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 2026-09-06T00:13:26.549-04:00
-modified: 2026-09-07T12:01:26.414-04:00
-published: 2026-09-07T12:01:26.414-04:00
-Creature Type: Dragon (Metallic)
+modified: 2026-10-10T01:33:26.014-04:00
+published: 2026-10-10T01:33:26.014-04:00
+Creature Type: Dragon
+Subtype: Metallic
 Size: Large
 Alignment: Chaotic Good
 CR: "6"

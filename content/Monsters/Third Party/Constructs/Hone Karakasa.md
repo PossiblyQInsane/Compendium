@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 2026-10-03T23:15:30.403-04:00
-modified: 2026-10-03T23:17:17.210-04:00
-published: 2026-10-03T23:17:17.210-04:00
-Creature Type: Construct (Yokai)
+modified: 2026-10-10T01:58:11.565-04:00
+published: 2026-10-10T01:58:11.565-04:00
+Creature Type: Construct
+Subtype: Yokai
 Size: Medium
 Alignment: Chaotic Neutral
 CR: "2"

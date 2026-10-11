@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-10-06T11:50:25.833-04:00
-modified: 2026-10-06T11:58:11.096-04:00
-published: 2026-10-06T11:58:11.096-04:00
+modified: 2026-10-09T01:50:08.630-04:00
+published: 2026-10-09T01:50:08.630-04:00
 Name: "[[Ravenous Void]]"
 Spell Level: Level 9
 School: Evocation
-Subschool: Dunamancy [Graviturgy]
+Subschool: Dunamancy
 Classes: —
 Special: C
 Source: Explorer's Guide to Wildemount
@@ -16,7 +16,7 @@ Edition: 5e
 
 <div class="source">Explorer's Guide to Wildemount</div>
 
-_Level 9 Evocation (Dunamancy \[Graviturgy])_
+_Level 9 Evocation (Dunamancy)_
 
 ---
 

@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-03T01:04:34.017-04:00
-modified: 2026-08-31T15:24:42.077-04:00
-published: 2026-08-31T15:24:42.077-04:00
+modified: 2026-10-09T01:18:32.144-04:00
+published: 2026-10-09T01:18:32.144-04:00
 Name: "[[Modify Memory]]"
 Spell Level: Level 5
 School: Enchantment
-Classes: Bard, Wizard
+Classes:
+  - Bard
+  - Wizard
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

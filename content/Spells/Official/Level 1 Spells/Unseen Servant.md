@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-02T20:50:55.006-04:00
-modified: 2026-10-02T18:01:06.877-04:00
-published: 2026-10-02T18:01:06.877-04:00
+modified: 2026-10-08T00:47:54.172-04:00
+published: 2026-10-08T00:47:54.172-04:00
 Name: "[[Unseen Servant]]"
 Spell Level: Level 1
 School: Conjuration
-Classes: Bard, Warlock, Wizard
+Classes:
+  - Bard
+  - Warlock
+  - Wizard
 Third Party Classes: Bender (air)
 Special: R
 Source: Player's Handbook 5.5e

@@ -1,13 +1,17 @@
 ---
 publish: true
 created: 2026-08-28T11:08:17.848-04:00
-modified: 2026-09-07T22:32:38.794-04:00
-published: 2026-09-07T22:32:38.794-04:00
+modified: 2026-10-10T01:51:27.292-04:00
+published: 2026-10-10T01:51:27.292-04:00
 Creature Type: Undead
-Size: Medium or Small
+Size:
+  - Medium
+  - Small
 Alignment: Lawful Evil
 CR: "3"
-Habitat: Desert, Swamp
+Habitat:
+  - Desert
+  - Swamp
 Treasure: Relics
 Source: Monster Manual 5.5e
 Official: true

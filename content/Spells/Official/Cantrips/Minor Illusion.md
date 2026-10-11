@@ -1,13 +1,19 @@
 ---
 publish: true
 created: 2026-08-02T20:21:20.959-04:00
-modified: 2026-10-02T17:42:10.368-04:00
-published: 2026-10-02T17:42:10.368-04:00
+modified: 2026-10-08T00:14:53.407-04:00
+published: 2026-10-08T00:14:53.407-04:00
 Name: "[[Minor Illusion]]"
 Spell Level: Cantrip
 School: Illusion
-Classes: Bard, Sorcerer, Warlock, Wizard
-Third Party Classes: Bender (fire), Illrigger (AoR)
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
+Third Party Classes:
+  - Bender (fire)
+  - Illrigger (Architect of Ruin)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

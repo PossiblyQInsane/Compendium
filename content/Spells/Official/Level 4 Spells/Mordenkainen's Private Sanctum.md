@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T15:18:58.490-04:00
-modified: 2026-08-31T15:17:23.151-04:00
-published: 2026-08-31T15:17:23.151-04:00
+modified: 2026-10-09T01:02:57.022-04:00
+published: 2026-10-09T01:02:57.022-04:00
 Name: "[[Mordenkainen's Private Sanctum]]"
 Spell Level: Level 4
 School: Abjuration
-Classes: Artificer, Wizard
+Classes:
+  - Artificer
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

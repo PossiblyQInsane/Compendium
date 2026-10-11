@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-08-03T22:12:52.735-04:00
-modified: 2026-09-30T00:42:24.332-04:00
-published: 2026-09-30T00:42:24.332-04:00
+modified: 2026-10-08T00:19:27.661-04:00
+published: 2026-10-08T00:19:27.661-04:00
 Name: "[[Thaumaturgy]]"
 Spell Level: Cantrip
 School: Transmutation
 Classes: Cleric
-Third Party Classes: Illrigger (AoR)
+Third Party Classes:
+  - Illrigger (Architect of Ruin)
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

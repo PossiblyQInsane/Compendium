@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-15T23:46:32.400-04:00
-modified: 2026-08-31T15:22:40.249-04:00
-published: 2026-08-31T15:22:40.249-04:00
+modified: 2026-10-09T01:14:35.464-04:00
+published: 2026-10-09T01:14:35.464-04:00
 Name: "[[Create Spelljamming Helm]]"
 Spell Level: Level 5
 School: Transmutation
-Classes: Artificer, Wizard
+Classes:
+  - Artificer
+  - Wizard
 Special: M
 Source: "Spelljammer: Adventures in Space"
 Official: true

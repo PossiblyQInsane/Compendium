@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-08-13T11:44:15.153-04:00
-modified: 2026-09-07T22:24:22.382-04:00
-published: 2026-09-07T22:24:22.382-04:00
+modified: 2026-10-10T01:48:32.067-04:00
+published: 2026-10-10T01:48:32.067-04:00
 Creature Type: Monstrosity
 Size: Medium
 Alignment: Neutral
 CR: "2"
-Habitat: Underdark, Urban
+Habitat:
+  - Underdark
+  - Urban
 Treasure: Any
 Source: Monster Manual 5.5e
 Official: true

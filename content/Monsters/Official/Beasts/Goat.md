@@ -1,13 +1,17 @@
 ---
 publish: true
 created: 2026-09-30T11:52:59.724-04:00
-modified: 2026-09-30T11:59:52.567-04:00
-published: 2026-09-30T11:59:52.567-04:00
+modified: 2026-10-10T01:14:10.634-04:00
+published: 2026-10-10T01:14:10.634-04:00
 Creature Type: Beast
 Size: Medium
 Alignment: Unaligned
 CR: "0"
-Habitat: Grassland, Hill, Mountain, Urban
+Habitat:
+  - Grassland
+  - Hill
+  - Mountain
+  - Urban
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

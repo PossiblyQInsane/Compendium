@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-15T23:00:46.422-04:00
-modified: 2026-08-31T15:04:38.109-04:00
-published: 2026-08-31T15:04:38.109-04:00
+modified: 2026-10-08T11:31:48.375-04:00
+published: 2026-10-08T11:31:48.375-04:00
 Name: "[[Ashardalon's Stride]]"
 Spell Level: Level 3
 School: Transmutation
-Classes: Artificer, Ranger, Sorcerer, Wizard
+Classes:
+  - Artificer
+  - Ranger
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Fizban's Treasury of Dragons
 Official: true

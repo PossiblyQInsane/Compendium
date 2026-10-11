@@ -1,13 +1,20 @@
 ---
 publish: true
 created: 2026-10-05T01:24:58.010-04:00
-modified: 2026-10-05T01:30:40.521-04:00
-published: 2026-10-05T01:30:40.521-04:00
+modified: 2026-10-09T01:23:46.258-04:00
+published: 2026-10-09T01:23:46.258-04:00
 Name: "[[Feverskin]]"
 Spell Level: Level 5
 School: Biomancy
-Classes: Cleric, Druid, Sorcerer, Warlock, Wizard
-Third Party Classes: Bender (fire), Tamer
+Classes:
+  - Cleric
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
+Third Party Classes:
+  - Bender (fire)
+  - Tamer
 Special: C
 Source: Heliana's Guide to Monster Hunting
 Official: false

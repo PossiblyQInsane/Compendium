@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-06T02:29:04.189-04:00
-modified: 2026-09-30T01:04:22.482-04:00
-published: 2026-09-30T01:04:22.482-04:00
+modified: 2026-10-09T01:27:08.905-04:00
+published: 2026-10-09T01:27:08.905-04:00
 Name: "[[Disintegrate]]"
 Spell Level: Level 6
 School: Transmutation
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Third Party Classes: Magus
 Special: —
 Source: Player's Handbook 5.5e

@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-15T22:39:06.647-04:00
-modified: 2026-08-31T12:21:28.525-04:00
-published: 2026-08-31T12:21:28.525-04:00
+modified: 2026-10-08T01:04:23.503-04:00
+published: 2026-10-08T01:04:23.503-04:00
 Name: "[[Kinetic Jaunt]]"
 Spell Level: Level 2
 School: Transmutation
-Classes: Artificer, Bard, Sorcerer, Wizard
+Classes:
+  - Artificer
+  - Bard
+  - Sorcerer
+  - Wizard
 Special: C
 Source: "Strixhaven: A Curriculum of Chaos"
 Official: true

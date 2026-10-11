@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-09-30T11:35:44.221-04:00
-modified: 2026-09-30T11:52:26.436-04:00
-published: 2026-09-30T11:52:26.436-04:00
+modified: 2026-10-10T01:21:00.660-04:00
+published: 2026-10-10T01:21:00.660-04:00
 Creature Type: Celestial
 Size: Large
 Alignment: Lawful Good
 CR: "5"
-Habitat: Forest, Planar (Feywild)
+Habitat:
+  - Forest
+  - Planar (Feywild)
 Treasure: Any
 Source: Monster Manual 5.5e
 Official: true

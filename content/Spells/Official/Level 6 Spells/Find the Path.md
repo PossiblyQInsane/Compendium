@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-07-30T10:57:01.006-04:00
-modified: 2026-08-31T19:45:34.597-04:00
-published: 2026-08-31T19:45:34.597-04:00
+modified: 2026-10-09T01:27:39.509-04:00
+published: 2026-10-09T01:27:39.509-04:00
 Name: "[[Find the Path]]"
 Spell Level: Level 6
 School: Divination
-Classes: Bard, Cleric, Druid
+Classes:
+  - Bard
+  - Cleric
+  - Druid
 Special: C, M
 Source: Player's Handbook 5.5e
 Official: true

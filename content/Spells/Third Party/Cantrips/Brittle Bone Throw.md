@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-09-21T23:20:55.422-04:00
-modified: 2026-09-21T23:26:58.906-04:00
-published: 2026-09-21T23:26:58.906-04:00
+modified: 2026-10-08T01:17:50.669-04:00
+published: 2026-10-08T01:17:50.669-04:00
 Name: "[[Brittle Bone Throw]]"
 Spell Level: Cantrip
-School: Conjuration (Osteomancy)
-Classes: Sorcerer, Warlock, Wizard
+School: Conjuration
+Subschool:
+  - Osteomancy
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false

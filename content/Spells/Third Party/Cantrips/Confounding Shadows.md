@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-10-04T23:28:08.463-04:00
-modified: 2026-10-04T23:31:08.339-04:00
-published: 2026-10-04T23:31:08.339-04:00
+modified: 2026-10-08T01:19:28.796-04:00
+published: 2026-10-08T01:19:28.796-04:00
 Name: "[[Confounding Shadows]]"
 Spell Level: Cantrip
 School: Conjuration
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Cthulhu by Torchlight
 Official: false

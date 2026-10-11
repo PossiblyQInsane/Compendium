@@ -1,13 +1,19 @@
 ---
 publish: true
 created: 2026-10-04T15:24:04.014-04:00
-modified: 2026-10-04T15:31:38.514-04:00
-published: 2026-10-04T15:31:38.514-04:00
+modified: 2026-10-09T01:11:09.828-04:00
+published: 2026-10-09T01:11:09.828-04:00
 Name: "[[Steelskin]]"
 Spell Level: Level 4
 School: Biomancy
-Classes: Druid, Ranger, Sorcerer, Wizard
-Third Party Classes: Bender (earth), Tamer
+Classes:
+  - Druid
+  - Ranger
+  - Sorcerer
+  - Wizard
+Third Party Classes:
+  - Bender (earth)
+  - Tamer
 Special: —
 Source: Ryoko's Guide to the Yokai Realms
 Official: false

@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-03T01:46:39.145-04:00
-modified: 2026-09-29T01:06:30.729-04:00
-published: 2026-09-29T01:06:30.729-04:00
+modified: 2026-10-08T00:51:33.267-04:00
+published: 2026-10-08T00:51:33.267-04:00
 Name: "[[Battle Familiar]]"
 Spell Level: Level 2
 School: Conjuration
-Classes: Druid, Warlock, Wizard
+Classes:
+  - Druid
+  - Warlock
+  - Wizard
 Special: M
 Source: Arcana Unleashed
 Official: true

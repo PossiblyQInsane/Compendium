@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-09-23T10:41:37.302-04:00
-modified: 2026-09-23T10:46:49.140-04:00
-published: 2026-09-23T10:46:49.140-04:00
+modified: 2026-10-08T01:29:54.077-04:00
+published: 2026-10-08T01:29:54.077-04:00
 Name: "[[Blood Wisp]]"
 Spell Level: Level 2
-School: Evocation (Sangromancy)
-Classes: Bard, Sorcerer, Wizard
+School: Evocation
+Subschool:
+  - Sangromancy
+Classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 Special: M
 Source: "Grim Hollow: Player's Guide"
 Official: false

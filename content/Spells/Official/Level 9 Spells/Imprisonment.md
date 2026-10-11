@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-10-05T19:01:12.576-04:00
-modified: 2026-10-05T19:04:16.512-04:00
-published: 2026-10-05T19:04:16.512-04:00
+modified: 2026-10-09T01:43:33.132-04:00
+published: 2026-10-09T01:43:33.132-04:00
 Name: "[[Imprisonment]]"
 Spell Level: Level 9
 School: Abjuration
-Classes: Warlock, Wizard
+Classes:
+  - Warlock
+  - Wizard
 Special: M
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-27T12:29:25.639-04:00
-modified: 2026-09-27T12:33:02.417-04:00
-published: 2026-09-27T12:33:02.417-04:00
+modified: 2026-10-09T01:32:58.753-04:00
+published: 2026-10-09T01:32:58.753-04:00
 Name: "[[Delayed Blast Fireball]]"
 Spell Level: Level 7
 School: Evocation
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-10-04T23:48:18.500-04:00
-modified: 2026-10-04T23:54:52.149-04:00
-published: 2026-10-04T23:54:52.149-04:00
+modified: 2026-10-08T01:27:20.153-04:00
+published: 2026-10-08T01:27:20.153-04:00
 Name: "[[Tide of Darkness]]"
 Spell Level: Level 1
 School: Conjuration
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Cthulhu by Torchlight
 Official: false

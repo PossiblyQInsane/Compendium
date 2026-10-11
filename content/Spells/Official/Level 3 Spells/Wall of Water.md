@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-23T21:20:19.426-04:00
-modified: 2026-08-31T15:11:34.128-04:00
-published: 2026-08-31T15:11:34.128-04:00
+modified: 2026-10-08T11:55:58.434-04:00
+published: 2026-10-08T11:55:58.434-04:00
 Name: "[[Wall of Water]]"
 Spell Level: Level 3
 School: Evocation
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Elemental Evil Player's Companion
 Official: true

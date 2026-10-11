@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-21T23:24:36.474-04:00
-modified: 2026-09-21T23:27:43.154-04:00
-published: 2026-09-21T23:27:43.154-04:00
+modified: 2026-10-08T01:33:51.828-04:00
+published: 2026-10-08T01:33:51.828-04:00
 Name: "[[Skeletal Tail]]"
 Spell Level: Level 2
-School: Conjuration (Osteomancy)
-Classes: Druid, Ranger
+School: Conjuration
+Subschool:
+  - Osteomancy
+Classes:
+  - Druid
+  - Ranger
 Special: —
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false

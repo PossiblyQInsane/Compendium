@@ -1,13 +1,18 @@
 ---
 publish: true
 created: 2026-07-25T22:55:22.634-04:00
-modified: 2026-09-30T00:46:40.015-04:00
-published: 2026-09-30T00:46:40.015-04:00
+modified: 2026-10-08T12:06:55.145-04:00
+published: 2026-10-08T12:06:55.145-04:00
 Name: "[[Identify|Identify]]"
 Spell Level: Level 1
 School: Divination
-Classes: Artificer, Bard, Wizard
-Third Party Classes: Magus, Tamer
+Classes:
+  - Artificer
+  - Bard
+  - Wizard
+Third Party Classes:
+  - Magus
+  - Tamer
 Special: R, M
 Source: Player's Handbook 5.5e
 Official: true

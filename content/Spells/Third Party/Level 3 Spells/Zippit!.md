@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-10-05T01:37:33.853-04:00
-modified: 2026-10-05T01:42:07.062-04:00
-published: 2026-10-05T01:42:07.062-04:00
+modified: 2026-10-08T12:03:47.251-04:00
+published: 2026-10-08T12:03:47.251-04:00
 Name: "[[Zippit!]]"
 Spell Level: Level 3
 School: Biomancy
-Classes: Bard, Druid, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Heliana's Guide to Monster Hunting
 Official: false

@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-16T18:42:01.381-04:00
-modified: 2026-08-31T19:54:13.806-04:00
-published: 2026-08-31T19:54:13.806-04:00
+modified: 2026-10-09T01:44:19.772-04:00
+published: 2026-10-09T01:44:19.772-04:00
 Name: "[[Psychic Scream]]"
 Spell Level: Level 9
 School: Enchantment
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Xanathar's Guide to Everything
 Official: true

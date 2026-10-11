@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-21T04:27:58.552-04:00
-modified: 2026-09-21T04:32:25.949-04:00
-published: 2026-09-21T04:32:25.949-04:00
+modified: 2026-10-08T01:28:15.832-04:00
+published: 2026-10-08T01:28:15.832-04:00
 Name: "[[Water Bullet]]"
 Spell Level: Level 1
 School: Evocation
-Classes: Druid, Ranger, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Ranger
+  - Sorcerer
+  - Wizard
 Special: —
 Source: "Obojima: Tales from the Tall Grass"
 Official: false

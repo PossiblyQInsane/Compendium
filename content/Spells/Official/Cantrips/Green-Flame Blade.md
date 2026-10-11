@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-15T21:45:28.546-04:00
-modified: 2026-08-31T11:51:27.094-04:00
-published: 2026-08-31T11:51:27.094-04:00
+modified: 2026-10-08T00:09:52.889-04:00
+published: 2026-10-08T00:09:52.889-04:00
 Name: "[[Green-Flame Blade]]"
 Spell Level: Cantrip
 School: Evocation
-Classes: Artificer, Sorcerer, Warlock, Wizard
+Classes:
+  - Artificer
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: M
 Source: Sword Coast Adventurer's Guide
 Official: true

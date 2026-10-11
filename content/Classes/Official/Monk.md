@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-11T00:27:40.302-04:00
-modified: 2026-09-21T14:16:25.017-04:00
-published: 2026-09-21T14:16:25.017-04:00
+modified: 2026-10-07T11:51:09.930-04:00
+published: 2026-10-07T11:51:09.930-04:00
+Name: "[[Monk]]"
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

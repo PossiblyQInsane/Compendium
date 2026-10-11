@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-07-26T23:25:43.583-04:00
-modified: 2026-10-02T18:15:47.434-04:00
-published: 2026-10-02T18:15:47.434-04:00
+modified: 2026-10-08T11:43:37.128-04:00
+published: 2026-10-08T11:43:37.128-04:00
 Name: "[[Hypnotic Pattern]]"
 Spell Level: Level 3
 School: Illusion
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Third Party Classes: Bender (water)
 Special: C
 Source: Player's Handbook 5.5e

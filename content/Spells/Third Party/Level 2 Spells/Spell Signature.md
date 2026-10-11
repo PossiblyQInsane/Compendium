@@ -1,12 +1,20 @@
 ---
 publish: true
 created: 2026-10-05T00:26:11.992-04:00
-modified: 2026-10-05T00:33:55.012-04:00
-published: 2026-10-05T00:33:55.012-04:00
+modified: 2026-10-08T01:34:22.981-04:00
+published: 2026-10-08T01:34:22.981-04:00
 Name: "[[Spell Signature]]"
 Spell Level: Level 2
 School: Divination
-Classes: Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: "Obojima: Tales from the Tall Grass"
 Official: false

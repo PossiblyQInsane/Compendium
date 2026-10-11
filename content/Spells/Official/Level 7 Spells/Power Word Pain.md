@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-03T10:14:06.071-04:00
-modified: 2026-09-03T10:17:15.596-04:00
-published: 2026-09-03T10:17:15.596-04:00
+modified: 2026-10-09T01:34:52.164-04:00
+published: 2026-10-09T01:34:52.164-04:00
 Name: "[[Power Word Pain]]"
 Spell Level: Level 7
 School: Enchantment
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Arcana Unleashed
 Official: true

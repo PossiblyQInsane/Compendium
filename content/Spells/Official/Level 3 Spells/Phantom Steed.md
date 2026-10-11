@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-09-14T23:49:40.703-04:00
-modified: 2026-09-30T00:56:24.961-04:00
-published: 2026-09-30T00:56:24.961-04:00
+modified: 2026-10-08T11:48:49.902-04:00
+published: 2026-10-08T11:48:49.902-04:00
 Name: "[[Phantom Steed]]"
 Spell Level: Level 3
 School: Illusion
 Classes: Wizard
-Third Party Classes: Illrigger (AoR), Magus
+Third Party Classes:
+  - Illrigger (Architect of Ruin)
+  - Magus
 Special: R
 Source: Player's Handbook 5.5e
 Official: true

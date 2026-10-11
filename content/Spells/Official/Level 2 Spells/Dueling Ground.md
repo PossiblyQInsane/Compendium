@@ -1,12 +1,21 @@
 ---
 publish: true
 created: 2026-09-03T02:12:42.210-04:00
-modified: 2026-09-03T02:16:02.620-04:00
-published: 2026-09-03T02:16:02.620-04:00
+modified: 2026-10-08T12:10:17.114-04:00
+published: 2026-10-08T12:10:17.114-04:00
 Name: "[[Dueling Ground]]"
 Spell Level: Level 2
 School: Abjuration
-Classes: Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard
+Classes:
+  - Artificer
+  - Bard
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: R, M
 Source: Arcana Unleashed
 Official: true

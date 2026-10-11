@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-03T22:25:10.308-04:00
-modified: 2026-08-31T11:54:58.375-04:00
-published: 2026-08-31T11:54:58.375-04:00
+modified: 2026-10-08T00:20:29.355-04:00
+published: 2026-10-08T00:20:29.355-04:00
 Name: "[[Toll the Dead]]"
 Spell Level: Cantrip
 School: Necromancy
-Classes: Cleric, Warlock, Wizard
+Classes:
+  - Cleric
+  - Warlock
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,13 +1,18 @@
 ---
 publish: true
 created: 2026-09-13T11:02:39.094-04:00
-modified: 2026-09-13T11:12:03.729-04:00
-published: 2026-09-13T11:12:03.729-04:00
+modified: 2026-10-10T01:48:18.039-04:00
+published: 2026-10-10T01:48:18.039-04:00
 Creature Type: Monstrosity
 Size: Large
 Alignment: Unaligned
 CR: "2"
-Habitat: Arctic, Coastal, Grassland, Hill, Mountain
+Habitat:
+  - Arctic
+  - Coastal
+  - Grassland
+  - Hill
+  - Mountain
 Treasure: None
 Source: Monster Manual 5.5e
 Official: true

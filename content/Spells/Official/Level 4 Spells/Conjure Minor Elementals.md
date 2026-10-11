@@ -1,13 +1,20 @@
 ---
 publish: true
 created: 2026-08-07T11:20:55.221-04:00
-modified: 2026-10-02T18:18:31.128-04:00
-published: 2026-10-02T18:18:31.128-04:00
+modified: 2026-10-09T00:54:52.589-04:00
+published: 2026-10-09T00:54:52.589-04:00
 Name: "[[Conjure Minor Elementals]]"
 Spell Level: Level 4
 School: Conjuration
-Classes: Druid, Wizard
-Third Party Classes: Bender (air, earth, fire, water), Magus
+Classes:
+  - Druid
+  - Wizard
+Third Party Classes:
+  - Bender (air)
+  - Bender (earth)
+  - Bender (fire)
+  - Bender (water)
+  - Magus
 Air constraint: (air only)
 Earth constraint: (earth only)
 Fire constraint: (fire only)

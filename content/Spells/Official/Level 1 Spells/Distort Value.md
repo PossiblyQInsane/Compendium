@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-16T16:17:20.070-04:00
-modified: 2026-08-31T12:04:55.060-04:00
-published: 2026-08-31T12:04:55.060-04:00
+modified: 2026-10-08T00:33:55.523-04:00
+published: 2026-10-08T00:33:55.523-04:00
 Name: "[[Distort Value]]"
 Spell Level: Level 1
 School: Illusion
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Acquisitions Incorporated
 Official: true

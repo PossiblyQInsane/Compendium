@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-10-05T16:09:41.216-04:00
-modified: 2026-10-05T16:13:30.617-04:00
-published: 2026-10-05T16:13:30.617-04:00
-Creature Type: Fiend (Devil)
+modified: 2026-10-10T01:40:56.066-04:00
+published: 2026-10-10T01:40:56.066-04:00
+Creature Type: Fiend
+Subtype: Devil
 Size: Tiny
 Alignment: Lawful Evil
 CR: "1"
+Habitat:
+  - Any
+Treasure: None
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

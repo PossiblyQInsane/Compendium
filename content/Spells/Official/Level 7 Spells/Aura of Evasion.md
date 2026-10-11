@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-03T01:43:24.450-04:00
-modified: 2026-09-03T01:46:16.939-04:00
-published: 2026-09-03T01:46:16.939-04:00
+modified: 2026-10-09T01:32:43.783-04:00
+published: 2026-10-09T01:32:43.783-04:00
 Name: "[[Aura of Evasion]]"
 Spell Level: Level 7
 School: Abjuration
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Arcana Unleashed
 Official: true

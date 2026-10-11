@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-04T11:02:20.353-04:00
-modified: 2026-08-31T15:12:33.310-04:00
-published: 2026-08-31T15:12:33.310-04:00
+modified: 2026-10-08T12:00:12.117-04:00
+published: 2026-10-08T12:00:12.117-04:00
 Name: "[[Flash Fever]]"
 Spell Level: Level 3
 School: Necromancy
-Classes: Druid, Warlock
+Classes:
+  - Druid
+  - Warlock
 Special: C
 Source: "Grim Hollow: Player's Guide"
 Official: false

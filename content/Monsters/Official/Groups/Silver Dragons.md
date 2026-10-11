@@ -3,10 +3,8 @@ publish: true
 aliases:
   - silver dragon
 created: 2026-09-07T22:48:58.597-04:00
-modified: 2026-09-08T01:09:43.368-04:00
-published: 2026-09-08T01:09:43.368-04:00
-Habitat: Mountain, Urban
-Treasure: Arcana
+modified: 2026-10-10T01:47:42.347-04:00
+published: 2026-10-10T01:47:42.347-04:00
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-23T23:05:58.508-04:00
-modified: 2026-09-03T01:02:03.580-04:00
-published: 2026-09-03T01:02:03.580-04:00
+modified: 2026-10-09T01:33:06.810-04:00
+published: 2026-10-09T01:33:06.810-04:00
 Name: "[[Draconic Transformation]]"
 Spell Level: Level 7
 School: Transmutation
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: C, M
 Source: Fizban's Treasury of Dragons
 Official: true

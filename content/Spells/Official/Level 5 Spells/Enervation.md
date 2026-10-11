@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-03T02:16:35.905-04:00
-modified: 2026-09-03T02:19:03.414-04:00
-published: 2026-09-03T02:19:03.414-04:00
+modified: 2026-10-09T01:15:46.923-04:00
+published: 2026-10-09T01:15:46.923-04:00
 Name: "[[Enervation]]"
 Spell Level: Level 5
 School: Necromancy
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Arcana Unleashed
 Official: true

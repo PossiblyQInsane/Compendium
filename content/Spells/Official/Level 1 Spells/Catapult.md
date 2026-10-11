@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-15T22:13:48.076-04:00
-modified: 2026-08-31T12:03:28.643-04:00
-published: 2026-08-31T12:03:28.643-04:00
+modified: 2026-10-08T00:24:32.541-04:00
+published: 2026-10-08T00:24:32.541-04:00
 Name: "[[Catapult]]"
 Spell Level: Level 1
 School: Transmutation
-Classes: Artificer, Sorcerer, Wizard
+Classes:
+  - Artificer
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Elemental Evil Player's Companion
 Official: true

@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-15T23:40:49.661-04:00
-modified: 2026-08-31T15:15:40.891-04:00
-published: 2026-08-31T15:15:40.891-04:00
+modified: 2026-10-09T00:57:35.962-04:00
+published: 2026-10-09T00:57:35.962-04:00
 Name: "[[Elemental Bane]]"
 Spell Level: Level 4
 School: Transmutation
-Classes: Artificer, Druid, Warlock, Wizard
+Classes:
+  - Artificer
+  - Druid
+  - Warlock
+  - Wizard
 Special: C
 Source: Elemental Evil Player's Companion
 Official: true

@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-16T18:09:03.953-04:00
-modified: 2026-08-31T15:17:46.466-04:00
-published: 2026-08-31T15:17:46.466-04:00
+modified: 2026-10-09T01:03:48.188-04:00
+published: 2026-10-09T01:03:48.188-04:00
 Name: "[[Raulothim's Psychic Lance]]"
 Spell Level: Level 4
 School: Enchantment
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Fizban's Treasury of Dragons
 Official: true

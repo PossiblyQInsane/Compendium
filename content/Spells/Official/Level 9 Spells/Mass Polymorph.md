@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-16T18:36:56.681-04:00
-modified: 2026-08-31T19:53:51.213-04:00
-published: 2026-08-31T19:53:51.213-04:00
+modified: 2026-10-09T01:43:43.026-04:00
+published: 2026-10-09T01:43:43.026-04:00
 Name: "[[Mass Polymorph]]"
 Spell Level: Level 9
 School: Transmutation
-Classes: Bard, Sorcerer, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Xanathar's Guide to Everything
 Official: true

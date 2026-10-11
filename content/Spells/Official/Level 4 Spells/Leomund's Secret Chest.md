@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T15:10:54.856-04:00
-modified: 2026-09-30T01:01:25.129-04:00
-published: 2026-09-30T01:01:25.129-04:00
+modified: 2026-10-09T01:02:08.165-04:00
+published: 2026-10-09T01:02:08.165-04:00
 Name: "[[Leomund's Secret Chest]]"
 Spell Level: Level 4
 School: Conjuration
-Classes: Artificer, Wizard
+Classes:
+  - Artificer
+  - Wizard
 Third Party Classes: Magus
 Special: M
 Source: Player's Handbook 5.5e

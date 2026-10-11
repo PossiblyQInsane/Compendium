@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-10T13:47:30.381-04:00
-modified: 2026-08-31T15:20:02.986-04:00
-published: 2026-08-31T15:20:02.986-04:00
+modified: 2026-10-09T01:08:52.963-04:00
+published: 2026-10-09T01:08:52.963-04:00
 Name: "[[Dread Scarecrow]]"
 Spell Level: Level 4
-School: Illusion (Osteomancy)
-Classes: Bard, Warlock, Wizard
+School: Illusion
+Subschool: Osteomancy
+Classes:
+  - Bard
+  - Warlock
+  - Wizard
 Special: C, M
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false

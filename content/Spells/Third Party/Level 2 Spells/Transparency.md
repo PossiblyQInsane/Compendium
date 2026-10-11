@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-10-05T00:40:23.947-04:00
-modified: 2026-10-05T00:45:25.009-04:00
-published: 2026-10-05T00:45:25.009-04:00
+modified: 2026-10-08T01:35:21.415-04:00
+published: 2026-10-08T01:35:21.415-04:00
 Name: "[[Transparency]]"
 Spell Level: Level 2
 School: Illusion
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: "Obojima: Tales from the Tall Grass"
 Official: false

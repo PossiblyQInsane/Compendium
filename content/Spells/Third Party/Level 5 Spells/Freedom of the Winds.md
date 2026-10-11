@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-14T00:55:33.332-04:00
-modified: 2026-09-14T01:00:16.749-04:00
-published: 2026-09-14T01:00:16.749-04:00
+modified: 2026-10-09T01:24:26.230-04:00
+published: 2026-10-09T01:24:26.230-04:00
 Name: "[[Freedom of the Winds]]"
 Spell Level: Level 5
 School: Abjuration
-Classes: Druid, Ranger, Sorcerer
+Classes:
+  - Druid
+  - Ranger
+  - Sorcerer
 Special: C
 Source: Tal'Dorei Campaign Setting Reborn
 Official: false

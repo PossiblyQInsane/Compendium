@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-10-03T02:09:30.424-04:00
-modified: 2026-10-03T02:18:44.496-04:00
-published: 2026-10-03T02:18:44.496-04:00
+modified: 2026-10-09T01:10:25.569-04:00
+published: 2026-10-09T01:10:25.569-04:00
 Name: "[[Rock Tomb]]"
 Spell Level: Level 4
 School: Conjuration
-Classes: Bard, Druid
+Classes:
+  - Bard
+  - Druid
 Third Party Classes: Bender (earth)
 Special: C
 Source: Ryoko's Guide to the Yokai Realms

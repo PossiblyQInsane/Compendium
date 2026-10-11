@@ -4,13 +4,20 @@ aliases:
   - Enlarge/Reduce
 title: Enlarge/Reduce
 created: 2026-07-26T00:55:07.457-04:00
-modified: 2026-09-30T00:50:15.621-04:00
-published: 2026-09-30T00:50:15.621-04:00
+modified: 2026-10-08T00:59:11.460-04:00
+published: 2026-10-08T00:59:11.460-04:00
 Name: "[[Enlarge-Reduce|Enlarge/Reduce]]"
 Spell Level: Level 2
 School: Transmutation
-Classes: Artificer, Bard, Druid, Sorcerer, Wizard
-Third Party Classes: Magus, Tamer
+Classes:
+  - Artificer
+  - Bard
+  - Druid
+  - Sorcerer
+  - Wizard
+Third Party Classes:
+  - Magus
+  - Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

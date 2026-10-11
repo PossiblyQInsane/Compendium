@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-27T00:51:15.236-04:00
-modified: 2026-09-27T00:55:23.322-04:00
-published: 2026-09-27T00:55:23.322-04:00
+modified: 2026-10-08T01:10:43.679-04:00
+published: 2026-10-08T01:10:43.679-04:00
 Name: "[[Rime's Binding Ice]]"
 Spell Level: Level 2
 School: Evocation
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Fizban's Treasury of Dragons
 Official: true

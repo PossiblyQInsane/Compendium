@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-10-04T21:55:27.902-04:00
-modified: 2026-10-04T21:58:40.681-04:00
-published: 2026-10-04T21:58:40.681-04:00
+modified: 2026-10-08T11:57:59.446-04:00
+published: 2026-10-08T11:57:59.446-04:00
 Name: "[[Crimson Harvest]]"
 Spell Level: Level 3
 School: Necromancy
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: The Crooked Moon
 Official: false

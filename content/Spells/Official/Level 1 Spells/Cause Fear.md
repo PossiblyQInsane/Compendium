@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-10-05T16:57:30.920-04:00
-modified: 2026-10-05T17:04:03.957-04:00
-published: 2026-10-05T17:04:03.957-04:00
+modified: 2026-10-08T00:24:44.776-04:00
+published: 2026-10-08T00:24:44.776-04:00
 Name: "[[Cause Fear]]"
 Spell Level: Level 1
 School: Necromancy
-Classes: Warlock, Wizard
+Classes:
+  - Warlock
+  - Wizard
 Special: C
 Source: Xanathar's Guide to Everything
 Official: true

@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-16T16:44:32.202-04:00
-modified: 2026-08-31T12:18:04.394-04:00
-published: 2026-08-31T12:18:04.394-04:00
+modified: 2026-10-08T00:52:58.756-04:00
+published: 2026-10-08T00:52:58.756-04:00
 Name: "[[Borrowed Knowledge]]"
 Spell Level: Level 2
 School: Divination
-Classes: Bard, Cleric, Warlock, Wizard
+Classes:
+  - Bard
+  - Cleric
+  - Warlock
+  - Wizard
 Special: M
 Source: "Strixhaven: A Curriculum of Chaos"
 Official: true

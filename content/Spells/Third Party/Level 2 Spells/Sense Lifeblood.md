@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-08-09T09:21:54.113-04:00
-modified: 2026-08-31T12:26:31.307-04:00
-published: 2026-08-31T12:26:31.307-04:00
+modified: 2026-10-08T01:33:22.240-04:00
+published: 2026-10-08T01:33:22.240-04:00
 Name: "[[Sense Lifeblood]]"
 Spell Level: Level 2
-School: Divination (Sangromancy)
-Classes: Druid, Ranger, Sorcerer
+School: Divination
+Subschool:
+  - Sangromancy
+Classes:
+  - Druid
+  - Ranger
+  - Sorcerer
 Special: C
 Source: "Grim Hollow: Player's Guide"
 Official: false

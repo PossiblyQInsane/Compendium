@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-10-05T18:13:32.200-04:00
-modified: 2026-10-05T18:15:37.659-04:00
-published: 2026-10-05T18:15:37.659-04:00
+modified: 2026-10-09T01:45:41.432-04:00
+published: 2026-10-09T01:45:41.432-04:00
 Name: "[[Weird]]"
 Spell Level: Level 9
 School: Illusion
-Classes: Warlock, Wizard
+Classes:
+  - Warlock
+  - Wizard
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

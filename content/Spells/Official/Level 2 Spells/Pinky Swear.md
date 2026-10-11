@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-04T09:38:31.678-04:00
-modified: 2026-09-04T09:42:19.123-04:00
-published: 2026-09-04T09:42:19.123-04:00
+modified: 2026-10-08T01:09:10.123-04:00
+published: 2026-10-08T01:09:10.123-04:00
 Name: "[[Pinky Swear]]"
 Spell Level: Level 2
 School: Abjuration
-Classes: Bard, Paladin, Wizard
+Classes:
+  - Bard
+  - Paladin
+  - Wizard
 Special: —
 Source: D&D Beyond Drops
 Official: true

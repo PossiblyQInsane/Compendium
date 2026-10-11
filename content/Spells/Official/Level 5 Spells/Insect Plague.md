@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-03T23:33:12.361-04:00
-modified: 2026-08-31T15:24:07.495-04:00
-published: 2026-08-31T15:24:07.495-04:00
+modified: 2026-10-09T01:17:35.966-04:00
+published: 2026-10-09T01:17:35.966-04:00
 Name: "[[Insect Plague]]"
 Spell Level: Level 5
 School: Conjuration
-Classes: Cleric, Druid, Sorcerer
+Classes:
+  - Cleric
+  - Druid
+  - Sorcerer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

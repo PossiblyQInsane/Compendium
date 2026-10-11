@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-27T01:24:57.988-04:00
-modified: 2026-09-27T01:28:53.011-04:00
-published: 2026-09-27T01:28:53.011-04:00
+modified: 2026-10-08T11:54:39.135-04:00
+published: 2026-10-08T11:54:39.135-04:00
 Name: "[[Thunder Step]]"
 Spell Level: Level 3
 School: Conjuration
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Xanathar's Guide to Everything
 Official: true

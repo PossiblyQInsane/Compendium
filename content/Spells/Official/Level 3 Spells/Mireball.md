@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-10-04T16:48:51.778-04:00
-modified: 2026-10-04T16:55:47.275-04:00
-published: 2026-10-04T16:55:47.275-04:00
+modified: 2026-10-08T11:48:12.956-04:00
+published: 2026-10-08T11:48:12.956-04:00
 Name: "[[Mireball]]"
 Spell Level: Level 3
 School: Conjuration
-Classes: Bard, Druid, Sorcerer, Warlock
+Classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Warlock
 Third Party Classes: Bender (earth)
 Special: —
 Source: Heliana's Guide to Monster Hunting

@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-08-16T17:21:45.074-04:00
-modified: 2026-09-03T01:00:27.255-04:00
-published: 2026-09-03T01:00:27.255-04:00
+modified: 2026-10-08T11:32:07.281-04:00
+published: 2026-10-08T11:32:07.281-04:00
 Name: "[[Astral Flood]]"
 Spell Level: Level 3
 School: Evocation
-Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Cleric
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: D&D Beyond Drops
 Official: true

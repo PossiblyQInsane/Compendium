@@ -1,12 +1,18 @@
 ---
 publish: true
 created: 2026-07-26T17:46:33.922-04:00
-modified: 2026-09-21T16:46:01.222-04:00
-published: 2026-09-21T16:46:01.222-04:00
+modified: 2026-10-09T01:16:40.813-04:00
+published: 2026-10-09T01:16:40.813-04:00
 Name: "[[Greater Restoration]]"
 Spell Level: Level 5
 School: Abjuration
-Classes: Artificer, Bard, Cleric, Druid, Paladin, Ranger
+Classes:
+  - Artificer
+  - Bard
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
 Third Party Classes: Tamer
 Special: M
 Source: Player's Handbook 5.5e

@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-27T00:44:34.348-04:00
-modified: 2026-09-27T00:50:09.251-04:00
-published: 2026-09-27T00:50:09.251-04:00
+modified: 2026-10-08T01:06:56.946-04:00
+published: 2026-10-08T01:06:56.946-04:00
 Name: "[[Maximilian's Earthen Grasp]]"
 Spell Level: Level 2
 School: Transmutation
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Elemental Evil Player's Companion
 Official: true

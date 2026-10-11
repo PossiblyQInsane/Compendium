@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-09-13T11:13:31.404-04:00
-modified: 2026-09-13T11:42:09.810-04:00
-published: 2026-09-13T11:42:09.810-04:00
+modified: 2026-10-10T01:48:42.781-04:00
+published: 2026-10-10T01:48:42.781-04:00
 Creature Type: Monstrosity
 Size: Medium
 Alignment: Chaotic Evil
 CR: "2"
-Habitat: Hill, Mountain
+Habitat:
+  - Hill
+  - Mountain
 Treasure: Armaments
 Source: Monster Manual 5.5e
 Official: true

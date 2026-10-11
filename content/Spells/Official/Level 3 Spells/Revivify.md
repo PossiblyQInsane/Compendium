@@ -1,13 +1,19 @@
 ---
 publish: true
 created: 2026-07-26T14:31:20.221-04:00
-modified: 2026-09-30T00:56:59.348-04:00
-published: 2026-09-30T00:56:59.348-04:00
+modified: 2026-10-08T11:50:36.839-04:00
+published: 2026-10-08T11:50:36.839-04:00
 Name: "[[Revivify]]"
 Spell Level: Level 3
 School: Necromancy
-Classes: Artificer, Cleric, Druid, Paladin, Ranger
-Third Party Classes: Illrigger (AoR)
+Classes:
+  - Artificer
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
+Third Party Classes:
+  - Illrigger (Architect of Ruin)
 Special: M
 Source: Player's Handbook 5.5e
 Official: true

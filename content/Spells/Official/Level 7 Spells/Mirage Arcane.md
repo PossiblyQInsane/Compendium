@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-03T01:52:05.260-04:00
-modified: 2026-08-31T19:49:39.214-04:00
-published: 2026-08-31T19:49:39.214-04:00
+modified: 2026-10-09T01:34:08.276-04:00
+published: 2026-10-09T01:34:08.276-04:00
 Name: "[[Mirage Arcane]]"
 Spell Level: Level 7
 School: Illusion
-Classes: Bard, Druid, Wizard
+Classes:
+  - Bard
+  - Druid
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

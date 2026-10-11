@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-17T21:09:04.947-04:00
-modified: 2026-08-31T15:10:26.817-04:00
-published: 2026-08-31T15:10:26.817-04:00
+modified: 2026-10-08T11:52:29.332-04:00
+published: 2026-10-08T11:52:29.332-04:00
 Name: "[[Spirit Shroud]]"
 Spell Level: Level 3
 School: Necromancy
-Classes: Cleric, Paladin, Warlock, Wizard
+Classes:
+  - Cleric
+  - Paladin
+  - Warlock
+  - Wizard
 Special: C
 Source: Tasha's Cauldron of Everything
 Official: true

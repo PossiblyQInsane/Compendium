@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-27T02:53:08.533-04:00
-modified: 2026-09-27T02:55:54.156-04:00
-published: 2026-09-27T02:55:54.156-04:00
+modified: 2026-10-09T01:30:22.002-04:00
+published: 2026-10-09T01:30:22.002-04:00
 Name: "[[Scatter]]"
 Spell Level: Level 6
 School: Conjuration
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Xanathar's Guide to Everything
 Official: true

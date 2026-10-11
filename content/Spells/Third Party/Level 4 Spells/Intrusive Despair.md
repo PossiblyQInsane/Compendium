@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-15T10:50:36.795-04:00
-modified: 2026-09-15T10:54:02.483-04:00
-published: 2026-09-15T10:54:02.483-04:00
+modified: 2026-10-09T01:09:21.261-04:00
+published: 2026-10-09T01:09:21.261-04:00
 Name: "[[Intrusive Despair]]"
 Spell Level: Level 4
 School: Enchantment
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: The Crooked Moon
 Official: false

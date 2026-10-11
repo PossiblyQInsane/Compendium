@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-24T21:29:18.816-04:00
-modified: 2026-10-02T17:37:27.607-04:00
-published: 2026-10-02T17:37:27.607-04:00
+modified: 2026-10-08T01:19:15.533-04:00
+published: 2026-10-08T01:19:15.533-04:00
 Name: "[[Concussion]]"
 Spell Level: Cantrip
 School: Evocation
-Classes: Druid, Sorcerer, Warlock, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
 Third Party Classes: Bender (air)
 Special: —
 Source: Heliana's Guide to Monster Hunting

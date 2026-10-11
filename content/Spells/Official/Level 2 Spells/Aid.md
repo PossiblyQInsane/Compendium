@@ -1,13 +1,21 @@
 ---
 publish: true
 created: 2026-07-25T23:12:27.045-04:00
-modified: 2026-10-02T18:01:55.478-04:00
-published: 2026-10-02T18:01:55.478-04:00
+modified: 2026-10-08T00:49:18.676-04:00
+published: 2026-10-08T00:49:18.676-04:00
 Name: "[[Aid|Aid]]"
 Spell Level: Level 2
 School: Abjuration
-Classes: Artificer, Bard, Cleric, Druid, Paladin, Ranger
-Third Party Classes: Bender (water), Tamer
+Classes:
+  - Artificer
+  - Bard
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
+Third Party Classes:
+  - Bender (water)
+  - Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

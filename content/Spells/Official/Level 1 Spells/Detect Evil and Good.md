@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-03T22:32:41.271-04:00
-modified: 2026-08-31T12:04:26.280-04:00
-published: 2026-08-31T12:04:26.280-04:00
+modified: 2026-10-08T00:28:50.903-04:00
+published: 2026-10-08T00:28:50.903-04:00
 Name: "[[Detect Evil and Good]]"
 Spell Level: Level 1
 School: Divination
-Classes: Cleric, Paladin
+Classes:
+  - Cleric
+  - Paladin
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

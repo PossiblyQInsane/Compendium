@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-25T11:52:09.918-04:00
-modified: 2026-09-25T11:54:46.571-04:00
-published: 2026-09-25T11:54:46.571-04:00
+modified: 2026-10-08T01:20:15.793-04:00
+published: 2026-10-08T01:20:15.793-04:00
 Name: "[[Mysterious Presence]]"
 Spell Level: Cantrip
 School: Illusion
-Classes: Bard, Druid, Sorcerer
+Classes:
+  - Bard
+  - Druid
+  - Sorcerer
 Special: —
 Source: The Crooked Moon
 Official: false

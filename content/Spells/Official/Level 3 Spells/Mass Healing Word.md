@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T20:19:45.178-04:00
-modified: 2026-08-31T15:08:52.513-04:00
-published: 2026-08-31T15:08:52.513-04:00
+modified: 2026-10-08T11:47:30.039-04:00
+published: 2026-10-08T11:47:30.039-04:00
 Name: "[[Mass Healing Word]]"
 Spell Level: Level 3
 School: Abjuration
-Classes: Bard, Cleric
+Classes:
+  - Bard
+  - Cleric
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

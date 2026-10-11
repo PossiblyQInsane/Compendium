@@ -1,13 +1,20 @@
 ---
 publish: true
 created: 2026-10-04T15:16:46.951-04:00
-modified: 2026-10-04T15:23:16.619-04:00
-published: 2026-10-04T15:23:16.619-04:00
+modified: 2026-10-08T12:03:11.216-04:00
+published: 2026-10-08T12:03:11.216-04:00
 Name: "[[Switcheroo]]"
 Spell Level: Level 3
 School: Transmutation
-Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
-Third Party Classes: Bender (air), Tamer
+Classes:
+  - Bard
+  - Cleric
+  - Sorcerer
+  - Warlock
+  - Wizard
+Third Party Classes:
+  - Bender (air)
+  - Tamer
 Special: —
 Source: Heliana's Guide to Monster Hunting
 Official: false

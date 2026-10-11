@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-03T09:56:15.499-04:00
-modified: 2026-09-03T09:58:52.624-04:00
-published: 2026-09-03T09:58:52.624-04:00
+modified: 2026-10-09T01:22:26.890-04:00
+published: 2026-10-09T01:22:26.890-04:00
 Name: "[[Waves of Exhaustion]]"
 Spell Level: Level 5
 School: Necromancy
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Arcana Unleashed
 Official: true

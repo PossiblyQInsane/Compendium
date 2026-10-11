@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-16T16:58:39.084-04:00
-modified: 2026-08-31T12:23:06.841-04:00
-published: 2026-08-31T12:23:06.841-04:00
+modified: 2026-10-08T01:08:28.251-04:00
+published: 2026-10-08T01:08:28.251-04:00
 Name: "[[Nathair's Mischief]]"
 Spell Level: Level 2
 School: Illusion
-Classes: Bard, Sorcerer, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Fizban's Treasury of Dragons
 Official: true

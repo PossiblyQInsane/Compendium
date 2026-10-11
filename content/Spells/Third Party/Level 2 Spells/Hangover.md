@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-13T23:32:05.662-04:00
-modified: 2026-09-13T23:34:50.820-04:00
-published: 2026-09-13T23:34:50.820-04:00
+modified: 2026-10-08T01:31:41.376-04:00
+published: 2026-10-08T01:31:41.376-04:00
 Name: "[[Hangover]]"
 Spell Level: Level 2
 School: Enchantment
-Classes: Bard, Sorcerer, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Valda's Spire of Secrets
 Official: false

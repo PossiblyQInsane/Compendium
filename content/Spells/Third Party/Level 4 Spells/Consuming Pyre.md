@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-04T11:34:42.281-04:00
-modified: 2026-08-31T15:19:50.822-04:00
-published: 2026-08-31T15:19:50.822-04:00
+modified: 2026-10-09T01:08:12.625-04:00
+published: 2026-10-09T01:08:12.625-04:00
 Name: "[[Consuming Pyre]]"
 Spell Level: Level 4
 School: Evocation
-Classes: Druid, Paladin, Warlock
+Classes:
+  - Druid
+  - Paladin
+  - Warlock
 Special: C
 Source: The Crooked Moon
 Official: false

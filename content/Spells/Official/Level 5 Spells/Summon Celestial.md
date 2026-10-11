@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-03T23:35:52.146-04:00
-modified: 2026-09-28T23:59:57.475-04:00
-published: 2026-09-28T23:59:57.475-04:00
+modified: 2026-10-09T01:20:42.207-04:00
+published: 2026-10-09T01:20:42.207-04:00
 Name: "[[Summon Celestial]]"
 Spell Level: Level 5
 School: Conjuration
-Classes: Cleric, Paladin
+Classes:
+  - Cleric
+  - Paladin
 Special: C, M
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-08-15T21:40:45.203-04:00
-modified: 2026-08-31T11:51:20.421-04:00
-published: 2026-08-31T11:51:20.421-04:00
+modified: 2026-10-08T00:09:30.509-04:00
+published: 2026-10-08T00:09:30.509-04:00
 Name: "[[Frostbite]]"
 Spell Level: Cantrip
 School: Evocation
-Classes: Artificer, Druid, Sorcerer, Warlock, Wizard
+Classes:
+  - Artificer
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Elemental Evil Player's Companion
 Official: true

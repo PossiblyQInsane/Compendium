@@ -1,13 +1,16 @@
 ---
 publish: true
 created: 2026-09-08T00:41:52.017-04:00
-modified: 2026-09-08T00:44:10.566-04:00
-published: 2026-09-08T00:44:10.566-04:00
-Creature Type: Dragon (Metallic)
+modified: 2026-10-10T01:35:11.640-04:00
+published: 2026-10-10T01:35:11.640-04:00
+Creature Type: Dragon
+Subtype: Metallic
 Size: Large
 Alignment: Lawful Good
 CR: "9"
-Habitat: Mountain, Urban
+Habitat:
+  - Mountain
+  - Urban
 Treasure: Arcana
 Source: Monster Manual 5.5e
 Official: true

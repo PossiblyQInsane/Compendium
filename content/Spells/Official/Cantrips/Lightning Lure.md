@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-15T21:50:35.163-04:00
-modified: 2026-08-31T11:52:06.421-04:00
-published: 2026-08-31T11:52:06.421-04:00
+modified: 2026-10-08T00:12:15.088-04:00
+published: 2026-10-08T00:12:15.088-04:00
 Name: "[[Lightning Lure]]"
 Spell Level: Cantrip
 School: Evocation
-Classes: Artificer, Sorcerer, Warlock, Wizard
+Classes:
+  - Artificer
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Sword Coast Adventurer's Guide
 Official: true

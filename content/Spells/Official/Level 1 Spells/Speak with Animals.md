@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-02T11:34:48.575-04:00
-modified: 2026-09-21T16:35:08.867-04:00
-published: 2026-09-21T16:35:08.867-04:00
+modified: 2026-10-08T00:46:47.554-04:00
+published: 2026-10-08T00:46:47.554-04:00
 Name: "[[Speak with Animals]]"
 Spell Level: Level 1
 School: Divination
-Classes: Bard, Druid, Ranger, Warlock
+Classes:
+  - Bard
+  - Druid
+  - Ranger
+  - Warlock
 Third Party Classes: Tamer
 Special: R
 Source: Player's Handbook 5.5e

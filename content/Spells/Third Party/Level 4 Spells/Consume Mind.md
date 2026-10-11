@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-13T22:55:32.862-04:00
-modified: 2026-09-13T23:02:31.440-04:00
-published: 2026-09-13T23:02:31.440-04:00
+modified: 2026-10-09T01:07:59.102-04:00
+published: 2026-10-09T01:07:59.102-04:00
 Name: "[[Consume Mind]]"
 Spell Level: Level 4
 School: Necromancy
-Classes: Cleric, Warlock, Wizard
+Classes:
+  - Cleric
+  - Warlock
+  - Wizard
 Special: —
 Source: "Grim Hollow: Player's Guide"
 Official: false

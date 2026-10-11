@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-20T11:58:10.497-04:00
-modified: 2026-08-31T12:19:41.726-04:00
-published: 2026-08-31T12:19:41.726-04:00
+modified: 2026-10-08T00:57:45.587-04:00
+published: 2026-10-08T00:57:45.587-04:00
 Name: "[[Earthbind]]"
 Spell Level: Level 2
 School: Transmutation
-Classes: Druid, Sorcerer, Warlock, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Elemental Evil Player's Companion
 Official: true

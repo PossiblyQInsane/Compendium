@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-21T22:58:50.920-04:00
-modified: 2026-09-21T23:01:30.085-04:00
-published: 2026-09-21T23:01:30.085-04:00
+modified: 2026-10-08T00:14:23.882-04:00
+published: 2026-10-08T00:14:23.882-04:00
 Name: "[[Mind Sliver]]"
 Spell Level: Cantrip
 School: Enchantment
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

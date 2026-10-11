@@ -1,13 +1,17 @@
 ---
 publish: true
 created: 2026-08-04T10:59:06.587-04:00
-modified: 2026-10-02T18:11:03.769-04:00
-published: 2026-10-02T18:11:03.769-04:00
+modified: 2026-10-08T01:00:53.355-04:00
+published: 2026-10-08T01:00:53.355-04:00
 Name: "[[Flame Blade]]"
 Spell Level: Level 2
 School: Evocation
-Classes: Druid, Sorcerer
-Third Party Classes: Bender (fire), Magus
+Classes:
+  - Druid
+  - Sorcerer
+Third Party Classes:
+  - Bender (fire)
+  - Magus
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

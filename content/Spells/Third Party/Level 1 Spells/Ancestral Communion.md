@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-10T12:55:20.486-04:00
-modified: 2026-08-31T12:12:23.385-04:00
-published: 2026-08-31T12:12:23.385-04:00
+modified: 2026-10-08T01:21:19.367-04:00
+published: 2026-10-08T01:21:19.367-04:00
 Name: "[[Ancestral Communion]]"
 Spell Level: Level 1
 School: Divination
-Classes: Cleric, Druid, Ranger, Sorcerer
+Classes:
+  - Cleric
+  - Druid
+  - Ranger
+  - Sorcerer
 Special: C
 Source: The Crooked Moon
 Official: false

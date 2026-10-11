@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-09-16T12:21:38.406-04:00
-modified: 2026-10-03T02:01:19.216-04:00
-published: 2026-10-03T02:01:19.216-04:00
+modified: 2026-10-08T01:31:59.675-04:00
+published: 2026-10-08T01:31:59.675-04:00
 Name: "[[Preserve (Loot Tavern)|Preserve]]"
 Spell Level: Level 2
 School: Biomancy
-Classes: Cleric, Druid, Paladin, Ranger, Wizard
+Classes:
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
+  - Wizard
 Third Party Classes: Tamer
 Special: —
 Source: Heliana's Guide to Monster Hunting

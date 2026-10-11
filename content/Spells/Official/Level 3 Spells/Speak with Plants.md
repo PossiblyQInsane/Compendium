@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-02T23:58:02.206-04:00
-modified: 2026-08-31T15:10:10.996-04:00
-published: 2026-08-31T15:10:10.996-04:00
+modified: 2026-10-08T11:52:08.785-04:00
+published: 2026-10-08T11:52:08.785-04:00
 Name: "[[Speak with Plants]]"
 Spell Level: Level 3
 School: Transmutation
-Classes: Bard, Druid, Ranger
+Classes:
+  - Bard
+  - Druid
+  - Ranger
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

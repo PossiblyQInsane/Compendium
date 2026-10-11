@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-26T16:36:28.992-04:00
-modified: 2026-10-05T16:46:21.292-04:00
-published: 2026-10-05T16:46:21.292-04:00
+modified: 2026-10-11T00:11:25.262-04:00
+published: 2026-10-11T00:11:25.262-04:00
+Name: "[[Warlock]]"
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
@@ -144,11 +145,11 @@ You gain an [[Feats.base#Epic Boon Feats|Epic Boon feat]] or another [[Feats.bas
 
 When you use your Magical Cunning feature, you regain all your expended Pact Magic spell slots.
 
-### Eldritch Invocation Options
+## Eldritch Invocation Options
 
-Eldritch Invocation options appear in alphabetical order.
+Eldritch Invocation options appear in alphabetical order. For unofficial invocations, see [[Third Party Eldritch Invocations]].
 
-#### Agonizing Blast
+### Agonizing Blast
 
 _Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage_
 
@@ -156,39 +157,39 @@ Choose one of your known Warlock cantrips that deals damage. You can add your Ch
 
 _**Repeatable.**_ You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
-#### Armor of Shadows
+### Armor of Shadows
 
 You can cast _[[Mage Armor]]_ on yourself without expending a spell slot.
 
-#### Ascendant Step
+### Ascendant Step
 
 _Prerequisite: Level 5+ Warlock_
 
 You can cast _[[Levitate]]_ on yourself without expending a spell slot.
 
-#### Devil’s Sight
+### Devil’s Sight
 
 _Prerequisite: Level 2+ Warlock_
 
 You can see normally in [[Dim Light]] and [[Darkness]]—both magical and nonmagical—within 120 feet of yourself.
 
-#### Devouring Blade
+### Devouring Blade
 
 _Prerequisite: Level 12+ Warlock, Thirsting Blade Invocation_
 
 The Extra Attack of your Thirsting Blade invocation confers two extra attacks rather than one.
 
-#### Eldritch Mind
+### Eldritch Mind
 
 You have [[Advantage]] on Constitution saving throws that you make to maintain [[Concentration]].
 
-#### Eldritch Smite
+### Eldritch Smite
 
 _Prerequisite: Level 5+ Warlock, Pact of the Blade Invocation_
 
 Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra 1d8 Force damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the [[Prone]] condition if it is Huge or smaller.
 
-#### Eldritch Spear
+### Eldritch Spear
 
 _Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage_
 
@@ -196,13 +197,13 @@ Choose one of your known Warlock cantrips that deals damage and has a range of 1
 
 _**Repeatable.**_ You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
-#### Fiendish Vigor
+### Fiendish Vigor
 
 _Prerequisite: Level 2+ Warlock_
 
 You can cast _[[False Life]]_ on yourself without expending a spell slot. When you cast the spell with this feature, you don’t roll the die for the [[Temporary Hit Points]]; you automatically get the highest number on the die.
 
-#### Gaze of Two Minds
+### Gaze of Two Minds
 
 _Prerequisite: Level 5+ Warlock_
 
@@ -210,7 +211,7 @@ You can use a [[Bonus Action]] to touch a willing creature and perceive through 
 
 While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature’s space if the two of you are within 60 feet of each other.
 
-#### Gift of the Depths
+### Gift of the Depths
 
 _Prerequisite: Level 5+ Warlock_
 
@@ -218,7 +219,7 @@ You can breathe underwater, and you gain a [[Swim Speed]] equal to your Speed.
 
 You can also cast _[[Water Breathing]]_ once without expending a spell slot. You regain the ability to cast it in this way again when you finish a [[Long Rest]].
 
-#### Gift of the Protectors
+### Gift of the Protectors
 
 _Prerequisite: Level 9+ Warlock, Pact of the Tome Invocation_
 
@@ -228,7 +229,7 @@ When any creature whose name is on the page is reduced to 0 Hit Points but not k
 
 As a [[Magic]] action, you can erase a name on the page by touching it.
 
-#### Investment of the Chain Master
+### Investment of the Chain Master
 
 _Prerequisite: Level 5+ Warlock, Pact of the Chain Invocation_
 
@@ -244,7 +245,7 @@ _**Your Save DC.**_ If the familiar forces a creature to make a saving throw, it
 
 _**Resistance.**_ When the familiar takes damage, you can take a [[Reaction]] to grant it [[Resistance]] against that damage.
 
-#### Lessons of the First Ones
+### Lessons of the First Ones
 
 _Prerequisite: Level 2+ Warlock_
 
@@ -252,43 +253,43 @@ You have received knowledge from an elder entity of the multiverse, allowing you
 
 _**Repeatable.**_ You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
 
-#### Lifedrinker
+### Lifedrinker
 
 _Prerequisite: Level 9+ Warlock, Pact of the Blade Invocation_
 
 Once per turn when you hit a creature with your pact weapon, you can deal an extra 1d6 Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your [[Hit Point Dice]] to roll it and regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
 
-#### Mask of Many Faces
+### Mask of Many Faces
 
 _Prerequisite: Level 2+ Warlock_
 
 You can cast _[[Disguise Self]]_ without expending a spell slot.
 
-#### Master of Myriad Forms
+### Master of Myriad Forms
 
 _Prerequisite: Level 5+ Warlock_
 
 You can cast _[[Alter Self]]_ without expending a spell slot.
 
-#### Misty Visions
+### Misty Visions
 
 _Prerequisite: Level 2+ Warlock_
 
 You can cast _[[Silent Image]]_ without expending a spell slot.
 
-#### One with Shadows
+### One with Shadows
 
 _Prerequisite: Level 5+ Warlock_
 
 While you’re in an area of [[Dim Light]] or [[Darkness]], you can cast _[[Invisibility]]_ on yourself without expending a spell slot.
 
-#### Otherworldly Leap
+### Otherworldly Leap
 
 _Prerequisite: Level 2+ Warlock_
 
 You can cast _[[Jump]]_ on yourself without expending a spell slot.
 
-#### Pact of the Blade
+### Pact of the Blade
 
 As a [[Bonus Action]], you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can’t bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a [[Spellcasting Focus]].
 
@@ -296,7 +297,7 @@ Whenever you attack with the bonded weapon, you can use your Charisma modifier f
 
 Your bond with the weapon ends if you use this feature’s Bonus Action again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 
-#### Pact of the Chain
+### Pact of the Chain
 
 You learn the _[[Find Familiar]]_ spell and can cast it as a [[Magic]] action without expending a spell slot.
 
@@ -304,7 +305,7 @@ When you cast the spell, you choose one of the normal forms for your familiar or
 
 Additionally, when you take the [[Attack]] action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its [[Reaction]].
 
-#### Pact of the Tome
+### Pact of the Tome
 
 Stitching together strands of shadow, you conjure forth a book in your hand at the end of a [[Short Rest|Short]] or [[Long Rest]]. This Book of Shadows (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
 
@@ -312,7 +313,7 @@ _**Cantrips and Rituals.**_ When the book appears, choose three cantrips, and ch
 
 _**Spellcasting Focus.**_ You can use the book as a [[Spellcasting Focus]].
 
-#### Repelling Blast
+### Repelling Blast
 
 _Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an Attack Roll_
 
@@ -320,25 +321,25 @@ Choose one of your known Warlock cantrips that requires an attack roll. When you
 
 _**Repeatable.**_ You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
-#### Thirsting Blade
+### Thirsting Blade
 
 _Prerequisite: Level 5+ Warlock, Pact of the Blade Invocation_
 
 You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the [[Attack]] action on your turn.
 
-#### Visions of Distant Realms
+### Visions of Distant Realms
 
 _Prerequisite: Level 9+ Warlock_
 
 You can cast _[[Arcane Eye]]_ without expending a spell slot.
 
-#### Whispers of the Grave
+### Whispers of the Grave
 
 _Prerequisite: Level 7+ Warlock_
 
 You can cast _[[Speak with Dead]]_ without expending a spell slot.
 
-#### Witch Sight
+### Witch Sight
 
 _Prerequisite: Level 15+ Warlock_
 
@@ -586,5 +587,21 @@ A Warlock subclass is a specialization that grants you features at certain Warlo
 
 ### Third Party Warlock Subclasses
 
-| Name | Source | Publisher | Edition |
-| ---- | ------ | --------- | ------- |
+| Name                                                                                                             | Source                             | Publisher               | Edition |
+| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ----------------------- | ------- |
+| [[Subclasses/Third Party/Warlock/Astral Griffon Patron.md\|The Astral Griffon Patron]]                           | The Griffon's Saddlebag: Book One  | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Third Party/Warlock/Coven.md\|The Coven]]                                                           | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Warlock/Exalted Assembly of the Feline Court.md\|Exalted Assembly of the Feline Court]] | Cthulhu by Torchlight              | Chaosium                | 5.5e    |
+| [[Subclasses/Third Party/Warlock/First Vampire Patron.md\|The First Vampire Patron]]                             | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Warlock/Fungus Patron.md\|Fungus Patron]]                                               | The Field Guide to Floral Dragons  | Hit Point Press         | 5.5e    |
+| [[Subclasses/Third Party/Warlock/Future You Patron.md\|Future You Patron]]                                       | Valda's Spire of Secrets           | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Third Party/Warlock/Great Fool Patron.md\|Great Fool Patron]]                                       | The Crooked Moon                   | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Warlock/Horned King Patron.md\|Horned King Patron]]                                     | The Crooked Moon                   | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Warlock/Lantern Patron.md\|Lantern Patron]]                                             | Obojima: Tales from the Tall Grass | 1985 Games              | 5.5e    |
+| [[Subclasses/Third Party/Warlock/Many.md\|The Many]]                                                             | The Griffon's Saddlebag: Book Two  | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Third Party/Warlock/Parasite (Loot Tavern).md\|The Parasite]]                                       | Heliana's Guide to Monster Hunting | Loot Tavern             | 5e      |
+| [[Subclasses/Third Party/Warlock/Parasite Patron (Ghostfire Gaming).md\|The Parasite Patron]]                    | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Warlock/Predator.md\|The Predator]]                                                     | Humblewood Tales                   | Hit Point Press         | 5e      |
+| [[Subclasses/Third Party/Warlock/Shinigami.md\|The Shinigami]]                                                   | Ryoko's Guide to the Yokai Realms  | Loot Tavern             | 5e      |
+| [[Subclasses/Third Party/Warlock/Stone Sovereign Patron.md\|Stone Sovereign Patron]]                             | Frontiers of Eberron: Quickstone   | Visionary               | 5.5e    |
+| [[Subclasses/Third Party/Warlock/Trickster.md\|Trickster]]                                                       | Northlands Worldbook               | Kobold Press            | 5.5e    |

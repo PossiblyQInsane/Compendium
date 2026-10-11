@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-03T22:35:12.915-04:00
-modified: 2026-10-02T17:50:29.367-04:00
-published: 2026-10-02T17:50:29.367-04:00
+modified: 2026-10-08T12:08:35.264-04:00
+published: 2026-10-08T12:08:35.264-04:00
 Name: "[[Detect Poison and Disease]]"
 Spell Level: Level 1
 School: Divination
-Classes: Cleric, Druid, Paladin, Ranger
+Classes:
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
 Third Party Classes: Bender (water)
 Special: C, R
 Source: Player's Handbook 5.5e

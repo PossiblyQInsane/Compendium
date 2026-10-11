@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-19T10:20:59.867-04:00
-modified: 2026-10-01T11:43:07.273-04:00
-published: 2026-10-01T11:43:07.273-04:00
+modified: 2026-10-08T12:00:54.273-04:00
+published: 2026-10-08T12:00:54.273-04:00
 Name: "[[Globe of Twilight]]"
 Spell Level: Level 3
 School: Conjuration
-Classes: Druid, Ranger, Warlock
+Classes:
+  - Druid
+  - Ranger
+  - Warlock
 Special: C
 Source: Humblewood Campaign Setting
 Official: false

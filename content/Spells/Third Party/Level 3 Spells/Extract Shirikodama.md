@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-10-03T02:01:53.978-04:00
-modified: 2026-10-03T02:08:36.416-04:00
-published: 2026-10-03T02:08:36.416-04:00
+modified: 2026-10-08T12:00:04.269-04:00
+published: 2026-10-08T12:00:04.269-04:00
 Name: "[[Extract Shirikodama]]"
 Spell Level: Level 3
 School: Necromancy
-Classes: Cleric, Warlock
+Classes:
+  - Cleric
+  - Warlock
 Third Party Classes: Bender (water)
 Special: —
 Source: Ryoko's Guide to the Yokai Realms

@@ -3,10 +3,8 @@ publish: true
 aliases:
   - white dragon
 created: 2026-09-07T22:50:05.801-04:00
-modified: 2026-09-08T02:22:46.284-04:00
-published: 2026-09-08T02:22:46.284-04:00
-Habitat: Arctic
-Treasure: Arcana
+modified: 2026-10-10T01:47:51.111-04:00
+published: 2026-10-10T01:47:51.111-04:00
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

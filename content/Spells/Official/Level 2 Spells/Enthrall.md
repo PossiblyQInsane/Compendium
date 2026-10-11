@@ -1,13 +1,16 @@
 ---
 publish: true
 created: 2026-08-02T21:11:12.628-04:00
-modified: 2026-09-30T00:50:27.702-04:00
-published: 2026-09-30T00:50:27.702-04:00
+modified: 2026-10-08T00:59:29.748-04:00
+published: 2026-10-08T00:59:29.748-04:00
 Name: "[[Enthrall]]"
 Spell Level: Level 2
 School: Enchantment
-Classes: Bard, Warlock
-Third Party Classes: Illrigger (AoR)
+Classes:
+  - Bard
+  - Warlock
+Third Party Classes:
+  - Illrigger (Architect of Ruin)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

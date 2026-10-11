@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-27T02:33:16.167-04:00
-modified: 2026-09-27T02:35:31.412-04:00
-published: 2026-09-27T02:35:31.412-04:00
+modified: 2026-10-09T01:26:23.313-04:00
+published: 2026-10-09T01:26:23.313-04:00
 Name: "[[Arcane Gate]]"
 Spell Level: Level 6
 School: Conjuration
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

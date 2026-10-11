@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-10-03T02:19:11.906-04:00
-modified: 2026-10-03T02:29:08.733-04:00
-published: 2026-10-03T02:29:08.733-04:00
+modified: 2026-10-09T01:23:15.610-04:00
+published: 2026-10-09T01:23:15.610-04:00
 Name: "[[Bakuryō’s Blessèd Blizzard]]"
 Spell Level: Level 5
 School: Conjuration
-Classes: Cleric, Druid, Paladin, Warlock, Wizard
+Classes:
+  - Cleric
+  - Druid
+  - Paladin
+  - Warlock
+  - Wizard
 Third Party Classes: Bender (water)
 Special: C, M
 Source: Ryoko's Guide to the Yokai Realms

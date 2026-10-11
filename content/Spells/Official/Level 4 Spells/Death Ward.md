@@ -1,13 +1,18 @@
 ---
 publish: true
 created: 2026-07-26T20:24:40.705-04:00
-modified: 2026-09-30T00:59:40.971-04:00
-published: 2026-09-30T00:59:40.971-04:00
+modified: 2026-10-09T00:55:47.003-04:00
+published: 2026-10-09T00:55:47.003-04:00
 Name: "[[Death Ward]]"
 Spell Level: Level 4
 School: Abjuration
-Classes: Cleric, Paladin
-Third Party Classes: Illrigger (AoR), Magus, Tamer
+Classes:
+  - Cleric
+  - Paladin
+Third Party Classes:
+  - Illrigger (Architect of Ruin)
+  - Magus
+  - Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

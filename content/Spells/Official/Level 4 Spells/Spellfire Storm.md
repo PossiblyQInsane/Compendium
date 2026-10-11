@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-27T01:42:50.166-04:00
-modified: 2026-09-27T01:47:36.279-04:00
-published: 2026-09-27T01:47:36.279-04:00
+modified: 2026-10-09T01:04:08.458-04:00
+published: 2026-10-09T01:04:08.458-04:00
 Name: "[[Spellfire Storm]]"
 Spell Level: Level 4
 School: Evocation
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Special: C
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true

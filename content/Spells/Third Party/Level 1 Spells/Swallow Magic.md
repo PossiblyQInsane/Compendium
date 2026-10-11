@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-10-05T00:34:18.666-04:00
-modified: 2026-10-05T00:39:55.101-04:00
-published: 2026-10-05T00:39:55.101-04:00
+modified: 2026-10-08T01:27:08.050-04:00
+published: 2026-10-08T01:27:08.050-04:00
 Name: "[[Swallow Magic]]"
 Spell Level: Level 1
 School: Transmutation
-Classes: Bard, Wizard
+Classes:
+  - Bard
+  - Wizard
 Special: —
 Source: "Obojima: Tales from the Tall Grass"
 Official: false

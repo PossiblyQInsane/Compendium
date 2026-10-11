@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-21T23:28:22.079-04:00
-modified: 2026-09-21T23:31:05.372-04:00
-published: 2026-09-21T23:31:05.372-04:00
+modified: 2026-10-09T01:10:16.026-04:00
+published: 2026-10-09T01:10:16.026-04:00
 Name: "[[Marrow Transplant]]"
 Spell Level: Level 4
-School: Necromancy (Osteomancy)
-Classes: Cleric, Druid
+School: Necromancy
+Subschool: Osteomancy
+Classes:
+  - Cleric
+  - Druid
 Special: M
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false

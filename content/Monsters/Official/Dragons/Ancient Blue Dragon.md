@@ -1,13 +1,16 @@
 ---
 publish: true
 created: 2026-09-05T23:42:13.716-04:00
-modified: 2026-09-05T23:53:01.668-04:00
-published: 2026-09-05T23:53:01.668-04:00
-Creature Type: Dragon (Chromatic)
+modified: 2026-10-10T01:26:20.316-04:00
+published: 2026-10-10T01:26:20.316-04:00
+Creature Type: Dragon
+Subtype: Chromatic
 Size: Gargantuan
 Alignment: Lawful Evil
 CR: "23"
-Habitat: Coastal, Desert
+Habitat:
+  - Coastal
+  - Desert
 Treasure: Relics
 Source: Monster Manual 5.5e
 Official: true

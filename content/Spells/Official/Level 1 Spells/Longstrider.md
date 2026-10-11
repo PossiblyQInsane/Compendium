@@ -1,13 +1,21 @@
 ---
 publish: true
 created: 2026-07-25T23:01:54.147-04:00
-modified: 2026-10-02T17:59:28.703-04:00
-published: 2026-10-02T17:59:28.703-04:00
+modified: 2026-10-08T00:41:54.689-04:00
+published: 2026-10-08T00:41:54.689-04:00
 Name: "[[Longstrider|Longstrider]]"
 Spell Level: Level 1
 School: Transmutation
-Classes: Artificer, Bard, Druid, Ranger, Wizard
-Third Party Classes: Bender (air), Magus, Tamer
+Classes:
+  - Artificer
+  - Bard
+  - Druid
+  - Ranger
+  - Wizard
+Third Party Classes:
+  - Bender (air)
+  - Magus
+  - Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

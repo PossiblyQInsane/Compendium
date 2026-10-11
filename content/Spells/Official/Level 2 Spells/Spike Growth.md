@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-07T10:39:09.704-04:00
-modified: 2026-10-02T18:10:44.877-04:00
-published: 2026-10-02T18:10:44.877-04:00
+modified: 2026-10-08T01:13:37.197-04:00
+published: 2026-10-08T01:13:37.197-04:00
 Name: "[[Spike Growth]]"
 Spell Level: Level 2
 School: Transmutation
-Classes: Druid, Ranger
+Classes:
+  - Druid
+  - Ranger
 Third Party Classes: Bender (earth)
 Special: C
 Source: Player's Handbook 5.5e

@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-07-24T02:47:04.001-04:00
-modified: 2026-08-31T11:52:59.527-04:00
-published: 2026-08-31T11:52:59.527-04:00
+modified: 2026-10-08T00:16:11.145-04:00
+published: 2026-10-08T00:16:11.145-04:00
 Name: "[[Prestidigitation|Prestidigitation]]"
 Spell Level: Cantrip
 School: Transmutation
-Classes: Artificer, Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Artificer
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

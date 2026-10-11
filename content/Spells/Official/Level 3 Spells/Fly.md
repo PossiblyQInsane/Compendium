@@ -1,13 +1,21 @@
 ---
 publish: true
 created: 2026-07-26T13:43:50.590-04:00
-modified: 2026-10-02T18:13:24.095-04:00
-published: 2026-10-02T18:13:24.095-04:00
+modified: 2026-10-08T11:41:45.409-04:00
+published: 2026-10-08T11:41:45.409-04:00
 Name: "[[Fly]]"
 Spell Level: Level 3
 School: Transmutation
-Classes: Artificer, Sorcerer, Warlock, Wizard
-Third Party Classes: Bender (air), Illrigger (AoR), Magus, Tamer
+Classes:
+  - Artificer
+  - Sorcerer
+  - Warlock
+  - Wizard
+Third Party Classes:
+  - Bender (air)
+  - Illrigger (Architect of Ruin)
+  - Magus
+  - Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

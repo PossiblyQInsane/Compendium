@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-09-21T17:20:40.639-04:00
-modified: 2026-09-21T22:52:47.019-04:00
-published: 2026-09-21T22:52:47.019-04:00
+modified: 2026-10-07T11:51:34.556-04:00
+published: 2026-10-07T11:51:34.556-04:00
+Name: "[[Rogue]]"
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

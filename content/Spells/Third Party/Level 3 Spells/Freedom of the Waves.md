@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-14T00:49:59.609-04:00
-modified: 2026-09-14T00:54:28.829-04:00
-published: 2026-09-14T00:54:28.829-04:00
+modified: 2026-10-08T12:00:38.876-04:00
+published: 2026-10-08T12:00:38.876-04:00
 Name: "[[Freedom of the Waves]]"
 Spell Level: Level 3
 School: Conjuration
-Classes: Druid, Ranger, Sorcerer
+Classes:
+  - Druid
+  - Ranger
+  - Sorcerer
 Special: —
 Source: Tal'Dorei Campaign Setting Reborn
 Official: false

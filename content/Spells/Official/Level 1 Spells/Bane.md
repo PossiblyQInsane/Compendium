@@ -1,13 +1,17 @@
 ---
 publish: true
 created: 2026-08-02T20:29:25.121-04:00
-modified: 2026-09-30T00:43:11.925-04:00
-published: 2026-09-30T00:43:11.925-04:00
+modified: 2026-10-08T00:22:33.526-04:00
+published: 2026-10-08T00:22:33.526-04:00
 Name: "[[Bane]]"
 Spell Level: Level 1
 School: Enchantment
-Classes: Bard, Cleric, Warlock
-Third Party Classes: Illrigger (AoR)
+Classes:
+  - Bard
+  - Cleric
+  - Warlock
+Third Party Classes:
+  - Illrigger (Architect of Ruin)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

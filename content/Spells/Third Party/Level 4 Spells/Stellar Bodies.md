@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-19T10:31:54.300-04:00
-modified: 2026-10-01T11:44:15.602-04:00
-published: 2026-10-01T11:44:15.602-04:00
+modified: 2026-10-09T01:11:22.803-04:00
+published: 2026-10-09T01:11:22.803-04:00
 Name: "[[Stellar Bodies]]"
 Spell Level: Level 4
 School: Evocation
-Classes: Cleric, Druid, Sorcerer, Wizard
+Classes:
+  - Cleric
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Humblewood Campaign Setting
 Official: false

@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-16T00:04:00.022-04:00
-modified: 2026-08-31T15:26:32.875-04:00
-published: 2026-08-31T15:26:32.875-04:00
+modified: 2026-10-09T01:21:46.993-04:00
+published: 2026-10-09T01:21:46.993-04:00
 Name: "[[Transmute Rock]]"
 Spell Level: Level 5
 School: Transmutation
-Classes: Artificer, Druid, Wizard
+Classes:
+  - Artificer
+  - Druid
+  - Wizard
 Special: —
 Source: Elemental Evil Player's Companion
 Official: true

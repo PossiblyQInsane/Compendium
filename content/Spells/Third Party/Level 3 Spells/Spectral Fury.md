@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-13T23:53:21.126-04:00
-modified: 2026-09-13T23:56:34.173-04:00
-published: 2026-09-13T23:56:34.173-04:00
+modified: 2026-10-08T12:02:30.188-04:00
+published: 2026-10-08T12:02:30.188-04:00
 Name: "[[Spectral Fury]]"
 Spell Level: Level 3
 School: Conjuration
-Classes: Paladin, Ranger
+Classes:
+  - Paladin
+  - Ranger
 Special: M
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false

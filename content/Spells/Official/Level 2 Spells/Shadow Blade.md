@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-27T00:56:04.284-04:00
-modified: 2026-09-27T01:00:38.114-04:00
-published: 2026-09-27T01:00:38.114-04:00
+modified: 2026-10-08T01:11:56.804-04:00
+published: 2026-10-08T01:11:56.804-04:00
 Name: "[[Shadow Blade]]"
 Spell Level: Level 2
 School: Illusion
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Xanathar's Guide to Everything
 Official: true

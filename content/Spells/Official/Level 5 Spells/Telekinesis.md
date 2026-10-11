@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-04T11:58:22.464-04:00
-modified: 2026-08-31T15:26:17.378-04:00
-published: 2026-08-31T15:26:17.378-04:00
+modified: 2026-10-09T01:21:15.037-04:00
+published: 2026-10-09T01:21:15.037-04:00
 Name: "[[Telekinesis]]"
 Spell Level: Level 5
 School: Transmutation
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,13 +1,17 @@
 ---
 publish: true
 created: 2026-07-30T00:19:08.474-04:00
-modified: 2026-10-02T17:58:17.666-04:00
-published: 2026-10-02T17:58:17.666-04:00
+modified: 2026-10-08T00:39:33.404-04:00
+published: 2026-10-08T00:39:33.404-04:00
 Name: "[[Heroism]]"
 Spell Level: Level 1
 School: Enchantment
-Classes: Bard, Paladin
-Third Party Classes: Bender (fire), Tamer
+Classes:
+  - Bard
+  - Paladin
+Third Party Classes:
+  - Bender (fire)
+  - Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

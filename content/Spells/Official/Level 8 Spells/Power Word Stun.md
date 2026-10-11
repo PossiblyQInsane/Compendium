@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-03T02:36:28.210-04:00
-modified: 2026-08-31T19:53:05.043-04:00
-published: 2026-08-31T19:53:05.043-04:00
+modified: 2026-10-09T01:41:17.796-04:00
+published: 2026-10-09T01:41:17.796-04:00
 Name: "[[Power Word Stun]]"
 Spell Level: Level 8
 School: Enchantment
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

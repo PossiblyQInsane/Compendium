@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-09-23T11:03:49.288-04:00
-modified: 2026-09-23T11:06:57.367-04:00
-published: 2026-09-23T11:06:57.367-04:00
+modified: 2026-10-08T12:14:31.807-04:00
+published: 2026-10-08T12:14:31.807-04:00
 Name: "[[Wilting Smite]]"
 Spell Level: Level 2
-School: Transmutation (Sangromancy)
+School: Transmutation
+Subschool: Sangromancy
 Classes: Paladin
 Special: —
 Source: "Grim Hollow: Player's Guide"

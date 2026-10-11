@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-02T20:07:24.096-04:00
-modified: 2026-08-31T19:53:56.968-04:00
-published: 2026-08-31T19:53:56.968-04:00
+modified: 2026-10-09T01:43:55.676-04:00
+published: 2026-10-09T01:43:55.676-04:00
 Name: "[[Power Word Heal]]"
 Spell Level: Level 9
 School: Enchantment
-Classes: Bard, Cleric
+Classes:
+  - Bard
+  - Cleric
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

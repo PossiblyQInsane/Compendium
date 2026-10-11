@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-09T09:11:00.125-04:00
-modified: 2026-08-31T12:12:30.401-04:00
-published: 2026-08-31T12:12:30.401-04:00
+modified: 2026-10-08T01:21:44.384-04:00
+published: 2026-10-08T01:21:44.384-04:00
 Name: "[[Blood Rush]]"
 Spell Level: Level 1
-School: Transmutation (Sangromancy)
-Classes: Druid, Ranger
+School: Transmutation
+Subschool:
+  - Sangromancy
+Classes:
+  - Druid
+  - Ranger
 Special: —
 Source: "Grim Hollow: Player's Guide"
 Official: false

@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-10-04T23:52:09.719-04:00
-modified: 2026-10-04T23:54:39.491-04:00
-published: 2026-10-04T23:54:39.491-04:00
+modified: 2026-10-08T01:27:30.676-04:00
+published: 2026-10-08T01:27:30.676-04:00
 Name: "[[Umbral Tendril]]"
 Spell Level: Level 1
 School: Evocation
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Cthulhu by Torchlight
 Official: false

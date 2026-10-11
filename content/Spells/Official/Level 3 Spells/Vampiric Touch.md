@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-04T10:32:13.826-04:00
-modified: 2026-09-30T00:57:40.212-04:00
-published: 2026-09-30T00:57:40.212-04:00
+modified: 2026-10-08T11:55:37.754-04:00
+published: 2026-10-08T11:55:37.754-04:00
 Name: "[[Vampiric Touch]]"
 Spell Level: Level 3
 School: Necromancy
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Third Party Classes: Magus
 Special: C
 Source: Player's Handbook 5.5e

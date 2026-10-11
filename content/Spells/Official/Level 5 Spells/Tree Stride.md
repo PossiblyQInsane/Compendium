@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-07T12:05:19.359-04:00
-modified: 2026-08-31T15:26:44.289-04:00
-published: 2026-08-31T15:26:44.289-04:00
+modified: 2026-10-09T01:21:56.237-04:00
+published: 2026-10-09T01:21:56.237-04:00
 Name: "[[Tree Stride]]"
 Spell Level: Level 5
 School: Conjuration
-Classes: Druid, Ranger
+Classes:
+  - Druid
+  - Ranger
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

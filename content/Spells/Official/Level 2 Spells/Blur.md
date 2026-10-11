@@ -1,13 +1,20 @@
 ---
 publish: true
 created: 2026-07-25T23:24:58.244-04:00
-modified: 2026-10-02T18:02:44.417-04:00
-published: 2026-10-02T18:02:44.417-04:00
+modified: 2026-10-08T00:52:39.115-04:00
+published: 2026-10-08T00:52:39.115-04:00
 Name: "[[Blur|Blur]]"
 Spell Level: Level 2
 School: Illusion
-Classes: Artificer, Sorcerer, Wizard
-Third Party Classes: Bender (air), Illrigger (AoR), Magus, Tamer
+Classes:
+  - Artificer
+  - Sorcerer
+  - Wizard
+Third Party Classes:
+  - Bender (air)
+  - Illrigger (Architect of Ruin)
+  - Magus
+  - Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

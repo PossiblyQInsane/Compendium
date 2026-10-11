@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-04T00:35:55.459-04:00
-modified: 2026-08-31T19:51:48.694-04:00
-published: 2026-08-31T19:51:48.694-04:00
+modified: 2026-10-09T01:38:06.566-04:00
+published: 2026-10-09T01:38:06.566-04:00
 Name: "[[Antimagic Field]]"
 Spell Level: Level 8
 School: Abjuration
-Classes: Cleric, Wizard
+Classes:
+  - Cleric
+  - Wizard
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

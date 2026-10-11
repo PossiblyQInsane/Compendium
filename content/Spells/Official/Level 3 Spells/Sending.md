@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-02T23:45:33.080-04:00
-modified: 2026-08-31T15:09:44.779-04:00
-published: 2026-08-31T15:09:44.779-04:00
+modified: 2026-10-08T11:50:57.067-04:00
+published: 2026-10-08T11:50:57.067-04:00
 Name: "[[Sending]]"
 Spell Level: Level 3
 School: Divination
-Classes: Bard, Cleric, Wizard
+Classes:
+  - Bard
+  - Cleric
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

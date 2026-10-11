@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-23T21:03:49.775-04:00
-modified: 2026-08-31T15:06:34.956-04:00
-published: 2026-08-31T15:06:34.956-04:00
+modified: 2026-10-08T11:39:25.298-04:00
+published: 2026-10-08T11:39:25.298-04:00
 Name: "[[Erupting Earth]]"
 Spell Level: Level 3
 School: Transmutation
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Elemental Evil Player's Companion
 Official: true

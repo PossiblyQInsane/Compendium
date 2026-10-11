@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-20T11:32:42.045-04:00
-modified: 2026-08-31T11:53:51.285-04:00
-published: 2026-08-31T11:53:51.285-04:00
+modified: 2026-10-08T00:17:39.146-04:00
+published: 2026-10-08T00:17:39.146-04:00
 Name: "[[Shape Water]]"
 Spell Level: Cantrip
 School: Transmutation
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Elemental Evil Player's Companion
 Official: true

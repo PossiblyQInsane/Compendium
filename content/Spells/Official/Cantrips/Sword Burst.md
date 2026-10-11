@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-15T22:00:35.330-04:00
-modified: 2026-08-31T11:54:26.567-04:00
-published: 2026-08-31T11:54:26.567-04:00
+modified: 2026-10-08T00:19:18.548-04:00
+published: 2026-10-08T00:19:18.548-04:00
 Name: "[[Sword Burst]]"
 Spell Level: Cantrip
 School: Conjuration
-Classes: Artificer, Sorcerer, Warlock, Wizard
+Classes:
+  - Artificer
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Sword Coast Adventurer's Guide
 Official: true

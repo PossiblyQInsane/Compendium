@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 2026-10-03T22:41:53.671-04:00
-modified: 2026-10-03T22:43:42.673-04:00
-published: 2026-10-03T22:43:42.673-04:00
-Creature Type: Fey (Yokai)
+modified: 2026-10-10T02:00:29.628-04:00
+published: 2026-10-10T02:00:29.628-04:00
+Creature Type: Fey
+Subtype: Yokai
 Size: Small
 Alignment: Chaotic Neutral
 CR: "2"

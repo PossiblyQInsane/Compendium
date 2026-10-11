@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-10-04T23:08:15.938-04:00
-modified: 2026-10-04T23:11:10.103-04:00
-published: 2026-10-04T23:11:10.103-04:00
+modified: 2026-10-08T01:18:42.972-04:00
+published: 2026-10-08T01:18:42.972-04:00
 Name: "[[Burning Blade]]"
 Spell Level: Cantrip
 School: Evocation
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: M
 Source: Valda's Spire of Secrets
 Official: false

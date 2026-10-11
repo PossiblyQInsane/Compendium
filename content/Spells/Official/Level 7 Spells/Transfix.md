@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-03T10:21:27.550-04:00
-modified: 2026-09-03T10:25:15.590-04:00
-published: 2026-09-03T10:25:15.590-04:00
+modified: 2026-10-09T01:36:29.805-04:00
+published: 2026-10-09T01:36:29.805-04:00
 Name: "[[Transfix]]"
 Spell Level: Level 7
 School: Enchantment
-Classes: Bard, Warlock, Wizard
+Classes:
+  - Bard
+  - Warlock
+  - Wizard
 Special: C
 Source: Arcana Unleashed
 Official: true

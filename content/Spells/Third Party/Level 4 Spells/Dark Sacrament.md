@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-09T09:43:28.776-04:00
-modified: 2026-08-31T15:19:57.294-04:00
-published: 2026-08-31T15:19:57.294-04:00
+modified: 2026-10-09T01:08:32.403-04:00
+published: 2026-10-09T01:08:32.403-04:00
 Name: "[[Dark Sacrament]]"
 Spell Level: Level 4
-School: Evocation (Sangromancy)
-Classes: Warlock, Wizard
+School: Evocation
+Subschool: Sangromancy
+Classes:
+  - Warlock
+  - Wizard
 Special: M
 Source: "Grim Hollow: Player's Guide"
 Official: false

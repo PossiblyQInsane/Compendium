@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-03T01:25:27.593-04:00
-modified: 2026-09-30T01:04:39.670-04:00
-published: 2026-09-30T01:04:39.670-04:00
+modified: 2026-10-09T01:28:15.334-04:00
+published: 2026-10-09T01:28:15.334-04:00
 Name: "[[Guards and Wards]]"
 Spell Level: Level 6
 School: Abjuration
-Classes: Bard, Wizard
+Classes:
+  - Bard
+  - Wizard
 Third Party Classes: Magus
 Special: M
 Source: Player's Handbook 5.5e

@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-07-30T11:04:39.707-04:00
-modified: 2026-08-31T19:53:40.970-04:00
-published: 2026-08-31T19:53:40.970-04:00
+modified: 2026-10-09T01:43:24.870-04:00
+published: 2026-10-09T01:43:24.870-04:00
 Name: "[[Gate]]"
 Spell Level: Level 9
 School: Conjuration
-Classes: Cleric, Sorcerer, Warlock, Wizard
+Classes:
+  - Cleric
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C, M
 Source: Player's Handbook 5.5e
 Official: true

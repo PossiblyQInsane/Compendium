@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-27T02:56:15.176-04:00
-modified: 2026-09-27T03:01:27.627-04:00
-published: 2026-09-27T03:01:27.627-04:00
+modified: 2026-10-09T01:31:04.148-04:00
+published: 2026-10-09T01:31:04.148-04:00
 Name: "[[Tasha's Otherworldly Guise]]"
 Spell Level: Level 6
 School: Transmutation
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C, M
 Source: Tasha's Cauldron of Everything
 Official: true

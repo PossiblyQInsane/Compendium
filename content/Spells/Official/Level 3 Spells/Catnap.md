@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-15T23:07:09.696-04:00
-modified: 2026-09-03T02:00:51.503-04:00
-published: 2026-09-03T02:00:51.503-04:00
+modified: 2026-10-08T11:34:05.134-04:00
+published: 2026-10-08T11:34:05.134-04:00
 Name: "[[Catnap]]"
 Spell Level: Level 3
 School: Enchantment
-Classes: Artificer, Bard, Sorcerer, Wizard
+Classes:
+  - Artificer
+  - Bard
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Arcana Unleashed
 Official: true

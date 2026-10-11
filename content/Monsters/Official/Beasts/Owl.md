@@ -1,13 +1,16 @@
 ---
 publish: true
 created: 2026-08-07T01:29:05.749-04:00
-modified: 2026-09-08T09:43:22.114-04:00
-published: 2026-09-08T09:43:22.114-04:00
+modified: 2026-10-10T01:15:44.124-04:00
+published: 2026-10-10T01:15:44.124-04:00
 Creature Type: Beast
 Size: Tiny
 Alignment: Unaligned
 CR: "0"
-Habitat: Arctic, Forest, Hill
+Habitat:
+  - Arctic
+  - Forest
+  - Hill
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

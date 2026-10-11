@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-10-05T17:54:03.054-04:00
-modified: 2026-10-05T17:58:45.133-04:00
-published: 2026-10-05T17:58:45.133-04:00
+modified: 2026-10-09T01:14:50.030-04:00
+published: 2026-10-09T01:14:50.030-04:00
 Name: "[[Danse Macabre]]"
 Spell Level: Level 5
 School: Necromancy
-Classes: Warlock, Wizard
+Classes:
+  - Warlock
+  - Wizard
 Special: C
 Source: Xanathar's Guide to Everything
 Official: true

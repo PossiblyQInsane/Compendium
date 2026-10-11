@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-10-05T01:31:29.789-04:00
-modified: 2026-10-05T01:36:58.165-04:00
-published: 2026-10-05T01:36:58.165-04:00
+modified: 2026-10-09T01:09:06.690-04:00
+published: 2026-10-09T01:09:06.690-04:00
 Name: "[[Frogskin]]"
 Spell Level: Level 4
 School: Biomancy
-Classes: Druid, Sorcerer, Warlock, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
 Third Party Classes: Tamer
 Special: C
 Source: Heliana's Guide to Monster Hunting

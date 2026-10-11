@@ -3,10 +3,8 @@ publish: true
 aliases:
   - brass dragon
 created: 2026-09-05T23:46:21.271-04:00
-modified: 2026-09-06T00:43:22.374-04:00
-published: 2026-09-06T00:43:22.374-04:00
-Habitat: Desert
-Treasure: Arcana
+modified: 2026-10-10T01:46:48.355-04:00
+published: 2026-10-10T01:46:48.355-04:00
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

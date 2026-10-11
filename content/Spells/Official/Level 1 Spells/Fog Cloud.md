@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-07T10:24:31.778-04:00
-modified: 2026-10-02T17:57:02.874-04:00
-published: 2026-10-02T17:57:02.874-04:00
+modified: 2026-10-08T00:37:52.790-04:00
+published: 2026-10-08T00:37:52.790-04:00
 Name: "[[Fog Cloud]]"
 Spell Level: Level 1
 School: Conjuration
-Classes: Druid, Ranger, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Ranger
+  - Sorcerer
+  - Wizard
 Third Party Classes: Bender (air)
 Special: C
 Source: Player's Handbook 5.5e

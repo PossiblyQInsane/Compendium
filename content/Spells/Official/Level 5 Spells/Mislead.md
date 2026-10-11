@@ -1,13 +1,18 @@
 ---
 publish: true
 created: 2026-08-03T01:01:38.539-04:00
-modified: 2026-10-02T18:24:15.996-04:00
-published: 2026-10-02T18:24:15.996-04:00
+modified: 2026-10-09T01:18:23.873-04:00
+published: 2026-10-09T01:18:23.873-04:00
 Name: "[[Mislead]]"
 Spell Level: Level 5
 School: Illusion
-Classes: Bard, Warlock, Wizard
-Third Party Classes: Bender (air), Tamer
+Classes:
+  - Bard
+  - Warlock
+  - Wizard
+Third Party Classes:
+  - Bender (air)
+  - Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

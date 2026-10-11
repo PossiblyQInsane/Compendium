@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-20T11:51:54.959-04:00
-modified: 2026-08-31T12:19:33.469-04:00
-published: 2026-08-31T12:19:33.469-04:00
+modified: 2026-10-08T00:57:26.452-04:00
+published: 2026-10-08T00:57:26.452-04:00
 Name: "[[Dust Devil]]"
 Spell Level: Level 2
 School: Conjuration
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Elemental Evil Player's Companion
 Official: true

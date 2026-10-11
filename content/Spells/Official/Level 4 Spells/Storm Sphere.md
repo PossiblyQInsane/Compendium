@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-27T02:09:03.874-04:00
-modified: 2026-09-27T02:15:30.726-04:00
-published: 2026-09-27T02:15:30.726-04:00
+modified: 2026-10-09T01:05:56.730-04:00
+published: 2026-10-09T01:05:56.730-04:00
 Name: "[[Storm Sphere]]"
 Spell Level: Level 4
 School: Evocation
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Elemental Evil Player's Companion
 Official: true

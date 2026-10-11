@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-15T21:29:32.735-04:00
-modified: 2026-08-31T11:50:13.664-04:00
-published: 2026-08-31T11:50:13.664-04:00
+modified: 2026-10-08T00:05:09.734-04:00
+published: 2026-10-08T00:05:09.734-04:00
 Name: "[[Booming Blade]]"
 Spell Level: Cantrip
 School: Evocation
-Classes: Artificer, Sorcerer, Warlock, Wizard
+Classes:
+  - Artificer
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: M
 Source: Sword Coast Adventurer's Guide
 Official: true

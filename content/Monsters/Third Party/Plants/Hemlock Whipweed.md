@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 2026-10-04T00:15:12.084-04:00
-modified: 2026-10-04T00:16:24.439-04:00
-published: 2026-10-04T00:16:24.439-04:00
-Creature Type: Plant (Yokai)
+modified: 2026-10-10T02:04:39.502-04:00
+published: 2026-10-10T02:04:39.502-04:00
+Creature Type: Plant
+Subtype: Yokai
 Size: Large
 Alignment: Unaligned
 CR: "4"

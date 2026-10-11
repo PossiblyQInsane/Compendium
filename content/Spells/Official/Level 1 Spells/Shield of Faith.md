@@ -1,13 +1,17 @@
 ---
 publish: true
 created: 2026-08-01T13:18:24.984-04:00
-modified: 2026-09-30T00:47:41.322-04:00
-published: 2026-09-30T00:47:41.322-04:00
+modified: 2026-10-08T00:45:09.722-04:00
+published: 2026-10-08T00:45:09.722-04:00
 Name: "[[Shield of Faith]]"
 Spell Level: Level 1
 School: Abjuration
-Classes: Cleric, Paladin
-Third Party Classes: Illrigger (AoR), Tamer
+Classes:
+  - Cleric
+  - Paladin
+Third Party Classes:
+  - Illrigger (Architect of Ruin)
+  - Tamer
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

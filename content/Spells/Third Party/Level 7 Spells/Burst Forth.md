@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-23T11:41:37.987-04:00
-modified: 2026-09-25T11:00:09.361-04:00
-published: 2026-09-25T11:00:09.361-04:00
+modified: 2026-10-09T01:37:12.394-04:00
+published: 2026-10-09T01:37:12.394-04:00
 Name: "[[Burst Forth]]"
 Spell Level: Level 7
-School: Conjuration (Sangromancy)
-Classes: Bard, Warlock, Wizard
+School: Conjuration
+Subschool: Sangromancy
+Classes:
+  - Bard
+  - Warlock
+  - Wizard
 Special: —
 Source: "Grim Hollow: Player's Guide"
 Official: false

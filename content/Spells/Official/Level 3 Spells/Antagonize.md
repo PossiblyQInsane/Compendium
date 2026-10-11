@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-16T17:15:23.707-04:00
-modified: 2026-08-31T15:04:33.188-04:00
-published: 2026-08-31T15:04:33.188-04:00
+modified: 2026-10-08T11:31:23.063-04:00
+published: 2026-10-08T11:31:23.063-04:00
 Name: "[[Antagonize]]"
 Spell Level: Level 3
 School: Enchantment
-Classes: Bard, Sorcerer, Warlock, Wizard
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: The Book of Many Things
 Official: true

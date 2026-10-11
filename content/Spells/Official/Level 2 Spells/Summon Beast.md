@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-07T10:45:18.583-04:00
-modified: 2026-09-28T23:53:33.738-04:00
-published: 2026-09-28T23:53:33.738-04:00
+modified: 2026-10-08T12:11:54.404-04:00
+published: 2026-10-08T12:11:54.404-04:00
 Name: "[[Summon Beast]]"
 Spell Level: Level 2
 School: Conjuration
-Classes: Druid, Ranger
+Classes:
+  - Druid
+  - Ranger
 Special: C, M
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-10-05T18:26:54.475-04:00
-modified: 2026-10-05T18:54:21.571-04:00
-published: 2026-10-05T18:54:21.571-04:00
+modified: 2026-10-09T01:30:28.075-04:00
+published: 2026-10-09T01:30:28.075-04:00
 Name: "[[Soul Cage]]"
 Spell Level: Level 6
 School: Necromancy
-Classes: Warlock, Wizard
+Classes:
+  - Warlock
+  - Wizard
 Special: M
 Source: Xanathar's Guide to Everything
 Official: true

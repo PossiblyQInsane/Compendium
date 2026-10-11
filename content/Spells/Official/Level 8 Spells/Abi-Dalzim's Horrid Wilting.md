@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-27T12:38:38.810-04:00
-modified: 2026-09-27T12:42:49.555-04:00
-published: 2026-09-27T12:42:49.555-04:00
+modified: 2026-10-09T01:37:58.287-04:00
+published: 2026-10-09T01:37:58.287-04:00
 Name: "[[Abi-Dalzim's Horrid Wilting]]"
 Spell Level: Level 8
 School: Necromancy
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Elemental Evil Player's Companion
 Official: true

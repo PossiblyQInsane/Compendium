@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-07-26T13:13:41.567-04:00
-modified: 2026-09-21T16:40:24.421-04:00
-published: 2026-09-21T16:40:24.421-04:00
+modified: 2026-10-08T01:13:25.330-04:00
+published: 2026-10-08T01:13:25.330-04:00
 Name: "[[Spider Climb]]"
 Spell Level: Level 2
 School: Transmutation
-Classes: Artificer, Sorcerer, Warlock, Wizard
+Classes:
+  - Artificer
+  - Sorcerer
+  - Warlock
+  - Wizard
 Third Party Classes: Tamer
 Special: C
 Source: Player's Handbook 5.5e

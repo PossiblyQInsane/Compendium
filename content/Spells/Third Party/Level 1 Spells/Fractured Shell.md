@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-10T13:32:19.925-04:00
-modified: 2026-08-31T12:13:26.073-04:00
-published: 2026-08-31T12:13:26.073-04:00
+modified: 2026-10-08T01:25:07.680-04:00
+published: 2026-10-08T01:25:07.680-04:00
 Name: "[[Fractured Shell]]"
 Spell Level: Level 1
-School: Transmutation (Osteomancy)
-Classes: Warlock, Wizard
+School: Transmutation
+Subschool:
+  - Osteomancy
+Classes:
+  - Warlock
+  - Wizard
 Special: C
 Source: Steinhardt's Guide to the Eldritch Hunt
 Official: false

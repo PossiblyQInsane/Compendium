@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-03T02:00:48.101-04:00
-modified: 2026-08-31T19:50:02.591-04:00
-published: 2026-08-31T19:50:02.591-04:00
+modified: 2026-10-09T01:34:44.096-04:00
+published: 2026-10-09T01:34:44.096-04:00
 Name: "[[Power Word Fortify]]"
 Spell Level: Level 7
 School: Enchantment
-Classes: Bard, Cleric
+Classes:
+  - Bard
+  - Cleric
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

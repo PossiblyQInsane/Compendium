@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-10-05T18:55:45.104-04:00
-modified: 2026-10-05T19:00:05.036-04:00
-published: 2026-10-05T19:00:05.036-04:00
+modified: 2026-10-09T01:40:58.408-04:00
+published: 2026-10-09T01:40:58.408-04:00
 Name: "[[Maddening Darkness]]"
 Spell Level: Level 8
 School: Evocation
-Classes: Warlock, Wizard
+Classes:
+  - Warlock
+  - Wizard
 Special: C
 Source: Xanathar's Guide to Everything
 Official: true

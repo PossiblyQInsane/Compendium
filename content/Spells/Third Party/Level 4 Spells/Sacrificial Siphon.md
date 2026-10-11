@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-10-04T21:59:13.650-04:00
-modified: 2026-10-04T22:02:44.481-04:00
-published: 2026-10-04T22:02:44.481-04:00
+modified: 2026-10-09T01:10:37.964-04:00
+published: 2026-10-09T01:10:37.964-04:00
 Name: "[[Sacrificial Siphon]]"
 Spell Level: Level 4
 School: Necromancy
-Classes: Cleric, Paladin, Warlock, Wizard
+Classes:
+  - Cleric
+  - Paladin
+  - Warlock
+  - Wizard
 Special: C
 Source: The Crooked Moon
 Official: false

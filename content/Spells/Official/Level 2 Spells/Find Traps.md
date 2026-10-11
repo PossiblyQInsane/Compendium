@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-03T22:46:47.292-04:00
-modified: 2026-08-31T12:20:05.843-04:00
-published: 2026-08-31T12:20:05.843-04:00
+modified: 2026-10-08T00:59:46.527-04:00
+published: 2026-10-08T00:59:46.527-04:00
 Name: "[[Find Traps]]"
 Spell Level: Level 2
 School: Divination
-Classes: Cleric, Druid, Ranger
+Classes:
+  - Cleric
+  - Druid
+  - Ranger
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

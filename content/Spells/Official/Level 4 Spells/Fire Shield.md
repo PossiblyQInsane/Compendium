@@ -1,13 +1,19 @@
 ---
 publish: true
 created: 2026-07-28T10:31:28.005-04:00
-modified: 2026-10-02T18:20:56.331-04:00
-published: 2026-10-02T18:20:56.331-04:00
+modified: 2026-10-09T00:58:25.701-04:00
+published: 2026-10-09T00:58:25.701-04:00
 Name: "[[Fire Shield]]"
 Spell Level: Level 4
 School: Evocation
-Classes: Druid, Sorcerer, Wizard
-Third Party Classes: Bender (fire), Magus, Tamer
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
+Third Party Classes:
+  - Bender (fire)
+  - Magus
+  - Tamer
 Fire constraint: (warm only)
 Special: —
 Source: Player's Handbook 5.5e

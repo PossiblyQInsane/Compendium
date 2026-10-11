@@ -1,13 +1,21 @@
 ---
 publish: true
 created: 2026-07-26T23:19:27.461-04:00
-modified: 2026-10-02T18:09:29.129-04:00
-published: 2026-10-02T18:09:29.129-04:00
+modified: 2026-10-08T01:07:49.830-04:00
+published: 2026-10-08T01:07:49.830-04:00
 Name: "[[Mirror Image]]"
 Spell Level: Level 2
 School: Illusion
-Classes: Bard, Sorcerer, Warlock, Wizard
-Third Party Classes: Bender (air), Illrigger (AoR), Magus, Tamer
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
+Third Party Classes:
+  - Bender (air)
+  - Illrigger (Architect of Ruin)
+  - Magus
+  - Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

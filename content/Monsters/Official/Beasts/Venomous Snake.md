@@ -1,13 +1,19 @@
 ---
 publish: true
 created: 2026-08-19T11:51:52.305-04:00
-modified: 2026-09-08T10:06:29.784-04:00
-published: 2026-09-08T10:06:29.784-04:00
+modified: 2026-10-10T01:17:57.671-04:00
+published: 2026-10-10T01:17:57.671-04:00
 Creature Type: Beast
 Size: Tiny
 Alignment: Unaligned
 CR: 1/8
-Habitat: Coastal, Desert, Forest, Grassland, Hill, Swamp
+Habitat:
+  - Coastal
+  - Desert
+  - Forest
+  - Grassland
+  - Hill
+  - Swamp
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-10-04T23:02:10.129-04:00
-modified: 2026-10-04T23:07:56.661-04:00
-published: 2026-10-04T23:07:56.661-04:00
+modified: 2026-10-08T01:17:10.220-04:00
+published: 2026-10-08T01:17:10.220-04:00
 Name: "[[Arc Blade]]"
 Spell Level: Cantrip
 School: Evocation
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: M
 Source: Valda's Spire of Secrets
 Official: false

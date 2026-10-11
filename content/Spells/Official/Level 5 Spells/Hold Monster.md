@@ -1,13 +1,19 @@
 ---
 publish: true
 created: 2026-08-03T00:55:20.464-04:00
-modified: 2026-10-02T18:28:03.787-04:00
-published: 2026-10-02T18:28:03.787-04:00
+modified: 2026-10-09T01:17:02.722-04:00
+published: 2026-10-09T01:17:02.722-04:00
 Name: "[[Hold Monster]]"
 Spell Level: Level 5
 School: Enchantment
-Classes: Bard, Sorcerer, Warlock, Wizard
-Third Party Classes: Bender (water), Magus
+Classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
+Third Party Classes:
+  - Bender (water)
+  - Magus
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

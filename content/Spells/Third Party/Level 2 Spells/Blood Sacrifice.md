@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-10-04T21:51:21.083-04:00
-modified: 2026-10-04T21:54:32.538-04:00
-published: 2026-10-04T21:54:32.538-04:00
+modified: 2026-10-08T01:29:31.266-04:00
+published: 2026-10-08T01:29:31.266-04:00
 Name: "[[Blood Sacrifice]]"
 Spell Level: Level 2
 School: Necromancy
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: The Crooked Moon
 Official: false

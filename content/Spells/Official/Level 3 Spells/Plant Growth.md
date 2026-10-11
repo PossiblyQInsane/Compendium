@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-02T23:42:38.359-04:00
-modified: 2026-08-31T15:09:16.181-04:00
-published: 2026-08-31T15:09:16.181-04:00
+modified: 2026-10-08T11:49:02.131-04:00
+published: 2026-10-08T11:49:02.131-04:00
 Name: "[[Plant Growth]]"
 Spell Level: Level 3
 School: Transmutation
-Classes: Bard, Druid, Ranger
+Classes:
+  - Bard
+  - Druid
+  - Ranger
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2026-08-03T00:15:06.108-04:00
-modified: 2026-10-02T18:21:38.601-04:00
-published: 2026-10-02T18:21:38.601-04:00
+modified: 2026-10-09T00:54:12.503-04:00
+published: 2026-10-09T00:54:12.503-04:00
 Name: "[[Compulsion]]"
 Spell Level: Level 4
 School: Enchantment
 Classes: Bard
-Third Party Classes: Bender (water), Illrigger (AoR)
+Third Party Classes:
+  - Bender (water)
+  - Illrigger (Architect of Ruin)
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

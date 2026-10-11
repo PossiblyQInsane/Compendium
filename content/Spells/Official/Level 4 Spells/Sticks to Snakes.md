@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-17T21:15:15.391-04:00
-modified: 2026-08-31T15:17:58.491-04:00
-published: 2026-08-31T15:17:58.491-04:00
+modified: 2026-10-09T01:04:30.331-04:00
+published: 2026-10-09T01:04:30.331-04:00
 Name: "[[Sticks to Snakes]]"
 Spell Level: Level 4
 School: Transmutation
-Classes: Cleric, Druid, Ranger
+Classes:
+  - Cleric
+  - Druid
+  - Ranger
 Special: C
 Source: D&D Beyond Drops
 Official: true

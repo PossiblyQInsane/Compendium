@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 2026-09-07T21:26:17.360-04:00
-modified: 2026-09-07T21:28:49.814-04:00
-published: 2026-09-07T21:28:49.814-04:00
-Creature Type: Dragon (Chromatic)
+modified: 2026-10-10T01:34:24.808-04:00
+published: 2026-10-10T01:34:24.808-04:00
+Creature Type: Dragon
+Subtype: Chromatic
 Size: Large
 Alignment: Lawful Evil
 CR: "8"

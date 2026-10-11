@@ -1,9 +1,10 @@
 ---
 publish: true
 created: 2026-08-29T11:59:38.875-04:00
-modified: 2026-09-05T23:51:45.893-04:00
-published: 2026-09-05T23:51:45.893-04:00
-Creature Type: Dragon (Chromatic)
+modified: 2026-10-10T01:32:58.830-04:00
+published: 2026-10-10T01:32:58.830-04:00
+Creature Type: Dragon
+Subtype: Chromatic
 Size: Large
 Alignment: Chaotic Evil
 CR: "7"

@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-16T16:37:28.666-04:00
-modified: 2026-08-31T12:11:59.913-04:00
-published: 2026-08-31T12:11:59.913-04:00
+modified: 2026-10-08T00:48:09.587-04:00
+published: 2026-10-08T00:48:09.587-04:00
 Name: "[[Wardaway]]"
 Spell Level: Level 1
 School: Abjuration
-Classes: Bard, Cleric, Paladin, Wizard
+Classes:
+  - Bard
+  - Cleric
+  - Paladin
+  - Wizard
 Special: —
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true

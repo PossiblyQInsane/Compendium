@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-07T11:24:33.211-04:00
-modified: 2026-08-31T15:14:58.742-04:00
-published: 2026-08-31T15:14:58.742-04:00
+modified: 2026-10-09T00:55:06.758-04:00
+published: 2026-10-09T00:55:06.758-04:00
 Name: "[[Conjure Woodland Beings]]"
 Spell Level: Level 4
 School: Conjuration
-Classes: Druid, Ranger
+Classes:
+  - Druid
+  - Ranger
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

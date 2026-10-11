@@ -1,13 +1,25 @@
 ---
 publish: true
 created: 2026-07-25T22:32:38.765-04:00
-modified: 2026-09-30T00:45:07.878-04:00
-published: 2026-09-30T00:45:07.878-04:00
+modified: 2026-10-08T12:05:38.238-04:00
+published: 2026-10-08T12:05:38.238-04:00
 Name: "[[Detect Magic|Detect Magic]]"
 Spell Level: Level 1
 School: Divination
-Classes: Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard
-Third Party Classes: Illrigger (AoR), Magus, Tamer
+Classes:
+  - Artificer
+  - Bard
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
+  - Sorcerer
+  - Warlock
+  - Wizard
+Third Party Classes:
+  - Illrigger (Architect of Ruin)
+  - Magus
+  - Tamer
 Special: C, R
 Source: Player's Handbook 5.5e
 Official: true

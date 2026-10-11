@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-23T22:52:40.013-04:00
-modified: 2026-08-31T19:46:37.143-04:00
-published: 2026-08-31T19:46:37.143-04:00
+modified: 2026-10-09T01:29:07.947-04:00
+published: 2026-10-09T01:29:07.947-04:00
 Name: "[[Investiture of Stone]]"
 Spell Level: Level 6
 School: Transmutation
-Classes: Druid, Sorcerer, Warlock, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Elemental Evil Player's Companion
 Official: true

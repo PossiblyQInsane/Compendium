@@ -3,9 +3,10 @@ publish: true
 aliases:
   - liches
 created: 2026-08-13T12:04:25.200-04:00
-modified: 2026-09-07T22:17:06.548-04:00
-published: 2026-09-07T22:17:06.548-04:00
-Creature Type: Undead (Wizard)
+modified: 2026-10-10T01:52:29.747-04:00
+published: 2026-10-10T01:52:29.747-04:00
+Creature Type: Undead
+Subtype: Wizard
 Size: Medium
 Alignment: Neutral Evil
 CR: "21"

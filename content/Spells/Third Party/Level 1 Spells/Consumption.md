@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-08-31T11:12:27.327-04:00
-modified: 2026-08-31T11:17:11.469-04:00
-published: 2026-08-31T11:17:11.469-04:00
+modified: 2026-10-08T01:23:38.437-04:00
+published: 2026-10-08T01:23:38.437-04:00
 Name: "[[Consumption]]"
 Spell Level: Level 1
-School: Evocation (Sangromancy)
-Classes: Druid, Sorcerer, Wizard
+School: Evocation
+Subschool:
+  - Sangromancy
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: C
 Source: "Grim Hollow: Player's Guide"
 Official: false

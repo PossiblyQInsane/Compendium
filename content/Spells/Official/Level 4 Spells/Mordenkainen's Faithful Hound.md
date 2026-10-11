@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T15:15:10.705-04:00
-modified: 2026-08-31T15:17:17.043-04:00
-published: 2026-08-31T15:17:17.043-04:00
+modified: 2026-10-09T01:02:48.424-04:00
+published: 2026-10-09T01:02:48.424-04:00
 Name: "[[Mordenkainen's Faithful Hound]]"
 Spell Level: Level 4
 School: Conjuration
-Classes: Artificer, Wizard
+Classes:
+  - Artificer
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

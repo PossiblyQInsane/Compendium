@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-10T13:09:24.712-04:00
-modified: 2026-08-31T15:27:48.976-04:00
-published: 2026-08-31T15:27:48.976-04:00
+modified: 2026-10-09T01:24:55.019-04:00
+published: 2026-10-09T01:24:55.019-04:00
 Name: "[[Lucky Charm]]"
 Spell Level: Level 5
 School: Transmutation
-Classes: Bard, Paladin, Ranger, Warlock
+Classes:
+  - Bard
+  - Paladin
+  - Ranger
+  - Warlock
 Special: C
 Source: The Crooked Moon
 Official: false

@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-04T09:27:23.905-04:00
-modified: 2026-09-04T09:31:32.992-04:00
-published: 2026-09-04T09:31:32.992-04:00
+modified: 2026-10-08T00:53:53.293-04:00
+published: 2026-10-08T00:53:53.293-04:00
 Name: "[[Conjure Tools]]"
 Spell Level: Level 2
 School: Conjuration
-Classes: Artificer, Bard, Ranger, Wizard
+Classes:
+  - Artificer
+  - Bard
+  - Ranger
+  - Wizard
 Special: —
 Source: D&D Beyond Drops
 Official: true

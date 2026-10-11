@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-23T11:41:37.987-04:00
-modified: 2026-09-25T11:03:38.139-04:00
-published: 2026-09-25T11:03:38.139-04:00
+modified: 2026-10-09T01:37:40.445-04:00
+published: 2026-10-09T01:37:40.445-04:00
 Name: "[[Sanguine Fusillade]]"
 Spell Level: Level 7
-School: Evocation (Sangromancy)
-Classes: Sorcerer, Warlock, Wizard
+School: Evocation
+Subschool: Sangromancy
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: "Grim Hollow: Player's Guide"
 Official: false

@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-04T11:26:32.139-04:00
-modified: 2026-08-31T15:12:52.848-04:00
-published: 2026-08-31T15:12:52.848-04:00
+modified: 2026-10-08T12:01:05.776-04:00
+published: 2026-10-08T12:01:05.776-04:00
 Name: "[[Harvest Moonglow]]"
 Spell Level: Level 3
 School: Evocation
-Classes: Cleric, Druid, Ranger
+Classes:
+  - Cleric
+  - Druid
+  - Ranger
 Special: —
 Source: The Crooked Moon
 Official: false

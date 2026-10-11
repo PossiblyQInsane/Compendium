@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-10-03T02:29:55.438-04:00
-modified: 2026-10-03T02:39:49.181-04:00
-published: 2026-10-03T02:39:49.181-04:00
+modified: 2026-10-09T01:25:10.393-04:00
+published: 2026-10-09T01:25:10.393-04:00
 Name: "[[Magatsuchi’s Lantern]]"
 Spell Level: Level 5
 School: Illusion
-Classes: Bard, Druid, Paladin, Ranger, Warlock
+Classes:
+  - Bard
+  - Druid
+  - Paladin
+  - Ranger
+  - Warlock
 Third Party Classes: Bender (fire)
 Special: C
 Source: Ryoko's Guide to the Yokai Realms

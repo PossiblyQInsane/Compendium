@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-23T11:42:02.080-04:00
-modified: 2026-09-25T11:07:03.732-04:00
-published: 2026-09-25T11:07:03.732-04:00
+modified: 2026-10-09T01:41:59.719-04:00
+published: 2026-10-09T01:41:59.719-04:00
 Name: "[[Creeping Death]]"
 Spell Level: Level 8
-School: Necromancy (Sangromancy)
-Classes: Warlock, Wizard
+School: Necromancy
+Subschool: Sangromancy
+Classes:
+  - Warlock
+  - Wizard
 Special: C
 Source: "Grim Hollow: Player's Guide"
 Official: false

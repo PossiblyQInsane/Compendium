@@ -4,12 +4,16 @@ aliases:
   - Blindness/Deafness
 title: Blindness/Deafness
 created: 2026-07-31T10:03:06.117-04:00
-modified: 2026-09-11T10:25:46.498-04:00
-published: 2026-09-11T10:25:46.498-04:00
+modified: 2026-10-08T00:52:06.635-04:00
+published: 2026-10-08T00:52:06.635-04:00
 Name: "[[Blindness-Deafness|Blindness/Deafness]]"
 Spell Level: Level 2
 School: Transmutation
-Classes: Bard, Cleric, Sorcerer, Wizard
+Classes:
+  - Bard
+  - Cleric
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

@@ -1,12 +1,17 @@
 ---
 publish: true
 created: 2026-08-03T00:51:01.995-04:00
-modified: 2026-09-21T16:45:50.728-04:00
-published: 2026-09-21T16:45:50.728-04:00
+modified: 2026-10-09T01:16:11.045-04:00
+published: 2026-10-09T01:16:11.045-04:00
 Name: "[[Geas]]"
 Spell Level: Level 5
 School: Enchantment
-Classes: Bard, Cleric, Druid, Paladin, Wizard
+Classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Paladin
+  - Wizard
 Third Party Classes: Tamer
 Special: —
 Source: Player's Handbook 5.5e

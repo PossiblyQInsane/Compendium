@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-03T02:34:09.196-04:00
-modified: 2026-08-31T19:52:58.353-04:00
-published: 2026-08-31T19:52:58.353-04:00
+modified: 2026-10-09T01:41:08.252-04:00
+published: 2026-10-09T01:41:08.252-04:00
 Name: "[[Mind Blank]]"
 Spell Level: Level 8
 School: Abjuration
-Classes: Bard, Wizard
+Classes:
+  - Bard
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

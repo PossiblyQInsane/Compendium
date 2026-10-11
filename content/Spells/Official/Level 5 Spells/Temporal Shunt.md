@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-10-06T11:36:24.634-04:00
-modified: 2026-10-06T11:39:07.309-04:00
-published: 2026-10-06T11:39:07.309-04:00
+modified: 2026-10-09T01:49:31.612-04:00
+published: 2026-10-09T01:49:31.612-04:00
 Name: "[[Temporal Shunt]]"
 Spell Level: Level 5
 School: Transmutation
-Subschool: Dunamancy [Chronurgy]
+Subschool: Dunamancy
 Classes: —
 Special: —
 Source: Explorer's Guide to Wildemount
@@ -16,7 +16,7 @@ Edition: 5e
 
 <div class="source">Explorer's Guide to Wildemount</div>
 
-_Level 5 Transmutation (Dunamancy \[Chronurgy])_
+_Level 5 Transmutation (Dunamancy)_
 
 ---
 

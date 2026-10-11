@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-09-13T22:16:09.177-04:00
-modified: 2026-09-13T22:19:52.340-04:00
-published: 2026-09-13T22:19:52.340-04:00
+modified: 2026-10-08T01:31:00.322-04:00
+published: 2026-10-08T01:31:00.322-04:00
 Name: "[[Chain of Conviction]]"
 Spell Level: Level 2
 School: Conjuration
-Classes: Paladin, Warlock
+Classes:
+  - Paladin
+  - Warlock
 Special: —
 Source: The Crooked Moon
 Official: false

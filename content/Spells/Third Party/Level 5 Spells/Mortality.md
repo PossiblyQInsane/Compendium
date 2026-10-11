@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-09T09:48:09.740-04:00
-modified: 2026-08-31T15:27:56.183-04:00
-published: 2026-08-31T15:27:56.183-04:00
+modified: 2026-10-09T01:25:25.815-04:00
+published: 2026-10-09T01:25:25.815-04:00
 Name: "[[Mortality]]"
 Spell Level: Level 5
-School: Transmutation (Sangromancy)
+School: Transmutation
+Subschool: Sangromancy
 Classes: Sorcerer
 Special: C, M
 Source: "Grim Hollow: Player's Guide"

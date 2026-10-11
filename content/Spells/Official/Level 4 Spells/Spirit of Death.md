@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-27T01:48:03.540-04:00
-modified: 2026-09-29T01:50:35.849-04:00
-published: 2026-09-29T01:50:35.849-04:00
+modified: 2026-10-09T01:04:18.532-04:00
+published: 2026-10-09T01:04:18.532-04:00
 Name: "[[Spirit of Death]]"
 Spell Level: Level 4
 School: Necromancy
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C, M
 Source: The Book of Many Things
 Official: true

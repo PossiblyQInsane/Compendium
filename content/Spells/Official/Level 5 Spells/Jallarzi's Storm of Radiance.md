@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-10-05T18:10:51.355-04:00
-modified: 2026-10-05T18:13:20.309-04:00
-published: 2026-10-05T18:13:20.309-04:00
+modified: 2026-10-09T01:17:43.194-04:00
+published: 2026-10-09T01:17:43.194-04:00
 Name: "[[Jallarzi's Storm of Radiance]]"
 Spell Level: Level 5
 School: Evocation
-Classes: Warlock, Wizard
+Classes:
+  - Warlock
+  - Wizard
 Special: C
 Source: Player's Handbook 5.5e
 Official: true

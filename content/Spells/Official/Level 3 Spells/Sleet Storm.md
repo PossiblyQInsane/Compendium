@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-07T11:02:24.401-04:00
-modified: 2026-10-02T18:16:05.854-04:00
-published: 2026-10-02T18:16:05.854-04:00
+modified: 2026-10-08T11:51:08.113-04:00
+published: 2026-10-08T11:51:08.113-04:00
 Name: "[[Sleet Storm]]"
 Spell Level: Level 3
 School: Conjuration
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Third Party Classes: Bender (water)
 Special: C
 Source: Player's Handbook 5.5e

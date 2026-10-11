@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-16T17:57:08.267-04:00
-modified: 2026-08-31T15:15:34.917-04:00
-published: 2026-08-31T15:15:34.917-04:00
+modified: 2026-10-09T00:57:20.346-04:00
+published: 2026-10-09T00:57:20.346-04:00
 Name: "[[Doomtide]]"
 Spell Level: Level 4
 School: Conjuration
-Classes: Bard, Cleric, Warlock
+Classes:
+  - Bard
+  - Cleric
+  - Warlock
 Special: C
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true

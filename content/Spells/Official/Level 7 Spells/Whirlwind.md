@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-08-23T23:12:24.426-04:00
-modified: 2026-08-31T19:51:08.732-04:00
-published: 2026-08-31T19:51:08.732-04:00
+modified: 2026-10-09T01:36:45.250-04:00
+published: 2026-10-09T01:36:45.250-04:00
 Name: "[[Whirlwind]]"
 Spell Level: Level 7
 School: Evocation
-Classes: Druid, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Wizard
 Special: C
 Source: Elemental Evil Player's Companion
 Official: true

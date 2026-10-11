@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-03T02:07:07.425-04:00
-modified: 2026-08-31T19:50:17.350-04:00
-published: 2026-08-31T19:50:17.350-04:00
+modified: 2026-10-09T01:35:05.655-04:00
+published: 2026-10-09T01:35:05.655-04:00
 Name: "[[Project Image]]"
 Spell Level: Level 7
 School: Illusion
-Classes: Bard, Wizard
+Classes:
+  - Bard
+  - Wizard
 Special: C, M
 Source: Player's Handbook 5.5e
 Official: true

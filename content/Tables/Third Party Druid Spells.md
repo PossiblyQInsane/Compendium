@@ -2,6 +2,7 @@
 
 | Name                                                                          | School        | Special | Source                             | Publisher              |
 | ----------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ---------------------- |
+| _[[Spells/Third Party/Cantrips/Cat's Spring.md\|Cat's Spring]]_               | Conjuration   | —       | Cthulhu by Torchlight              | Chaosium               |
 | _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_           | Illusion      | —       | Valda's Spire of Secrets           | Mage Hand Press        |
 | _[[Spells/Third Party/Cantrips/Concussion.md\|Concussion]]_                   | Evocation     | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_ | Illusion      | —       | The Crooked Moon                   | Avantris Entertainment |
@@ -11,60 +12,66 @@
 
 ### Level 1 Druid Spells
 
-| Name                                                                                | School                      | Special | Source                             | Publisher              |
-| ----------------------------------------------------------------------------------- | --------------------------- | ------- | ---------------------------------- | ---------------------- |
-| _[[Spells/Third Party/Level 1 Spells/Ancestral Communion.md\|Ancestral Communion]]_ | Divination                  | C       | The Crooked Moon                   | Avantris Entertainment |
-| _[[Spells/Third Party/Level 1 Spells/Blood Rush.md\|Blood Rush]]_                   | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 1 Spells/Boil Blood.md\|Boil Blood]]_                   | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 1 Spells/Chameleon Skin.md\|Chameleon Skin]]_           | Biomancy                    | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
-| _[[Spells/Third Party/Level 1 Spells/Consumption.md\|Consumption]]_                 | Evocation (Sangromancy)     | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 1 Spells/Daydream.md\|Daydream]]_                       | Enchantment                 | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
-| _[[Spells/Third Party/Level 1 Spells/Earthen Uppercut.md\|Earthen Uppercut]]_       | Transmutation               | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
-| _[[Spells/Third Party/Level 1 Spells/Shroud Blood.md\|Shroud Blood]]_               | Illusion (Sangromancy)      | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 1 Spells/Veil of Dusk.md\|Veil of Dusk]]_               | Abjuration                  | C       | Humblewood Campaign Setting        | Hit Point Press        |
-| _[[Spells/Third Party/Level 1 Spells/Water Bullet.md\|Water Bullet]]_               | Evocation                   | —       | Obojima: Tales from the Tall Grass | 1985 Games             |
-| _[[Spells/Third Party/Level 1 Spells/Whelm Weapon.md\|Whelm Weapon]]_               | Transmutation               | C       | Obojima: Tales from the Tall Grass | 1985 Games             |
+| Name                                                                                | School        | Special | Source                             | Publisher              |
+| ----------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ---------------------- |
+| _[[Spells/Third Party/Level 1 Spells/Ancestral Communion.md\|Ancestral Communion]]_ | Divination    | C       | The Crooked Moon                   | Avantris Entertainment |
+| _[[Spells/Third Party/Level 1 Spells/Blood Rush.md\|Blood Rush]]_                   | Transmutation | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 1 Spells/Boil Blood.md\|Boil Blood]]_                   | Transmutation | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 1 Spells/Chameleon Skin.md\|Chameleon Skin]]_           | Biomancy      | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| _[[Spells/Third Party/Level 1 Spells/Consumption.md\|Consumption]]_                 | Evocation     | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 1 Spells/Daydream.md\|Daydream]]_                       | Enchantment   | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| _[[Spells/Third Party/Level 1 Spells/Earthen Uppercut.md\|Earthen Uppercut]]_       | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
+| _[[Spells/Third Party/Level 1 Spells/Elevated Sight.md\|Elevated Sight]]_           | Divination    | C       | Humblewood Campaign Setting        | Hit Point Press        |
+| _[[Spells/Third Party/Level 1 Spells/See Future Death.md\|See Future Death]]_       | Divination    | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
+| _[[Spells/Third Party/Level 1 Spells/Shroud Blood.md\|Shroud Blood]]_               | Illusion      | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 1 Spells/Veil of Dusk.md\|Veil of Dusk]]_               | Abjuration    | C       | Humblewood Campaign Setting        | Hit Point Press        |
+| _[[Spells/Third Party/Level 1 Spells/Water Bullet.md\|Water Bullet]]_               | Evocation     | —       | Obojima: Tales from the Tall Grass | 1985 Games             |
+| _[[Spells/Third Party/Level 1 Spells/Whelm Weapon.md\|Whelm Weapon]]_               | Transmutation | C       | Obojima: Tales from the Tall Grass | 1985 Games             |
 
 ### Level 2 Druid Spells
 
-| Name                                                                        | School                      | Special | Source                                  | Publisher              |
-| --------------------------------------------------------------------------- | --------------------------- | ------- | --------------------------------------- | ---------------------- |
-| _[[Spells/Third Party/Level 2 Spells/Earthskin.md\|Earthskin]]_             | Biomancy                    | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
-| _[[Spells/Third Party/Level 2 Spells/Preserve (Loot Tavern).md\|Preserve]]_ | Biomancy                    | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
-| _[[Spells/Third Party/Level 2 Spells/Protection (Spell).md\|Protection]]_   | Abjuration                  | C, M    | Heliana's Guide to Monster Hunting      | Loot Tavern            |
-| _[[Spells/Third Party/Level 2 Spells/Sense Lifeblood.md\|Sense Lifeblood]]_ | Divination (Sangromancy)    | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 2 Spells/Skeletal Tail.md\|Skeletal Tail]]_     | Conjuration (Osteomancy)    | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
-| _[[Spells/Third Party/Level 2 Spells/Spell Signature.md\|Spell Signature]]_ | Divination                  | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
-| _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_       | Evocation                   | —       | The Crooked Moon                        | Avantris Entertainment |
-| _[[Spells/Third Party/Level 2 Spells/Theft of Vitae.md\|Theft of Vitae]]_   | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| Name                                                                        | School        | Special | Source                                  | Publisher              |
+| --------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ---------------------- |
+| _[[Spells/Third Party/Level 2 Spells/Earthskin.md\|Earthskin]]_             | Biomancy      | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
+| _[[Spells/Third Party/Level 2 Spells/Feline Grace.md\|Feline Grace]]_       | Transmutation | —       | Cthulhu by Torchlight                   | Chaosium               |
+| _[[Spells/Third Party/Level 2 Spells/Lifesap Aura.md\|Lifesap Aura]]_       | Necromancy    | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
+| _[[Spells/Third Party/Level 2 Spells/Preserve (Loot Tavern).md\|Preserve]]_ | Biomancy      | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| _[[Spells/Third Party/Level 2 Spells/Protection (Spell).md\|Protection]]_   | Abjuration    | C, M    | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| _[[Spells/Third Party/Level 2 Spells/Sense Lifeblood.md\|Sense Lifeblood]]_ | Divination    | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 2 Spells/Skeletal Tail.md\|Skeletal Tail]]_     | Conjuration   | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
+| _[[Spells/Third Party/Level 2 Spells/Spell Signature.md\|Spell Signature]]_ | Divination    | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
+| _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_       | Evocation     | —       | The Crooked Moon                        | Avantris Entertainment |
+| _[[Spells/Third Party/Level 2 Spells/Theft of Vitae.md\|Theft of Vitae]]_   | Transmutation | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 
 ### Level 3 Druid Spells
 
-| Name                                                                                  | School                      | Special | Source                             | Publisher              |
-| ------------------------------------------------------------------------------------- | --------------------------- | ------- | ---------------------------------- | ---------------------- |
-| _[[Spells/Official/Level 3 Spells/Mireball.md\|Mireball]]_                            | Conjuration                 | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
-| _[[Spells/Third Party/Level 3 Spells/Blood Bond.md\|Blood Bond]]_                     | Enchantment (Sangromancy)   | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 3 Spells/Culling Sickle.md\|Culling Sickle]]_             | Necromancy                  | C       | The Crooked Moon                   | Avantris Entertainment |
-| _[[Spells/Third Party/Level 3 Spells/Extract Iron.md\|Extract Iron]]_                 | Transmutation (Sangromancy) | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 3 Spells/Flash Fever.md\|Flash Fever]]_                   | Necromancy                  | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 3 Spells/Freedom of the Waves.md\|Freedom of the Waves]]_ | Conjuration                 | —       | Tal'Dorei Campaign Setting Reborn  | Darrington Press       |
-| _[[Spells/Third Party/Level 3 Spells/Globe of Twilight.md\|Globe of Twilight]]_       | Conjuration                 | C       | Humblewood Campaign Setting        | Hit Point Press        |
-| _[[Spells/Third Party/Level 3 Spells/Harvest Moonglow.md\|Harvest Moonglow]]_         | Evocation                   | —       | The Crooked Moon                   | Avantris Entertainment |
-| _[[Spells/Third Party/Level 3 Spells/Reanimate.md\|Reanimate]]_                       | Evocation (Sangromancy)     | M       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 3 Spells/Water Wyrm.md\|Water Wyrm]]_                     | Conjuration                 | C       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
-| _[[Spells/Third Party/Level 3 Spells/Zippit!.md\|Zippit!]]_                           | Biomancy                    | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| Name                                                                                  | School        | Special | Source                             | Publisher              |
+| ------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ---------------------- |
+| _[[Spells/Official/Level 3 Spells/Mireball.md\|Mireball]]_                            | Conjuration   | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| _[[Spells/Third Party/Level 3 Spells/Blood Bond.md\|Blood Bond]]_                     | Enchantment   | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 3 Spells/Culling Sickle.md\|Culling Sickle]]_             | Necromancy    | C       | The Crooked Moon                   | Avantris Entertainment |
+| _[[Spells/Third Party/Level 3 Spells/Extract Iron.md\|Extract Iron]]_                 | Transmutation | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 3 Spells/Flash Fever.md\|Flash Fever]]_                   | Necromancy    | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 3 Spells/Freedom of the Waves.md\|Freedom of the Waves]]_ | Conjuration   | —       | Tal'Dorei Campaign Setting Reborn  | Darrington Press       |
+| _[[Spells/Third Party/Level 3 Spells/Globe of Twilight.md\|Globe of Twilight]]_       | Conjuration   | C       | Humblewood Campaign Setting        | Hit Point Press        |
+| _[[Spells/Third Party/Level 3 Spells/Harvest Moonglow.md\|Harvest Moonglow]]_         | Evocation     | —       | The Crooked Moon                   | Avantris Entertainment |
+| _[[Spells/Third Party/Level 3 Spells/Phantom Panther.md\|Phantom Panther]]_           | Conjuration   | C       | Cthulhu by Torchlight              | Chaosium               |
+| _[[Spells/Third Party/Level 3 Spells/Reanimate.md\|Reanimate]]_                       | Evocation     | M       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 3 Spells/Water Wyrm.md\|Water Wyrm]]_                     | Conjuration   | C       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
+| _[[Spells/Third Party/Level 3 Spells/Zippit!.md\|Zippit!]]_                           | Biomancy      | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 
 ### Level 4 Druid Spells
 
-| Name                                                                            | School                  | Special | Source                                  | Publisher              |
-| ------------------------------------------------------------------------------- | ----------------------- | ------- | --------------------------------------- | ---------------------- |
-| _[[Spells/Third Party/Level 4 Spells/Consuming Pyre.md\|Consuming Pyre]]_       | Evocation               | C       | The Crooked Moon                        | Avantris Entertainment |
-| _[[Spells/Third Party/Level 4 Spells/Frogskin.md\|Frogskin]]_                   | Biomancy                | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
-| _[[Spells/Third Party/Level 4 Spells/Lion's Roar.md\|Lion's Roar]]_             | Conjuration             | C       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
-| _[[Spells/Third Party/Level 4 Spells/Marrow Transplant.md\|Marrow Transplant]]_ | Necromancy (Osteomancy) | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
-| _[[Spells/Third Party/Level 4 Spells/Rock Tomb.md\|Rock Tomb]]_                 | Conjuration             | C       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
-| _[[Spells/Third Party/Level 4 Spells/Steelskin.md\|Steelskin]]_                 | Biomancy                | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
-| _[[Spells/Third Party/Level 4 Spells/Stellar Bodies.md\|Stellar Bodies]]_       | Evocation               | —       | Humblewood Campaign Setting             | Hit Point Press        |
+| Name                                                                            | School        | Special | Source                                  | Publisher              |
+| ------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ---------------------- |
+| _[[Spells/Third Party/Level 4 Spells/Consuming Pyre.md\|Consuming Pyre]]_       | Evocation     | C       | The Crooked Moon                        | Avantris Entertainment |
+| _[[Spells/Third Party/Level 4 Spells/Frogskin.md\|Frogskin]]_                   | Biomancy      | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| _[[Spells/Third Party/Level 4 Spells/Lion's Roar.md\|Lion's Roar]]_             | Conjuration   | C       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
+| _[[Spells/Third Party/Level 4 Spells/Marrow Transplant.md\|Marrow Transplant]]_ | Necromancy    | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
+| _[[Spells/Third Party/Level 4 Spells/Rock Tomb.md\|Rock Tomb]]_                 | Conjuration   | C       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
+| _[[Spells/Third Party/Level 4 Spells/Shape Plants.md\|Shape Plants]]_           | Transmutation | —       | Humblewood Campaign Setting             | Hit Point Press        |
+| _[[Spells/Third Party/Level 4 Spells/Steelskin.md\|Steelskin]]_                 | Biomancy      | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
+| _[[Spells/Third Party/Level 4 Spells/Stellar Bodies.md\|Stellar Bodies]]_       | Evocation     | —       | Humblewood Campaign Setting             | Hit Point Press        |
 
 ### Level 5 Druid Spells
 
@@ -72,6 +79,7 @@
 | ------------------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ---------------------- |
 | _[[Spells/Third Party/Level 5 Spells/Bakuryō’s Blessèd Blizzard.md\|Bakuryō’s Blessèd Blizzard]]_ | Conjuration   | C, M    | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Eruption.md\|Eruption]]_                                     | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
+| _[[Spells/Third Party/Level 5 Spells/Feline Chaos.md\|Feline Chaos]]_                             | Conjuration   | C       | Cthulhu by Torchlight              | Chaosium               |
 | _[[Spells/Third Party/Level 5 Spells/Feverskin.md\|Feverskin]]_                                   | Biomancy      | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Field of Reaping.md\|Field of Reaping]]_                     | Necromancy    | C       | The Crooked Moon                   | Avantris Entertainment |
 | _[[Spells/Third Party/Level 5 Spells/Freedom of the Winds.md\|Freedom of the Winds]]_             | Abjuration    | C       | Tal'Dorei Campaign Setting Reborn  | Darrington Press       |
@@ -80,9 +88,9 @@
 
 ### Level 6 Druid Spells
 
-| Name                                                              | School                    | Special | Source                      | Publisher        |
-| ----------------------------------------------------------------- | ------------------------- | ------- | --------------------------- | ---------------- |
-| _[[Spells/Third Party/Level 6 Spells/Blood Tide.md\|Blood Tide]]_ | Conjuration (Sangromancy) | —       | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| Name                                                              | School      | Special | Source                      | Publisher        |
+| ----------------------------------------------------------------- | ----------- | ------- | --------------------------- | ---------------- |
+| _[[Spells/Third Party/Level 6 Spells/Blood Tide.md\|Blood Tide]]_ | Conjuration | —       | Grim Hollow: Player's Guide | Ghostfire Gaming |
 
 ### Level 7 Druid Spells
 

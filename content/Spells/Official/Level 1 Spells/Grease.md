@@ -1,13 +1,19 @@
 ---
 publish: true
 created: 2026-07-24T11:55:05.495-04:00
-modified: 2026-10-02T17:57:39.913-04:00
-published: 2026-10-02T17:57:39.913-04:00
+modified: 2026-10-08T00:38:42.703-04:00
+published: 2026-10-08T00:38:42.703-04:00
 Name: "[[Grease|Grease]]"
 Spell Level: Level 1
 School: Conjuration
-Classes: Artificer, Sorcerer, Wizard
-Third Party Classes: Bender (earth), Magus, Tamer
+Classes:
+  - Artificer
+  - Sorcerer
+  - Wizard
+Third Party Classes:
+  - Bender (earth)
+  - Magus
+  - Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

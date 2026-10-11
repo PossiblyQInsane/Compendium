@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-04T11:20:24.355-04:00
-modified: 2026-10-02T17:50:52.258-04:00
-published: 2026-10-02T17:50:52.258-04:00
+modified: 2026-10-08T00:35:15.768-04:00
+published: 2026-10-08T00:35:15.768-04:00
 Name: "[[Entangle]]"
 Spell Level: Level 1
 School: Conjuration
-Classes: Druid, Ranger
+Classes:
+  - Druid
+  - Ranger
 Third Party Classes: Bender (earth)
 Special: —
 Source: Player's Handbook 5.5e

@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-02T11:30:09.361-04:00
-modified: 2026-08-31T12:17:46.485-04:00
-published: 2026-08-31T12:17:46.485-04:00
+modified: 2026-10-08T12:09:49.734-04:00
+published: 2026-10-08T12:09:49.734-04:00
 Name: "[[Beast Sense]]"
 Spell Level: Level 2
 School: Divination
-Classes: Druid, Ranger
+Classes:
+  - Druid
+  - Ranger
 Special: C, R
 Source: Player's Handbook 5.5e
 Official: true

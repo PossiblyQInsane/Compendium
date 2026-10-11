@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-08-17T20:55:37.687-04:00
-modified: 2026-08-31T15:07:51.965-04:00
-published: 2026-08-31T15:07:51.965-04:00
+modified: 2026-10-08T12:12:54.518-04:00
+published: 2026-10-08T12:12:54.518-04:00
 Name: "[[Incite Greed]]"
 Spell Level: Level 3
 School: Enchantment
-Classes: Cleric, Sorcerer, Warlock, Wizard
+Classes:
+  - Cleric
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C, M
 Source: Acquisitions Incorporated
 Official: true

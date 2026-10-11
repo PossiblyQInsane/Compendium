@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-09-03T10:34:07.661-04:00
-modified: 2026-09-03T10:37:01.225-04:00
-published: 2026-09-03T10:37:01.225-04:00
+modified: 2026-10-09T01:40:50.699-04:00
+published: 2026-10-09T01:40:50.699-04:00
 Name: "[[Lightning Ring]]"
 Spell Level: Level 8
 School: Evocation
-Classes: Druid, Sorcerer, Warlock, Wizard
+Classes:
+  - Druid
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: C
 Source: Arcana Unleashed
 Official: true

@@ -1,10 +1,8 @@
 ---
 publish: true
 created: 2026-08-16T23:17:26.253-04:00
-modified: 2026-09-07T14:17:59.068-04:00
-published: 2026-09-07T14:17:59.068-04:00
-Habitat: Swamp, Underdark, Urban
-Treasure: Any
+modified: 2026-10-10T01:47:06.515-04:00
+published: 2026-10-10T01:47:06.515-04:00
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

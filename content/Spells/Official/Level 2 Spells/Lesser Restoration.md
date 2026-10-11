@@ -1,13 +1,22 @@
 ---
 publish: true
 created: 2026-07-26T12:33:14.969-04:00
-modified: 2026-10-02T18:12:36.927-04:00
-published: 2026-10-02T18:12:36.927-04:00
+modified: 2026-10-08T01:05:16.066-04:00
+published: 2026-10-08T01:05:16.066-04:00
 Name: "[[Lesser Restoration]]"
 Spell Level: Level 2
 School: Abjuration
-Classes: Artificer, Bard, Cleric, Druid, Paladin, Ranger
-Third Party Classes: Bender (water), Illrigger (AoR), Tamer
+Classes:
+  - Artificer
+  - Bard
+  - Cleric
+  - Druid
+  - Paladin
+  - Ranger
+Third Party Classes:
+  - Bender (water)
+  - Illrigger (Architect of Ruin)
+  - Tamer
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

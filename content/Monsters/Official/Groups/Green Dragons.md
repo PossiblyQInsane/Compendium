@@ -3,10 +3,8 @@ publish: true
 aliases:
   - green dragon
 created: 2026-09-07T14:20:01.209-04:00
-modified: 2026-09-07T21:54:53.173-04:00
-published: 2026-09-07T21:54:53.173-04:00
-Habitat: Forest
-Treasure: Arcana
+modified: 2026-10-10T01:47:17.997-04:00
+published: 2026-10-10T01:47:17.997-04:00
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

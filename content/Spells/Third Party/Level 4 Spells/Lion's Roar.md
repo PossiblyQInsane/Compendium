@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-10-03T16:57:12.796-04:00
-modified: 2026-10-03T17:12:21.424-04:00
-published: 2026-10-03T17:12:21.424-04:00
+modified: 2026-10-09T01:09:33.956-04:00
+published: 2026-10-09T01:09:33.956-04:00
 Name: "[[Lion's Roar]]"
 Spell Level: Level 4
 School: Conjuration
-Classes: Druid, Ranger, Sorcerer, Wizard
+Classes:
+  - Druid
+  - Ranger
+  - Sorcerer
+  - Wizard
 Third Party Classes: Bender (fire)
 Special: C
 Source: Ryoko's Guide to the Yokai Realms

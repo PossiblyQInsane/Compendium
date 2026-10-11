@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-10-05T17:42:28.807-04:00
-modified: 2026-10-05T17:52:59.978-04:00
-published: 2026-10-05T17:52:59.978-04:00
+modified: 2026-10-09T01:06:28.141-04:00
+published: 2026-10-09T01:06:28.141-04:00
 Name: "[[Summon Greater Demon]]"
 Spell Level: Level 4
 School: Conjuration
-Classes: Warlock, Wizard
+Classes:
+  - Warlock
+  - Wizard
 Special: C
 Source: Xanathar's Guide to Everything
 Official: true

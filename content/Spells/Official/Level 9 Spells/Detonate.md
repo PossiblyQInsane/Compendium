@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-03T02:01:22.178-04:00
-modified: 2026-09-03T02:04:12.571-04:00
-published: 2026-09-03T02:04:12.571-04:00
+modified: 2026-10-09T01:43:05.984-04:00
+published: 2026-10-09T01:43:05.984-04:00
 Name: "[[Detonate]]"
 Spell Level: Level 9
 School: Evocation
-Classes: Sorcerer, Warlock, Wizard
+Classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 Special: —
 Source: Arcana Unleashed
 Official: true

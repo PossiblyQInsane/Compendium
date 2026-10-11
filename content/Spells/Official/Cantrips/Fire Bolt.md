@@ -1,13 +1,19 @@
 ---
 publish: true
 created: 2026-07-25T21:26:54.553-04:00
-modified: 2026-10-02T17:40:54.558-04:00
-published: 2026-10-02T17:40:54.558-04:00
+modified: 2026-10-08T00:08:44.959-04:00
+published: 2026-10-08T00:08:44.959-04:00
 Name: "[[Fire Bolt|Fire Bolt]]"
 Spell Level: Cantrip
 School: Evocation
-Classes: Artificer, Sorcerer, Wizard
-Third Party Classes: Bender (fire), Illrigger (AoR), Magus
+Classes:
+  - Artificer
+  - Sorcerer
+  - Wizard
+Third Party Classes:
+  - Bender (fire)
+  - Illrigger (Architect of Ruin)
+  - Magus
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

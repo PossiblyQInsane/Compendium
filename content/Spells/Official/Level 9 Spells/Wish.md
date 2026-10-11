@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-08-03T22:21:06.474-04:00
-modified: 2026-09-03T01:05:35.201-04:00
-published: 2026-09-03T01:05:35.201-04:00
+modified: 2026-10-09T01:45:48.514-04:00
+published: 2026-10-09T01:45:48.514-04:00
 Name: "[[Wish]]"
 Spell Level: Level 9
 School: Conjuration
-Classes: Sorcerer, Wizard
+Classes:
+  - Sorcerer
+  - Wizard
 Special: —
 Source: Player's Handbook 5.5e
 Official: true

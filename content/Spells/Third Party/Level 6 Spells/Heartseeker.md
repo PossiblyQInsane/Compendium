@@ -1,12 +1,15 @@
 ---
 publish: true
 created: 2026-09-23T11:36:04.505-04:00
-modified: 2026-09-23T11:40:33.738-04:00
-published: 2026-09-23T11:40:33.738-04:00
+modified: 2026-10-09T01:32:18.995-04:00
+published: 2026-10-09T01:32:18.995-04:00
 Name: "[[Heartseeker]]"
 Spell Level: Level 6
-School: Evocation (Sangromancy)
-Classes: Sorcerer, Wizard
+School: Evocation
+Subschool: Sangromancy
+Classes:
+  - Sorcerer
+  - Wizard
 Special: C, M
 Source: "Grim Hollow: Player's Guide"
 Official: false

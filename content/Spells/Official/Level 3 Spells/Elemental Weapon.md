@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2026-07-26T13:39:21.531-04:00
-modified: 2026-08-31T15:06:20.987-04:00
-published: 2026-08-31T15:06:20.987-04:00
+modified: 2026-10-08T11:38:55.352-04:00
+published: 2026-10-08T11:38:55.352-04:00
 Name: "[[Elemental Weapon]]"
 Spell Level: Level 3
 School: Transmutation
-Classes: Artificer, Druid, Paladin, Ranger
+Classes:
+  - Artificer
+  - Druid
+  - Paladin
+  - Ranger
 Special: C
 Source: Player's Handbook 5.5e
 Official: true
