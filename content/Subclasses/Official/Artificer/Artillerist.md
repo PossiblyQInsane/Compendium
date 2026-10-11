@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-28T11:54:00.956-04:00
-modified: 2026-09-21T03:41:22.309-04:00
-published: 2026-09-21T03:41:22.309-04:00
+modified: 2026-10-11T17:00:59.711-04:00
+published: 2026-10-11T17:00:59.711-04:00
 Name: "[[Artillerist]]"
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"
@@ -67,7 +67,7 @@ _**Activate Cannon (Requires You to Be within 60 Feet of the Cannon).**_ As a [[
 
 ### Level 5: Arcane Firearm
 
-When you finish a [[Long Rest]], you can use [[Woodcarver's Tools]] to carve special sigils into a [[Arcane Focus|Rod]], [[Arcane Focus|Staff]], [[Arcane Focus|Wand]], or [[Equipment.base#Martial Ranged Weapons|Martial Ranged weapon]] and thereby turn it into your Arcane Firearm. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.
+When you finish a [[Long Rest]], you can use [[Woodcarver's Tools]] to carve special sigils into a [[Arcane Focus|Rod]], [[Arcane Focus|Staff]], [[Arcane Focus|Wand]], or Martial Ranged weapon and thereby turn it into your Arcane Firearm. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.
 
 You can use your Arcane Firearm as a [[Spellcasting Focus]] for your Artificer spells. When you cast an Artificer spell through the firearm, roll 1d8, and you gain a bonus to one of the spell’s damage rolls equal to the number rolled.
 

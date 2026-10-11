@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-02T10:54:24.605-04:00
-modified: 2026-10-07T11:53:02.133-04:00
-published: 2026-10-07T11:53:02.133-04:00
+modified: 2026-10-11T16:59:08.148-04:00
+published: 2026-10-11T16:59:08.148-04:00
 Name: "[[Gunslinger]]"
 Source: Valda's Spire of Secrets
 Official: false
@@ -13,6 +13,16 @@ Edition: 5.5e
 <div class="source">Valda's Spire of Secrets<br>Mage Hand Press</div>
 
 ![[Images/Gunslinger.png]]
+
+Risk is in a Gunslinger’s blood. They are bold renegades, bucking tradition and forging a new path with dangerous and inelegant firearms. Gunslingers are infamous for surviving by their wits and relying on split-second timing and a considerable amount of luck to survive.
+
+#### Guts and Gunpowder
+
+Black powder isn’t for the faint of heart. Its thunderous applause is volatile and imprecise—a barely controlled explosion directed at an enemy. Only the truly fearless seek to master it. But Gunslingers have nerves of steel, hurling death from their guns in a roaring cacophony. Adapted for shootouts, gunslingers are mobile and daring, knowing that life or death hangs on snap decision-making and one’s own mettle.
+
+#### Dangerous Outsiders
+
+A Gunslinger’s explosive lifestyle lends well to wandering and adventuring. Gunslingers often shoot first and ask questions later, an attitude which earns them few friends and bountiful enemies. In their travels, most gunslingers are secretive and take great lengths to go unnoticed, lest they be spotted by old foes with scores to settle.
 
 ## Core Gunslinger Traits
 
@@ -25,18 +35,8 @@ Edition: 5.5e
 | **Armor Training**                                                       | Light armor                                                                                                                                                                       |
 | **Starting Equipment**                                                   | _Choose A or B:_ (A) [[Leather Armor]], 2 [[Dagger\|Daggers]], [[Revolver (VSoS)\|Revolver]], 50 [[Firearm Ammunition\|Bullets]], [[Explorer's Pack]], and 11 GP; or (B) 175 GP   |
 
-> [!caption|ws-med]
+> [!caption|left ws-med]
 > ![[Images/Gunslinger2.png]]
-
-Risk is in a Gunslinger’s blood. They are bold renegades, bucking tradition and forging a new path with dangerous and inelegant firearms. Gunslingers are infamous for surviving by their wits and relying on split-second timing and a considerable amount of luck to survive.
-
-#### Guts and Gunpowder
-
-Black powder isn’t for the faint of heart. Its thunderous applause is volatile and imprecise—a barely controlled explosion directed at an enemy. Only the truly fearless seek to master it. But Gunslingers have nerves of steel, hurling death from their guns in a roaring cacophony. Adapted for shootouts, gunslingers are mobile and daring, knowing that life or death hangs on snap decision-making and one’s own mettle.
-
-#### Dangerous Outsiders
-
-A Gunslinger’s explosive lifestyle lends well to wandering and adventuring. Gunslingers often shoot first and ask questions later, an attitude which earns them few friends and bountiful enemies. In their travels, most gunslingers are secretive and take great lengths to go unnoticed, lest they be spotted by old foes with scores to settle.
 
 ## Becoming a Gunslinger…
 
