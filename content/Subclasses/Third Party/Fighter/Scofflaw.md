@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-24T01:55:40.981-04:00
-modified: 2026-09-21T12:44:47.583-04:00
-published: 2026-09-21T12:44:47.583-04:00
+modified: 2026-10-11T18:59:39.155-04:00
+published: 2026-10-11T18:59:39.155-04:00
 Name: "[[Scofflaw]]"
 Parent Class: "[[Fighter]]"
 Source: Humblewood Campaign Setting
@@ -29,7 +29,7 @@ At 3rd level, you are adept at integrating insults and barbs into your fighting 
 
 ### Level 3: Brutal Brawler
 
-At 3rd level, your tavernside scuffles have honed your ability to deal damage with just about anything that’s handy. You have proficiency with improvised weapons, and treat any improvised weapon you handle as if it has the [[finesse]] quality.
+At 3rd level, your tavernside scuffles have honed your ability to deal damage with just about anything that’s handy. You have proficiency with [[Improvised Weapons]], and treat any improvised weapon you handle as if it has the [[finesse]] quality.
 
 Additionally, whenever you hit with an improvised weapon, you may spend a [[bonus action]] to break it over your opponent. Doing this destroys the weapon, but deals the maximum number each of the weapon’s damage dice could deal to the target. Any additional dice added to the attack’s damage roll are not affected by this ability.
 
