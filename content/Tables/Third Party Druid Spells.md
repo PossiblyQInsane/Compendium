@@ -72,6 +72,7 @@
 | _[[Spells/Third Party/Level 4 Spells/Shape Plants.md\|Shape Plants]]_           | Transmutation | —       | Humblewood Campaign Setting             | Hit Point Press        |
 | _[[Spells/Third Party/Level 4 Spells/Steelskin.md\|Steelskin]]_                 | Biomancy      | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 | _[[Spells/Third Party/Level 4 Spells/Stellar Bodies.md\|Stellar Bodies]]_       | Evocation     | —       | Humblewood Campaign Setting             | Hit Point Press        |
+| _[[Spells/Third Party/Level 4 Spells/Wall of Death.md\|Wall of Death]]_         | Necromancy    | C       | The Illrigger Revised                   | MCDM                   |
 
 ### Level 5 Druid Spells
 

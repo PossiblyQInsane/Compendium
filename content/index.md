@@ -31,5 +31,6 @@ published: 2026-10-07T11:52:41.176-04:00
 | Name                                                      | Source                      | Publisher                       | Edition |
 | --------------------------------------------------------- | --------------------------- | ------------------------------- | ------- |
 | [[Classes/Third Party/Gunslinger.md\|Gunslinger]]         | Valda's Spire of Secrets    | Mage Hand Press                 | 5.5e    |
+| [[Classes/Third Party/Illrigger.md\|Illrigger]]           | The Illrigger Revised       | MCDM                            | 5e      |
 | [[Classes/Third Party/Monster Hunter.md\|Monster Hunter]] | Grim Hollow: Player's Guide | Ghostfire Gaming                | 5.5e    |
 | [[Classes/Third Party/Pugilist.md\|Pugilist]]             | The Pugilist Class          | Sterling Vermin Adventuring Co. | 5.5e    |

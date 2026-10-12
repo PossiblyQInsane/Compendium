@@ -40,6 +40,7 @@
 
 | Name                                                                                        | School        | Special | Source                                  | Publisher              |
 | ------------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ---------------------- |
+| _[[Spells/Third Party/Level 4 Spells/Aura of Desecration.md\|Aura of Desecration]]_         | Abjuration    | C       | The Illrigger Revised                   | MCDM                   |
 | _[[Spells/Third Party/Level 4 Spells/Blinding Radiance.md\|Blinding Radiance]]_             | Evocation     | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Level 4 Spells/Consume Mind.md\|Consume Mind]]_                       | Necromancy    | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 4 Spells/Dire Warning.md\|Dire Warning]]_                       | Divination    | —       | Valda's Spire of Secrets                | Mage Hand Press        |

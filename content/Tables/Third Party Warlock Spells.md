@@ -11,8 +11,10 @@
 | _[[Spells/Third Party/Cantrips/Concussion.md\|Concussion]]_                   | Evocation   | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Cantrips/Confounding Shadows.md\|Confounding Shadows]]_ | Conjuration | —       | Cthulhu by Torchlight                   | Chaosium               |
 | _[[Spells/Third Party/Cantrips/Frigid Blade.md\|Frigid Blade]]_               | Evocation   | M       | Valda's Spire of Secrets                | Mage Hand Press        |
+| _[[Spells/Third Party/Cantrips/Hellfire.md\|Hellfire]]_                       | Evocation   | —       | The Illrigger Revised                   | MCDM                   |
 | _[[Spells/Third Party/Cantrips/Jolt.md\|Jolt]]_                               | Evocation   | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
 | _[[Spells/Third Party/Cantrips/Swarm.md\|Swarm]]_                             | Biomancy    | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| _[[Spells/Third Party/Cantrips/Vengeful Blade.md\|Vengeful Blade]]_           | Evocation   | M       | The Illrigger Revised                   | MCDM                   |
 
 ### Level 1 Warlock Spells
 
@@ -24,6 +26,7 @@
 | _[[Spells/Third Party/Level 1 Spells/Duplicate.md\|Duplicate]]_               | Conjuration   | —       | Obojima: Tales from the Tall Grass      | 1985 Games       |
 | _[[Spells/Third Party/Level 1 Spells/Elevated Sight.md\|Elevated Sight]]_     | Divination    | C       | Humblewood Campaign Setting             | Hit Point Press  |
 | _[[Spells/Third Party/Level 1 Spells/Fractured Shell.md\|Fractured Shell]]_   | Transmutation | C       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM         |
+| _[[Spells/Third Party/Level 1 Spells/Hell's Lash.md\|Hell's Lash]]_           | Evocation     | C       | The Illrigger Revised                   | MCDM             |
 | _[[Spells/Third Party/Level 1 Spells/Phalangeal Shot.md\|Phalangeal Shot]]_   | Evocation     | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM         |
 | _[[Spells/Third Party/Level 1 Spells/Somnolence.md\|Somnolence]]_             | Enchantment   | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming |
 | _[[Spells/Third Party/Level 1 Spells/Tide of Darkness.md\|Tide of Darkness]]_ | Conjuration   | —       | Cthulhu by Torchlight                   | Chaosium         |
@@ -54,6 +57,7 @@
 | _[[Spells/Third Party/Level 3 Spells/Flash Fever.md\|Flash Fever]]_                 | Necromancy    | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 3 Spells/Flashbang.md\|Flashbang]]_                     | Evocation     | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 | _[[Spells/Third Party/Level 3 Spells/Globe of Twilight.md\|Globe of Twilight]]_     | Conjuration   | C       | Humblewood Campaign Setting             | Hit Point Press        |
+| _[[Spells/Third Party/Level 3 Spells/Mote of Hell.md\|Mote of Hell]]_               | Conjuration   | C       | The Illrigger Revised                   | MCDM                   |
 | _[[Spells/Third Party/Level 3 Spells/Osseous Impalement.md\|Osseous Impalement]]_   | Conjuration   | C       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | _[[Spells/Third Party/Level 3 Spells/Phantom Panther.md\|Phantom Panther]]_         | Conjuration   | C       | Cthulhu by Torchlight                   | Chaosium               |
 | _[[Spells/Third Party/Level 3 Spells/Sanguine Poppet.md\|Sanguine Poppet]]_         | Transmutation | C, M    | Grim Hollow: Player's Guide             | Ghostfire Gaming       |

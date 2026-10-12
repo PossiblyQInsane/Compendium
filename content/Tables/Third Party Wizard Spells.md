@@ -13,9 +13,11 @@
 | _[[Spells/Third Party/Cantrips/Dissolution.md\|Dissolution]]_                 | Transmutation | —       | The Crooked Moon                        | Avantris Entertainment |
 | _[[Spells/Third Party/Cantrips/Finger Guns.md\|Finger Guns]]_                 | Evocation     | —       | Valda's Spire of Secrets                | Mage Hand Press        |
 | _[[Spells/Third Party/Cantrips/Frigid Blade.md\|Frigid Blade]]_               | Evocation     | M       | Valda's Spire of Secrets                | Mage Hand Press        |
+| _[[Spells/Third Party/Cantrips/Hellfire.md\|Hellfire]]_                       | Evocation     | —       | The Illrigger Revised                   | MCDM                   |
 | _[[Spells/Third Party/Cantrips/Jolt.md\|Jolt]]_                               | Evocation     | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
 | _[[Spells/Third Party/Cantrips/Moment to Think.md\|Moment to Think]]_         | Transmutation | —       | Valda's Spire of Secrets                | Mage Hand Press        |
 | _[[Spells/Third Party/Cantrips/Smokescreen.md\|Smokescreen]]_                 | Conjuration   | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| _[[Spells/Third Party/Cantrips/Vengeful Blade.md\|Vengeful Blade]]_           | Evocation     | M       | The Illrigger Revised                   | MCDM                   |
 | _[[Spells/Third Party/Cantrips/Water Whip.md\|Water Whip]]_                   | Transmutation | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 
 ### Level 1 Wizard Spells
@@ -31,6 +33,7 @@
 | _[[Spells/Third Party/Level 1 Spells/Earthen Uppercut.md\|Earthen Uppercut]]_           | Transmutation | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern      |
 | _[[Spells/Third Party/Level 1 Spells/Elevated Sight.md\|Elevated Sight]]_               | Divination    | C       | Humblewood Campaign Setting             | Hit Point Press  |
 | _[[Spells/Third Party/Level 1 Spells/Fractured Shell.md\|Fractured Shell]]_             | Transmutation | C       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM         |
+| _[[Spells/Third Party/Level 1 Spells/Hell's Lash.md\|Hell's Lash]]_                     | Evocation     | C       | The Illrigger Revised                   | MCDM             |
 | _[[Spells/Third Party/Level 1 Spells/Phalangeal Shot.md\|Phalangeal Shot]]_             | Evocation     | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM         |
 | _[[Spells/Third Party/Level 1 Spells/See Future Death.md\|See Future Death]]_           | Divination    | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern      |
 | _[[Spells/Third Party/Level 1 Spells/Shroud Blood.md\|Shroud Blood]]_                   | Illusion      | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming |
@@ -69,6 +72,7 @@
 | _[[Spells/Third Party/Level 3 Spells/Displacing Maw.md\|Displacing Maw]]_         | Conjuration   | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | _[[Spells/Third Party/Level 3 Spells/Extract Iron.md\|Extract Iron]]_             | Transmutation | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 3 Spells/Flashbang.md\|Flashbang]]_                   | Evocation     | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
+| _[[Spells/Third Party/Level 3 Spells/Mote of Hell.md\|Mote of Hell]]_             | Conjuration   | C       | The Illrigger Revised                   | MCDM                   |
 | _[[Spells/Third Party/Level 3 Spells/Osseous Impalement.md\|Osseous Impalement]]_ | Conjuration   | C       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | _[[Spells/Third Party/Level 3 Spells/Phantom Panther.md\|Phantom Panther]]_       | Conjuration   | C       | Cthulhu by Torchlight                   | Chaosium               |
 | _[[Spells/Third Party/Level 3 Spells/Shadowy Eruption.md\|Shadowy Eruption]]_     | Conjuration   | —       | Cthulhu by Torchlight                   | Chaosium               |
@@ -95,6 +99,7 @@
 | _[[Spells/Third Party/Level 4 Spells/Steelskin.md\|Steelskin]]_                             | Biomancy    | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 | _[[Spells/Third Party/Level 4 Spells/Stellar Bodies.md\|Stellar Bodies]]_                   | Evocation   | —       | Humblewood Campaign Setting             | Hit Point Press        |
 | _[[Spells/Third Party/Level 4 Spells/Viscous Sheath.md\|Viscous Sheath]]_                   | Necromancy  | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 4 Spells/Wall of Death.md\|Wall of Death]]_                     | Necromancy  | C       | The Illrigger Revised                   | MCDM                   |
 
 ### Level 5 Wizard Spells
 

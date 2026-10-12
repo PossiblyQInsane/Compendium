@@ -10,6 +10,7 @@
 | ----------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ---------------------- |
 | _[[Spells/Third Party/Level 2 Spells/Bloodletter.md\|Bloodletter]]_                 | Necromancy    | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 2 Spells/Chain of Conviction.md\|Chain of Conviction]]_ | Conjuration   | —       | The Crooked Moon                   | Avantris Entertainment |
+| _[[Spells/Third Party/Level 2 Spells/Infernal Challenge.md\|Infernal Challenge]]_   | Enchantment   | C       | The Illrigger Revised              | MCDM                   |
 | _[[Spells/Third Party/Level 2 Spells/Lifesap Aura.md\|Lifesap Aura]]_               | Necromancy    | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
 | _[[Spells/Third Party/Level 2 Spells/Preserve (Loot Tavern).md\|Preserve]]_         | Biomancy      | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 2 Spells/Protection (Spell).md\|Protection]]_           | Abjuration    | C, M    | Heliana's Guide to Monster Hunting | Loot Tavern            |
@@ -27,8 +28,10 @@
 
 | Name                                                                                        | School     | Special | Source                             | Publisher              |
 | ------------------------------------------------------------------------------------------- | ---------- | ------- | ---------------------------------- | ---------------------- |
+| _[[Spells/Third Party/Level 4 Spells/Aura of Desecration.md\|Aura of Desecration]]_         | Abjuration | C       | The Illrigger Revised              | MCDM                   |
 | _[[Spells/Third Party/Level 4 Spells/Blinding Radiance.md\|Blinding Radiance]]_             | Evocation  | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 4 Spells/Consuming Pyre.md\|Consuming Pyre]]_                   | Evocation  | C       | The Crooked Moon                   | Avantris Entertainment |
+| _[[Spells/Third Party/Level 4 Spells/Maligned Weapon.md\|Maligned Weapon]]_                 | Evocation  | C       | The Illrigger Revised              | MCDM                   |
 | _[[Spells/Third Party/Level 4 Spells/Sacrificial Siphon.md\|Sacrificial Siphon]]_           | Necromancy | C       | The Crooked Moon                   | Avantris Entertainment |
 | _[[Spells/Third Party/Level 4 Spells/Sanctum of the Shepherd.md\|Sanctum of the Shepherd]]_ | Abjuration | M       | The Crooked Moon                   | Avantris Entertainment |
 | _[[Spells/Third Party/Level 4 Spells/Supernal Smite.md\|Supernal Smite]]_                   | Evocation  | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
