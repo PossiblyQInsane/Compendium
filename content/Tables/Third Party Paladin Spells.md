@@ -1,8 +1,9 @@
 ### Level 1 Paladin Spells
 
-| Name                                                                      | School      | Special | Source                                  | Publisher |
-| ------------------------------------------------------------------------- | ----------- | ------- | --------------------------------------- | --------- |
-| _[[Spells/Third Party/Level 1 Spells/Spectral Slash.md\|Spectral Slash]]_ | Conjuration | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM  |
+| Name                                                                      | School      | Special | Source                                  | Publisher                       |
+| ------------------------------------------------------------------------- | ----------- | ------- | --------------------------------------- | ------------------------------- |
+| _[[Spells/Third Party/Level 1 Spells/Spectral Slash.md\|Spectral Slash]]_ | Conjuration | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
+| _[[Spells/Third Party/Level 1 Spells/Weapon Aegis.md\|Weapon Aegis]]_     | Abjuration  | C       | The Magus Class                         | Sterling Vermin Adventuring Co. |
 
 ### Level 2 Paladin Spells
 
@@ -20,9 +21,10 @@
 
 ### Level 3 Paladin Spells
 
-| Name                                                                    | School      | Special | Source                                  | Publisher |
-| ----------------------------------------------------------------------- | ----------- | ------- | --------------------------------------- | --------- |
-| _[[Spells/Third Party/Level 3 Spells/Spectral Fury.md\|Spectral Fury]]_ | Conjuration | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM  |
+| Name                                                                    | School      | Special | Source                                  | Publisher                       |
+| ----------------------------------------------------------------------- | ----------- | ------- | --------------------------------------- | ------------------------------- |
+| _[[Spells/Third Party/Level 3 Spells/Spectral Fury.md\|Spectral Fury]]_ | Conjuration | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
+| _[[Spells/Third Party/Level 3 Spells/Strike Order.md\|Strike Order]]_   | Enchantment | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
 
 ### Level 4 Paladin Spells
 

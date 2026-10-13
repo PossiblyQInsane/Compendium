@@ -1,44 +1,51 @@
 ### Cantrips (Level 0 Sorcerer Spells)
 
-| Name                                                                          | School        | Special | Source                                  | Publisher              |
-| ----------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ---------------------- |
-| _[[Spells/Third Party/Cantrips/Arc Blade.md\|Arc Blade]]_                     | Evocation     | M       | Valda's Spire of Secrets                | Mage Hand Press        |
-| _[[Spells/Third Party/Cantrips/Blood Bolt.md\|Blood Bolt]]_                   | Necromancy    | —       | The Crooked Moon                        | Avantris Entertainment |
-| _[[Spells/Third Party/Cantrips/Brittle Bone Throw.md\|Brittle Bone Throw]]_   | Conjuration   | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
-| _[[Spells/Third Party/Cantrips/Burning Blade.md\|Burning Blade]]_             | Evocation     | M       | Valda's Spire of Secrets                | Mage Hand Press        |
-| _[[Spells/Third Party/Cantrips/Cat's Spring.md\|Cat's Spring]]_               | Conjuration   | —       | Cthulhu by Torchlight                   | Chaosium               |
-| _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_           | Illusion      | —       | Valda's Spire of Secrets                | Mage Hand Press        |
-| _[[Spells/Third Party/Cantrips/Concussion.md\|Concussion]]_                   | Evocation     | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
-| _[[Spells/Third Party/Cantrips/Confounding Shadows.md\|Confounding Shadows]]_ | Conjuration   | —       | Cthulhu by Torchlight                   | Chaosium               |
-| _[[Spells/Third Party/Cantrips/Finger Guns.md\|Finger Guns]]_                 | Evocation     | —       | Valda's Spire of Secrets                | Mage Hand Press        |
-| _[[Spells/Third Party/Cantrips/Frigid Blade.md\|Frigid Blade]]_               | Evocation     | M       | Valda's Spire of Secrets                | Mage Hand Press        |
-| _[[Spells/Third Party/Cantrips/Hellfire.md\|Hellfire]]_                       | Evocation     | —       | The Illrigger Revised                   | MCDM                   |
-| _[[Spells/Third Party/Cantrips/Jolt.md\|Jolt]]_                               | Evocation     | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
-| _[[Spells/Third Party/Cantrips/Moment to Think.md\|Moment to Think]]_         | Transmutation | —       | Valda's Spire of Secrets                | Mage Hand Press        |
-| _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_ | Illusion      | —       | The Crooked Moon                        | Avantris Entertainment |
-| _[[Spells/Third Party/Cantrips/Smokescreen.md\|Smokescreen]]_                 | Conjuration   | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
-| _[[Spells/Third Party/Cantrips/Swarm.md\|Swarm]]_                             | Biomancy      | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
-| _[[Spells/Third Party/Cantrips/Vengeful Blade.md\|Vengeful Blade]]_           | Evocation     | M       | The Illrigger Revised                   | MCDM                   |
-| _[[Spells/Third Party/Cantrips/Water Whip.md\|Water Whip]]_                   | Transmutation | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| Name                                                                          | School        | Special | Source                                  | Publisher                       |
+| ----------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ------------------------------- |
+| _[[Spells/Third Party/Cantrips/Arc Blade.md\|Arc Blade]]_                     | Evocation     | M       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Baffle.md\|Baffle]]_                           | Enchantment   | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Blood Bolt.md\|Blood Bolt]]_                   | Necromancy    | —       | The Crooked Moon                        | Avantris Entertainment          |
+| _[[Spells/Third Party/Cantrips/Brittle Bone Throw.md\|Brittle Bone Throw]]_   | Conjuration   | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
+| _[[Spells/Third Party/Cantrips/Burning Blade.md\|Burning Blade]]_             | Evocation     | M       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Cat's Spring.md\|Cat's Spring]]_               | Conjuration   | —       | Cthulhu by Torchlight                   | Chaosium                        |
+| _[[Spells/Third Party/Cantrips/Caustic Claw.md\|Caustic Claw]]_               | Transmutation | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_           | Illusion      | —       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Concussion.md\|Concussion]]_                   | Evocation     | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Confounding Shadows.md\|Confounding Shadows]]_ | Conjuration   | —       | Cthulhu by Torchlight                   | Chaosium                        |
+| _[[Spells/Third Party/Cantrips/Demiplanar Pitch.md\|Demiplanar Pitch]]_       | Conjuration   | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Finger Guns.md\|Finger Guns]]_                 | Evocation     | —       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Frigid Blade.md\|Frigid Blade]]_               | Evocation     | M       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Hellfire.md\|Hellfire]]_                       | Evocation     | —       | The Illrigger Revised                   | MCDM                            |
+| _[[Spells/Third Party/Cantrips/Jolt.md\|Jolt]]_                               | Evocation     | —       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
+| _[[Spells/Third Party/Cantrips/Moment to Think.md\|Moment to Think]]_         | Transmutation | —       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_ | Illusion      | —       | The Crooked Moon                        | Avantris Entertainment          |
+| _[[Spells/Third Party/Cantrips/Obscuring Prick.md\|Obscuring Prick]]_         | Illusion      | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Phantasmal Feint.md\|Phantasmal Feint]]_       | Illusion      | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Smokescreen.md\|Smokescreen]]_                 | Conjuration   | C       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Swarm.md\|Swarm]]_                             | Biomancy      | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Vengeful Blade.md\|Vengeful Blade]]_           | Evocation     | M       | The Illrigger Revised                   | MCDM                            |
+| _[[Spells/Third Party/Cantrips/Water Whip.md\|Water Whip]]_                   | Transmutation | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
 
 ### Level 1 Sorcerer Spells
 
-| Name                                                                                    | School        | Special | Source                                  | Publisher              |
-| --------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ---------------------- |
-| _[[Spells/Third Party/Level 1 Spells/Accelerate-Decelerate.md\|Accelerate/Decelerate]]_ | Transmutation | —       | Valda's Spire of Secrets                | Mage Hand Press        |
-| _[[Spells/Third Party/Level 1 Spells/Ancestral Communion.md\|Ancestral Communion]]_     | Divination    | C       | The Crooked Moon                        | Avantris Entertainment |
-| _[[Spells/Third Party/Level 1 Spells/Boil Blood.md\|Boil Blood]]_                       | Transmutation | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 1 Spells/Consumption.md\|Consumption]]_                     | Evocation     | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 1 Spells/Delay.md\|Delay]]_                                 | Transmutation | —       | Valda's Spire of Secrets                | Mage Hand Press        |
-| _[[Spells/Third Party/Level 1 Spells/Duplicate.md\|Duplicate]]_                         | Conjuration   | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
-| _[[Spells/Third Party/Level 1 Spells/Hell's Lash.md\|Hell's Lash]]_                     | Evocation     | C       | The Illrigger Revised                   | MCDM                   |
-| _[[Spells/Third Party/Level 1 Spells/Phalangeal Shot.md\|Phalangeal Shot]]_             | Evocation     | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
-| _[[Spells/Third Party/Level 1 Spells/See Future Death.md\|See Future Death]]_           | Divination    | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
-| _[[Spells/Third Party/Level 1 Spells/Tide of Darkness.md\|Tide of Darkness]]_           | Conjuration   | —       | Cthulhu by Torchlight                   | Chaosium               |
-| _[[Spells/Third Party/Level 1 Spells/Umbral Tendril.md\|Umbral Tendril]]_               | Evocation     | —       | Cthulhu by Torchlight                   | Chaosium               |
-| _[[Spells/Third Party/Level 1 Spells/Vibrating Humors.md\|Vibrating Humors]]_           | Evocation     | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 1 Spells/Water Bullet.md\|Water Bullet]]_                   | Evocation     | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
-| _[[Spells/Third Party/Level 1 Spells/Whelm Weapon.md\|Whelm Weapon]]_                   | Transmutation | C       | Obojima: Tales from the Tall Grass      | 1985 Games             |
+| Name                                                                                    | School        | Special | Source                                  | Publisher                       |
+| --------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ------------------------------- |
+| _[[Spells/Third Party/Level 1 Spells/Accelerate-Decelerate.md\|Accelerate/Decelerate]]_ | Transmutation | —       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| _[[Spells/Third Party/Level 1 Spells/Ancestral Communion.md\|Ancestral Communion]]_     | Divination    | C       | The Crooked Moon                        | Avantris Entertainment          |
+| _[[Spells/Third Party/Level 1 Spells/Boil Blood.md\|Boil Blood]]_                       | Transmutation | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 1 Spells/Consumption.md\|Consumption]]_                     | Evocation     | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 1 Spells/Delay.md\|Delay]]_                                 | Transmutation | —       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| _[[Spells/Third Party/Level 1 Spells/Duplicate.md\|Duplicate]]_                         | Conjuration   | —       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
+| _[[Spells/Third Party/Level 1 Spells/Hell's Lash.md\|Hell's Lash]]_                     | Evocation     | C       | The Illrigger Revised                   | MCDM                            |
+| _[[Spells/Third Party/Level 1 Spells/Phalangeal Shot.md\|Phalangeal Shot]]_             | Evocation     | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
+| _[[Spells/Third Party/Level 1 Spells/See Future Death.md\|See Future Death]]_           | Divination    | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
+| _[[Spells/Third Party/Level 1 Spells/Spell Aegis.md\|Spell Aegis]]_                     | Abjuration    | C       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Level 1 Spells/Tide of Darkness.md\|Tide of Darkness]]_           | Conjuration   | —       | Cthulhu by Torchlight                   | Chaosium                        |
+| _[[Spells/Third Party/Level 1 Spells/Umbral Tendril.md\|Umbral Tendril]]_               | Evocation     | —       | Cthulhu by Torchlight                   | Chaosium                        |
+| _[[Spells/Third Party/Level 1 Spells/Vibrating Humors.md\|Vibrating Humors]]_           | Evocation     | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 1 Spells/Water Bullet.md\|Water Bullet]]_                   | Evocation     | —       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
+| _[[Spells/Third Party/Level 1 Spells/Weapon Aegis.md\|Weapon Aegis]]_                   | Abjuration    | C       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Level 1 Spells/Whelm Weapon.md\|Whelm Weapon]]_                   | Transmutation | C       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
 
 ### Level 2 Sorcerer Spells
 
@@ -93,18 +100,19 @@
 
 ### Level 5 Sorcerer Spells
 
-| Name                                                                                          | School        | Special | Source                                  | Publisher        |
-| --------------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ---------------- |
-| _[[Spells/Third Party/Level 5 Spells/Create Spirit Train Stop.md\|Create Spirit Train Stop]]_ | Conjuration   | M       | Obojima: Tales from the Tall Grass      | 1985 Games       |
-| _[[Spells/Third Party/Level 5 Spells/Eruption.md\|Eruption]]_                                 | Transmutation | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern      |
-| _[[Spells/Third Party/Level 5 Spells/Feline Chaos.md\|Feline Chaos]]_                         | Conjuration   | C       | Cthulhu by Torchlight                   | Chaosium         |
-| _[[Spells/Third Party/Level 5 Spells/Feverskin.md\|Feverskin]]_                               | Biomancy      | C       | Heliana's Guide to Monster Hunting      | Loot Tavern      |
-| _[[Spells/Third Party/Level 5 Spells/Forest of Dread.md\|Forest of Dread]]_                   | Conjuration   | C       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM         |
-| _[[Spells/Third Party/Level 5 Spells/Freedom of the Winds.md\|Freedom of the Winds]]_         | Abjuration    | C       | Tal'Dorei Campaign Setting Reborn       | Darrington Press |
-| _[[Spells/Third Party/Level 5 Spells/Incite Riot.md\|Incite Riot]]_                           | Enchantment   | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming |
-| _[[Spells/Third Party/Level 5 Spells/Mortality.md\|Mortality]]_                               | Transmutation | C, M    | Grim Hollow: Player's Guide             | Ghostfire Gaming |
-| _[[Spells/Third Party/Level 5 Spells/Submerge.md\|Submerge]]_                                 | Conjuration   | —       | Obojima: Tales from the Tall Grass      | 1985 Games       |
-| _[[Spells/Third Party/Level 5 Spells/Summon Shadow.md\|Summon Shadow]]_                       | Conjuration   | C       | Cthulhu by Torchlight                   | Chaosium         |
+| Name                                                                                          | School        | Special | Source                                  | Publisher                       |
+| --------------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ------------------------------- |
+| _[[Spells/Third Party/Level 5 Spells/Create Spirit Train Stop.md\|Create Spirit Train Stop]]_ | Conjuration   | M       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
+| _[[Spells/Third Party/Level 5 Spells/Eruption.md\|Eruption]]_                                 | Transmutation | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
+| _[[Spells/Third Party/Level 5 Spells/Feline Chaos.md\|Feline Chaos]]_                         | Conjuration   | C       | Cthulhu by Torchlight                   | Chaosium                        |
+| _[[Spells/Third Party/Level 5 Spells/Feverskin.md\|Feverskin]]_                               | Biomancy      | C       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
+| _[[Spells/Third Party/Level 5 Spells/Forest of Dread.md\|Forest of Dread]]_                   | Conjuration   | C       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
+| _[[Spells/Third Party/Level 5 Spells/Freedom of the Winds.md\|Freedom of the Winds]]_         | Abjuration    | C       | Tal'Dorei Campaign Setting Reborn       | Darrington Press                |
+| _[[Spells/Third Party/Level 5 Spells/Incite Riot.md\|Incite Riot]]_                           | Enchantment   | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 5 Spells/Mortality.md\|Mortality]]_                               | Transmutation | C, M    | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 5 Spells/Reflect Magic.md\|Reflect Magic]]_                       | Abjuration    | M       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Level 5 Spells/Submerge.md\|Submerge]]_                                 | Conjuration   | —       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
+| _[[Spells/Third Party/Level 5 Spells/Summon Shadow.md\|Summon Shadow]]_                       | Conjuration   | C       | Cthulhu by Torchlight                   | Chaosium                        |
 
 ### Level 6 Sorcerer Spells
 

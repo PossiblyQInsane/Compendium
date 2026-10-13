@@ -1,14 +1,17 @@
 ### Cantrips (Level 0 Druid Spells)
 
-| Name                                                                          | School        | Special | Source                             | Publisher              |
-| ----------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ---------------------- |
-| _[[Spells/Third Party/Cantrips/Cat's Spring.md\|Cat's Spring]]_               | Conjuration   | —       | Cthulhu by Torchlight              | Chaosium               |
-| _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_           | Illusion      | —       | Valda's Spire of Secrets           | Mage Hand Press        |
-| _[[Spells/Third Party/Cantrips/Concussion.md\|Concussion]]_                   | Evocation     | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
-| _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_ | Illusion      | —       | The Crooked Moon                   | Avantris Entertainment |
-| _[[Spells/Third Party/Cantrips/Smokescreen.md\|Smokescreen]]_                 | Conjuration   | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
-| _[[Spells/Third Party/Cantrips/Swarm.md\|Swarm]]_                             | Biomancy      | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
-| _[[Spells/Third Party/Cantrips/Water Whip.md\|Water Whip]]_                   | Transmutation | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| Name                                                                          | School        | Special | Source                             | Publisher                       |
+| ----------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ------------------------------- |
+| _[[Spells/Third Party/Cantrips/Bitter Wind.md\|Bitter Wind]]_                 | Necromancy    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Cat's Spring.md\|Cat's Spring]]_               | Conjuration   | —       | Cthulhu by Torchlight              | Chaosium                        |
+| _[[Spells/Third Party/Cantrips/Caustic Claw.md\|Caustic Claw]]_               | Transmutation | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_           | Illusion      | —       | Valda's Spire of Secrets           | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Concussion.md\|Concussion]]_                   | Evocation     | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Give Life.md\|Give Life]]_                     | Transmutation | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_ | Illusion      | —       | The Crooked Moon                   | Avantris Entertainment          |
+| _[[Spells/Third Party/Cantrips/Smokescreen.md\|Smokescreen]]_                 | Conjuration   | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Swarm.md\|Swarm]]_                             | Biomancy      | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Water Whip.md\|Water Whip]]_                   | Transmutation | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 
 ### Level 1 Druid Spells
 
@@ -45,20 +48,21 @@
 
 ### Level 3 Druid Spells
 
-| Name                                                                                  | School        | Special | Source                             | Publisher              |
-| ------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ---------------------- |
-| _[[Spells/Official/Level 3 Spells/Mireball.md\|Mireball]]_                            | Conjuration   | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
-| _[[Spells/Third Party/Level 3 Spells/Blood Bond.md\|Blood Bond]]_                     | Enchantment   | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 3 Spells/Culling Sickle.md\|Culling Sickle]]_             | Necromancy    | C       | The Crooked Moon                   | Avantris Entertainment |
-| _[[Spells/Third Party/Level 3 Spells/Extract Iron.md\|Extract Iron]]_                 | Transmutation | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 3 Spells/Flash Fever.md\|Flash Fever]]_                   | Necromancy    | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 3 Spells/Freedom of the Waves.md\|Freedom of the Waves]]_ | Conjuration   | —       | Tal'Dorei Campaign Setting Reborn  | Darrington Press       |
-| _[[Spells/Third Party/Level 3 Spells/Globe of Twilight.md\|Globe of Twilight]]_       | Conjuration   | C       | Humblewood Campaign Setting        | Hit Point Press        |
-| _[[Spells/Third Party/Level 3 Spells/Harvest Moonglow.md\|Harvest Moonglow]]_         | Evocation     | —       | The Crooked Moon                   | Avantris Entertainment |
-| _[[Spells/Third Party/Level 3 Spells/Phantom Panther.md\|Phantom Panther]]_           | Conjuration   | C       | Cthulhu by Torchlight              | Chaosium               |
-| _[[Spells/Third Party/Level 3 Spells/Reanimate.md\|Reanimate]]_                       | Evocation     | M       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 3 Spells/Water Wyrm.md\|Water Wyrm]]_                     | Conjuration   | C       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
-| _[[Spells/Third Party/Level 3 Spells/Zippit!.md\|Zippit!]]_                           | Biomancy      | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| Name                                                                                  | School        | Special | Source                             | Publisher                       |
+| ------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ------------------------------- |
+| _[[Spells/Official/Level 3 Spells/Mireball.md\|Mireball]]_                            | Conjuration   | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
+| _[[Spells/Third Party/Level 3 Spells/Blood Bond.md\|Blood Bond]]_                     | Enchantment   | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 3 Spells/Culling Sickle.md\|Culling Sickle]]_             | Necromancy    | C       | The Crooked Moon                   | Avantris Entertainment          |
+| _[[Spells/Third Party/Level 3 Spells/Extract Iron.md\|Extract Iron]]_                 | Transmutation | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 3 Spells/Flash Fever.md\|Flash Fever]]_                   | Necromancy    | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 3 Spells/Freedom of the Waves.md\|Freedom of the Waves]]_ | Conjuration   | —       | Tal'Dorei Campaign Setting Reborn  | Darrington Press                |
+| _[[Spells/Third Party/Level 3 Spells/Globe of Twilight.md\|Globe of Twilight]]_       | Conjuration   | C       | Humblewood Campaign Setting        | Hit Point Press                 |
+| _[[Spells/Third Party/Level 3 Spells/Harvest Moonglow.md\|Harvest Moonglow]]_         | Evocation     | —       | The Crooked Moon                   | Avantris Entertainment          |
+| _[[Spells/Third Party/Level 3 Spells/Mortal Terror.md\|Mortal Terror]]_               | Enchantment   | C       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Level 3 Spells/Phantom Panther.md\|Phantom Panther]]_           | Conjuration   | C       | Cthulhu by Torchlight              | Chaosium                        |
+| _[[Spells/Third Party/Level 3 Spells/Reanimate.md\|Reanimate]]_                       | Evocation     | M       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 3 Spells/Water Wyrm.md\|Water Wyrm]]_                     | Conjuration   | C       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
+| _[[Spells/Third Party/Level 3 Spells/Zippit!.md\|Zippit!]]_                           | Biomancy      | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 
 ### Level 4 Druid Spells
 

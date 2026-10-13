@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-02T10:54:24.605-04:00
-modified: 2026-10-11T16:59:08.148-04:00
-published: 2026-10-11T16:59:08.148-04:00
+modified: 2026-10-13T12:05:41.119-04:00
+published: 2026-10-13T12:05:41.119-04:00
 Name: "[[Gunslinger]]"
 Source: Valda's Spire of Secrets
 Official: false
@@ -33,7 +33,7 @@ A Gunslinger’s explosive lifestyle lends well to wandering and adventuring. Gu
 | **Skill Proficiencies**                                                  | _Choose 2:_ [[Acrobatics]], [[Animal Handling]], [[Athletics]], [[Deception]], [[Insight]], [[Intimidation]], [[Perception]], [[Persuasion]], [[Sleight of Hand]], or [[Stealth]] |
 | **Weapon Proficiencies**                                                 | Simple weapons and Martial Ranged weapons                                                                                                                                         |
 | **Armor Training**                                                       | Light armor                                                                                                                                                                       |
-| **Starting Equipment**                                                   | _Choose A or B:_ (A) [[Leather Armor]], 2 [[Dagger\|Daggers]], [[Revolver (VSoS)\|Revolver]], 50 [[Firearm Ammunition\|Bullets]], [[Explorer's Pack]], and 11 GP; or (B) 175 GP   |
+| **Starting Equipment**                                                   | _Choose A or B:_ (A) [[Leather Armor]], 2 [[Dagger\|Daggers]], [[Revolver (Mage Hand Press)\|Revolver]], 50 [[Firearm Ammunition\|Bullets]], [[Explorer's Pack]], and 11 GP; or (B) 175 GP   |
 
 > [!caption|left ws-med]
 > ![[Images/Gunslinger2.png]]

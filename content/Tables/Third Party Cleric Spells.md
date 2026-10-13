@@ -1,19 +1,23 @@
 ### Cantrips (Level 0 Cleric Spells)
 
-| Name                                                                  | School        | Special | Source                   | Publisher       |
-| --------------------------------------------------------------------- | ------------- | ------- | ------------------------ | --------------- |
-| _[[Spells/Third Party/Cantrips/Moment to Think.md\|Moment to Think]]_ | Transmutation | —       | Valda's Spire of Secrets | Mage Hand Press |
+| Name                                                                            | School        | Special | Source                   | Publisher                       |
+| ------------------------------------------------------------------------------- | ------------- | ------- | ------------------------ | ------------------------------- |
+| _[[Spells/Third Party/Cantrips/Bitter Wind.md\|Bitter Wind]]_                   | Necromancy    | —       | The Magus Class          | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Hateful Haunting.md\|Hateful Haunting]]_         | Necromancy    | —       | The Magus Class          | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Moment to Think.md\|Moment to Think]]_           | Transmutation | —       | Valda's Spire of Secrets | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Righteous Incitement.md\|Righteous Incitement]]_ | Evocation     | —       | The Magus Class          | Sterling Vermin Adventuring Co. |
 
 ### Level 1 Cleric Spells
 
-| Name                                                                                    | School        | Special | Source                            | Publisher              |
-| --------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- | ---------------------- |
-| _[[Spells/Third Party/Level 1 Spells/Accelerate-Decelerate.md\|Accelerate/Decelerate]]_ | Transmutation | —       | Valda's Spire of Secrets          | Mage Hand Press        |
-| _[[Spells/Third Party/Level 1 Spells/Ancestral Communion.md\|Ancestral Communion]]_     | Divination    | C       | The Crooked Moon                  | Avantris Entertainment |
-| _[[Spells/Third Party/Level 1 Spells/Bloodbane Rune.md\|Bloodbane Rune]]_               | Transmutation | C       | Grim Hollow: Player's Guide       | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 1 Spells/Boil Blood.md\|Boil Blood]]_                       | Transmutation | —       | Grim Hollow: Player's Guide       | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 1 Spells/Elevated Sight.md\|Elevated Sight]]_               | Divination    | C       | Humblewood Campaign Setting       | Hit Point Press        |
-| _[[Spells/Third Party/Level 1 Spells/See Future Death.md\|See Future Death]]_           | Divination    | —       | Ryoko's Guide to the Yokai Realms | Loot Tavern            |
+| Name                                                                                    | School        | Special | Source                            | Publisher                       |
+| --------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------- | ------------------------------- |
+| _[[Spells/Third Party/Level 1 Spells/Accelerate-Decelerate.md\|Accelerate/Decelerate]]_ | Transmutation | —       | Valda's Spire of Secrets          | Mage Hand Press                 |
+| _[[Spells/Third Party/Level 1 Spells/Ancestral Communion.md\|Ancestral Communion]]_     | Divination    | C       | The Crooked Moon                  | Avantris Entertainment          |
+| _[[Spells/Third Party/Level 1 Spells/Bloodbane Rune.md\|Bloodbane Rune]]_               | Transmutation | C       | Grim Hollow: Player's Guide       | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 1 Spells/Boil Blood.md\|Boil Blood]]_                       | Transmutation | —       | Grim Hollow: Player's Guide       | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 1 Spells/Elevated Sight.md\|Elevated Sight]]_               | Divination    | C       | Humblewood Campaign Setting       | Hit Point Press                 |
+| _[[Spells/Third Party/Level 1 Spells/Grave Bolt.md\|Grave Bolt]]_                       | Necromancy    | —       | The Magus Class                   | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Level 1 Spells/See Future Death.md\|See Future Death]]_           | Divination    | —       | Ryoko's Guide to the Yokai Realms | Loot Tavern                     |
 
 ### Level 2 Cleric Spells
 
