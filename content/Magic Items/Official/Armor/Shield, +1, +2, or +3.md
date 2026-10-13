@@ -1,10 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T17:13:34.622-04:00
-modified: 2026-08-17T16:11:01.162-04:00
-published: 2026-08-17T16:11:01.162-04:00
+modified: 2026-10-12T15:55:21.413-04:00
+published: 2026-10-12T15:55:21.413-04:00
 Category: Armor
-Rarity: Uncommon, Rare, or Very Rare
+Rarity:
+  - Uncommon
+  - Rare
+  - Very Rare
 Attunement: false
 Source: Dungeon Master's Guide 5.5e
 Official: true

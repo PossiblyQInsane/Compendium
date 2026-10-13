@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-08-02T10:56:06.765-04:00
-modified: 2026-08-17T16:09:10.391-04:00
-published: 2026-08-17T16:09:10.391-04:00
-Category: Epic Boon Feat
+modified: 2026-10-12T22:06:56.983-04:00
+published: 2026-10-12T22:06:56.983-04:00
+Feat Category: Epic Boon Feat
 Prerequisite: Level 19+
 Ability Score: STR or DEX +1
 Source: Player's Handbook 5.5e

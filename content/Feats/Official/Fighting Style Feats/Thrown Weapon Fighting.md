@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-08-03T15:07:18.078-04:00
-modified: 2026-08-17T16:09:47.534-04:00
-published: 2026-08-17T16:09:47.534-04:00
-Category: Fighting Style Feat
+modified: 2026-10-12T22:07:46.432-04:00
+published: 2026-10-12T22:07:46.432-04:00
+Feat Category: Fighting Style Feat
 Prerequisite: Fighting Style Feature
 Source: Player's Handbook 5.5e
 Official: true

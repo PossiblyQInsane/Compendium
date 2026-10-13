@@ -1,10 +1,14 @@
 ---
 publish: true
 created: 2026-08-02T12:29:53.039-04:00
-modified: 2026-08-17T16:11:06.384-04:00
-published: 2026-08-17T16:11:06.384-04:00
+modified: 2026-10-12T15:55:36.677-04:00
+published: 2026-10-12T15:55:36.677-04:00
 Category: Potion
-Rarity: Common, Uncommon, Rare, or Very Rare
+Rarity:
+  - Common
+  - Uncommon
+  - Rare
+  - Very Rare
 Attunement: false
 Source: Dungeon Master's Guide 5.5e
 Official: true

@@ -1,10 +1,15 @@
 ---
 publish: true
 created: 2026-07-30T10:13:32.732-04:00
-modified: 2026-08-17T16:11:51.809-04:00
-published: 2026-08-17T16:11:51.809-04:00
+modified: 2026-10-12T15:56:07.075-04:00
+published: 2026-10-12T15:56:07.075-04:00
 Category: Scroll
-Rarity: Common, Uncommon, Rare, Very Rare, or Legendary
+Rarity:
+  - Common
+  - Uncommon
+  - Rare
+  - Very Rare
+  - Legendary
 Attunement: false
 Source: Dungeon Master's Guide 5.5e
 Official: true

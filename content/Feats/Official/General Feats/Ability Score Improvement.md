@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-07-25T20:54:55.849-04:00
-modified: 2026-08-17T15:19:38.904-04:00
-published: 2026-08-17T15:19:38.904-04:00
-Category: General Feat
+modified: 2026-10-12T22:08:01.731-04:00
+published: 2026-10-12T22:08:01.731-04:00
+Feat Category: General Feat
 Prerequisite: Level 4+
 Ability Score: Any +2 or any 2 +1
 Source: Player's Handbook 5.5e

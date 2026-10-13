@@ -1,10 +1,13 @@
 ---
 publish: true
 created: 2026-07-25T16:03:17.902-04:00
-modified: 2026-08-17T16:12:08.143-04:00
-published: 2026-08-17T16:12:08.143-04:00
+modified: 2026-10-12T15:56:20.836-04:00
+published: 2026-10-12T15:56:20.836-04:00
 Category: Wand
-Rarity: Uncommon, Rare, or Very Rare
+Rarity:
+  - Uncommon
+  - Rare
+  - Very Rare
 Attunement: true
 Source: Dungeon Master's Guide 5.5e
 Official: true

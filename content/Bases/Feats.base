@@ -6,7 +6,7 @@ views:
     name: Feats
     order:
       - file.name
-      - Category
+      - Feat Category
       - Prerequisite
       - Ability Score
       - Source
@@ -14,7 +14,7 @@ views:
     name: General Feats
     filters:
       and:
-        - Category == "General Feat"
+        - note["Feat Category"] == "General Feat"
     order:
       - file.name
       - Prerequisite
@@ -24,7 +24,7 @@ views:
     name: Epic Boon Feats
     filters:
       and:
-        - Category == "Epic Boon Feat"
+        - note["Feat Category"] == "Epic Boon Feat"
     order:
       - file.name
       - Prerequisite
@@ -34,7 +34,7 @@ views:
     name: Fighting Style Feats
     filters:
       and:
-        - Category.contains("Fighting Style Feat")
+        - note["Feat Category"].contains("Fighting Style Feat")
     order:
       - file.name
       - Prerequisite
@@ -43,8 +43,18 @@ views:
     name: Origin Feats
     filters:
       and:
-        - Category == "Origin Feat"
+        - note["Feat Category"] == "Origin Feat"
     order:
       - file.name
       - Prerequisite
+      - Source
+  - type: table
+    name: Kindred Feats
+    filters:
+      and:
+        - note["Feat Category"] == "Kindred Feat"
+    order:
+      - file.name
+      - Prerequisite
+      - Ability Score
       - Source

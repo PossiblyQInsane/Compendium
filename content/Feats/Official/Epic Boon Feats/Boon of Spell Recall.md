@@ -1,10 +1,12 @@
 ---
 publish: true
 created: 2026-08-02T20:04:54.350-04:00
-modified: 2026-08-17T16:09:13.866-04:00
-published: 2026-08-17T16:09:13.866-04:00
-Category: Epic Boon Feat
-Prerequisite: Level 19+, Spellcasting Feature
+modified: 2026-10-12T22:07:01.648-04:00
+published: 2026-10-12T22:07:01.648-04:00
+Feat Category: Epic Boon Feat
+Prerequisite:
+  - Level 19+
+  - Spellcasting Feature
 Ability Score: INT, WIS, or CHA +1
 Source: Player's Handbook 5.5e
 Official: true
