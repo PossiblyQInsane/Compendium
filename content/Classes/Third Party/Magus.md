@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-30T16:07:03.544Z
-modified: 2026-10-13T05:24:42.881Z
-published: 2026-10-13T05:24:42.881Z
+modified: 2026-10-14T05:50:18.734Z
+published: 2026-10-14T05:50:18.734Z
 Name: "[[Magus]]"
 Source: The Magus Class
 Official: false
@@ -14,6 +14,8 @@ Edition: 5.5e
 
 > [!caption|center wm-tl]
 > ![[Images/Magus.jpg]]
+>
+> <br>
 
 <div align=center style="font-size: 120%; font-style: italic; font-weight: bold;">An Arcane Warrior Wielding Spell and Steel</div>
 

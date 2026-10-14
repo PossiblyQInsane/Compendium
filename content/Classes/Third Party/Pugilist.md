@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-26T20:37:37.073Z
-modified: 2026-10-11T22:59:38.819Z
-published: 2026-10-11T22:59:38.819Z
+modified: 2026-10-14T05:50:38.616Z
+published: 2026-10-14T05:50:38.616Z
 Name: "[[Pugilist]]"
 Source: The Pugilist Class
 Official: false
@@ -14,6 +14,8 @@ Edition: 5.5e
 
 > [!caption|center wm-tl]
 > ![[Images/Pugilist.jpg]]
+>
+> <br>
 
 <div align=center style="font-size: 120%; font-style: italic; font-weight: bold;">A Streetfighter with Swagger to Spare</div>
 
