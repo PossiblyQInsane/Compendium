@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T02:29:01.725-04:00
-modified: 2026-10-09T01:39:50.378-04:00
-published: 2026-10-09T01:39:50.378-04:00
+created: 2026-08-03T06:29:01.725Z
+modified: 2026-10-09T05:39:50.378Z
+published: 2026-10-09T05:39:50.378Z
 Name: "[[Dominate Monster]]"
 Spell Level: Level 8
 School: Enchantment

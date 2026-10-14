@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-11T00:51:38.602-04:00
-modified: 2026-10-11T00:55:19.782-04:00
-published: 2026-10-11T00:55:19.782-04:00
+created: 2026-10-11T04:51:38.602Z
+modified: 2026-10-11T04:55:19.782Z
+published: 2026-10-11T04:55:19.782Z
 Name: "[[Elevated Sight]]"
 Spell Level: Level 1
 School: Divination

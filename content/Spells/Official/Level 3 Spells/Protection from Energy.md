@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T13:59:37.518-04:00
-modified: 2026-10-08T11:49:32.544-04:00
-published: 2026-10-08T11:49:32.544-04:00
+created: 2026-07-26T17:59:37.518Z
+modified: 2026-10-08T15:49:32.544Z
+published: 2026-10-08T15:49:32.544Z
 Name: "[[Protection from Energy]]"
 Spell Level: Level 3
 School: Abjuration

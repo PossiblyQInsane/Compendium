@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T12:00:14.420-04:00
-modified: 2026-09-21T03:46:23.919-04:00
-published: 2026-09-21T03:46:23.919-04:00
+created: 2026-08-02T16:00:14.420Z
+modified: 2026-09-21T07:46:23.919Z
+published: 2026-09-21T07:46:23.919Z
 Name: "[[Path of the Experiment]]"
 Parent Class: "[[Barbarian]]"
 Source: The Crooked Moon

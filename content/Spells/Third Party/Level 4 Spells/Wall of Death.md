@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-12T00:16:56.940-04:00
-modified: 2026-10-12T00:20:36.572-04:00
-published: 2026-10-12T00:20:36.572-04:00
+created: 2026-10-12T04:16:56.940Z
+modified: 2026-10-12T04:20:36.572Z
+published: 2026-10-12T04:20:36.572Z
 Name: "[[Wall of Death]]"
 Spell Level: Level 4
 School: Necromancy

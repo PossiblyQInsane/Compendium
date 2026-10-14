@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:28:47.675-04:00
-modified: 2026-10-10T15:18:01.451-04:00
-published: 2026-10-10T15:18:01.451-04:00
+created: 2026-09-11T05:28:47.675Z
+modified: 2026-10-10T19:18:01.451Z
+published: 2026-10-10T19:18:01.451Z
 Name: "[[Future You Patron]]"
 Parent Class: "[[Warlock]]"
 Source: Valda's Spire of Secrets

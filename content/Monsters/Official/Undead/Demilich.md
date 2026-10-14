@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-15T15:28:37.760-04:00
-modified: 2026-09-07T13:51:48.940-04:00
-published: 2026-09-07T13:51:48.940-04:00
+created: 2026-08-15T19:28:37.760Z
+modified: 2026-09-07T17:51:48.940Z
+published: 2026-09-07T17:51:48.940Z
 Creature Type: Undead
 Size: Tiny
 Alignment: Neutral Evil

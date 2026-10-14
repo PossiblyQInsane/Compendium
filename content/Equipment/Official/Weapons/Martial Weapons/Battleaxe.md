@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T19:56:04.544-04:00
-modified: 2026-08-17T16:06:11.415-04:00
-published: 2026-08-17T16:06:11.415-04:00
+created: 2026-08-01T23:56:04.544Z
+modified: 2026-08-17T20:06:11.415Z
+published: 2026-08-17T20:06:11.415Z
 Category: Martial Melee Weapons
 Damage: 1d8 Slashing
 Properties: Versatile (1d10)

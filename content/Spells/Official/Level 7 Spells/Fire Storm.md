@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T00:30:40.232-04:00
-modified: 2026-10-09T01:33:44.564-04:00
-published: 2026-10-09T01:33:44.564-04:00
+created: 2026-08-04T04:30:40.232Z
+modified: 2026-10-09T05:33:44.564Z
+published: 2026-10-09T05:33:44.564Z
 Name: "[[Fire Storm]]"
 Spell Level: Level 7
 School: Evocation

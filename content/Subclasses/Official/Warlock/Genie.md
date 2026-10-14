@@ -1,9 +1,9 @@
 ---
 publish: true
 title: The Genie
-created: 2026-09-11T01:32:05.100-04:00
-modified: 2026-10-06T10:23:35.031-04:00
-published: 2026-10-06T10:23:35.031-04:00
+created: 2026-09-11T05:32:05.100Z
+modified: 2026-10-06T14:23:35.031Z
+published: 2026-10-06T14:23:35.031Z
 Name: "[[Genie|The Genie]]"
 Parent Class: "[[Warlock]]"
 Source: Tasha's Cauldron of Everything

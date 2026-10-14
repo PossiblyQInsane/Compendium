@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-08T01:06:10.334-04:00
-modified: 2026-09-21T11:01:54.750-04:00
-published: 2026-09-21T11:01:54.750-04:00
+created: 2026-08-08T05:06:10.334Z
+modified: 2026-09-21T15:01:54.750Z
+published: 2026-09-21T15:01:54.750Z
 Name: "[[Circle of the Land]]"
 Parent Class: "[[Druid]]"
 Source: Player's Handbook 5.5e

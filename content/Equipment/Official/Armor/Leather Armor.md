@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T19:15:59.415-04:00
-modified: 2026-08-17T15:59:38.095-04:00
-published: 2026-08-17T15:59:38.095-04:00
+created: 2026-08-01T23:15:59.415Z
+modified: 2026-08-17T19:59:38.095Z
+published: 2026-08-17T19:59:38.095Z
 Category: Light Armor
 Armor Class (AC): 11 + Dex modifier
 Strength: —

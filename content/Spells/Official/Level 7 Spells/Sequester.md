@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T20:36:11.972-04:00
-modified: 2026-10-05T20:38:20.169-04:00
-published: 2026-10-05T20:38:20.169-04:00
+created: 2026-10-06T00:36:11.972Z
+modified: 2026-10-06T00:38:20.169Z
+published: 2026-10-06T00:38:20.169Z
 Name: "[[Sequester]]"
 Spell Level: Level 7
 School: Transmutation

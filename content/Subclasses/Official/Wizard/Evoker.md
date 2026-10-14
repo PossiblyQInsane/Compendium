@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:33:45.323-04:00
-modified: 2026-10-05T23:57:10.901-04:00
-published: 2026-10-05T23:57:10.901-04:00
+created: 2026-09-11T05:33:45.323Z
+modified: 2026-10-06T03:57:10.901Z
+published: 2026-10-06T03:57:10.901Z
 Name: "[[Evoker]]"
 Parent Class: "[[Wizard]]"
 Source: Player's Handbook 5.5e

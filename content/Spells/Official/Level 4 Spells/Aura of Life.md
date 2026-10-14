@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T23:07:19.441-04:00
-modified: 2026-10-09T00:51:38.559-04:00
-published: 2026-10-09T00:51:38.559-04:00
+created: 2026-08-04T03:07:19.441Z
+modified: 2026-10-09T04:51:38.559Z
+published: 2026-10-09T04:51:38.559Z
 Name: "[[Aura of Life]]"
 Spell Level: Level 4
 School: Abjuration

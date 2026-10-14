@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:23:54.649-04:00
-modified: 2026-10-04T22:51:24.124-04:00
-published: 2026-10-04T22:51:24.124-04:00
+created: 2026-09-11T05:23:54.649Z
+modified: 2026-10-05T02:51:24.124Z
+published: 2026-10-05T02:51:24.124Z
 Name: "[[Frost Sorcery]]"
 Parent Class: "[[Sorcerer]]"
 Source: "The Griffon's Saddlebag: Book One"

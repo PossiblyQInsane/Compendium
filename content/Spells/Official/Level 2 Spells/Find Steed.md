@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-05T10:42:15.694-04:00
-modified: 2026-09-28T23:34:17.271-04:00
-published: 2026-09-28T23:34:17.271-04:00
+created: 2026-09-05T14:42:15.694Z
+modified: 2026-09-29T03:34:17.271Z
+published: 2026-09-29T03:34:17.271Z
 Name: "[[Find Steed]]"
 Spell Level: Level 2
 School: Conjuration

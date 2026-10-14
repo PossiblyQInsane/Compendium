@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-22T12:05:54.367-04:00
-modified: 2026-10-08T01:28:02.014-04:00
-published: 2026-10-08T01:28:02.014-04:00
+created: 2026-09-22T16:05:54.367Z
+modified: 2026-10-08T05:28:02.014Z
+published: 2026-10-08T05:28:02.014Z
 Name: "[[Vibrating Humors]]"
 Spell Level: Level 1
 School: Evocation

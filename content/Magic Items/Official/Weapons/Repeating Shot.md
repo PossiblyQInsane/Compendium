@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T17:02:33.060-04:00
-modified: 2026-08-17T15:02:43.886-04:00
-published: 2026-08-17T15:02:43.886-04:00
+created: 2026-07-25T21:02:33.060Z
+modified: 2026-08-17T19:02:43.886Z
+published: 2026-08-17T19:02:43.886Z
 Category: Weapon
 Rarity: Uncommon
 Attunement: true

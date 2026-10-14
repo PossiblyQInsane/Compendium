@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:36:44.039-04:00
-modified: 2026-10-06T10:50:46.855-04:00
-published: 2026-10-06T10:50:46.855-04:00
+created: 2026-09-11T05:36:44.039Z
+modified: 2026-10-06T14:50:46.855Z
+published: 2026-10-06T14:50:46.855Z
 Name: "[[Graviturgy Magic]]"
 Parent Class: "[[Wizard]]"
 Source: Explorer's Guide to Wildemount

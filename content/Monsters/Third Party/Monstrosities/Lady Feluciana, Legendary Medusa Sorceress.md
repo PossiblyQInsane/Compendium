@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-10T22:26:05.907-04:00
-modified: 2026-10-10T22:28:17.809-04:00
-published: 2026-10-10T22:28:17.809-04:00
+created: 2026-10-11T02:26:05.907Z
+modified: 2026-10-11T02:28:17.809Z
+published: 2026-10-11T02:28:17.809Z
 Creature Type: Monstrosity
 Size:
   - Medium

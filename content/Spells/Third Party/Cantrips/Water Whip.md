@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-24T21:34:33.687-04:00
-modified: 2026-10-08T01:21:02.606-04:00
-published: 2026-10-08T01:21:02.606-04:00
+created: 2026-08-25T01:34:33.687Z
+modified: 2026-10-08T05:21:02.606Z
+published: 2026-10-08T05:21:02.606Z
 Name: "[[Water Whip]]"
 Spell Level: Cantrip
 School: Transmutation

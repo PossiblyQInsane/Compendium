@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-11T23:40:26.617-04:00
-modified: 2026-10-11T23:46:16.293-04:00
-published: 2026-10-11T23:46:16.293-04:00
+created: 2026-10-12T03:40:26.617Z
+modified: 2026-10-12T03:46:16.293Z
+published: 2026-10-12T03:46:16.293Z
 Name: "[[Vengeful Blade]]"
 Spell Level: Cantrip
 School: Evocation

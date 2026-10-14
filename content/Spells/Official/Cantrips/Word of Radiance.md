@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T22:27:13.657-04:00
-modified: 2026-08-31T11:55:16.948-04:00
-published: 2026-08-31T11:55:16.948-04:00
+created: 2026-08-04T02:27:13.657Z
+modified: 2026-08-31T15:55:16.948Z
+published: 2026-08-31T15:55:16.948Z
 Name: "[[Word of Radiance]]"
 Spell Level: Cantrip
 School: Evocation

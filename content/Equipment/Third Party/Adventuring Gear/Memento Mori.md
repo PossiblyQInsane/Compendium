@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T10:51:00.969-04:00
-modified: 2026-10-13T11:20:24.285-04:00
-published: 2026-10-13T11:20:24.285-04:00
+created: 2026-10-13T14:51:00.969Z
+modified: 2026-10-13T15:20:24.285Z
+published: 2026-10-13T15:20:24.285Z
 Weight: Varies
 Cost: Varies
 Source: The Magus Class

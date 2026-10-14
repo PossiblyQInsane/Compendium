@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-23T22:03:01.126-04:00
-modified: 2026-10-09T01:22:35.952-04:00
-published: 2026-10-09T01:22:35.952-04:00
+created: 2026-08-24T02:03:01.126Z
+modified: 2026-10-09T05:22:35.952Z
+published: 2026-10-09T05:22:35.952Z
 Name: "[[Wrath of Nature]]"
 Spell Level: Level 5
 School: Evocation

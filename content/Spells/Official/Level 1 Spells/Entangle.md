@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T11:20:24.355-04:00
-modified: 2026-10-08T00:35:15.768-04:00
-published: 2026-10-08T00:35:15.768-04:00
+created: 2026-08-04T15:20:24.355Z
+modified: 2026-10-08T04:35:15.768Z
+published: 2026-10-08T04:35:15.768Z
 Name: "[[Entangle]]"
 Spell Level: Level 1
 School: Conjuration

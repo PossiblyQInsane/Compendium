@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T01:37:33.853-04:00
-modified: 2026-10-08T12:03:47.251-04:00
-published: 2026-10-08T12:03:47.251-04:00
+created: 2026-10-05T05:37:33.853Z
+modified: 2026-10-08T16:03:47.251Z
+published: 2026-10-08T16:03:47.251Z
 Name: "[[Zippit!]]"
 Spell Level: Level 3
 School: Biomancy

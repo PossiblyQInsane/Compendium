@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:18:42.077-04:00
-modified: 2026-09-22T00:00:28.529-04:00
-published: 2026-09-22T00:00:28.529-04:00
+created: 2026-09-11T05:18:42.077Z
+modified: 2026-09-22T04:00:28.529Z
+published: 2026-09-22T04:00:28.529Z
 Name: "[[Scion of the Three]]"
 Parent Class: "[[Rogue]]"
 Source: "Forgotten Realms: Heroes of Faerûn"

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T00:12:22.796-04:00
-modified: 2026-10-09T00:53:09.755-04:00
-published: 2026-10-09T00:53:09.755-04:00
+created: 2026-08-03T04:12:22.796Z
+modified: 2026-10-09T04:53:09.755Z
+published: 2026-10-09T04:53:09.755Z
 Name: "[[Charm Monster]]"
 Spell Level: Level 4
 School: Enchantment

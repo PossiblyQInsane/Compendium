@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:40:55.666-04:00
-modified: 2026-10-11T19:53:37.953-04:00
-published: 2026-10-11T19:53:37.953-04:00
+created: 2026-09-11T05:40:55.666Z
+modified: 2026-10-11T23:53:37.953Z
+published: 2026-10-11T23:53:37.953Z
 Name: "[[Street Saint]]"
 Parent Class: "[[Pugilist]]"
 Source: The Pugilist Class

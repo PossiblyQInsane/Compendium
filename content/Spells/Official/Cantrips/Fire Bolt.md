@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T21:26:54.553-04:00
-modified: 2026-10-08T00:08:44.959-04:00
-published: 2026-10-08T00:08:44.959-04:00
+created: 2026-07-26T01:26:54.553Z
+modified: 2026-10-08T04:08:44.959Z
+published: 2026-10-08T04:08:44.959Z
 Name: "[[Fire Bolt|Fire Bolt]]"
 Spell Level: Cantrip
 School: Evocation

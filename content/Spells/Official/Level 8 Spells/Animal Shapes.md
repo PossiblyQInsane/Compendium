@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-08T00:51:46.368-04:00
-modified: 2026-08-31T19:51:16.429-04:00
-published: 2026-08-31T19:51:16.429-04:00
+created: 2026-08-08T04:51:46.368Z
+modified: 2026-08-31T23:51:16.429Z
+published: 2026-08-31T23:51:16.429Z
 Name: "[[Animal Shapes]]"
 Spell Level: Level 8
 School: Transmutation

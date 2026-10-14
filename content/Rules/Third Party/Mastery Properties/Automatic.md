@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-03T01:38:54.771-04:00
-modified: 2026-09-03T01:40:29.320-04:00
-published: 2026-09-03T01:40:29.320-04:00
+created: 2026-09-03T05:38:54.771Z
+modified: 2026-09-03T05:40:29.320Z
+published: 2026-09-03T05:40:29.320Z
 Source: Valda's Spire of Secrets
 Official: false
 Publisher: Mage Hand Press

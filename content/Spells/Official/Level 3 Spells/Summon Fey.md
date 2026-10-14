@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-07T11:05:41.662-04:00
-modified: 2026-10-08T11:53:23.797-04:00
-published: 2026-10-08T11:53:23.797-04:00
+created: 2026-08-07T15:05:41.662Z
+modified: 2026-10-08T15:53:23.797Z
+published: 2026-10-08T15:53:23.797Z
 Name: "[[Summon Fey]]"
 Spell Level: Level 3
 School: Conjuration

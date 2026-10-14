@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T00:51:16.236-04:00
-modified: 2026-10-08T00:58:33.042-04:00
-published: 2026-10-08T00:58:33.042-04:00
+created: 2026-07-26T04:51:16.236Z
+modified: 2026-10-08T04:58:33.042Z
+published: 2026-10-08T04:58:33.042Z
 Name: "[[Enhance Ability]]"
 Spell Level: Level 2
 School: Transmutation

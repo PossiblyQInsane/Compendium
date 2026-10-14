@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T15:30:00.923-04:00
-modified: 2026-09-21T04:24:45.562-04:00
-published: 2026-09-21T04:24:45.562-04:00
+created: 2026-08-03T19:30:00.923Z
+modified: 2026-09-21T08:24:45.562Z
+published: 2026-09-21T08:24:45.562Z
 Name: "[[College of Whistles]]"
 Parent Class: "[[Bard]]"
 Source: The Crooked Moon

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-10T15:06:48.342-04:00
-modified: 2026-10-10T15:10:02.491-04:00
-published: 2026-10-10T15:10:02.491-04:00
+created: 2026-10-10T19:06:48.342Z
+modified: 2026-10-10T19:10:02.491Z
+published: 2026-10-10T19:10:02.491Z
 Name: "[[Moment to Think]]"
 Spell Level: Cantrip
 School: Transmutation

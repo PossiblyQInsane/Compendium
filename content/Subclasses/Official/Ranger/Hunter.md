@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:13:35.457-04:00
-modified: 2026-09-21T16:53:02.841-04:00
-published: 2026-09-21T16:53:02.841-04:00
+created: 2026-09-11T05:13:35.457Z
+modified: 2026-09-21T20:53:02.841Z
+published: 2026-09-21T20:53:02.841Z
 Name: "[[Hunter]]"
 Parent Class: "[[Ranger]]"
 Source: Player's Handbook 5.5e

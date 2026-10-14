@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-27T01:10:48.797-04:00
-modified: 2026-10-08T01:16:08.677-04:00
-published: 2026-10-08T01:16:08.677-04:00
+created: 2026-09-27T05:10:48.797Z
+modified: 2026-10-08T05:16:08.677Z
+published: 2026-10-08T05:16:08.677Z
 Name: "[[Warp Sense]]"
 Spell Level: Level 2
 School: Divination

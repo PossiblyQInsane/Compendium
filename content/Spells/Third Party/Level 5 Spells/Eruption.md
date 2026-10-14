@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-03T17:12:39.974-04:00
-modified: 2026-10-09T01:23:27.541-04:00
-published: 2026-10-09T01:23:27.541-04:00
+created: 2026-10-03T21:12:39.974Z
+modified: 2026-10-09T05:23:27.541Z
+published: 2026-10-09T05:23:27.541Z
 Name: "[[Eruption]]"
 Spell Level: Level 5
 School: Transmutation

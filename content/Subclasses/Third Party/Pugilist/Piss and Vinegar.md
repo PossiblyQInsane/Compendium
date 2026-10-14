@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:40:55.666-04:00
-modified: 2026-10-11T19:42:22.382-04:00
-published: 2026-10-11T19:42:22.382-04:00
+created: 2026-09-11T05:40:55.666Z
+modified: 2026-10-11T23:42:22.382Z
+published: 2026-10-11T23:42:22.382Z
 Name: "[[Piss and Vinegar]]"
 Parent Class: "[[Pugilist]]"
 Source: The Pugilist Class

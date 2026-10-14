@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-03T23:01:08.836-04:00
-modified: 2026-10-10T02:04:14.028-04:00
-published: 2026-10-10T02:04:14.028-04:00
+created: 2026-10-04T03:01:08.836Z
+modified: 2026-10-10T06:04:14.028Z
+published: 2026-10-10T06:04:14.028Z
 Creature Type: Monstrosity
 Subtype: Yokai
 Size: Tiny

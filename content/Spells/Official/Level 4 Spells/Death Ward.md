@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T20:24:40.705-04:00
-modified: 2026-10-09T00:55:47.003-04:00
-published: 2026-10-09T00:55:47.003-04:00
+created: 2026-07-27T00:24:40.705Z
+modified: 2026-10-09T04:55:47.003Z
+published: 2026-10-09T04:55:47.003Z
 Name: "[[Death Ward]]"
 Spell Level: Level 4
 School: Abjuration

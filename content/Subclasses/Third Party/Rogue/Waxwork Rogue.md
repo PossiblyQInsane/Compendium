@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T13:23:20.365-04:00
-modified: 2026-10-04T00:52:40.815-04:00
-published: 2026-10-04T00:52:40.815-04:00
+created: 2026-09-21T17:23:20.365Z
+modified: 2026-10-04T04:52:40.815Z
+published: 2026-10-04T04:52:40.815Z
 Name: "[[Waxwork Rogue]]"
 Parent Class: "[[Rogue]]"
 Source: "Obojima: Tales from the Tall Grass"

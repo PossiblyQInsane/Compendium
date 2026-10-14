@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-08T00:48:39.900-04:00
-modified: 2026-10-09T01:35:30.517-04:00
-published: 2026-10-09T01:35:30.517-04:00
+created: 2026-08-08T04:48:39.900Z
+modified: 2026-10-09T05:35:30.517Z
+published: 2026-10-09T05:35:30.517Z
 Name: "[[Reverse Gravity]]"
 Spell Level: Level 7
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T23:23:19.122-04:00
-modified: 2026-10-09T01:15:15.607-04:00
-published: 2026-10-09T01:15:15.607-04:00
+created: 2026-08-04T03:23:19.122Z
+modified: 2026-10-09T05:15:15.607Z
+published: 2026-10-09T05:15:15.607Z
 Name: "[[Dispel Evil and Good]]"
 Spell Level: Level 5
 School: Abjuration

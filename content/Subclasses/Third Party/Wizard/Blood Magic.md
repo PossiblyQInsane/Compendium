@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:37:48.378-04:00
-modified: 2026-10-11T02:34:09.920-04:00
-published: 2026-10-11T02:34:09.920-04:00
+created: 2026-09-11T05:37:48.378Z
+modified: 2026-10-11T06:34:09.920Z
+published: 2026-10-11T06:34:09.920Z
 Name: "[[Blood Magic]]"
 Parent Class: "[[Wizard]]"
 Source: Tal'Dorei Campaign Setting Reborn

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-03T09:36:43.658-04:00
-modified: 2026-10-09T01:18:39.296-04:00
-published: 2026-10-09T01:18:39.296-04:00
+created: 2026-09-03T13:36:43.658Z
+modified: 2026-10-09T05:18:39.296Z
+published: 2026-10-09T05:18:39.296Z
 Name: "[[Negative Energy Flood]]"
 Spell Level: Level 5
 School: Necromancy

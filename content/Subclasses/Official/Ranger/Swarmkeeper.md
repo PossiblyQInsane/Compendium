@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:17:10.844-04:00
-modified: 2026-09-21T16:52:58.156-04:00
-published: 2026-09-21T16:52:58.156-04:00
+created: 2026-09-11T05:17:10.844Z
+modified: 2026-09-21T20:52:58.156Z
+published: 2026-09-21T20:52:58.156Z
 Name: "[[Swarmkeeper]]"
 Parent Class: "[[Ranger]]"
 Source: Tasha's Cauldron of Everything

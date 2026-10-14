@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:23:54.649-04:00
-modified: 2026-10-04T20:32:03.702-04:00
-published: 2026-10-04T20:32:03.702-04:00
+created: 2026-09-11T05:23:54.649Z
+modified: 2026-10-05T00:32:03.702Z
+published: 2026-10-05T00:32:03.702Z
 Name: "[[Apocalypse Sorcery]]"
 Parent Class: "[[Sorcerer]]"
 Source: "Grim Hollow: Player's Guide"

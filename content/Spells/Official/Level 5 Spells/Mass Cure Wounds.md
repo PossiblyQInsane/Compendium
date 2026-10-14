@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T00:47:08.668-04:00
-modified: 2026-10-09T01:18:10.288-04:00
-published: 2026-10-09T01:18:10.288-04:00
+created: 2026-07-30T04:47:08.668Z
+modified: 2026-10-09T05:18:10.288Z
+published: 2026-10-09T05:18:10.288Z
 Name: "[[Mass Cure Wounds]]"
 Spell Level: Level 5
 School: Abjuration

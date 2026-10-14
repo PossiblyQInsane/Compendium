@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-03T10:10:31.586-04:00
-modified: 2026-10-09T01:34:00.492-04:00
-published: 2026-10-09T01:34:00.492-04:00
+created: 2026-09-03T14:10:31.586Z
+modified: 2026-10-09T05:34:00.492Z
+published: 2026-10-09T05:34:00.492Z
 Name: "[[Fractured Awareness]]"
 Spell Level: Level 7
 School: Divination

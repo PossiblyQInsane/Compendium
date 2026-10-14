@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T02:06:30.793-04:00
-modified: 2026-10-13T02:09:46.501-04:00
-published: 2026-10-13T02:09:46.501-04:00
+created: 2026-10-13T06:06:30.793Z
+modified: 2026-10-13T06:09:46.501Z
+published: 2026-10-13T06:09:46.501Z
 Name: "[[Animate Shield]]"
 Spell Level: Level 2
 School: Transmutation

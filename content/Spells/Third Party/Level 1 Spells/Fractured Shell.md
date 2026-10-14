@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-10T13:32:19.925-04:00
-modified: 2026-10-08T01:25:07.680-04:00
-published: 2026-10-08T01:25:07.680-04:00
+created: 2026-08-10T17:32:19.925Z
+modified: 2026-10-08T05:25:07.680Z
+published: 2026-10-08T05:25:07.680Z
 Name: "[[Fractured Shell]]"
 Spell Level: Level 1
 School: Transmutation

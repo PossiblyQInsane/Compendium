@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-07T10:11:03.901-04:00
-modified: 2026-10-12T22:06:40.787-04:00
-published: 2026-10-12T22:06:40.787-04:00
+created: 2026-08-07T14:11:03.901Z
+modified: 2026-10-13T02:06:40.787Z
+published: 2026-10-13T02:06:40.787Z
 Feat Category: Epic Boon Feat
 Prerequisite: Level 19+
 Ability Score: Any +1

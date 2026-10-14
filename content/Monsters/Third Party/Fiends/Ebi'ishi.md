@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-03T22:31:08.665-04:00
-modified: 2026-10-10T02:01:53.879-04:00
-published: 2026-10-10T02:01:53.879-04:00
+created: 2026-10-04T02:31:08.665Z
+modified: 2026-10-10T06:01:53.879Z
+published: 2026-10-10T06:01:53.879Z
 Creature Type: Fiend
 Subtype: Yokai
 Size: Medium

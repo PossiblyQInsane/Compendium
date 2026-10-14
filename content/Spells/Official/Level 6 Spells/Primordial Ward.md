@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-23T23:00:59.882-04:00
-modified: 2026-08-31T19:47:30.059-04:00
-published: 2026-08-31T19:47:30.059-04:00
+created: 2026-08-24T03:00:59.882Z
+modified: 2026-08-31T23:47:30.059Z
+published: 2026-08-31T23:47:30.059Z
 Name: "[[Primordial Ward]]"
 Spell Level: Level 6
 School: Abjuration

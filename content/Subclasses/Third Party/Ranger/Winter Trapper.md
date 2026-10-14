@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:14:42.020-04:00
-modified: 2026-09-21T17:16:54.953-04:00
-published: 2026-09-21T17:16:54.953-04:00
+created: 2026-09-11T05:14:42.020Z
+modified: 2026-09-21T21:16:54.953Z
+published: 2026-09-21T21:16:54.953Z
 Name: "[[Winter Trapper]]"
 Parent Class: "[[Ranger]]"
 Source: "The Griffon's Saddlebag: Book One"

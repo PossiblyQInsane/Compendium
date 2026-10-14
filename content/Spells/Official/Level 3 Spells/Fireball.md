@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-29T11:34:38.842-04:00
-modified: 2026-10-08T11:40:45.237-04:00
-published: 2026-10-08T11:40:45.237-04:00
+created: 2026-07-29T15:34:38.842Z
+modified: 2026-10-08T15:40:45.237Z
+published: 2026-10-08T15:40:45.237Z
 Name: "[[Fireball]]"
 Spell Level: Level 3
 School: Evocation

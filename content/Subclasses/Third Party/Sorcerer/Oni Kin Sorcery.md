@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T13:23:40.920-04:00
-modified: 2026-10-05T01:00:51.301-04:00
-published: 2026-10-05T01:00:51.301-04:00
+created: 2026-09-21T17:23:40.920Z
+modified: 2026-10-05T05:00:51.301Z
+published: 2026-10-05T05:00:51.301Z
 Name: "[[Oni Kin Sorcery]]"
 Parent Class: "[[Sorcerer]]"
 Source: "Obojima: Tales from the Tall Grass"

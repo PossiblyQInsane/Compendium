@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T13:24:07.560-04:00
-modified: 2026-10-10T21:27:37.403-04:00
-published: 2026-10-10T21:27:37.403-04:00
+created: 2026-09-21T17:24:07.560Z
+modified: 2026-10-11T01:27:37.403Z
+published: 2026-10-11T01:27:37.403Z
 Name: "[[Lantern Patron]]"
 Parent Class: "[[Warlock]]"
 Source: "Obojima: Tales from the Tall Grass"

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:45:15.943-04:00
-modified: 2026-08-17T16:08:23.229-04:00
-published: 2026-08-17T16:08:23.229-04:00
+created: 2026-08-01T21:45:15.943Z
+modified: 2026-08-17T20:08:23.229Z
+published: 2026-08-17T20:08:23.229Z
 Category: Simple Melee Weapons
 Damage: 1d6 Bludgeoning
 Properties: —

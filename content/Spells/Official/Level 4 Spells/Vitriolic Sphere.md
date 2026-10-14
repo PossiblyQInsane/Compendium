@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T20:29:48.641-04:00
-modified: 2026-10-09T01:06:35.819-04:00
-published: 2026-10-09T01:06:35.819-04:00
+created: 2026-07-27T00:29:48.641Z
+modified: 2026-10-09T05:06:35.819Z
+published: 2026-10-09T05:06:35.819Z
 Name: "[[Vitriolic Sphere]]"
 Spell Level: Level 4
 School: Evocation

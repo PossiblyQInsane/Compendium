@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T10:21:29.116-04:00
-modified: 2026-08-31T12:06:21.866-04:00
-published: 2026-08-31T12:06:21.866-04:00
+created: 2026-07-30T14:21:29.116Z
+modified: 2026-08-31T16:06:21.866Z
+published: 2026-08-31T16:06:21.866Z
 Name: "[[Guiding Bolt]]"
 Spell Level: Level 1
 School: Evocation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T03:49:35.774-04:00
-modified: 2026-10-04T00:46:50.514-04:00
-published: 2026-10-04T00:46:50.514-04:00
+created: 2026-09-21T07:49:35.774Z
+modified: 2026-10-04T04:46:50.514Z
+published: 2026-10-04T04:46:50.514Z
 Name: "[[College of Masks (1985 Games)|College of Masks]]"
 Parent Class: "[[Bard]]"
 Source: "Obojima: Tales from the Tall Grass"

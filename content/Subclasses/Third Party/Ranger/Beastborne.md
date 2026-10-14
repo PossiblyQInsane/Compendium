@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:14:42.020-04:00
-modified: 2026-09-21T16:53:30.750-04:00
-published: 2026-09-21T16:53:30.750-04:00
+created: 2026-09-11T05:14:42.020Z
+modified: 2026-09-21T20:53:30.750Z
+published: 2026-09-21T20:53:30.750Z
 Name: "[[Beastborne]]"
 Parent Class: "[[Ranger]]"
 Source: Valda's Spire of Secrets

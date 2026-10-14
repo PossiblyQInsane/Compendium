@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-15T22:39:06.647-04:00
-modified: 2026-10-08T01:04:23.503-04:00
-published: 2026-10-08T01:04:23.503-04:00
+created: 2026-08-16T02:39:06.647Z
+modified: 2026-10-08T05:04:23.503Z
+published: 2026-10-08T05:04:23.503Z
 Name: "[[Kinetic Jaunt]]"
 Spell Level: Level 2
 School: Transmutation

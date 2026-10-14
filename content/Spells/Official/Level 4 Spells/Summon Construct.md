@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T15:37:24.546-04:00
-modified: 2026-10-09T01:06:10.422-04:00
-published: 2026-10-09T01:06:10.422-04:00
+created: 2026-07-26T19:37:24.546Z
+modified: 2026-10-09T05:06:10.422Z
+published: 2026-10-09T05:06:10.422Z
 Name: "[[Summon Construct]]"
 Spell Level: Level 4
 School: Conjuration

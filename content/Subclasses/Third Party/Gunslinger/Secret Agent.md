@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-02T11:32:01.817-04:00
-modified: 2026-09-21T23:35:21.547-04:00
-published: 2026-09-21T23:35:21.547-04:00
+created: 2026-09-02T15:32:01.817Z
+modified: 2026-09-22T03:35:21.547Z
+published: 2026-09-22T03:35:21.547Z
 Name: "[[Secret Agent]]"
 Parent Class: "[[Gunslinger]]"
 Source: Valda's Spire of Secrets

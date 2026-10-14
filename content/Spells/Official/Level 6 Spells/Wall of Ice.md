@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-04T22:43:53.688-04:00
-modified: 2026-10-04T22:51:10.419-04:00
-published: 2026-10-04T22:51:10.419-04:00
+created: 2026-10-05T02:43:53.688Z
+modified: 2026-10-05T02:51:10.419Z
+published: 2026-10-05T02:51:10.419Z
 Name: "[[Wall of Ice]]"
 Spell Level: Level 6
 School: Evocation

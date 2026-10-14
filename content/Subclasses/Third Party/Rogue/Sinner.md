@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:19:40.442-04:00
-modified: 2026-09-25T11:56:32.918-04:00
-published: 2026-09-25T11:56:32.918-04:00
+created: 2026-09-11T05:19:40.442Z
+modified: 2026-09-25T15:56:32.918Z
+published: 2026-09-25T15:56:32.918Z
 Name: "[[Sinner]]"
 Parent Class: "[[Rogue]]"
 Source: The Crooked Moon

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T00:42:15.982-04:00
-modified: 2026-10-09T01:12:45.954-04:00
-published: 2026-10-09T01:12:45.954-04:00
+created: 2026-08-03T04:42:15.982Z
+modified: 2026-10-09T05:12:45.954Z
+published: 2026-10-09T05:12:45.954Z
 Name: "[[Awaken]]"
 Spell Level: Level 5
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:28:47.675-04:00
-modified: 2026-10-11T02:22:50.514-04:00
-published: 2026-10-11T02:22:50.514-04:00
+created: 2026-09-11T05:28:47.675Z
+modified: 2026-10-11T06:22:50.514Z
+published: 2026-10-11T06:22:50.514Z
 Name: "[[Trickster]]"
 Parent Class: "[[Warlock]]"
 Source: Northlands Worldbook

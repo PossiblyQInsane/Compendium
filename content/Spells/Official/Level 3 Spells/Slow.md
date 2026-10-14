@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T23:48:22.828-04:00
-modified: 2026-10-08T11:51:39.508-04:00
-published: 2026-10-08T11:51:39.508-04:00
+created: 2026-08-03T03:48:22.828Z
+modified: 2026-10-08T15:51:39.508Z
+published: 2026-10-08T15:51:39.508Z
 Name: "[[Spells/Official/Level 3 Spells/Slow|Slow]]"
 Spell Level: Level 3
 School: Transmutation

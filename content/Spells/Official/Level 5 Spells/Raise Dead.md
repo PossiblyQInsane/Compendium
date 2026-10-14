@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T20:39:58.657-04:00
-modified: 2026-10-09T01:19:21.609-04:00
-published: 2026-10-09T01:19:21.609-04:00
+created: 2026-07-27T00:39:58.657Z
+modified: 2026-10-09T05:19:21.609Z
+published: 2026-10-09T05:19:21.609Z
 Name: "[[Raise Dead]]"
 Spell Level: Level 5
 School: Necromancy

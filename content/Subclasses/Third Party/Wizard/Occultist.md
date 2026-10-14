@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:34:52.631-04:00
-modified: 2026-10-10T16:12:45.319-04:00
-published: 2026-10-10T16:12:45.319-04:00
+created: 2026-09-11T05:34:52.631Z
+modified: 2026-10-10T20:12:45.319Z
+published: 2026-10-10T20:12:45.319Z
 Name: "[[Occultist]]"
 Parent Class: "[[Wizard]]"
 Source: The Crooked Moon

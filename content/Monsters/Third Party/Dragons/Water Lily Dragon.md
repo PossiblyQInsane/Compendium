@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - water lily dragons
-created: 2026-08-29T18:13:31.995-04:00
-modified: 2026-09-10T11:20:38.703-04:00
-published: 2026-09-10T11:20:38.703-04:00
+created: 2026-08-29T22:13:31.995Z
+modified: 2026-09-10T15:20:38.703Z
+published: 2026-09-10T15:20:38.703Z
 Creature Type: Dragon
 Size: Huge
 Alignment: Typically Good Aligned

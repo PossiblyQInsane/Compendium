@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-06T11:29:41.715-04:00
-modified: 2026-10-06T11:35:47.585-04:00
-published: 2026-10-06T11:35:47.585-04:00
+created: 2026-10-06T15:29:41.715Z
+modified: 2026-10-06T15:35:47.585Z
+published: 2026-10-06T15:35:47.585Z
 Name: "[[Pulse Wave]]"
 Spell Level: Level 3
 School: Evocation

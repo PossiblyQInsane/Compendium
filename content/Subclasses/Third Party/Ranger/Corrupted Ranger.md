@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T13:23:03.543-04:00
-modified: 2026-10-04T14:24:07.274-04:00
-published: 2026-10-04T14:24:07.274-04:00
+created: 2026-09-21T17:23:03.543Z
+modified: 2026-10-04T18:24:07.274Z
+published: 2026-10-04T18:24:07.274Z
 Name: "[[Corrupted Ranger]]"
 Parent Class: "[[Ranger]]"
 Source: "Obojima: Tales from the Tall Grass"

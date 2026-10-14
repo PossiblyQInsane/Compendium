@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T11:10:03.799-04:00
-modified: 2026-10-13T11:12:43.879-04:00
-published: 2026-10-13T11:12:43.879-04:00
+created: 2026-10-13T15:10:03.799Z
+modified: 2026-10-13T15:12:43.879Z
+published: 2026-10-13T15:12:43.879Z
 Name: "[[Mortal Terror]]"
 Spell Level: Level 3
 School: Enchantment

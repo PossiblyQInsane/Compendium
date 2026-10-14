@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T17:54:10.248-04:00
-modified: 2026-10-09T00:52:02.645-04:00
-published: 2026-10-09T00:52:02.645-04:00
+created: 2026-08-16T21:54:10.248Z
+modified: 2026-10-09T04:52:02.645Z
+published: 2026-10-09T04:52:02.645Z
 Name: "[[Backlash]]"
 Spell Level: Level 4
 School: Abjuration

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-07T11:27:55.880-04:00
-modified: 2026-10-09T00:57:00.820-04:00
-published: 2026-10-09T00:57:00.820-04:00
+created: 2026-08-07T15:27:55.880Z
+modified: 2026-10-09T04:57:00.820Z
+published: 2026-10-09T04:57:00.820Z
 Name: "[[Dominate Beast]]"
 Spell Level: Level 4
 School: Enchantment

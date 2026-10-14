@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T10:34:03.492-04:00
-modified: 2026-10-08T12:12:28.081-04:00
-published: 2026-10-08T12:12:28.081-04:00
+created: 2026-07-30T14:34:03.492Z
+modified: 2026-10-08T16:12:28.081Z
+published: 2026-10-08T16:12:28.081Z
 Name: "[[Clairvoyance]]"
 Spell Level: Level 3
 School: Divination

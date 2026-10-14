@@ -11,6 +11,7 @@
 | _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_ | Illusion      | —       | The Crooked Moon                   | Avantris Entertainment          |
 | _[[Spells/Third Party/Cantrips/Smokescreen.md\|Smokescreen]]_                 | Conjuration   | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Swarm.md\|Swarm]]_                             | Biomancy      | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Thornhold.md\|Thornhold]]_                     | Abjuration    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Cantrips/Water Whip.md\|Water Whip]]_                   | Transmutation | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 
 ### Level 1 Druid Spells
@@ -93,9 +94,10 @@
 
 ### Level 6 Druid Spells
 
-| Name                                                              | School      | Special | Source                      | Publisher        |
-| ----------------------------------------------------------------- | ----------- | ------- | --------------------------- | ---------------- |
-| _[[Spells/Third Party/Level 6 Spells/Blood Tide.md\|Blood Tide]]_ | Conjuration | —       | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| Name                                                                  | School      | Special | Source                      | Publisher                       |
+| --------------------------------------------------------------------- | ----------- | ------- | --------------------------- | ------------------------------- |
+| _[[Spells/Third Party/Level 6 Spells/Blood Tide.md\|Blood Tide]]_     | Conjuration | —       | Grim Hollow: Player's Guide | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 6 Spells/First Speech.md\|First Speech]]_ | Divination  | —       | The Magus Class             | Sterling Vermin Adventuring Co. |
 
 ### Level 7 Druid Spells
 

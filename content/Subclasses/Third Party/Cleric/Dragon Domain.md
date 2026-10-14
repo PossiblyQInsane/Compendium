@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-05T00:45:59.666-04:00
-modified: 2026-09-30T00:31:43.581-04:00
-published: 2026-09-30T00:31:43.581-04:00
+created: 2026-08-05T04:45:59.666Z
+modified: 2026-09-30T04:31:43.581Z
+published: 2026-09-30T04:31:43.581Z
 Name: "[[Dragon Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Valda's Spire of Secrets

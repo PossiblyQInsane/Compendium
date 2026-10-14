@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T11:51:57.394-04:00
-modified: 2026-09-21T10:46:19.815-04:00
-published: 2026-09-21T10:46:19.815-04:00
+created: 2026-08-04T15:51:57.394Z
+modified: 2026-09-21T14:46:19.815Z
+published: 2026-09-21T14:46:19.815Z
 Name: "[[Mind Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Exploring Eberron

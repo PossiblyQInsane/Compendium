@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T19:48:25.382-04:00
-modified: 2026-10-08T00:26:35.286-04:00
-published: 2026-10-08T00:26:35.286-04:00
+created: 2026-08-02T23:48:25.382Z
+modified: 2026-10-08T04:26:35.286Z
+published: 2026-10-08T04:26:35.286Z
 Name: "[[Color Spray]]"
 Spell Level: Level 1
 School: Illusion

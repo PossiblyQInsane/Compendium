@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T02:32:01.266-04:00
-modified: 2026-10-09T01:40:16.965-04:00
-published: 2026-10-09T01:40:16.965-04:00
+created: 2026-08-03T06:32:01.266Z
+modified: 2026-10-09T05:40:16.965Z
+published: 2026-10-09T05:40:16.965Z
 Name: "[[Glibness]]"
 Spell Level: Level 8
 School: Enchantment

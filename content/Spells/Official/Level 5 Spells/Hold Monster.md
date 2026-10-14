@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T00:55:20.464-04:00
-modified: 2026-10-09T01:17:02.722-04:00
-published: 2026-10-09T01:17:02.722-04:00
+created: 2026-08-03T04:55:20.464Z
+modified: 2026-10-09T05:17:02.722Z
+published: 2026-10-09T05:17:02.722Z
 Name: "[[Hold Monster]]"
 Spell Level: Level 5
 School: Enchantment

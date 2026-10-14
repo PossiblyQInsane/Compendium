@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T17:28:01.477-04:00
-modified: 2026-10-12T15:54:58.775-04:00
-published: 2026-10-12T15:54:58.775-04:00
+created: 2026-07-25T21:28:01.477Z
+modified: 2026-10-12T19:54:58.775Z
+published: 2026-10-12T19:54:58.775Z
 Category: Armor
 Rarity:
   - Rare

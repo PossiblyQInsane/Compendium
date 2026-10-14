@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T14:45:25.973-04:00
-modified: 2026-09-21T03:46:40.610-04:00
-published: 2026-09-21T03:46:40.610-04:00
+created: 2026-08-02T18:45:25.973Z
+modified: 2026-09-21T07:46:40.610Z
+published: 2026-09-21T07:46:40.610Z
 Name: "[[Path of the Glacier]]"
 Parent Class: "[[Barbarian]]"
 Source: "The Griffon's Saddlebag: Book One"

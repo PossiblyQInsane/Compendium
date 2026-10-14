@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T00:19:08.474-04:00
-modified: 2026-10-08T00:39:33.404-04:00
-published: 2026-10-08T00:39:33.404-04:00
+created: 2026-07-30T04:19:08.474Z
+modified: 2026-10-08T04:39:33.404Z
+published: 2026-10-08T04:39:33.404Z
 Name: "[[Heroism]]"
 Spell Level: Level 1
 School: Enchantment

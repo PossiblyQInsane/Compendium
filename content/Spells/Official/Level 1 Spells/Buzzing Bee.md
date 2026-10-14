@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-20T11:45:11.012-04:00
-modified: 2026-10-08T00:24:14.336-04:00
-published: 2026-10-08T00:24:14.336-04:00
+created: 2026-08-20T15:45:11.012Z
+modified: 2026-10-08T04:24:14.336Z
+published: 2026-10-08T04:24:14.336Z
 Name: "[[Buzzing Bee]]"
 Spell Level: Level 1
 School: Conjuration

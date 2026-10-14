@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-05T10:15:41.336-04:00
-modified: 2026-08-17T15:50:17.981-04:00
-published: 2026-08-17T15:50:17.981-04:00
+created: 2026-08-05T14:15:41.336Z
+modified: 2026-08-17T19:50:17.981Z
+published: 2026-08-17T19:50:17.981Z
 Weight: Varies
 Cost: Varies
 Source: Player's Handbook 5.5e

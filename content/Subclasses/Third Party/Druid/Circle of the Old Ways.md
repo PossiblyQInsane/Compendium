@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-10T12:47:33.363-04:00
-modified: 2026-09-21T11:08:42.902-04:00
-published: 2026-09-21T11:08:42.902-04:00
+created: 2026-08-10T16:47:33.363Z
+modified: 2026-09-21T15:08:42.902Z
+published: 2026-09-21T15:08:42.902Z
 Name: "[[Circle of the Old Ways]]"
 Parent Class: "[[Druid]]"
 Source: The Crooked Moon

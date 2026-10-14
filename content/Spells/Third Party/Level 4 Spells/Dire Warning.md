@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-10T15:01:40.427-04:00
-modified: 2026-10-10T15:04:29.953-04:00
-published: 2026-10-10T15:04:29.953-04:00
+created: 2026-10-10T19:01:40.427Z
+modified: 2026-10-10T19:04:29.953Z
+published: 2026-10-10T19:04:29.953Z
 Name: "[[Dire Warning]]"
 Spell Level: Level 4
 School: Divination

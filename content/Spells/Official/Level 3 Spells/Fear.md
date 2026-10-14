@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T23:26:00.276-04:00
-modified: 2026-10-08T11:40:01.621-04:00
-published: 2026-10-08T11:40:01.621-04:00
+created: 2026-08-03T03:26:00.276Z
+modified: 2026-10-08T15:40:01.621Z
+published: 2026-10-08T15:40:01.621Z
 Name: "[[Fear]]"
 Spell Level: Level 3
 School: Illusion

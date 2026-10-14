@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-07T11:20:55.221-04:00
-modified: 2026-10-09T00:54:52.589-04:00
-published: 2026-10-09T00:54:52.589-04:00
+created: 2026-08-07T15:20:55.221Z
+modified: 2026-10-09T04:54:52.589Z
+published: 2026-10-09T04:54:52.589Z
 Name: "[[Conjure Minor Elementals]]"
 Spell Level: Level 4
 School: Conjuration

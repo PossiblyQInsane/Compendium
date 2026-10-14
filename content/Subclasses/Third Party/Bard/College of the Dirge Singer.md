@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T15:53:30.619-04:00
-modified: 2026-09-21T04:11:26.175-04:00
-published: 2026-09-21T04:11:26.175-04:00
+created: 2026-08-03T19:53:30.619Z
+modified: 2026-09-21T08:11:26.175Z
+published: 2026-09-21T08:11:26.175Z
 Name: "[[College of the Dirge Singer]]"
 Parent Class: "[[Bard]]"
 Source: Exploring Eberron

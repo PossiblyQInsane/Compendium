@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-03T23:15:30.403-04:00
-modified: 2026-10-10T01:58:11.565-04:00
-published: 2026-10-10T01:58:11.565-04:00
+created: 2026-10-04T03:15:30.403Z
+modified: 2026-10-10T05:58:11.565Z
+published: 2026-10-10T05:58:11.565Z
 Creature Type: Construct
 Subtype: Yokai
 Size: Medium

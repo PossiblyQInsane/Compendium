@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-13T10:33:32.307-04:00
-modified: 2026-09-13T10:36:22.823-04:00
-published: 2026-09-13T10:36:22.823-04:00
+created: 2026-09-13T14:33:32.307Z
+modified: 2026-09-13T14:36:22.823Z
+published: 2026-09-13T14:36:22.823Z
 Name: "[[Thunderous Smite]]"
 Spell Level: Level 1
 School: Evocation

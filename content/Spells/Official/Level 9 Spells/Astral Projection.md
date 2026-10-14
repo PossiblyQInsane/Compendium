@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T00:52:12.780-04:00
-modified: 2026-10-09T01:42:50.298-04:00
-published: 2026-10-09T01:42:50.298-04:00
+created: 2026-08-04T04:52:12.780Z
+modified: 2026-10-09T05:42:50.298Z
+published: 2026-10-09T05:42:50.298Z
 Name: "[[Astral Projection]]"
 Spell Level: Level 9
 School: Necromancy

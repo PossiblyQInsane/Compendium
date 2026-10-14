@@ -4,9 +4,9 @@ aliases:
   - flying speed
   - Fly
   - fly
-created: 2026-07-26T20:50:21.179-04:00
-modified: 2026-09-28T18:40:13.191-04:00
-published: 2026-09-28T18:40:13.191-04:00
+created: 2026-07-27T00:50:21.179Z
+modified: 2026-09-28T22:40:13.191Z
+published: 2026-09-28T22:40:13.191Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

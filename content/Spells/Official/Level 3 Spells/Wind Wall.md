@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-29T11:40:39.734-04:00
-modified: 2026-10-08T11:57:17.228-04:00
-published: 2026-10-08T11:57:17.228-04:00
+created: 2026-07-29T15:40:39.734Z
+modified: 2026-10-08T15:57:17.228Z
+published: 2026-10-08T15:57:17.228Z
 Name: "[[Wind Wall]]"
 Spell Level: Level 3
 School: Evocation

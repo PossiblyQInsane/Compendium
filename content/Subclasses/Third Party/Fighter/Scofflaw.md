@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-24T01:55:40.981-04:00
-modified: 2026-10-11T18:59:39.155-04:00
-published: 2026-10-11T18:59:39.155-04:00
+created: 2026-08-24T05:55:40.981Z
+modified: 2026-10-11T22:59:39.155Z
+published: 2026-10-11T22:59:39.155Z
 Name: "[[Scofflaw]]"
 Parent Class: "[[Fighter]]"
 Source: Humblewood Campaign Setting

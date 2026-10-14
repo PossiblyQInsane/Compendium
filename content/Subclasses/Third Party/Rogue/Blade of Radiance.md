@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:19:40.442-04:00
-modified: 2026-09-22T01:03:56.151-04:00
-published: 2026-09-22T01:03:56.151-04:00
+created: 2026-09-11T05:19:40.442Z
+modified: 2026-09-22T05:03:56.151Z
+published: 2026-09-22T05:03:56.151Z
 Name: "[[Blade of Radiance]]"
 Parent Class: "[[Rogue]]"
 Source: Steinhardt's Guide to the Eldritch Hunt

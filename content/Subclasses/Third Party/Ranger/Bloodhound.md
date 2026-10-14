@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:14:42.020-04:00
-modified: 2026-09-21T16:53:45.533-04:00
-published: 2026-09-21T16:53:45.533-04:00
+created: 2026-09-11T05:14:42.020Z
+modified: 2026-09-21T20:53:45.533Z
+published: 2026-09-21T20:53:45.533Z
 Name: "[[Bloodhound]]"
 Parent Class: "[[Ranger]]"
 Source: "Frontiers of Eberron: Quickstone"

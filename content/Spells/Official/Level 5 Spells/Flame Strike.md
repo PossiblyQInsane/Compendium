@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T23:27:58.455-04:00
-modified: 2026-10-02T18:27:17.665-04:00
-published: 2026-10-02T18:27:17.665-04:00
+created: 2026-08-04T03:27:58.455Z
+modified: 2026-10-02T22:27:17.665Z
+published: 2026-10-02T22:27:17.665Z
 Name: "[[Flame Strike]]"
 Spell Level: Level 5
 School: Evocation

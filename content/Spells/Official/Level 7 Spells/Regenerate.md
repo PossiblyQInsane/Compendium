@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T02:09:38.336-04:00
-modified: 2026-10-09T01:35:14.651-04:00
-published: 2026-10-09T01:35:14.651-04:00
+created: 2026-08-03T06:09:38.336Z
+modified: 2026-10-09T05:35:14.651Z
+published: 2026-10-09T05:35:14.651Z
 Name: "[[Regenerate]]"
 Spell Level: Level 7
 School: Transmutation

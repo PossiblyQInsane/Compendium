@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T20:37:40.271-04:00
-modified: 2026-09-21T04:26:16.058-04:00
-published: 2026-09-21T04:26:16.058-04:00
+created: 2026-08-17T00:37:40.271Z
+modified: 2026-09-21T08:26:16.058Z
+published: 2026-09-21T08:26:16.058Z
 Name: "[[College of Whispers]]"
 Parent Class: "[[Bard]]"
 Source: Xanathar's Guide to Everything

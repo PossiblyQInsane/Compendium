@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T18:55:45.104-04:00
-modified: 2026-10-09T01:40:58.408-04:00
-published: 2026-10-09T01:40:58.408-04:00
+created: 2026-10-05T22:55:45.104Z
+modified: 2026-10-09T05:40:58.408Z
+published: 2026-10-09T05:40:58.408Z
 Name: "[[Maddening Darkness]]"
 Spell Level: Level 8
 School: Evocation

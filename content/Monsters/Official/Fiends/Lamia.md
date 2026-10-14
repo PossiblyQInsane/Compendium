@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-04T21:16:12.174-04:00
-modified: 2026-10-10T01:42:10.144-04:00
-published: 2026-10-10T01:42:10.144-04:00
+created: 2026-10-05T01:16:12.174Z
+modified: 2026-10-10T05:42:10.144Z
+published: 2026-10-10T05:42:10.144Z
 Creature Type: Fiend
 Size: Large
 Alignment: Chaotic Evil

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-03T01:46:39.145-04:00
-modified: 2026-10-08T00:51:33.267-04:00
-published: 2026-10-08T00:51:33.267-04:00
+created: 2026-09-03T05:46:39.145Z
+modified: 2026-10-08T04:51:33.267Z
+published: 2026-10-08T04:51:33.267Z
 Name: "[[Battle Familiar]]"
 Spell Level: Level 2
 School: Conjuration

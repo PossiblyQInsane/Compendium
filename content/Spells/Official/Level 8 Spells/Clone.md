@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T20:41:46.423-04:00
-modified: 2026-10-05T20:43:30.032-04:00
-published: 2026-10-05T20:43:30.032-04:00
+created: 2026-10-06T00:41:46.423Z
+modified: 2026-10-06T00:43:30.032Z
+published: 2026-10-06T00:43:30.032Z
 Name: "[[Clone]]"
 Spell Level: Level 8
 School: Necromancy

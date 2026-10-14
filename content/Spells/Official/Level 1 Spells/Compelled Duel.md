@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-13T10:24:19.443-04:00
-modified: 2026-09-13T10:29:09.335-04:00
-published: 2026-09-13T10:29:09.335-04:00
+created: 2026-09-13T14:24:19.443Z
+modified: 2026-09-13T14:29:09.335Z
+published: 2026-09-13T14:29:09.335Z
 Name: "[[Compelled Duel]]"
 Spell Level: Level 1
 School: Enchantment

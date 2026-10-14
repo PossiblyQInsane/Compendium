@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-04T16:32:18.415-04:00
-modified: 2026-10-08T12:00:26.695-04:00
-published: 2026-10-08T12:00:26.695-04:00
+created: 2026-10-04T20:32:18.415Z
+modified: 2026-10-08T16:00:26.695Z
+published: 2026-10-08T16:00:26.695Z
 Name: "[[Flashbang]]"
 Spell Level: Level 3
 School: Evocation

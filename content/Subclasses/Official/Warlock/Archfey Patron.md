@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:27:27.699-04:00
-modified: 2026-10-05T22:55:26.319-04:00
-published: 2026-10-05T22:55:26.319-04:00
+created: 2026-09-11T05:27:27.699Z
+modified: 2026-10-06T02:55:26.319Z
+published: 2026-10-06T02:55:26.319Z
 Name: "[[Archfey Patron]]"
 Parent Class: "[[Warlock]]"
 Source: Player's Handbook 5.5e

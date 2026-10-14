@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-13T22:16:09.177-04:00
-modified: 2026-10-08T01:31:00.322-04:00
-published: 2026-10-08T01:31:00.322-04:00
+created: 2026-09-14T02:16:09.177Z
+modified: 2026-10-08T05:31:00.322Z
+published: 2026-10-08T05:31:00.322Z
 Name: "[[Chain of Conviction]]"
 Spell Level: Level 2
 School: Conjuration

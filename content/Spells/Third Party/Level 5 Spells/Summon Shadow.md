@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-04T23:37:27.038-04:00
-modified: 2026-10-09T01:26:04.315-04:00
-published: 2026-10-09T01:26:04.315-04:00
+created: 2026-10-05T03:37:27.038Z
+modified: 2026-10-09T05:26:04.315Z
+published: 2026-10-09T05:26:04.315Z
 Name: "[[Summon Shadow]]"
 Spell Level: Level 5
 School: Conjuration

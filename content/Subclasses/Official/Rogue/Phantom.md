@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:18:42.077-04:00
-modified: 2026-09-22T00:11:11.193-04:00
-published: 2026-09-22T00:11:11.193-04:00
+created: 2026-09-11T05:18:42.077Z
+modified: 2026-09-22T04:11:11.193Z
+published: 2026-09-22T04:11:11.193Z
 Name: "[[Phantom]]"
 Parent Class: "[[Rogue]]"
 Source: "Ravenloft: The Horrors Within"

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T09:34:35.165-04:00
-modified: 2026-10-07T11:50:27.662-04:00
-published: 2026-10-07T11:50:27.662-04:00
+created: 2026-08-02T13:34:35.165Z
+modified: 2026-10-07T15:50:27.662Z
+published: 2026-10-07T15:50:27.662Z
 Name: "[[Barbarian]]"
 Source: Player's Handbook 5.5e
 Official: true

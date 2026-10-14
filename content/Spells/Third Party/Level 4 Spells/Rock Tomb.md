@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-03T02:09:30.424-04:00
-modified: 2026-10-09T01:10:25.569-04:00
-published: 2026-10-09T01:10:25.569-04:00
+created: 2026-10-03T06:09:30.424Z
+modified: 2026-10-09T05:10:25.569Z
+published: 2026-10-09T05:10:25.569Z
 Name: "[[Rock Tomb]]"
 Spell Level: Level 4
 School: Conjuration

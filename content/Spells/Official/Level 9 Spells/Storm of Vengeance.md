@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-08T01:02:17.986-04:00
-modified: 2026-08-31T19:54:25.465-04:00
-published: 2026-08-31T19:54:25.465-04:00
+created: 2026-08-08T05:02:17.986Z
+modified: 2026-08-31T23:54:25.465Z
+published: 2026-08-31T23:54:25.465Z
 Name: "[[Storm of Vengeance]]"
 Spell Level: Level 9
 School: Conjuration

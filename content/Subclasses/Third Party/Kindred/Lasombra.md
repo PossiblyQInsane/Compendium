@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:38:52.967-04:00
-modified: 2026-10-12T20:59:47.894-04:00
-published: 2026-10-12T20:59:47.894-04:00
+created: 2026-09-11T05:38:52.967Z
+modified: 2026-10-13T00:59:47.894Z
+published: 2026-10-13T00:59:47.894Z
 Name: "[[Lasombra]]"
 Parent Class: "[[Kindred]]"
 Source: "Vampire: The Masquerade - Bound by Blood"

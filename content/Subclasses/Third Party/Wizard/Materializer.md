@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:34:52.631-04:00
-modified: 2026-10-07T11:58:18.727-04:00
-published: 2026-10-07T11:58:18.727-04:00
+created: 2026-09-11T05:34:52.631Z
+modified: 2026-10-07T15:58:18.727Z
+published: 2026-10-07T15:58:18.727Z
 Name: "[[Materializer]]"
 Parent Class: "[[Wizard]]"
 Source: "The Griffon's Saddlebag: Book One"

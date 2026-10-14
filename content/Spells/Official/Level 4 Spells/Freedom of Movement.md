@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T15:04:39.447-04:00
-modified: 2026-10-09T00:59:00.759-04:00
-published: 2026-10-09T00:59:00.759-04:00
+created: 2026-07-26T19:04:39.447Z
+modified: 2026-10-09T04:59:00.759Z
+published: 2026-10-09T04:59:00.759Z
 Name: "[[Freedom of Movement]]"
 Spell Level: Level 4
 School: Abjuration

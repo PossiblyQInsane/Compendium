@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-29T11:51:31.531-04:00
-modified: 2026-09-29T11:54:01.955-04:00
-published: 2026-09-29T11:54:01.955-04:00
+created: 2026-09-29T15:51:31.531Z
+modified: 2026-09-29T15:54:01.955Z
+published: 2026-09-29T15:54:01.955Z
 Name: "[[Arms of Hadar]]"
 Spell Level: Level 1
 School: Conjuration

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-13T01:27:07.171-04:00
-modified: 2026-09-21T12:38:00.999-04:00
-published: 2026-09-21T12:38:00.999-04:00
+created: 2026-08-13T05:27:07.171Z
+modified: 2026-09-21T16:38:00.999Z
+published: 2026-09-21T16:38:00.999Z
 Name: "[[Bulwark Warrior]]"
 Parent Class: "[[Fighter]]"
 Source: "Grim Hollow: Player's Guide"

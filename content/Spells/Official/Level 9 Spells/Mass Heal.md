@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T00:54:30.904-04:00
-modified: 2026-08-31T19:53:45.833-04:00
-published: 2026-08-31T19:53:45.833-04:00
+created: 2026-08-04T04:54:30.904Z
+modified: 2026-08-31T23:53:45.833Z
+published: 2026-08-31T23:53:45.833Z
 Name: "[[Mass Heal]]"
 Spell Level: Level 9
 School: Abjuration

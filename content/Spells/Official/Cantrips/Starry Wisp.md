@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T20:24:33.929-04:00
-modified: 2026-10-08T00:19:03.252-04:00
-published: 2026-10-08T00:19:03.252-04:00
+created: 2026-08-03T00:24:33.929Z
+modified: 2026-10-08T04:19:03.252Z
+published: 2026-10-08T04:19:03.252Z
 Name: "[[Starry Wisp]]"
 Spell Level: Cantrip
 School: Evocation

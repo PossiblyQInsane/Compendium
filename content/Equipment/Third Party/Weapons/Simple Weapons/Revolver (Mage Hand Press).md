@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-03T01:15:44.590-04:00
-modified: 2026-09-03T01:42:26.423-04:00
-published: 2026-09-03T01:42:26.423-04:00
+created: 2026-09-03T05:15:44.590Z
+modified: 2026-09-03T05:42:26.423Z
+published: 2026-09-03T05:42:26.423Z
 Category: Simple Melee Weapons (Industrial Age Firearms)
 Damage: 2d6 Piercing
 Properties: Ammunition (Range 30/120; Bullet), Firearm, Recoil, Reload (6)

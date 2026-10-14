@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T01:52:05.260-04:00
-modified: 2026-10-09T01:34:08.276-04:00
-published: 2026-10-09T01:34:08.276-04:00
+created: 2026-08-03T05:52:05.260Z
+modified: 2026-10-09T05:34:08.276Z
+published: 2026-10-09T05:34:08.276Z
 Name: "[[Mirage Arcane]]"
 Spell Level: Level 7
 School: Illusion

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-14T22:19:28.258-04:00
-modified: 2026-09-14T22:22:21.443-04:00
-published: 2026-09-14T22:22:21.443-04:00
+created: 2026-09-15T02:19:28.258Z
+modified: 2026-09-15T02:22:21.443Z
+published: 2026-09-15T02:22:21.443Z
 Name: "[[Cordon of Arrows]]"
 Spell Level: Level 2
 School: Transmutation

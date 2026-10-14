@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-09T09:56:26.234-04:00
-modified: 2026-09-21T11:03:43.008-04:00
-published: 2026-09-21T11:03:43.008-04:00
+created: 2026-08-09T13:56:26.234Z
+modified: 2026-09-21T15:03:43.008Z
+published: 2026-09-21T15:03:43.008Z
 Name: "[[Circle of Entropy]]"
 Parent Class: "[[Druid]]"
 Source: "Grim Hollow: Player's Guide"

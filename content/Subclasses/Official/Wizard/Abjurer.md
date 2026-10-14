@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:33:45.323-04:00
-modified: 2026-10-05T23:43:04.426-04:00
-published: 2026-10-05T23:43:04.426-04:00
+created: 2026-09-11T05:33:45.323Z
+modified: 2026-10-06T03:43:04.426Z
+published: 2026-10-06T03:43:04.426Z
 Name: "[[Abjurer]]"
 Parent Class: "[[Wizard]]"
 Source: Player's Handbook 5.5e

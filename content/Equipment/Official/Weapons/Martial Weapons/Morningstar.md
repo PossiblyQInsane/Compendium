@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T20:38:54.239-04:00
-modified: 2026-08-17T16:07:07.080-04:00
-published: 2026-08-17T16:07:07.080-04:00
+created: 2026-08-02T00:38:54.239Z
+modified: 2026-08-17T20:07:07.080Z
+published: 2026-08-17T20:07:07.080Z
 Category: Martial Melee Weapons
 Damage: 1d8 Piercing
 Properties: —

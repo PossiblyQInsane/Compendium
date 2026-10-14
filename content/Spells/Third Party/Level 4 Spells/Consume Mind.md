@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-13T22:55:32.862-04:00
-modified: 2026-10-09T01:07:59.102-04:00
-published: 2026-10-09T01:07:59.102-04:00
+created: 2026-09-14T02:55:32.862Z
+modified: 2026-10-09T05:07:59.102Z
+published: 2026-10-09T05:07:59.102Z
 Name: "[[Consume Mind]]"
 Spell Level: Level 4
 School: Necromancy

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T01:19:43.899-04:00
-modified: 2026-10-09T01:22:42.824-04:00
-published: 2026-10-09T01:22:42.824-04:00
+created: 2026-08-03T05:19:43.899Z
+modified: 2026-10-09T05:22:42.824Z
+published: 2026-10-09T05:22:42.824Z
 Name: "[[Yolande's Regal Presence]]"
 Spell Level: Level 5
 School: Enchantment

@@ -1,9 +1,9 @@
 ---
 publish: true
 title: The Parasite Patron (Ghostfire Gaming)
-created: 2026-09-11T01:28:47.675-04:00
-modified: 2026-10-10T06:06:35.816-04:00
-published: 2026-10-10T06:06:35.816-04:00
+created: 2026-09-11T05:28:47.675Z
+modified: 2026-10-10T10:06:35.816Z
+published: 2026-10-10T10:06:35.816Z
 Name: "[[Parasite Patron (Ghostfire Gaming)|The Parasite Patron]]"
 Parent Class: "[[Warlock]]"
 Source: "Grim Hollow: Player's Guide"

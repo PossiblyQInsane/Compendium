@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T10:11:56.692-04:00
-modified: 2026-10-09T01:20:34.778-04:00
-published: 2026-10-09T01:20:34.778-04:00
+created: 2026-08-04T14:11:56.692Z
+modified: 2026-10-09T05:20:34.778Z
+published: 2026-10-09T05:20:34.778Z
 Name: "[[Steel Wind Strike]]"
 Spell Level: Level 5
 School: Conjuration

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T00:46:53.809-04:00
-modified: 2026-08-31T19:52:35.834-04:00
-published: 2026-08-31T19:52:35.834-04:00
+created: 2026-08-04T04:46:53.809Z
+modified: 2026-08-31T23:52:35.834Z
+published: 2026-08-31T23:52:35.834Z
 Name: "[[Holy Aura]]"
 Spell Level: Level 8
 School: Abjuration

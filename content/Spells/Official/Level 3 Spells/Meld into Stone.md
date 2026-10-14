@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T23:02:57.354-04:00
-modified: 2026-10-08T11:47:40.647-04:00
-published: 2026-10-08T11:47:40.647-04:00
+created: 2026-08-04T03:02:57.354Z
+modified: 2026-10-08T15:47:40.647Z
+published: 2026-10-08T15:47:40.647Z
 Name: "[[Meld into Stone]]"
 Spell Level: Level 3
 School: Transmutation

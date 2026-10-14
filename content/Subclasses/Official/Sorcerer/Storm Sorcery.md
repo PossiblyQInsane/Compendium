@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:25:57.734-04:00
-modified: 2026-10-02T19:31:51.289-04:00
-published: 2026-10-02T19:31:51.289-04:00
+created: 2026-09-11T05:25:57.734Z
+modified: 2026-10-02T23:31:51.289Z
+published: 2026-10-02T23:31:51.289Z
 Name: "[[Storm Sorcery]]"
 Parent Class: "[[Sorcerer]]"
 Source: Sword Coast Adventurer's Guide

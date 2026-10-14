@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T02:43:48.616-04:00
-modified: 2026-10-13T02:45:55.906-04:00
-published: 2026-10-13T02:45:55.906-04:00
+created: 2026-10-13T06:43:48.616Z
+modified: 2026-10-13T06:45:55.906Z
+published: 2026-10-13T06:45:55.906Z
 Name: "[[Waypoint]]"
 Spell Level: Level 3
 School: Conjuration

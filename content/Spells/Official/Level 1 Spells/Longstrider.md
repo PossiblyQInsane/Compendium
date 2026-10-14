@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T23:01:54.147-04:00
-modified: 2026-10-08T00:41:54.689-04:00
-published: 2026-10-08T00:41:54.689-04:00
+created: 2026-07-26T03:01:54.147Z
+modified: 2026-10-08T04:41:54.689Z
+published: 2026-10-08T04:41:54.689Z
 Name: "[[Longstrider|Longstrider]]"
 Spell Level: Level 1
 School: Transmutation

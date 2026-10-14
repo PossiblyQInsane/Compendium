@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T01:37:31.336-04:00
-modified: 2026-10-09T01:30:02.758-04:00
-published: 2026-10-09T01:30:02.758-04:00
+created: 2026-08-03T05:37:31.336Z
+modified: 2026-10-09T05:30:02.758Z
+published: 2026-10-09T05:30:02.758Z
 Name: "[[Otto's Irresistible Dance]]"
 Spell Level: Level 6
 School: Enchantment

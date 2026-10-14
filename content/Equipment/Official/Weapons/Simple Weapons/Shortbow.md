@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T18:23:26.565-04:00
-modified: 2026-08-17T16:08:30.764-04:00
-published: 2026-08-17T16:08:30.764-04:00
+created: 2026-08-01T22:23:26.565Z
+modified: 2026-08-17T20:08:30.764Z
+published: 2026-08-17T20:08:30.764Z
 Category: Simple Ranged Weapons
 Damage: 1d6 Piercing
 Properties: Ammunition (Range 80/320; Arrow), Two-Handed

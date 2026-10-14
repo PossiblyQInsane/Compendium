@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - white dragon
-created: 2026-09-07T22:50:05.801-04:00
-modified: 2026-10-10T01:47:51.111-04:00
-published: 2026-10-10T01:47:51.111-04:00
+created: 2026-09-08T02:50:05.801Z
+modified: 2026-10-10T05:47:51.111Z
+published: 2026-10-10T05:47:51.111Z
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

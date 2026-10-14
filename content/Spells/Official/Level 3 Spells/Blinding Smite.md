@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-13T10:42:26.620-04:00
-modified: 2026-09-13T10:45:27.851-04:00
-published: 2026-09-13T10:45:27.851-04:00
+created: 2026-09-13T14:42:26.620Z
+modified: 2026-09-13T14:45:27.851Z
+published: 2026-09-13T14:45:27.851Z
 Name: "[[Blinding Smite]]"
 Spell Level: Level 3
 School: Evocation

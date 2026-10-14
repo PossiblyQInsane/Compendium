@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:28:47.675-04:00
-modified: 2026-10-10T14:42:56.035-04:00
-published: 2026-10-10T14:42:56.035-04:00
+created: 2026-09-11T05:28:47.675Z
+modified: 2026-10-10T18:42:56.035Z
+published: 2026-10-10T18:42:56.035Z
 Name: "[[Fungus Patron]]"
 Parent Class: "[[Warlock]]"
 Source: The Field Guide to Floral Dragons

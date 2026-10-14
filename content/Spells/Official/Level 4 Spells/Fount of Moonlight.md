@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T00:24:42.756-04:00
-modified: 2026-10-09T00:58:36.782-04:00
-published: 2026-10-09T00:58:36.782-04:00
+created: 2026-08-03T04:24:42.756Z
+modified: 2026-10-09T04:58:36.782Z
+published: 2026-10-09T04:58:36.782Z
 Name: "[[Fount of Moonlight]]"
 Spell Level: Level 4
 School: Evocation

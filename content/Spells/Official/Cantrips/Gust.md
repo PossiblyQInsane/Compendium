@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-20T11:14:39.555-04:00
-modified: 2026-10-08T00:10:56.131-04:00
-published: 2026-10-08T00:10:56.131-04:00
+created: 2026-08-20T15:14:39.555Z
+modified: 2026-10-08T04:10:56.131Z
+published: 2026-10-08T04:10:56.131Z
 Name: "[[Gust]]"
 Spell Level: Cantrip
 School: Transmutation

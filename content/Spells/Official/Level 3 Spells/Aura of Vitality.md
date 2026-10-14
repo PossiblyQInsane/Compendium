@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T00:29:59.910-04:00
-modified: 2026-10-08T11:32:31.715-04:00
-published: 2026-10-08T11:32:31.715-04:00
+created: 2026-07-30T04:29:59.910Z
+modified: 2026-10-08T15:32:31.715Z
+published: 2026-10-08T15:32:31.715Z
 Name: "[[Aura of Vitality]]"
 Spell Level: Level 3
 School: Abjuration

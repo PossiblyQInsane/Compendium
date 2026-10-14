@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Light
 title: Light
-created: 2026-07-25T21:37:23.511-04:00
-modified: 2026-09-11T00:42:41.574-04:00
-published: 2026-09-11T00:42:41.574-04:00
+created: 2026-07-26T01:37:23.511Z
+modified: 2026-09-11T04:42:41.574Z
+published: 2026-09-11T04:42:41.574Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

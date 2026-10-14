@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:14:42.020-04:00
-modified: 2026-10-03T02:01:19.246-04:00
-published: 2026-10-03T02:01:19.246-04:00
+created: 2026-09-11T05:14:42.020Z
+modified: 2026-10-03T06:01:19.246Z
+published: 2026-10-03T06:01:19.246Z
 Name: "[[Trapper]]"
 Parent Class: "[[Ranger]]"
 Source: Heliana's Guide to Monster Hunting

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:25:57.734-04:00
-modified: 2026-10-02T19:44:04.824-04:00
-published: 2026-10-02T19:44:04.824-04:00
+created: 2026-09-11T05:25:57.734Z
+modified: 2026-10-02T23:44:04.824Z
+published: 2026-10-02T23:44:04.824Z
 Name: "[[Divine Soul]]"
 Parent Class: "[[Sorcerer]]"
 Source: Xanathar's Guide to Everything

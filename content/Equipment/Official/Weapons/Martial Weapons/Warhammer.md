@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T21:03:13.775-04:00
-modified: 2026-08-17T16:07:42.078-04:00
-published: 2026-08-17T16:07:42.078-04:00
+created: 2026-08-02T01:03:13.775Z
+modified: 2026-08-17T20:07:42.078Z
+published: 2026-08-17T20:07:42.078Z
 Category: Martial Melee Weapons
 Damage: 1d8 Bludgeoning
 Properties: Versatile (1d10)

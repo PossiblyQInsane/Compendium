@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T20:15:08.627-04:00
-modified: 2026-08-17T16:06:29.353-04:00
-published: 2026-08-17T16:06:29.353-04:00
+created: 2026-08-02T00:15:08.627Z
+modified: 2026-08-17T20:06:29.353Z
+published: 2026-08-17T20:06:29.353Z
 Category: Martial Melee Weapons
 Damage: 1d12 Slashing
 Properties: Heavy, Two-Handed

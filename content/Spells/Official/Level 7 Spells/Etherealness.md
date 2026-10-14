@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T01:46:05.967-04:00
-modified: 2026-10-09T01:33:24.923-04:00
-published: 2026-10-09T01:33:24.923-04:00
+created: 2026-08-03T05:46:05.967Z
+modified: 2026-10-09T05:33:24.923Z
+published: 2026-10-09T05:33:24.923Z
 Name: "[[Etherealness]]"
 Spell Level: Level 7
 School: Conjuration

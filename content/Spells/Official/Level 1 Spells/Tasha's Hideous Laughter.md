@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T20:47:43.306-04:00
-modified: 2026-10-08T00:47:23.028-04:00
-published: 2026-10-08T00:47:23.028-04:00
+created: 2026-08-03T00:47:43.306Z
+modified: 2026-10-08T04:47:23.028Z
+published: 2026-10-08T04:47:23.028Z
 Name: "[[Tasha's Hideous Laughter]]"
 Spell Level: Level 1
 School: Enchantment

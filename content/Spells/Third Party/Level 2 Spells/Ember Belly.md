@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-10T21:00:29.480-04:00
-modified: 2026-10-10T21:04:59.562-04:00
-published: 2026-10-10T21:04:59.562-04:00
+created: 2026-10-11T01:00:29.480Z
+modified: 2026-10-11T01:04:59.562Z
+published: 2026-10-11T01:04:59.562Z
 Name: "[[Ember Belly]]"
 Spell Level: Level 2
 School: Evocation

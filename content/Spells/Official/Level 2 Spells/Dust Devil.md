@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-20T11:51:54.959-04:00
-modified: 2026-10-08T00:57:26.452-04:00
-published: 2026-10-08T00:57:26.452-04:00
+created: 2026-08-20T15:51:54.959Z
+modified: 2026-10-08T04:57:26.452Z
+published: 2026-10-08T04:57:26.452Z
 Name: "[[Dust Devil]]"
 Spell Level: Level 2
 School: Conjuration

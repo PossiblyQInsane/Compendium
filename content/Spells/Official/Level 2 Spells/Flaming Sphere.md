@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T20:01:12.755-04:00
-modified: 2026-10-08T01:01:05.279-04:00
-published: 2026-10-08T01:01:05.279-04:00
+created: 2026-07-27T00:01:12.755Z
+modified: 2026-10-08T05:01:05.279Z
+published: 2026-10-08T05:01:05.279Z
 Name: "[[Flaming Sphere]]"
 Spell Level: Level 2
 School: Conjuration

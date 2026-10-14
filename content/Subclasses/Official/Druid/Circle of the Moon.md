@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-08T01:15:34.686-04:00
-modified: 2026-09-21T11:02:02.801-04:00
-published: 2026-09-21T11:02:02.801-04:00
+created: 2026-08-08T05:15:34.686Z
+modified: 2026-09-21T15:02:02.801Z
+published: 2026-09-21T15:02:02.801Z
 Name: "[[Circle of the Moon]]"
 Parent Class: "[[Druid]]"
 Source: Player's Handbook 5.5e

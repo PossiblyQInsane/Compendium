@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-12T00:03:53.930-04:00
-modified: 2026-10-12T00:07:44.705-04:00
-published: 2026-10-12T00:07:44.705-04:00
+created: 2026-10-12T04:03:53.930Z
+modified: 2026-10-12T04:07:44.705Z
+published: 2026-10-12T04:07:44.705Z
 Name: "[[Aura of Desecration]]"
 Spell Level: Level 4
 School: Abjuration

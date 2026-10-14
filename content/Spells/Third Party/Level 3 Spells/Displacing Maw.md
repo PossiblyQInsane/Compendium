@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-10T13:38:46.345-04:00
-modified: 2026-10-08T11:58:34.790-04:00
-published: 2026-10-08T11:58:34.790-04:00
+created: 2026-08-10T17:38:46.345Z
+modified: 2026-10-08T15:58:34.790Z
+published: 2026-10-08T15:58:34.790Z
 Name: "[[Displacing Maw]]"
 Spell Level: Level 3
 School: Conjuration

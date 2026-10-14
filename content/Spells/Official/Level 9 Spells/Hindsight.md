@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-03T10:40:00.253-04:00
-modified: 2026-09-03T10:42:11.673-04:00
-published: 2026-09-03T10:42:11.673-04:00
+created: 2026-09-03T14:40:00.253Z
+modified: 2026-09-03T14:42:11.673Z
+published: 2026-09-03T14:42:11.673Z
 Name: "[[Hindsight]]"
 Spell Level: Level 9
 School: Divination

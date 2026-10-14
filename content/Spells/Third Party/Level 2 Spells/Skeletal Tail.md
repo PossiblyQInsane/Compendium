@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T23:24:36.474-04:00
-modified: 2026-10-08T01:33:51.828-04:00
-published: 2026-10-08T01:33:51.828-04:00
+created: 2026-09-22T03:24:36.474Z
+modified: 2026-10-08T05:33:51.828Z
+published: 2026-10-08T05:33:51.828Z
 Name: "[[Skeletal Tail]]"
 Spell Level: Level 2
 School: Conjuration

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-13T11:14:33.717-04:00
-modified: 2026-09-13T11:58:10.550-04:00
-published: 2026-09-13T11:58:10.550-04:00
+created: 2026-09-13T15:14:33.717Z
+modified: 2026-09-13T15:58:10.550Z
+published: 2026-09-13T15:58:10.550Z
 Creature Type: Beast
 Size: Large
 Alignment: Unaligned

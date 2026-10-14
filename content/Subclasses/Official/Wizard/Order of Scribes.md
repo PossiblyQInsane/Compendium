@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:36:44.039-04:00
-modified: 2026-10-06T10:35:30.996-04:00
-published: 2026-10-06T10:35:30.996-04:00
+created: 2026-09-11T05:36:44.039Z
+modified: 2026-10-06T14:35:30.996Z
+published: 2026-10-06T14:35:30.996Z
 Name: "[[Order of Scribes]]"
 Parent Class: "[[Wizard]]"
 Source: Tasha's Cauldron of Everything

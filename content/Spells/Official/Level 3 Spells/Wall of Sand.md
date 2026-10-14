@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T19:46:42.587-04:00
-modified: 2026-10-05T19:50:02.839-04:00
-published: 2026-10-05T19:50:02.839-04:00
+created: 2026-10-05T23:46:42.587Z
+modified: 2026-10-05T23:50:02.839Z
+published: 2026-10-05T23:50:02.839Z
 Name: "[[Wall of Sand]]"
 Spell Level: Level 3
 School: Evocation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T03:16:44.644-04:00
-modified: 2026-10-04T00:46:02.922-04:00
-published: 2026-10-04T00:46:02.922-04:00
+created: 2026-09-21T07:16:44.644Z
+modified: 2026-10-04T04:46:02.922Z
+published: 2026-10-04T04:46:02.922Z
 Name: "[[Belly Brewer]]"
 Parent Class: "[[Barbarian]]"
 Source: "Obojima: Tales from the Tall Grass"

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-02T11:56:01.934-04:00
-modified: 2026-09-21T23:35:35.179-04:00
-published: 2026-09-21T23:35:35.179-04:00
+created: 2026-09-02T15:56:01.934Z
+modified: 2026-09-22T03:35:35.179Z
+published: 2026-09-22T03:35:35.179Z
 Name: "[[Trick Shot]]"
 Parent Class: "[[Gunslinger]]"
 Source: Valda's Spire of Secrets

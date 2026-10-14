@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-09T09:14:21.314-04:00
-modified: 2026-10-08T01:24:07.629-04:00
-published: 2026-10-08T01:24:07.629-04:00
+created: 2026-08-09T13:14:21.314Z
+modified: 2026-10-08T05:24:07.629Z
+published: 2026-10-08T05:24:07.629Z
 Name: "[[Crimson Lash]]"
 Spell Level: Level 1
 School: Conjuration

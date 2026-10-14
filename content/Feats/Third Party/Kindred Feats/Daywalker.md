@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-12T22:06:07.358-04:00
-modified: 2026-10-12T22:13:17.865-04:00
-published: 2026-10-12T22:13:17.865-04:00
+created: 2026-10-13T02:06:07.358Z
+modified: 2026-10-13T02:13:17.865Z
+published: 2026-10-13T02:13:17.865Z
 Feat Category: Kindred Feat
 Prerequisite:
   - Kindred Class

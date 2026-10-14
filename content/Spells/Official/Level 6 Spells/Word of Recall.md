@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T00:20:32.688-04:00
-modified: 2026-08-31T19:48:28.005-04:00
-published: 2026-08-31T19:48:28.005-04:00
+created: 2026-08-04T04:20:32.688Z
+modified: 2026-08-31T23:48:28.005Z
+published: 2026-08-31T23:48:28.005Z
 Name: "[[Word of Recall]]"
 Spell Level: Level 6
 School: Conjuration

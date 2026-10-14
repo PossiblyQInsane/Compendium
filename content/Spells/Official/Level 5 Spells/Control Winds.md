@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-23T21:40:23.286-04:00
-modified: 2026-10-09T01:14:28.319-04:00
-published: 2026-10-09T01:14:28.319-04:00
+created: 2026-08-24T01:40:23.286Z
+modified: 2026-10-09T05:14:28.319Z
+published: 2026-10-09T05:14:28.319Z
 Name: "[[Control Winds]]"
 Spell Level: Level 5
 School: Transmutation

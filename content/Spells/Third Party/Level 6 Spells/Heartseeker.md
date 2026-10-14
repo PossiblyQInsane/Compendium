@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-23T11:36:04.505-04:00
-modified: 2026-10-09T01:32:18.995-04:00
-published: 2026-10-09T01:32:18.995-04:00
+created: 2026-09-23T15:36:04.505Z
+modified: 2026-10-09T05:32:18.995Z
+published: 2026-10-09T05:32:18.995Z
 Name: "[[Heartseeker]]"
 Spell Level: Level 6
 School: Evocation

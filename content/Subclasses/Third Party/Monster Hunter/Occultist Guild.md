@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:39:56.364-04:00
-modified: 2026-10-11T18:12:30.543-04:00
-published: 2026-10-11T18:12:30.543-04:00
+created: 2026-09-11T05:39:56.364Z
+modified: 2026-10-11T22:12:30.543Z
+published: 2026-10-11T22:12:30.543Z
 Name: "[[Occultist Guild]]"
 Parent Class: "[[Monster Hunter]]"
 Source: "Grim Hollow: Player's Guide"

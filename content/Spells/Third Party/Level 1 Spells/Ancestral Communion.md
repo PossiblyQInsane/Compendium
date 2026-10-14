@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-10T12:55:20.486-04:00
-modified: 2026-10-08T01:21:19.367-04:00
-published: 2026-10-08T01:21:19.367-04:00
+created: 2026-08-10T16:55:20.486Z
+modified: 2026-10-08T05:21:19.367Z
+published: 2026-10-08T05:21:19.367Z
 Name: "[[Ancestral Communion]]"
 Spell Level: Level 1
 School: Divination

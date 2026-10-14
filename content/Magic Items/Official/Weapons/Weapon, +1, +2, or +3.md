@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T17:22:36.629-04:00
-modified: 2026-10-12T15:56:34.395-04:00
-published: 2026-10-12T15:56:34.395-04:00
+created: 2026-07-25T21:22:36.629Z
+modified: 2026-10-12T19:56:34.395Z
+published: 2026-10-12T19:56:34.395Z
 Category: Weapon
 Rarity:
   - Uncommon

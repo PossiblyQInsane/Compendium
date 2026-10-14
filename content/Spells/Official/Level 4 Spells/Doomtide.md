@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T17:57:08.267-04:00
-modified: 2026-10-09T00:57:20.346-04:00
-published: 2026-10-09T00:57:20.346-04:00
+created: 2026-08-16T21:57:08.267Z
+modified: 2026-10-09T04:57:20.346Z
+published: 2026-10-09T04:57:20.346Z
 Name: "[[Doomtide]]"
 Spell Level: Level 4
 School: Conjuration

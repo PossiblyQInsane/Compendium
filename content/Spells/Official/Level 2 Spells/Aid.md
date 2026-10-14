@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T23:12:27.045-04:00
-modified: 2026-10-08T00:49:18.676-04:00
-published: 2026-10-08T00:49:18.676-04:00
+created: 2026-07-26T03:12:27.045Z
+modified: 2026-10-08T04:49:18.676Z
+published: 2026-10-08T04:49:18.676Z
 Name: "[[Aid|Aid]]"
 Spell Level: Level 2
 School: Abjuration

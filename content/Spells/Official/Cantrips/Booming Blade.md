@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-15T21:29:32.735-04:00
-modified: 2026-10-08T00:05:09.734-04:00
-published: 2026-10-08T00:05:09.734-04:00
+created: 2026-08-16T01:29:32.735Z
+modified: 2026-10-08T04:05:09.734Z
+published: 2026-10-08T04:05:09.734Z
 Name: "[[Booming Blade]]"
 Spell Level: Cantrip
 School: Evocation

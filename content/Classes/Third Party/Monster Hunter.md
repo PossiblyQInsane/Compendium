@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-26T16:37:37.073-04:00
-modified: 2026-10-11T17:35:27.144-04:00
-published: 2026-10-11T17:35:27.144-04:00
+created: 2026-09-26T20:37:37.073Z
+modified: 2026-10-11T21:35:27.144Z
+published: 2026-10-11T21:35:27.144Z
 Name: "[[Monster Hunter]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false

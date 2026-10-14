@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T01:26:09.106-04:00
-modified: 2026-10-13T01:29:03.222-04:00
-published: 2026-10-13T01:29:03.222-04:00
+created: 2026-10-13T05:26:09.106Z
+modified: 2026-10-13T05:29:03.222Z
+published: 2026-10-13T05:29:03.222Z
 Name: "[[Baffle]]"
 Spell Level: Cantrip
 School: Enchantment

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-08T00:57:02.409-04:00
-modified: 2026-08-31T19:53:17.483-04:00
-published: 2026-08-31T19:53:17.483-04:00
+created: 2026-08-08T04:57:02.409Z
+modified: 2026-08-31T23:53:17.483Z
+published: 2026-08-31T23:53:17.483Z
 Name: "[[Tsunami]]"
 Spell Level: Level 8
 School: Conjuration

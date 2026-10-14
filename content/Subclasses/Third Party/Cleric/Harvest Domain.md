@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T11:07:59.031-04:00
-modified: 2026-09-21T10:45:53.120-04:00
-published: 2026-09-21T10:45:53.120-04:00
+created: 2026-08-04T15:07:59.031Z
+modified: 2026-09-21T14:45:53.120Z
+published: 2026-09-21T14:45:53.120Z
 Name: "[[Harvest Domain]]"
 Parent Class: "[[Cleric]]"
 Source: The Crooked Moon

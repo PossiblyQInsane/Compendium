@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-13T09:48:32.277-04:00
-modified: 2026-10-07T11:51:17.913-04:00
-published: 2026-10-07T11:51:17.913-04:00
+created: 2026-09-13T13:48:32.277Z
+modified: 2026-10-07T15:51:17.913Z
+published: 2026-10-07T15:51:17.913Z
 Name: "[[Paladin]]"
 Source: Player's Handbook 5.5e
 Official: true

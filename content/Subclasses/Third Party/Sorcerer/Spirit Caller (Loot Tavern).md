@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-02T18:35:51.658-04:00
-modified: 2026-10-05T02:54:17.435-04:00
-published: 2026-10-05T02:54:17.435-04:00
+created: 2026-10-02T22:35:51.658Z
+modified: 2026-10-05T06:54:17.435Z
+published: 2026-10-05T06:54:17.435Z
 Name: "[[Spirit Caller (Loot Tavern)|Spirit Caller]]"
 Parent Class: "[[Sorcerer]]"
 Source: Ryoko's Guide to the Yokai Realms

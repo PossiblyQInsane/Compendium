@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-02T17:53:14.118-04:00
-modified: 2026-10-02T17:56:32.978-04:00
-published: 2026-10-02T17:56:32.978-04:00
+created: 2026-10-02T21:53:14.118Z
+modified: 2026-10-02T21:56:32.978Z
+published: 2026-10-02T21:56:32.978Z
 Name: "[[Tenser's Floating Disk]]"
 Spell Level: Level 1
 School: Conjuration

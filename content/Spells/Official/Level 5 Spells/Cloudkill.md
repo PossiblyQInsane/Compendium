@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T20:34:02.194-04:00
-modified: 2026-10-09T01:13:16.401-04:00
-published: 2026-10-09T01:13:16.401-04:00
+created: 2026-07-27T00:34:02.194Z
+modified: 2026-10-09T05:13:16.401Z
+published: 2026-10-09T05:13:16.401Z
 Name: "[[Cloudkill]]"
 Spell Level: Level 5
 School: Conjuration

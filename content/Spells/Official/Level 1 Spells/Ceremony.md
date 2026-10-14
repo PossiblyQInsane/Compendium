@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-17T20:34:42.965-04:00
-modified: 2026-10-08T12:08:19.856-04:00
-published: 2026-10-08T12:08:19.856-04:00
+created: 2026-08-18T00:34:42.965Z
+modified: 2026-10-08T16:08:19.856Z
+published: 2026-10-08T16:08:19.856Z
 Name: "[[Ceremony]]"
 Spell Level: Level 1
 School: Abjuration

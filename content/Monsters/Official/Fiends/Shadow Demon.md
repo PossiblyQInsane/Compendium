@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T17:47:52.982-04:00
-modified: 2026-10-10T01:45:00.715-04:00
-published: 2026-10-10T01:45:00.715-04:00
+created: 2026-10-05T21:47:52.982Z
+modified: 2026-10-10T05:45:00.715Z
+published: 2026-10-10T05:45:00.715Z
 Creature Type: Fiend
 Subtype: Demon
 Size: Medium

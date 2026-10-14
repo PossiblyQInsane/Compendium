@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T17:26:51.681-04:00
-modified: 2026-10-08T11:33:38.846-04:00
-published: 2026-10-08T11:33:38.846-04:00
+created: 2026-08-16T21:26:51.681Z
+modified: 2026-10-08T15:33:38.846Z
+published: 2026-10-08T15:33:38.846Z
 Name: "[[Cacophonic Shield]]"
 Spell Level: Level 3
 School: Evocation

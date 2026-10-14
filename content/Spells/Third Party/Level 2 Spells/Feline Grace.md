@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-10T13:32:17.454-04:00
-modified: 2026-10-10T13:38:48.213-04:00
-published: 2026-10-10T13:38:48.213-04:00
+created: 2026-10-10T17:32:17.454Z
+modified: 2026-10-10T17:38:48.213Z
+published: 2026-10-10T17:38:48.213Z
 Name: "[[Feline Grace]]"
 Spell Level: Level 2
 School: Transmutation

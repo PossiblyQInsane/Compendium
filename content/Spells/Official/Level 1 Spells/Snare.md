@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-15T22:18:24.527-04:00
-modified: 2026-10-08T00:46:31.159-04:00
-published: 2026-10-08T00:46:31.159-04:00
+created: 2026-08-16T02:18:24.527Z
+modified: 2026-10-08T04:46:31.159Z
+published: 2026-10-08T04:46:31.159Z
 Name: "[[Snare]]"
 Spell Level: Level 1
 School: Abjuration

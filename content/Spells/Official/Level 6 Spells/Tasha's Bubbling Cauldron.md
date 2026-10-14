@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T20:55:56.537-04:00
-modified: 2026-10-09T01:30:57.432-04:00
-published: 2026-10-09T01:30:57.432-04:00
+created: 2026-07-27T00:55:56.537Z
+modified: 2026-10-09T05:30:57.432Z
+published: 2026-10-09T05:30:57.432Z
 Name: "[[Tasha's Bubbling Cauldron]]"
 Spell Level: Level 6
 School: Conjuration

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T11:34:42.281-04:00
-modified: 2026-10-09T01:08:12.625-04:00
-published: 2026-10-09T01:08:12.625-04:00
+created: 2026-08-04T15:34:42.281Z
+modified: 2026-10-09T05:08:12.625Z
+published: 2026-10-09T05:08:12.625Z
 Name: "[[Consuming Pyre]]"
 Spell Level: Level 4
 School: Evocation

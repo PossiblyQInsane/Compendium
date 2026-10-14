@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-02T18:34:58.185-04:00
-modified: 2026-10-04T16:05:57.704-04:00
-published: 2026-10-04T16:05:57.704-04:00
+created: 2026-10-02T22:34:58.185Z
+modified: 2026-10-04T20:05:57.704Z
+published: 2026-10-04T20:05:57.704Z
 Name: "[[Rōnin]]"
 Parent Class: "[[Ranger]]"
 Source: Ryoko's Guide to the Yokai Realms

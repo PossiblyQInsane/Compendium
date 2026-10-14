@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-12T00:51:54.629-04:00
-modified: 2026-09-30T00:31:32.389-04:00
-published: 2026-09-30T00:31:32.389-04:00
+created: 2026-08-12T04:51:54.629Z
+modified: 2026-09-30T04:31:32.389Z
+published: 2026-09-30T04:31:32.389Z
 Name: "[[Commerce Domain]]"
 Parent Class: "[[Cleric]]"
 Source: "Frontiers of Eberron: Quickstone"

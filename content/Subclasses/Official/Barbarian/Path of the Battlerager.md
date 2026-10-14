@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T12:40:10.605-04:00
-modified: 2026-09-21T03:44:19.361-04:00
-published: 2026-09-21T03:44:19.361-04:00
+created: 2026-08-16T16:40:10.605Z
+modified: 2026-09-21T07:44:19.361Z
+published: 2026-09-21T07:44:19.361Z
 Name: "[[Path of the Battlerager]]"
 Parent Class: "[[Barbarian]]"
 Source: Sword Coast Adventurer's Guide

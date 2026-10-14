@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:34:52.631-04:00
-modified: 2026-10-10T13:02:57.278-04:00
-published: 2026-10-10T13:02:57.278-04:00
+created: 2026-09-11T05:34:52.631Z
+modified: 2026-10-10T17:02:57.278Z
+published: 2026-10-10T17:02:57.278Z
 Name: "[[Sangromancer]]"
 Parent Class: "[[Wizard]]"
 Source: "Grim Hollow: Player's Guide"

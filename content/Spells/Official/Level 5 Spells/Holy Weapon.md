@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-17T21:27:30.023-04:00
-modified: 2026-10-09T01:17:12.865-04:00
-published: 2026-10-09T01:17:12.865-04:00
+created: 2026-08-18T01:27:30.023Z
+modified: 2026-10-09T05:17:12.865Z
+published: 2026-10-09T05:17:12.865Z
 Name: "[[Holy Weapon]]"
 Spell Level: Level 5
 School: Evocation

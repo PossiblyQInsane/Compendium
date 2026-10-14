@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T01:50:39.609-04:00
-modified: 2026-10-13T01:54:00.431-04:00
-published: 2026-10-13T01:54:00.431-04:00
+created: 2026-10-13T05:50:39.609Z
+modified: 2026-10-13T05:54:00.431Z
+published: 2026-10-13T05:54:00.431Z
 Name: "[[Provoke]]"
 Spell Level: Level 1
 School: Enchantment

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-15T22:13:48.076-04:00
-modified: 2026-10-08T00:24:32.541-04:00
-published: 2026-10-08T00:24:32.541-04:00
+created: 2026-08-16T02:13:48.076Z
+modified: 2026-10-08T04:24:32.541Z
+published: 2026-10-08T04:24:32.541Z
 Name: "[[Catapult]]"
 Spell Level: Level 1
 School: Transmutation

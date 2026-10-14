@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:38:52.967-04:00
-modified: 2026-10-12T16:30:44.203-04:00
-published: 2026-10-12T16:30:44.203-04:00
+created: 2026-09-11T05:38:52.967Z
+modified: 2026-10-12T20:30:44.203Z
+published: 2026-10-12T20:30:44.203Z
 Name: "[[Brujah]]"
 Parent Class: "[[Kindred]]"
 Source: "Vampire: The Masquerade - Bound by Blood"

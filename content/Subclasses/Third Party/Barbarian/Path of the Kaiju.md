@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-02T18:30:28.693-04:00
-modified: 2026-10-10T16:19:48.416-04:00
-published: 2026-10-10T16:19:48.416-04:00
+created: 2026-10-02T22:30:28.693Z
+modified: 2026-10-10T20:19:48.416Z
+published: 2026-10-10T20:19:48.416Z
 Name: "[[Path of the Kaiju]]"
 Parent Class: "[[Barbarian]]"
 Source: Ryoko's Guide to the Yokai Realms

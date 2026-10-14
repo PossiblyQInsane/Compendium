@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T13:25:00.639-04:00
-modified: 2026-10-08T11:33:27.200-04:00
-published: 2026-10-08T11:33:27.200-04:00
+created: 2026-07-26T17:25:00.639Z
+modified: 2026-10-08T15:33:27.200Z
+published: 2026-10-08T15:33:27.200Z
 Name: "[[Blink]]"
 Spell Level: Level 3
 School: Transmutation

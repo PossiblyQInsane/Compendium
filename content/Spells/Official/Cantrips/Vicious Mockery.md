@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T19:46:13.181-04:00
-modified: 2026-10-08T00:21:07.162-04:00
-published: 2026-10-08T00:21:07.162-04:00
+created: 2026-08-02T23:46:13.181Z
+modified: 2026-10-08T04:21:07.162Z
+published: 2026-10-08T04:21:07.162Z
 Name: "[[Vicious Mockery]]"
 Spell Level: Cantrip
 School: Enchantment

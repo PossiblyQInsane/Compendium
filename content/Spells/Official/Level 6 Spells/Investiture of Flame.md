@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-23T22:43:22.296-04:00
-modified: 2026-10-09T01:28:46.536-04:00
-published: 2026-10-09T01:28:46.536-04:00
+created: 2026-08-24T02:43:22.296Z
+modified: 2026-10-09T05:28:46.536Z
+published: 2026-10-09T05:28:46.536Z
 Name: "[[Investiture of Flame]]"
 Spell Level: Level 6
 School: Transmutation

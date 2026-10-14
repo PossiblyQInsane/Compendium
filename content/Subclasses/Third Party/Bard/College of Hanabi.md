@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-02T18:30:48.098-04:00
-modified: 2026-10-10T16:20:19.686-04:00
-published: 2026-10-10T16:20:19.686-04:00
+created: 2026-10-02T22:30:48.098Z
+modified: 2026-10-10T20:20:19.686Z
+published: 2026-10-10T20:20:19.686Z
 Name: "[[College of Hanabi]]"
 Parent Class: "[[Bard]]"
 Source: Ryoko's Guide to the Yokai Realms

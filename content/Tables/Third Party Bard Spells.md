@@ -1,16 +1,18 @@
 ### Cantrips (Level 0 Bard Spells)
 
-| Name                                                                          | School      | Special | Source                             | Publisher                       |
-| ----------------------------------------------------------------------------- | ----------- | ------- | ---------------------------------- | ------------------------------- |
-| _[[Spells/Third Party/Cantrips/Baffle.md\|Baffle]]_                           | Enchantment | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Cantrips/Cat's Spring.md\|Cat's Spring]]_               | Conjuration | —       | Cthulhu by Torchlight              | Chaosium                        |
-| _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_           | Illusion    | —       | Valda's Spire of Secrets           | Mage Hand Press                 |
-| _[[Spells/Third Party/Cantrips/Confounding Shadows.md\|Confounding Shadows]]_ | Conjuration | —       | Cthulhu by Torchlight              | Chaosium                        |
-| _[[Spells/Third Party/Cantrips/Finger Guns.md\|Finger Guns]]_                 | Evocation   | —       | Valda's Spire of Secrets           | Mage Hand Press                 |
-| _[[Spells/Third Party/Cantrips/Jolt.md\|Jolt]]_                               | Evocation   | —       | Obojima: Tales from the Tall Grass | 1985 Games                      |
-| _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_ | Illusion    | —       | The Crooked Moon                   | Avantris Entertainment          |
-| _[[Spells/Third Party/Cantrips/Phantasmal Feint.md\|Phantasmal Feint]]_       | Illusion    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Cantrips/Smokescreen.md\|Smokescreen]]_                 | Conjuration | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
+| Name                                                                            | School      | Special | Source                             | Publisher                       |
+| ------------------------------------------------------------------------------- | ----------- | ------- | ---------------------------------- | ------------------------------- |
+| _[[Spells/Third Party/Cantrips/Baffle.md\|Baffle]]_                             | Enchantment | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Cat's Spring.md\|Cat's Spring]]_                 | Conjuration | —       | Cthulhu by Torchlight              | Chaosium                        |
+| _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_             | Illusion    | —       | Valda's Spire of Secrets           | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Confounding Shadows.md\|Confounding Shadows]]_   | Conjuration | —       | Cthulhu by Torchlight              | Chaosium                        |
+| _[[Spells/Third Party/Cantrips/Finger Guns.md\|Finger Guns]]_                   | Evocation   | —       | Valda's Spire of Secrets           | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Jolt.md\|Jolt]]_                                 | Evocation   | —       | Obojima: Tales from the Tall Grass | 1985 Games                      |
+| _[[Spells/Third Party/Cantrips/Misfortunate Missile.md\|Misfortunate Missile]]_ | Divination  | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_   | Illusion    | —       | The Crooked Moon                   | Avantris Entertainment          |
+| _[[Spells/Third Party/Cantrips/Overexposure.md\|Overexposure]]_                 | Divination  | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Phantasmal Feint.md\|Phantasmal Feint]]_         | Illusion    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Smokescreen.md\|Smokescreen]]_                   | Conjuration | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 
 ### Level 1 Bard Spells
 
@@ -80,8 +82,9 @@
 
 ### Level 6 Bard Spells
 
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
+| Name                                                                  | School     | Special | Source          | Publisher                       |
+| --------------------------------------------------------------------- | ---------- | ------- | --------------- | ------------------------------- |
+| _[[Spells/Third Party/Level 6 Spells/First Speech.md\|First Speech]]_ | Divination | —       | The Magus Class | Sterling Vermin Adventuring Co. |
 
 ### Level 7 Bard Spells
 

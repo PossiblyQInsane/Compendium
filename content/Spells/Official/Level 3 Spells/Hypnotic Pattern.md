@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T23:25:43.583-04:00
-modified: 2026-10-08T11:43:37.128-04:00
-published: 2026-10-08T11:43:37.128-04:00
+created: 2026-07-27T03:25:43.583Z
+modified: 2026-10-08T15:43:37.128Z
+published: 2026-10-08T15:43:37.128Z
 Name: "[[Hypnotic Pattern]]"
 Spell Level: Level 3
 School: Illusion

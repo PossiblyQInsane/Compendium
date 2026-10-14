@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-03T09:59:30.209-04:00
-modified: 2026-09-29T01:13:40.749-04:00
-published: 2026-09-29T01:13:40.749-04:00
+created: 2026-09-03T13:59:30.209Z
+modified: 2026-09-29T05:13:40.749Z
+published: 2026-09-29T05:13:40.749Z
 Name: "[[Summon Dinosaur]]"
 Spell Level: Level 6
 School: Conjuration

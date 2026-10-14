@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T13:18:24.984-04:00
-modified: 2026-10-08T00:45:09.722-04:00
-published: 2026-10-08T00:45:09.722-04:00
+created: 2026-08-01T17:18:24.984Z
+modified: 2026-10-08T04:45:09.722Z
+published: 2026-10-08T04:45:09.722Z
 Name: "[[Shield of Faith]]"
 Spell Level: Level 1
 School: Abjuration

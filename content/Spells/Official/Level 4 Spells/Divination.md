@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T23:12:33.512-04:00
-modified: 2026-10-09T00:56:40.761-04:00
-published: 2026-10-09T00:56:40.761-04:00
+created: 2026-08-04T03:12:33.512Z
+modified: 2026-10-09T04:56:40.761Z
+published: 2026-10-09T04:56:40.761Z
 Name: "[[Divination]]"
 Spell Level: Level 4
 School: Divination

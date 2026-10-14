@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T18:27:10.018-04:00
-modified: 2026-08-23T16:40:40.272-04:00
-published: 2026-08-23T16:40:40.272-04:00
+created: 2026-08-01T22:27:10.018Z
+modified: 2026-08-23T20:40:40.272Z
+published: 2026-08-23T20:40:40.272Z
 Category: Simple Ranged Weapons
 Damage: 1d4 Bludgeoning
 Properties: Ammunition (Range 30/120; Bullet)

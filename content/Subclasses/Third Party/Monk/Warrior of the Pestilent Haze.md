@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:02:58.123-04:00
-modified: 2026-09-21T14:15:15.994-04:00
-published: 2026-09-21T14:15:15.994-04:00
+created: 2026-09-11T05:02:58.123Z
+modified: 2026-09-21T18:15:15.994Z
+published: 2026-09-21T18:15:15.994Z
 Name: "[[Warrior of the Pestilent Haze]]"
 Parent Class: "[[Monk]]"
 Source: The Crooked Moon

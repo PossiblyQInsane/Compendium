@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T02:07:07.425-04:00
-modified: 2026-10-09T01:35:05.655-04:00
-published: 2026-10-09T01:35:05.655-04:00
+created: 2026-08-03T06:07:07.425Z
+modified: 2026-10-09T05:35:05.655Z
+published: 2026-10-09T05:35:05.655Z
 Name: "[[Project Image]]"
 Spell Level: Level 7
 School: Illusion

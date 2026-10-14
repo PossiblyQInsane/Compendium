@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T02:18:49.556-04:00
-modified: 2026-10-09T01:36:07.367-04:00
-published: 2026-10-09T01:36:07.367-04:00
+created: 2026-08-03T06:18:49.556Z
+modified: 2026-10-09T05:36:07.367Z
+published: 2026-10-09T05:36:07.367Z
 Name: "[[Teleport]]"
 Spell Level: Level 7
 School: Conjuration

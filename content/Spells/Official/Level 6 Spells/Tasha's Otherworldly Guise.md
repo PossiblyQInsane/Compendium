@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-27T02:56:15.176-04:00
-modified: 2026-10-09T01:31:04.148-04:00
-published: 2026-10-09T01:31:04.148-04:00
+created: 2026-09-27T06:56:15.176Z
+modified: 2026-10-09T05:31:04.148Z
+published: 2026-10-09T05:31:04.148Z
 Name: "[[Tasha's Otherworldly Guise]]"
 Spell Level: Level 6
 School: Transmutation

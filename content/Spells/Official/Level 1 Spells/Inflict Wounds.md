@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T22:38:20.915-04:00
-modified: 2026-08-31T12:07:23.800-04:00
-published: 2026-08-31T12:07:23.800-04:00
+created: 2026-08-04T02:38:20.915Z
+modified: 2026-08-31T16:07:23.800Z
+published: 2026-08-31T16:07:23.800Z
 Name: "[[Inflict Wounds]]"
 Spell Level: Level 1
 School: Necromancy

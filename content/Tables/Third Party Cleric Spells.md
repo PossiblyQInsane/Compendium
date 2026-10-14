@@ -5,6 +5,7 @@
 | _[[Spells/Third Party/Cantrips/Bitter Wind.md\|Bitter Wind]]_                   | Necromancy    | —       | The Magus Class          | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Cantrips/Hateful Haunting.md\|Hateful Haunting]]_         | Necromancy    | —       | The Magus Class          | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Cantrips/Moment to Think.md\|Moment to Think]]_           | Transmutation | —       | Valda's Spire of Secrets | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Overexposure.md\|Overexposure]]_                 | Divination    | —       | The Magus Class          | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Cantrips/Righteous Incitement.md\|Righteous Incitement]]_ | Evocation     | —       | The Magus Class          | Sterling Vermin Adventuring Co. |
 
 ### Level 1 Cleric Spells

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:02:58.123-04:00
-modified: 2026-09-21T14:14:38.944-04:00
-published: 2026-09-21T14:14:38.944-04:00
+created: 2026-09-11T05:02:58.123Z
+modified: 2026-09-21T18:14:38.944Z
+published: 2026-09-21T18:14:38.944Z
 Name: "[[Warrior of Regret]]"
 Parent Class: "[[Monk]]"
 Source: "Grim Hollow: Player's Guide"

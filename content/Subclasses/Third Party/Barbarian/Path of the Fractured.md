@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T12:42:54.971-04:00
-modified: 2026-09-21T03:46:33.182-04:00
-published: 2026-09-21T03:46:33.182-04:00
+created: 2026-08-02T16:42:54.971Z
+modified: 2026-09-21T07:46:33.182Z
+published: 2026-09-21T07:46:33.182Z
 Name: "[[Path of the Fractured]]"
 Parent Class: "[[Barbarian]]"
 Source: "Grim Hollow: Player's Guide"

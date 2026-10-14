@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T17:20:12.917-04:00
-modified: 2026-08-17T16:12:04.070-04:00
-published: 2026-08-17T16:12:04.070-04:00
+created: 2026-07-25T21:20:12.917Z
+modified: 2026-08-17T20:12:04.070Z
+published: 2026-08-17T20:12:04.070Z
 Category: Wand
 Rarity: Uncommon
 Attunement: false

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:33:45.323-04:00
-modified: 2026-10-05T23:52:44.864-04:00
-published: 2026-10-05T23:52:44.864-04:00
+created: 2026-09-11T05:33:45.323Z
+modified: 2026-10-06T03:52:44.864Z
+published: 2026-10-06T03:52:44.864Z
 Name: "[[Diviner]]"
 Parent Class: "[[Wizard]]"
 Source: Player's Handbook 5.5e

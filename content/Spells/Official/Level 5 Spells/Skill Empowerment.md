@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-15T23:57:36.066-04:00
-modified: 2026-10-09T01:20:05.145-04:00
-published: 2026-10-09T01:20:05.145-04:00
+created: 2026-08-16T03:57:36.066Z
+modified: 2026-10-09T05:20:05.145Z
+published: 2026-10-09T05:20:05.145Z
 Name: "[[Skill Empowerment]]"
 Spell Level: Level 5
 School: Transmutation

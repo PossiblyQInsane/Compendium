@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T20:46:42.346-04:00
-modified: 2026-10-05T20:51:04.219-04:00
-published: 2026-10-05T20:51:04.219-04:00
+created: 2026-10-06T00:46:42.346Z
+modified: 2026-10-06T00:51:04.219Z
+published: 2026-10-06T00:51:04.219Z
 Name: "[[Mighty Fortress]]"
 Spell Level: Level 8
 School: Conjuration

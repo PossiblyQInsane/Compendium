@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T12:12:47.931-04:00
-modified: 2026-09-21T04:25:13.846-04:00
-published: 2026-09-21T04:25:13.846-04:00
+created: 2026-08-03T16:12:47.931Z
+modified: 2026-09-21T08:25:13.846Z
+published: 2026-09-21T08:25:13.846Z
 Name: "[[College of Dance]]"
 Parent Class: "[[Bard]]"
 Source: Player's Handbook 5.5e

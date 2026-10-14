@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T22:46:33.483-04:00
-modified: 2026-10-08T00:36:00.604-04:00
-published: 2026-10-08T00:36:00.604-04:00
+created: 2026-07-26T02:46:33.483Z
+modified: 2026-10-08T04:36:00.604Z
+published: 2026-10-08T04:36:00.604Z
 Name: "[[Faerie Fire|Faerie Fire]]"
 Spell Level: Level 1
 School: Evocation

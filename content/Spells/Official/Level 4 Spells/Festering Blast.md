@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-03T09:22:20.860-04:00
-modified: 2026-10-09T00:58:01.517-04:00
-published: 2026-10-09T00:58:01.517-04:00
+created: 2026-09-03T13:22:20.860Z
+modified: 2026-10-09T04:58:01.517Z
+published: 2026-10-09T04:58:01.517Z
 Name: "[[Festering Blast]]"
 Spell Level: Level 4
 School: Necromancy

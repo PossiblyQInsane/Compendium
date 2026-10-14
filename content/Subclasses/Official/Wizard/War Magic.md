@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:36:44.039-04:00
-modified: 2026-10-06T01:48:12.329-04:00
-published: 2026-10-06T01:48:12.329-04:00
+created: 2026-09-11T05:36:44.039Z
+modified: 2026-10-06T05:48:12.329Z
+published: 2026-10-06T05:48:12.329Z
 Name: "[[War Magic]]"
 Parent Class: "[[Wizard]]"
 Source: Xanathar's Guide to Everything

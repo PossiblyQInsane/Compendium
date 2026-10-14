@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - green dragon
-created: 2026-09-07T14:20:01.209-04:00
-modified: 2026-10-10T01:47:17.997-04:00
-published: 2026-10-10T01:47:17.997-04:00
+created: 2026-09-07T18:20:01.209Z
+modified: 2026-10-10T05:47:17.997Z
+published: 2026-10-10T05:47:17.997Z
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

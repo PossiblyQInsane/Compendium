@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T19:22:20.550-04:00
-modified: 2026-09-21T03:40:52.413-04:00
-published: 2026-09-21T03:40:52.413-04:00
+created: 2026-07-26T23:22:20.550Z
+modified: 2026-09-21T07:40:52.413Z
+published: 2026-09-21T07:40:52.413Z
 Name: "[[Alchemist]]"
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"

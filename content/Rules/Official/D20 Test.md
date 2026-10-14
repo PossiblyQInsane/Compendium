@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - D20 Tests
-created: 2026-08-02T19:35:33.696-04:00
-modified: 2026-09-03T09:21:13.414-04:00
-published: 2026-09-03T09:21:13.414-04:00
+created: 2026-08-02T23:35:33.696Z
+modified: 2026-09-03T13:21:13.414Z
+published: 2026-09-03T13:21:13.414Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

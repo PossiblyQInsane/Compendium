@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T00:49:13.715-04:00
-modified: 2026-10-09T01:41:35.075-04:00
-published: 2026-10-09T01:41:35.075-04:00
+created: 2026-08-04T04:49:13.715Z
+modified: 2026-10-09T05:41:35.075Z
+published: 2026-10-09T05:41:35.075Z
 Name: "[[Sunburst]]"
 Spell Level: Level 8
 School: Evocation

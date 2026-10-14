@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-13T23:03:02.255-04:00
-modified: 2026-09-13T23:05:51.746-04:00
-published: 2026-09-13T23:05:51.746-04:00
+created: 2026-09-14T03:03:02.255Z
+modified: 2026-09-14T03:05:51.746Z
+published: 2026-09-14T03:05:51.746Z
 Name: "[[Supernal Smite]]"
 Spell Level: Level 4
 School: Evocation

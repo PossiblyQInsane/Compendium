@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T02:24:15.098-04:00
-modified: 2026-10-13T02:26:39.808-04:00
-published: 2026-10-13T02:26:39.808-04:00
+created: 2026-10-13T06:24:15.098Z
+modified: 2026-10-13T06:26:39.808Z
+published: 2026-10-13T06:26:39.808Z
 Name: "[[Warrior's Way]]"
 Spell Level: Level 3
 School: Divination

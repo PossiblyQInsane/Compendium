@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-23T22:08:46.523-04:00
-modified: 2026-08-31T19:43:45.413-04:00
-published: 2026-08-31T19:43:45.413-04:00
+created: 2026-08-24T02:08:46.523Z
+modified: 2026-08-31T23:43:45.413Z
+published: 2026-08-31T23:43:45.413Z
 Name: "[[Bones of the Earth]]"
 Spell Level: Level 6
 School: Transmutation

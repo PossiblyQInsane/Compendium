@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T02:59:36.744-04:00
-modified: 2026-10-13T03:01:52.746-04:00
-published: 2026-10-13T03:01:52.746-04:00
+created: 2026-10-13T06:59:36.744Z
+modified: 2026-10-13T07:01:52.746Z
+published: 2026-10-13T07:01:52.746Z
 Name: "[[Give Life]]"
 Spell Level: Cantrip
 School: Transmutation

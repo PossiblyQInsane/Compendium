@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-09T10:59:15.940-04:00
-modified: 2026-08-31T12:05:06.623-04:00
-published: 2026-08-31T12:05:06.623-04:00
+created: 2026-08-09T14:59:15.940Z
+modified: 2026-08-31T16:05:06.623Z
+published: 2026-08-31T16:05:06.623Z
 Name: "[[Ensnaring Strike]]"
 Spell Level: Level 1
 School: Conjuration

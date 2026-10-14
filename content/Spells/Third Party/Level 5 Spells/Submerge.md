@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T14:36:08.273-04:00
-modified: 2026-10-09T01:25:53.083-04:00
-published: 2026-10-09T01:25:53.083-04:00
+created: 2026-09-21T18:36:08.273Z
+modified: 2026-10-09T05:25:53.083Z
+published: 2026-10-09T05:25:53.083Z
 Name: "[[Submerge]]"
 Spell Level: Level 5
 School: Conjuration

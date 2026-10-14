@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T01:57:49.793-04:00
-modified: 2026-10-09T01:34:21.562-04:00
-published: 2026-10-09T01:34:21.562-04:00
+created: 2026-08-03T05:57:49.793Z
+modified: 2026-10-09T05:34:21.562Z
+published: 2026-10-09T05:34:21.562Z
 Name: "[[Mordenkainen's Sword]]"
 Spell Level: Level 7
 School: Evocation

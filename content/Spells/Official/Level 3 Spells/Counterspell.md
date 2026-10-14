@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T15:06:05.781-04:00
-modified: 2026-10-08T11:35:26.252-04:00
-published: 2026-10-08T11:35:26.252-04:00
+created: 2026-08-02T19:06:05.781Z
+modified: 2026-10-08T15:35:26.252Z
+published: 2026-10-08T15:35:26.252Z
 Name: "[[Counterspell]]"
 Spell Level: Level 3
 School: Abjuration

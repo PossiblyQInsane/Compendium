@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-03T02:08:05.059-04:00
-modified: 2026-10-09T00:56:30.952-04:00
-published: 2026-10-09T00:56:30.952-04:00
+created: 2026-09-03T06:08:05.059Z
+modified: 2026-10-09T04:56:30.952Z
+published: 2026-10-09T04:56:30.952Z
 Name: "[[Distorted Distance]]"
 Spell Level: Level 4
 School: Illusion

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T16:20:14.149-04:00
-modified: 2026-09-21T04:10:14.662-04:00
-published: 2026-09-21T04:10:14.662-04:00
+created: 2026-08-03T20:20:14.149Z
+modified: 2026-09-21T08:10:14.662Z
+published: 2026-09-21T08:10:14.662Z
 Name: "[[College of Drama]]"
 Parent Class: "[[Bard]]"
 Source: Cthulhu by Torchlight

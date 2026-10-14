@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-27T01:42:50.166-04:00
-modified: 2026-10-09T01:04:08.458-04:00
-published: 2026-10-09T01:04:08.458-04:00
+created: 2026-09-27T05:42:50.166Z
+modified: 2026-10-09T05:04:08.458Z
+published: 2026-10-09T05:04:08.458Z
 Name: "[[Spellfire Storm]]"
 Spell Level: Level 4
 School: Evocation

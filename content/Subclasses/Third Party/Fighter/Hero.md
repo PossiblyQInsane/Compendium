@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-24T01:52:37.544-04:00
-modified: 2026-09-21T12:38:26.330-04:00
-published: 2026-09-21T12:38:26.330-04:00
+created: 2026-08-24T05:52:37.544Z
+modified: 2026-09-21T16:38:26.330Z
+published: 2026-09-21T16:38:26.330Z
 Name: "[[Hero]]"
 Parent Class: "[[Fighter]]"
 Source: Cthulhu by Torchlight

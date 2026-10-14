@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T17:10:41.257-04:00
-modified: 2026-10-08T01:15:57.762-04:00
-published: 2026-10-08T01:15:57.762-04:00
+created: 2026-08-16T21:10:41.257Z
+modified: 2026-10-08T05:15:57.762Z
+published: 2026-10-08T05:15:57.762Z
 Name: "[[Warding Wind]]"
 Spell Level: Level 2
 School: Evocation

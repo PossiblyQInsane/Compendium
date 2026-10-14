@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-14T22:30:32.368-04:00
-modified: 2026-09-14T22:32:58.630-04:00
-published: 2026-09-14T22:32:58.630-04:00
+created: 2026-09-15T02:30:32.368Z
+modified: 2026-09-15T02:32:58.630Z
+published: 2026-09-15T02:32:58.630Z
 Name: "[[Conjure Volley]]"
 Spell Level: Level 5
 School: Conjuration

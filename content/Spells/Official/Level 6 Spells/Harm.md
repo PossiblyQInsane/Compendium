@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T00:08:40.037-04:00
-modified: 2026-08-31T19:45:57.144-04:00
-published: 2026-08-31T19:45:57.144-04:00
+created: 2026-08-04T04:08:40.037Z
+modified: 2026-08-31T23:45:57.144Z
+published: 2026-08-31T23:45:57.144Z
 Name: "[[Harm]]"
 Spell Level: Level 6
 School: Necromancy

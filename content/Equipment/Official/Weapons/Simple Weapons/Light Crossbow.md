@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T18:12:09.569-04:00
-modified: 2026-08-23T16:40:40.122-04:00
-published: 2026-08-23T16:40:40.122-04:00
+created: 2026-08-01T22:12:09.569Z
+modified: 2026-08-23T20:40:40.122Z
+published: 2026-08-23T20:40:40.122Z
 Category: Simple Ranged Weapons
 Damage: 1d8 Piercing
 Properties: Ammunition (Range 80/320; Bolt), Loading, Two-Handed

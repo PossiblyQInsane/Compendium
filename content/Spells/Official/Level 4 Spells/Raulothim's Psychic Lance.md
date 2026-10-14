@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T18:09:03.953-04:00
-modified: 2026-10-09T01:03:48.188-04:00
-published: 2026-10-09T01:03:48.188-04:00
+created: 2026-08-16T22:09:03.953Z
+modified: 2026-10-09T05:03:48.188Z
+published: 2026-10-09T05:03:48.188Z
 Name: "[[Raulothim's Psychic Lance]]"
 Spell Level: Level 4
 School: Enchantment

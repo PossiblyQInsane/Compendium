@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T20:10:43.465-04:00
-modified: 2026-10-09T01:44:04.468-04:00
-published: 2026-10-09T01:44:04.468-04:00
+created: 2026-08-03T00:10:43.465Z
+modified: 2026-10-09T05:44:04.468Z
+published: 2026-10-09T05:44:04.468Z
 Name: "[[Power Word Kill]]"
 Spell Level: Level 9
 School: Enchantment

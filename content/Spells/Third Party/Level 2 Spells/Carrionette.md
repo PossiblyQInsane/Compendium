@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T10:58:27.258-04:00
-modified: 2026-10-13T11:00:57.782-04:00
-published: 2026-10-13T11:00:57.782-04:00
+created: 2026-10-13T14:58:27.258Z
+modified: 2026-10-13T15:00:57.782Z
+published: 2026-10-13T15:00:57.782Z
 Name: "[[Carrionette]]"
 Spell Level: Level 2
 School: Necromancy

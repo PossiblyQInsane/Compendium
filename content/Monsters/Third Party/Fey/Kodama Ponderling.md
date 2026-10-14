@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-04T00:06:55.646-04:00
-modified: 2026-10-10T02:01:03.585-04:00
-published: 2026-10-10T02:01:03.585-04:00
+created: 2026-10-04T04:06:55.646Z
+modified: 2026-10-10T06:01:03.585Z
+published: 2026-10-10T06:01:03.585Z
 Creature Type: Fey
 Subtype: Yokai
 Size: Tiny

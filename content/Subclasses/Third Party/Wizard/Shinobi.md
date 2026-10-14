@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-02T18:36:57.887-04:00
-modified: 2026-10-11T01:57:23.972-04:00
-published: 2026-10-11T01:57:23.972-04:00
+created: 2026-10-02T22:36:57.887Z
+modified: 2026-10-11T05:57:23.972Z
+published: 2026-10-11T05:57:23.972Z
 Name: "[[Shinobi]]"
 Parent Class: "[[Wizard]]"
 Source: Ryoko's Guide to the Yokai Realms

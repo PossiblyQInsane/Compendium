@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T16:05:01.541-04:00
-modified: 2026-10-02T19:07:41.034-04:00
-published: 2026-10-02T19:07:41.034-04:00
+created: 2026-08-03T20:05:01.541Z
+modified: 2026-10-02T23:07:41.034Z
+published: 2026-10-02T23:07:41.034Z
 Name: "[[College of Masks (Mage Hand Press)|College of Masks]]"
 Parent Class: "[[Bard]]"
 Source: Valda's Spire of Secrets

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T11:45:12.391-04:00
-modified: 2026-09-21T10:58:34.176-04:00
-published: 2026-09-21T10:58:34.176-04:00
+created: 2026-08-04T15:45:12.391Z
+modified: 2026-09-21T14:58:34.176Z
+published: 2026-09-21T14:58:34.176Z
 Name: "[[Nornbound]]"
 Parent Class: "[[Cleric]]"
 Source: Northlands Worldbook

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T13:12:27.145-04:00
-modified: 2026-08-17T15:51:25.338-04:00
-published: 2026-08-17T15:51:25.338-04:00
+created: 2026-08-03T17:12:27.145Z
+modified: 2026-08-17T19:51:25.338Z
+published: 2026-08-17T19:51:25.338Z
 Weight: —
 Cost: 2 CP
 Edition: 5.5e

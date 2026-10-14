@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-23T11:10:02.614-04:00
-modified: 2026-10-08T00:03:01.495-04:00
-published: 2026-10-08T00:03:01.495-04:00
+created: 2026-07-23T15:10:02.614Z
+modified: 2026-10-08T04:03:01.495Z
+published: 2026-10-08T04:03:01.495Z
 Name: "[[Acid Splash|Acid Splash]]"
 Spell Level: Cantrip
 School: Evocation

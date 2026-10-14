@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T18:29:13.458-04:00
-modified: 2026-08-17T16:11:37.402-04:00
-published: 2026-08-17T16:11:37.402-04:00
+created: 2026-07-25T22:29:13.458Z
+modified: 2026-08-17T20:11:37.402Z
+published: 2026-08-17T20:11:37.402Z
 tags:
   - Official
 Category: Ring

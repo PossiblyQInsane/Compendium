@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T10:41:43.308-04:00
-modified: 2026-10-09T01:02:37.995-04:00
-published: 2026-10-09T01:02:37.995-04:00
+created: 2026-07-30T14:41:43.308Z
+modified: 2026-10-09T05:02:37.995Z
+published: 2026-10-09T05:02:37.995Z
 Name: "[[Locate Creature]]"
 Spell Level: Level 4
 School: Divination

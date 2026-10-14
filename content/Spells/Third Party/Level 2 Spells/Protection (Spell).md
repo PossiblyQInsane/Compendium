@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Protection
 title: Protection
-created: 2026-10-03T01:51:10.682-04:00
-modified: 2026-10-08T12:13:59.537-04:00
-published: 2026-10-08T12:13:59.537-04:00
+created: 2026-10-03T05:51:10.682Z
+modified: 2026-10-08T16:13:59.537Z
+published: 2026-10-08T16:13:59.537Z
 Name: "[[Protection (Spell)|Protection]]"
 Spell Level: Level 2
 School: Abjuration

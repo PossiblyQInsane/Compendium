@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-17T23:45:55.085-04:00
-modified: 2026-10-01T11:39:53.549-04:00
-published: 2026-10-01T11:39:53.549-04:00
+created: 2026-08-18T03:45:55.085Z
+modified: 2026-10-01T15:39:53.549Z
+published: 2026-10-01T15:39:53.549Z
 Name: "[[Moon Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Tal'Dorei Campaign Setting Reborn

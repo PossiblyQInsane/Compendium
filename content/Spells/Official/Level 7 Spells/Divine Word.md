@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T00:26:56.041-04:00
-modified: 2026-08-31T19:48:52.346-04:00
-published: 2026-08-31T19:48:52.346-04:00
+created: 2026-08-04T04:26:56.041Z
+modified: 2026-08-31T23:48:52.346Z
+published: 2026-08-31T23:48:52.346Z
 Name: "[[Divine Word]]"
 Spell Level: Level 7
 School: Evocation

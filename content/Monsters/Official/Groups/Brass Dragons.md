@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - brass dragon
-created: 2026-09-05T23:46:21.271-04:00
-modified: 2026-10-10T01:46:48.355-04:00
-published: 2026-10-10T01:46:48.355-04:00
+created: 2026-09-06T03:46:21.271Z
+modified: 2026-10-10T05:46:48.355Z
+published: 2026-10-10T05:46:48.355Z
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

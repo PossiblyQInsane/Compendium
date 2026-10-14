@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:22:42.326-04:00
-modified: 2026-09-29T12:01:27.915-04:00
-published: 2026-09-29T12:01:27.915-04:00
+created: 2026-09-11T05:22:42.326Z
+modified: 2026-09-29T16:01:27.915Z
+published: 2026-09-29T16:01:27.915Z
 Name: "[[Aberrant Sorcery]]"
 Parent Class: "[[Sorcerer]]"
 Source: Player's Handbook 5.5e

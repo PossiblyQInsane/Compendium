@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-05T23:35:47.986-04:00
-modified: 2026-10-10T01:33:15.387-04:00
-published: 2026-10-10T01:33:15.387-04:00
+created: 2026-09-06T03:35:47.986Z
+modified: 2026-10-10T05:33:15.387Z
+published: 2026-10-10T05:33:15.387Z
 Creature Type: Dragon
 Subtype: Chromatic
 Size: Large

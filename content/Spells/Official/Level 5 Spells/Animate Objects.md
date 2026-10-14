@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T16:23:10.008-04:00
-modified: 2026-10-09T01:12:36.333-04:00
-published: 2026-10-09T01:12:36.333-04:00
+created: 2026-07-26T20:23:10.008Z
+modified: 2026-10-09T05:12:36.333Z
+published: 2026-10-09T05:12:36.333Z
 Name: "[[Animate Objects]]"
 Spell Level: Level 5
 School: Transmutation

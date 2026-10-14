@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T11:21:06.399-04:00
-modified: 2026-09-21T03:45:05.933-04:00
-published: 2026-09-21T03:45:05.933-04:00
+created: 2026-08-02T15:21:06.399Z
+modified: 2026-09-21T07:45:05.933Z
+published: 2026-09-21T07:45:05.933Z
 Name: "[[Path of the Wild Heart]]"
 Parent Class: "[[Barbarian]]"
 Source: Player's Handbook 5.5e

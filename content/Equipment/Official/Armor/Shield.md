@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T19:38:38.138-04:00
-modified: 2026-08-17T15:59:58.551-04:00
-published: 2026-08-17T15:59:58.551-04:00
+created: 2026-08-01T23:38:38.138Z
+modified: 2026-08-17T19:59:58.551Z
+published: 2026-08-17T19:59:58.551Z
 Category: Shield
 Armor Class (AC): "+2"
 Strength: —

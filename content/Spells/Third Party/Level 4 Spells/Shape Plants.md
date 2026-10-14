@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-11T00:57:00.029-04:00
-modified: 2026-10-11T01:01:35.452-04:00
-published: 2026-10-11T01:01:35.452-04:00
+created: 2026-10-11T04:57:00.029Z
+modified: 2026-10-11T05:01:35.452Z
+published: 2026-10-11T05:01:35.452Z
 Name: "[[Shape Plants]]"
 Spell Level: Level 4
 School: Transmutation

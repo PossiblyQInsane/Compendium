@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T01:42:58.891-04:00
-modified: 2026-10-09T01:31:25.947-04:00
-published: 2026-10-09T01:31:25.947-04:00
+created: 2026-08-03T05:42:58.891Z
+modified: 2026-10-09T05:31:25.947Z
+published: 2026-10-09T05:31:25.947Z
 Name: "[[True Seeing]]"
 Spell Level: Level 6
 School: Divination

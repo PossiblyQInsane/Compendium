@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - black dragon
-created: 2026-08-29T10:32:59.954-04:00
-modified: 2026-10-10T01:46:38.591-04:00
-published: 2026-10-10T01:46:38.591-04:00
+created: 2026-08-29T14:32:59.954Z
+modified: 2026-10-10T05:46:38.591Z
+published: 2026-10-10T05:46:38.591Z
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

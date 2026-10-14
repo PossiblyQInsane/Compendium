@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-06T02:10:04.978-04:00
-modified: 2026-08-17T15:35:58.938-04:00
-published: 2026-08-17T15:35:58.938-04:00
+created: 2026-08-06T06:10:04.978Z
+modified: 2026-08-17T19:35:58.938Z
+published: 2026-08-17T19:35:58.938Z
 Weight: —
 Cost: 100 GP
 Source: Player's Handbook 5.5e

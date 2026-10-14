@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-06T11:26:21.547-04:00
-modified: 2026-10-08T12:12:07.926-04:00
-published: 2026-10-08T12:12:07.926-04:00
+created: 2026-10-06T15:26:21.547Z
+modified: 2026-10-08T16:12:07.926Z
+published: 2026-10-08T16:12:07.926Z
 Name: "[[Wristpocket]]"
 Spell Level: Level 2
 School: Conjuration

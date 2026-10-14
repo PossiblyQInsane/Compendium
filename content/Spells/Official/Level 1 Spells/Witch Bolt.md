@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-31T09:59:10.596-04:00
-modified: 2026-10-08T00:48:23.845-04:00
-published: 2026-10-08T00:48:23.845-04:00
+created: 2026-07-31T13:59:10.596Z
+modified: 2026-10-08T04:48:23.845Z
+published: 2026-10-08T04:48:23.845Z
 Name: "[[Witch Bolt]]"
 Spell Level: Level 1
 School: Evocation

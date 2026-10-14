@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T11:04:56.856-04:00
-modified: 2026-10-13T11:07:13.979-04:00
-published: 2026-10-13T11:07:13.979-04:00
+created: 2026-10-13T15:04:56.856Z
+modified: 2026-10-13T15:07:13.979Z
+published: 2026-10-13T15:07:13.979Z
 Name: "[[Grave Grasp]]"
 Spell Level: Level 1
 School: Necromancy

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T18:26:54.475-04:00
-modified: 2026-10-09T01:30:28.075-04:00
-published: 2026-10-09T01:30:28.075-04:00
+created: 2026-10-05T22:26:54.475Z
+modified: 2026-10-09T05:30:28.075Z
+published: 2026-10-09T05:30:28.075Z
 Name: "[[Soul Cage]]"
 Spell Level: Level 6
 School: Necromancy

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - exhaustion
-created: 2026-07-26T01:23:25.113-04:00
-modified: 2026-09-28T19:07:06.503-04:00
-published: 2026-09-28T19:07:06.503-04:00
+created: 2026-07-26T05:23:25.113Z
+modified: 2026-09-28T23:07:06.503Z
+published: 2026-09-28T23:07:06.503Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

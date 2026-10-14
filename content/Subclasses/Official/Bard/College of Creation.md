@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T20:51:10.650-04:00
-modified: 2026-09-28T23:11:24.279-04:00
-published: 2026-09-28T23:11:24.279-04:00
+created: 2026-08-17T00:51:10.650Z
+modified: 2026-09-29T03:11:24.279Z
+published: 2026-09-29T03:11:24.279Z
 Name: "[[College of Creation]]"
 Parent Class: "[[Bard]]"
 Source: Tasha's Cauldron of Everything

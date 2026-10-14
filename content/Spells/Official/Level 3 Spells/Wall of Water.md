@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-23T21:20:19.426-04:00
-modified: 2026-10-08T11:55:58.434-04:00
-published: 2026-10-08T11:55:58.434-04:00
+created: 2026-08-24T01:20:19.426Z
+modified: 2026-10-08T15:55:58.434Z
+published: 2026-10-08T15:55:58.434Z
 Name: "[[Wall of Water]]"
 Spell Level: Level 3
 School: Evocation

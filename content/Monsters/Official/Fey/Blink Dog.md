@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-11T00:25:29.154-04:00
-modified: 2026-10-11T00:27:32.727-04:00
-published: 2026-10-11T00:27:32.727-04:00
+created: 2026-10-11T04:25:29.154Z
+modified: 2026-10-11T04:27:32.727Z
+published: 2026-10-11T04:27:32.727Z
 Creature Type: Fey
 Size:
   - Medium

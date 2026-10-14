@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-26T16:37:37.073-04:00
-modified: 2026-10-11T18:59:38.819-04:00
-published: 2026-10-11T18:59:38.819-04:00
+created: 2026-09-26T20:37:37.073Z
+modified: 2026-10-11T22:59:38.819Z
+published: 2026-10-11T22:59:38.819Z
 Name: "[[Pugilist]]"
 Source: The Pugilist Class
 Official: false

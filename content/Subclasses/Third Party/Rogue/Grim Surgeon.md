@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:22:08.416-04:00
-modified: 2026-09-22T01:15:26.387-04:00
-published: 2026-09-22T01:15:26.387-04:00
+created: 2026-09-11T05:22:08.416Z
+modified: 2026-09-22T05:15:26.387Z
+published: 2026-09-22T05:15:26.387Z
 Name: "[[Grim Surgeon]]"
 Parent Class: "[[Rogue]]"
 Source: "The Griffon's Saddlebag: Book Two"

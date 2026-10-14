@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dandelion Dragons
-created: 2026-08-29T17:42:25.800-04:00
-modified: 2026-09-10T10:35:32.708-04:00
-published: 2026-09-10T10:35:32.708-04:00
+created: 2026-08-29T21:42:25.800Z
+modified: 2026-09-10T14:35:32.708Z
+published: 2026-09-10T14:35:32.708Z
 Creature Type: Dragon
 Size: Tiny
 Alignment: Any Alignment

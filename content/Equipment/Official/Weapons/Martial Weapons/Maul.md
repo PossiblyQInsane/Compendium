@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T20:35:21.397-04:00
-modified: 2026-08-17T16:07:03.122-04:00
-published: 2026-08-17T16:07:03.122-04:00
+created: 2026-08-02T00:35:21.397Z
+modified: 2026-08-17T20:07:03.122Z
+published: 2026-08-17T20:07:03.122Z
 Category: Martial Melee Weapons
 Damage: 2d6 Bludgeoning
 Properties: Heavy, Two-Handed

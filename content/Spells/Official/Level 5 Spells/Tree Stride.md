@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-07T12:05:19.359-04:00
-modified: 2026-10-09T01:21:56.237-04:00
-published: 2026-10-09T01:21:56.237-04:00
+created: 2026-08-07T16:05:19.359Z
+modified: 2026-10-09T05:21:56.237Z
+published: 2026-10-09T05:21:56.237Z
 Name: "[[Tree Stride]]"
 Spell Level: Level 5
 School: Conjuration

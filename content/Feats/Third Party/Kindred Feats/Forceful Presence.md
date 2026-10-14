@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-12T22:25:03.288-04:00
-modified: 2026-10-12T22:28:18.431-04:00
-published: 2026-10-12T22:28:18.431-04:00
+created: 2026-10-13T02:25:03.288Z
+modified: 2026-10-13T02:28:18.431Z
+published: 2026-10-13T02:28:18.431Z
 Feat Category: Kindred Feat
 Prerequisite:
   - Level 2+

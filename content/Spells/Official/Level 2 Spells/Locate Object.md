@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T10:24:42.837-04:00
-modified: 2026-10-08T01:06:07.849-04:00
-published: 2026-10-08T01:06:07.849-04:00
+created: 2026-07-30T14:24:42.837Z
+modified: 2026-10-08T05:06:07.849Z
+published: 2026-10-08T05:06:07.849Z
 Name: "[[Locate Object]]"
 Spell Level: Level 2
 School: Divination

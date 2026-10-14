@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-09T09:21:54.113-04:00
-modified: 2026-10-08T01:33:22.240-04:00
-published: 2026-10-08T01:33:22.240-04:00
+created: 2026-08-09T13:21:54.113Z
+modified: 2026-10-08T05:33:22.240Z
+published: 2026-10-08T05:33:22.240Z
 Name: "[[Sense Lifeblood]]"
 Spell Level: Level 2
 School: Divination

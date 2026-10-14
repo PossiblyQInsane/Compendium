@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-23T22:52:40.013-04:00
-modified: 2026-10-09T01:29:07.947-04:00
-published: 2026-10-09T01:29:07.947-04:00
+created: 2026-08-24T02:52:40.013Z
+modified: 2026-10-09T05:29:07.947Z
+published: 2026-10-09T05:29:07.947Z
 Name: "[[Investiture of Stone]]"
 Spell Level: Level 6
 School: Transmutation

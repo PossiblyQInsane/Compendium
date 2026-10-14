@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-08T00:59:13.285-04:00
-modified: 2026-10-09T01:44:32.770-04:00
-published: 2026-10-09T01:44:32.770-04:00
+created: 2026-08-08T04:59:13.285Z
+modified: 2026-10-09T05:44:32.770Z
+published: 2026-10-09T05:44:32.770Z
 Name: "[[Shapechange]]"
 Spell Level: Level 9
 School: Transmutation

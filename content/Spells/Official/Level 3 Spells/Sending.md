@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T23:45:33.080-04:00
-modified: 2026-10-08T11:50:57.067-04:00
-published: 2026-10-08T11:50:57.067-04:00
+created: 2026-08-03T03:45:33.080Z
+modified: 2026-10-08T15:50:57.067Z
+published: 2026-10-08T15:50:57.067Z
 Name: "[[Sending]]"
 Spell Level: Level 3
 School: Divination

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - lightly obscures
-created: 2026-08-06T01:30:04.121-04:00
-modified: 2026-08-23T23:39:26.368-04:00
-published: 2026-08-23T23:39:26.368-04:00
+created: 2026-08-06T05:30:04.121Z
+modified: 2026-08-24T03:39:26.368Z
+published: 2026-08-24T03:39:26.368Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

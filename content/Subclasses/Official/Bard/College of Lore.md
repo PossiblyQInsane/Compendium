@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T12:30:52.776-04:00
-modified: 2026-09-21T04:25:36.367-04:00
-published: 2026-09-21T04:25:36.367-04:00
+created: 2026-08-03T16:30:52.776Z
+modified: 2026-09-21T08:25:36.367Z
+published: 2026-09-21T08:25:36.367Z
 Name: "[[College of Lore]]"
 Parent Class: "[[Bard]]"
 Source: Player's Handbook 5.5e

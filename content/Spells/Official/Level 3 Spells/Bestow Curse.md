@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T23:15:33.162-04:00
-modified: 2026-10-08T11:32:59.037-04:00
-published: 2026-10-08T11:32:59.037-04:00
+created: 2026-08-03T03:15:33.162Z
+modified: 2026-10-08T15:32:59.037Z
+published: 2026-10-08T15:32:59.037Z
 Name: "[[Bestow Curse]]"
 Spell Level: Level 3
 School: Necromancy

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - liches
-created: 2026-08-13T12:04:25.200-04:00
-modified: 2026-10-10T01:52:29.747-04:00
-published: 2026-10-10T01:52:29.747-04:00
+created: 2026-08-13T16:04:25.200Z
+modified: 2026-10-10T05:52:29.747Z
+published: 2026-10-10T05:52:29.747Z
 Creature Type: Undead
 Subtype: Wizard
 Size: Medium

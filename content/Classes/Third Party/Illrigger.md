@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-30T12:07:03.544-04:00
-modified: 2026-10-11T23:11:59.131-04:00
-published: 2026-10-11T23:11:59.131-04:00
+created: 2026-09-30T16:07:03.544Z
+modified: 2026-10-12T03:11:59.131Z
+published: 2026-10-12T03:11:59.131Z
 Name: "[[Illrigger]]"
 Source: The Illrigger Revised
 Official: false

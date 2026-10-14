@@ -1,9 +1,9 @@
 ---
 publish: true
 title: The First Vampire Patron
-created: 2026-09-11T01:28:47.675-04:00
-modified: 2026-10-10T05:52:13.187-04:00
-published: 2026-10-10T05:52:13.187-04:00
+created: 2026-09-11T05:28:47.675Z
+modified: 2026-10-10T09:52:13.187Z
+published: 2026-10-10T09:52:13.187Z
 Name: "[[First Vampire Patron|The First Vampire Patron]]"
 Parent Class: "[[Warlock]]"
 Source: "Grim Hollow: Player's Guide"

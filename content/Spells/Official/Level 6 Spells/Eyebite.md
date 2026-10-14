@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T01:22:25.197-04:00
-modified: 2026-10-09T01:27:29.550-04:00
-published: 2026-10-09T01:27:29.550-04:00
+created: 2026-08-03T05:22:25.197Z
+modified: 2026-10-09T05:27:29.550Z
+published: 2026-10-09T05:27:29.550Z
 Name: "[[Eyebite]]"
 Spell Level: Level 6
 School: Necromancy

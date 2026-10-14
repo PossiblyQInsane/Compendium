@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-14T22:09:19.714-04:00
-modified: 2026-09-14T22:11:41.703-04:00
-published: 2026-09-14T22:11:41.703-04:00
+created: 2026-09-15T02:09:19.714Z
+modified: 2026-09-15T02:11:41.703Z
+published: 2026-09-15T02:11:41.703Z
 Name: "[[Hail of Thorns]]"
 Spell Level: Level 1
 School: Conjuration

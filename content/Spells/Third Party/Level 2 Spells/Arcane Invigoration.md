@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T02:16:26.810-04:00
-modified: 2026-10-13T02:19:12.297-04:00
-published: 2026-10-13T02:19:12.297-04:00
+created: 2026-10-13T06:16:26.810Z
+modified: 2026-10-13T06:19:12.297Z
+published: 2026-10-13T06:19:12.297Z
 Name: "[[Arcane Invigoration]]"
 Spell Level: Level 2
 School: Abjuration

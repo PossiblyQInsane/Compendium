@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:09:05.617-04:00
-modified: 2026-09-21T23:33:37.323-04:00
-published: 2026-09-21T23:33:37.323-04:00
+created: 2026-09-11T05:09:05.617Z
+modified: 2026-09-22T03:33:37.323Z
+published: 2026-09-22T03:33:37.323Z
 Name: "[[Oath of Slaughter]]"
 Parent Class: "[[Paladin]]"
 Source: "Grim Hollow: Player's Guide"

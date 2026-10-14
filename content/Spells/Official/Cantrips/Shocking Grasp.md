@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T22:11:25.617-04:00
-modified: 2026-10-08T00:18:14.746-04:00
-published: 2026-10-08T00:18:14.746-04:00
+created: 2026-07-26T02:11:25.617Z
+modified: 2026-10-08T04:18:14.746Z
+published: 2026-10-08T04:18:14.746Z
 Name: "[[Shocking Grasp|Shocking Grasp]]"
 Spell Level: Cantrip
 School: Evocation

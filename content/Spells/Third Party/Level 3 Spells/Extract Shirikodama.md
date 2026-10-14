@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-03T02:01:53.978-04:00
-modified: 2026-10-08T12:00:04.269-04:00
-published: 2026-10-08T12:00:04.269-04:00
+created: 2026-10-03T06:01:53.978Z
+modified: 2026-10-08T16:00:04.269Z
+published: 2026-10-08T16:00:04.269Z
 Name: "[[Extract Shirikodama]]"
 Spell Level: Level 3
 School: Necromancy

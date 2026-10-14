@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-05T00:54:27.926-04:00
-modified: 2026-10-08T00:26:01.176-04:00
-published: 2026-10-08T00:26:01.176-04:00
+created: 2026-08-05T04:54:27.926Z
+modified: 2026-10-08T04:26:01.176Z
+published: 2026-10-08T04:26:01.176Z
 Name: "[[Chromatic Orb]]"
 Spell Level: Level 1
 School: Evocation

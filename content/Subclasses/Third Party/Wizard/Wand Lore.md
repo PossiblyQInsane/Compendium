@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:37:48.378-04:00
-modified: 2026-10-10T23:11:07.608-04:00
-published: 2026-10-10T23:11:07.608-04:00
+created: 2026-09-11T05:37:48.378Z
+modified: 2026-10-11T03:11:07.608Z
+published: 2026-10-11T03:11:07.608Z
 Name: "[[Wand Lore]]"
 Parent Class: "[[Wizard]]"
 Source: "The Griffon's Saddlebag: Book Two"

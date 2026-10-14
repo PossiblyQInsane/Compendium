@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mastery
-created: 2026-08-01T17:10:33.588-04:00
-modified: 2026-09-03T01:37:01.248-04:00
-published: 2026-09-03T01:37:01.248-04:00
+created: 2026-08-01T21:10:33.588Z
+modified: 2026-09-03T05:37:01.248Z
+published: 2026-09-03T05:37:01.248Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

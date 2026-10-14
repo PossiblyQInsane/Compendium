@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T16:32:59.828-04:00
-modified: 2026-10-08T00:46:04.315-04:00
-published: 2026-10-08T00:46:04.315-04:00
+created: 2026-08-16T20:32:59.828Z
+modified: 2026-10-08T04:46:04.315Z
+published: 2026-10-08T04:46:04.315Z
 Name: "[[Silvery Barbs]]"
 Spell Level: Level 1
 School: Enchantment

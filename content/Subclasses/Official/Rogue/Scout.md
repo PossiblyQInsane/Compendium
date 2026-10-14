@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:21:23.402-04:00
-modified: 2026-09-22T00:43:46.540-04:00
-published: 2026-09-22T00:43:46.540-04:00
+created: 2026-09-11T05:21:23.402Z
+modified: 2026-09-22T04:43:46.540Z
+published: 2026-09-22T04:43:46.540Z
 Name: "[[Scout]]"
 Parent Class: "[[Rogue]]"
 Source: Xanathar's Guide to Everything

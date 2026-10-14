@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-27T12:43:18.222-04:00
-modified: 2026-10-09T01:39:42.202-04:00
-published: 2026-10-09T01:39:42.202-04:00
+created: 2026-09-27T16:43:18.222Z
+modified: 2026-10-09T05:39:42.202Z
+published: 2026-10-09T05:39:42.202Z
 Name: "[[Demiplane]]"
 Spell Level: Level 8
 School: Conjuration

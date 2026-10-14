@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T20:07:12.027-04:00
-modified: 2026-10-08T01:07:06.406-04:00
-published: 2026-10-08T01:07:06.406-04:00
+created: 2026-07-27T00:07:12.027Z
+modified: 2026-10-08T05:07:06.406Z
+published: 2026-10-08T05:07:06.406Z
 Name: "[[Melf's Acid Arrow]]"
 Spell Level: Level 2
 School: Evocation

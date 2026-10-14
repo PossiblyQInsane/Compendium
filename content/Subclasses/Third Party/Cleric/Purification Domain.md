@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T10:55:28.240-04:00
-modified: 2026-09-21T10:58:42.631-04:00
-published: 2026-09-21T10:58:42.631-04:00
+created: 2026-08-04T14:55:28.240Z
+modified: 2026-09-21T14:58:42.631Z
+published: 2026-09-21T14:58:42.631Z
 Name: "[[Purification Domain]]"
 Parent Class: "[[Cleric]]"
 Source: "Grim Hollow: Player's Guide"

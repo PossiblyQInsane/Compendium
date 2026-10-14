@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-09T09:03:38.486-04:00
-modified: 2026-09-21T11:03:18.215-04:00
-published: 2026-09-21T11:03:18.215-04:00
+created: 2026-08-09T13:03:38.486Z
+modified: 2026-09-21T15:03:18.215Z
+published: 2026-09-21T15:03:18.215Z
 Name: "[[Circle of Blood]]"
 Parent Class: "[[Druid]]"
 Source: "Grim Hollow: Player's Guide"

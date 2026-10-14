@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-05T00:32:52.877-04:00
-modified: 2026-09-30T00:28:13.586-04:00
-published: 2026-09-30T00:28:13.586-04:00
+created: 2026-08-05T04:32:52.877Z
+modified: 2026-09-30T04:28:13.586Z
+published: 2026-09-30T04:28:13.586Z
 Name: "[[Astral Domain]]"
 Parent Class: "[[Cleric]]"
 Source: "The Griffon's Saddlebag: Book One"

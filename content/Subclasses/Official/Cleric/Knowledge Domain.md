@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T10:15:16.942-04:00
-modified: 2026-09-21T10:30:45.669-04:00
-published: 2026-09-21T10:30:45.669-04:00
+created: 2026-08-04T14:15:16.942Z
+modified: 2026-09-21T14:30:45.669Z
+published: 2026-09-21T14:30:45.669Z
 Name: "[[Knowledge Domain]]"
 Parent Class: "[[Cleric]]"
 Source: "Forgotten Realms: Heroes of Faerûn"

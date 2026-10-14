@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T10:08:32.460-04:00
-modified: 2026-08-17T16:03:18.907-04:00
-published: 2026-08-17T16:03:18.907-04:00
+created: 2026-07-30T14:08:32.460Z
+modified: 2026-08-17T20:03:18.907Z
+published: 2026-08-17T20:03:18.907Z
 Category: Artisan's Tools
 Ability: Wisdom
 Weight: 6 lb.

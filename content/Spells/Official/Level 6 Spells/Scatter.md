@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-27T02:53:08.533-04:00
-modified: 2026-10-09T01:30:22.002-04:00
-published: 2026-10-09T01:30:22.002-04:00
+created: 2026-09-27T06:53:08.533Z
+modified: 2026-10-09T05:30:22.002Z
+published: 2026-10-09T05:30:22.002Z
 Name: "[[Scatter]]"
 Spell Level: Level 6
 School: Conjuration

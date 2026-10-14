@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-23T22:14:56.057-04:00
-modified: 2026-08-31T19:45:08.108-04:00
-published: 2026-08-31T19:45:08.108-04:00
+created: 2026-08-24T02:14:56.057Z
+modified: 2026-08-31T23:45:08.108Z
+published: 2026-08-31T23:45:08.108Z
 Name: "[[Druid Grove]]"
 Spell Level: Level 6
 School: Abjuration

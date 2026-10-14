@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T00:20:47.143-04:00
-modified: 2026-10-09T00:56:15.633-04:00
-published: 2026-10-09T00:56:15.633-04:00
+created: 2026-08-03T04:20:47.143Z
+modified: 2026-10-09T04:56:15.633Z
+published: 2026-10-09T04:56:15.633Z
 Name: "[[Dimension Door]]"
 Spell Level: Level 4
 School: Conjuration

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-17T20:45:41.576-04:00
-modified: 2026-10-08T12:10:06.904-04:00
-published: 2026-10-08T12:10:06.904-04:00
+created: 2026-08-18T00:45:41.576Z
+modified: 2026-10-08T16:10:06.904Z
+published: 2026-10-08T16:10:06.904Z
 Name: "[[Deryan's Helpful Homunculi]]"
 Spell Level: Level 2
 School: Conjuration

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-20T11:28:52.400-04:00
-modified: 2026-08-31T11:53:08.910-04:00
-published: 2026-08-31T11:53:08.910-04:00
+created: 2026-08-20T15:28:52.400Z
+modified: 2026-08-31T15:53:08.910Z
+published: 2026-08-31T15:53:08.910Z
 Name: "[[Primal Savagery]]"
 Spell Level: Cantrip
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T17:27:30.739-04:00
-modified: 2026-08-17T16:08:05.811-04:00
-published: 2026-08-17T16:08:05.811-04:00
+created: 2026-08-01T21:27:30.739Z
+modified: 2026-08-17T20:08:05.811Z
+published: 2026-08-17T20:08:05.811Z
 Category: Simple Melee Weapons
 Damage: 1d6 Slashing
 Properties: Light, Thrown (Range 20/60)

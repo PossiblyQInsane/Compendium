@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-28T11:54:00.956-04:00
-modified: 2026-10-11T17:00:59.711-04:00
-published: 2026-10-11T17:00:59.711-04:00
+created: 2026-07-28T15:54:00.956Z
+modified: 2026-10-11T21:00:59.711Z
+published: 2026-10-11T21:00:59.711Z
 Name: "[[Artillerist]]"
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"

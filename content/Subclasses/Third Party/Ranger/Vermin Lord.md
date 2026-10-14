@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-31T10:55:04.766-04:00
-modified: 2026-09-28T23:16:46.262-04:00
-published: 2026-09-28T23:16:46.262-04:00
+created: 2026-08-31T14:55:04.766Z
+modified: 2026-09-29T03:16:46.262Z
+published: 2026-09-29T03:16:46.262Z
 Parent Class: "[[Ranger]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false

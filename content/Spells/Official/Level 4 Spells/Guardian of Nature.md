@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-23T21:26:13.474-04:00
-modified: 2026-10-09T01:01:15.711-04:00
-published: 2026-10-09T01:01:15.711-04:00
+created: 2026-08-24T01:26:13.474Z
+modified: 2026-10-09T05:01:15.711Z
+published: 2026-10-09T05:01:15.711Z
 Name: "[[Guardian of Nature]]"
 Spell Level: Level 4
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-13T00:19:26.681-04:00
-modified: 2026-09-28T23:15:49.875-04:00
-published: 2026-09-28T23:15:49.875-04:00
+created: 2026-08-13T04:19:26.681Z
+modified: 2026-09-29T03:15:49.875Z
+published: 2026-09-29T03:15:49.875Z
 Name: "[[Bonesmith]]"
 Parent Class: "[[Fighter]]"
 Source: Dr. Dhrolin's Dictionary of Dinosaurs

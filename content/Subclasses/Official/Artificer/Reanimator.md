@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-31T09:37:39.767-04:00
-modified: 2026-09-28T23:13:02.167-04:00
-published: 2026-09-28T23:13:02.167-04:00
+created: 2026-07-31T13:37:39.767Z
+modified: 2026-09-29T03:13:02.167Z
+published: 2026-09-29T03:13:02.167Z
 Name: "[[Reanimator]]"
 Parent Class: "[[Artificer]]"
 Source: "Ravenloft: The Horrors Within"

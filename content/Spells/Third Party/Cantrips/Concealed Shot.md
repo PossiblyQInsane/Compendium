@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-02T11:35:32.802-04:00
-modified: 2026-10-08T01:19:00.097-04:00
-published: 2026-10-08T01:19:00.097-04:00
+created: 2026-09-02T15:35:32.802Z
+modified: 2026-10-08T05:19:00.097Z
+published: 2026-10-08T05:19:00.097Z
 Name: "[[Concealed Shot]]"
 Spell Level: Cantrip
 School: Illusion

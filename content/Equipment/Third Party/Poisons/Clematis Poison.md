@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-29T17:23:06.663-04:00
-modified: 2026-08-29T17:44:13.969-04:00
-published: 2026-08-29T17:44:13.969-04:00
+created: 2026-08-29T21:23:06.663Z
+modified: 2026-08-29T21:44:13.969Z
+published: 2026-08-29T21:44:13.969Z
 Category: Injury Poison
 Source: The Field Guide to Floral Dragons
 Official: false

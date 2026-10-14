@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T22:07:23.641-04:00
-modified: 2026-09-21T04:11:08.906-04:00
-published: 2026-09-21T04:11:08.906-04:00
+created: 2026-08-17T02:07:23.641Z
+modified: 2026-09-21T08:11:08.906Z
+published: 2026-09-21T08:11:08.906Z
 Name: "[[College of Mercantile]]"
 Parent Class: "[[Bard]]"
 Source: "The Griffon's Saddlebag: Book Two"

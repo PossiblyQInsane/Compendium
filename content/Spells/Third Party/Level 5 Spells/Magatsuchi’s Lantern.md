@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-03T02:29:55.438-04:00
-modified: 2026-10-09T01:25:10.393-04:00
-published: 2026-10-09T01:25:10.393-04:00
+created: 2026-10-03T06:29:55.438Z
+modified: 2026-10-09T05:25:10.393Z
+published: 2026-10-09T05:25:10.393Z
 Name: "[[Magatsuchi’s Lantern]]"
 Spell Level: Level 5
 School: Illusion

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-30T12:06:08.089-04:00
-modified: 2026-10-12T00:51:40.919-04:00
-published: 2026-10-12T00:51:40.919-04:00
+created: 2026-09-30T16:06:08.089Z
+modified: 2026-10-12T04:51:40.919Z
+published: 2026-10-12T04:51:40.919Z
 Name: "[[Architect of Ruin]]"
 Parent Class: "[[Illrigger]]"
 Source: The Illrigger Revised

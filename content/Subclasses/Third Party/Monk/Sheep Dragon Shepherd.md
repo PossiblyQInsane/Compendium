@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T13:22:23.536-04:00
-modified: 2026-10-04T00:49:03.922-04:00
-published: 2026-10-04T00:49:03.922-04:00
+created: 2026-09-21T17:22:23.536Z
+modified: 2026-10-04T04:49:03.922Z
+published: 2026-10-04T04:49:03.922Z
 Name: "[[Sheep Dragon Shepherd]]"
 Parent Class: "[[Monk]]"
 Source: "Obojima: Tales from the Tall Grass"

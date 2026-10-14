@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T12:55:23.389-04:00
-modified: 2026-09-25T11:10:33.054-04:00
-published: 2026-09-25T11:10:33.054-04:00
+created: 2026-08-01T16:55:23.389Z
+modified: 2026-09-25T15:10:33.054Z
+published: 2026-09-25T15:10:33.054Z
 Name: "[[Forge Adept]]"
 Parent Class: "[[Artificer]]"
 Source: Exploring Eberron

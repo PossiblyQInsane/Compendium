@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-30T12:06:08.089-04:00
-modified: 2026-10-12T00:53:38.966-04:00
-published: 2026-10-12T00:53:38.966-04:00
+created: 2026-09-30T16:06:08.089Z
+modified: 2026-10-12T04:53:38.966Z
+published: 2026-10-12T04:53:38.966Z
 Name: "[[Painkiller]]"
 Parent Class: "[[Illrigger]]"
 Source: The Illrigger Revised

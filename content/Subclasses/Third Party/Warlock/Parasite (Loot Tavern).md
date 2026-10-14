@@ -1,9 +1,9 @@
 ---
 publish: true
 title: The Parasite (Loot Tavern)
-created: 2026-09-11T01:28:47.675-04:00
-modified: 2026-10-10T23:48:31.304-04:00
-published: 2026-10-10T23:48:31.304-04:00
+created: 2026-09-11T05:28:47.675Z
+modified: 2026-10-11T03:48:31.304Z
+published: 2026-10-11T03:48:31.304Z
 Name: "[[Parasite (Loot Tavern)|The Parasite]]"
 Parent Class: "[[Warlock]]"
 Source: Heliana's Guide to Monster Hunting

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:09:05.617-04:00
-modified: 2026-09-21T14:19:13.821-04:00
-published: 2026-09-21T14:19:13.821-04:00
+created: 2026-09-11T05:09:05.617Z
+modified: 2026-09-21T18:19:13.821Z
+published: 2026-09-21T18:19:13.821Z
 Name: "[[Oath of Pestilence]]"
 Parent Class: "[[Paladin]]"
 Source: "Grim Hollow: Player's Guide"

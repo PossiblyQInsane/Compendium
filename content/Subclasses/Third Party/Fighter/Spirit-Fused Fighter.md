@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T12:45:15.345-04:00
-modified: 2026-10-04T00:48:25.050-04:00
-published: 2026-10-04T00:48:25.050-04:00
+created: 2026-09-21T16:45:15.345Z
+modified: 2026-10-04T04:48:25.050Z
+published: 2026-10-04T04:48:25.050Z
 Name: "[[Spirit-Fused Fighter]]"
 Parent Class: "[[Fighter]]"
 Source: "Obojima: Tales from the Tall Grass"

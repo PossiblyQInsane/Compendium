@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:18:42.077-04:00
-modified: 2026-09-21T23:43:22.638-04:00
-published: 2026-09-21T23:43:22.638-04:00
+created: 2026-09-11T05:18:42.077Z
+modified: 2026-09-22T03:43:22.638Z
+published: 2026-09-22T03:43:22.638Z
 Name: "[[Soulknife]]"
 Parent Class: "[[Rogue]]"
 Source: Player's Handbook 5.5e

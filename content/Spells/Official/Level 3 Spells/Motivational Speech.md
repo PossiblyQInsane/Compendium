@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T17:41:00.018-04:00
-modified: 2026-10-08T11:48:24.640-04:00
-published: 2026-10-08T11:48:24.640-04:00
+created: 2026-08-16T21:41:00.018Z
+modified: 2026-10-08T15:48:24.640Z
+published: 2026-10-08T15:48:24.640Z
 Name: "[[Motivational Speech]]"
 Spell Level: Level 3
 School: Enchantment

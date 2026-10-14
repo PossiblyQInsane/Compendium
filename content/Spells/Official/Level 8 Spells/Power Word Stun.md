@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T02:36:28.210-04:00
-modified: 2026-10-09T01:41:17.796-04:00
-published: 2026-10-09T01:41:17.796-04:00
+created: 2026-08-03T06:36:28.210Z
+modified: 2026-10-09T05:41:17.796Z
+published: 2026-10-09T05:41:17.796Z
 Name: "[[Power Word Stun]]"
 Spell Level: Level 8
 School: Enchantment

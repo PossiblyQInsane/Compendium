@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T15:15:10.705-04:00
-modified: 2026-10-09T01:02:48.424-04:00
-published: 2026-10-09T01:02:48.424-04:00
+created: 2026-07-26T19:15:10.705Z
+modified: 2026-10-09T05:02:48.424Z
+published: 2026-10-09T05:02:48.424Z
 Name: "[[Mordenkainen's Faithful Hound]]"
 Spell Level: Level 4
 School: Conjuration

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T16:22:09.846-04:00
-modified: 2026-10-10T01:11:49.182-04:00
-published: 2026-10-10T01:11:49.182-04:00
+created: 2026-10-05T20:22:09.846Z
+modified: 2026-10-10T05:11:49.182Z
+published: 2026-10-10T05:11:49.182Z
 Creature Type: Aberration
 Size: Tiny
 Alignment: Chaotic Neutral

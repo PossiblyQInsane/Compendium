@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-06T11:33:03.572-04:00
-modified: 2026-10-09T01:49:23.082-04:00
-published: 2026-10-09T01:49:23.082-04:00
+created: 2026-10-06T15:33:03.572Z
+modified: 2026-10-09T05:49:23.082Z
+published: 2026-10-09T05:49:23.082Z
 Name: "[[Gravity Sinkhole]]"
 Spell Level: Level 4
 School: Evocation

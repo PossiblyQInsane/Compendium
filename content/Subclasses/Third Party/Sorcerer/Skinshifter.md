@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:23:54.649-04:00
-modified: 2026-10-05T22:52:48.335-04:00
-published: 2026-10-05T22:52:48.335-04:00
+created: 2026-09-11T05:23:54.649Z
+modified: 2026-10-06T02:52:48.335Z
+published: 2026-10-06T02:52:48.335Z
 Name: "[[Skinshifter]]"
 Parent Class: "[[Sorcerer]]"
 Source: Heliana's Guide to Monster Hunting

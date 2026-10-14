@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-12T00:35:59.853-04:00
-modified: 2026-09-21T04:24:37.218-04:00
-published: 2026-09-21T04:24:37.218-04:00
+created: 2026-08-12T04:35:59.853Z
+modified: 2026-09-21T08:24:37.218Z
+published: 2026-09-21T08:24:37.218Z
 Name: "[[College of Wands]]"
 Parent Class: "[[Bard]]"
 Source: "Frontiers of Eberron: Quickstone"

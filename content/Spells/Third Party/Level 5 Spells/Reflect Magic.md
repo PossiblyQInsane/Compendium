@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T02:32:30.298-04:00
-modified: 2026-10-13T02:35:01.503-04:00
-published: 2026-10-13T02:35:01.503-04:00
+created: 2026-10-13T06:32:30.298Z
+modified: 2026-10-13T06:35:01.503Z
+published: 2026-10-13T06:35:01.503Z
 Name: "[[Reflect Magic]]"
 Spell Level: Level 5
 School: Abjuration

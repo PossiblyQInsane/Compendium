@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T21:28:20.646-04:00
-modified: 2026-10-08T01:14:17.856-04:00
-published: 2026-10-08T01:14:17.856-04:00
+created: 2026-08-03T01:28:20.646Z
+modified: 2026-10-08T05:14:17.856Z
+published: 2026-10-08T05:14:17.856Z
 Name: "[[Suggestion]]"
 Spell Level: Level 2
 School: Enchantment

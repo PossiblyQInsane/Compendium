@@ -1,9 +1,9 @@
 ---
 publish: true
 title: The Many
-created: 2026-09-11T01:32:54.881-04:00
-modified: 2026-10-10T22:53:21.836-04:00
-published: 2026-10-10T22:53:21.836-04:00
+created: 2026-09-11T05:32:54.881Z
+modified: 2026-10-11T02:53:21.836Z
+published: 2026-10-11T02:53:21.836Z
 Name: "[[Many|The Many]]"
 Parent Class: "[[Warlock]]"
 Source: "The Griffon's Saddlebag: Book Two"

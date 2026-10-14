@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:33:45.323-04:00
-modified: 2026-10-06T01:16:04.004-04:00
-published: 2026-10-06T01:16:04.004-04:00
+created: 2026-09-11T05:33:45.323Z
+modified: 2026-10-06T05:16:04.004Z
+published: 2026-10-06T05:16:04.004Z
 Name: "[[Transmuter]]"
 Parent Class: "[[Wizard]]"
 Source: Arcana Unleashed

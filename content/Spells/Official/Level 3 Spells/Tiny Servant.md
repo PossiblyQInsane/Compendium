@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-15T23:21:51.857-04:00
-modified: 2026-10-08T11:55:07.774-04:00
-published: 2026-10-08T11:55:07.774-04:00
+created: 2026-08-16T03:21:51.857Z
+modified: 2026-10-08T15:55:07.774Z
+published: 2026-10-08T15:55:07.774Z
 Name: "[[Tiny Servant]]"
 Spell Level: Level 3
 School: Transmutation

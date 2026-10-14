@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T10:59:06.587-04:00
-modified: 2026-10-08T01:00:53.355-04:00
-published: 2026-10-08T01:00:53.355-04:00
+created: 2026-08-04T14:59:06.587Z
+modified: 2026-10-08T05:00:53.355Z
+published: 2026-10-08T05:00:53.355Z
 Name: "[[Flame Blade]]"
 Spell Level: Level 2
 School: Evocation

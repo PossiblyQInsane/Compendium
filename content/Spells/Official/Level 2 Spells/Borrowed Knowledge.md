@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T16:44:32.202-04:00
-modified: 2026-10-08T00:52:58.756-04:00
-published: 2026-10-08T00:52:58.756-04:00
+created: 2026-08-16T20:44:32.202Z
+modified: 2026-10-08T04:52:58.756Z
+published: 2026-10-08T04:52:58.756Z
 Name: "[[Borrowed Knowledge]]"
 Spell Level: Level 2
 School: Divination

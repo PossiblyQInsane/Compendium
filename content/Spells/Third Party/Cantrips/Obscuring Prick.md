@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T11:55:14.380-04:00
-modified: 2026-10-13T11:57:35.537-04:00
-published: 2026-10-13T11:57:35.537-04:00
+created: 2026-10-13T15:55:14.380Z
+modified: 2026-10-13T15:57:35.537Z
+published: 2026-10-13T15:57:35.537Z
 Name: "[[Obscuring Prick]]"
 Spell Level: Cantrip
 School: Illusion

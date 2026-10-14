@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-28T11:12:40.466-04:00
-modified: 2026-10-10T02:03:30.856-04:00
-published: 2026-10-10T02:03:30.856-04:00
+created: 2026-08-28T15:12:40.466Z
+modified: 2026-10-10T06:03:30.856Z
+published: 2026-10-10T06:03:30.856Z
 Creature Type: Undead
 Subtype: Cleric
 Size:

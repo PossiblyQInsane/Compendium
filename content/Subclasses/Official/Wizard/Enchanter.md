@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:33:45.323-04:00
-modified: 2026-10-06T00:58:08.732-04:00
-published: 2026-10-06T00:58:08.732-04:00
+created: 2026-09-11T05:33:45.323Z
+modified: 2026-10-06T04:58:08.732Z
+published: 2026-10-06T04:58:08.732Z
 Name: "[[Enchanter]]"
 Parent Class: "[[Wizard]]"
 Source: Arcana Unleashed

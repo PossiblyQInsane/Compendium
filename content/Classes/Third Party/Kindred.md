@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-26T16:37:37.073-04:00
-modified: 2026-10-13T00:54:04.503-04:00
-published: 2026-10-13T00:54:04.503-04:00
+created: 2026-09-26T20:37:37.073Z
+modified: 2026-10-13T04:54:04.503Z
+published: 2026-10-13T04:54:04.503Z
 Name: "[[Kindred]]"
 Source: "Vampire: The Masquerade - Bound by Blood"
 Official: false

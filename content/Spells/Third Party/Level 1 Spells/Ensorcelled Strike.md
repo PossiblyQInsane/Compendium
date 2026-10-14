@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T01:45:59.876-04:00
-modified: 2026-10-13T01:49:18.067-04:00
-published: 2026-10-13T01:49:18.067-04:00
+created: 2026-10-13T05:45:59.876Z
+modified: 2026-10-13T05:49:18.067Z
+published: 2026-10-13T05:49:18.067Z
 Name: "[[Ensorcelled Strike]]"
 Spell Level: Level 1
 School: Evocation

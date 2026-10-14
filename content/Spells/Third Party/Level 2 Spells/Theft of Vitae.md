@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-23T10:58:44.954-04:00
-modified: 2026-10-08T01:35:06.921-04:00
-published: 2026-10-08T01:35:06.921-04:00
+created: 2026-09-23T14:58:44.954Z
+modified: 2026-10-08T05:35:06.921Z
+published: 2026-10-08T05:35:06.921Z
 Name: "[[Theft of Vitae]]"
 Spell Level: Level 2
 School: Transmutation

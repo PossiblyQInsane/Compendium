@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T20:55:10.786-04:00
-modified: 2026-10-08T00:50:06.349-04:00
-published: 2026-10-08T00:50:06.349-04:00
+created: 2026-08-03T00:55:10.786Z
+modified: 2026-10-08T04:50:06.349Z
+published: 2026-10-08T04:50:06.349Z
 Name: "[[Animal Messenger]]"
 Spell Level: Level 2
 School: Enchantment

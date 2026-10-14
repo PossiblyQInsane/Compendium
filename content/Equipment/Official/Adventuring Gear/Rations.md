@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-06T00:32:44.857-04:00
-modified: 2026-08-17T15:56:56.059-04:00
-published: 2026-08-17T15:56:56.059-04:00
+created: 2026-08-06T04:32:44.857Z
+modified: 2026-08-17T19:56:56.059Z
+published: 2026-08-17T19:56:56.059Z
 Weight: 2 lb.
 Cost: 5 SP
 Source: Player's Handbook 5.5e

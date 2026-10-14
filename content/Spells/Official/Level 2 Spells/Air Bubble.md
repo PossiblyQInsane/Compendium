@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-15T22:32:10.758-04:00
-modified: 2026-10-08T00:49:41.081-04:00
-published: 2026-10-08T00:49:41.081-04:00
+created: 2026-08-16T02:32:10.758Z
+modified: 2026-10-08T04:49:41.081Z
+published: 2026-10-08T04:49:41.081Z
 Name: "[[Air Bubble]]"
 Spell Level: Level 2
 School: Conjuration

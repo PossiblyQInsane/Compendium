@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-02T18:32:48.032-04:00
-modified: 2026-10-02T18:47:39.784-04:00
-published: 2026-10-02T18:47:39.784-04:00
+created: 2026-10-02T22:32:48.032Z
+modified: 2026-10-02T22:47:39.784Z
+published: 2026-10-02T22:47:39.784Z
 Name: "[[Sorrow Knight]]"
 Parent Class: "[[Fighter]]"
 Source: D&D Beyond Drops

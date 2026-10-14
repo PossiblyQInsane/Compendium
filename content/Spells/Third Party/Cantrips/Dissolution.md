@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-10T16:08:45.734-04:00
-modified: 2026-10-10T16:10:56.930-04:00
-published: 2026-10-10T16:10:56.930-04:00
+created: 2026-10-10T20:08:45.734Z
+modified: 2026-10-10T20:10:56.930Z
+published: 2026-10-10T20:10:56.930Z
 Name: "[[Dissolution]]"
 Spell Level: Cantrip
 School: Transmutation

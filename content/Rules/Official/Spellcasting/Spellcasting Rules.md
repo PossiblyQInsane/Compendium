@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Spellcasting
 title: Spellcasting
-created: 2026-07-27T20:53:04.987-04:00
-modified: 2026-09-11T11:00:21.418-04:00
-published: 2026-09-11T11:00:21.418-04:00
+created: 2026-07-28T00:53:04.987Z
+modified: 2026-09-11T15:00:21.418Z
+published: 2026-09-11T15:00:21.418Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

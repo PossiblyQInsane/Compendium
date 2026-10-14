@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-15T10:50:36.795-04:00
-modified: 2026-10-09T01:09:21.261-04:00
-published: 2026-10-09T01:09:21.261-04:00
+created: 2026-09-15T14:50:36.795Z
+modified: 2026-10-09T05:09:21.261Z
+published: 2026-10-09T05:09:21.261Z
 Name: "[[Intrusive Despair]]"
 Spell Level: Level 4
 School: Enchantment

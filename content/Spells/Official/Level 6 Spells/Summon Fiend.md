@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-05T16:18:27.794-04:00
-modified: 2026-10-09T01:30:40.676-04:00
-published: 2026-10-09T01:30:40.676-04:00
+created: 2026-09-05T20:18:27.794Z
+modified: 2026-10-09T05:30:40.676Z
+published: 2026-10-09T05:30:40.676Z
 Name: "[[Summon Fiend]]"
 Spell Level: Level 6
 School: Conjuration

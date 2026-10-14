@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-03T23:48:33.325-04:00
-modified: 2026-10-10T01:56:50.760-04:00
-published: 2026-10-10T01:56:50.760-04:00
+created: 2026-10-04T03:48:33.325Z
+modified: 2026-10-10T05:56:50.760Z
+published: 2026-10-10T05:56:50.760Z
 Creature Type: Beast
 Subtype: Yokai
 Size: Large

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-31T10:08:46.872-04:00
-modified: 2026-10-08T11:30:45.461-04:00
-published: 2026-10-08T11:30:45.461-04:00
+created: 2026-07-31T14:08:46.872Z
+modified: 2026-10-08T15:30:45.461Z
+published: 2026-10-08T15:30:45.461Z
 Name: "[[Animate Dead]]"
 Spell Level: Level 3
 School: Necromancy

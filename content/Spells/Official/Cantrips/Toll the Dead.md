@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T22:25:10.308-04:00
-modified: 2026-10-08T00:20:29.355-04:00
-published: 2026-10-08T00:20:29.355-04:00
+created: 2026-08-04T02:25:10.308Z
+modified: 2026-10-08T04:20:29.355Z
+published: 2026-10-08T04:20:29.355Z
 Name: "[[Toll the Dead]]"
 Spell Level: Cantrip
 School: Necromancy

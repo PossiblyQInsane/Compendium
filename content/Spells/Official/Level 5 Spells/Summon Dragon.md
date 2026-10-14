@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-05T00:56:46.819-04:00
-modified: 2026-09-29T00:22:14.712-04:00
-published: 2026-09-29T00:22:14.712-04:00
+created: 2026-08-05T04:56:46.819Z
+modified: 2026-09-29T04:22:14.712Z
+published: 2026-09-29T04:22:14.712Z
 Name: "[[Summon Dragon]]"
 Spell Level: Level 5
 School: Conjuration

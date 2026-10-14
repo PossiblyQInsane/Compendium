@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T23:19:08.464-04:00
-modified: 2026-10-08T00:50:19.237-04:00
-published: 2026-10-08T00:50:19.237-04:00
+created: 2026-07-26T03:19:08.464Z
+modified: 2026-10-08T04:50:19.237Z
+published: 2026-10-08T04:50:19.237Z
 Name: "[[Arcane Lock|Arcane Lock]]"
 Spell Level: Level 2
 School: Abjuration

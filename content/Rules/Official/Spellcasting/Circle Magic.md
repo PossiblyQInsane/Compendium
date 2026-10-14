@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Circle spell
-created: 2026-08-16T18:00:57.439-04:00
-modified: 2026-08-23T23:35:47.544-04:00
-published: 2026-08-23T23:35:47.544-04:00
+created: 2026-08-16T22:00:57.439Z
+modified: 2026-08-24T03:35:47.544Z
+published: 2026-08-24T03:35:47.544Z
 Source: "Forgotten Realms: Heroes of Faerûn"
 Official: true
 Edition: 5.5e

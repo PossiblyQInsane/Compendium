@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T22:21:06.474-04:00
-modified: 2026-10-09T01:45:48.514-04:00
-published: 2026-10-09T01:45:48.514-04:00
+created: 2026-08-04T02:21:06.474Z
+modified: 2026-10-09T05:45:48.514Z
+published: 2026-10-09T05:45:48.514Z
 Name: "[[Wish]]"
 Spell Level: Level 9
 School: Conjuration

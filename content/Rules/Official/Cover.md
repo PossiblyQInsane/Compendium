@@ -5,9 +5,9 @@ aliases:
   - Half Cover
   - Three-Quarters Cover
   - Total cover
-created: 2026-07-29T12:06:00.959-04:00
-modified: 2026-08-23T23:40:21.778-04:00
-published: 2026-08-23T23:40:21.778-04:00
+created: 2026-07-29T16:06:00.959Z
+modified: 2026-08-24T03:40:21.778Z
+published: 2026-08-24T03:40:21.778Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

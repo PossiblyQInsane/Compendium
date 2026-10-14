@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T00:17:30.605-04:00
-modified: 2026-10-09T00:54:24.504-04:00
-published: 2026-10-09T00:54:24.504-04:00
+created: 2026-08-03T04:17:30.605Z
+modified: 2026-10-09T04:54:24.504Z
+published: 2026-10-09T04:54:24.504Z
 Name: "[[Confusion]]"
 Spell Level: Level 4
 School: Enchantment

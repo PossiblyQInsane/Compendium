@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T11:26:32.139-04:00
-modified: 2026-10-08T12:01:05.776-04:00
-published: 2026-10-08T12:01:05.776-04:00
+created: 2026-08-04T15:26:32.139Z
+modified: 2026-10-08T16:01:05.776Z
+published: 2026-10-08T16:01:05.776Z
 Name: "[[Harvest Moonglow]]"
 Spell Level: Level 3
 School: Evocation

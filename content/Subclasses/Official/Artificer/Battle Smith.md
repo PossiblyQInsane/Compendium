@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-23T02:30:17.849-04:00
-modified: 2026-09-28T23:12:31.925-04:00
-published: 2026-09-28T23:12:31.925-04:00
+created: 2026-07-23T06:30:17.849Z
+modified: 2026-09-29T03:12:31.925Z
+published: 2026-09-29T03:12:31.925Z
 Name: "[[Battle Smith]]"
 Parent Class: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"

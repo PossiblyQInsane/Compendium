@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-27T02:33:16.167-04:00
-modified: 2026-10-09T01:26:23.313-04:00
-published: 2026-10-09T01:26:23.313-04:00
+created: 2026-09-27T06:33:16.167Z
+modified: 2026-10-09T05:26:23.313Z
+published: 2026-10-09T05:26:23.313Z
 Name: "[[Arcane Gate]]"
 Spell Level: Level 6
 School: Conjuration

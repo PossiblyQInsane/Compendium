@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T11:02:45.523-04:00
-modified: 2026-10-04T00:47:46.598-04:00
-published: 2026-10-04T00:47:46.598-04:00
+created: 2026-09-21T15:02:45.523Z
+modified: 2026-10-04T04:47:46.598Z
+published: 2026-10-04T04:47:46.598Z
 Name: "[[Circle of the Petal]]"
 Parent Class: "[[Druid]]"
 Source: "Obojima: Tales from the Tall Grass"

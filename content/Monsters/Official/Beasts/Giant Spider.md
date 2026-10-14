@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-11T00:18:19.798-04:00
-modified: 2026-10-11T00:20:15.422-04:00
-published: 2026-10-11T00:20:15.422-04:00
+created: 2026-10-11T04:18:19.798Z
+modified: 2026-10-11T04:20:15.422Z
+published: 2026-10-11T04:20:15.422Z
 Creature Type: Beast
 Size:
   - Large

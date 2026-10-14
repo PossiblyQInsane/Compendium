@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T13:25:45.479-04:00
-modified: 2026-09-21T04:09:48.703-04:00
-published: 2026-09-21T04:09:48.703-04:00
+created: 2026-08-03T17:25:45.479Z
+modified: 2026-09-21T08:09:48.703Z
+published: 2026-09-21T08:09:48.703Z
 Name: "[[College of Adventurers]]"
 Parent Class: "[[Bard]]"
 Source: "Grim Hollow: Player's Guide"

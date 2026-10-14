@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:22:42.326-04:00
-modified: 2026-09-30T10:08:09.172-04:00
-published: 2026-09-30T10:08:09.172-04:00
+created: 2026-09-11T05:22:42.326Z
+modified: 2026-09-30T14:08:09.172Z
+published: 2026-09-30T14:08:09.172Z
 Name: "[[Draconic Sorcery]]"
 Parent Class: "[[Sorcerer]]"
 Source: Player's Handbook 5.5e

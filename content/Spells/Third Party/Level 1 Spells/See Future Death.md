@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-11T01:23:57.292-04:00
-modified: 2026-10-11T01:29:49.227-04:00
-published: 2026-10-11T01:29:49.227-04:00
+created: 2026-10-11T05:23:57.292Z
+modified: 2026-10-11T05:29:49.227Z
+published: 2026-10-11T05:29:49.227Z
 Name: "[[See Future Death]]"
 Spell Level: Level 1
 School: Divination

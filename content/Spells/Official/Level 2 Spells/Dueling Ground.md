@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-03T02:12:42.210-04:00
-modified: 2026-10-08T12:10:17.114-04:00
-published: 2026-10-08T12:10:17.114-04:00
+created: 2026-09-03T06:12:42.210Z
+modified: 2026-10-08T16:10:17.114Z
+published: 2026-10-08T16:10:17.114Z
 Name: "[[Dueling Ground]]"
 Spell Level: Level 2
 School: Abjuration

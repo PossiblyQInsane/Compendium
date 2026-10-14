@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T20:57:51.567-04:00
-modified: 2026-10-08T00:53:17.650-04:00
-published: 2026-10-08T00:53:17.650-04:00
+created: 2026-08-03T00:57:51.567Z
+modified: 2026-10-08T04:53:17.650Z
+published: 2026-10-08T04:53:17.650Z
 Name: "[[Calm Emotions]]"
 Spell Level: Level 2
 School: Enchantment

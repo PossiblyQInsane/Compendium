@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T22:21:00.831-04:00
-modified: 2026-10-08T00:20:15.017-04:00
-published: 2026-10-08T00:20:15.017-04:00
+created: 2026-07-26T02:21:00.831Z
+modified: 2026-10-08T04:20:15.017Z
+published: 2026-10-08T04:20:15.017Z
 Name: "[[Thunderclap|Thunderclap]]"
 Spell Level: Cantrip
 School: Evocation

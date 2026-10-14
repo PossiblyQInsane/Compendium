@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T23:32:37.540-04:00
-modified: 2026-10-08T11:45:20.945-04:00
-published: 2026-10-08T11:45:20.945-04:00
+created: 2026-08-03T03:32:37.540Z
+modified: 2026-10-08T15:45:20.945Z
+published: 2026-10-08T15:45:20.945Z
 Name: "[[Leomund's Tiny Hut]]"
 Spell Level: Level 3
 School: Evocation

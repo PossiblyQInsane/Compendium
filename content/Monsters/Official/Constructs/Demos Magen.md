@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T20:30:11.933-04:00
-modified: 2026-10-05T20:31:42.887-04:00
-published: 2026-10-05T20:31:42.887-04:00
+created: 2026-10-06T00:30:11.933Z
+modified: 2026-10-06T00:31:42.887Z
+published: 2026-10-06T00:31:42.887Z
 Creature Type: Construct
 Size: Medium
 Alignment: Unaligned

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-09T10:52:49.766-04:00
-modified: 2026-09-21T11:03:52.760-04:00
-published: 2026-09-21T11:03:52.760-04:00
+created: 2026-08-09T14:52:49.766Z
+modified: 2026-09-21T15:03:52.760Z
+published: 2026-09-21T15:03:52.760Z
 Name: "[[Circle of Fenris]]"
 Parent Class: "[[Druid]]"
 Source: Northlands Worldbook

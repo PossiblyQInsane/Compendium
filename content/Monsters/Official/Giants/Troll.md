@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-04T21:30:20.647-04:00
-modified: 2026-10-10T01:46:25.476-04:00
-published: 2026-10-10T01:46:25.476-04:00
+created: 2026-10-05T01:30:20.647Z
+modified: 2026-10-10T05:46:25.476Z
+published: 2026-10-10T05:46:25.476Z
 Creature Type: Giant
 Size: Large
 Alignment: Chaotic Evil

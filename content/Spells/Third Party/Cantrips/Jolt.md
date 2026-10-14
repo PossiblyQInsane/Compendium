@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T13:16:06.580-04:00
-modified: 2026-10-08T01:20:05.577-04:00
-published: 2026-10-08T01:20:05.577-04:00
+created: 2026-09-21T17:16:06.580Z
+modified: 2026-10-08T05:20:05.577Z
+published: 2026-10-08T05:20:05.577Z
 Name: "[[Jolt]]"
 Spell Level: Cantrip
 School: Evocation

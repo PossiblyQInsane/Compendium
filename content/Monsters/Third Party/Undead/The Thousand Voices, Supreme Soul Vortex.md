@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-10T22:30:35.489-04:00
-modified: 2026-10-10T22:32:35.288-04:00
-published: 2026-10-10T22:32:35.288-04:00
+created: 2026-10-11T02:30:35.489Z
+modified: 2026-10-11T02:32:35.288Z
+published: 2026-10-11T02:32:35.288Z
 Creature Type: Undead
 Size:
   - Gargantuan

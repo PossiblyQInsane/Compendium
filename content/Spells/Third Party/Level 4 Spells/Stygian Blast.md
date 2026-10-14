@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T11:13:25.277-04:00
-modified: 2026-10-13T11:15:19.533-04:00
-published: 2026-10-13T11:15:19.533-04:00
+created: 2026-10-13T15:13:25.277Z
+modified: 2026-10-13T15:15:19.533Z
+published: 2026-10-13T15:15:19.533Z
 Name: "[[Stygian Blast]]"
 Spell Level: Level 4
 School: Necromancy

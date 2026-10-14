@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-24T20:51:41.260-04:00
-modified: 2026-10-08T01:24:22.433-04:00
-published: 2026-10-08T01:24:22.433-04:00
+created: 2026-08-25T00:51:41.260Z
+modified: 2026-10-08T05:24:22.433Z
+published: 2026-10-08T05:24:22.433Z
 Name: "[[Daydream]]"
 Spell Level: Level 1
 School: Enchantment

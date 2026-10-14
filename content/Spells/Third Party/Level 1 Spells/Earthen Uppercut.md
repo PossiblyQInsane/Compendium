@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-03T15:55:41.478-04:00
-modified: 2026-10-08T01:24:44.683-04:00
-published: 2026-10-08T01:24:44.683-04:00
+created: 2026-10-03T19:55:41.478Z
+modified: 2026-10-08T05:24:44.683Z
+published: 2026-10-08T05:24:44.683Z
 Name: "[[Earthen Uppercut]]"
 Spell Level: Level 1
 School: Transmutation

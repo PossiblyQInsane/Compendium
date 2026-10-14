@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T16:17:20.070-04:00
-modified: 2026-10-08T00:33:55.523-04:00
-published: 2026-10-08T00:33:55.523-04:00
+created: 2026-08-16T20:17:20.070Z
+modified: 2026-10-08T04:33:55.523Z
+published: 2026-10-08T04:33:55.523Z
 Name: "[[Distort Value]]"
 Spell Level: Level 1
 School: Illusion

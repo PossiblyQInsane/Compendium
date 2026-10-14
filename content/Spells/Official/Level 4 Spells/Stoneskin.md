@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T15:33:05.987-04:00
-modified: 2026-10-09T01:05:46.890-04:00
-published: 2026-10-09T01:05:46.890-04:00
+created: 2026-07-26T19:33:05.987Z
+modified: 2026-10-09T05:05:46.890Z
+published: 2026-10-09T05:05:46.890Z
 Name: "[[Stoneskin]]"
 Spell Level: Level 4
 School: Transmutation

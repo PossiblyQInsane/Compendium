@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T00:04:00.022-04:00
-modified: 2026-10-09T01:21:46.993-04:00
-published: 2026-10-09T01:21:46.993-04:00
+created: 2026-08-16T04:04:00.022Z
+modified: 2026-10-09T05:21:46.993Z
+published: 2026-10-09T05:21:46.993Z
 Name: "[[Transmute Rock]]"
 Spell Level: Level 5
 School: Transmutation

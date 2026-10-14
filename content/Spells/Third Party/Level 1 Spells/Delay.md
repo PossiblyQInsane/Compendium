@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-10T14:58:17.119-04:00
-modified: 2026-10-10T15:01:04.173-04:00
-published: 2026-10-10T15:01:04.173-04:00
+created: 2026-10-10T18:58:17.119Z
+modified: 2026-10-10T19:01:04.173Z
+published: 2026-10-10T19:01:04.173Z
 Name: "[[Delay]]"
 Spell Level: Level 1
 School: Transmutation

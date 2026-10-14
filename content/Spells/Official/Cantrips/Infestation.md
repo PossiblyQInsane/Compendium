@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-20T11:18:49.891-04:00
-modified: 2026-10-08T00:11:16.272-04:00
-published: 2026-10-08T00:11:16.272-04:00
+created: 2026-08-20T15:18:49.891Z
+modified: 2026-10-08T04:11:16.272Z
+published: 2026-10-08T04:11:16.272Z
 Name: "[[Infestation]]"
 Spell Level: Cantrip
 School: Conjuration

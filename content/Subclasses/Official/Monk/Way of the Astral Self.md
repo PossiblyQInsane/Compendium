@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:05:00.573-04:00
-modified: 2026-09-21T14:14:10.963-04:00
-published: 2026-09-21T14:14:10.963-04:00
+created: 2026-09-11T05:05:00.573Z
+modified: 2026-09-21T18:14:10.963Z
+published: 2026-09-21T18:14:10.963Z
 Name: "[[Way of the Astral Self]]"
 Parent Class: "[[Monk]]"
 Source: Tasha's Cauldron of Everything

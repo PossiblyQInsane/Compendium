@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-06T11:13:55.938-04:00
-modified: 2026-10-06T11:20:33.426-04:00
-published: 2026-10-06T11:20:33.426-04:00
+created: 2026-10-06T15:13:55.938Z
+modified: 2026-10-06T15:20:33.426Z
+published: 2026-10-06T15:20:33.426Z
 Name: "[[Sapping Sting]]"
 Spell Level: Cantrip
 School: Necromancy

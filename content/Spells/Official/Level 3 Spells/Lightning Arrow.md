@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-14T22:25:47.113-04:00
-modified: 2026-09-14T22:28:11.888-04:00
-published: 2026-09-14T22:28:11.888-04:00
+created: 2026-09-15T02:25:47.113Z
+modified: 2026-09-15T02:28:11.888Z
+published: 2026-09-15T02:28:11.888Z
 Name: "[[Lightning Arrow]]"
 Spell Level: Level 3
 School: Transmutation

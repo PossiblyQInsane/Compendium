@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-27T02:36:19.677-04:00
-modified: 2026-10-09T01:27:46.285-04:00
-published: 2026-10-09T01:27:46.285-04:00
+created: 2026-09-27T06:36:19.677Z
+modified: 2026-10-09T05:27:46.285Z
+published: 2026-10-09T05:27:46.285Z
 Name: "[[Fizban's Platinum Shield]]"
 Spell Level: Level 6
 School: Abjuration

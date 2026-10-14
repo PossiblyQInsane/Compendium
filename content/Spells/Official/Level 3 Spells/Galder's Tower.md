@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T19:41:05.255-04:00
-modified: 2026-10-05T19:44:46.517-04:00
-published: 2026-10-05T19:44:46.517-04:00
+created: 2026-10-05T23:41:05.255Z
+modified: 2026-10-05T23:44:46.517Z
+published: 2026-10-05T23:44:46.517Z
 Name: "[[Galder's Tower]]"
 Spell Level: Level 3
 School: Conjuration

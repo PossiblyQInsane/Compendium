@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T19:18:45.146-04:00
-modified: 2026-10-05T19:22:26.950-04:00
-published: 2026-10-05T19:22:26.950-04:00
+created: 2026-10-05T23:18:45.146Z
+modified: 2026-10-05T23:22:26.950Z
+published: 2026-10-05T23:22:26.950Z
 Name: "[[Jim's Magic Missile]]"
 Spell Level: Level 1
 School: Evocation

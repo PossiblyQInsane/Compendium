@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T01:54:19.563-04:00
-modified: 2026-10-13T01:58:40.201-04:00
-published: 2026-10-13T01:58:40.201-04:00
+created: 2026-10-13T05:54:19.563Z
+modified: 2026-10-13T05:58:40.201Z
+published: 2026-10-13T05:58:40.201Z
 Name: "[[Spell Aegis]]"
 Spell Level: Level 1
 School: Abjuration

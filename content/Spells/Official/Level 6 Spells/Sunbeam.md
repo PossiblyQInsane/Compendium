@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T00:17:45.319-04:00
-modified: 2026-10-09T01:30:50.665-04:00
-published: 2026-10-09T01:30:50.665-04:00
+created: 2026-08-04T04:17:45.319Z
+modified: 2026-10-09T05:30:50.665Z
+published: 2026-10-09T05:30:50.665Z
 Name: "[[Sunbeam]]"
 Spell Level: Level 6
 School: Evocation

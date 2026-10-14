@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T13:24:27.409-04:00
-modified: 2026-10-10T22:02:40.940-04:00
-published: 2026-10-10T22:02:40.940-04:00
+created: 2026-09-21T17:24:27.409Z
+modified: 2026-10-11T02:02:40.940Z
+published: 2026-10-11T02:02:40.940Z
 Name: "[[Origami Mage]]"
 Parent Class: "[[Wizard]]"
 Source: "Obojima: Tales from the Tall Grass"

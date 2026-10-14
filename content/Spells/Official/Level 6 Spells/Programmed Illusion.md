@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T01:40:15.773-04:00
-modified: 2026-10-09T01:30:13.189-04:00
-published: 2026-10-09T01:30:13.189-04:00
+created: 2026-08-03T05:40:15.773Z
+modified: 2026-10-09T05:30:13.189Z
+published: 2026-10-09T05:30:13.189Z
 Name: "[[Programmed Illusion]]"
 Spell Level: Level 6
 School: Illusion

@@ -4,9 +4,9 @@ aliases:
   - climbing speed
   - Climb
   - climb
-created: 2026-07-31T10:35:30.557-04:00
-modified: 2026-09-28T18:37:41.757-04:00
-published: 2026-09-28T18:37:41.757-04:00
+created: 2026-07-31T14:35:30.557Z
+modified: 2026-09-28T22:37:41.757Z
+published: 2026-09-28T22:37:41.757Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

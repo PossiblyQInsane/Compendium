@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-04T16:48:51.778-04:00
-modified: 2026-10-08T11:48:12.956-04:00
-published: 2026-10-08T11:48:12.956-04:00
+created: 2026-10-04T20:48:51.778Z
+modified: 2026-10-08T15:48:12.956Z
+published: 2026-10-08T15:48:12.956Z
 Name: "[[Mireball]]"
 Spell Level: Level 3
 School: Conjuration

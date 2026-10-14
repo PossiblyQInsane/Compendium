@@ -1,9 +1,9 @@
 ---
 publish: true
 title: The Fathomless
-created: 2026-09-11T01:32:05.100-04:00
-modified: 2026-10-06T02:02:27.161-04:00
-published: 2026-10-06T02:02:27.161-04:00
+created: 2026-09-11T05:32:05.100Z
+modified: 2026-10-06T06:02:27.161Z
+published: 2026-10-06T06:02:27.161Z
 Name: "[[Fathomless|The Fathomless]]"
 Parent Class: "[[Warlock]]"
 Source: Tasha's Cauldron of Everything

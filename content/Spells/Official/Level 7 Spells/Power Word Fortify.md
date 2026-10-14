@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T02:00:48.101-04:00
-modified: 2026-10-09T01:34:44.096-04:00
-published: 2026-10-09T01:34:44.096-04:00
+created: 2026-08-03T06:00:48.101Z
+modified: 2026-10-09T05:34:44.096Z
+published: 2026-10-09T05:34:44.096Z
 Name: "[[Power Word Fortify]]"
 Spell Level: Level 7
 School: Enchantment

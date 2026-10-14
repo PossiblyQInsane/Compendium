@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:34:52.631-04:00
-modified: 2026-10-10T06:22:36.852-04:00
-published: 2026-10-10T06:22:36.852-04:00
+created: 2026-09-11T05:34:52.631Z
+modified: 2026-10-10T10:22:36.852Z
+published: 2026-10-10T10:22:36.852Z
 Name: "[[Daemonologist]]"
 Parent Class: "[[Wizard]]"
 Source: "Grim Hollow: Player's Guide"

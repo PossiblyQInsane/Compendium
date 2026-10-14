@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-14T00:55:33.332-04:00
-modified: 2026-10-09T01:24:26.230-04:00
-published: 2026-10-09T01:24:26.230-04:00
+created: 2026-09-14T04:55:33.332Z
+modified: 2026-10-09T05:24:26.230Z
+published: 2026-10-09T05:24:26.230Z
 Name: "[[Freedom of the Winds]]"
 Spell Level: Level 5
 School: Abjuration

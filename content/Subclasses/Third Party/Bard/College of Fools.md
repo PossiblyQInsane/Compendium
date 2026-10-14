@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T15:15:23.035-04:00
-modified: 2026-09-21T04:10:32.057-04:00
-published: 2026-09-21T04:10:32.057-04:00
+created: 2026-08-03T19:15:23.035Z
+modified: 2026-09-21T08:10:32.057Z
+published: 2026-09-21T08:10:32.057Z
 Name: "[[College of Fools]]"
 Parent Class: "[[Bard]]"
 Source: "Grim Hollow: Player's Guide"

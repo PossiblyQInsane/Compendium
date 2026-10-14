@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-29T11:47:50.730-04:00
-modified: 2026-10-09T01:06:52.557-04:00
-published: 2026-10-09T01:06:52.557-04:00
+created: 2026-07-29T15:47:50.730Z
+modified: 2026-10-09T05:06:52.557Z
+published: 2026-10-09T05:06:52.557Z
 Name: "[[Wall of Fire]]"
 Spell Level: Level 4
 School: Evocation

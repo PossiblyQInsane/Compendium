@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T12:42:27.859-04:00
-modified: 2026-10-08T01:06:26.610-04:00
-published: 2026-10-08T01:06:26.610-04:00
+created: 2026-07-26T16:42:27.859Z
+modified: 2026-10-08T05:06:26.610Z
+published: 2026-10-08T05:06:26.610Z
 Name: "[[Magic Mouth]]"
 Spell Level: Level 2
 School: Illusion

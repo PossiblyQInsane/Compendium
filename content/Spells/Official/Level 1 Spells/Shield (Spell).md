@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Shield
 title: Shield
-created: 2026-07-29T10:20:00.473-04:00
-modified: 2026-10-08T00:44:45.291-04:00
-published: 2026-10-08T00:44:45.291-04:00
+created: 2026-07-29T14:20:00.473Z
+modified: 2026-10-08T04:44:45.291Z
+published: 2026-10-08T04:44:45.291Z
 Name: "[[Shield (Spell)|Shield]]"
 Spell Level: Level 1
 School: Abjuration

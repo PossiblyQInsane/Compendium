@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T19:37:57.186-04:00
-modified: 2026-10-05T19:40:20.583-04:00
-published: 2026-10-05T19:40:20.583-04:00
+created: 2026-10-05T23:37:57.186Z
+modified: 2026-10-05T23:40:20.583Z
+published: 2026-10-05T23:40:20.583Z
 Name: "[[Conjure Constructs]]"
 Spell Level: Level 3
 School: Conjuration

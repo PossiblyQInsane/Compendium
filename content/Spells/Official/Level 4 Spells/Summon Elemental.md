@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-07T11:45:07.112-04:00
-modified: 2026-10-09T01:06:21.159-04:00
-published: 2026-10-09T01:06:21.159-04:00
+created: 2026-08-07T15:45:07.112Z
+modified: 2026-10-09T05:06:21.159Z
+published: 2026-10-09T05:06:21.159Z
 Name: "[[Summon Elemental]]"
 Spell Level: Level 4
 School: Conjuration

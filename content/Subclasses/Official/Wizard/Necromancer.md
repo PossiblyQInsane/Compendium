@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:33:45.323-04:00
-modified: 2026-10-06T01:06:12.887-04:00
-published: 2026-10-06T01:06:12.887-04:00
+created: 2026-09-11T05:33:45.323Z
+modified: 2026-10-06T05:06:12.887Z
+published: 2026-10-06T05:06:12.887Z
 Name: "[[Subclasses/Official/Wizard/Necromancer|Necromancer]]"
 Parent Class: "[[Wizard]]"
 Source: Arcana Unleashed

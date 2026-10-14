@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T20:38:49.375-04:00
-modified: 2026-10-05T20:40:59.353-04:00
-published: 2026-10-05T20:40:59.353-04:00
+created: 2026-10-06T00:38:49.375Z
+modified: 2026-10-06T00:40:59.353Z
+published: 2026-10-06T00:40:59.353Z
 Name: "[[Simulacrum]]"
 Spell Level: Level 7
 School: Illusion

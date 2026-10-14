@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-23T23:20:29.252-04:00
-modified: 2026-09-21T11:03:34.297-04:00
-published: 2026-09-21T11:03:34.297-04:00
+created: 2026-08-24T03:20:29.252Z
+modified: 2026-09-21T15:03:34.297Z
+published: 2026-09-21T15:03:34.297Z
 Name: "[[Circle of Dragons]]"
 Parent Class: "[[Druid]]"
 Source: "The Griffon's Saddlebag: Book Two"

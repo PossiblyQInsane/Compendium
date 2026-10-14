@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T00:11:39.465-04:00
-modified: 2026-10-09T01:28:26.775-04:00
-published: 2026-10-09T01:28:26.775-04:00
+created: 2026-08-04T04:11:39.465Z
+modified: 2026-10-09T05:28:26.775Z
+published: 2026-10-09T05:28:26.775Z
 Name: "[[Heal]]"
 Spell Level: Level 6
 School: Abjuration

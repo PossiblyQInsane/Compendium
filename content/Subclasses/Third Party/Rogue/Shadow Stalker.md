@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:19:40.442-04:00
-modified: 2026-09-25T11:42:13.354-04:00
-published: 2026-09-25T11:42:13.354-04:00
+created: 2026-09-11T05:19:40.442Z
+modified: 2026-09-25T15:42:13.354Z
+published: 2026-09-25T15:42:13.354Z
 Name: "[[Shadow Stalker]]"
 Parent Class: "[[Rogue]]"
 Source: Cthulhu by Torchlight

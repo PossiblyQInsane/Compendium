@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-10T22:14:38.832-04:00
-modified: 2026-10-10T22:17:17.179-04:00
-published: 2026-10-10T22:17:17.179-04:00
+created: 2026-10-11T02:14:38.832Z
+modified: 2026-10-11T02:17:17.179Z
+published: 2026-10-11T02:17:17.179Z
 Creature Type: Giant
 Size:
   - Huge

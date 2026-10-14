@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-20T12:02:28.276-04:00
-modified: 2026-10-08T01:02:16.990-04:00
-published: 2026-10-08T01:02:16.990-04:00
+created: 2026-08-20T16:02:28.276Z
+modified: 2026-10-08T05:02:16.990Z
+published: 2026-10-08T05:02:16.990Z
 Name: "[[Healing Spirit]]"
 Spell Level: Level 2
 School: Conjuration

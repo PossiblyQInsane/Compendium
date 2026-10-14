@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-14T23:49:40.703-04:00
-modified: 2026-10-08T11:48:49.902-04:00
-published: 2026-10-08T11:48:49.902-04:00
+created: 2026-09-15T03:49:40.703Z
+modified: 2026-10-08T15:48:49.902Z
+published: 2026-10-08T15:48:49.902Z
 Name: "[[Phantom Steed]]"
 Spell Level: Level 3
 School: Illusion

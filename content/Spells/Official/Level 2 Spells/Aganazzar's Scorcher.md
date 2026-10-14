@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-27T00:34:50.429-04:00
-modified: 2026-10-08T00:48:44.029-04:00
-published: 2026-10-08T00:48:44.029-04:00
+created: 2026-09-27T04:34:50.429Z
+modified: 2026-10-08T04:48:44.029Z
+published: 2026-10-08T04:48:44.029Z
 Name: "[[Aganazzar's Scorcher]]"
 Spell Level: Level 2
 School: Evocation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-15T23:07:09.696-04:00
-modified: 2026-10-08T11:34:05.134-04:00
-published: 2026-10-08T11:34:05.134-04:00
+created: 2026-08-16T03:07:09.696Z
+modified: 2026-10-08T15:34:05.134Z
+published: 2026-10-08T15:34:05.134Z
 Name: "[[Catnap]]"
 Spell Level: Level 3
 School: Enchantment

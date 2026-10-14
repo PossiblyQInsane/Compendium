@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-10T23:59:20.542-04:00
-modified: 2026-10-11T00:03:57.829-04:00
-published: 2026-10-11T00:03:57.829-04:00
+created: 2026-10-11T03:59:20.542Z
+modified: 2026-10-11T04:03:57.829Z
+published: 2026-10-11T04:03:57.829Z
 Name: "[[Ambush Prey]]"
 Spell Level: Level 2
 School: Illusion

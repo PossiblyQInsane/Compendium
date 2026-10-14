@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-10T13:18:10.239-04:00
-modified: 2026-10-10T13:31:25.861-04:00
-published: 2026-10-10T13:31:25.861-04:00
+created: 2026-10-10T17:18:10.239Z
+modified: 2026-10-10T17:31:25.861Z
+published: 2026-10-10T17:31:25.861Z
 Name: "[[Feline Chaos]]"
 Spell Level: Level 5
 School: Conjuration

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:14:42.020-04:00
-modified: 2026-09-21T17:16:08.101-04:00
-published: 2026-09-21T17:16:08.101-04:00
+created: 2026-09-11T05:14:42.020Z
+modified: 2026-09-21T21:16:08.101Z
+published: 2026-09-21T21:16:08.101Z
 Name: "[[Primordial Archer]]"
 Parent Class: "[[Ranger]]"
 Source: "Grim Hollow: Player's Guide"

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T16:18:54.402-04:00
-modified: 2026-10-10T01:43:55.371-04:00
-published: 2026-10-10T01:43:55.371-04:00
+created: 2026-10-05T20:18:54.402Z
+modified: 2026-10-10T05:43:55.371Z
+published: 2026-10-10T05:43:55.371Z
 Creature Type: Fiend
 Subtype: Demon
 Size: Tiny

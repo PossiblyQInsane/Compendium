@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T13:53:53.498-04:00
-modified: 2026-10-08T11:43:11.756-04:00
-published: 2026-10-08T11:43:11.756-04:00
+created: 2026-07-26T17:53:53.498Z
+modified: 2026-10-08T15:43:11.756Z
+published: 2026-10-08T15:43:11.756Z
 Name: "[[Haste]]"
 Spell Level: Level 3
 School: Transmutation

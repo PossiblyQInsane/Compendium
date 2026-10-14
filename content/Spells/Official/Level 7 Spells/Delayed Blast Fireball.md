@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-27T12:29:25.639-04:00
-modified: 2026-10-09T01:32:58.753-04:00
-published: 2026-10-09T01:32:58.753-04:00
+created: 2026-09-27T16:29:25.639Z
+modified: 2026-10-09T05:32:58.753Z
+published: 2026-10-09T05:32:58.753Z
 Name: "[[Delayed Blast Fireball]]"
 Spell Level: Level 7
 School: Evocation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T20:19:45.178-04:00
-modified: 2026-10-08T11:47:30.039-04:00
-published: 2026-10-08T11:47:30.039-04:00
+created: 2026-07-27T00:19:45.178Z
+modified: 2026-10-08T15:47:30.039Z
+published: 2026-10-08T15:47:30.039Z
 Name: "[[Mass Healing Word]]"
 Spell Level: Level 3
 School: Abjuration

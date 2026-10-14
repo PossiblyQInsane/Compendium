@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-24T21:07:32.270-04:00
-modified: 2026-10-08T01:23:14.208-04:00
-published: 2026-10-08T01:23:14.208-04:00
+created: 2026-08-25T01:07:32.270Z
+modified: 2026-10-08T05:23:14.208Z
+published: 2026-10-08T05:23:14.208Z
 Name: "[[Chameleon Skin]]"
 Spell Level: Level 1
 School: Biomancy

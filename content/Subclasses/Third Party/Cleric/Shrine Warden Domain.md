@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-02T18:31:46.858-04:00
-modified: 2026-10-10T16:21:10.271-04:00
-published: 2026-10-10T16:21:10.271-04:00
+created: 2026-10-02T22:31:46.858Z
+modified: 2026-10-10T20:21:10.271Z
+published: 2026-10-10T20:21:10.271Z
 Name: "[[Shrine Warden Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Ryoko's Guide to the Yokai Realms

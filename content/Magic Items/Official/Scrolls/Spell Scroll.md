@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T10:13:32.732-04:00
-modified: 2026-10-12T15:56:07.075-04:00
-published: 2026-10-12T15:56:07.075-04:00
+created: 2026-07-30T14:13:32.732Z
+modified: 2026-10-12T19:56:07.075Z
+published: 2026-10-12T19:56:07.075Z
 Category: Scroll
 Rarity:
   - Common

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-22T11:50:13.334-04:00
-modified: 2026-10-08T01:22:40.817-04:00
-published: 2026-10-08T01:22:40.817-04:00
+created: 2026-09-22T15:50:13.334Z
+modified: 2026-10-08T05:22:40.817Z
+published: 2026-10-08T05:22:40.817Z
 Name: "[[Boil Blood]]"
 Spell Level: Level 1
 School: Transmutation

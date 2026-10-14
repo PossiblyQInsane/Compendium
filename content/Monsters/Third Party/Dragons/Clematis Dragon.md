@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Clematis Dragons
-created: 2026-08-29T17:08:02.473-04:00
-modified: 2026-09-10T10:28:04.234-04:00
-published: 2026-09-10T10:28:04.234-04:00
+created: 2026-08-29T21:08:02.473Z
+modified: 2026-09-10T14:28:04.234Z
+published: 2026-09-10T14:28:04.234Z
 Creature Type: Dragon
 Size: Small
 Alignment: Unaligned

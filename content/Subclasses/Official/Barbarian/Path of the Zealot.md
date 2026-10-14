@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T11:54:38.517-04:00
-modified: 2026-09-21T03:45:24.473-04:00
-published: 2026-09-21T03:45:24.473-04:00
+created: 2026-08-02T15:54:38.517Z
+modified: 2026-09-21T07:45:24.473Z
+published: 2026-09-21T07:45:24.473Z
 Name: "[[Path of the Zealot]]"
 Parent Class: "[[Barbarian]]"
 Source: Player's Handbook 5.5e

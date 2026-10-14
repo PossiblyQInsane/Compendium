@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T04:27:58.552-04:00
-modified: 2026-10-08T01:28:15.832-04:00
-published: 2026-10-08T01:28:15.832-04:00
+created: 2026-09-21T08:27:58.552Z
+modified: 2026-10-08T05:28:15.832Z
+published: 2026-10-08T05:28:15.832Z
 Name: "[[Water Bullet]]"
 Spell Level: Level 1
 School: Evocation

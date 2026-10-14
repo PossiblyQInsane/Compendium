@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-03T00:26:54.913-04:00
-modified: 2026-09-21T10:30:06.687-04:00
-published: 2026-09-21T10:30:06.687-04:00
+created: 2026-09-03T04:26:54.913Z
+modified: 2026-09-21T14:30:06.687Z
+published: 2026-09-21T14:30:06.687Z
 Name: "[[Arcana Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Arcana Unleashed

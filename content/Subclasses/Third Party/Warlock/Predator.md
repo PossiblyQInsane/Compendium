@@ -1,9 +1,9 @@
 ---
 publish: true
 title: The Predator
-created: 2026-09-11T01:32:54.881-04:00
-modified: 2026-10-11T00:10:08.684-04:00
-published: 2026-10-11T00:10:08.684-04:00
+created: 2026-09-11T05:32:54.881Z
+modified: 2026-10-11T04:10:08.684Z
+published: 2026-10-11T04:10:08.684Z
 Name: "[[Predator|The Predator]]"
 Parent Class: "[[Warlock]]"
 Source: Humblewood Tales

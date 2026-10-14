@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T19:31:50.208-04:00
-modified: 2026-10-05T19:35:56.255-04:00
-published: 2026-10-05T19:35:56.255-04:00
+created: 2026-10-05T23:31:50.208Z
+modified: 2026-10-05T23:35:56.255Z
+published: 2026-10-05T23:35:56.255Z
 Name: "[[Jim's Glowing Coin]]"
 Spell Level: Level 2
 School: Enchantment

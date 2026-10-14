@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-17T23:28:22.145-04:00
-modified: 2026-09-21T10:32:04.459-04:00
-published: 2026-09-21T10:32:04.459-04:00
+created: 2026-08-18T03:28:22.145Z
+modified: 2026-09-21T14:32:04.459Z
+published: 2026-09-21T14:32:04.459Z
 Name: "[[Twilight Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Tasha's Cauldron of Everything

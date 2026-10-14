@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-03T01:43:24.450-04:00
-modified: 2026-10-09T01:32:43.783-04:00
-published: 2026-10-09T01:32:43.783-04:00
+created: 2026-09-03T05:43:24.450Z
+modified: 2026-10-09T05:32:43.783Z
+published: 2026-10-09T05:32:43.783Z
 Name: "[[Aura of Evasion]]"
 Spell Level: Level 7
 School: Abjuration

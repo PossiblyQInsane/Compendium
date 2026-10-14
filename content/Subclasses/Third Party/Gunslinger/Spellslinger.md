@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-02T11:42:14.134-04:00
-modified: 2026-09-21T23:35:28.186-04:00
-published: 2026-09-21T23:35:28.186-04:00
+created: 2026-09-02T15:42:14.134Z
+modified: 2026-09-22T03:35:28.186Z
+published: 2026-09-22T03:35:28.186Z
 Name: "[[Spellslinger]]"
 Parent Class: "[[Gunslinger]]"
 Source: Valda's Spire of Secrets

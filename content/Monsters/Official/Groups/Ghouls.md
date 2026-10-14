@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T23:17:26.253-04:00
-modified: 2026-10-10T01:47:06.515-04:00
-published: 2026-10-10T01:47:06.515-04:00
+created: 2026-08-17T03:17:26.253Z
+modified: 2026-10-10T05:47:06.515Z
+published: 2026-10-10T05:47:06.515Z
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

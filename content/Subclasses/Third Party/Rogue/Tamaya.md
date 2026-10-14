@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-02T18:35:24.170-04:00
-modified: 2026-10-04T17:08:28.903-04:00
-published: 2026-10-04T17:08:28.903-04:00
+created: 2026-10-02T22:35:24.170Z
+modified: 2026-10-04T21:08:28.903Z
+published: 2026-10-04T21:08:28.903Z
 Name: "[[Tamaya]]"
 Parent Class: "[[Rogue]]"
 Source: Ryoko's Guide to the Yokai Realms

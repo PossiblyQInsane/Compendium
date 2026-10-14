@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Azalea Dragons
-created: 2026-08-29T18:12:10.727-04:00
-modified: 2026-09-10T10:11:24.556-04:00
-published: 2026-09-10T10:11:24.556-04:00
+created: 2026-08-29T22:12:10.727Z
+modified: 2026-09-10T14:11:24.556Z
+published: 2026-09-10T14:11:24.556Z
 Creature Type: Dragon
 Size: Medium
 Alignment: Any Neutral Alignment

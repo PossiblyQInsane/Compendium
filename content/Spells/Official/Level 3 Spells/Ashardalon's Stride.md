@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-15T23:00:46.422-04:00
-modified: 2026-10-08T11:31:48.375-04:00
-published: 2026-10-08T11:31:48.375-04:00
+created: 2026-08-16T03:00:46.422Z
+modified: 2026-10-08T15:31:48.375Z
+published: 2026-10-08T15:31:48.375Z
 Name: "[[Ashardalon's Stride]]"
 Spell Level: Level 3
 School: Transmutation

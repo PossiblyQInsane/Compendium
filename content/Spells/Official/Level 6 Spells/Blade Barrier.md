@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T23:55:36.552-04:00
-modified: 2026-09-30T01:04:01.789-04:00
-published: 2026-09-30T01:04:01.789-04:00
+created: 2026-08-04T03:55:36.552Z
+modified: 2026-09-30T05:04:01.789Z
+published: 2026-09-30T05:04:01.789Z
 Name: "[[Blade Barrier]]"
 Spell Level: Level 6
 School: Evocation

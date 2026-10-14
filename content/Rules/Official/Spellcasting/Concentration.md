@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Concentrate
   - Concentrates
-created: 2026-07-25T21:03:33.246-04:00
-modified: 2026-08-23T23:36:13.629-04:00
-published: 2026-08-23T23:36:13.629-04:00
+created: 2026-07-26T01:03:33.246Z
+modified: 2026-08-24T03:36:13.629Z
+published: 2026-08-24T03:36:13.629Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

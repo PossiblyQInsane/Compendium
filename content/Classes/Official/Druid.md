@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-05T10:07:32.423-04:00
-modified: 2026-10-07T11:50:52.452-04:00
-published: 2026-10-07T11:50:52.452-04:00
+created: 2026-08-05T14:07:32.423Z
+modified: 2026-10-07T15:50:52.452Z
+published: 2026-10-07T15:50:52.452Z
 Name: "[[Druid]]"
 Source: Player's Handbook 5.5e
 Official: true

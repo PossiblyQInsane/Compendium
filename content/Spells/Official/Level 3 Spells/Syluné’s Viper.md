@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-23T21:10:29.655-04:00
-modified: 2026-10-08T11:54:27.100-04:00
-published: 2026-10-08T11:54:27.100-04:00
+created: 2026-08-24T01:10:29.655Z
+modified: 2026-10-08T15:54:27.100Z
+published: 2026-10-08T15:54:27.100Z
 Name: "[[Syluné’s Viper]]"
 Spell Level: Level 3
 School: Conjuration

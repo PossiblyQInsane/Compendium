@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-10T13:56:27.991-04:00
-modified: 2026-10-09T01:47:28.554-04:00
-published: 2026-10-09T01:47:28.554-04:00
+created: 2026-08-10T17:56:27.991Z
+modified: 2026-10-09T05:47:28.554Z
+published: 2026-10-09T05:47:28.554Z
 Name: "[[Forest of Dread]]"
 Spell Level: Level 5
 School: Conjuration

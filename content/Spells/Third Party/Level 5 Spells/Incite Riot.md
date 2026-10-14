@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-13T23:06:49.503-04:00
-modified: 2026-10-09T01:24:39.439-04:00
-published: 2026-10-09T01:24:39.439-04:00
+created: 2026-09-14T03:06:49.503Z
+modified: 2026-10-09T05:24:39.439Z
+published: 2026-10-09T05:24:39.439Z
 Name: "[[Incite Riot]]"
 Spell Level: Level 5
 School: Enchantment

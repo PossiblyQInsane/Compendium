@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T17:59:32.552-04:00
-modified: 2026-08-17T15:46:52.428-04:00
-published: 2026-08-17T15:46:52.428-04:00
+created: 2026-07-25T21:59:32.552Z
+modified: 2026-08-17T19:46:52.428Z
+published: 2026-08-17T19:46:52.428Z
 Ability: Wisdom
 Example Uses: Diagnose an illness, or determine what killed the recently slain.
 Source: Player's Handbook 5.5e

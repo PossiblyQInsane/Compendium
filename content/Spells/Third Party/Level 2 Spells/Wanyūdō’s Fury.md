@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-03T16:13:15.041-04:00
-modified: 2026-10-08T01:35:30.469-04:00
-published: 2026-10-08T01:35:30.469-04:00
+created: 2026-10-03T20:13:15.041Z
+modified: 2026-10-08T05:35:30.469Z
+published: 2026-10-08T05:35:30.469Z
 Name: "[[Wanyūdō’s Fury]]"
 Spell Level: Level 2
 School: Evocation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-03T09:44:36.027-04:00
-modified: 2026-10-09T01:20:54.718-04:00
-published: 2026-10-09T01:20:54.718-04:00
+created: 2026-09-03T13:44:36.027Z
+modified: 2026-10-09T05:20:54.718Z
+published: 2026-10-09T05:20:54.718Z
 Name: "[[Summon Plant]]"
 Spell Level: Level 5
 School: Conjuration

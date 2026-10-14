@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T19:42:25.294-04:00
-modified: 2026-10-08T00:25:38.744-04:00
-published: 2026-10-08T00:25:38.744-04:00
+created: 2026-08-02T23:42:25.294Z
+modified: 2026-10-08T04:25:38.744Z
+published: 2026-10-08T04:25:38.744Z
 Name: "[[Charm Person]]"
 Spell Level: Level 1
 School: Enchantment

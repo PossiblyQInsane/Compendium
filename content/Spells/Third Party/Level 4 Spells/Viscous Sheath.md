@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-23T11:19:30.158-04:00
-modified: 2026-10-09T01:11:50.492-04:00
-published: 2026-10-09T01:11:50.492-04:00
+created: 2026-09-23T15:19:30.158Z
+modified: 2026-10-09T05:11:50.492Z
+published: 2026-10-09T05:11:50.492Z
 Name: "[[Viscous Sheath]]"
 Spell Level: Level 4
 School: Necromancy

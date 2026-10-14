@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-04T00:26:55.661-04:00
-modified: 2026-10-04T00:28:38.239-04:00
-published: 2026-10-04T00:28:38.239-04:00
+created: 2026-10-04T04:26:55.661Z
+modified: 2026-10-04T04:28:38.239Z
+published: 2026-10-04T04:28:38.239Z
 Creature Type: Plant
 Size: Tiny
 Alignment: Chaotic Neutral

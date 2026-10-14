@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T17:09:16.398-04:00
-modified: 2026-10-08T11:53:56.198-04:00
-published: 2026-10-08T11:53:56.198-04:00
+created: 2026-10-05T21:09:16.398Z
+modified: 2026-10-08T15:53:56.198Z
+published: 2026-10-08T15:53:56.198Z
 Name: "[[Summon Lesser Demons]]"
 Spell Level: Level 3
 School: Conjuration

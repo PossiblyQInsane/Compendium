@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T21:56:38.914-04:00
-modified: 2026-10-08T00:15:36.694-04:00
-published: 2026-10-08T00:15:36.694-04:00
+created: 2026-07-26T01:56:38.914Z
+modified: 2026-10-08T04:15:36.694Z
+published: 2026-10-08T04:15:36.694Z
 Name: "[[Poison Spray|Poison Spray]]"
 Spell Level: Cantrip
 School: Necromancy

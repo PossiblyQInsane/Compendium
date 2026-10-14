@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:40:55.666-04:00
-modified: 2026-10-11T20:12:53.118-04:00
-published: 2026-10-11T20:12:53.118-04:00
+created: 2026-09-11T05:40:55.666Z
+modified: 2026-10-12T00:12:53.118Z
+published: 2026-10-12T00:12:53.118Z
 Name: "[[Sweet Science]]"
 Parent Class: "[[Pugilist]]"
 Source: The Pugilist Class

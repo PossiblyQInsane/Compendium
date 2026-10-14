@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:26:40.727-04:00
-modified: 2026-10-05T01:14:43.376-04:00
-published: 2026-10-05T01:14:43.376-04:00
+created: 2026-09-11T05:26:40.727Z
+modified: 2026-10-05T05:14:43.376Z
+published: 2026-10-05T05:14:43.376Z
 Name: "[[Runechild]]"
 Parent Class: "[[Sorcerer]]"
 Source: Tal'Dorei Campaign Setting Reborn

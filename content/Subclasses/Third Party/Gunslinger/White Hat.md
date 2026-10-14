@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-02T12:01:22.551-04:00
-modified: 2026-09-21T23:35:42.734-04:00
-published: 2026-09-21T23:35:42.734-04:00
+created: 2026-09-02T16:01:22.551Z
+modified: 2026-09-22T03:35:42.734Z
+published: 2026-09-22T03:35:42.734Z
 Name: "[[White Hat]]"
 Parent Class: "[[Gunslinger]]"
 Source: Valda's Spire of Secrets

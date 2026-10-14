@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-31T10:13:29.535-04:00
-modified: 2026-10-09T00:52:52.921-04:00
-published: 2026-10-09T00:52:52.921-04:00
+created: 2026-07-31T14:13:29.535Z
+modified: 2026-10-09T04:52:52.921Z
+published: 2026-10-09T04:52:52.921Z
 Name: "[[Blight]]"
 Spell Level: Level 4
 School: Necromancy

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-06T10:58:31.582-04:00
-modified: 2026-10-06T11:11:47.914-04:00
-published: 2026-10-06T11:11:47.914-04:00
+created: 2026-10-06T14:58:31.582Z
+modified: 2026-10-06T15:11:47.914Z
+published: 2026-10-06T15:11:47.914Z
 Name: "[[Fortune's Favor]]"
 Spell Level: Level 2
 School: Divination

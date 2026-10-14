@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T02:02:43.752-04:00
-modified: 2026-10-13T02:05:34.765-04:00
-published: 2026-10-13T02:05:34.765-04:00
+created: 2026-10-13T06:02:43.752Z
+modified: 2026-10-13T06:05:34.765Z
+published: 2026-10-13T06:05:34.765Z
 Name: "[[Weapon Aegis]]"
 Spell Level: Level 1
 School: Abjuration

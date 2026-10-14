@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:01:48.086-04:00
-modified: 2026-09-21T14:12:49.066-04:00
-published: 2026-09-21T14:12:49.066-04:00
+created: 2026-09-11T05:01:48.086Z
+modified: 2026-09-21T18:12:49.066Z
+published: 2026-09-21T18:12:49.066Z
 Name: "[[Warrior of Shadow]]"
 Parent Class: "[[Monk]]"
 Source: Player's Handbook 5.5e

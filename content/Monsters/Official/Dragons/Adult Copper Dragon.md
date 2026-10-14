@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-07T13:24:04.576-04:00
-modified: 2026-10-10T01:24:50.144-04:00
-published: 2026-10-10T01:24:50.144-04:00
+created: 2026-09-07T17:24:04.576Z
+modified: 2026-10-10T05:24:50.144Z
+published: 2026-10-10T05:24:50.144Z
 Creature Type: Dragon
 Subtype: Metallic
 Size: Huge

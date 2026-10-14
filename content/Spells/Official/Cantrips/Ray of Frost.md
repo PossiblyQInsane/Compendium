@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T22:00:47.793-04:00
-modified: 2026-10-08T00:16:44.801-04:00
-published: 2026-10-08T00:16:44.801-04:00
+created: 2026-07-26T02:00:47.793Z
+modified: 2026-10-08T04:16:44.801Z
+published: 2026-10-08T04:16:44.801Z
 Name: "[[Ray of Frost|Ray of Frost]]"
 Spell Level: Cantrip
 School: Evocation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T01:33:32.539-04:00
-modified: 2026-10-09T01:29:33.764-04:00
-published: 2026-10-09T01:29:33.764-04:00
+created: 2026-08-03T05:33:32.539Z
+modified: 2026-10-09T05:29:33.764Z
+published: 2026-10-09T05:29:33.764Z
 Name: "[[Mass Suggestion]]"
 Spell Level: Level 6
 School: Enchantment

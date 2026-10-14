@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T00:35:55.459-04:00
-modified: 2026-10-09T01:38:06.566-04:00
-published: 2026-10-09T01:38:06.566-04:00
+created: 2026-08-04T04:35:55.459Z
+modified: 2026-10-09T05:38:06.566Z
+published: 2026-10-09T05:38:06.566Z
 Name: "[[Antimagic Field]]"
 Spell Level: Level 8
 School: Abjuration

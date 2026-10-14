@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T10:37:26.715-04:00
-modified: 2026-10-09T00:52:31.233-04:00
-published: 2026-10-09T00:52:31.233-04:00
+created: 2026-07-30T14:37:26.715Z
+modified: 2026-10-09T04:52:31.233Z
+published: 2026-10-09T04:52:31.233Z
 Name: "[[Banishment]]"
 Spell Level: Level 4
 School: Abjuration

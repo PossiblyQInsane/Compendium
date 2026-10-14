@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-13T00:00:49.000-04:00
-modified: 2026-09-21T12:37:44.996-04:00
-published: 2026-09-21T12:37:44.996-04:00
+created: 2026-08-13T04:00:49.000Z
+modified: 2026-09-21T16:37:44.996Z
+published: 2026-09-21T16:37:44.996Z
 Name: "[[Blood Hound]]"
 Parent Class: "[[Fighter]]"
 Source: Steinhardt's Guide to the Eldritch Hunt

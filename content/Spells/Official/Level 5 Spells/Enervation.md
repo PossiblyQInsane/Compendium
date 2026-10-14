@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-03T02:16:35.905-04:00
-modified: 2026-10-09T01:15:46.923-04:00
-published: 2026-10-09T01:15:46.923-04:00
+created: 2026-09-03T06:16:35.905Z
+modified: 2026-10-09T05:15:46.923Z
+published: 2026-10-09T05:15:46.923Z
 Name: "[[Enervation]]"
 Spell Level: Level 5
 School: Necromancy

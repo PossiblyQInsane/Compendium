@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-12T01:16:56.877-04:00
-modified: 2026-09-21T12:36:03.028-04:00
-published: 2026-09-21T12:36:03.028-04:00
+created: 2026-08-12T05:16:56.877Z
+modified: 2026-09-21T16:36:03.028Z
+published: 2026-09-21T16:36:03.028Z
 Name: "[[Banneret]]"
 Parent Class: "[[Fighter]]"
 Source: "Forgotten Realms: Heroes of Faerûn"

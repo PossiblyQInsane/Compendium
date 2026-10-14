@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-04T00:29:16.782-04:00
-modified: 2026-10-04T00:31:26.891-04:00
-published: 2026-10-04T00:31:26.891-04:00
+created: 2026-10-04T04:29:16.782Z
+modified: 2026-10-04T04:31:26.891Z
+published: 2026-10-04T04:31:26.891Z
 Creature Type: Monstrosity
 Size: Tiny
 Alignment: Chaotic Neutral

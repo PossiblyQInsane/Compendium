@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T10:51:13.912-04:00
-modified: 2026-10-09T01:21:30.229-04:00
-published: 2026-10-09T01:21:30.229-04:00
+created: 2026-07-30T14:51:13.912Z
+modified: 2026-10-09T05:21:30.229Z
+published: 2026-10-09T05:21:30.229Z
 Name: "[[Teleportation Circle]]"
 Spell Level: Level 5
 School: Conjuration

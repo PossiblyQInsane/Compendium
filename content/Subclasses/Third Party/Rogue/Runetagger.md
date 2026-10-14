@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:19:40.442-04:00
-modified: 2026-09-25T11:29:40.707-04:00
-published: 2026-09-25T11:29:40.707-04:00
+created: 2026-09-11T05:19:40.442Z
+modified: 2026-09-25T15:29:40.707Z
+published: 2026-09-25T15:29:40.707Z
 Name: "[[Runetagger]]"
 Parent Class: "[[Rogue]]"
 Source: "The Griffon's Saddlebag: Book One"

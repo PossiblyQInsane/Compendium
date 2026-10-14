@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-15T23:16:33.962-04:00
-modified: 2026-10-08T11:44:51.784-04:00
-published: 2026-10-08T11:44:51.784-04:00
+created: 2026-08-16T03:16:33.962Z
+modified: 2026-10-08T15:44:51.784Z
+published: 2026-10-08T15:44:51.784Z
 Name: "[[Intellect Fortress]]"
 Spell Level: Level 3
 School: Abjuration

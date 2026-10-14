@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:40:55.666-04:00
-modified: 2026-10-11T19:30:17.249-04:00
-published: 2026-10-11T19:30:17.249-04:00
+created: 2026-09-11T05:40:55.666Z
+modified: 2026-10-11T23:30:17.249Z
+published: 2026-10-11T23:30:17.249Z
 Name: "[[Hand of Dread]]"
 Parent Class: "[[Pugilist]]"
 Source: The Pugilist Class

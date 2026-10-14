@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T00:05:14.438-04:00
-modified: 2026-08-31T19:45:46.008-04:00
-published: 2026-08-31T19:45:46.008-04:00
+created: 2026-08-04T04:05:14.438Z
+modified: 2026-08-31T23:45:46.008Z
+published: 2026-08-31T23:45:46.008Z
 Name: "[[Forbiddance]]"
 Spell Level: Level 6
 School: Abjuration

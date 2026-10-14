@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T03:35:32.799-04:00
-modified: 2026-09-21T03:37:42.469-04:00
-published: 2026-09-21T03:37:42.469-04:00
+created: 2026-09-21T07:35:32.799Z
+modified: 2026-09-21T07:37:42.469Z
+published: 2026-09-21T07:37:42.469Z
 Source: "Obojima: Tales from the Tall Grass"
 Official: false
 Publisher: 1985 Games

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T12:55:58.405-04:00
-modified: 2026-10-08T01:10:53.581-04:00
-published: 2026-10-08T01:10:53.581-04:00
+created: 2026-07-26T16:55:58.405Z
+modified: 2026-10-08T05:10:53.581Z
+published: 2026-10-08T05:10:53.581Z
 Name: "[[Rope Trick]]"
 Spell Level: Level 2
 School: Transmutation

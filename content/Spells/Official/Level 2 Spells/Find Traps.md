@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T22:46:47.292-04:00
-modified: 2026-10-08T00:59:46.527-04:00
-published: 2026-10-08T00:59:46.527-04:00
+created: 2026-08-04T02:46:47.292Z
+modified: 2026-10-08T04:59:46.527Z
+published: 2026-10-08T04:59:46.527Z
 Name: "[[Find Traps]]"
 Spell Level: Level 2
 School: Divination

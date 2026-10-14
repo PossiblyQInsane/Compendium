@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:25:57.734-04:00
-modified: 2026-10-02T20:02:13.484-04:00
-published: 2026-10-02T20:02:13.484-04:00
+created: 2026-09-11T05:25:57.734Z
+modified: 2026-10-03T00:02:13.484Z
+published: 2026-10-03T00:02:13.484Z
 Name: "[[Lunar Sorcery]]"
 Parent Class: "[[Sorcerer]]"
 Source: "Dragonlance: Shadow of the Dragon Queen"

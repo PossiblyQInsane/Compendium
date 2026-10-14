@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:27:27.699-04:00
-modified: 2026-10-05T23:34:28.717-04:00
-published: 2026-10-05T23:34:28.717-04:00
+created: 2026-09-11T05:27:27.699Z
+modified: 2026-10-06T03:34:28.717Z
+published: 2026-10-06T03:34:28.717Z
 Name: "[[Great Old One Patron]]"
 Parent Class: "[[Warlock]]"
 Source: Player's Handbook 5.5e

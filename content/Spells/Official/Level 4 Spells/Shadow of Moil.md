@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T17:37:16.430-04:00
-modified: 2026-10-05T17:41:40.363-04:00
-published: 2026-10-05T17:41:40.363-04:00
+created: 2026-10-05T21:37:16.430Z
+modified: 2026-10-05T21:41:40.363Z
+published: 2026-10-05T21:41:40.363Z
 Name: "[[Shadow of Moil]]"
 Spell Level: Level 4
 School: Necromancy

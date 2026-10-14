@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T19:24:02.103-04:00
-modified: 2026-08-17T15:59:25.100-04:00
-published: 2026-08-17T15:59:25.100-04:00
+created: 2026-08-01T23:24:02.103Z
+modified: 2026-08-17T19:59:25.100Z
+published: 2026-08-17T19:59:25.100Z
 Category: Medium Armor
 Armor Class (AC): 13 + Dex modifier (max 2)
 Strength: —

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T22:32:41.271-04:00
-modified: 2026-10-08T00:28:50.903-04:00
-published: 2026-10-08T00:28:50.903-04:00
+created: 2026-08-04T02:32:41.271Z
+modified: 2026-10-08T04:28:50.903Z
+published: 2026-10-08T04:28:50.903Z
 Name: "[[Detect Evil and Good]]"
 Spell Level: Level 1
 School: Divination

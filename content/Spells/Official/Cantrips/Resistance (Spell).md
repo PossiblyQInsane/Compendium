@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Resistance
 title: Resistance
-created: 2026-07-25T22:05:27.156-04:00
-modified: 2026-10-08T00:17:15.085-04:00
-published: 2026-10-08T00:17:15.085-04:00
+created: 2026-07-26T02:05:27.156Z
+modified: 2026-10-08T04:17:15.085Z
+published: 2026-10-08T04:17:15.085Z
 Name: "[[Resistance (Spell)|Resistance]]"
 Spell Level: Cantrip
 School: Abjuration

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-27T02:49:41.974-04:00
-modified: 2026-10-09T01:29:57.266-04:00
-published: 2026-10-09T01:29:57.266-04:00
+created: 2026-09-27T06:49:41.974Z
+modified: 2026-10-09T05:29:57.266Z
+published: 2026-10-09T05:29:57.266Z
 Name: "[[Otiluke's Freezing Sphere]]"
 Spell Level: Level 6
 School: Evocation

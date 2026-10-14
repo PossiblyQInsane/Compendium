@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-15T22:26:23.409-04:00
-modified: 2026-10-08T00:47:11.975-04:00
-published: 2026-10-08T00:47:11.975-04:00
+created: 2026-08-16T02:26:23.409Z
+modified: 2026-10-08T04:47:11.975Z
+published: 2026-10-08T04:47:11.975Z
 Name: "[[Tasha's Caustic Brew]]"
 Spell Level: Level 1
 School: Evocation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-04T23:08:15.938-04:00
-modified: 2026-10-08T01:18:42.972-04:00
-published: 2026-10-08T01:18:42.972-04:00
+created: 2026-10-05T03:08:15.938Z
+modified: 2026-10-08T05:18:42.972Z
+published: 2026-10-08T05:18:42.972Z
 Name: "[[Burning Blade]]"
 Spell Level: Cantrip
 School: Evocation

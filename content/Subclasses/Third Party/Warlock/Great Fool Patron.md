@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:28:47.675-04:00
-modified: 2026-10-10T15:36:14.209-04:00
-published: 2026-10-10T15:36:14.209-04:00
+created: 2026-09-11T05:28:47.675Z
+modified: 2026-10-10T19:36:14.209Z
+published: 2026-10-10T19:36:14.209Z
 Name: "[[Great Fool Patron]]"
 Parent Class: "[[Warlock]]"
 Source: The Crooked Moon

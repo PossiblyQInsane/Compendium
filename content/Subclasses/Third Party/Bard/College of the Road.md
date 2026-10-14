@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T21:23:29.626-04:00
-modified: 2026-10-10T06:24:03.808-04:00
-published: 2026-10-10T06:24:03.808-04:00
+created: 2026-08-17T01:23:29.626Z
+modified: 2026-10-10T10:24:03.808Z
+published: 2026-10-10T10:24:03.808Z
 Name: "[[College of the Road]]"
 Parent Class: "[[Bard]]"
 Source: Humblewood Campaign Setting

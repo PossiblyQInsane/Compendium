@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T22:07:00.461-04:00
-modified: 2026-08-31T11:53:34.347-04:00
-published: 2026-08-31T11:53:34.347-04:00
+created: 2026-08-04T02:07:00.461Z
+modified: 2026-08-31T15:53:34.347Z
+published: 2026-08-31T15:53:34.347Z
 Name: "[[Sacred Flame]]"
 Spell Level: Cantrip
 School: Evocation

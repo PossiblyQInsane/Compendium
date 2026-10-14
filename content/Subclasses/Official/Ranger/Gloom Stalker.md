@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:13:35.457-04:00
-modified: 2026-09-21T16:52:22.503-04:00
-published: 2026-09-21T16:52:22.503-04:00
+created: 2026-09-11T05:13:35.457Z
+modified: 2026-09-21T20:52:22.503Z
+published: 2026-09-21T20:52:22.503Z
 Name: "[[Gloom Stalker]]"
 Parent Class: "[[Ranger]]"
 Source: Player's Handbook 5.5e

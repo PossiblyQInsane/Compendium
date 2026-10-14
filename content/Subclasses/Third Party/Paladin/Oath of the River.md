@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T13:22:44.154-04:00
-modified: 2026-10-04T00:49:52.711-04:00
-published: 2026-10-04T00:49:52.711-04:00
+created: 2026-09-21T17:22:44.154Z
+modified: 2026-10-04T04:49:52.711Z
+published: 2026-10-04T04:49:52.711Z
 Name: "[[Oath of the River]]"
 Parent Class: "[[Paladin]]"
 Source: "Obojima: Tales from the Tall Grass"

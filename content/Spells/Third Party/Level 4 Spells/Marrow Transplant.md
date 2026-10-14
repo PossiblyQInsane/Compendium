@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T23:28:22.079-04:00
-modified: 2026-10-09T01:10:16.026-04:00
-published: 2026-10-09T01:10:16.026-04:00
+created: 2026-09-22T03:28:22.079Z
+modified: 2026-10-09T05:10:16.026Z
+published: 2026-10-09T05:10:16.026Z
 Name: "[[Marrow Transplant]]"
 Spell Level: Level 4
 School: Necromancy

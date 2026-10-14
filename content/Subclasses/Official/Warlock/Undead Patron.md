@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:28:21.846-04:00
-modified: 2026-10-06T00:21:40.009-04:00
-published: 2026-10-06T00:21:40.009-04:00
+created: 2026-09-11T05:28:21.846Z
+modified: 2026-10-06T04:21:40.009Z
+published: 2026-10-06T04:21:40.009Z
 Name: "[[Undead Patron]]"
 Parent Class: "[[Warlock]]"
 Source: "Ravenloft: The Horrors Within"

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T00:24:03.332-04:00
-modified: 2026-08-31T19:48:46.486-04:00
-published: 2026-08-31T19:48:46.486-04:00
+created: 2026-08-04T04:24:03.332Z
+modified: 2026-08-31T23:48:46.486Z
+published: 2026-08-31T23:48:46.486Z
 Name: "[[Conjure Celestial]]"
 Spell Level: Level 7
 School: Conjuration

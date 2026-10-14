@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T20:13:52.500-04:00
-modified: 2026-10-05T20:17:35.307-04:00
-published: 2026-10-05T20:17:35.307-04:00
+created: 2026-10-06T00:13:52.500Z
+modified: 2026-10-06T00:17:35.307Z
+published: 2026-10-06T00:17:35.307Z
 Name: "[[Tenser's Transformation]]"
 Spell Level: Level 6
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T01:01:38.539-04:00
-modified: 2026-10-09T01:18:23.873-04:00
-published: 2026-10-09T01:18:23.873-04:00
+created: 2026-08-03T05:01:38.539Z
+modified: 2026-10-09T05:18:23.873Z
+published: 2026-10-09T05:18:23.873Z
 Name: "[[Mislead]]"
 Spell Level: Level 5
 School: Illusion

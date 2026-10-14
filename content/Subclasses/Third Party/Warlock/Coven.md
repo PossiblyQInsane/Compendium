@@ -1,9 +1,9 @@
 ---
 publish: true
 title: The Coven
-created: 2026-09-11T01:28:47.675-04:00
-modified: 2026-10-10T05:35:36.559-04:00
-published: 2026-10-10T05:35:36.559-04:00
+created: 2026-09-11T05:28:47.675Z
+modified: 2026-10-10T09:35:36.559Z
+published: 2026-10-10T09:35:36.559Z
 Name: "[[Coven|The Coven]]"
 Parent Class: "[[Warlock]]"
 Source: "Grim Hollow: Player's Guide"

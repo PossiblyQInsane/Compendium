@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-27T00:44:34.348-04:00
-modified: 2026-10-08T01:06:56.946-04:00
-published: 2026-10-08T01:06:56.946-04:00
+created: 2026-09-27T04:44:34.348Z
+modified: 2026-10-08T05:06:56.946Z
+published: 2026-10-08T05:06:56.946Z
 Name: "[[Maximilian's Earthen Grasp]]"
 Spell Level: Level 2
 School: Transmutation

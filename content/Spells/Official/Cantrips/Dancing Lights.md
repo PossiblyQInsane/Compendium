@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T21:16:36.373-04:00
-modified: 2026-10-08T00:07:23.677-04:00
-published: 2026-10-08T00:07:23.677-04:00
+created: 2026-07-26T01:16:36.373Z
+modified: 2026-10-08T04:07:23.677Z
+published: 2026-10-08T04:07:23.677Z
 Name: "[[Dancing Lights|Dancing Lights]]"
 Spell Level: Cantrip
 School: Illusion

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T14:53:25.665-04:00
-modified: 2026-09-21T03:47:49.820-04:00
-published: 2026-09-21T03:47:49.820-04:00
+created: 2026-08-02T18:53:25.665Z
+modified: 2026-09-21T07:47:49.820Z
+published: 2026-09-21T07:47:49.820Z
 Name: "[[Path of the Spell Scorned]]"
 Parent Class: "[[Barbarian]]"
 Source: Cthulhu by Torchlight

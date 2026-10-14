@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:22:42.326-04:00
-modified: 2026-09-30T10:32:13.377-04:00
-published: 2026-09-30T10:32:13.377-04:00
+created: 2026-09-11T05:22:42.326Z
+modified: 2026-09-30T14:32:13.377Z
+published: 2026-09-30T14:32:13.377Z
 Name: "[[Wild Magic Sorcery]]"
 Parent Class: "[[Sorcerer]]"
 Source: Player's Handbook 5.5e

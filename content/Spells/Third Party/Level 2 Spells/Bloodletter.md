@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-13T22:45:50.279-04:00
-modified: 2026-10-08T01:30:07.086-04:00
-published: 2026-10-08T01:30:07.086-04:00
+created: 2026-09-14T02:45:50.279Z
+modified: 2026-10-08T05:30:07.086Z
+published: 2026-10-08T05:30:07.086Z
 Name: "[[Bloodletter]]"
 Spell Level: Level 2
 School: Necromancy

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-26T15:35:48.947-04:00
-modified: 2026-10-08T01:24:36.519-04:00
-published: 2026-10-08T01:24:36.519-04:00
+created: 2026-09-26T19:35:48.947Z
+modified: 2026-10-08T05:24:36.519Z
+published: 2026-10-08T05:24:36.519Z
 Name: "[[Duplicate]]"
 Spell Level: Level 1
 School: Conjuration

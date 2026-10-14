@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-27T02:17:20.665-04:00
-modified: 2026-10-09T01:15:54.331-04:00
-published: 2026-10-09T01:15:54.331-04:00
+created: 2026-09-27T06:17:20.665Z
+modified: 2026-10-09T05:15:54.331Z
+published: 2026-10-09T05:15:54.331Z
 Name: "[[Far Step]]"
 Spell Level: Level 5
 School: Conjuration

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T22:59:59.209-04:00
-modified: 2026-10-08T11:46:22.649-04:00
-published: 2026-10-08T11:46:22.649-04:00
+created: 2026-08-04T02:59:59.209Z
+modified: 2026-10-08T15:46:22.649Z
+published: 2026-10-08T15:46:22.649Z
 Name: "[[Magic Circle]]"
 Spell Level: Level 3
 School: Abjuration

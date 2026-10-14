@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T23:18:40.142-04:00
-modified: 2026-08-31T15:21:46.982-04:00
-published: 2026-08-31T15:21:46.982-04:00
+created: 2026-08-04T03:18:40.142Z
+modified: 2026-08-31T19:21:46.982Z
+published: 2026-08-31T19:21:46.982Z
 Name: "[[Commune]]"
 Spell Level: Level 5
 School: Divination

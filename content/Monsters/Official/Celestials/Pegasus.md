@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-13T11:13:23.433-04:00
-modified: 2026-10-10T01:19:31.162-04:00
-published: 2026-10-10T01:19:31.162-04:00
+created: 2026-09-13T15:13:23.433Z
+modified: 2026-10-10T05:19:31.162Z
+published: 2026-10-10T05:19:31.162Z
 Creature Type: Celestial
 Size: Large
 Alignment: Chaotic Good

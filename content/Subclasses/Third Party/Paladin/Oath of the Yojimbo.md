@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-02T18:33:42.555-04:00
-modified: 2026-10-04T15:45:55.614-04:00
-published: 2026-10-04T15:45:55.614-04:00
+created: 2026-10-02T22:33:42.555Z
+modified: 2026-10-04T19:45:55.614Z
+published: 2026-10-04T19:45:55.614Z
 Name: "[[Oath of the Yojimbo]]"
 Parent Class: "[[Paladin]]"
 Source: Ryoko's Guide to the Yokai Realms

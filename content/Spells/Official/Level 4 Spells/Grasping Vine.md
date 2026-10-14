@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-07T11:41:47.293-04:00
-modified: 2026-10-09T01:00:28.085-04:00
-published: 2026-10-09T01:00:28.085-04:00
+created: 2026-08-07T15:41:47.293Z
+modified: 2026-10-09T05:00:28.085Z
+published: 2026-10-09T05:00:28.085Z
 Name: "[[Grasping Vine]]"
 Spell Level: Level 4
 School: Conjuration

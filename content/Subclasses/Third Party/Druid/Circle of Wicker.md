@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-10T13:02:10.964-04:00
-modified: 2026-09-21T12:28:32.190-04:00
-published: 2026-09-21T12:28:32.190-04:00
+created: 2026-08-10T17:02:10.964Z
+modified: 2026-09-21T16:28:32.190Z
+published: 2026-09-21T16:28:32.190Z
 Name: "[[Circle of Wicker]]"
 Parent Class: "[[Druid]]"
 Source: The Crooked Moon

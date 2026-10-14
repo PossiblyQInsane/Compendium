@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T00:34:18.666-04:00
-modified: 2026-10-08T01:27:08.050-04:00
-published: 2026-10-08T01:27:08.050-04:00
+created: 2026-10-05T04:34:18.666Z
+modified: 2026-10-08T05:27:08.050Z
+published: 2026-10-08T05:27:08.050Z
 Name: "[[Swallow Magic]]"
 Spell Level: Level 1
 School: Transmutation

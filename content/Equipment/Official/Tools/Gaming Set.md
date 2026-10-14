@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T13:06:37.114-04:00
-modified: 2026-08-17T16:05:27.409-04:00
-published: 2026-08-17T16:05:27.409-04:00
+created: 2026-08-03T17:06:37.114Z
+modified: 2026-08-17T20:05:27.409Z
+published: 2026-08-17T20:05:27.409Z
 Category: Other Tools
 Ability: Wisdom
 Weight: —

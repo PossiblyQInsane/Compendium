@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T17:33:58.314-04:00
-modified: 2026-10-08T11:39:38.654-04:00
-published: 2026-10-08T11:39:38.654-04:00
+created: 2026-08-16T21:33:58.314Z
+modified: 2026-10-08T15:39:38.654Z
+published: 2026-10-08T15:39:38.654Z
 Name: "[[Fast Friends]]"
 Spell Level: Level 3
 School: Enchantment

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-21T04:32:45.894-04:00
-modified: 2026-10-08T01:28:32.471-04:00
-published: 2026-10-08T01:28:32.471-04:00
+created: 2026-09-21T08:32:45.894Z
+modified: 2026-10-08T05:28:32.471Z
+published: 2026-10-08T05:28:32.471Z
 Name: "[[Whelm Weapon]]"
 Spell Level: Level 1
 School: Transmutation

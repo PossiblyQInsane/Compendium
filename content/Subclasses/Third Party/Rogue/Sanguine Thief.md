@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:19:40.442-04:00
-modified: 2026-09-22T11:44:24.622-04:00
-published: 2026-09-22T11:44:24.622-04:00
+created: 2026-09-11T05:19:40.442Z
+modified: 2026-09-22T15:44:24.622Z
+published: 2026-09-22T15:44:24.622Z
 Name: "[[Sanguine Thief]]"
 Parent Class: "[[Rogue]]"
 Source: "Grim Hollow: Player's Guide"

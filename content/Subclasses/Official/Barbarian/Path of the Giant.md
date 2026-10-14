@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-16T13:49:49.571-04:00
-modified: 2026-09-21T03:44:46.754-04:00
-published: 2026-09-21T03:44:46.754-04:00
+created: 2026-08-16T17:49:49.571Z
+modified: 2026-09-21T07:44:46.754Z
+published: 2026-09-21T07:44:46.754Z
 Name: "[[Path of the Giant]]"
 Parent Class: "[[Barbarian]]"
 Source: "Bigby Presents: Glory of the Giants"

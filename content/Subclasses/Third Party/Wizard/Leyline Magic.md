@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:37:48.378-04:00
-modified: 2026-10-11T01:06:01.164-04:00
-published: 2026-10-11T01:06:01.164-04:00
+created: 2026-09-11T05:37:48.378Z
+modified: 2026-10-11T05:06:01.164Z
+published: 2026-10-11T05:06:01.164Z
 Name: "[[Leyline Magic]]"
 Parent Class: "[[Wizard]]"
 Source: Humblewood Tales

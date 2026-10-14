@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-17T21:09:04.947-04:00
-modified: 2026-10-08T11:52:29.332-04:00
-published: 2026-10-08T11:52:29.332-04:00
+created: 2026-08-18T01:09:04.947Z
+modified: 2026-10-08T15:52:29.332Z
+published: 2026-10-08T15:52:29.332Z
 Name: "[[Spirit Shroud]]"
 Spell Level: Level 3
 School: Necromancy

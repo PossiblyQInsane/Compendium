@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:23:54.649-04:00
-modified: 2026-10-04T23:18:33.429-04:00
-published: 2026-10-04T23:18:33.429-04:00
+created: 2026-09-11T05:23:54.649Z
+modified: 2026-10-05T03:18:33.429Z
+published: 2026-10-05T03:18:33.429Z
 Name: "[[Heroic Sorcery]]"
 Parent Class: "[[Sorcerer]]"
 Source: Valda's Spire of Secrets

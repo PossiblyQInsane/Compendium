@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-06T10:53:05.699-04:00
-modified: 2026-10-09T01:49:53.618-04:00
-published: 2026-10-09T01:49:53.618-04:00
+created: 2026-10-06T14:53:05.699Z
+modified: 2026-10-09T05:49:53.618Z
+published: 2026-10-09T05:49:53.618Z
 Name: "[[Dark Star]]"
 Spell Level: Level 8
 School: Evocation

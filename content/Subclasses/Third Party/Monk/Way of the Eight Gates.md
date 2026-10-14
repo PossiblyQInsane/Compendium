@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-02T18:33:19.803-04:00
-modified: 2026-10-04T14:49:10.509-04:00
-published: 2026-10-04T14:49:10.509-04:00
+created: 2026-10-02T22:33:19.803Z
+modified: 2026-10-04T18:49:10.509Z
+published: 2026-10-04T18:49:10.509Z
 Name: "[[Way of the Eight Gates]]"
 Parent Class: "[[Monk]]"
 Source: Ryoko's Guide to the Yokai Realms

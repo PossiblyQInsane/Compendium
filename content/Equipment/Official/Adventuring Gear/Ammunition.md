@@ -11,9 +11,9 @@ aliases:
   - Needle
   - Firearm Bullets
   - Sling Bullets
-created: 2026-08-06T01:38:59.412-04:00
-modified: 2026-09-14T22:23:09.890-04:00
-published: 2026-09-14T22:23:09.890-04:00
+created: 2026-08-06T05:38:59.412Z
+modified: 2026-09-15T02:23:09.890Z
+published: 2026-09-15T02:23:09.890Z
 Weight: Varies
 Cost: Varies
 Source: Player's Handbook 5.5e

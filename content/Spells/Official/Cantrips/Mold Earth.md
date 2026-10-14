@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-20T11:23:41.603-04:00
-modified: 2026-10-08T00:15:14.532-04:00
-published: 2026-10-08T00:15:14.532-04:00
+created: 2026-08-20T15:23:41.603Z
+modified: 2026-10-08T04:15:14.532Z
+published: 2026-10-08T04:15:14.532Z
 Name: "[[Mold Earth]]"
 Spell Level: Cantrip
 School: Transmutation

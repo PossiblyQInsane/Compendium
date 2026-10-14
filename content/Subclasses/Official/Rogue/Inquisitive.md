@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:21:23.402-04:00
-modified: 2026-09-22T00:38:41.282-04:00
-published: 2026-09-22T00:38:41.282-04:00
+created: 2026-09-11T05:21:23.402Z
+modified: 2026-09-22T04:38:41.282Z
+published: 2026-09-22T04:38:41.282Z
 Name: "[[Inquisitive]]"
 Parent Class: "[[Rogue]]"
 Source: Xanathar's Guide to Everything

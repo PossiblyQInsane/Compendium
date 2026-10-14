@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T02:42:22.633-04:00
-modified: 2026-10-09T01:44:11.106-04:00
-published: 2026-10-09T01:44:11.106-04:00
+created: 2026-08-03T06:42:22.633Z
+modified: 2026-10-09T05:44:11.106Z
+published: 2026-10-09T05:44:11.106Z
 Name: "[[Prismatic Wall]]"
 Spell Level: Level 9
 School: Abjuration

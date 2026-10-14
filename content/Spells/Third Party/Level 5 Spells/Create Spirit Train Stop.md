@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-10T20:47:39.964-04:00
-modified: 2026-10-10T20:52:55.668-04:00
-published: 2026-10-10T20:52:55.668-04:00
+created: 2026-10-11T00:47:39.964Z
+modified: 2026-10-11T00:52:55.668Z
+published: 2026-10-11T00:52:55.668Z
 Name: "[[Create Spirit Train Stop]]"
 Spell Level: Level 5
 School: Conjuration

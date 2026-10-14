@@ -1,9 +1,9 @@
 ---
 publish: true
 title: The Undying
-created: 2026-09-11T01:32:05.100-04:00
-modified: 2026-10-06T01:50:24.722-04:00
-published: 2026-10-06T01:50:24.722-04:00
+created: 2026-09-11T05:32:05.100Z
+modified: 2026-10-06T05:50:24.722Z
+published: 2026-10-06T05:50:24.722Z
 Name: "[[Undying|The Undying]]"
 Parent Class: "[[Warlock]]"
 Source: Sword Coast Adventurer's Guide

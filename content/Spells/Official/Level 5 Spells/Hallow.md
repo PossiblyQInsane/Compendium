@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T23:30:11.318-04:00
-modified: 2026-08-31T15:23:46.026-04:00
-published: 2026-08-31T15:23:46.026-04:00
+created: 2026-08-04T03:30:11.318Z
+modified: 2026-08-31T19:23:46.026Z
+published: 2026-08-31T19:23:46.026Z
 Name: "[[Hallow]]"
 Spell Level: Level 5
 School: Abjuration

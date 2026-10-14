@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T16:03:17.902-04:00
-modified: 2026-10-12T15:56:20.836-04:00
-published: 2026-10-12T15:56:20.836-04:00
+created: 2026-07-25T20:03:17.902Z
+modified: 2026-10-12T19:56:20.836Z
+published: 2026-10-12T19:56:20.836Z
 Category: Wand
 Rarity:
   - Uncommon

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-03T16:46:37.740-04:00
-modified: 2026-10-08T12:03:27.370-04:00
-published: 2026-10-08T12:03:27.370-04:00
+created: 2026-10-03T20:46:37.740Z
+modified: 2026-10-08T16:03:27.370Z
+published: 2026-10-08T16:03:27.370Z
 Name: "[[Water Wyrm]]"
 Spell Level: Level 3
 School: Conjuration

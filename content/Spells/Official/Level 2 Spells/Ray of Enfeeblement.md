@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T10:29:51.042-04:00
-modified: 2026-10-08T01:10:28.901-04:00
-published: 2026-10-08T01:10:28.901-04:00
+created: 2026-08-04T14:29:51.042Z
+modified: 2026-10-08T05:10:28.901Z
+published: 2026-10-08T05:10:28.901Z
 Name: "[[Ray of Enfeeblement]]"
 Spell Level: Level 2
 School: Necromancy

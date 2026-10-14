@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:13:35.457-04:00
-modified: 2026-09-21T16:53:08.808-04:00
-published: 2026-09-21T16:53:08.808-04:00
+created: 2026-09-11T05:13:35.457Z
+modified: 2026-09-21T20:53:08.808Z
+published: 2026-09-21T20:53:08.808Z
 Name: "[[Hollow Warden]]"
 Parent Class: "[[Ranger]]"
 Source: "Ravenloft: The Horrors Within"

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T10:28:01.164-04:00
-modified: 2026-10-08T01:07:20.903-04:00
-published: 2026-10-08T01:07:20.903-04:00
+created: 2026-07-30T14:28:01.164Z
+modified: 2026-10-08T05:07:20.903Z
+published: 2026-10-08T05:07:20.903Z
 Name: "[[Mind Spike]]"
 Spell Level: Level 2
 School: Divination

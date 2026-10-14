@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-12T00:28:41.425-04:00
-modified: 2026-09-21T03:46:15.473-04:00
-published: 2026-09-21T03:46:15.473-04:00
+created: 2026-08-12T04:28:41.425Z
+modified: 2026-09-21T07:46:15.473Z
+published: 2026-09-21T07:46:15.473Z
 Name: "[[Path of the Demonshard]]"
 Parent Class: "[[Barbarian]]"
 Source: "Frontiers of Eberron: Quickstone"

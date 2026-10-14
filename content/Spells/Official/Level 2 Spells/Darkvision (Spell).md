@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Darkvision
 title: Darkvision
-created: 2026-07-25T23:31:39.059-04:00
-modified: 2026-10-08T00:55:17.657-04:00
-published: 2026-10-08T00:55:17.657-04:00
+created: 2026-07-26T03:31:39.059Z
+modified: 2026-10-08T04:55:17.657Z
+published: 2026-10-08T04:55:17.657Z
 Name: "[[Darkvision (Spell)|Darkvision]]"
 Spell Level: Level 2
 School: Transmutation

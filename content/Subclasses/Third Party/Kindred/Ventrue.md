@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:38:52.967-04:00
-modified: 2026-10-12T21:53:58.246-04:00
-published: 2026-10-12T21:53:58.246-04:00
+created: 2026-09-11T05:38:52.967Z
+modified: 2026-10-13T01:53:58.246Z
+published: 2026-10-13T01:53:58.246Z
 Name: "[[Ventrue]]"
 Parent Class: "[[Kindred]]"
 Source: "Vampire: The Masquerade - Bound by Blood"

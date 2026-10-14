@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T15:29:09.666-04:00
-modified: 2026-10-09T01:04:50.311-04:00
-published: 2026-10-09T01:04:50.311-04:00
+created: 2026-07-26T19:29:09.666Z
+modified: 2026-10-09T05:04:50.311Z
+published: 2026-10-09T05:04:50.311Z
 Name: "[[Stone Shape]]"
 Spell Level: Level 4
 School: Transmutation

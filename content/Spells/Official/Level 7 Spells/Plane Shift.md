@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T00:32:55.326-04:00
-modified: 2026-10-09T01:34:34.710-04:00
-published: 2026-10-09T01:34:34.710-04:00
+created: 2026-08-04T04:32:55.326Z
+modified: 2026-10-09T05:34:34.710Z
+published: 2026-10-09T05:34:34.710Z
 Name: "[[Plane Shift]]"
 Spell Level: Level 7
 School: Conjuration

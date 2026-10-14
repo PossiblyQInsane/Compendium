@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:28:47.675-04:00
-modified: 2026-10-10T13:49:55.728-04:00
-published: 2026-10-10T13:49:55.728-04:00
+created: 2026-09-11T05:28:47.675Z
+modified: 2026-10-10T17:49:55.728Z
+published: 2026-10-10T17:49:55.728Z
 Name: "[[Exalted Assembly of the Feline Court]]"
 Parent Class: "[[Warlock]]"
 Source: Cthulhu by Torchlight

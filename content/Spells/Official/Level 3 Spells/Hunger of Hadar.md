@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-29T11:54:33.041-04:00
-modified: 2026-09-29T11:57:05.264-04:00
-published: 2026-09-29T11:57:05.264-04:00
+created: 2026-09-29T15:54:33.041Z
+modified: 2026-09-29T15:57:05.264Z
+published: 2026-09-29T15:57:05.264Z
 Name: "[[Hunger of Hadar]]"
 Spell Level: Level 3
 School: Conjuration

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - frightened
-created: 2026-07-31T10:36:58.422-04:00
-modified: 2026-09-28T19:06:43.210-04:00
-published: 2026-09-28T19:06:43.210-04:00
+created: 2026-07-31T14:36:58.422Z
+modified: 2026-09-28T23:06:43.210Z
+published: 2026-09-28T23:06:43.210Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

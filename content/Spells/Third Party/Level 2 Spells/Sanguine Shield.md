@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-23T10:47:50.851-04:00
-modified: 2026-10-08T01:32:56.568-04:00
-published: 2026-10-08T01:32:56.568-04:00
+created: 2026-09-23T14:47:50.851Z
+modified: 2026-10-08T05:32:56.568Z
+published: 2026-10-08T05:32:56.568Z
 Name: "[[Sanguine Shield]]"
 Spell Level: Level 2
 School: Abjuration

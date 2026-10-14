@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T21:11:12.628-04:00
-modified: 2026-10-08T00:59:29.748-04:00
-published: 2026-10-08T00:59:29.748-04:00
+created: 2026-08-03T01:11:12.628Z
+modified: 2026-10-08T04:59:29.748Z
+published: 2026-10-08T04:59:29.748Z
 Name: "[[Enthrall]]"
 Spell Level: Level 2
 School: Enchantment

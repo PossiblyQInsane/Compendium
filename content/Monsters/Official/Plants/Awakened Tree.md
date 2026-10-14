@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-24T21:49:26.922-04:00
-modified: 2026-09-07T20:23:18.256-04:00
-published: 2026-09-07T20:23:18.256-04:00
+created: 2026-08-25T01:49:26.922Z
+modified: 2026-09-08T00:23:18.256Z
+published: 2026-09-08T00:23:18.256Z
 Creature Type: Plant
 Size: Huge
 Alignment: Neutral

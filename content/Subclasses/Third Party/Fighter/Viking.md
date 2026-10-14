@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-24T01:52:37.544-04:00
-modified: 2026-09-21T12:45:13.032-04:00
-published: 2026-09-21T12:45:13.032-04:00
+created: 2026-08-24T05:52:37.544Z
+modified: 2026-09-21T16:45:13.032Z
+published: 2026-09-21T16:45:13.032Z
 Name: "[[Viking]]"
 Parent Class: "[[Fighter]]"
 Source: Northlands Worldbook

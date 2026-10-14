@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-10T15:32:41.672-04:00
-modified: 2026-09-21T12:27:53.811-04:00
-published: 2026-09-21T12:27:53.811-04:00
+created: 2026-08-10T19:32:41.672Z
+modified: 2026-09-21T16:27:53.811Z
+published: 2026-09-21T16:27:53.811Z
 Name: "[[Circle of the Symbiote]]"
 Parent Class: "[[Druid]]"
 Source: Cthulhu by Torchlight

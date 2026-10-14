@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-20T11:07:30.615-04:00
-modified: 2026-10-08T00:06:17.722-04:00
-published: 2026-10-08T00:06:17.722-04:00
+created: 2026-08-20T15:07:30.615Z
+modified: 2026-10-08T04:06:17.722Z
+published: 2026-10-08T04:06:17.722Z
 Name: "[[Control Flames]]"
 Spell Level: Cantrip
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T23:24:58.244-04:00
-modified: 2026-10-08T00:52:39.115-04:00
-published: 2026-10-08T00:52:39.115-04:00
+created: 2026-07-26T03:24:58.244Z
+modified: 2026-10-08T04:52:39.115Z
+published: 2026-10-08T04:52:39.115Z
 Name: "[[Blur|Blur]]"
 Spell Level: Level 2
 School: Illusion

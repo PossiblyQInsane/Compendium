@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T00:04:52.598-04:00
-modified: 2026-10-08T11:55:25.240-04:00
-published: 2026-10-08T11:55:25.240-04:00
+created: 2026-08-03T04:04:52.598Z
+modified: 2026-10-08T15:55:25.240Z
+published: 2026-10-08T15:55:25.240Z
 Name: "[[Tongues]]"
 Spell Level: Level 3
 School: Divination

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-30T11:17:41.743-04:00
-modified: 2026-09-30T11:19:42.861-04:00
-published: 2026-09-30T11:19:42.861-04:00
+created: 2026-09-30T15:17:41.743Z
+modified: 2026-09-30T15:19:42.861Z
+published: 2026-09-30T15:19:42.861Z
 Creature Type: Construct
 Size: Large
 Alignment: Lawful Neutral

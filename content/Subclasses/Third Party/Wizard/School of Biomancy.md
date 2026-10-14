@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:37:48.378-04:00
-modified: 2026-10-11T03:04:05.568-04:00
-published: 2026-10-11T03:04:05.568-04:00
+created: 2026-09-11T05:37:48.378Z
+modified: 2026-10-11T07:04:05.568Z
+published: 2026-10-11T07:04:05.568Z
 Name: "[[School of Biomancy]]"
 Parent Class: "[[Wizard]]"
 Source: Heliana's Guide to Monster Hunting

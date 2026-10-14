@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:17:10.844-04:00
-modified: 2026-09-29T01:36:18.098-04:00
-published: 2026-09-29T01:36:18.098-04:00
+created: 2026-09-11T05:17:10.844Z
+modified: 2026-09-29T05:36:18.098Z
+published: 2026-09-29T05:36:18.098Z
 Name: "[[Drakewarden]]"
 Parent Class: "[[Ranger]]"
 Source: Fizban's Treasury of Dragons

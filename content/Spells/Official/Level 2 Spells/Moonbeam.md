@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T12:53:56.912-04:00
-modified: 2026-08-31T12:23:00.251-04:00
-published: 2026-08-31T12:23:00.251-04:00
+created: 2026-08-03T16:53:56.912Z
+modified: 2026-08-31T16:23:00.251Z
+published: 2026-08-31T16:23:00.251Z
 Name: "[[Moonbeam]]"
 Spell Level: Level 2
 School: Evocation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-27T12:34:34.996-04:00
-modified: 2026-10-09T01:35:48.335-04:00
-published: 2026-10-09T01:35:48.335-04:00
+created: 2026-09-27T16:34:34.996Z
+modified: 2026-10-09T05:35:48.335Z
+published: 2026-10-09T05:35:48.335Z
 Name: "[[Simbul's Synostodweomer]]"
 Spell Level: Level 7
 School: Transmutation

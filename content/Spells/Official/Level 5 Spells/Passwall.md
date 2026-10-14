@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-28T10:40:19.744-04:00
-modified: 2026-10-02T18:26:33.367-04:00
-published: 2026-10-02T18:26:33.367-04:00
+created: 2026-07-28T14:40:19.744Z
+modified: 2026-10-02T22:26:33.367Z
+published: 2026-10-02T22:26:33.367Z
 Name: "[[Passwall]]"
 Spell Level: Level 5
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-06T11:22:25.372-04:00
-modified: 2026-10-09T01:49:01.242-04:00
-published: 2026-10-09T01:49:01.242-04:00
+created: 2026-10-06T15:22:25.372Z
+modified: 2026-10-09T05:49:01.242Z
+published: 2026-10-09T05:49:01.242Z
 Name: "[[Immovable Object]]"
 Spell Level: Level 2
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T22:55:22.634-04:00
-modified: 2026-10-08T12:06:55.145-04:00
-published: 2026-10-08T12:06:55.145-04:00
+created: 2026-07-26T02:55:22.634Z
+modified: 2026-10-08T16:06:55.145Z
+published: 2026-10-08T16:06:55.145Z
 Name: "[[Identify|Identify]]"
 Spell Level: Level 1
 School: Divination

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-17T23:45:55.085-04:00
-modified: 2026-09-30T00:34:04.118-04:00
-published: 2026-09-30T00:34:04.118-04:00
+created: 2026-08-18T03:45:55.085Z
+modified: 2026-09-30T04:34:04.118Z
+published: 2026-09-30T04:34:04.118Z
 Name: "[[Festus Domain]]"
 Parent Class: "[[Cleric]]"
 Source: "The Griffon's Saddlebag: Book Two"

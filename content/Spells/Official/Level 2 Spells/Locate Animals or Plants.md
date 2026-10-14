@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T21:19:33.594-04:00
-modified: 2026-10-08T01:05:48.002-04:00
-published: 2026-10-08T01:05:48.002-04:00
+created: 2026-08-03T01:19:33.594Z
+modified: 2026-10-08T05:05:48.002Z
+published: 2026-10-08T05:05:48.002Z
 Name: "[[Locate Animals or Plants]]"
 Spell Level: Level 2
 School: Divination

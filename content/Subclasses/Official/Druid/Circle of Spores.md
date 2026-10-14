@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-23T23:18:53.457-04:00
-modified: 2026-09-21T11:01:46.340-04:00
-published: 2026-09-21T11:01:46.340-04:00
+created: 2026-08-24T03:18:53.457Z
+modified: 2026-09-21T15:01:46.340Z
+published: 2026-09-21T15:01:46.340Z
 Name: "[[Circle of Spores]]"
 Parent Class: "[[Druid]]"
 Source: Guildmasters' Guide to Ravnica

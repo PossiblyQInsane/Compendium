@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-17T23:45:55.085-04:00
-modified: 2026-09-21T10:58:03.192-04:00
-published: 2026-09-21T10:58:03.192-04:00
+created: 2026-08-18T03:45:55.085Z
+modified: 2026-09-21T14:58:03.192Z
+published: 2026-09-21T14:58:03.192Z
 Name: "[[Night Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Humblewood Campaign Setting

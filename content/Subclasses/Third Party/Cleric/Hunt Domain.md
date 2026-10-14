@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-23T16:33:24.655-04:00
-modified: 2026-09-21T10:46:02.724-04:00
-published: 2026-09-21T10:46:02.724-04:00
+created: 2026-08-23T20:33:24.655Z
+modified: 2026-09-21T14:46:02.724Z
+published: 2026-09-21T14:46:02.724Z
 Name: "[[Hunt Domain]]"
 Parent Class: "[[Cleric]]"
 Source: Heliana's Guide to Monster Hunting

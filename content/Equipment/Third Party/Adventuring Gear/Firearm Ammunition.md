@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-03T01:31:31.899-04:00
-modified: 2026-09-03T01:35:54.758-04:00
-published: 2026-09-03T01:35:54.758-04:00
+created: 2026-09-03T05:31:31.899Z
+modified: 2026-09-03T05:35:54.758Z
+published: 2026-09-03T05:35:54.758Z
 Weight: Varies
 Cost: Varies
 Source: Valda's Spire of Secrets

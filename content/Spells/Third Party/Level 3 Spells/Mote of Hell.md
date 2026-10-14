@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-12T00:12:31.577-04:00
-modified: 2026-10-12T00:16:38.220-04:00
-published: 2026-10-12T00:16:38.220-04:00
+created: 2026-10-12T04:12:31.577Z
+modified: 2026-10-12T04:16:38.220Z
+published: 2026-10-12T04:16:38.220Z
 Name: "[[Mote of Hell]]"
 Spell Level: Level 3
 School: Conjuration

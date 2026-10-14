@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - amaranth dragons
-created: 2026-08-29T18:12:10.727-04:00
-modified: 2026-09-10T10:02:03.902-04:00
-published: 2026-09-10T10:02:03.902-04:00
+created: 2026-08-29T22:12:10.727Z
+modified: 2026-09-10T14:02:03.902Z
+published: 2026-09-10T14:02:03.902Z
 Creature Type: Dragon
 Size: Medium
 Alignment: Any Neutral Alignment

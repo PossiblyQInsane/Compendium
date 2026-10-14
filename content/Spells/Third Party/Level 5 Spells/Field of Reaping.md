@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T11:37:19.859-04:00
-modified: 2026-10-09T01:24:03.305-04:00
-published: 2026-10-09T01:24:03.305-04:00
+created: 2026-08-04T15:37:19.859Z
+modified: 2026-10-09T05:24:03.305Z
+published: 2026-10-09T05:24:03.305Z
 Name: "[[Field of Reaping]]"
 Spell Level: Level 5
 School: Necromancy

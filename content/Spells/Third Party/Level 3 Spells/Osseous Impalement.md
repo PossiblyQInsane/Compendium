@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-10T13:44:08.031-04:00
-modified: 2026-10-08T12:01:30.355-04:00
-published: 2026-10-08T12:01:30.355-04:00
+created: 2026-08-10T17:44:08.031Z
+modified: 2026-10-08T16:01:30.355Z
+published: 2026-10-08T16:01:30.355Z
 Name: "[[Osseous Impalement]]"
 Spell Level: Level 3
 School: Conjuration

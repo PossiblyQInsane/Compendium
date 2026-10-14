@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-11T23:48:11.876-04:00
-modified: 2026-10-11T23:53:38.941-04:00
-published: 2026-10-11T23:53:38.941-04:00
+created: 2026-10-12T03:48:11.876Z
+modified: 2026-10-12T03:53:38.941Z
+published: 2026-10-12T03:53:38.941Z
 Name: "[[Hell's Lash]]"
 Spell Level: Level 1
 School: Evocation

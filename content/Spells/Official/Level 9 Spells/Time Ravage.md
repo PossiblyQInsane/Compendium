@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-06T11:54:43.281-04:00
-modified: 2026-10-09T01:50:23.205-04:00
-published: 2026-10-09T01:50:23.205-04:00
+created: 2026-10-06T15:54:43.281Z
+modified: 2026-10-09T05:50:23.205Z
+published: 2026-10-09T05:50:23.205Z
 Name: "[[Time Ravage]]"
 Spell Level: Level 9
 School: Necromancy

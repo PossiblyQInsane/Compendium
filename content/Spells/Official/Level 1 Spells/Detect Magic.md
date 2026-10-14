@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T22:32:38.765-04:00
-modified: 2026-10-08T12:05:38.238-04:00
-published: 2026-10-08T12:05:38.238-04:00
+created: 2026-07-26T02:32:38.765Z
+modified: 2026-10-08T16:05:38.238Z
+published: 2026-10-08T16:05:38.238Z
 Name: "[[Detect Magic|Detect Magic]]"
 Spell Level: Level 1
 School: Divination

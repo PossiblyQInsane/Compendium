@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:08:01.130-04:00
-modified: 2026-09-21T14:18:35.030-04:00
-published: 2026-09-21T14:18:35.030-04:00
+created: 2026-09-11T05:08:01.130Z
+modified: 2026-09-21T18:18:35.030Z
+published: 2026-09-21T18:18:35.030Z
 Name: "[[Oath of Vengeance]]"
 Parent Class: "[[Paladin]]"
 Source: Player's Handbook 5.5e

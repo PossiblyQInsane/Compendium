@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T11:04:39.707-04:00
-modified: 2026-10-09T01:43:24.870-04:00
-published: 2026-10-09T01:43:24.870-04:00
+created: 2026-07-30T15:04:39.707Z
+modified: 2026-10-09T05:43:24.870Z
+published: 2026-10-09T05:43:24.870Z
 Name: "[[Gate]]"
 Spell Level: Level 9
 School: Conjuration

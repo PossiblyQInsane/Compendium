@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-12T00:08:11.715-04:00
-modified: 2026-10-12T00:12:16.982-04:00
-published: 2026-10-12T00:12:16.982-04:00
+created: 2026-10-12T04:08:11.715Z
+modified: 2026-10-12T04:12:16.982Z
+published: 2026-10-12T04:12:16.982Z
 Name: "[[Maligned Weapon]]"
 Spell Level: Level 4
 School: Evocation

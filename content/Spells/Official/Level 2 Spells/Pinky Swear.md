@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-04T09:38:31.678-04:00
-modified: 2026-10-08T01:09:10.123-04:00
-published: 2026-10-08T01:09:10.123-04:00
+created: 2026-09-04T13:38:31.678Z
+modified: 2026-10-08T05:09:10.123Z
+published: 2026-10-08T05:09:10.123Z
 Name: "[[Pinky Swear]]"
 Spell Level: Level 2
 School: Abjuration

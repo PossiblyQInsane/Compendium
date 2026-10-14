@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Blindness/Deafness
 title: Blindness/Deafness
-created: 2026-07-31T10:03:06.117-04:00
-modified: 2026-10-08T00:52:06.635-04:00
-published: 2026-10-08T00:52:06.635-04:00
+created: 2026-07-31T14:03:06.117Z
+modified: 2026-10-08T04:52:06.635Z
+published: 2026-10-08T04:52:06.635Z
 Name: "[[Blindness-Deafness|Blindness/Deafness]]"
 Spell Level: Level 2
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T11:49:01.627-04:00
-modified: 2026-09-21T03:45:15.990-04:00
-published: 2026-09-21T03:45:15.990-04:00
+created: 2026-08-02T15:49:01.627Z
+modified: 2026-09-21T07:45:15.990Z
+published: 2026-09-21T07:45:15.990Z
 Name: "[[Path of the World Tree]]"
 Parent Class: "[[Barbarian]]"
 Source: Player's Handbook 5.5e

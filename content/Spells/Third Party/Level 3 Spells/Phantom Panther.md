@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-10T13:39:14.635-04:00
-modified: 2026-10-10T13:43:25.893-04:00
-published: 2026-10-10T13:43:25.893-04:00
+created: 2026-10-10T17:39:14.635Z
+modified: 2026-10-10T17:43:25.893Z
+published: 2026-10-10T17:43:25.893Z
 Name: "[[Phantom Panther]]"
 Spell Level: Level 3
 School: Conjuration

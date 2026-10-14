@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Front Page
-created: 2026-07-27T11:22:33.072-04:00
-modified: 2026-10-07T11:52:41.176-04:00
-published: 2026-10-07T11:52:41.176-04:00
+created: 2026-07-27T15:22:33.072Z
+modified: 2026-10-07T15:52:41.176Z
+published: 2026-10-07T15:52:41.176Z
 ---
 
 # Classes

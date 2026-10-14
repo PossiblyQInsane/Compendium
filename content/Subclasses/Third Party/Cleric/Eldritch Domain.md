@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-04T10:38:25.947-04:00
-modified: 2026-09-30T00:32:18.229-04:00
-published: 2026-09-30T00:32:18.229-04:00
+created: 2026-08-04T14:38:25.947Z
+modified: 2026-09-30T04:32:18.229Z
+published: 2026-09-30T04:32:18.229Z
 Name: "[[Eldritch Domain]]"
 Parent Class: "[[Cleric]]"
 Source: "Grim Hollow: Player's Guide"

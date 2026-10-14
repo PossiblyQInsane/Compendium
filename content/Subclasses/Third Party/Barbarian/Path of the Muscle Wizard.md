@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T14:27:33.074-04:00
-modified: 2026-09-25T11:09:34.495-04:00
-published: 2026-09-25T11:09:34.495-04:00
+created: 2026-08-02T18:27:33.074Z
+modified: 2026-09-25T15:09:34.495Z
+published: 2026-09-25T15:09:34.495Z
 Name: "[[Path of the Muscle Wizard]]"
 Parent Class: "[[Barbarian]]"
 Source: Valda's Spire of Secrets

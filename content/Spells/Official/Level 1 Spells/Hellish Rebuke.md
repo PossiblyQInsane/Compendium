@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-05T01:19:43.342-04:00
-modified: 2026-10-08T00:39:13.146-04:00
-published: 2026-10-08T00:39:13.146-04:00
+created: 2026-08-05T05:19:43.342Z
+modified: 2026-10-08T04:39:13.146Z
+published: 2026-10-08T04:39:13.146Z
 Name: "[[Hellish Rebuke]]"
 Spell Level: Level 1
 School: Evocation

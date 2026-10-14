@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-25T11:52:09.918-04:00
-modified: 2026-10-08T01:20:15.793-04:00
-published: 2026-10-08T01:20:15.793-04:00
+created: 2026-09-25T15:52:09.918Z
+modified: 2026-10-08T05:20:15.793Z
+published: 2026-10-08T05:20:15.793Z
 Name: "[[Mysterious Presence]]"
 Spell Level: Cantrip
 School: Illusion

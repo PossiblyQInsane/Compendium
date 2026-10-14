@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T14:29:16.060-04:00
-modified: 2026-08-17T15:57:38.261-04:00
-published: 2026-08-17T15:57:38.261-04:00
+created: 2026-07-25T18:29:16.060Z
+modified: 2026-08-17T19:57:38.261Z
+published: 2026-08-17T19:57:38.261Z
 Cost: 1 SP
 Source: Player's Handbook 5.5e
 Weight: —

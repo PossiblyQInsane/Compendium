@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:22:42.326-04:00
-modified: 2026-10-02T19:04:43.305-04:00
-published: 2026-10-02T19:04:43.305-04:00
+created: 2026-09-11T05:22:42.326Z
+modified: 2026-10-02T23:04:43.305Z
+published: 2026-10-02T23:04:43.305Z
 Name: "[[Spellfire Sorcery]]"
 Parent Class: "[[Sorcerer]]"
 Source: "Forgotten Realms: Heroes of Faerûn"

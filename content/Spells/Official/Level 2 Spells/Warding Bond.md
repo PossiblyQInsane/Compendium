@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T00:26:09.317-04:00
-modified: 2026-10-08T01:15:44.457-04:00
-published: 2026-10-08T01:15:44.457-04:00
+created: 2026-07-30T04:26:09.317Z
+modified: 2026-10-08T05:15:44.457Z
+published: 2026-10-08T05:15:44.457Z
 Name: "[[Warding Bond]]"
 Spell Level: Level 2
 School: Abjuration

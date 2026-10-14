@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-11T11:24:50.805-04:00
-modified: 2026-10-07T11:51:01.577-04:00
-published: 2026-10-07T11:51:01.577-04:00
+created: 2026-08-11T15:24:50.805Z
+modified: 2026-10-07T15:51:01.577Z
+published: 2026-10-07T15:51:01.577Z
 Name: "[[Fighter]]"
 Source: Player's Handbook 5.5e
 Official: true

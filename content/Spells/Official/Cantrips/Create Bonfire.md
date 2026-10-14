@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-15T21:35:58.944-04:00
-modified: 2026-10-08T00:06:46.488-04:00
-published: 2026-10-08T00:06:46.488-04:00
+created: 2026-08-16T01:35:58.944Z
+modified: 2026-10-08T04:06:46.488Z
+published: 2026-10-08T04:06:46.488Z
 Name: "[[Create Bonfire]]"
 Spell Level: Cantrip
 School: Conjuration

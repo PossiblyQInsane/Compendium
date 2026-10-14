@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-23T21:03:49.775-04:00
-modified: 2026-10-08T11:39:25.298-04:00
-published: 2026-10-08T11:39:25.298-04:00
+created: 2026-08-24T01:03:49.775Z
+modified: 2026-10-08T15:39:25.298Z
+published: 2026-10-08T15:39:25.298Z
 Name: "[[Erupting Earth]]"
 Spell Level: Level 3
 School: Transmutation

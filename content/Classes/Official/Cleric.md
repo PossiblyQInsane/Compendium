@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T21:26:01.386-04:00
-modified: 2026-10-07T11:50:44.365-04:00
-published: 2026-10-07T11:50:44.365-04:00
+created: 2026-08-04T01:26:01.386Z
+modified: 2026-10-07T15:50:44.365Z
+published: 2026-10-07T15:50:44.365Z
 Name: "[[Cleric]]"
 Source: Player's Handbook 5.5e
 Official: true

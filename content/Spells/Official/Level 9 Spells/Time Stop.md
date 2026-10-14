@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-09T10:50:08.203-04:00
-modified: 2026-10-09T01:44:45.678-04:00
-published: 2026-10-09T01:44:45.678-04:00
+created: 2026-08-09T14:50:08.203Z
+modified: 2026-10-09T05:44:45.678Z
+published: 2026-10-09T05:44:45.678Z
 Name: "[[Time Stop]]"
 Spell Level: Level 9
 School: Transmutation

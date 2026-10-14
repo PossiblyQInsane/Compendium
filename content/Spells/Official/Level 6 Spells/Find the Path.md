@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T10:57:01.006-04:00
-modified: 2026-10-09T01:27:39.509-04:00
-published: 2026-10-09T01:27:39.509-04:00
+created: 2026-07-30T14:57:01.006Z
+modified: 2026-10-09T05:27:39.509Z
+published: 2026-10-09T05:27:39.509Z
 Name: "[[Find the Path]]"
 Spell Level: Level 6
 School: Divination

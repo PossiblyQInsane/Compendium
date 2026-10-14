@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T18:10:51.355-04:00
-modified: 2026-10-09T01:17:43.194-04:00
-published: 2026-10-09T01:17:43.194-04:00
+created: 2026-10-05T22:10:51.355Z
+modified: 2026-10-09T05:17:43.194Z
+published: 2026-10-09T05:17:43.194Z
 Name: "[[Jallarzi's Storm of Radiance]]"
 Spell Level: Level 5
 School: Evocation

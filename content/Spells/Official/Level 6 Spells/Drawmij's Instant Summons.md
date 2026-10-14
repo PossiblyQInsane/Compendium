@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T20:05:55.615-04:00
-modified: 2026-10-05T20:08:30.527-04:00
-published: 2026-10-05T20:08:30.527-04:00
+created: 2026-10-06T00:05:55.615Z
+modified: 2026-10-06T00:08:30.527Z
+published: 2026-10-06T00:08:30.527Z
 Name: "[[Drawmij's Instant Summons]]"
 Spell Level: Level 6
 School: Conjuration

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T00:22:29.045-04:00
-modified: 2026-08-31T12:24:28.219-04:00
-published: 2026-08-31T12:24:28.219-04:00
+created: 2026-07-30T04:22:29.045Z
+modified: 2026-08-31T16:24:28.219Z
+published: 2026-08-31T16:24:28.219Z
 Name: "[[Shining Smite]]"
 Spell Level: Level 2
 School: Transmutation

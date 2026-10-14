@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:21:23.402-04:00
-modified: 2026-09-22T00:32:29.992-04:00
-published: 2026-09-22T00:32:29.992-04:00
+created: 2026-09-11T05:21:23.402Z
+modified: 2026-09-22T04:32:29.992Z
+published: 2026-09-22T04:32:29.992Z
 Name: "[[Mastermind]]"
 Parent Class: "[[Rogue]]"
 Source: Sword Coast Adventurer's Guide

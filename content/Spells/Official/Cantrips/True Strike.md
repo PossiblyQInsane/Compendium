@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T22:24:19.153-04:00
-modified: 2026-10-08T00:20:48.105-04:00
-published: 2026-10-08T00:20:48.105-04:00
+created: 2026-07-26T02:24:19.153Z
+modified: 2026-10-08T04:20:48.105Z
+published: 2026-10-08T04:20:48.105Z
 Name: "[[True Strike|True Strike]]"
 Spell Level: Cantrip
 School: Divination

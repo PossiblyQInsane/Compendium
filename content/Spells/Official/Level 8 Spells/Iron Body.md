@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-03T10:30:55.215-04:00
-modified: 2026-10-09T01:40:42.558-04:00
-published: 2026-10-09T01:40:42.558-04:00
+created: 2026-09-03T14:30:55.215Z
+modified: 2026-10-09T05:40:42.558Z
+published: 2026-10-09T05:40:42.558Z
 Name: "[[Iron Body]]"
 Spell Level: Level 8
 School: Transmutation

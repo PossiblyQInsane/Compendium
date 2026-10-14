@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-02T18:32:34.621-04:00
-modified: 2026-10-04T14:08:32.791-04:00
-published: 2026-10-04T14:08:32.791-04:00
+created: 2026-10-02T22:32:34.621Z
+modified: 2026-10-04T18:08:32.791Z
+published: 2026-10-04T18:08:32.791Z
 Name: "[[Skeletal Blade]]"
 Parent Class: "[[Fighter]]"
 Source: Ryoko's Guide to the Yokai Realms

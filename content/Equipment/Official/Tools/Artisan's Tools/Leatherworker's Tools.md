@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-01T22:08:13.435-04:00
-modified: 2026-08-17T16:03:37.396-04:00
-published: 2026-08-17T16:03:37.396-04:00
+created: 2026-08-02T02:08:13.435Z
+modified: 2026-08-17T20:03:37.396Z
+published: 2026-08-17T20:03:37.396Z
 Category: Artisan's Tools
 Ability: Dexterity
 Weight: 5 lb.

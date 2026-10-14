@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-02T18:32:06.602-04:00
-modified: 2026-10-10T16:21:37.915-04:00
-published: 2026-10-10T16:21:37.915-04:00
+created: 2026-10-02T22:32:06.602Z
+modified: 2026-10-10T20:21:37.915Z
+published: 2026-10-10T20:21:37.915Z
 Name: "[[Circle of the Yokai]]"
 Parent Class: "[[Druid]]"
 Source: Ryoko's Guide to the Yokai Realms

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-10T13:50:59.561-04:00
-modified: 2026-10-09T01:09:52.506-04:00
-published: 2026-10-09T01:09:52.506-04:00
+created: 2026-08-10T17:50:59.561Z
+modified: 2026-10-09T05:09:52.506Z
+published: 2026-10-09T05:09:52.506Z
 Name: "[[Maiden of Bones]]"
 Spell Level: Level 4
 School: Conjuration

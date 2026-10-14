@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - blinded
-created: 2026-07-29T12:16:40.783-04:00
-modified: 2026-09-28T20:08:31.397-04:00
-published: 2026-09-28T20:08:31.397-04:00
+created: 2026-07-29T16:16:40.783Z
+modified: 2026-09-29T00:08:31.397Z
+published: 2026-09-29T00:08:31.397Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

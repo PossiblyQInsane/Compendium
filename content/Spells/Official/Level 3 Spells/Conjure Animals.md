@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-07T10:57:54.745-04:00
-modified: 2026-10-08T11:35:02.579-04:00
-published: 2026-10-08T11:35:02.579-04:00
+created: 2026-08-07T14:57:54.745Z
+modified: 2026-10-08T15:35:02.579Z
+published: 2026-10-08T15:35:02.579Z
 Name: "[[Conjure Animals]]"
 Spell Level: Level 3
 School: Conjuration

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T13:08:05.660-04:00
-modified: 2026-10-08T01:11:42.195-04:00
-published: 2026-10-08T01:11:42.195-04:00
+created: 2026-07-26T17:08:05.660Z
+modified: 2026-10-08T05:11:42.195Z
+published: 2026-10-08T05:11:42.195Z
 Name: "[[See Invisibility]]"
 Spell Level: Level 2
 School: Divination

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T20:34:56.247-04:00
-modified: 2026-10-08T00:27:36.679-04:00
-published: 2026-10-08T00:27:36.679-04:00
+created: 2026-08-03T00:34:56.247Z
+modified: 2026-10-08T04:27:36.679Z
+published: 2026-10-08T04:27:36.679Z
 Name: "[[Comprehend Languages]]"
 Spell Level: Level 1
 School: Divination

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T14:42:53.264-04:00
-modified: 2026-10-08T11:57:06.293-04:00
-published: 2026-10-08T11:57:06.293-04:00
+created: 2026-07-26T18:42:53.264Z
+modified: 2026-10-08T15:57:06.293Z
+published: 2026-10-08T15:57:06.293Z
 Name: "[[Water Walk]]"
 Spell Level: Level 3
 School: Transmutation

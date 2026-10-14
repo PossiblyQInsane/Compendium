@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-23T21:56:32.959-04:00
-modified: 2026-10-09T01:20:13.520-04:00
-published: 2026-10-09T01:20:13.520-04:00
+created: 2026-08-24T01:56:32.959Z
+modified: 2026-10-09T05:20:13.520Z
+published: 2026-10-09T05:20:13.520Z
 Name: "[[Songal's Elemental Suffusion]]"
 Spell Level: Level 5
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-05T20:03:35.004-04:00
-modified: 2026-10-10T01:21:47.583-04:00
-published: 2026-10-10T01:21:47.583-04:00
+created: 2026-10-06T00:03:35.004Z
+modified: 2026-10-10T05:21:47.583Z
+published: 2026-10-10T05:21:47.583Z
 Creature Type: Construct
 Size: Tiny
 Alignment: Neutral

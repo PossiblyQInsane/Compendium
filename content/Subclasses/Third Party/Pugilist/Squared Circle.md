@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:40:55.666-04:00
-modified: 2026-10-11T20:05:08.013-04:00
-published: 2026-10-11T20:05:08.013-04:00
+created: 2026-09-11T05:40:55.666Z
+modified: 2026-10-12T00:05:08.013Z
+published: 2026-10-12T00:05:08.013Z
 Name: "[[Squared Circle]]"
 Parent Class: "[[Pugilist]]"
 Source: The Pugilist Class

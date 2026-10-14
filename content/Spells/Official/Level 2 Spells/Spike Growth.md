@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-07T10:39:09.704-04:00
-modified: 2026-10-08T01:13:37.197-04:00
-published: 2026-10-08T01:13:37.197-04:00
+created: 2026-08-07T14:39:09.704Z
+modified: 2026-10-08T05:13:37.197Z
+published: 2026-10-08T05:13:37.197Z
 Name: "[[Spike Growth]]"
 Spell Level: Level 2
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-02T20:15:19.794-04:00
-modified: 2026-10-08T00:03:31.782-04:00
-published: 2026-10-08T00:03:31.782-04:00
+created: 2026-08-03T00:15:19.794Z
+modified: 2026-10-08T04:03:31.782Z
+published: 2026-10-08T04:03:31.782Z
 Name: "[[Blade Ward]]"
 Spell Level: Cantrip
 School: Abjuration

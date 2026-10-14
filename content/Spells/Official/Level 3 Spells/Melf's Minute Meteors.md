@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-27T01:18:55.565-04:00
-modified: 2026-10-08T11:47:53.375-04:00
-published: 2026-10-08T11:47:53.375-04:00
+created: 2026-09-27T05:18:55.565Z
+modified: 2026-10-08T15:47:53.375Z
+published: 2026-10-08T15:47:53.375Z
 Name: "[[Melf's Minute Meteors]]"
 Spell Level: Level 3
 School: Evocation

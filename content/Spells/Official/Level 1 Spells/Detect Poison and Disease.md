@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T22:35:12.915-04:00
-modified: 2026-10-08T12:08:35.264-04:00
-published: 2026-10-08T12:08:35.264-04:00
+created: 2026-08-04T02:35:12.915Z
+modified: 2026-10-08T16:08:35.264Z
+published: 2026-10-08T16:08:35.264Z
 Name: "[[Detect Poison and Disease]]"
 Spell Level: Level 1
 School: Divination

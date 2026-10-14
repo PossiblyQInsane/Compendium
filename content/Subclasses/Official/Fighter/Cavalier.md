@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-24T01:53:53.068-04:00
-modified: 2026-09-21T12:36:18.059-04:00
-published: 2026-09-21T12:36:18.059-04:00
+created: 2026-08-24T05:53:53.068Z
+modified: 2026-09-21T16:36:18.059Z
+published: 2026-09-21T16:36:18.059Z
 Name: "[[Cavalier]]"
 Parent Class: "[[Fighter]]"
 Source: Xanathar's Guide to Everything

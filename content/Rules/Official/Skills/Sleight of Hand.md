@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T18:03:45.153-04:00
-modified: 2026-08-17T15:46:53.078-04:00
-published: 2026-08-17T15:46:53.078-04:00
+created: 2026-07-25T22:03:45.153Z
+modified: 2026-08-17T19:46:53.078Z
+published: 2026-08-17T19:46:53.078Z
 Ability: Dexterity
 Example Uses: Pick a pocket, conceal a handheld object, or perform legerdemain.
 Source: Player's Handbook 5.5e

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T13:35:30.875-04:00
-modified: 2026-10-08T11:38:34.486-04:00
-published: 2026-10-08T11:38:34.486-04:00
+created: 2026-07-26T17:35:30.875Z
+modified: 2026-10-08T15:38:34.486Z
+published: 2026-10-08T15:38:34.486Z
 Name: "[[Dispel Magic]]"
 Spell Level: Level 3
 School: Abjuration

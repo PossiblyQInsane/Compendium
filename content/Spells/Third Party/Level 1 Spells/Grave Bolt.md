@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T11:01:47.244-04:00
-modified: 2026-10-13T11:04:21.351-04:00
-published: 2026-10-13T11:04:21.351-04:00
+created: 2026-10-13T15:01:47.244Z
+modified: 2026-10-13T15:04:21.351Z
+published: 2026-10-13T15:04:21.351Z
 Name: "[[Grave Bolt]]"
 Spell Level: Level 1
 School: Necromancy

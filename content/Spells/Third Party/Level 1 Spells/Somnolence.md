@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-22T12:00:09.485-04:00
-modified: 2026-10-08T01:26:45.163-04:00
-published: 2026-10-08T01:26:45.163-04:00
+created: 2026-09-22T16:00:09.485Z
+modified: 2026-10-08T05:26:45.163Z
+published: 2026-10-08T05:26:45.163Z
 Name: "[[Somnolence]]"
 Spell Level: Level 1
 School: Enchantment

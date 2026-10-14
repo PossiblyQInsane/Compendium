@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T15:43:14.207-04:00
-modified: 2026-08-17T16:12:56.404-04:00
-published: 2026-08-17T16:12:56.404-04:00
+created: 2026-07-25T19:43:14.207Z
+modified: 2026-08-17T20:12:56.404Z
+published: 2026-08-17T20:12:56.404Z
 Category: Wondrous Item
 Rarity: Uncommon
 Attunement: false

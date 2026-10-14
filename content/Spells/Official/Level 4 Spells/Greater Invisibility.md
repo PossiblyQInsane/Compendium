@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-28T10:36:36.371-04:00
-modified: 2026-10-09T01:01:02.132-04:00
-published: 2026-10-09T01:01:02.132-04:00
+created: 2026-07-28T14:36:36.371Z
+modified: 2026-10-09T05:01:02.132Z
+published: 2026-10-09T05:01:02.132Z
 Name: "[[Greater Invisibility]]"
 Spell Level: Level 4
 School: Illusion

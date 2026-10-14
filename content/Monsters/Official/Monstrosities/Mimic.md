@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-13T11:44:15.153-04:00
-modified: 2026-10-10T01:48:32.067-04:00
-published: 2026-10-10T01:48:32.067-04:00
+created: 2026-08-13T15:44:15.153Z
+modified: 2026-10-10T05:48:32.067Z
+published: 2026-10-10T05:48:32.067Z
 Creature Type: Monstrosity
 Size: Medium
 Alignment: Neutral

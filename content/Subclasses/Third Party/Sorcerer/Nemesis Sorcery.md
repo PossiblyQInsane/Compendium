@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:23:54.649-04:00
-modified: 2026-10-05T00:11:29.704-04:00
-published: 2026-10-05T00:11:29.704-04:00
+created: 2026-09-11T05:23:54.649Z
+modified: 2026-10-05T04:11:29.704Z
+published: 2026-10-05T04:11:29.704Z
 Name: "[[Nemesis Sorcery]]"
 Parent Class: "[[Sorcerer]]"
 Source: "Frontiers of Eberron: Quickstone"

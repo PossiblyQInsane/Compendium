@@ -1,9 +1,9 @@
 ---
 publish: true
 title: The Shinigami
-created: 2026-10-02T18:36:44.791-04:00
-modified: 2026-10-11T01:43:14.493-04:00
-published: 2026-10-11T01:43:14.493-04:00
+created: 2026-10-02T22:36:44.791Z
+modified: 2026-10-11T05:43:14.493Z
+published: 2026-10-11T05:43:14.493Z
 Name: "[[Shinigami|The Shinigami]]"
 Parent Class: "[[Warlock]]"
 Source: Ryoko's Guide to the Yokai Realms

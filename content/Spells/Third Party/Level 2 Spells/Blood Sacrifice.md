@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-04T21:51:21.083-04:00
-modified: 2026-10-08T01:29:31.266-04:00
-published: 2026-10-08T01:29:31.266-04:00
+created: 2026-10-05T01:51:21.083Z
+modified: 2026-10-08T05:29:31.266Z
+published: 2026-10-08T05:29:31.266Z
 Name: "[[Blood Sacrifice]]"
 Spell Level: Level 2
 School: Necromancy

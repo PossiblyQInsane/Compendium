@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T14:31:20.221-04:00
-modified: 2026-10-08T11:50:36.839-04:00
-published: 2026-10-08T11:50:36.839-04:00
+created: 2026-07-26T18:31:20.221Z
+modified: 2026-10-08T15:50:36.839Z
+published: 2026-10-08T15:50:36.839Z
 Name: "[[Revivify]]"
 Spell Level: Level 3
 School: Necromancy

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-14T22:12:42.705-04:00
-modified: 2026-09-14T22:17:20.576-04:00
-published: 2026-09-14T22:17:20.576-04:00
+created: 2026-09-15T02:12:42.705Z
+modified: 2026-09-15T02:17:20.576Z
+published: 2026-09-15T02:17:20.576Z
 Name: "[[Zephyr Strike]]"
 Spell Level: Level 1
 School: Transmutation

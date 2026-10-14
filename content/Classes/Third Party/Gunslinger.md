@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-02T10:54:24.605-04:00
-modified: 2026-10-13T12:05:41.119-04:00
-published: 2026-10-13T12:05:41.119-04:00
+created: 2026-09-02T14:54:24.605Z
+modified: 2026-10-13T16:05:41.119Z
+published: 2026-10-13T16:05:41.119Z
 Name: "[[Gunslinger]]"
 Source: Valda's Spire of Secrets
 Official: false

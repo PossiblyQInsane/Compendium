@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-10T13:28:36.632-04:00
-modified: 2026-10-08T01:30:28.420-04:00
-published: 2026-10-08T01:30:28.420-04:00
+created: 2026-08-10T17:28:36.632Z
+modified: 2026-10-08T05:30:28.420Z
+published: 2026-10-08T05:30:28.420Z
 Name: "[[Calcified Memories]]"
 Spell Level: Level 2
 School: Divination

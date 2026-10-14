@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-03T01:25:27.593-04:00
-modified: 2026-10-09T01:28:15.334-04:00
-published: 2026-10-09T01:28:15.334-04:00
+created: 2026-08-03T05:25:27.593Z
+modified: 2026-10-09T05:28:15.334Z
+published: 2026-10-09T05:28:15.334Z
 Name: "[[Guards and Wards]]"
 Spell Level: Level 6
 School: Abjuration

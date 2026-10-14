@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-25T23:04:55.856-04:00
-modified: 2026-10-08T00:43:45.496-04:00
-published: 2026-10-08T00:43:45.496-04:00
+created: 2026-07-26T03:04:55.856Z
+modified: 2026-10-08T04:43:45.496Z
+published: 2026-10-08T04:43:45.496Z
 Name: "[[Purify Food and Drink|Purify Food and Drink]]"
 Spell Level: Level 1
 School: Transmutation

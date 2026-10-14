@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-10-13T01:59:06.470-04:00
-modified: 2026-10-13T02:01:59.862-04:00
-published: 2026-10-13T02:01:59.862-04:00
+created: 2026-10-13T05:59:06.470Z
+modified: 2026-10-13T06:01:59.862Z
+published: 2026-10-13T06:01:59.862Z
 Name: "[[Towerfall Tactic]]"
 Spell Level: Level 1
 School: Abjuration

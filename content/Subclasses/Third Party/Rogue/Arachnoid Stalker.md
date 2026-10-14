@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-11T01:19:40.442-04:00
-modified: 2026-09-22T00:53:28.747-04:00
-published: 2026-09-22T00:53:28.747-04:00
+created: 2026-09-11T05:19:40.442Z
+modified: 2026-09-22T04:53:28.747Z
+published: 2026-09-22T04:53:28.747Z
 Name: "[[Arachnoid Stalker]]"
 Parent Class: "[[Rogue]]"
 Source: Valda's Spire of Secrets
