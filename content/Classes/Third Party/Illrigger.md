@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-30T16:07:03.544Z
-modified: 2026-10-12T03:11:59.131Z
-published: 2026-10-12T03:11:59.131Z
+modified: 2026-10-15T05:12:05.285Z
+published: 2026-10-15T05:12:05.285Z
 Name: "[[Illrigger]]"
 Source: The Illrigger Revised
 Official: false
@@ -35,17 +35,17 @@ An illrigger has many powerful abilities granted by their archdevil, but more pr
 
 To create an illrigger, consult the following subsections, which give you hit points, proficiencies, and starting equipment. Then look at the [[#The Illrigger|Illrigger]] table to see which features you get at each level. The descriptions of those features appear in the "[[#Class Features]]" section.
 
-#### Quick Build
+### Quick Build
 
 You can make an illrigger quickly by following these suggestions. First, put your highest ability score in Strength (if you want to focus on melee weapons), Dexterity (if you want to focus on archery or [[finesse]] weapons), or Charisma (if you plan to choose the [[Architect of Ruin]] subclass). Your second highest ability score should be Constitution. Then, choose the soldier or outlander background from the core rules, or any background that gives proficiency in skills such as [[Athletics]], [[Deception]], [[Intimidation]], or [[Persuasion]].
 
-#### Hit Points
+### Hit Points
 
 **Hit Dice:** 1d10 per illrigger level
 **Hit Points at 1st Level:** 10 + your Constitution modifier
 **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per illrigger level after 1st
 
-#### Proficiencies
+### Proficiencies
 
 **Armor:** Light armor, medium armor, shields
 **Weapons:** Simple weapons, martial weapons
@@ -53,7 +53,7 @@ You can make an illrigger quickly by following these suggestions. First, put you
 **Saving Throws:** Constitution, Charisma
 **Skills:** Choose two from [[Arcana]], [[Athletics]], [[Deception]], [[Insight]], [[Intimidation]], [[Investigation]], [[Persuasion]], [[Religion]], [[Stealth]]
 
-#### Equipment
+### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 

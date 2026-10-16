@@ -30,6 +30,7 @@ published: 2026-10-07T15:52:41.176Z
 
 | Name                                                      | Source                                   | Publisher                       | Edition |
 | --------------------------------------------------------- | ---------------------------------------- | ------------------------------- | ------- |
+| [[Classes/Third Party/Bender.md\|Bender]]                 | Ryoko's Guide to the Yokai Realms        | Loot Tavern                     | 5e      |
 | [[Classes/Third Party/Gunslinger.md\|Gunslinger]]         | Valda's Spire of Secrets                 | Mage Hand Press                 | 5.5e    |
 | [[Classes/Third Party/Illrigger.md\|Illrigger]]           | The Illrigger Revised                    | MCDM                            | 5e      |
 | [[Classes/Third Party/Kindred.md\|Kindred]]               | Vampire: The Masquerade - Bound by Blood | Ghostfire Gaming                | 5.5e    |

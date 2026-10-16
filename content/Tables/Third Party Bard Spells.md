@@ -1,18 +1,20 @@
 ### Cantrips (Level 0 Bard Spells)
 
-| Name                                                                            | School      | Special | Source                             | Publisher                       |
-| ------------------------------------------------------------------------------- | ----------- | ------- | ---------------------------------- | ------------------------------- |
-| _[[Spells/Third Party/Cantrips/Baffle.md\|Baffle]]_                             | Enchantment | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Cantrips/Cat's Spring.md\|Cat's Spring]]_                 | Conjuration | —       | Cthulhu by Torchlight              | Chaosium                        |
-| _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_             | Illusion    | —       | Valda's Spire of Secrets           | Mage Hand Press                 |
-| _[[Spells/Third Party/Cantrips/Confounding Shadows.md\|Confounding Shadows]]_   | Conjuration | —       | Cthulhu by Torchlight              | Chaosium                        |
-| _[[Spells/Third Party/Cantrips/Finger Guns.md\|Finger Guns]]_                   | Evocation   | —       | Valda's Spire of Secrets           | Mage Hand Press                 |
-| _[[Spells/Third Party/Cantrips/Jolt.md\|Jolt]]_                                 | Evocation   | —       | Obojima: Tales from the Tall Grass | 1985 Games                      |
-| _[[Spells/Third Party/Cantrips/Misfortunate Missile.md\|Misfortunate Missile]]_ | Divination  | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_   | Illusion    | —       | The Crooked Moon                   | Avantris Entertainment          |
-| _[[Spells/Third Party/Cantrips/Overexposure.md\|Overexposure]]_                 | Divination  | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Cantrips/Phantasmal Feint.md\|Phantasmal Feint]]_         | Illusion    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Cantrips/Smokescreen.md\|Smokescreen]]_                   | Conjuration | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
+| Name                                                                            | School        | Special | Source                             | Publisher                       |
+| ------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ------------------------------- |
+| _[[Spells/Third Party/Cantrips/Baffle.md\|Baffle]]_                             | Enchantment   | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Cat's Spring.md\|Cat's Spring]]_                 | Conjuration   | —       | Cthulhu by Torchlight              | Chaosium                        |
+| _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_             | Illusion      | —       | Valda's Spire of Secrets           | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Confounding Shadows.md\|Confounding Shadows]]_   | Conjuration   | —       | Cthulhu by Torchlight              | Chaosium                        |
+| _[[Spells/Third Party/Cantrips/Dash Strike.md\|Dash Strike]]_                   | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Finger Guns.md\|Finger Guns]]_                   | Evocation     | —       | Valda's Spire of Secrets           | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Jolt.md\|Jolt]]_                                 | Evocation     | —       | Obojima: Tales from the Tall Grass | 1985 Games                      |
+| _[[Spells/Third Party/Cantrips/Misfortunate Missile.md\|Misfortunate Missile]]_ | Divination    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_   | Illusion      | —       | The Crooked Moon                   | Avantris Entertainment          |
+| _[[Spells/Third Party/Cantrips/Overexposure.md\|Overexposure]]_                 | Divination    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Phantasmal Feint.md\|Phantasmal Feint]]_         | Illusion      | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Smokescreen.md\|Smokescreen]]_                   | Conjuration   | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Soften Descent.md\|Soften Descent]]_             | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
 
 ### Level 1 Bard Spells
 
@@ -23,7 +25,9 @@
 | _[[Spells/Third Party/Level 1 Spells/Daydream.md\|Daydream]]_                           | Enchantment   | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/Delay.md\|Delay]]_                                 | Transmutation | —       | Valda's Spire of Secrets           | Mage Hand Press                 |
 | _[[Spells/Third Party/Level 1 Spells/Duplicate.md\|Duplicate]]_                         | Conjuration   | —       | Obojima: Tales from the Tall Grass | 1985 Games                      |
+| _[[Spells/Third Party/Level 1 Spells/Flash.md\|Flash]]_                                 | Evocation     | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/Forced Hesitation.md\|Forced Hesitation]]_         | Enchantment   | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Level 1 Spells/Repulsing Palm.md\|Repulsing Palm]]_               | Evocation     | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/See Future Death.md\|See Future Death]]_           | Divination    | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/Shroud Blood.md\|Shroud Blood]]_                   | Illusion      | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 1 Spells/Somnolence.md\|Somnolence]]_                       | Enchantment   | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
@@ -33,30 +37,34 @@
 
 ### Level 2 Bard Spells
 
-| Name                                                                        | School        | Special | Source                             | Publisher        |
-| --------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ---------------- |
-| _[[Spells/Third Party/Level 2 Spells/Blood Wisp.md\|Blood Wisp]]_           | Evocation     | M       | Grim Hollow: Player's Guide        | Ghostfire Gaming |
-| _[[Spells/Third Party/Level 2 Spells/Ember Belly.md\|Ember Belly]]_         | Evocation     | M       | Obojima: Tales from the Tall Grass | 1985 Games       |
-| _[[Spells/Third Party/Level 2 Spells/Feline Grace.md\|Feline Grace]]_       | Transmutation | —       | Cthulhu by Torchlight              | Chaosium         |
-| _[[Spells/Third Party/Level 2 Spells/Hangover.md\|Hangover]]_               | Enchantment   | —       | Valda's Spire of Secrets           | Mage Hand Press  |
-| _[[Spells/Third Party/Level 2 Spells/Protection (Spell).md\|Protection]]_   | Abjuration    | C, M    | Heliana's Guide to Monster Hunting | Loot Tavern      |
-| _[[Spells/Third Party/Level 2 Spells/Spell Signature.md\|Spell Signature]]_ | Divination    | —       | Obojima: Tales from the Tall Grass | 1985 Games       |
-| _[[Spells/Third Party/Level 2 Spells/Transparency.md\|Transparency]]_       | Illusion      | —       | Obojima: Tales from the Tall Grass | 1985 Games       |
+| Name                                                                                  | School        | Special | Source                             | Publisher        |
+| ------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ---------------- |
+| _[[Spells/Third Party/Level 2 Spells/Blood Wisp.md\|Blood Wisp]]_                     | Evocation     | M       | Grim Hollow: Player's Guide        | Ghostfire Gaming |
+| _[[Spells/Third Party/Level 2 Spells/Bloodweave.md\|Bloodweave]]_                     | Enchantment   | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern      |
+| _[[Spells/Third Party/Level 2 Spells/Ember Belly.md\|Ember Belly]]_                   | Evocation     | M       | Obojima: Tales from the Tall Grass | 1985 Games       |
+| _[[Spells/Third Party/Level 2 Spells/Feline Grace.md\|Feline Grace]]_                 | Transmutation | —       | Cthulhu by Torchlight              | Chaosium         |
+| _[[Spells/Third Party/Level 2 Spells/Hangover.md\|Hangover]]_                         | Enchantment   | —       | Valda's Spire of Secrets           | Mage Hand Press  |
+| _[[Spells/Third Party/Level 2 Spells/Mirror of Reflection.md\|Mirror of Reflection]]_ | Conjuration   | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern      |
+| _[[Spells/Third Party/Level 2 Spells/Protection (Spell).md\|Protection]]_             | Abjuration    | C, M    | Heliana's Guide to Monster Hunting | Loot Tavern      |
+| _[[Spells/Third Party/Level 2 Spells/Shielding Word.md\|Shielding Word]]_             | Abjuration    | —       | Heliana's Guide to Monster Hunting | Loot Tavern      |
+| _[[Spells/Third Party/Level 2 Spells/Spell Signature.md\|Spell Signature]]_           | Divination    | —       | Obojima: Tales from the Tall Grass | 1985 Games       |
+| _[[Spells/Third Party/Level 2 Spells/Transparency.md\|Transparency]]_                 | Illusion      | —       | Obojima: Tales from the Tall Grass | 1985 Games       |
 
 ### Level 3 Bard Spells
 
-| Name                                                                        | School        | Special | Source                             | Publisher                       |
-| --------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ------------------------------- |
-| _[[Spells/Official/Level 3 Spells/Mireball.md\|Mireball]]_                  | Conjuration   | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
-| _[[Spells/Third Party/Level 3 Spells/Extract Iron.md\|Extract Iron]]_       | Transmutation | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
-| _[[Spells/Third Party/Level 3 Spells/Flashbang.md\|Flashbang]]_             | Evocation     | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
-| _[[Spells/Third Party/Level 3 Spells/Phantom Panther.md\|Phantom Panther]]_ | Conjuration   | C       | Cthulhu by Torchlight              | Chaosium                        |
-| _[[Spells/Third Party/Level 3 Spells/Sanguine Poppet.md\|Sanguine Poppet]]_ | Transmutation | C, M    | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
-| _[[Spells/Third Party/Level 3 Spells/Strike Order.md\|Strike Order]]_       | Enchantment   | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Level 3 Spells/Suffocate.md\|Suffocate]]_             | Conjuration   | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
-| _[[Spells/Third Party/Level 3 Spells/Switcheroo.md\|Switcheroo]]_           | Transmutation | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
-| _[[Spells/Third Party/Level 3 Spells/Waypoint.md\|Waypoint]]_               | Conjuration   | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Level 3 Spells/Zippit!.md\|Zippit!]]_                 | Biomancy      | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
+| Name                                                                              | School        | Special | Source                             | Publisher                       |
+| --------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ------------------------------- |
+| _[[Spells/Official/Level 3 Spells/Mireball.md\|Mireball]]_                        | Conjuration   | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
+| _[[Spells/Third Party/Level 3 Spells/Extract Iron.md\|Extract Iron]]_             | Transmutation | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 3 Spells/Flashbang.md\|Flashbang]]_                   | Evocation     | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
+| _[[Spells/Third Party/Level 3 Spells/Phantom Panther.md\|Phantom Panther]]_       | Conjuration   | C       | Cthulhu by Torchlight              | Chaosium                        |
+| _[[Spells/Third Party/Level 3 Spells/Ryoko's Revelation.md\|Ryoko's Revelation]]_ | Divination    | C       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
+| _[[Spells/Third Party/Level 3 Spells/Sanguine Poppet.md\|Sanguine Poppet]]_       | Transmutation | C, M    | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 3 Spells/Strike Order.md\|Strike Order]]_             | Enchantment   | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Level 3 Spells/Suffocate.md\|Suffocate]]_                   | Conjuration   | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 3 Spells/Switcheroo.md\|Switcheroo]]_                 | Transmutation | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
+| _[[Spells/Third Party/Level 3 Spells/Waypoint.md\|Waypoint]]_                     | Conjuration   | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Level 3 Spells/Zippit!.md\|Zippit!]]_                       | Biomancy      | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 
 ### Level 4 Bard Spells
 
@@ -74,9 +82,11 @@
 | ----------------------------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ------------------------------- |
 | _[[Spells/Third Party/Level 5 Spells/Create Spirit Train Stop.md\|Create Spirit Train Stop]]_               | Conjuration   | M       | Obojima: Tales from the Tall Grass | 1985 Games                      |
 | _[[Spells/Third Party/Level 5 Spells/Feline Chaos.md\|Feline Chaos]]_                                       | Conjuration   | C       | Cthulhu by Torchlight              | Chaosium                        |
+| _[[Spells/Third Party/Level 5 Spells/Iminada's Umigiri.md\|Iminada's Umigiri]]_                             | Illusion      | C       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
 | _[[Spells/Third Party/Level 5 Spells/Incite Riot.md\|Incite Riot]]_                                         | Enchantment   | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 5 Spells/Lucky Charm.md\|Lucky Charm]]_                                         | Transmutation | C       | The Crooked Moon                   | Avantris Entertainment          |
 | _[[Spells/Third Party/Level 5 Spells/Magatsuchi’s Lantern.md\|Magatsuchi’s Lantern]]_                       | Illusion      | C       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
+| _[[Spells/Third Party/Level 5 Spells/Nomi's Adamantine Carapace.md\|Nomi's Adamantine Carapace]]_           | Biomancy      | C, M    | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
 | _[[Spells/Third Party/Level 5 Spells/Reflect Magic.md\|Reflect Magic]]_                                     | Abjuration    | M       | The Magus Class                    | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Level 5 Spells/Tamh Gon's Fiery Festival Feast.md\|Tamh Gon's Fiery Festival Feast]]_ | Abjuration    | M       | Obojima: Tales from the Tall Grass | 1985 Games                      |
 
