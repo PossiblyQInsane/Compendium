@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-02T22:29:00.601Z
-modified: 2026-10-16T15:13:37.585Z
-published: 2026-10-16T15:13:37.585Z
+modified: 2026-10-17T04:54:44.621Z
+published: 2026-10-17T04:54:44.621Z
 Name: "[[Disciple of Ferocity]]"
 Parent Class: "[[Bender]]"
 Source: Ryoko's Guide to the Yokai Realms
@@ -32,7 +32,10 @@ The following spells are added to your bender spell list. They always take the f
 |     5th      | _[[Magic Weapon]]_        |
 |     9th      | _[[Blink]]_\*\*           |
 |     13th     | _[[Guardian of Faith]]_\* |
-|     17th     | _[[Bigby's Hand]]_\*      | <small>\*The damage type is one for which you have affinity instead of what is specified (you choose when you cast the spell).</small> <small>\*\*You move to a Border-Elemental Plane associated with your Elemental Affinity</small>
+|     17th     | _[[Bigby's Hand]]_\*      |
+
+<div><small>*The damage type is one for which you have affinity instead of what is specified (you choose when you cast the spell).</small></div>
+<div><small>**You move to a Border-Elemental Plane associated with your Elemental Affinity</small></div>
 
 ### Level 3: Martial Proficiencies
 

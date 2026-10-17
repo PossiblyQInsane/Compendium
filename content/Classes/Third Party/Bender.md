@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-02T22:28:24.078Z
-modified: 2026-10-16T16:13:20.815Z
-published: 2026-10-16T16:13:20.815Z
+modified: 2026-10-17T04:56:22.191Z
+published: 2026-10-17T04:56:22.191Z
 Name: "[[Bender]]"
 Source: Ryoko's Guide to the Yokai Realms
 Official: false
@@ -29,7 +29,7 @@ You can make a bender quickly by following these suggestions. First, put your hi
 
 <table>
 <thead>
-<tr><th rowspan="2" style="text-align:center">Level</th><th rowspan="2" style="text-align:center">Proficiency Bonus</th><th rowspan="2" style="text-align:left">Class Features</th><th rowspan="2" style="text-align:center">Cantrips Known*</th><th colspan="5" style="text-align:center">—Spell Slots per Spell Level—</th></tr>
+<tr><th rowspan="2" style="text-align:center">Level</th><th rowspan="2" style="text-align:center">Proficiency Bonus</th><th rowspan="2" style="text-align:left">Class Features</th><th rowspan="2" style="text-align:center">Cantrips Known*</th><th colspan="5" style="text-align:center; white-space:nowrap;">—Spell Slots per Spell Level—</th></tr>
 <tr><th style="text-align:center">1st</th><th style="text-align:center">2nd</th><th style="text-align:center">3rd</th><th style="text-align:center">4th</th><th style="text-align:center">5th</th></tr>
 </thead>
 <tbody>

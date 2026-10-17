@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-02T22:29:00.601Z
-modified: 2026-10-16T15:40:05.227Z
-published: 2026-10-16T15:40:05.227Z
+modified: 2026-10-17T04:54:07.824Z
+published: 2026-10-17T04:54:07.824Z
 Name: "[[Disciple of Fortification]]"
 Parent Class: "[[Bender]]"
 Source: Ryoko's Guide to the Yokai Realms
@@ -30,7 +30,9 @@ The following spells are added to your bender spell list. They always take the f
 |     5th      | _[[Shielding Word]]_             |
 |     9th      | _[[Protection from Energy]]_\*   |
 |     13th     | _[[Otiluke's Resilient Sphere]]_ |
-|     17th     | _[[Endure]]_                     | <small>\*Must be a damage type for which you have affinity.</small>
+|     17th     | _[[Endure]]_                     |
+
+<div><small>*Must be a damage type for which you have affinity.</small></div>
 
 ### Level 3: Defensive Proficiencies
 

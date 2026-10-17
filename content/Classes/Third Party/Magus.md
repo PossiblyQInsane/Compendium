@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-30T16:07:03.544Z
-modified: 2026-10-14T05:50:18.734Z
-published: 2026-10-14T05:50:18.734Z
+modified: 2026-10-17T04:55:52.235Z
+published: 2026-10-17T04:55:52.235Z
 Name: "[[Magus]]"
 Source: The Magus Class
 Official: false
@@ -54,7 +54,7 @@ As a Magus, you gain the following class features when you reach the specified M
 
 <table>
 <thead>
-<tr><th rowspan="2" style="text-align:center">Level</th><th rowspan="2" style="text-align:center">Proficiency Bonus</th><th rowspan="2">Class Features</th><th rowspan="2" style="text-align:center">Cantrips</th><th rowspan="2" style="text-align:center">Prepared Spells</th><th colspan="5" style="text-align:center">—Spell Slots per Spell Level—</th></tr>
+<tr><th rowspan="2" style="text-align:center">Level</th><th rowspan="2" style="text-align:center">Proficiency Bonus</th><th rowspan="2">Class Features</th><th rowspan="2" style="text-align:center">Cantrips</th><th rowspan="2" style="text-align:center">Prepared Spells</th><th colspan="5" style="text-align:center; white-space:nowrap;">—Spell Slots per Spell Level—</th></tr>
 <tr><th style="text-align:center">1st</th><th style="text-align:center">2nd</th><th style="text-align:center">3rd</th><th style="text-align:center">4th</th><th style="text-align:center">5th</th></tr>
 </thead>
 <tbody>
