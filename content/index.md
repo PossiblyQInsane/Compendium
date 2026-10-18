@@ -37,3 +37,4 @@ published: 2026-10-07T15:52:41.176Z
 | [[Classes/Third Party/Magus.md\|Magus]]                   | The Magus Class                          | Sterling Vermin Adventuring Co. | 5.5e    |
 | [[Classes/Third Party/Monster Hunter.md\|Monster Hunter]] | Grim Hollow: Player's Guide              | Ghostfire Gaming                | 5.5e    |
 | [[Classes/Third Party/Pugilist.md\|Pugilist]]             | The Pugilist Class                       | Sterling Vermin Adventuring Co. | 5.5e    |
+| [[Classes/Third Party/Tamer.md\|Tamer]]                   | Heliana's Guide to Monster Hunting       | Loot Tavern                     | 5e      |

@@ -7,7 +7,9 @@
 | _[[Spells/Third Party/Level 1 Spells/Boil Blood.md\|Boil Blood]]_                   | Transmutation | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 1 Spells/Chameleon Skin.md\|Chameleon Skin]]_           | Biomancy      | C       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/Elevated Sight.md\|Elevated Sight]]_           | Divination    | C       | Humblewood Campaign Setting             | Hit Point Press                 |
+| _[[Spells/Third Party/Level 1 Spells/Flipperform.md\|Flipperform]]_                 | Biomancy      | R       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/Forced Hesitation.md\|Forced Hesitation]]_     | Enchantment   | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Level 1 Spells/Initiative (Spell).md\|Initiative]]_           | Enchantment   | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/Inner Flame.md\|Inner Flame]]_                 | Abjuration    | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/Repulsing Palm.md\|Repulsing Palm]]_           | Evocation     | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/Shroud Blood.md\|Shroud Blood]]_               | Illusion      | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |

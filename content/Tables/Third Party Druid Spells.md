@@ -3,19 +3,24 @@
 | Name                                                                          | School        | Special | Source                             | Publisher                       |
 | ----------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ------------------------------- |
 | _[[Spells/Third Party/Cantrips/Bitter Wind.md\|Bitter Wind]]_                 | Necromancy    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Can't Trip.md\|Can't Trip]]_                   | Abjuration    | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Cat's Spring.md\|Cat's Spring]]_               | Conjuration   | —       | Cthulhu by Torchlight              | Chaosium                        |
 | _[[Spells/Third Party/Cantrips/Caustic Claw.md\|Caustic Claw]]_               | Transmutation | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_           | Illusion      | —       | Valda's Spire of Secrets           | Mage Hand Press                 |
 | _[[Spells/Third Party/Cantrips/Concussion.md\|Concussion]]_                   | Evocation     | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Dash Strike.md\|Dash Strike]]_                 | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Earthen Fist.md\|Earthen Fist]]_               | Conjuration   | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Ferocious Strike.md\|Ferocious Strike]]_       | Biomancy      | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Give Life.md\|Give Life]]_                     | Transmutation | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Howl.md\|Howl]]_                               | Transmutation | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Incendiary Strike.md\|Incendiary Strike]]_     | Evocation     | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_ | Illusion      | —       | The Crooked Moon                   | Avantris Entertainment          |
 | _[[Spells/Third Party/Cantrips/Pins & Needles.md\|Pins & Needles]]_           | Biomancy      | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Primal Scent.md\|Primal Scent]]_               | Divination    | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Reinforce.md\|Reinforce]]_                     | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Smokescreen.md\|Smokescreen]]_                 | Conjuration   | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Soften Descent.md\|Soften Descent]]_           | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Stalker's Eye.md\|Stalker's Eye]]_             | Enchantment   | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Swarm.md\|Swarm]]_                             | Biomancy      | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Thornhold.md\|Thornhold]]_                     | Abjuration    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Cantrips/Water Whip.md\|Water Whip]]_                   | Transmutation | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
@@ -33,6 +38,7 @@
 | _[[Spells/Third Party/Level 1 Spells/Earthen Uppercut.md\|Earthen Uppercut]]_       | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
 | _[[Spells/Third Party/Level 1 Spells/Elevated Sight.md\|Elevated Sight]]_           | Divination    | C       | Humblewood Campaign Setting        | Hit Point Press        |
 | _[[Spells/Third Party/Level 1 Spells/Flash.md\|Flash]]_                             | Evocation     | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
+| _[[Spells/Third Party/Level 1 Spells/Flipperform.md\|Flipperform]]_                 | Biomancy      | R       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 1 Spells/Ice Moon.md\|Ice Moon]]_                       | Conjuration   | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
 | _[[Spells/Third Party/Level 1 Spells/Inner Flame.md\|Inner Flame]]_                 | Abjuration    | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
 | _[[Spells/Third Party/Level 1 Spells/See Future Death.md\|See Future Death]]_       | Divination    | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
@@ -51,6 +57,7 @@
 | _[[Spells/Third Party/Level 2 Spells/Calm Flames.md\|Calm Flames]]_                   | Transmutation | C       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 | _[[Spells/Third Party/Level 2 Spells/Calm Waters.md\|Calm Waters]]_                   | Transmutation | C       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 | _[[Spells/Third Party/Level 2 Spells/Earthskin.md\|Earthskin]]_                       | Biomancy      | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
+| _[[Spells/Third Party/Level 2 Spells/Eelskin.md\|Eelskin]]_                           | Biomancy      | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Level 2 Spells/Endoleech.md\|Endoleech]]_                       | Biomancy      | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Level 2 Spells/Feline Grace.md\|Feline Grace]]_                 | Transmutation | —       | Cthulhu by Torchlight                   | Chaosium               |
 | _[[Spells/Third Party/Level 2 Spells/Lifesap Aura.md\|Lifesap Aura]]_                 | Necromancy    | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
@@ -78,9 +85,11 @@
 | _[[Spells/Third Party/Level 3 Spells/Extract Iron.md\|Extract Iron]]_                 | Transmutation | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 3 Spells/Flaming Tiger Leap.md\|Flaming Tiger Leap]]_     | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
 | _[[Spells/Third Party/Level 3 Spells/Flash Fever.md\|Flash Fever]]_                   | Necromancy    | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 3 Spells/Food Coma.md\|Food Coma]]_                       | Enchantment   | R, M    | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Level 3 Spells/Freedom of the Waves.md\|Freedom of the Waves]]_ | Conjuration   | —       | Tal'Dorei Campaign Setting Reborn  | Darrington Press                |
 | _[[Spells/Third Party/Level 3 Spells/Globe of Twilight.md\|Globe of Twilight]]_       | Conjuration   | C       | Humblewood Campaign Setting        | Hit Point Press                 |
 | _[[Spells/Third Party/Level 3 Spells/Harvest Moonglow.md\|Harvest Moonglow]]_         | Evocation     | —       | The Crooked Moon                   | Avantris Entertainment          |
+| _[[Spells/Third Party/Level 3 Spells/Influenza.md\|Influenza]]_                       | Biomancy      | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Level 3 Spells/Mortal Terror.md\|Mortal Terror]]_               | Enchantment   | C       | The Magus Class                    | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Level 3 Spells/Phantom Panther.md\|Phantom Panther]]_           | Conjuration   | C       | Cthulhu by Torchlight              | Chaosium                        |
 | _[[Spells/Third Party/Level 3 Spells/Reanimate.md\|Reanimate]]_                       | Evocation     | M       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
@@ -112,6 +121,7 @@
 | Name                                                                                              | School        | Special | Source                             | Publisher              |
 | ------------------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ---------------------- |
 | _[[Spells/Third Party/Level 5 Spells/Bakuryō’s Blessèd Blizzard.md\|Bakuryō’s Blessèd Blizzard]]_ | Conjuration   | C, M    | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
+| _[[Spells/Third Party/Level 5 Spells/Bone Cage.md\|Bone Cage]]_                                   | Biomancy      | M       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Cyclone.md\|Cyclone]]_                                       | Evocation     | C       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Endure.md\|Endure]]_                                         | Necromancy    | M       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Eruption.md\|Eruption]]_                                     | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
@@ -119,6 +129,7 @@
 | _[[Spells/Third Party/Level 5 Spells/Feverskin.md\|Feverskin]]_                                   | Biomancy      | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Field of Reaping.md\|Field of Reaping]]_                     | Necromancy    | C       | The Crooked Moon                   | Avantris Entertainment |
 | _[[Spells/Third Party/Level 5 Spells/Freedom of the Winds.md\|Freedom of the Winds]]_             | Abjuration    | C       | Tal'Dorei Campaign Setting Reborn  | Darrington Press       |
+| _[[Spells/Third Party/Level 5 Spells/Incorporeality.md\|Incorporeality]]_                         | Transmutation | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Magatsuchi’s Lantern.md\|Magatsuchi’s Lantern]]_             | Illusion      | C       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Nomi's Adamantine Carapace.md\|Nomi's Adamantine Carapace]]_ | Biomancy      | C, M    | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Submerge.md\|Submerge]]_                                     | Conjuration   | —       | Obojima: Tales from the Tall Grass | 1985 Games             |

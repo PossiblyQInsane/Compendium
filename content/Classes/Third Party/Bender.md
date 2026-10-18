@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-02T22:28:24.078Z
-modified: 2026-10-17T04:56:22.191Z
-published: 2026-10-17T04:56:22.191Z
+modified: 2026-10-17T11:21:42.309Z
+published: 2026-10-17T11:21:42.309Z
 Name: "[[Bender]]"
 Source: Ryoko's Guide to the Yokai Realms
 Official: false
@@ -21,7 +21,7 @@ The clack of jagged obsidian, splash of glacial water, and warmth of flaming edd
 
 These benders, as disparate as their affinities might be, are defined by their connection with the elements: a magic manifested through precise and practised movements. More than a martial art, their motions are a spectacular union of magical and physical virtuosity, each twist and flick a nuanced touch of the Weave. For some, this is a weapon of war, of thunderclaps and fists of rock. For others, this is a tool to preserve, to craft shields of ice and invigorate with an inner flame. Whether a bender chooses to study all the elements—earth, air, water, and fire—or to master just one, the primordial forces of nature are theirs to command.
 
-### Quick Build
+#### Quick Build
 
 You can make a bender quickly by following these suggestions. First, put your highest ability score in the ability you choose for your spellcasting: Intelligence, Wisdom, or Charisma, followed by Dexterity. Second, choose the elementalist background.
 
@@ -59,13 +59,13 @@ You can make a bender quickly by following these suggestions. First, put your hi
 
 ## Class Features
 
-### Hit Points
+#### Hit Points
 
 **Hit Dice:** 1d8 per bender level
 **Hit Points at 1st Level:** 8 + your Constitution modifier
 **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per bender level after 1st
 
-### Proficiencies
+#### Proficiencies
 
 **Armour:** Light armour
 **Weapons:** Simple weapons, [[chakram|chakrams]], [[nunchaku]], [[shortsword|shortswords]], [[shuriken]], [[starknife|starknives]], [[twinblade|twinblades]]
@@ -73,7 +73,7 @@ You can make a bender quickly by following these suggestions. First, put your hi
 **Saving Throws:** Strength, Constitution
 **Skills:** Choose two from [[Acrobatics]], [[Athletics]],[[ History]], [[Insight]], [[Religion]], and [[Stealth]]
 
-### Equipment
+#### Equipment
 
 You start with the following items, in addition to anything provided by your background:
 
@@ -82,7 +82,7 @@ You start with the following items, in addition to anything provided by your bac
 - Leather armour and 10 [[shuriken]]
   If you forgo this starting equipment, as well as the items offered by your background, you start with 5d4 x 10 gp to buy your equipment.
 
-### Multiclassing
+#### Multiclassing
 
 _**Ability Score Minimum.**_ As a multiclass character, you must have at least a 13 in the spellcasting ability from your bender Spellcasting feature to take a level in this class, or to take a level in another class if you are already a bender.
 
