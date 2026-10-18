@@ -796,4 +796,5 @@ A Bard subclass is a specialization that grants you features at certain Bard lev
 | [[Subclasses/Third Party/Bard/College of Tragedy.md\|College of Tragedy]]                   | Tal'Dorei Campaign Setting Reborn  | Darrington Press        | 5e      |
 | [[Subclasses/Third Party/Bard/College of Wands.md\|College of Wands]]                       | Frontiers of Eberron: Quickstone   | Visionary               | 5.5e    |
 | [[Subclasses/Third Party/Bard/College of Whistles.md\|College of Whistles]]                 | The Crooked Moon                   | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Bard/Intoner.md\|The Intoner]]                                     | Hexbound                           | Hit Point Press         | 5e      |
 | [[Subclasses/Third Party/Bard/Skald.md\|Skald]]                                             | Northlands Worldbook               | Kobold Press            | 5.5e    |
