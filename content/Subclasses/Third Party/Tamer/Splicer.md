@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T20:50:33.646Z
-modified: 2026-10-18T04:09:02.084Z
-published: 2026-10-18T04:09:02.084Z
+modified: 2026-10-18T04:10:03.421Z
+published: 2026-10-18T04:10:03.421Z
 Name: "[[Splicer]]"
 Parent Class: "[[Tamer]]"
 Source: Heliana's Guide to Monster Hunting
@@ -37,7 +37,7 @@ _**Surgeon’s Tools.**_ You also gain proficiency with [[surgeon's tools]]. You
 <tr><td style="text-align:center"><a href="#amphibious">Amphibious</a></td><td style="text-align:center">Can breathe air and water</td><td style="text-align:center">1</td></tr>
 <tr><td style="text-align:center"><a href="#darkvision">Darkvision</a></td><td style="text-align:center">Gains or extends darkvision</td><td style="text-align:center">1</td></tr>
 <tr><td style="text-align:center"><a href="#extra-limb">Extra Limb</a>*</td><td style="text-align:center">Can grapple more creatures</td><td style="text-align:center">1 per limb</td></tr>
-<tr><td style="text-align:center"><a href="#fins-&-webbing">Fins &amp; Webbing</a></td><td style="text-align:center">Gains 30-foot swimming speed</td><td style="text-align:center">1</td></tr>
+<tr><td style="text-align:center"><a href="#fins--webbing">Fins &amp; Webbing</a></td><td style="text-align:center">Gains 30-foot swimming speed</td><td style="text-align:center">1</td></tr>
 <tr><td style="text-align:center"><a href="#illumination">Illumination</a></td><td style="text-align:center">Sheds light (10 ft./10 ft.)</td><td style="text-align:center">1</td></tr>
 <tr><td style="text-align:center"><a href="#keen-hearing">Keen Hearing</a></td><td style="text-align:center">Advantage on hearing</td><td style="text-align:center">1</td></tr>
 <tr><td style="text-align:center"><a href="#keen-sight">Keen Sight</a></td><td style="text-align:center">Advantage on sight</td><td style="text-align:center">1</td></tr>
@@ -46,7 +46,7 @@ _**Surgeon’s Tools.**_ You also gain proficiency with [[surgeon's tools]]. You
 <tr><td style="text-align:center"><a href="#prehensile-tail">Prehensile Tail</a></td><td style="text-align:center">Gains 30-foot climbing speed</td><td style="text-align:center">1</td></tr>
 <tr><td style="text-align:center"><a href="#slippery">Slippery</a></td><td style="text-align:center">Advantage to avoid grapples</td><td style="text-align:center">1</td></tr>
 <tr><td style="text-align:center"><a href="#sure-footed">Sure-Footed</a></td><td style="text-align:center">Advantage to resist prone</td><td style="text-align:center">1</td></tr>
-<tr><td style="text-align:center"><a href="#web-sense-+-web-walk">Web Sense + Web Walk</a></td><td style="text-align:center">Can sense and walk on webs</td><td style="text-align:center">1</td></tr>
+<tr><td style="text-align:center"><a href="#web-sense--web-walk">Web Sense + Web Walk</a></td><td style="text-align:center">Can sense and walk on webs</td><td style="text-align:center">1</td></tr>
 <tr><td colspan="3" style="text-align:left; font-style:italic; font-weight:bold;">Cost: 2 Splicer Points</td></tr>
 <tr><td style="text-align:center"><a href="#burrowing-claws">Burrowing Claws</a></td><td style="text-align:center">Gains 15-foot burrowing speed</td><td style="text-align:center">2</td></tr>
 <tr><td style="text-align:center"><a href="#long-limbed">Long Limbed</a></td><td style="text-align:center">Increases reach of attacks</td><td style="text-align:center">2</td></tr>
@@ -60,7 +60,7 @@ _**Surgeon’s Tools.**_ You also gain proficiency with [[surgeon's tools]]. You
 <tr><td style="text-align:center"><a href="#tremorsense">Tremorsense</a></td><td style="text-align:center">Gains or extends tremorsense</td><td style="text-align:center">3 per 15 ft.</td></tr>
 <tr><td style="text-align:center"><a href="#wings">Wings</a></td><td style="text-align:center">Gains 30-foot flying speed</td><td style="text-align:center">3</td></tr>
 <tr><td colspan="3" style="text-align:left; font-style:italic; font-weight:bold;">Cost: 4 Splicer Points</td></tr>
-<tr><td style="text-align:center"><a href="#blindsight-+-echolocation">Blindsight + Echolocation</a></td><td style="text-align:center">Gains or extends blindsight</td><td style="text-align:center">4 per 15 ft.</td></tr>
+<tr><td style="text-align:center"><a href="#blindsight--echolocation">Blindsight + Echolocation</a></td><td style="text-align:center">Gains or extends blindsight</td><td style="text-align:center">4 per 15 ft.</td></tr>
 <tr><td style="text-align:center"><a href="#decaying-touch">Decaying Touch</a>***</td><td style="text-align:center">Deals bonus necrotic damage</td><td style="text-align:center">4</td></tr>
 <tr><td style="text-align:center"><a href="#flyby">Flyby</a></td><td style="text-align:center">Doesn't provoke opportunity attacks</td><td style="text-align:center">4</td></tr>
 <tr><td style="text-align:center"><a href="#growth-hormone">Growth Hormone</a>****</td><td style="text-align:center">Increases size category and HP</td><td style="text-align:center">4</td></tr>
