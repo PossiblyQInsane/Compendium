@@ -188,3 +188,4 @@ A Fighter subclass is a specialization that grants you features at certain Fight
 | [[Subclasses/Third Party/Fighter/Spirit-Fused Fighter.md\|Spirit-Fused Fighter]] | Obojima: Tales from the Tall Grass        | 1985 Games              | 5.5e    |
 | [[Subclasses/Third Party/Fighter/Steel Hawk.md\|Steel Hawk]]                     | The Griffon's Saddlebag: Book Two         | The Griffon's Saddlebag | 5e      |
 | [[Subclasses/Third Party/Fighter/Viking.md\|Viking]]                             | Northlands Worldbook                      | Kobold Press            | 5.5e    |
+| [[Subclasses/Third Party/Fighter/Witchblade.md\|The Witchblade]]                 | Hexbound                                  | Hit Point Press         | 5e      |

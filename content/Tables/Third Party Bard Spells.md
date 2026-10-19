@@ -55,6 +55,7 @@
 | _[[Spells/Third Party/Level 2 Spells/Spell Signature.md\|Spell Signature]]_           | Divination    | —       | Obojima: Tales from the Tall Grass | 1985 Games       |
 | _[[Spells/Third Party/Level 2 Spells/Sugar Rush.md\|Sugar Rush]]_                     | Biomancy      | C       | Heliana's Guide to Monster Hunting | Loot Tavern      |
 | _[[Spells/Third Party/Level 2 Spells/Transparency.md\|Transparency]]_                 | Illusion      | —       | Obojima: Tales from the Tall Grass | 1985 Games       |
+| _[[Spells/Third Party/Level 2 Spells/Vile Visage.md\|Vile Visage]]_                   | Illusion      | C, R    | Hexbound                           | Hit Point Press  |
 
 ### Level 3 Bard Spells
 
@@ -78,6 +79,7 @@
 | Name                                                                            | School        | Special | Source                                  | Publisher              |
 | ------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ---------------------- |
 | _[[Spells/Third Party/Level 4 Spells/Dread Scarecrow.md\|Dread Scarecrow]]_     | Illusion      | C, M    | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
+| _[[Spells/Third Party/Level 4 Spells/Enhance Talent.md\|Enhance Talent]]_       | Abjuration    | C       | Hexbound                                | Hit Point Press        |
 | _[[Spells/Third Party/Level 4 Spells/Intrusive Despair.md\|Intrusive Despair]]_ | Enchantment   | C       | The Crooked Moon                        | Avantris Entertainment |
 | _[[Spells/Third Party/Level 4 Spells/Puppet Master.md\|Puppet Master]]_         | Enchantment   | C       | The Crooked Moon                        | Avantris Entertainment |
 | _[[Spells/Third Party/Level 4 Spells/Rock Tomb.md\|Rock Tomb]]_                 | Conjuration   | C       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
@@ -97,6 +99,7 @@
 | _[[Spells/Third Party/Level 5 Spells/Nomi's Adamantine Carapace.md\|Nomi's Adamantine Carapace]]_           | Biomancy      | C, M    | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
 | _[[Spells/Third Party/Level 5 Spells/Reflect Magic.md\|Reflect Magic]]_                                     | Abjuration    | M       | The Magus Class                    | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Level 5 Spells/Tamh Gon's Fiery Festival Feast.md\|Tamh Gon's Fiery Festival Feast]]_ | Abjuration    | M       | Obojima: Tales from the Tall Grass | 1985 Games                      |
+| _[[Spells/Third Party/Level 5 Spells/Unrecall.md\|Unrecall]]_                                               | Enchantment   | C       | Hexbound                           | Hit Point Press                 |
 
 ### Level 6 Bard Spells
 

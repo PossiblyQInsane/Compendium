@@ -43,6 +43,7 @@
 | _[[Spells/Third Party/Level 1 Spells/Inner Flame.md\|Inner Flame]]_                 | Abjuration    | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
 | _[[Spells/Third Party/Level 1 Spells/See Future Death.md\|See Future Death]]_       | Divination    | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
 | _[[Spells/Third Party/Level 1 Spells/Shroud Blood.md\|Shroud Blood]]_               | Illusion      | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 1 Spells/Toil and Trouble.md\|Toil and Trouble]]_       | Necromancy    | —       | Hexbound                           | Hit Point Press        |
 | _[[Spells/Third Party/Level 1 Spells/Veil of Dusk.md\|Veil of Dusk]]_               | Abjuration    | C       | Humblewood Campaign Setting        | Hit Point Press        |
 | _[[Spells/Third Party/Level 1 Spells/Water Bullet.md\|Water Bullet]]_               | Evocation     | —       | Obojima: Tales from the Tall Grass | 1985 Games             |
 | _[[Spells/Third Party/Level 1 Spells/Whelm Weapon.md\|Whelm Weapon]]_               | Transmutation | C       | Obojima: Tales from the Tall Grass | 1985 Games             |

@@ -312,6 +312,7 @@ Each of these subclasses represents a body of oaths that a Paladin begins taking
 | [[Subclasses/Third Party/Paladin/Oath of Pestilence.md\|Oath of Pestilence]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
 | [[Subclasses/Third Party/Paladin/Oath of Revelry.md\|Oath of Revelry]]                     | Valda's Spire of Secrets                | Mage Hand Press         | 5.5e    |
 | [[Subclasses/Third Party/Paladin/Oath of Slaughter.md\|Oath of Slaughter]]                 | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Paladin/Oath of the Coven.md\|Oath of the Coven]]                 | Hexbound                                | Hit Point Press         | 5e      |
 | [[Subclasses/Third Party/Paladin/Oath of the Eldritch Hunt.md\|Oath of the Eldritch Hunt]] | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
 | [[Subclasses/Third Party/Paladin/Oath of the Guardian.md\|Oath of the Guardian]]           | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
 | [[Subclasses/Third Party/Paladin/Oath of the Harvest.md\|Oath of the Harvest]]             | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |

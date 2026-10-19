@@ -817,6 +817,7 @@ A Druid subclass is a specialization that grants you features at certain Druid l
 | [[Subclasses/Third Party/Druid/Circle of Mutation.md\|Circle of Mutation]]         | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
 | [[Subclasses/Third Party/Druid/Circle of Symbiosis.md\|Circle of Symbiosis]]       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
 | [[Subclasses/Third Party/Druid/Circle of the Blighted.md\|Circle of the Blighted]] | Tal'Dorei Campaign Setting Reborn       | Darrington Press        | 5e      |
+| [[Subclasses/Third Party/Druid/Circle of the Brew.md\|Circle of the Brew]]         | Hexbound                                | Hit Point Press         | 5e      |
 | [[Subclasses/Third Party/Druid/Circle of the City.md\|Circle of the City]]         | Valda's Spire of Secrets                | Mage Hand Press         | 5.5e    |
 | [[Subclasses/Third Party/Druid/Circle of the Forged.md\|Circle of the Forged]]     | Exploring Eberron                       | Visionary               | 5.5e    |
 | [[Subclasses/Third Party/Druid/Circle of the Hive.md\|Circle of the Hive]]         | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |

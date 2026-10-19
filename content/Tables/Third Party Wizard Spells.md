@@ -59,6 +59,7 @@
 | _[[Spells/Third Party/Level 1 Spells/Spell Aegis.md\|Spell Aegis]]_                     | Abjuration    | C       | The Magus Class                         | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Level 1 Spells/Swallow Magic.md\|Swallow Magic]]_                 | Transmutation | —       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
 | _[[Spells/Third Party/Level 1 Spells/Tide of Darkness.md\|Tide of Darkness]]_           | Conjuration   | —       | Cthulhu by Torchlight                   | Chaosium                        |
+| _[[Spells/Third Party/Level 1 Spells/Toil and Trouble.md\|Toil and Trouble]]_           | Necromancy    | —       | Hexbound                                | Hit Point Press                 |
 | _[[Spells/Third Party/Level 1 Spells/Umbral Tendril.md\|Umbral Tendril]]_               | Evocation     | —       | Cthulhu by Torchlight                   | Chaosium                        |
 | _[[Spells/Third Party/Level 1 Spells/Vibrating Humors.md\|Vibrating Humors]]_           | Evocation     | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 1 Spells/Water Bullet.md\|Water Bullet]]_                   | Evocation     | —       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
@@ -94,6 +95,7 @@
 | _[[Spells/Third Party/Level 2 Spells/Spell Signature.md\|Spell Signature]]_       | Divination    | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
 | _[[Spells/Third Party/Level 2 Spells/Theft of Vitae.md\|Theft of Vitae]]_         | Transmutation | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 2 Spells/Transparency.md\|Transparency]]_             | Illusion      | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
+| _[[Spells/Third Party/Level 2 Spells/Vile Visage.md\|Vile Visage]]_               | Illusion      | C, R    | Hexbound                                | Hit Point Press        |
 | _[[Spells/Third Party/Level 2 Spells/Wind Strike.md\|Wind Strike]]_               | Transmutation | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 
 ### Level 3 Wizard Spells
@@ -165,6 +167,7 @@
 | _[[Spells/Third Party/Level 5 Spells/Submerge.md\|Submerge]]_                                               | Conjuration   | —       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
 | _[[Spells/Third Party/Level 5 Spells/Summon Shadow.md\|Summon Shadow]]_                                     | Conjuration   | C       | Cthulhu by Torchlight                   | Chaosium                        |
 | _[[Spells/Third Party/Level 5 Spells/Tamh Gon's Fiery Festival Feast.md\|Tamh Gon's Fiery Festival Feast]]_ | Abjuration    | M       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
+| _[[Spells/Third Party/Level 5 Spells/Unrecall.md\|Unrecall]]_                                               | Enchantment   | C       | Hexbound                                | Hit Point Press                 |
 | _[[Spells/Third Party/Level 5 Spells/White Water Wall.md\|White Water Wall]]_                               | Conjuration   | C       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
 
 ### Level 6 Wizard Spells

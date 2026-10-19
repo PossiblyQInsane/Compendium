@@ -15,6 +15,7 @@
 | _[[Spells/Third Party/Level 1 Spells/Shroud Blood.md\|Shroud Blood]]_               | Illusion      | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 1 Spells/Spectral Slash.md\|Spectral Slash]]_           | Conjuration   | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
 | _[[Spells/Third Party/Level 1 Spells/Spell Aegis.md\|Spell Aegis]]_                 | Abjuration    | C       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Level 1 Spells/Toil and Trouble.md\|Toil and Trouble]]_       | Necromancy    | —       | Hexbound                                | Hit Point Press                 |
 | _[[Spells/Third Party/Level 1 Spells/Water Bullet.md\|Water Bullet]]_               | Evocation     | —       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
 | _[[Spells/Third Party/Level 1 Spells/Whelm Weapon.md\|Whelm Weapon]]_               | Transmutation | C       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
 | _[[Spells/Third Party/Level 1 Spells/Wind Drake.md\|Wind Drake]]_                   | Conjuration   | C       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |

@@ -83,6 +83,7 @@
 | _[[Spells/Third Party/Level 2 Spells/Spell Signature.md\|Spell Signature]]_       | Divination    | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
 | _[[Spells/Third Party/Level 2 Spells/Sugar Rush.md\|Sugar Rush]]_                 | Biomancy      | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Level 2 Spells/Transparency.md\|Transparency]]_             | Illusion      | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
+| _[[Spells/Third Party/Level 2 Spells/Vile Visage.md\|Vile Visage]]_               | Illusion      | C, R    | Hexbound                                | Hit Point Press        |
 | _[[Spells/Third Party/Level 2 Spells/Wanyūdō’s Fury.md\|Wanyūdō’s Fury]]_         | Evocation     | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 
 ### Level 3 Sorcerer Spells
@@ -115,6 +116,7 @@
 | _[[Spells/Third Party/Level 4 Spells/Cascade of Hours.md\|Cascade of Hours]]_                     | Transmutation | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Level 4 Spells/Circle of Scarlet.md\|Circle of Scarlet]]_                   | Evocation     | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 4 Spells/Cloud Stride.md\|Cloud Stride]]_                             | Transmutation | R, M    | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
+| _[[Spells/Third Party/Level 4 Spells/Enhance Talent.md\|Enhance Talent]]_                         | Abjuration    | C       | Hexbound                           | Hit Point Press                 |
 | _[[Spells/Third Party/Level 4 Spells/Frogskin.md\|Frogskin]]_                                     | Biomancy      | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Level 4 Spells/Intrusive Despair.md\|Intrusive Despair]]_                   | Enchantment   | C       | The Crooked Moon                   | Avantris Entertainment          |
 | _[[Spells/Third Party/Level 4 Spells/Lion's Roar.md\|Lion's Roar]]_                               | Conjuration   | C       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
@@ -142,6 +144,7 @@
 | _[[Spells/Third Party/Level 5 Spells/Reflect Magic.md\|Reflect Magic]]_                       | Abjuration    | M       | The Magus Class                         | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Level 5 Spells/Submerge.md\|Submerge]]_                                 | Conjuration   | —       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
 | _[[Spells/Third Party/Level 5 Spells/Summon Shadow.md\|Summon Shadow]]_                       | Conjuration   | C       | Cthulhu by Torchlight                   | Chaosium                        |
+| _[[Spells/Third Party/Level 5 Spells/Unrecall.md\|Unrecall]]_                                 | Enchantment   | C       | Hexbound                                | Hit Point Press                 |
 | _[[Spells/Third Party/Level 5 Spells/White Water Wall.md\|White Water Wall]]_                 | Conjuration   | C       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
 
 ### Level 6 Sorcerer Spells

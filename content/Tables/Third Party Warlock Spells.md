@@ -63,6 +63,7 @@
 | _[[Spells/Third Party/Level 2 Spells/Riptide.md\|Riptide]]_                         | Transmutation | C       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
 | _[[Spells/Third Party/Level 2 Spells/Spell Signature.md\|Spell Signature]]_         | Divination    | —       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
 | _[[Spells/Third Party/Level 2 Spells/Transparency.md\|Transparency]]_               | Illusion      | —       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
+| _[[Spells/Third Party/Level 2 Spells/Vile Visage.md\|Vile Visage]]_                 | Illusion      | C, R    | Hexbound                                | Hit Point Press                 |
 
 ### Level 3 Warlock Spells
 
@@ -103,6 +104,7 @@
 | _[[Spells/Third Party/Level 4 Spells/Consuming Pyre.md\|Consuming Pyre]]_             | Evocation   | C       | The Crooked Moon                        | Avantris Entertainment          |
 | _[[Spells/Third Party/Level 4 Spells/Dark Sacrament.md\|Dark Sacrament]]_             | Evocation   | M       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 4 Spells/Dread Scarecrow.md\|Dread Scarecrow]]_           | Illusion    | C, M    | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
+| _[[Spells/Third Party/Level 4 Spells/Enhance Talent.md\|Enhance Talent]]_             | Abjuration  | C       | Hexbound                                | Hit Point Press                 |
 | _[[Spells/Third Party/Level 4 Spells/Frogskin.md\|Frogskin]]_                         | Biomancy    | C       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
 | _[[Spells/Third Party/Level 4 Spells/Intrusive Despair.md\|Intrusive Despair]]_       | Enchantment | C       | The Crooked Moon                        | Avantris Entertainment          |
 | _[[Spells/Third Party/Level 4 Spells/Maiden of Bones.md\|Maiden of Bones]]_           | Conjuration | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |

@@ -25,6 +25,7 @@
 | _[[Spells/Third Party/Level 1 Spells/Peppermint Plate.md\|Peppermint Plate]]_           | Abjuration    | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/Repulsing Palm.md\|Repulsing Palm]]_               | Evocation     | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/See Future Death.md\|See Future Death]]_           | Divination    | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
+| _[[Spells/Third Party/Level 1 Spells/Toil and Trouble.md\|Toil and Trouble]]_           | Necromancy    | —       | Hexbound                           | Hit Point Press                 |
 
 ### Level 2 Cleric Spells
 
@@ -63,6 +64,7 @@
 | _[[Spells/Third Party/Level 4 Spells/Blinding Radiance.md\|Blinding Radiance]]_             | Evocation     | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Level 4 Spells/Consume Mind.md\|Consume Mind]]_                       | Necromancy    | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 4 Spells/Dire Warning.md\|Dire Warning]]_                       | Divination    | —       | Valda's Spire of Secrets                | Mage Hand Press        |
+| _[[Spells/Third Party/Level 4 Spells/Enhance Talent.md\|Enhance Talent]]_                   | Abjuration    | C       | Hexbound                                | Hit Point Press        |
 | _[[Spells/Third Party/Level 4 Spells/Marrow Transplant.md\|Marrow Transplant]]_             | Necromancy    | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | _[[Spells/Third Party/Level 4 Spells/Sacrificial Siphon.md\|Sacrificial Siphon]]_           | Necromancy    | C       | The Crooked Moon                        | Avantris Entertainment |
 | _[[Spells/Third Party/Level 4 Spells/Sanctum of the Shepherd.md\|Sanctum of the Shepherd]]_ | Abjuration    | M       | The Crooked Moon                        | Avantris Entertainment |
