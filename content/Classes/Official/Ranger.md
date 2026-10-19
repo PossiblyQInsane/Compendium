@@ -314,6 +314,7 @@ A Ranger subclass is a specialization that grants you features at certain Ranger
 | [[Subclasses/Third Party/Ranger/Big Game Hunter.md\|Big Game Hunter]]     | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games            | 5.5e    |
 | [[Subclasses/Third Party/Ranger/Bloodhound.md\|Bloodhound]]               | Frontiers of Eberron: Quickstone        | Visionary               | 5.5e    |
 | [[Subclasses/Third Party/Ranger/Corrupted Ranger.md\|Corrupted Ranger]]   | Obojima: Tales from the Tall Grass      | 1985 Games              | 5.5e    |
+| [[Subclasses/Third Party/Ranger/Coven Conclave.md\|Coven Conclave]]       | Hexbound                                | Hit Point Press         | 5e      |
 | [[Subclasses/Third Party/Ranger/Field Researcher.md\|Field Researcher]]   | The Field Guide to Floral Dragons       | Hit Point Press         | 5.5e    |
 | [[Subclasses/Third Party/Ranger/Green Reaper.md\|Green Reaper]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
 | [[Subclasses/Third Party/Ranger/Grim Harbinger.md\|Grim Harbinger]]       | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
