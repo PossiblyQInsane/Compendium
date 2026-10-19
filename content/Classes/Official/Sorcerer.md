@@ -571,6 +571,7 @@ A Sorcerer subclass is a specialization that grants you features at certain Sorc
 | Name                                                                                          | Source                             | Publisher               | Edition |
 | --------------------------------------------------------------------------------------------- | ---------------------------------- | ----------------------- | ------- |
 | [[Subclasses/Third Party/Sorcerer/Apocalypse Sorcery.md\|Apocalypse Sorcery]]                 | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Sorcerer/Coven of Spirits.md\|Coven of Spirits]]                     | Hexbound                           | Hit Point Press         | 5e      |
 | [[Subclasses/Third Party/Sorcerer/Crimson Sorcery.md\|Crimson Sorcery]]                       | The Crooked Moon                   | Avantris Entertainment  | 5.5e    |
 | [[Subclasses/Third Party/Sorcerer/Desert Soul.md\|Desert Soul]]                               | The Griffon's Saddlebag: Book Two  | The Griffon's Saddlebag | 5e      |
 | [[Subclasses/Third Party/Sorcerer/Frost Sorcery.md\|Frost Sorcery]]                           | The Griffon's Saddlebag: Book One  | The Griffon's Saddlebag | 5.5e    |

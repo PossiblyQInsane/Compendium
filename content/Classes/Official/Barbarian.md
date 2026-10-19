@@ -231,4 +231,5 @@ A Barbarian subclass is a specialization that grants you features at certain Bar
 | [[Subclasses/Third Party/Barbarian/Path of the Primal Spirit.md\|Path of the Primal Spirit]]       | Grim Hollow: Player's Guide               | Ghostfire Gaming        | 5.5e    |
 | [[Subclasses/Third Party/Barbarian/Path of the Spell Scorned.md\|Path of the Spell Scorned]]       | Cthulhu by Torchlight                     | Chaosium                | 5.5e    |
 | [[Subclasses/Third Party/Barbarian/Path of the Titan.md\|Path of the Titan]]                       | Northlands Worldbook                      | Kobold Press            | 5.5e    |
+| [[Subclasses/Third Party/Barbarian/Path of the Witch.md\|Path of the Witch]]                       | Hexbound                                  | Hit Point Press         | 5e      |
 | [[Subclasses/Third Party/Barbarian/Path of the Wrathful Dead.md\|Path of the Wrathful Dead]]       | Grim Hollow: Player's Guide               | Ghostfire Gaming        | 5.5e    |

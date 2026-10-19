@@ -605,3 +605,4 @@ A Warlock subclass is a specialization that grants you features at certain Warlo
 | [[Subclasses/Third Party/Warlock/Shinigami.md\|The Shinigami]]                                                   | Ryoko's Guide to the Yokai Realms  | Loot Tavern             | 5e      |
 | [[Subclasses/Third Party/Warlock/Stone Sovereign Patron.md\|Stone Sovereign Patron]]                             | Frontiers of Eberron: Quickstone   | Visionary               | 5.5e    |
 | [[Subclasses/Third Party/Warlock/Trickster.md\|Trickster]]                                                       | Northlands Worldbook               | Kobold Press            | 5.5e    |
+| [[Subclasses/Third Party/Warlock/Witch Patron.md\|Witch Patron]]                                                 | Hexbound                           | Hit Point Press         | 5e      |

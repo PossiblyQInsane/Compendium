@@ -645,20 +645,21 @@ A Wizard subclass is a specialization that grants you features at certain Wizard
 
 ### Third Party Wizard Subclasses
 
-| Name                                                                        | Source                                  | Publisher               | Edition |
-| --------------------------------------------------------------------------- | --------------------------------------- | ----------------------- | ------- |
-| [[Subclasses/Third Party/Wizard/Bibliomancy.md\|Bibliomancy]]               | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Blood Magic.md\|Blood Magic]]               | Tal'Dorei Campaign Setting Reborn       | Darrington Press        | 5e      |
-| [[Subclasses/Third Party/Wizard/Daemonologist.md\|Daemonologist]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Leyline Magic.md\|Leyline Magic]]           | Humblewood Tales                        | Hit Point Press         | 5e      |
-| [[Subclasses/Third Party/Wizard/Magic Missile Mage.md\|Magic Missile Mage]] | Valda's Spire of Secrets                | Mage Hand Press         | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Materializer.md\|Materializer]]             | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Occultist.md\|Occultist]]                   | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Origami Mage.md\|Origami Mage]]             | Obojima: Tales from the Tall Grass      | 1985 Games              | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Osteomancer.md\|Osteomancer]]               | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Philosopher.md\|Philosopher]]               | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Plague Doctor.md\|Plague Doctor]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Sangromancer.md\|Sangromancer]]             | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Wizard/School of Biomancy.md\|School of Biomancy]] | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Wizard/Shinobi.md\|Shinobi]]                       | Ryoko's Guide to the Yokai Realms       | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Wizard/Wand Lore.md\|Wand Lore]]                   | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
+| Name                                                                            | Source                                  | Publisher               | Edition |
+| ------------------------------------------------------------------------------- | --------------------------------------- | ----------------------- | ------- |
+| [[Subclasses/Third Party/Wizard/Bibliomancy.md\|Bibliomancy]]                   | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
+| [[Subclasses/Third Party/Wizard/Blood Magic.md\|Blood Magic]]                   | Tal'Dorei Campaign Setting Reborn       | Darrington Press        | 5e      |
+| [[Subclasses/Third Party/Wizard/Daemonologist.md\|Daemonologist]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Wizard/Leyline Magic.md\|Leyline Magic]]               | Humblewood Tales                        | Hit Point Press         | 5e      |
+| [[Subclasses/Third Party/Wizard/Magic Missile Mage.md\|Magic Missile Mage]]     | Valda's Spire of Secrets                | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Third Party/Wizard/Materializer.md\|Materializer]]                 | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Third Party/Wizard/Occultist.md\|Occultist]]                       | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Wizard/Origami Mage.md\|Origami Mage]]                 | Obojima: Tales from the Tall Grass      | 1985 Games              | 5.5e    |
+| [[Subclasses/Third Party/Wizard/Osteomancer.md\|Osteomancer]]                   | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
+| [[Subclasses/Third Party/Wizard/Philosopher.md\|Philosopher]]                   | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Third Party/Wizard/Plague Doctor.md\|Plague Doctor]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Wizard/Sangromancer.md\|Sangromancer]]                 | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Wizard/School of Biomancy.md\|School of Biomancy]]     | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |
+| [[Subclasses/Third Party/Wizard/School of Witchcraft.md\|School of Witchcraft]] | Hexbound                                | Hit Point Press         | 5e      |
+| [[Subclasses/Third Party/Wizard/Shinobi.md\|Shinobi]]                           | Ryoko's Guide to the Yokai Realms       | Loot Tavern             | 5e      |
+| [[Subclasses/Third Party/Wizard/Wand Lore.md\|Wand Lore]]                       | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
