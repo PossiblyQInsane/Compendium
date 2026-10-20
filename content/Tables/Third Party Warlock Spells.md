@@ -17,6 +17,7 @@
 | _[[Spells/Third Party/Cantrips/Evil Eye.md\|Evil Eye]]_                       | Enchantment   | —       | Cthulhu by Torchlight                   | Chaosium                        |
 | _[[Spells/Third Party/Cantrips/Ferocious Strike.md\|Ferocious Strike]]_       | Biomancy      | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Frigid Blade.md\|Frigid Blade]]_               | Evocation     | M       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Gray Gaze.md\|Gray Gaze]]_                     | Transmutation | —       | Frontiers of Eberron: Quickstone        | Visionary                       |
 | _[[Spells/Third Party/Cantrips/Hateful Haunting.md\|Hateful Haunting]]_       | Necromancy    | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Cantrips/Hellfire.md\|Hellfire]]_                       | Evocation     | —       | The Illrigger Revised                   | MCDM                            |
 | _[[Spells/Third Party/Cantrips/Jolt.md\|Jolt]]_                               | Evocation     | —       | Obojima: Tales from the Tall Grass      | 1985 Games                      |

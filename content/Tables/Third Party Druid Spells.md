@@ -13,6 +13,7 @@
 | _[[Spells/Third Party/Cantrips/Evil Eye.md\|Evil Eye]]_                       | Enchantment   | —       | Cthulhu by Torchlight              | Chaosium                        |
 | _[[Spells/Third Party/Cantrips/Ferocious Strike.md\|Ferocious Strike]]_       | Biomancy      | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Give Life.md\|Give Life]]_                     | Transmutation | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Gray Gaze.md\|Gray Gaze]]_                     | Transmutation | —       | Frontiers of Eberron: Quickstone   | Visionary                       |
 | _[[Spells/Third Party/Cantrips/Howl.md\|Howl]]_                               | Transmutation | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Incendiary Strike.md\|Incendiary Strike]]_     | Evocation     | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_ | Illusion      | —       | The Crooked Moon                   | Avantris Entertainment          |

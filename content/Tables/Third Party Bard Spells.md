@@ -1,24 +1,26 @@
 ### Cantrips (Level 0 Bard Spells)
 
-| Name                                                                            | School        | Special | Source                             | Publisher                       |
-| ------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ------------------------------- |
-| _[[Spells/Third Party/Cantrips/Baffle.md\|Baffle]]_                             | Enchantment   | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Cantrips/Can't Trip.md\|Can't Trip]]_                     | Abjuration    | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
-| _[[Spells/Third Party/Cantrips/Cat's Spring.md\|Cat's Spring]]_                 | Conjuration   | —       | Cthulhu by Torchlight              | Chaosium                        |
-| _[[Spells/Third Party/Cantrips/Chant of Thoth.md\|Chant of Thoth]]_             | Divination    | —       | Cthulhu by Torchlight              | Chaosium                        |
-| _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_             | Illusion      | —       | Valda's Spire of Secrets           | Mage Hand Press                 |
-| _[[Spells/Third Party/Cantrips/Confounding Shadows.md\|Confounding Shadows]]_   | Conjuration   | —       | Cthulhu by Torchlight              | Chaosium                        |
-| _[[Spells/Third Party/Cantrips/Dash Strike.md\|Dash Strike]]_                   | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
-| _[[Spells/Third Party/Cantrips/Ferocious Strike.md\|Ferocious Strike]]_         | Biomancy      | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
-| _[[Spells/Third Party/Cantrips/Finger Guns.md\|Finger Guns]]_                   | Evocation     | —       | Valda's Spire of Secrets           | Mage Hand Press                 |
-| _[[Spells/Third Party/Cantrips/Jolt.md\|Jolt]]_                                 | Evocation     | —       | Obojima: Tales from the Tall Grass | 1985 Games                      |
-| _[[Spells/Third Party/Cantrips/Misfortunate Missile.md\|Misfortunate Missile]]_ | Divination    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_   | Illusion      | —       | The Crooked Moon                   | Avantris Entertainment          |
-| _[[Spells/Third Party/Cantrips/Overexposure.md\|Overexposure]]_                 | Divination    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Cantrips/Phantasmal Feint.md\|Phantasmal Feint]]_         | Illusion      | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Cantrips/Smokescreen.md\|Smokescreen]]_                   | Conjuration   | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
-| _[[Spells/Third Party/Cantrips/Soften Descent.md\|Soften Descent]]_             | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
-| _[[Spells/Third Party/Cantrips/Stalker's Eye.md\|Stalker's Eye]]_               | Enchantment   | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
+| Name                                                                                    | School        | Special | Source                             | Publisher                       |
+| --------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ------------------------------- |
+| _[[Spells/Third Party/Cantrips/Aundair's Silent Sanctum.md\|Aundair's Silent Sanctum]]_ | Illusion      | C       | Exploring Eberron                  | Visionary                       |
+| _[[Spells/Third Party/Cantrips/Baffle.md\|Baffle]]_                                     | Enchantment   | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Can't Trip.md\|Can't Trip]]_                             | Abjuration    | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Cat's Spring.md\|Cat's Spring]]_                         | Conjuration   | —       | Cthulhu by Torchlight              | Chaosium                        |
+| _[[Spells/Third Party/Cantrips/Chant of Thoth.md\|Chant of Thoth]]_                     | Divination    | —       | Cthulhu by Torchlight              | Chaosium                        |
+| _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_                     | Illusion      | —       | Valda's Spire of Secrets           | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Confounding Shadows.md\|Confounding Shadows]]_           | Conjuration   | —       | Cthulhu by Torchlight              | Chaosium                        |
+| _[[Spells/Third Party/Cantrips/Dash Strike.md\|Dash Strike]]_                           | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Ferocious Strike.md\|Ferocious Strike]]_                 | Biomancy      | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Finger Guns.md\|Finger Guns]]_                           | Evocation     | —       | Valda's Spire of Secrets           | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Jolt.md\|Jolt]]_                                         | Evocation     | —       | Obojima: Tales from the Tall Grass | 1985 Games                      |
+| _[[Spells/Third Party/Cantrips/Magecraft.md\|Magecraft]]_                               | Divination    | C       | Exploring Eberron                  | Visionary                       |
+| _[[Spells/Third Party/Cantrips/Misfortunate Missile.md\|Misfortunate Missile]]_         | Divination    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_           | Illusion      | —       | The Crooked Moon                   | Avantris Entertainment          |
+| _[[Spells/Third Party/Cantrips/Overexposure.md\|Overexposure]]_                         | Divination    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Phantasmal Feint.md\|Phantasmal Feint]]_                 | Illusion      | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Smokescreen.md\|Smokescreen]]_                           | Conjuration   | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Soften Descent.md\|Soften Descent]]_                     | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Stalker's Eye.md\|Stalker's Eye]]_                       | Enchantment   | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 
 ### Level 1 Bard Spells
 

@@ -1,38 +1,41 @@
 ### Cantrips (Level 0 Sorcerer Spells)
 
-| Name                                                                            | School        | Special | Source                                  | Publisher                       |
-| ------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ------------------------------- |
-| _[[Spells/Third Party/Cantrips/Arc Blade.md\|Arc Blade]]_                       | Evocation     | M       | Valda's Spire of Secrets                | Mage Hand Press                 |
-| _[[Spells/Third Party/Cantrips/Baffle.md\|Baffle]]_                             | Enchantment   | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Cantrips/Blood Bolt.md\|Blood Bolt]]_                     | Necromancy    | —       | The Crooked Moon                        | Avantris Entertainment          |
-| _[[Spells/Third Party/Cantrips/Brittle Bone Throw.md\|Brittle Bone Throw]]_     | Conjuration   | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
-| _[[Spells/Third Party/Cantrips/Burning Blade.md\|Burning Blade]]_               | Evocation     | M       | Valda's Spire of Secrets                | Mage Hand Press                 |
-| _[[Spells/Third Party/Cantrips/Cat's Spring.md\|Cat's Spring]]_                 | Conjuration   | —       | Cthulhu by Torchlight                   | Chaosium                        |
-| _[[Spells/Third Party/Cantrips/Caustic Claw.md\|Caustic Claw]]_                 | Transmutation | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Cantrips/Chant of Thoth.md\|Chant of Thoth]]_             | Divination    | —       | Cthulhu by Torchlight                   | Chaosium                        |
-| _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_             | Illusion      | —       | Valda's Spire of Secrets                | Mage Hand Press                 |
-| _[[Spells/Third Party/Cantrips/Concussion.md\|Concussion]]_                     | Evocation     | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
-| _[[Spells/Third Party/Cantrips/Confounding Shadows.md\|Confounding Shadows]]_   | Conjuration   | —       | Cthulhu by Torchlight                   | Chaosium                        |
-| _[[Spells/Third Party/Cantrips/Demiplanar Pitch.md\|Demiplanar Pitch]]_         | Conjuration   | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Cantrips/Evil Eye.md\|Evil Eye]]_                         | Enchantment   | —       | Cthulhu by Torchlight                   | Chaosium                        |
-| _[[Spells/Third Party/Cantrips/Ferocious Strike.md\|Ferocious Strike]]_         | Biomancy      | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
-| _[[Spells/Third Party/Cantrips/Finger Guns.md\|Finger Guns]]_                   | Evocation     | —       | Valda's Spire of Secrets                | Mage Hand Press                 |
-| _[[Spells/Third Party/Cantrips/Frigid Blade.md\|Frigid Blade]]_                 | Evocation     | M       | Valda's Spire of Secrets                | Mage Hand Press                 |
-| _[[Spells/Third Party/Cantrips/Hellfire.md\|Hellfire]]_                         | Evocation     | —       | The Illrigger Revised                   | MCDM                            |
-| _[[Spells/Third Party/Cantrips/Jolt.md\|Jolt]]_                                 | Evocation     | —       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
-| _[[Spells/Third Party/Cantrips/Misfortunate Missile.md\|Misfortunate Missile]]_ | Divination    | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Cantrips/Moment to Think.md\|Moment to Think]]_           | Transmutation | —       | Valda's Spire of Secrets                | Mage Hand Press                 |
-| _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_   | Illusion      | —       | The Crooked Moon                        | Avantris Entertainment          |
-| _[[Spells/Third Party/Cantrips/Obscuring Prick.md\|Obscuring Prick]]_           | Illusion      | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Cantrips/Overexposure.md\|Overexposure]]_                 | Divination    | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Cantrips/Phantasmal Feint.md\|Phantasmal Feint]]_         | Illusion      | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Cantrips/Pins & Needles.md\|Pins & Needles]]_             | Biomancy      | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
-| _[[Spells/Third Party/Cantrips/Smokescreen.md\|Smokescreen]]_                   | Conjuration   | C       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
-| _[[Spells/Third Party/Cantrips/Soften Descent.md\|Soften Descent]]_             | Transmutation | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
-| _[[Spells/Third Party/Cantrips/Spark.md\|Spark]]_                               | Evocation     | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
-| _[[Spells/Third Party/Cantrips/Swarm.md\|Swarm]]_                               | Biomancy      | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
-| _[[Spells/Third Party/Cantrips/Vengeful Blade.md\|Vengeful Blade]]_             | Evocation     | M       | The Illrigger Revised                   | MCDM                            |
-| _[[Spells/Third Party/Cantrips/Water Whip.md\|Water Whip]]_                     | Transmutation | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
+| Name                                                                                    | School        | Special | Source                                  | Publisher                       |
+| --------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ------------------------------- |
+| _[[Spells/Third Party/Cantrips/Arc Blade.md\|Arc Blade]]_                               | Evocation     | M       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Aundair's Silent Sanctum.md\|Aundair's Silent Sanctum]]_ | Illusion      | C       | Exploring Eberron                       | Visionary                       |
+| _[[Spells/Third Party/Cantrips/Baffle.md\|Baffle]]_                                     | Enchantment   | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Blood Bolt.md\|Blood Bolt]]_                             | Necromancy    | —       | The Crooked Moon                        | Avantris Entertainment          |
+| _[[Spells/Third Party/Cantrips/Brittle Bone Throw.md\|Brittle Bone Throw]]_             | Conjuration   | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
+| _[[Spells/Third Party/Cantrips/Burning Blade.md\|Burning Blade]]_                       | Evocation     | M       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Cat's Spring.md\|Cat's Spring]]_                         | Conjuration   | —       | Cthulhu by Torchlight                   | Chaosium                        |
+| _[[Spells/Third Party/Cantrips/Caustic Claw.md\|Caustic Claw]]_                         | Transmutation | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Chant of Thoth.md\|Chant of Thoth]]_                     | Divination    | —       | Cthulhu by Torchlight                   | Chaosium                        |
+| _[[Spells/Third Party/Cantrips/Concealed Shot.md\|Concealed Shot]]_                     | Illusion      | —       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Concussion.md\|Concussion]]_                             | Evocation     | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Confounding Shadows.md\|Confounding Shadows]]_           | Conjuration   | —       | Cthulhu by Torchlight                   | Chaosium                        |
+| _[[Spells/Third Party/Cantrips/Demiplanar Pitch.md\|Demiplanar Pitch]]_                 | Conjuration   | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Evil Eye.md\|Evil Eye]]_                                 | Enchantment   | —       | Cthulhu by Torchlight                   | Chaosium                        |
+| _[[Spells/Third Party/Cantrips/Ferocious Strike.md\|Ferocious Strike]]_                 | Biomancy      | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Finger Guns.md\|Finger Guns]]_                           | Evocation     | —       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Force Blast.md\|Force Blast]]_                           | Evocation     | —       | Exploring Eberron                       | Visionary                       |
+| _[[Spells/Third Party/Cantrips/Frigid Blade.md\|Frigid Blade]]_                         | Evocation     | M       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Gray Gaze.md\|Gray Gaze]]_                               | Transmutation | —       | Frontiers of Eberron: Quickstone        | Visionary                       |
+| _[[Spells/Third Party/Cantrips/Hellfire.md\|Hellfire]]_                                 | Evocation     | —       | The Illrigger Revised                   | MCDM                            |
+| _[[Spells/Third Party/Cantrips/Jolt.md\|Jolt]]_                                         | Evocation     | —       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
+| _[[Spells/Third Party/Cantrips/Misfortunate Missile.md\|Misfortunate Missile]]_         | Divination    | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Moment to Think.md\|Moment to Think]]_                   | Transmutation | —       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Mysterious Presence.md\|Mysterious Presence]]_           | Illusion      | —       | The Crooked Moon                        | Avantris Entertainment          |
+| _[[Spells/Third Party/Cantrips/Obscuring Prick.md\|Obscuring Prick]]_                   | Illusion      | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Overexposure.md\|Overexposure]]_                         | Divination    | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Phantasmal Feint.md\|Phantasmal Feint]]_                 | Illusion      | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Pins & Needles.md\|Pins & Needles]]_                     | Biomancy      | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Smokescreen.md\|Smokescreen]]_                           | Conjuration   | C       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Soften Descent.md\|Soften Descent]]_                     | Transmutation | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Spark.md\|Spark]]_                                       | Evocation     | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Swarm.md\|Swarm]]_                                       | Biomancy      | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Vengeful Blade.md\|Vengeful Blade]]_                     | Evocation     | M       | The Illrigger Revised                   | MCDM                            |
+| _[[Spells/Third Party/Cantrips/Water Whip.md\|Water Whip]]_                             | Transmutation | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
 
 ### Level 1 Sorcerer Spells
 
@@ -42,6 +45,7 @@
 | _[[Spells/Third Party/Level 1 Spells/Ancestral Communion.md\|Ancestral Communion]]_             | Divination    | C       | The Crooked Moon                        | Avantris Entertainment          |
 | _[[Spells/Third Party/Level 1 Spells/Body Warping of Gorgoroth.md\|Body Warping of Gorgoroth]]_ | Transmutation | C       | Cthulhu by Torchlight                   | Chaosium                        |
 | _[[Spells/Third Party/Level 1 Spells/Boil Blood.md\|Boil Blood]]_                               | Transmutation | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 1 Spells/Concussive Burst.md\|Concussive Burst]]_                   | Evocation     | —       | Exploring Eberron                       | Visionary                       |
 | _[[Spells/Third Party/Level 1 Spells/Consumption.md\|Consumption]]_                             | Evocation     | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 1 Spells/Create Mist of R'lyeh.md\|Create Mist of R'lyeh]]_         | Conjuration   | C       | Cthulhu by Torchlight                   | Chaosium                        |
 | _[[Spells/Third Party/Level 1 Spells/Delay.md\|Delay]]_                                         | Transmutation | —       | Valda's Spire of Secrets                | Mage Hand Press                 |
