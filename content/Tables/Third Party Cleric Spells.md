@@ -64,6 +64,7 @@
 | _[[Spells/Third Party/Level 4 Spells/Blinding Radiance.md\|Blinding Radiance]]_             | Evocation     | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Level 4 Spells/Consume Mind.md\|Consume Mind]]_                       | Necromancy    | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 4 Spells/Dire Warning.md\|Dire Warning]]_                       | Divination    | —       | Valda's Spire of Secrets                | Mage Hand Press        |
+| _[[Spells/Third Party/Level 4 Spells/Dust of Suleiman.md\|Dust of Suleiman]]_               | Conjuration   | C       | Cthulhu by Torchlight                   | Chaosium               |
 | _[[Spells/Third Party/Level 4 Spells/Enhance Talent.md\|Enhance Talent]]_                   | Abjuration    | C       | Hexbound                                | Hit Point Press        |
 | _[[Spells/Third Party/Level 4 Spells/Marrow Transplant.md\|Marrow Transplant]]_             | Necromancy    | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | _[[Spells/Third Party/Level 4 Spells/Sacrificial Siphon.md\|Sacrificial Siphon]]_           | Necromancy    | C       | The Crooked Moon                        | Avantris Entertainment |
@@ -77,6 +78,8 @@
 | ----------------------------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ---------------------- |
 | _[[Spells/Third Party/Level 5 Spells/Bakuryō’s Blessèd Blizzard.md\|Bakuryō’s Blessèd Blizzard]]_           | Conjuration   | C, M    | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Bone Cage.md\|Bone Cage]]_                                             | Biomancy      | M       | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| _[[Spells/Third Party/Level 5 Spells/Contact Deity.md\|Contact Deity]]_                                     | Divination    | R       | Cthulhu by Torchlight              | Chaosium               |
+| _[[Spells/Third Party/Level 5 Spells/Dismiss Deity.md\|Dismiss Deity]]_                                     | Abjuration    | —       | Cthulhu by Torchlight              | Chaosium               |
 | _[[Spells/Third Party/Level 5 Spells/Endure.md\|Endure]]_                                                   | Necromancy    | M       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Feverskin.md\|Feverskin]]_                                             | Biomancy      | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Field of Reaping.md\|Field of Reaping]]_                               | Necromancy    | C       | The Crooked Moon                   | Avantris Entertainment |
@@ -97,9 +100,10 @@
 
 ### Level 8 Cleric Spells
 
-| Name                                                          | School      | Special | Source                      | Publisher        |
-| ------------------------------------------------------------- | ----------- | ------- | --------------------------- | ---------------- |
-| _[[Spells/Third Party/Level 8 Spells/Red Rain.md\|Red Rain]]_ | Conjuration | C       | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| Name                                                              | School      | Special | Source                      | Publisher        |
+| ----------------------------------------------------------------- | ----------- | ------- | --------------------------- | ---------------- |
+| _[[Spells/Third Party/Level 8 Spells/Call Deity.md\|Call Deity]]_ | Conjuration | —       | Cthulhu by Torchlight       | Chaosium         |
+| _[[Spells/Third Party/Level 8 Spells/Red Rain.md\|Red Rain]]_     | Conjuration | C       | Grim Hollow: Player's Guide | Ghostfire Gaming |
 
 ### Level 9 Cleric Spells
 

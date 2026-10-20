@@ -10,6 +10,7 @@
 | _[[Spells/Third Party/Cantrips/Concussion.md\|Concussion]]_                   | Evocation     | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Dash Strike.md\|Dash Strike]]_                 | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Earthen Fist.md\|Earthen Fist]]_               | Conjuration   | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Evil Eye.md\|Evil Eye]]_                       | Enchantment   | —       | Cthulhu by Torchlight              | Chaosium                        |
 | _[[Spells/Third Party/Cantrips/Ferocious Strike.md\|Ferocious Strike]]_       | Biomancy      | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Give Life.md\|Give Life]]_                     | Transmutation | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Cantrips/Howl.md\|Howl]]_                               | Transmutation | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
@@ -73,6 +74,7 @@
 | _[[Spells/Third Party/Level 2 Spells/Spell Signature.md\|Spell Signature]]_           | Divination    | —       | Obojima: Tales from the Tall Grass      | 1985 Games             |
 | _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_                 | Evocation     | —       | The Crooked Moon                        | Avantris Entertainment |
 | _[[Spells/Third Party/Level 2 Spells/Theft of Vitae.md\|Theft of Vitae]]_             | Transmutation | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 2 Spells/Worm's Repast.md\|Worm's Repast]]_               | Necromancy    | C       | Abomination Vaults                      | Paizo                  |
 
 ### Level 3 Druid Spells
 
@@ -105,6 +107,7 @@
 | _[[Spells/Third Party/Level 4 Spells/Cage of Frozen Tears.md\|Cage of Frozen Tears]]_             | Conjuration   | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 | _[[Spells/Third Party/Level 4 Spells/Cloud Stride.md\|Cloud Stride]]_                             | Transmutation | R, M    | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 | _[[Spells/Third Party/Level 4 Spells/Consuming Pyre.md\|Consuming Pyre]]_                         | Evocation     | C       | The Crooked Moon                        | Avantris Entertainment |
+| _[[Spells/Third Party/Level 4 Spells/Dust of Suleiman.md\|Dust of Suleiman]]_                     | Conjuration   | C       | Cthulhu by Torchlight                   | Chaosium               |
 | _[[Spells/Third Party/Level 4 Spells/Frogskin.md\|Frogskin]]_                                     | Biomancy      | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Level 4 Spells/Lion's Roar.md\|Lion's Roar]]_                               | Conjuration   | C       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 | _[[Spells/Third Party/Level 4 Spells/Marrow Transplant.md\|Marrow Transplant]]_                   | Necromancy    | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
@@ -123,7 +126,9 @@
 | ------------------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ---------------------- |
 | _[[Spells/Third Party/Level 5 Spells/Bakuryō’s Blessèd Blizzard.md\|Bakuryō’s Blessèd Blizzard]]_ | Conjuration   | C, M    | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Bone Cage.md\|Bone Cage]]_                                   | Biomancy      | M       | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| _[[Spells/Third Party/Level 5 Spells/Contact Deity.md\|Contact Deity]]_                           | Divination    | R       | Cthulhu by Torchlight              | Chaosium               |
 | _[[Spells/Third Party/Level 5 Spells/Cyclone.md\|Cyclone]]_                                       | Evocation     | C       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
+| _[[Spells/Third Party/Level 5 Spells/Dismiss Deity.md\|Dismiss Deity]]_                           | Abjuration    | —       | Cthulhu by Torchlight              | Chaosium               |
 | _[[Spells/Third Party/Level 5 Spells/Endure.md\|Endure]]_                                         | Necromancy    | M       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Eruption.md\|Eruption]]_                                     | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Feline Chaos.md\|Feline Chaos]]_                             | Conjuration   | C       | Cthulhu by Torchlight              | Chaosium               |
@@ -150,8 +155,9 @@
 
 ### Level 8 Druid Spells
 
-| Name | School | Special | Source | Publisher |
-| ---- | ------ | ------- | ------ | --------- |
+| Name                                                              | School      | Special | Source                | Publisher |
+| ----------------------------------------------------------------- | ----------- | ------- | --------------------- | --------- |
+| _[[Spells/Third Party/Level 8 Spells/Call Deity.md\|Call Deity]]_ | Conjuration | —       | Cthulhu by Torchlight | Chaosium  |
 
 ### Level 9 Druid Spells
 

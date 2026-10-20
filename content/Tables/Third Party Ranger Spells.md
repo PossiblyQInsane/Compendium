@@ -44,6 +44,7 @@
 | _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_                 | Evocation     | —       | The Crooked Moon                        | Avantris Entertainment |
 | _[[Spells/Third Party/Level 2 Spells/Wanyūdō’s Fury.md\|Wanyūdō’s Fury]]_             | Evocation     | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 | _[[Spells/Third Party/Level 2 Spells/Wind Strike.md\|Wind Strike]]_                   | Transmutation | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
+| _[[Spells/Third Party/Level 2 Spells/Worm's Repast.md\|Worm's Repast]]_               | Necromancy    | C       | Abomination Vaults                      | Paizo                  |
 
 ### Level 3 Ranger Spells
 
