@@ -590,7 +590,8 @@ A Warlock subclass is a specialization that grants you features at certain Warlo
 | Name                                                                                                             | Source                             | Publisher               | Edition |
 | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ----------------------- | ------- |
 | [[Subclasses/Third Party/Warlock/Astral Griffon Patron.md\|The Astral Griffon Patron]]                           | The Griffon's Saddlebag: Book One  | The Griffon's Saddlebag | 5.5e    |
-| [[Subclasses/Third Party/Warlock/Coven.md\|The Coven]]                                                           | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Warlock/Coven (Ghostfire Gaming).md\|The Coven]]                                        | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Third Party/Warlock/Coven Patron (1985 Games).md\|Coven Patron]]                                    | Obojima: Tales from Yatamon        | 1985 Games              | 5.5e    |
 | [[Subclasses/Third Party/Warlock/Exalted Assembly of the Feline Court.md\|Exalted Assembly of the Feline Court]] | Cthulhu by Torchlight              | Chaosium                | 5.5e    |
 | [[Subclasses/Third Party/Warlock/First Vampire Patron.md\|The First Vampire Patron]]                             | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
 | [[Subclasses/Third Party/Warlock/Fungus Patron.md\|Fungus Patron]]                                               | The Field Guide to Floral Dragons  | Hit Point Press         | 5.5e    |

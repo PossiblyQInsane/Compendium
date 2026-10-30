@@ -2,6 +2,7 @@
 
 | Name                                                                          | School      | Special | Source                                  | Publisher                       |
 | ----------------------------------------------------------------------------- | ----------- | ------- | --------------------------------------- | ------------------------------- |
+| _[[Spells/Third Party/Level 1 Spells/Assisted Aim.md\|Assisted Aim]]_         | Enchantment | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 1 Spells/Flash.md\|Flash]]_                       | Evocation   | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/Inner Flame.md\|Inner Flame]]_           | Abjuration  | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/Peppermint Plate.md\|Peppermint Plate]]_ | Abjuration  | C       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |

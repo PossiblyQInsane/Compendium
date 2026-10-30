@@ -10,6 +10,8 @@ views:
       - Prerequisite
       - Ability Score
       - Source
+    columnSize:
+      note.Prerequisite: 348
   - type: table
     name: General Feats
     filters:

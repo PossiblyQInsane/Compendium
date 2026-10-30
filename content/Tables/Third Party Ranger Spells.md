@@ -3,6 +3,7 @@
 | Name                                                                                | School        | Special | Source                                  | Publisher                       |
 | ----------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ------------------------------- |
 | _[[Spells/Third Party/Level 1 Spells/Ancestral Communion.md\|Ancestral Communion]]_ | Divination    | C       | The Crooked Moon                        | Avantris Entertainment          |
+| _[[Spells/Third Party/Level 1 Spells/Assisted Aim.md\|Assisted Aim]]_               | Enchantment   | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 1 Spells/Blood Rush.md\|Blood Rush]]_                   | Transmutation | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 1 Spells/Boil Blood.md\|Boil Blood]]_                   | Transmutation | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 1 Spells/Chameleon Skin.md\|Chameleon Skin]]_           | Biomancy      | C       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
@@ -50,6 +51,8 @@
 
 | Name                                                                                  | School        | Special | Source                                  | Publisher                       |
 | ------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ------------------------------- |
+| _[[Spells/Third Party/Level 3 Spells/Call the Rabid Beast.md\|Call the Rabid Beast]]_ | Transmutation | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 3 Spells/Conjure Plants.md\|Conjure Plants]]_             | Conjuration   | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 3 Spells/Flaming Tiger Leap.md\|Flaming Tiger Leap]]_     | Transmutation | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
 | _[[Spells/Third Party/Level 3 Spells/Flashbang.md\|Flashbang]]_                       | Evocation     | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
 | _[[Spells/Third Party/Level 3 Spells/Freedom of the Waves.md\|Freedom of the Waves]]_ | Conjuration   | —       | Tal'Dorei Campaign Setting Reborn       | Darrington Press                |

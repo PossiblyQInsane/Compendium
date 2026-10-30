@@ -8,6 +8,7 @@
 | _[[Spells/Third Party/Cantrips/Blood Bolt.md\|Blood Bolt]]_                   | Necromancy    | —       | The Crooked Moon                        | Avantris Entertainment          |
 | _[[Spells/Third Party/Cantrips/Brittle Bone Throw.md\|Brittle Bone Throw]]_   | Conjuration   | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
 | _[[Spells/Third Party/Cantrips/Burning Blade.md\|Burning Blade]]_             | Evocation     | M       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Calling Card.md\|Calling Card]]_               | Illusion      | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Cantrips/Cat's Spring.md\|Cat's Spring]]_               | Conjuration   | —       | Cthulhu by Torchlight                   | Chaosium                        |
 | _[[Spells/Third Party/Cantrips/Caustic Claw.md\|Caustic Claw]]_               | Transmutation | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Cantrips/Chant of Thoth.md\|Chant of Thoth]]_           | Divination    | —       | Cthulhu by Torchlight                   | Chaosium                        |
@@ -35,6 +36,7 @@
 | _[[Spells/Third Party/Level 1 Spells/Body Warping of Gorgoroth.md\|Body Warping of Gorgoroth]]_ | Transmutation | C       | Cthulhu by Torchlight                   | Chaosium                        |
 | _[[Spells/Third Party/Level 1 Spells/Boil Blood.md\|Boil Blood]]_                               | Transmutation | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 1 Spells/Create Mist of R'lyeh.md\|Create Mist of R'lyeh]]_         | Conjuration   | C       | Cthulhu by Torchlight                   | Chaosium                        |
+| _[[Spells/Third Party/Level 1 Spells/Creeping Touch.md\|Creeping Touch]]_                       | Transmutation | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 1 Spells/Crimson Lash.md\|Crimson Lash]]_                           | Conjuration   | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 1 Spells/Daydream.md\|Daydream]]_                                   | Enchantment   | C       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/Duplicate.md\|Duplicate]]_                                 | Conjuration   | —       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
@@ -57,6 +59,7 @@
 | Name                                                                                | School        | Special | Source                                  | Publisher                       |
 | ----------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ------------------------------- |
 | _[[Spells/Third Party/Level 2 Spells/Arm Cannon.md\|Arm Cannon]]_                   | Evocation     | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
+| _[[Spells/Third Party/Level 2 Spells/Bloat.md\|Bloat]]_                             | Necromancy    | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 2 Spells/Blood Sacrifice.md\|Blood Sacrifice]]_         | Necromancy    | —       | The Crooked Moon                        | Avantris Entertainment          |
 | _[[Spells/Third Party/Level 2 Spells/Bloodweave.md\|Bloodweave]]_                   | Enchantment   | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
 | _[[Spells/Third Party/Level 2 Spells/Breath of the Deep.md\|Breath of the Deep]]_   | Conjuration   | C       | Cthulhu by Torchlight                   | Chaosium                        |
@@ -64,6 +67,7 @@
 | _[[Spells/Third Party/Level 2 Spells/Carrionette.md\|Carrionette]]_                 | Necromancy    | —       | The Magus Class                         | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Level 2 Spells/Chain of Conviction.md\|Chain of Conviction]]_ | Conjuration   | —       | The Crooked Moon                        | Avantris Entertainment          |
 | _[[Spells/Third Party/Level 2 Spells/Clutch of Darkness.md\|Clutch of Darkness]]_   | Conjuration   | C       | Cthulhu by Torchlight                   | Chaosium                        |
+| _[[Spells/Third Party/Level 2 Spells/Dazing Blast.md\|Dazing Blast]]_               | Evocation     | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 2 Spells/Eelskin.md\|Eelskin]]_                         | Biomancy      | C       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
 | _[[Spells/Third Party/Level 2 Spells/Endoleech.md\|Endoleech]]_                     | Biomancy      | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
 | _[[Spells/Third Party/Level 2 Spells/Feline Grace.md\|Feline Grace]]_               | Transmutation | —       | Cthulhu by Torchlight                   | Chaosium                        |
@@ -79,6 +83,8 @@
 | --------------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ------------------------------- |
 | _[[Spells/Official/Level 3 Spells/Mireball.md\|Mireball]]_                                    | Conjuration   | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
 | _[[Spells/Third Party/Level 3 Spells/Acid Rain.md\|Acid Rain]]_                               | Conjuration   | C       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
+| _[[Spells/Third Party/Level 3 Spells/Call the Rabid Beast.md\|Call the Rabid Beast]]_         | Transmutation | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 3 Spells/Conjure Plants.md\|Conjure Plants]]_                     | Conjuration   | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 3 Spells/Crimson Harvest.md\|Crimson Harvest]]_                   | Necromancy    | —       | The Crooked Moon                        | Avantris Entertainment          |
 | _[[Spells/Third Party/Level 3 Spells/Culling Sickle.md\|Culling Sickle]]_                     | Necromancy    | C       | The Crooked Moon                        | Avantris Entertainment          |
 | _[[Spells/Third Party/Level 3 Spells/Curse of the Putrid Husk.md\|Curse of the Putrid Husk]]_ | Illusion      | C       | Cthulhu by Torchlight                   | Chaosium                        |
@@ -122,6 +128,7 @@
 | _[[Spells/Third Party/Level 4 Spells/Intrusive Despair.md\|Intrusive Despair]]_       | Enchantment | C       | The Crooked Moon                        | Avantris Entertainment          |
 | _[[Spells/Third Party/Level 4 Spells/Maiden of Bones.md\|Maiden of Bones]]_           | Conjuration | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
 | _[[Spells/Third Party/Level 4 Spells/Outcast's Curse.md\|Outcast's Curse]]_           | Enchantment | —       | Abomination Vaults                      | Paizo                           |
+| _[[Spells/Third Party/Level 4 Spells/Pacify Monster.md\|Pacify Monster]]_             | Enchantment | C       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
 | _[[Spells/Third Party/Level 4 Spells/Puppet Master.md\|Puppet Master]]_               | Enchantment | C       | The Crooked Moon                        | Avantris Entertainment          |
 | _[[Spells/Third Party/Level 4 Spells/Sacrificial Siphon.md\|Sacrificial Siphon]]_     | Necromancy  | C       | The Crooked Moon                        | Avantris Entertainment          |
 | _[[Spells/Third Party/Level 4 Spells/Sage's Curse.md\|Sage's Curse]]_                 | Enchantment | —       | Abomination Vaults                      | Paizo                           |
@@ -155,9 +162,10 @@
 
 ### Level 6 Warlock Spells
 
-| Name                                                          | School      | Special | Source                | Publisher |
-| ------------------------------------------------------------- | ----------- | ------- | --------------------- | --------- |
-| _[[Spells/Third Party/Level 6 Spells/Red Sign.md\|Red Sign]]_ | Conjuration | C       | Cthulhu by Torchlight | Chaosium  |
+| Name                                                                          | School      | Special | Source                      | Publisher        |
+| ----------------------------------------------------------------------------- | ----------- | ------- | --------------------------- | ---------------- |
+| _[[Spells/Third Party/Level 6 Spells/Chains of Beleth.md\|Chains of Beleth]]_ | Conjuration | C       | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| _[[Spells/Third Party/Level 6 Spells/Red Sign.md\|Red Sign]]_                 | Conjuration | C       | Cthulhu by Torchlight       | Chaosium         |
 
 ### Level 7 Warlock Spells
 
