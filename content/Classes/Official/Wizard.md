@@ -287,7 +287,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | _[[Spells/Official/Level 2 Spells/Elminster's Elusion.md\|Elminster's Elusion]]_               | Abjuration    | C       | Forgotten Realms: Heroes of Faerûn       |
 | _[[Spells/Official/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_                       | Transmutation | C       | Player's Handbook 5.5e                   |
 | _[[Spells/Official/Level 2 Spells/Enlarge-Reduce.md\|Enlarge/Reduce]]_                         | Transmutation | C       | Player's Handbook 5.5e                   |
-| _[[Spells/Official/Level 2 Spells/Flaming Sphere.md\|Flaming Sphere]]_                         | Conjuration   | C       | Player's Handbook 5.5e                   |
+| _[[Spells/Official/Level 2 Spells/Flaming Sphere.md\|Flaming Sphere]]_                         | Evocation     | C       | Player's Handbook 5.5e                   |
 | _[[Spells/Official/Level 2 Spells/Flock of Familiars.md\|Flock of Familiars]]_                 | Conjuration   | C       | Lost Laboratory of Kwalish               |
 | _[[Spells/Official/Level 2 Spells/Gentle Repose.md\|Gentle Repose]]_                           | Necromancy    | R, M    | Player's Handbook 5.5e                   |
 | _[[Spells/Official/Level 2 Spells/Gift of Gab.md\|Gift of Gab]]_                               | Enchantment   | M       | Acquisitions Incorporated                |

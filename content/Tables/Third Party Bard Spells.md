@@ -87,37 +87,39 @@
 
 ### Level 4 Bard Spells
 
-| Name                                                                              | School        | Special | Source                                  | Publisher              |
-| --------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ---------------------- |
-| _[[Spells/Third Party/Level 4 Spells/Daydreamer's Curse.md\|Daydreamer's Curse]]_ | Enchantment   | —       | Abomination Vaults                      | Paizo                  |
-| _[[Spells/Third Party/Level 4 Spells/Dread Scarecrow.md\|Dread Scarecrow]]_       | Illusion      | C, M    | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
-| _[[Spells/Third Party/Level 4 Spells/Enhance Talent.md\|Enhance Talent]]_         | Abjuration    | C       | Hexbound                                | Hit Point Press        |
-| _[[Spells/Third Party/Level 4 Spells/Intrusive Despair.md\|Intrusive Despair]]_   | Enchantment   | C       | The Crooked Moon                        | Avantris Entertainment |
-| _[[Spells/Third Party/Level 4 Spells/Outcast's Curse.md\|Outcast's Curse]]_       | Enchantment   | —       | Abomination Vaults                      | Paizo                  |
-| _[[Spells/Third Party/Level 4 Spells/Pacify Monster.md\|Pacify Monster]]_         | Enchantment   | C       | Obojima: Tales from the Tall Grass      | 1985 Games             |
-| _[[Spells/Third Party/Level 4 Spells/Puppet Master.md\|Puppet Master]]_           | Enchantment   | C       | The Crooked Moon                        | Avantris Entertainment |
-| _[[Spells/Third Party/Level 4 Spells/Rock Tomb.md\|Rock Tomb]]_                   | Conjuration   | C       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
-| _[[Spells/Third Party/Level 4 Spells/Sage's Curse.md\|Sage's Curse]]_             | Enchantment   | —       | Abomination Vaults                      | Paizo                  |
-| _[[Spells/Third Party/Level 4 Spells/Shape Plants.md\|Shape Plants]]_             | Transmutation | —       | Humblewood Campaign Setting             | Hit Point Press        |
+| Name                                                                                                        | School        | Special | Source                                      | Publisher              |
+| ----------------------------------------------------------------------------------------------------------- | ------------- | ------- | ------------------------------------------- | ---------------------- |
+| _[[Spells/Third Party/Level 4 Spells/Daydreamer's Curse.md\|Daydreamer's Curse]]_                           | Enchantment   | —       | Abomination Vaults                          | Paizo                  |
+| _[[Spells/Third Party/Level 4 Spells/Dread Scarecrow.md\|Dread Scarecrow]]_                                 | Illusion      | C, M    | Steinhardt's Guide to the Eldritch Hunt     | MonkeyDM               |
+| _[[Spells/Third Party/Level 4 Spells/Enhance Talent.md\|Enhance Talent]]_                                   | Abjuration    | C       | Hexbound                                    | Hit Point Press        |
+| _[[Spells/Third Party/Level 4 Spells/Humperdink's Irrestible Revelry.md\|Humperdink's Irrestible Revelry]]_ | Enchantment   | C       | L'Arsene's Ledger of Treasures and Trinkets | Loot Tavern            |
+| _[[Spells/Third Party/Level 4 Spells/Intrusive Despair.md\|Intrusive Despair]]_                             | Enchantment   | C       | The Crooked Moon                            | Avantris Entertainment |
+| _[[Spells/Third Party/Level 4 Spells/Outcast's Curse.md\|Outcast's Curse]]_                                 | Enchantment   | —       | Abomination Vaults                          | Paizo                  |
+| _[[Spells/Third Party/Level 4 Spells/Pacify Monster.md\|Pacify Monster]]_                                   | Enchantment   | C       | Obojima: Tales from the Tall Grass          | 1985 Games             |
+| _[[Spells/Third Party/Level 4 Spells/Puppet Master.md\|Puppet Master]]_                                     | Enchantment   | C       | The Crooked Moon                            | Avantris Entertainment |
+| _[[Spells/Third Party/Level 4 Spells/Rock Tomb.md\|Rock Tomb]]_                                             | Conjuration   | C       | Ryoko's Guide to the Yokai Realms           | Loot Tavern            |
+| _[[Spells/Third Party/Level 4 Spells/Sage's Curse.md\|Sage's Curse]]_                                       | Enchantment   | —       | Abomination Vaults                          | Paizo                  |
+| _[[Spells/Third Party/Level 4 Spells/Shape Plants.md\|Shape Plants]]_                                       | Transmutation | —       | Humblewood Campaign Setting                 | Hit Point Press        |
 
 ### Level 5 Bard Spells
 
-| Name                                                                                                        | School        | Special | Source                             | Publisher                       |
-| ----------------------------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ------------------------------- |
-| _[[Spells/Third Party/Level 5 Spells/Contact Deity.md\|Contact Deity]]_                                     | Divination    | R       | Cthulhu by Torchlight              | Chaosium                        |
-| _[[Spells/Third Party/Level 5 Spells/Create Spirit Train Stop.md\|Create Spirit Train Stop]]_               | Conjuration   | M       | Obojima: Tales from the Tall Grass | 1985 Games                      |
-| _[[Spells/Third Party/Level 5 Spells/Dismiss Deity.md\|Dismiss Deity]]_                                     | Abjuration    | —       | Cthulhu by Torchlight              | Chaosium                        |
-| _[[Spells/Third Party/Level 5 Spells/Ectoplasmic Expulsion.md\|Ectoplasmic Expulsion]]_                     | Necromancy    | —       | Abomination Vaults                 | Paizo                           |
-| _[[Spells/Third Party/Level 5 Spells/Feline Chaos.md\|Feline Chaos]]_                                       | Conjuration   | C       | Cthulhu by Torchlight              | Chaosium                        |
-| _[[Spells/Third Party/Level 5 Spells/Iminada's Umigiri.md\|Iminada's Umigiri]]_                             | Illusion      | C       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
-| _[[Spells/Third Party/Level 5 Spells/Incite Riot.md\|Incite Riot]]_                                         | Enchantment   | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
-| _[[Spells/Third Party/Level 5 Spells/Incorporeality.md\|Incorporeality]]_                                   | Transmutation | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
-| _[[Spells/Third Party/Level 5 Spells/Lucky Charm.md\|Lucky Charm]]_                                         | Transmutation | C       | The Crooked Moon                   | Avantris Entertainment          |
-| _[[Spells/Third Party/Level 5 Spells/Magatsuchi’s Lantern.md\|Magatsuchi’s Lantern]]_                       | Illusion      | C       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
-| _[[Spells/Third Party/Level 5 Spells/Nomi's Adamantine Carapace.md\|Nomi's Adamantine Carapace]]_           | Biomancy      | C, M    | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
-| _[[Spells/Third Party/Level 5 Spells/Reflect Magic.md\|Reflect Magic]]_                                     | Abjuration    | M       | The Magus Class                    | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Level 5 Spells/Tamh Gon's Fiery Festival Feast.md\|Tamh Gon's Fiery Festival Feast]]_ | Abjuration    | M       | Obojima: Tales from the Tall Grass | 1985 Games                      |
-| _[[Spells/Third Party/Level 5 Spells/Unrecall.md\|Unrecall]]_                                               | Enchantment   | C       | Hexbound                           | Hit Point Press                 |
+| Name                                                                                                        | School        | Special | Source                                      | Publisher                       |
+| ----------------------------------------------------------------------------------------------------------- | ------------- | ------- | ------------------------------------------- | ------------------------------- |
+| _[[Spells/Third Party/Level 5 Spells/Contact Deity.md\|Contact Deity]]_                                     | Divination    | R       | Cthulhu by Torchlight                       | Chaosium                        |
+| _[[Spells/Third Party/Level 5 Spells/Create Spirit Train Stop.md\|Create Spirit Train Stop]]_               | Conjuration   | M       | Obojima: Tales from the Tall Grass          | 1985 Games                      |
+| _[[Spells/Third Party/Level 5 Spells/Dismiss Deity.md\|Dismiss Deity]]_                                     | Abjuration    | —       | Cthulhu by Torchlight                       | Chaosium                        |
+| _[[Spells/Third Party/Level 5 Spells/Ectoplasmic Expulsion.md\|Ectoplasmic Expulsion]]_                     | Necromancy    | —       | Abomination Vaults                          | Paizo                           |
+| _[[Spells/Third Party/Level 5 Spells/Feline Chaos.md\|Feline Chaos]]_                                       | Conjuration   | C       | Cthulhu by Torchlight                       | Chaosium                        |
+| _[[Spells/Third Party/Level 5 Spells/Iminada's Umigiri.md\|Iminada's Umigiri]]_                             | Illusion      | C       | Ryoko's Guide to the Yokai Realms           | Loot Tavern                     |
+| _[[Spells/Third Party/Level 5 Spells/Incite Riot.md\|Incite Riot]]_                                         | Enchantment   | C       | Grim Hollow: Player's Guide                 | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 5 Spells/Incorporeality.md\|Incorporeality]]_                                   | Transmutation | C       | Heliana's Guide to Monster Hunting          | Loot Tavern                     |
+| _[[Spells/Third Party/Level 5 Spells/Lucky Charm.md\|Lucky Charm]]_                                         | Transmutation | C       | The Crooked Moon                            | Avantris Entertainment          |
+| _[[Spells/Third Party/Level 5 Spells/Magatsuchi’s Lantern.md\|Magatsuchi’s Lantern]]_                       | Illusion      | C       | Ryoko's Guide to the Yokai Realms           | Loot Tavern                     |
+| _[[Spells/Third Party/Level 5 Spells/Nomi's Adamantine Carapace.md\|Nomi's Adamantine Carapace]]_           | Biomancy      | C, M    | Ryoko's Guide to the Yokai Realms           | Loot Tavern                     |
+| _[[Spells/Third Party/Level 5 Spells/Purple Rain.md\|Purple Rain]]_                                         | Conjuration   | C       | L'Arsene's Ledger of Treasures and Trinkets | Loot Tavern                     |
+| _[[Spells/Third Party/Level 5 Spells/Reflect Magic.md\|Reflect Magic]]_                                     | Abjuration    | M       | The Magus Class                             | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Level 5 Spells/Tamh Gon's Fiery Festival Feast.md\|Tamh Gon's Fiery Festival Feast]]_ | Abjuration    | M       | Obojima: Tales from the Tall Grass          | 1985 Games                      |
+| _[[Spells/Third Party/Level 5 Spells/Unrecall.md\|Unrecall]]_                                               | Enchantment   | C       | Hexbound                                    | Hit Point Press                 |
 
 ### Level 6 Bard Spells
 

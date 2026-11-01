@@ -20,6 +20,7 @@
 | _[[Spells/Third Party/Cantrips/Evil Eye.md\|Evil Eye]]_                                 | Enchantment   | —       | Cthulhu by Torchlight                   | Chaosium                        |
 | _[[Spells/Third Party/Cantrips/Ferocious Strike.md\|Ferocious Strike]]_                 | Biomancy      | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Finger Guns.md\|Finger Guns]]_                           | Evocation     | —       | Valda's Spire of Secrets                | Mage Hand Press                 |
+| _[[Spells/Third Party/Cantrips/Flare.md\|Flare]]_                                       | Evocation     | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Force Blast.md\|Force Blast]]_                           | Evocation     | —       | Exploring Eberron                       | Visionary                       |
 | _[[Spells/Third Party/Cantrips/Frigid Blade.md\|Frigid Blade]]_                         | Evocation     | M       | Valda's Spire of Secrets                | Mage Hand Press                 |
 | _[[Spells/Third Party/Cantrips/Gray Gaze.md\|Gray Gaze]]_                               | Transmutation | —       | Frontiers of Eberron: Quickstone        | Visionary                       |

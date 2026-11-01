@@ -343,7 +343,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | _[[Spells/Official/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_                       | Transmutation | C       | Player's Handbook 5.5e                   |
 | _[[Spells/Official/Level 2 Spells/Enlarge-Reduce.md\|Enlarge/Reduce]]_                         | Transmutation | C       | Player's Handbook 5.5e                   |
 | _[[Spells/Official/Level 2 Spells/Flame Blade.md\|Flame Blade]]_                               | Evocation     | C       | Player's Handbook 5.5e                   |
-| _[[Spells/Official/Level 2 Spells/Flaming Sphere.md\|Flaming Sphere]]_                         | Conjuration   | C       | Player's Handbook 5.5e                   |
+| _[[Spells/Official/Level 2 Spells/Flaming Sphere.md\|Flaming Sphere]]_                         | Evocation     | C       | Player's Handbook 5.5e                   |
 | _[[Spells/Official/Level 2 Spells/Gust of Wind.md\|Gust of Wind]]_                             | Evocation     | C       | Player's Handbook 5.5e                   |
 | _[[Spells/Official/Level 2 Spells/Hold Person.md\|Hold Person]]_                               | Enchantment   | C       | Player's Handbook 5.5e                   |
 | _[[Spells/Official/Level 2 Spells/Invisibility.md\|Invisibility]]_                             | Illusion      | C       | Player's Handbook 5.5e                   |

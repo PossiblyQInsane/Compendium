@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-07-27T00:01:12.755Z
-modified: 2026-10-08T05:01:05.279Z
-published: 2026-10-08T05:01:05.279Z
+modified: 2026-11-01T03:55:46.988Z
+published: 2026-11-01T03:55:46.988Z
 Name: "[[Flaming Sphere]]"
 Spell Level: Level 2
-School: Conjuration
+School: Evocation
 Classes:
   - Druid
   - Sorcerer
@@ -19,7 +19,7 @@ Edition: 5.5e
 
 <div class="source">Player's Handbook 5.5e</div>
 
-_Level 2 Conjuration ([[Druid]], [[Sorcerer]], [[Wizard]])_
+_Level 2 Evocation ([[Druid]], [[Sorcerer]], [[Wizard]])_
 
 ---
 

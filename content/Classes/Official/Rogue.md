@@ -199,7 +199,7 @@ A Rogue subclass is a specialization that grants you features at certain Rogue l
 | ------------------------------------------------------------------------------ | ------------------------------------------- | ----------------------- | ------- |
 | [[Subclasses/Third Party/Rogue/Arachnoid Stalker.md\|Arachnoid Stalker]]       | Valda's Spire of Secrets                    | Mage Hand Press         | 5.5e    |
 | [[Subclasses/Third Party/Rogue/Blade of Radiance.md\|Blade of Radiance]]       | Steinhardt's Guide to the Eldritch Hunt     | MonkeyDM                | 5.5e    |
-| [[Subclasses/Third Party/Rogue/Charlatan.md\|Charlatan]]                       | L'Arsene's Ledger of Treasures and Trinkets | Loot Tavern             | 5e      |
+| [[Subclasses/Third Party/Rogue/Charlatan (Subclass).md\|Charlatan]]            | L'Arsene's Ledger of Treasures and Trinkets | Loot Tavern             | 5e      |
 | [[Subclasses/Third Party/Rogue/Duskwalker Archetype.md\|Duskwalker Archetype]] | Hexbound                                    | Hit Point Press         | 5e      |
 | [[Subclasses/Third Party/Rogue/Fortune Rogue.md\|Fortune Rogue]]               | Obojima: Tales from Yatamon                 | 1985 Games              | 5.5e    |
 | [[Subclasses/Third Party/Rogue/Grim Surgeon.md\|Grim Surgeon]]                 | The Griffon's Saddlebag: Book Two           | The Griffon's Saddlebag | 5e      |

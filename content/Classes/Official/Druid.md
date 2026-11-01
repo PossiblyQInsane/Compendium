@@ -624,7 +624,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | _[[Spells/Official/Level 2 Spells/Enlarge-Reduce.md\|Enlarge/Reduce]]_                     | Transmutation | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Find Traps.md\|Find Traps]]_                             | Divination    | —       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Flame Blade.md\|Flame Blade]]_                           | Evocation     | C       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Flaming Sphere.md\|Flaming Sphere]]_                     | Conjuration   | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Flaming Sphere.md\|Flaming Sphere]]_                     | Evocation     | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Gust of Wind.md\|Gust of Wind]]_                         | Evocation     | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Healing Spirit.md\|Healing Spirit]]_                     | Conjuration   | C       | Xanathar's Guide to Everything    |
 | _[[Spells/Official/Level 2 Spells/Heat Metal.md\|Heat Metal]]_                             | Transmutation | C       | Player's Handbook 5.5e            |

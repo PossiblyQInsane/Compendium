@@ -4,6 +4,7 @@
 | ------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ------------------------------- |
 | _[[Spells/Third Party/Cantrips/Bitter Wind.md\|Bitter Wind]]_                   | Necromancy    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Cantrips/Can't Trip.md\|Can't Trip]]_                     | Abjuration    | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
+| _[[Spells/Third Party/Cantrips/Flare.md\|Flare]]_                               | Evocation     | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Hateful Haunting.md\|Hateful Haunting]]_         | Necromancy    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Cantrips/Moment to Think.md\|Moment to Think]]_           | Transmutation | —       | Valda's Spire of Secrets           | Mage Hand Press                 |
 | _[[Spells/Third Party/Cantrips/Overexposure.md\|Overexposure]]_                 | Divination    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |

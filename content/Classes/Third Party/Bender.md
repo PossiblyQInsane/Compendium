@@ -429,7 +429,7 @@ Benders control the primordial forces through manipulation of the Weave. The spe
 | _[[Spells/Official/Level 2 Spells/Continual Flame.md\|Continual Flame]]_                 | Evocation     | M       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Enhance Ability.md\|Enhance Ability]]_ (Charisma only) | Transmutation | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Flame Blade.md\|Flame Blade]]_                         | Evocation     | C       | Player's Handbook 5.5e            |
-| _[[Spells/Official/Level 2 Spells/Flaming Sphere.md\|Flaming Sphere]]_                   | Conjuration   | C       | Player's Handbook 5.5e            |
+| _[[Spells/Official/Level 2 Spells/Flaming Sphere.md\|Flaming Sphere]]_                   | Evocation     | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Heat Metal.md\|Heat Metal]]_                           | Transmutation | C       | Player's Handbook 5.5e            |
 | _[[Spells/Official/Level 2 Spells/Invisibility.md\|Invisibility]]_                       | Illusion      | C       | Player's Handbook 5.5e            |
 | _[[Spells/Third Party/Level 2 Spells/Redirect Lightning.md\|Redirect Lightning]]_        | Abjuration    | —       | Ryoko's Guide to the Yokai Realms |
