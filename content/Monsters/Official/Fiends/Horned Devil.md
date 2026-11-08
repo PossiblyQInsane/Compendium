@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-12T04:36:51.119Z
-modified: 2026-10-12T04:39:54.089Z
-published: 2026-10-12T04:39:54.089Z
+modified: 2026-11-08T05:43:20.904Z
+published: 2026-11-08T05:43:20.904Z
 Creature Type: Fiend
 Subtype: Devil
 Size:

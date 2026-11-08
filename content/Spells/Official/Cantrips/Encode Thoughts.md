@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T23:27:25.475Z
-modified: 2026-10-05T23:30:57.988Z
-published: 2026-10-05T23:30:57.988Z
+modified: 2026-11-08T05:44:33.382Z
+published: 2026-11-08T05:44:33.382Z
 Name: "[[Encode Thoughts]]"
 Spell Level: Cantrip
 School: Enchantment

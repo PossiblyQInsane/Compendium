@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-13T06:27:49.731Z
-modified: 2026-10-13T06:31:01.402Z
-published: 2026-10-13T06:31:01.402Z
+modified: 2026-11-08T05:44:23.951Z
+published: 2026-11-08T05:44:23.951Z
 Name: "[[Assess Enemy]]"
 Spell Level: Level 4
 School: Divination

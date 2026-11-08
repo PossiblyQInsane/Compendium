@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-09T13:31:46.326Z
-modified: 2026-10-08T16:02:09.419Z
-published: 2026-10-08T16:02:09.419Z
+modified: 2026-11-08T05:44:47.809Z
+published: 2026-11-08T05:44:47.809Z
 Name: "[[Sanguine Poppet]]"
 Spell Level: Level 3
 School: Transmutation

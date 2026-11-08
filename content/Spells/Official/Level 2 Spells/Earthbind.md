@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-20T15:58:10.497Z
-modified: 2026-10-08T04:57:45.587Z
-published: 2026-10-08T04:57:45.587Z
+modified: 2026-11-08T05:44:32.753Z
+published: 2026-11-08T05:44:32.753Z
 Name: "[[Earthbind]]"
 Spell Level: Level 2
 School: Transmutation

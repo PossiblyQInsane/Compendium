@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-13T07:02:19.526Z
-modified: 2026-10-13T07:03:54.189Z
-published: 2026-10-13T07:03:54.189Z
+modified: 2026-11-08T05:44:47.365Z
+published: 2026-11-08T05:44:47.365Z
 Name: "[[Righteous Incitement]]"
 Spell Level: Cantrip
 School: Evocation

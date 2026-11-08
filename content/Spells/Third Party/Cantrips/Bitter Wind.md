@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-13T05:29:29.243Z
-modified: 2026-10-13T05:32:09.929Z
-published: 2026-10-13T05:32:09.929Z
+modified: 2026-11-08T05:44:25.223Z
+published: 2026-11-08T05:44:25.223Z
 Name: "[[Bitter Wind]]"
 Spell Level: Cantrip
 School: Necromancy

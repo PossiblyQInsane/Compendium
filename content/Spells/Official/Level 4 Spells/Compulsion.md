@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T04:15:06.108Z
-modified: 2026-10-09T04:54:12.503Z
-published: 2026-10-09T04:54:12.503Z
+modified: 2026-11-08T05:44:28.465Z
+published: 2026-11-08T05:44:28.465Z
 Name: "[[Compulsion]]"
 Spell Level: Level 4
 School: Enchantment

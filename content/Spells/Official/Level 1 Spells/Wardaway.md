@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T20:37:28.666Z
-modified: 2026-10-08T04:48:09.587Z
-published: 2026-10-08T04:48:09.587Z
+modified: 2026-11-08T05:44:57.069Z
+published: 2026-11-08T05:44:57.069Z
 Name: "[[Wardaway]]"
 Spell Level: Level 1
 School: Abjuration

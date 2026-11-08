@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-27T06:08:00.697Z
-modified: 2026-10-27T06:10:27.533Z
-published: 2026-10-27T06:10:27.533Z
+modified: 2026-11-08T05:44:30.190Z
+published: 2026-11-08T05:44:30.190Z
 Name: "[[Crown of Radiance]]"
 Spell Level: Level 6
 School: Evocation

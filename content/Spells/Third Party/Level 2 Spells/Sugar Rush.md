@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-18T00:38:44.350Z
-modified: 2026-10-18T00:45:05.278Z
-published: 2026-10-18T00:45:05.278Z
+modified: 2026-11-08T05:44:51.042Z
+published: 2026-11-08T05:44:51.042Z
 Name: "[[Sugar Rush]]"
 Spell Level: Level 2
 School: Biomancy

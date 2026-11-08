@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T17:18:06.455Z
-modified: 2026-10-08T05:16:21.976Z
-published: 2026-10-08T05:16:21.976Z
+modified: 2026-11-08T05:44:57.527Z
+published: 2026-11-08T05:44:57.527Z
 Name: "[[Web]]"
 Spell Level: Level 2
 School: Conjuration

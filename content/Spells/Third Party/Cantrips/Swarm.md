@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-24T05:17:51.119Z
-modified: 2026-10-08T05:20:51.675Z
-published: 2026-10-08T05:20:51.675Z
+modified: 2026-11-08T05:44:51.794Z
+published: 2026-11-08T05:44:51.794Z
 Name: "[[Swarm]]"
 Spell Level: Cantrip
 School: Biomancy

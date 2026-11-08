@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-06T00:44:16.891Z
-modified: 2026-10-06T00:46:17.301Z
-published: 2026-10-06T00:46:17.301Z
+modified: 2026-11-08T05:44:42.968Z
+published: 2026-11-08T05:44:42.968Z
 Name: "[[Maze]]"
 Spell Level: Level 8
 School: Conjuration

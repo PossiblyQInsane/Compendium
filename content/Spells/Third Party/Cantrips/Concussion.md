@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-25T01:29:18.816Z
-modified: 2026-10-08T05:19:15.533Z
-published: 2026-10-08T05:19:15.533Z
+modified: 2026-11-08T05:44:28.534Z
+published: 2026-11-08T05:44:28.534Z
 Name: "[[Concussion]]"
 Spell Level: Cantrip
 School: Evocation

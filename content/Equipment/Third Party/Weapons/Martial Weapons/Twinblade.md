@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-15T05:43:15.516Z
-modified: 2026-10-15T06:21:31.314Z
-published: 2026-10-15T06:21:31.314Z
+modified: 2026-11-08T05:42:17.331Z
+published: 2026-11-08T05:42:17.331Z
 Category: Martial Melee Weapons
 Damage: 2d4 Slashing
 Properties: "Finesse, Special: Whirl, Two-Handed"

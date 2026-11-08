@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-27T05:50:13.303Z
-modified: 2026-10-27T05:53:57.178Z
-published: 2026-10-27T05:53:57.178Z
+modified: 2026-11-08T05:44:26.855Z
+published: 2026-11-08T05:44:26.855Z
 Name: "[[Calling Card]]"
 Spell Level: Cantrip
 School: Illusion

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T02:18:33.063Z
-modified: 2026-10-08T04:19:39.699Z
-published: 2026-10-08T04:19:39.699Z
+modified: 2026-11-08T05:44:52.771Z
+published: 2026-11-08T05:44:52.771Z
 Name: "[[Thorn Whip|Thorn Whip]]"
 Spell Level: Cantrip
 School: Transmutation

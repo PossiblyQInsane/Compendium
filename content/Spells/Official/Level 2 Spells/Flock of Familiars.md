@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T21:20:32.428Z
-modified: 2026-10-08T05:01:14.489Z
-published: 2026-10-08T05:01:14.489Z
+modified: 2026-11-08T05:44:35.912Z
+published: 2026-11-08T05:44:35.912Z
 Name: "[[Flock of Familiars]]"
 Spell Level: Level 2
 School: Conjuration

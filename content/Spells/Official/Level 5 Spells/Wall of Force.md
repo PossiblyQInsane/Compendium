@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-28T14:44:38.262Z
-modified: 2026-09-30T05:03:49.428Z
-published: 2026-09-30T05:03:49.428Z
+modified: 2026-11-08T05:44:56.887Z
+published: 2026-11-08T05:44:56.887Z
 Name: "[[Wall of Force]]"
 Spell Level: Level 5
 School: Evocation

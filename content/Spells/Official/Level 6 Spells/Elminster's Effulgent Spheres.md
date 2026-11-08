@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-24T02:38:24.544Z
-modified: 2026-10-09T05:27:19.727Z
-published: 2026-10-09T05:27:19.727Z
+modified: 2026-11-08T05:44:33.246Z
+published: 2026-11-08T05:44:33.246Z
 Name: "[[Elminster's Effulgent Spheres]]"
 Spell Level: Level 6
 School: Evocation

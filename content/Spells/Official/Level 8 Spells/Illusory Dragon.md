@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T14:27:00.089Z
-modified: 2026-09-03T14:30:19.284Z
-published: 2026-09-03T14:30:19.284Z
+modified: 2026-11-08T05:44:39.088Z
+published: 2026-11-08T05:44:39.088Z
 Name: "[[Illusory Dragon]]"
 Spell Level: Level 8
 School: Illusion

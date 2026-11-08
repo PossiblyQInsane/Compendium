@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T03:06:21.423Z
-modified: 2026-10-20T03:09:14.221Z
-published: 2026-10-20T03:09:14.221Z
+modified: 2026-11-08T05:44:44.749Z
+published: 2026-11-08T05:44:44.749Z
 Name: "[[Outcast's Curse]]"
 Spell Level: Level 4
 School: Enchantment

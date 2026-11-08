@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-05T14:07:32.423Z
-modified: 2026-10-07T15:50:52.452Z
-published: 2026-10-07T15:50:52.452Z
+modified: 2026-11-08T02:10:23.434Z
+published: 2026-11-08T02:10:23.434Z
 Name: "[[Druid]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -795,36 +795,36 @@ A Druid subclass is a specialization that grants you features at certain Druid l
 
 | Name                                                                            | Source                         | Edition |
 | ------------------------------------------------------------------------------- | ------------------------------ | ------- |
-| [[Subclasses/Official/Druid/Circle of Dreams.md\|Circle of Dreams]]             | Xanathar's Guide to Everything | 5e      |
-| [[Subclasses/Official/Druid/Circle of Spores.md\|Circle of Spores]]             | Guildmasters' Guide to Ravnica | 5e      |
-| [[Subclasses/Official/Druid/Circle of the Land.md\|Circle of the Land]]         | Player's Handbook 5.5e         | 5.5e    |
-| [[Subclasses/Official/Druid/Circle of the Moon.md\|Circle of the Moon]]         | Player's Handbook 5.5e         | 5.5e    |
-| [[Subclasses/Official/Druid/Circle of the Sea.md\|Circle of the Sea]]           | Player's Handbook 5.5e         | 5.5e    |
-| [[Subclasses/Official/Druid/Circle of the Shepherd.md\|Circle of the Shepherd]] | Xanathar's Guide to Everything | 5e      |
-| [[Subclasses/Official/Druid/Circle of the Stars.md\|Circle of the Stars]]       | Player's Handbook 5.5e         | 5.5e    |
-| [[Subclasses/Official/Druid/Circle of Wildfire.md\|Circle of Wildfire]]         | Tasha's Cauldron of Everything | 5e      |
+| [[Subclasses/Druid/Official/Circle of Dreams.md\|Circle of Dreams]]             | Xanathar's Guide to Everything | 5e      |
+| [[Subclasses/Druid/Official/Circle of Spores.md\|Circle of Spores]]             | Guildmasters' Guide to Ravnica | 5e      |
+| [[Subclasses/Druid/Official/Circle of the Land.md\|Circle of the Land]]         | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Druid/Official/Circle of the Moon.md\|Circle of the Moon]]         | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Druid/Official/Circle of the Sea.md\|Circle of the Sea]]           | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Druid/Official/Circle of the Shepherd.md\|Circle of the Shepherd]] | Xanathar's Guide to Everything | 5e      |
+| [[Subclasses/Druid/Official/Circle of the Stars.md\|Circle of the Stars]]       | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Druid/Official/Circle of Wildfire.md\|Circle of Wildfire]]         | Tasha's Cauldron of Everything | 5e      |
 
 ### Third Party Druid Subclasses
 
 | Name                                                                               | Source                                  | Publisher               | Edition |
 | ---------------------------------------------------------------------------------- | --------------------------------------- | ----------------------- | ------- |
-| [[Subclasses/Third Party/Druid/Circle of Blood.md\|Circle of Blood]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Druid/Circle of Cycles.md\|Circle of Cycles]]             | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games            | 5.5e    |
-| [[Subclasses/Third Party/Druid/Circle of Dragons.md\|Circle of Dragons]]           | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
-| [[Subclasses/Third Party/Druid/Circle of Entropy.md\|Circle of Entropy]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Druid/Circle of Fenris.md\|Circle of Fenris]]             | Northlands Worldbook                    | Kobold Press            | 5.5e    |
-| [[Subclasses/Third Party/Druid/Circle of Flowers.md\|Circle of Flowers]]           | The Field Guide to Floral Dragons       | Hit Point Press         | 5.5e    |
-| [[Subclasses/Third Party/Druid/Circle of Mutation.md\|Circle of Mutation]]         | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Druid/Circle of Symbiosis.md\|Circle of Symbiosis]]       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
-| [[Subclasses/Third Party/Druid/Circle of the Blighted.md\|Circle of the Blighted]] | Tal'Dorei Campaign Setting Reborn       | Darrington Press        | 5e      |
-| [[Subclasses/Third Party/Druid/Circle of the Brew.md\|Circle of the Brew]]         | Hexbound                                | Hit Point Press         | 5e      |
-| [[Subclasses/Third Party/Druid/Circle of the City.md\|Circle of the City]]         | Valda's Spire of Secrets                | Mage Hand Press         | 5.5e    |
-| [[Subclasses/Third Party/Druid/Circle of the Forged.md\|Circle of the Forged]]     | Exploring Eberron                       | Visionary               | 5.5e    |
-| [[Subclasses/Third Party/Druid/Circle of the Hive.md\|Circle of the Hive]]         | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Druid/Circle of the Old Ways.md\|Circle of the Old Ways]] | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Druid/Circle of the Petal.md\|Circle of the Petal]]       | Obojima: Tales from the Tall Grass      | 1985 Games              | 5.5e    |
-| [[Subclasses/Third Party/Druid/Circle of the Symbiote.md\|Circle of the Symbiote]] | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
-| [[Subclasses/Third Party/Druid/Circle of the Warden.md\|Circle of the Warden]]     | Humblewood Tales                        | Hit Point Press         | 5e      |
-| [[Subclasses/Third Party/Druid/Circle of the Yokai.md\|Circle of the Yokai]]       | Ryoko's Guide to the Yokai Realms       | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Druid/Circle of Wicker.md\|Circle of Wicker]]             | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Druid/Unbroken Circle.md\|The Unbroken Circle]]           | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Druid/Third Party/Circle of Blood.md\|Circle of Blood]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Druid/Third Party/Circle of Cycles.md\|Circle of Cycles]]             | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games            | 5.5e    |
+| [[Subclasses/Druid/Third Party/Circle of Dragons.md\|Circle of Dragons]]           | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Druid/Third Party/Circle of Entropy.md\|Circle of Entropy]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Druid/Third Party/Circle of Fenris.md\|Circle of Fenris]]             | Northlands Worldbook                    | Kobold Press            | 5.5e    |
+| [[Subclasses/Druid/Third Party/Circle of Flowers.md\|Circle of Flowers]]           | The Field Guide to Floral Dragons       | Hit Point Press         | 5.5e    |
+| [[Subclasses/Druid/Third Party/Circle of Mutation.md\|Circle of Mutation]]         | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Druid/Third Party/Circle of Symbiosis.md\|Circle of Symbiosis]]       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
+| [[Subclasses/Druid/Third Party/Circle of the Blighted.md\|Circle of the Blighted]] | Tal'Dorei Campaign Setting Reborn       | Darrington Press        | 5e      |
+| [[Subclasses/Druid/Third Party/Circle of the Brew.md\|Circle of the Brew]]         | Hexbound                                | Hit Point Press         | 5e      |
+| [[Subclasses/Druid/Third Party/Circle of the City.md\|Circle of the City]]         | Valda's Spire of Secrets                | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Druid/Third Party/Circle of the Forged.md\|Circle of the Forged]]     | Exploring Eberron                       | Visionary               | 5.5e    |
+| [[Subclasses/Druid/Third Party/Circle of the Hive.md\|Circle of the Hive]]         | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |
+| [[Subclasses/Druid/Third Party/Circle of the Old Ways.md\|Circle of the Old Ways]] | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Druid/Third Party/Circle of the Petal.md\|Circle of the Petal]]       | Obojima: Tales from the Tall Grass      | 1985 Games              | 5.5e    |
+| [[Subclasses/Druid/Third Party/Circle of the Symbiote.md\|Circle of the Symbiote]] | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
+| [[Subclasses/Druid/Third Party/Circle of the Warden.md\|Circle of the Warden]]     | Humblewood Tales                        | Hit Point Press         | 5e      |
+| [[Subclasses/Druid/Third Party/Circle of the Yokai.md\|Circle of the Yokai]]       | Ryoko's Guide to the Yokai Realms       | Loot Tavern             | 5e      |
+| [[Subclasses/Druid/Third Party/Circle of Wicker.md\|Circle of Wicker]]             | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Druid/Third Party/Unbroken Circle.md\|The Unbroken Circle]]           | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T06:04:41.966Z
-modified: 2026-10-08T04:56:21.402Z
-published: 2026-10-08T04:56:21.402Z
+modified: 2026-11-08T05:44:31.783Z
+published: 2026-11-08T05:44:31.783Z
 Name: "[[Disruptive Tune]]"
 Spell Level: Level 2
 School: Abjuration

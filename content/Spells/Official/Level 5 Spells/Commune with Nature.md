@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-02T15:41:08.595Z
-modified: 2026-10-09T05:13:25.344Z
-published: 2026-10-09T05:13:25.344Z
+modified: 2026-11-08T05:44:28.367Z
+published: 2026-11-08T05:44:28.367Z
 Name: "[[Commune with Nature]]"
 Spell Level: Level 5
 School: Divination

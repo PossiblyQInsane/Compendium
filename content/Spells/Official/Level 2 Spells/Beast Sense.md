@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-02T15:30:09.361Z
-modified: 2026-10-08T16:09:49.734Z
-published: 2026-10-08T16:09:49.734Z
+modified: 2026-11-08T05:44:25.002Z
+published: 2026-11-08T05:44:25.002Z
 Name: "[[Beast Sense]]"
 Spell Level: Level 2
 School: Divination

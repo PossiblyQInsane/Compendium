@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T17:20:00.069Z
-modified: 2026-08-31T19:10:17.393Z
-published: 2026-08-31T19:10:17.393Z
+modified: 2026-11-08T05:44:50.208Z
+published: 2026-11-08T05:44:50.208Z
 Name: "[[Spirit Guardians]]"
 Spell Level: Level 3
 School: Conjuration

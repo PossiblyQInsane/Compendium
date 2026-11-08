@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T00:50:55.006Z
-modified: 2026-10-08T04:47:54.172Z
-published: 2026-10-08T04:47:54.172Z
+modified: 2026-11-08T05:44:55.695Z
+published: 2026-11-08T05:44:55.695Z
 Name: "[[Unseen Servant]]"
 Spell Level: Level 1
 School: Conjuration

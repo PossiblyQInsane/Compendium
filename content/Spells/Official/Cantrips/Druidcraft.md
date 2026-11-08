@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T15:13:55.900Z
-modified: 2026-08-31T15:50:53.430Z
-published: 2026-08-31T15:50:53.430Z
+modified: 2026-11-08T05:44:32.514Z
+published: 2026-11-08T05:44:32.514Z
 Name: "[[Druidcraft]]"
 Spell Level: Cantrip
 School: Transmutation

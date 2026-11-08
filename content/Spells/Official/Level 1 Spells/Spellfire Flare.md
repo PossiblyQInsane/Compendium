@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T04:31:51.489Z
-modified: 2026-10-08T04:47:00.108Z
-published: 2026-10-08T04:47:00.108Z
+modified: 2026-11-08T05:44:50.033Z
+published: 2026-11-08T05:44:50.033Z
 Name: "[[Spellfire Flare]]"
 Spell Level: Level 1
 School: Evocation

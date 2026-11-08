@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-02T01:18:02.429Z
-modified: 2026-08-17T20:06:41.068Z
-published: 2026-08-17T20:06:41.068Z
+modified: 2026-11-08T05:42:08.593Z
+published: 2026-11-08T05:42:08.593Z
 Category: Martial Ranged Weapons
 Damage: 1d6 Piercing
 Properties: Ammunition (Range 30/120; Bolt), Light, Loading

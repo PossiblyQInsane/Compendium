@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-14T05:21:57.660Z
-modified: 2026-10-14T05:24:25.758Z
-published: 2026-10-14T05:24:25.758Z
+modified: 2026-11-08T05:44:35.131Z
+published: 2026-11-08T05:44:35.131Z
 Name: "[[First Speech]]"
 Spell Level: Level 6
 School: Divination

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T21:42:19.565Z
-modified: 2026-10-09T05:14:42.816Z
-published: 2026-10-09T05:14:42.816Z
+modified: 2026-11-08T05:44:30.022Z
+published: 2026-11-08T05:44:30.022Z
 Name: "[[Creation]]"
 Spell Level: Level 5
 School: Illusion

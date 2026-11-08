@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T02:43:57.797Z
-modified: 2026-10-08T16:05:02.208Z
-published: 2026-10-08T16:05:02.208Z
+modified: 2026-11-08T05:44:24.142Z
+published: 2026-11-08T05:44:24.142Z
 Name: "[[Augury]]"
 Spell Level: Level 2
 School: Divination

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T18:58:47.322Z
-modified: 2026-10-09T04:57:47.196Z
-published: 2026-10-09T04:57:47.196Z
+modified: 2026-11-08T05:44:34.172Z
+published: 2026-11-08T05:44:34.172Z
 Name: "[[Fabricate]]"
 Spell Level: Level 4
 School: Transmutation

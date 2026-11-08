@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-15T02:33:26.084Z
-modified: 2026-09-15T02:36:33.783Z
-published: 2026-09-15T02:36:33.783Z
+modified: 2026-11-08T05:44:51.818Z
+published: 2026-11-08T05:44:51.818Z
 Name: "[[Swift Quiver]]"
 Spell Level: Level 5
 School: Transmutation

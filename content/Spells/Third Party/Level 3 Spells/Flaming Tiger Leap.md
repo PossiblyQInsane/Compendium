@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T06:21:22.058Z
-modified: 2026-10-16T06:25:39.367Z
-published: 2026-10-16T06:25:39.367Z
+modified: 2026-11-08T05:44:35.341Z
+published: 2026-11-08T05:44:35.341Z
 Name: "[[Flaming Tiger Leap]]"
 Spell Level: Level 3
 School: Transmutation

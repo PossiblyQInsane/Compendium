@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - petrified
 created: 2026-08-06T05:08:39.021Z
-modified: 2026-09-29T05:27:20.677Z
-published: 2026-09-29T05:27:20.677Z
+modified: 2026-11-08T05:43:45.855Z
+published: 2026-11-08T05:43:45.855Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

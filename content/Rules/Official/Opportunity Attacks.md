@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Opportunity Attack
 created: 2026-07-31T14:28:30.759Z
-modified: 2026-08-24T03:34:26.684Z
-published: 2026-08-24T03:34:26.684Z
+modified: 2026-11-08T05:43:45.613Z
+published: 2026-11-08T05:43:45.613Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

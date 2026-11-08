@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T22:26:05.559Z
-modified: 2026-10-09T05:29:23.359Z
-published: 2026-10-09T05:29:23.359Z
+modified: 2026-11-08T05:44:41.194Z
+published: 2026-11-08T05:44:41.194Z
 Name: "[[Leomund's Lamentable Belaborment]]"
 Spell Level: Level 6
 School: Enchantment

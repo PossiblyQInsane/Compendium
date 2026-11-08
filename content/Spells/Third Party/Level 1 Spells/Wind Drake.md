@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-15T17:03:11.501Z
-modified: 2026-10-15T17:08:22.076Z
-published: 2026-10-15T17:08:22.076Z
+modified: 2026-11-08T05:44:57.696Z
+published: 2026-11-08T05:44:57.696Z
 Name: "[[Wind Drake]]"
 Spell Level: Level 1
 School: Conjuration

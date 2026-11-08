@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-24T06:47:04.001Z
-modified: 2026-10-08T04:16:11.145Z
-published: 2026-10-08T04:16:11.145Z
+modified: 2026-11-08T05:44:45.734Z
+published: 2026-11-08T05:44:45.734Z
 Name: "[[Prestidigitation|Prestidigitation]]"
 Spell Level: Cantrip
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-18T00:59:20.109Z
-modified: 2026-10-18T01:02:26.852Z
-published: 2026-10-18T01:02:26.852Z
+modified: 2026-11-08T05:44:24.284Z
+published: 2026-11-08T05:44:24.284Z
 Name: "[[Aura of Impurity]]"
 Spell Level: Level 4
 School: Abjuration

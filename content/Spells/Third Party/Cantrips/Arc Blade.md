@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T03:02:10.129Z
-modified: 2026-10-08T05:17:10.220Z
-published: 2026-10-08T05:17:10.220Z
+modified: 2026-11-08T05:44:23.489Z
+published: 2026-11-08T05:44:23.489Z
 Name: "[[Arc Blade]]"
 Spell Level: Cantrip
 School: Evocation

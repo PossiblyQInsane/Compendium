@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-02T01:09:37.192Z
-modified: 2026-08-23T20:40:39.864Z
-published: 2026-08-23T20:40:39.864Z
+modified: 2026-11-08T05:42:17.516Z
+published: 2026-11-08T05:42:17.516Z
 Category: Martial Melee Weapons
 Damage: 1d4 Slashing
 Properties: Finesse, Reach

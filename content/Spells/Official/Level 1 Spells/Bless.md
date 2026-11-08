@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T02:15:13.924Z
-modified: 2026-10-08T16:08:10.703Z
-published: 2026-10-08T16:08:10.703Z
+modified: 2026-11-08T05:44:25.375Z
+published: 2026-11-08T05:44:25.375Z
 Name: "[[Bless]]"
 Spell Level: Level 1
 School: Enchantment

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-17T23:43:58.435Z
-modified: 2026-10-17T23:47:15.112Z
-published: 2026-10-17T23:47:15.112Z
+modified: 2026-11-08T05:44:50.449Z
+published: 2026-11-08T05:44:50.449Z
 Name: "[[Stalker's Eye]]"
 Spell Level: Cantrip
 School: Enchantment

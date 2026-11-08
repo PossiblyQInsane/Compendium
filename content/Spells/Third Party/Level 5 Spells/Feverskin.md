@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T05:24:58.010Z
-modified: 2026-10-09T05:23:46.258Z
-published: 2026-10-09T05:23:46.258Z
+modified: 2026-11-08T05:44:34.613Z
+published: 2026-11-08T05:44:34.613Z
 Name: "[[Feverskin]]"
 Spell Level: Level 5
 School: Biomancy

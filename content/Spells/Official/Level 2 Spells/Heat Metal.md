@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T04:59:59.738Z
-modified: 2026-10-08T05:02:36.988Z
-published: 2026-10-08T05:02:36.988Z
+modified: 2026-11-08T05:44:38.305Z
+published: 2026-11-08T05:44:38.305Z
 Name: "[[Heat Metal]]"
 Spell Level: Level 2
 School: Transmutation

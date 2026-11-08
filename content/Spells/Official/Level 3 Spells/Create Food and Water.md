@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T17:31:36.676Z
-modified: 2026-10-08T15:36:19.087Z
-published: 2026-10-08T15:36:19.087Z
+modified: 2026-11-08T05:44:29.734Z
+published: 2026-11-08T05:44:29.734Z
 Name: "[[Create Food and Water]]"
 Spell Level: Level 3
 School: Conjuration

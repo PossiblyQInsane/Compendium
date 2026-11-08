@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-07T15:30:47.459Z
-modified: 2026-09-29T03:38:26.435Z
-published: 2026-09-29T03:38:26.435Z
+modified: 2026-11-08T05:44:36.916Z
+published: 2026-11-08T05:44:36.916Z
 Name: "[[Giant Insect]]"
 Spell Level: Level 4
 School: Conjuration

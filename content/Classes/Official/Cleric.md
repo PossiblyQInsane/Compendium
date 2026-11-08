@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T01:26:01.386Z
-modified: 2026-10-07T15:50:44.365Z
-published: 2026-10-07T15:50:44.365Z
+modified: 2026-11-08T02:10:18.091Z
+published: 2026-11-08T02:10:18.091Z
 Name: "[[Cleric]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -711,41 +711,41 @@ A Cleric subclass is a specialization that grants you features at certain Cleric
 
 | Name                                                                 | Source                             | Edition |
 | -------------------------------------------------------------------- | ---------------------------------- | ------- |
-| [[Subclasses/Official/Cleric/Arcana Domain.md\|Arcana Domain]]       | Arcana Unleashed                   | 5.5e    |
-| [[Subclasses/Official/Cleric/Death Domain.md\|Death Domain]]         | Dungeon Master's Guide 5e          | 5e      |
-| [[Subclasses/Official/Cleric/Forge Domain.md\|Forge Domain]]         | Xanathar's Guide to Everything     | 5e      |
-| [[Subclasses/Official/Cleric/Grave Domain.md\|Grave Domain]]         | Ravenloft: The Horrors Within      | 5.5e    |
-| [[Subclasses/Official/Cleric/Knowledge Domain.md\|Knowledge Domain]] | Forgotten Realms: Heroes of Faerûn | 5.5e    |
-| [[Subclasses/Official/Cleric/Life Domain.md\|Life Domain]]           | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Cleric/Light Domain.md\|Light Domain]]         | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Cleric/Nature Domain.md\|Nature Domain]]       | Player's Handbook 5e               | 5e      |
-| [[Subclasses/Official/Cleric/Order Domain.md\|Order Domain]]         | Guildmasters' Guide to Ravnica     | 5e      |
-| [[Subclasses/Official/Cleric/Peace Domain.md\|Peace Domain]]         | Tasha's Cauldron of Everything     | 5e      |
-| [[Subclasses/Official/Cleric/Tempest Domain.md\|Tempest Domain]]     | Player's Handbook 5e               | 5e      |
-| [[Subclasses/Official/Cleric/Trickery Domain.md\|Trickery Domain]]   | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Cleric/Twilight Domain.md\|Twilight Domain]]   | Tasha's Cauldron of Everything     | 5e      |
-| [[Subclasses/Official/Cleric/War Domain.md\|War Domain]]             | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Cleric/Official/Arcana Domain.md\|Arcana Domain]]       | Arcana Unleashed                   | 5.5e    |
+| [[Subclasses/Cleric/Official/Death Domain.md\|Death Domain]]         | Dungeon Master's Guide 5e          | 5e      |
+| [[Subclasses/Cleric/Official/Forge Domain.md\|Forge Domain]]         | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Cleric/Official/Grave Domain.md\|Grave Domain]]         | Ravenloft: The Horrors Within      | 5.5e    |
+| [[Subclasses/Cleric/Official/Knowledge Domain.md\|Knowledge Domain]] | Forgotten Realms: Heroes of Faerûn | 5.5e    |
+| [[Subclasses/Cleric/Official/Life Domain.md\|Life Domain]]           | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Cleric/Official/Light Domain.md\|Light Domain]]         | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Cleric/Official/Nature Domain.md\|Nature Domain]]       | Player's Handbook 5e               | 5e      |
+| [[Subclasses/Cleric/Official/Order Domain.md\|Order Domain]]         | Guildmasters' Guide to Ravnica     | 5e      |
+| [[Subclasses/Cleric/Official/Peace Domain.md\|Peace Domain]]         | Tasha's Cauldron of Everything     | 5e      |
+| [[Subclasses/Cleric/Official/Tempest Domain.md\|Tempest Domain]]     | Player's Handbook 5e               | 5e      |
+| [[Subclasses/Cleric/Official/Trickery Domain.md\|Trickery Domain]]   | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Cleric/Official/Twilight Domain.md\|Twilight Domain]]   | Tasha's Cauldron of Everything     | 5e      |
+| [[Subclasses/Cleric/Official/War Domain.md\|War Domain]]             | Player's Handbook 5.5e             | 5.5e    |
 
 ### Third Party Cleric Subclasses
 
 | Name                                                                                                 | Source                                      | Publisher               | Edition |
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------- | ------- |
-| [[Subclasses/Third Party/Cleric/Apocalypse Domain.md\|Apocalypse Domain]]                            | Cthulhu by Torchlight                       | Chaosium                | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Astral Domain.md\|Astral Domain]]                                    | The Griffon's Saddlebag: Book One           | The Griffon's Saddlebag | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Blood Domain.md\|Blood Domain]]                                      | Tal'Dorei Campaign Setting Reborn           | Darrington Press        | 5e      |
-| [[Subclasses/Third Party/Cleric/Commerce Domain.md\|Commerce Domain]]                                | Frontiers of Eberron: Quickstone            | Visionary               | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Community Domain.md\|Community Domain]]                              | Humblewood Campaign Setting                 | Hit Point Press         | 5e      |
-| [[Subclasses/Third Party/Cleric/Dragon Domain.md\|Dragon Domain]]                                    | Valda's Spire of Secrets                    | Mage Hand Press         | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Eldritch Domain.md\|Eldritch Domain]]                                | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Festivity Domain.md\|Festivity Domain]]                              | L'Arsene's Ledger of Treasures and Trinkets | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Cleric/Festus Domain.md\|Festus Domain]]                                    | The Griffon's Saddlebag: Book Two           | The Griffon's Saddlebag | 5e      |
-| [[Subclasses/Third Party/Cleric/Harvest Domain.md\|Harvest Domain]]                                  | The Crooked Moon                            | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Hunt Domain.md\|Hunt Domain]]                                        | Heliana's Guide to Monster Hunting          | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Cleric/Inquisition Domain.md\|Inquisition Domain]]                          | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Medium - Domain of Witchcraft.md\|The Medium: Domain of Witchcraft]] | Hexbound                                    | Hit Point Press         | 5e      |
-| [[Subclasses/Third Party/Cleric/Mind Domain.md\|Mind Domain]]                                        | Exploring Eberron                           | Visionary               | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Moon Domain.md\|Moon Domain]]                                        | Tal'Dorei Campaign Setting Reborn           | Darrington Press        | 5e      |
-| [[Subclasses/Third Party/Cleric/Night Domain.md\|Night Domain]]                                      | Humblewood Campaign Setting                 | Hit Point Press         | 5e      |
-| [[Subclasses/Third Party/Cleric/Nornbound.md\|Nornbound]]                                            | Northlands Worldbook                        | Kobold Press            | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Purification Domain.md\|Purification Domain]]                        | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Cleric/Shrine Warden Domain.md\|Shrine Warden Domain]]                      | Ryoko's Guide to the Yokai Realms           | Loot Tavern             | 5e      |
+| [[Subclasses/Cleric/Third Party/Apocalypse Domain.md\|Apocalypse Domain]]                            | Cthulhu by Torchlight                       | Chaosium                | 5.5e    |
+| [[Subclasses/Cleric/Third Party/Astral Domain.md\|Astral Domain]]                                    | The Griffon's Saddlebag: Book One           | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Cleric/Third Party/Blood Domain.md\|Blood Domain]]                                      | Tal'Dorei Campaign Setting Reborn           | Darrington Press        | 5e      |
+| [[Subclasses/Cleric/Third Party/Commerce Domain.md\|Commerce Domain]]                                | Frontiers of Eberron: Quickstone            | Visionary               | 5.5e    |
+| [[Subclasses/Cleric/Third Party/Community Domain.md\|Community Domain]]                              | Humblewood Campaign Setting                 | Hit Point Press         | 5e      |
+| [[Subclasses/Cleric/Third Party/Dragon Domain.md\|Dragon Domain]]                                    | Valda's Spire of Secrets                    | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Cleric/Third Party/Eldritch Domain.md\|Eldritch Domain]]                                | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Cleric/Third Party/Festivity Domain.md\|Festivity Domain]]                              | L'Arsene's Ledger of Treasures and Trinkets | Loot Tavern             | 5e      |
+| [[Subclasses/Cleric/Third Party/Festus Domain.md\|Festus Domain]]                                    | The Griffon's Saddlebag: Book Two           | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Cleric/Third Party/Harvest Domain.md\|Harvest Domain]]                                  | The Crooked Moon                            | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Cleric/Third Party/Hunt Domain.md\|Hunt Domain]]                                        | Heliana's Guide to Monster Hunting          | Loot Tavern             | 5e      |
+| [[Subclasses/Cleric/Third Party/Inquisition Domain.md\|Inquisition Domain]]                          | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Cleric/Third Party/Medium - Domain of Witchcraft.md\|The Medium: Domain of Witchcraft]] | Hexbound                                    | Hit Point Press         | 5e      |
+| [[Subclasses/Cleric/Third Party/Mind Domain.md\|Mind Domain]]                                        | Exploring Eberron                           | Visionary               | 5.5e    |
+| [[Subclasses/Cleric/Third Party/Moon Domain.md\|Moon Domain]]                                        | Tal'Dorei Campaign Setting Reborn           | Darrington Press        | 5e      |
+| [[Subclasses/Cleric/Third Party/Night Domain.md\|Night Domain]]                                      | Humblewood Campaign Setting                 | Hit Point Press         | 5e      |
+| [[Subclasses/Cleric/Third Party/Nornbound.md\|Nornbound]]                                            | Northlands Worldbook                        | Kobold Press            | 5.5e    |
+| [[Subclasses/Cleric/Third Party/Purification Domain.md\|Purification Domain]]                        | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Cleric/Third Party/Shrine Warden Domain.md\|Shrine Warden Domain]]                      | Ryoko's Guide to the Yokai Realms           | Loot Tavern             | 5e      |

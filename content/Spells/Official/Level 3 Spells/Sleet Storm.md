@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-07T15:02:24.401Z
-modified: 2026-10-08T15:51:08.113Z
-published: 2026-10-08T15:51:08.113Z
+modified: 2026-11-08T05:44:49.209Z
+published: 2026-11-08T05:44:49.209Z
 Name: "[[Sleet Storm]]"
 Spell Level: Level 3
 School: Conjuration

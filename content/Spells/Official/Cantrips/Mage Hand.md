@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T01:45:08.179Z
-modified: 2026-10-08T04:12:35.898Z
-published: 2026-10-08T04:12:35.898Z
+modified: 2026-11-08T05:44:42.219Z
+published: 2026-11-08T05:44:42.219Z
 Name: "[[Mage Hand|Mage Hand]]"
 Spell Level: Cantrip
 School: Conjuration

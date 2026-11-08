@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T15:02:20.353Z
-modified: 2026-10-08T16:00:12.117Z
-published: 2026-10-08T16:00:12.117Z
+modified: 2026-11-08T05:44:35.424Z
+published: 2026-11-08T05:44:35.424Z
 Name: "[[Flash Fever]]"
 Spell Level: Level 3
 School: Necromancy

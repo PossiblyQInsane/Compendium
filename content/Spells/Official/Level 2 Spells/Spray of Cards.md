@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T21:06:03.245Z
-modified: 2026-10-08T05:13:54.406Z
-published: 2026-10-08T05:13:54.406Z
+modified: 2026-11-08T05:44:50.385Z
+published: 2026-11-08T05:44:50.385Z
 Name: "[[Spray of Cards]]"
 Spell Level: Level 2
 School: Conjuration

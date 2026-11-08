@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-19T02:14:37.720Z
-modified: 2026-10-19T02:24:43.420Z
-published: 2026-10-19T02:24:43.420Z
+modified: 2026-11-08T05:44:55.678Z
+published: 2026-11-08T05:44:55.678Z
 Name: "[[Unrecall]]"
 Spell Level: Level 5
 School: Enchantment

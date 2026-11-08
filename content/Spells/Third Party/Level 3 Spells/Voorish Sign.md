@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T04:11:54.856Z
-modified: 2026-10-20T04:14:08.548Z
-published: 2026-10-20T04:14:08.548Z
+modified: 2026-11-08T05:44:56.729Z
+published: 2026-11-08T05:44:56.729Z
 Name: "[[Voorish Sign]]"
 Spell Level: Level 3
 School: Abjuration

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-13T15:52:35.721Z
-modified: 2026-10-13T15:54:50.975Z
-published: 2026-10-13T15:54:50.975Z
+modified: 2026-11-08T05:44:36.146Z
+published: 2026-11-08T05:44:36.146Z
 Name: "[[Forced Hesitation]]"
 Spell Level: Level 1
 School: Enchantment

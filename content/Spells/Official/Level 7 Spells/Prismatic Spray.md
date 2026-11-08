@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T06:03:01.442Z
-modified: 2026-10-09T05:34:59.663Z
-published: 2026-10-09T05:34:59.663Z
+modified: 2026-11-08T05:44:45.932Z
+published: 2026-11-08T05:44:45.932Z
 Name: "[[Prismatic Spray]]"
 Spell Level: Level 7
 School: Evocation

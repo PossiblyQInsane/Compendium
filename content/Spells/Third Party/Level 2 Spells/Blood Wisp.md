@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-23T14:41:37.302Z
-modified: 2026-10-08T05:29:54.077Z
-published: 2026-10-08T05:29:54.077Z
+modified: 2026-11-08T05:44:25.820Z
+published: 2026-11-08T05:44:25.820Z
 Name: "[[Blood Wisp]]"
 Spell Level: Level 2
 School: Evocation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T06:48:00.816Z
-modified: 2026-10-16T06:52:57.790Z
-published: 2026-10-16T06:52:57.790Z
+modified: 2026-11-08T05:44:43.546Z
+published: 2026-11-08T05:44:43.546Z
 Name: "[[Mirror of Reflection]]"
 Spell Level: Level 2
 School: Conjuration

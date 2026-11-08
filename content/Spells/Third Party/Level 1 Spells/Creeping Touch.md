@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-27T06:04:42.290Z
-modified: 2026-10-27T06:07:36.119Z
-published: 2026-10-27T06:07:36.119Z
+modified: 2026-11-08T05:44:30.076Z
+published: 2026-11-08T05:44:30.076Z
 Name: "[[Creeping Touch]]"
 Spell Level: Level 1
 School: Transmutation

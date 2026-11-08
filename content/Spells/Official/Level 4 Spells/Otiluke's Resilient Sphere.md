@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T19:23:26.443Z
-modified: 2026-10-09T05:03:08.183Z
-published: 2026-10-09T05:03:08.183Z
+modified: 2026-11-08T05:44:44.665Z
+published: 2026-11-08T05:44:44.665Z
 Name: "[[Otiluke's Resilient Sphere]]"
 Spell Level: Level 4
 School: Abjuration

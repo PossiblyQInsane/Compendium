@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-15T14:34:33.128Z
-modified: 2026-09-15T14:37:20.517Z
-published: 2026-09-15T14:37:20.517Z
+modified: 2026-11-08T05:44:38.513Z
+published: 2026-11-08T05:44:38.513Z
 Name: "[[Hex]]"
 Spell Level: Level 1
 School: Enchantment

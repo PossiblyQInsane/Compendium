@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T01:49:02.339Z
-modified: 2026-10-08T04:14:01.957Z
-published: 2026-10-08T04:14:01.957Z
+modified: 2026-11-08T05:44:43.177Z
+published: 2026-11-08T05:44:43.177Z
 Name: "[[Message|Message]]"
 Spell Level: Cantrip
 School: Transmutation

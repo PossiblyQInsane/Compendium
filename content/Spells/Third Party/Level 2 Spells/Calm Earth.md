@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T05:19:24.161Z
-modified: 2026-10-16T05:24:14.491Z
-published: 2026-10-16T05:24:14.491Z
+modified: 2026-11-08T05:44:26.936Z
+published: 2026-11-08T05:44:26.936Z
 Name: "[[Calm Earth]]"
 Spell Level: Level 2
 School: Transmutation

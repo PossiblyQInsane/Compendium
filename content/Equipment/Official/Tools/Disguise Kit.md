@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T20:16:51.118Z
-modified: 2026-08-17T20:05:23.776Z
-published: 2026-08-17T20:05:23.776Z
+modified: 2026-11-08T05:42:04.234Z
+published: 2026-11-08T05:42:04.234Z
 Category: Other Tools
 Ability: Charisma
 Weight: 3 lb.

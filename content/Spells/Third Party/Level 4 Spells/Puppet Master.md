@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-10T19:26:14.547Z
-modified: 2026-10-10T19:30:35.084Z
-published: 2026-10-10T19:30:35.084Z
+modified: 2026-11-08T05:44:46.301Z
+published: 2026-11-08T05:44:46.301Z
 Name: "[[Puppet Master]]"
 Spell Level: Level 4
 School: Enchantment

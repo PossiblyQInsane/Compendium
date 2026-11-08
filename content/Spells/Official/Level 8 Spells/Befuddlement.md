@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T06:25:52.279Z
-modified: 2026-10-09T05:39:07.808Z
-published: 2026-10-09T05:39:07.808Z
+modified: 2026-11-08T05:44:25.027Z
+published: 2026-11-08T05:44:25.027Z
 Name: "[[Befuddlement]]"
 Spell Level: Level 8
 School: Enchantment

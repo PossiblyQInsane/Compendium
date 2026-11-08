@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T02:12:52.735Z
-modified: 2026-10-08T04:19:27.661Z
-published: 2026-10-08T04:19:27.661Z
+modified: 2026-11-08T05:44:52.681Z
+published: 2026-11-08T05:44:52.681Z
 Name: "[[Thaumaturgy]]"
 Spell Level: Cantrip
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-06T15:39:47.693Z
-modified: 2026-10-09T05:49:38.345Z
-published: 2026-10-09T05:49:38.345Z
+modified: 2026-11-08T05:44:37.416Z
+published: 2026-11-08T05:44:37.416Z
 Name: "[[Gravity Fissure]]"
 Spell Level: Level 6
 School: Evocation

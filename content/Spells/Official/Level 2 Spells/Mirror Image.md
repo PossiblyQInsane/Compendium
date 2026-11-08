@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-27T03:19:27.461Z
-modified: 2026-10-08T05:07:49.830Z
-published: 2026-10-08T05:07:49.830Z
+modified: 2026-11-08T05:44:43.526Z
+published: 2026-11-08T05:44:43.526Z
 Name: "[[Mirror Image]]"
 Spell Level: Level 2
 School: Illusion

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T06:59:15.702Z
-modified: 2026-10-16T07:03:49.798Z
-published: 2026-10-16T07:03:49.798Z
+modified: 2026-11-08T05:44:47.569Z
+published: 2026-11-08T05:44:47.569Z
 Name: "[[Ryoko's Revelation]]"
 Spell Level: Level 3
 School: Divination

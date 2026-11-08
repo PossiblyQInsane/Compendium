@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T14:34:07.661Z
-modified: 2026-10-09T05:40:50.699Z
-published: 2026-10-09T05:40:50.699Z
+modified: 2026-11-08T05:44:41.731Z
+published: 2026-11-08T05:44:41.731Z
 Name: "[[Lightning Ring]]"
 Spell Level: Level 8
 School: Evocation

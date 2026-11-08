@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T05:06:34.692Z
-modified: 2026-10-08T05:14:52.505Z
-published: 2026-10-08T05:14:52.505Z
+modified: 2026-11-08T05:44:52.244Z
+published: 2026-11-08T05:44:52.244Z
 Name: "[[Tasha's Mind Whip]]"
 Spell Level: Level 2
 School: Enchantment

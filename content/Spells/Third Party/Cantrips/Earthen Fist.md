@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-15T16:02:22.172Z
-modified: 2026-10-15T16:06:28.247Z
-published: 2026-10-15T16:06:28.247Z
+modified: 2026-11-08T05:44:32.799Z
+published: 2026-11-08T05:44:32.799Z
 Name: "[[Earthen Fist]]"
 Spell Level: Cantrip
 School: Conjuration

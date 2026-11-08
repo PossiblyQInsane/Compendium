@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-22T04:19:57.032Z
-modified: 2026-09-22T04:22:37.818Z
-published: 2026-09-22T04:22:37.818Z
+modified: 2026-11-08T05:42:11.526Z
+published: 2026-11-08T05:42:11.526Z
 Category: Other Tools
 Ability: Wisdom
 Weight: 2 lb.

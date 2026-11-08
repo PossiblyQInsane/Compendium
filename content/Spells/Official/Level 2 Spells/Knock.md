@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T01:16:26.179Z
-modified: 2026-10-08T05:04:38.441Z
-published: 2026-10-08T05:04:38.441Z
+modified: 2026-11-08T05:44:41.084Z
+published: 2026-11-08T05:44:41.084Z
 Name: "[[Knock]]"
 Spell Level: Level 2
 School: Transmutation

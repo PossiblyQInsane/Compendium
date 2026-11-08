@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-17T23:35:21.113Z
-modified: 2026-10-17T23:39:00.377Z
-published: 2026-10-17T23:39:00.377Z
+modified: 2026-11-08T05:44:38.770Z
+published: 2026-11-08T05:44:38.770Z
 Name: "[[Howl]]"
 Spell Level: Cantrip
 School: Transmutation

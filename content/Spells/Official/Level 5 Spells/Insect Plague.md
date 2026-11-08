@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T03:33:12.361Z
-modified: 2026-10-09T05:17:35.966Z
-published: 2026-10-09T05:17:35.966Z
+modified: 2026-11-08T05:44:39.995Z
+published: 2026-11-08T05:44:39.995Z
 Name: "[[Insect Plague]]"
 Spell Level: Level 5
 School: Conjuration

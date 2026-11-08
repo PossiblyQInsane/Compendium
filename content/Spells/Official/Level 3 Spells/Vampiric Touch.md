@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T14:32:13.826Z
-modified: 2026-10-08T15:55:37.754Z
-published: 2026-10-08T15:55:37.754Z
+modified: 2026-11-08T05:44:55.716Z
+published: 2026-11-08T05:44:55.716Z
 Name: "[[Vampiric Touch]]"
 Spell Level: Level 3
 School: Necromancy

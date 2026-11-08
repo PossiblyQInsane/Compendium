@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-23T15:13:56.312Z
-modified: 2026-10-08T16:01:46.701Z
-published: 2026-10-08T16:01:46.701Z
+modified: 2026-11-08T05:44:46.834Z
+published: 2026-11-08T05:44:46.834Z
 Name: "[[Reanimate]]"
 Spell Level: Level 3
 School: Evocation

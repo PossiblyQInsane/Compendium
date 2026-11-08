@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T06:19:30.639Z
-modified: 2026-10-09T05:40:08.183Z
-published: 2026-10-09T05:40:08.183Z
+modified: 2026-11-08T05:44:33.786Z
+published: 2026-11-08T05:44:33.786Z
 Name: "[[Entrancing Mirrors]]"
 Spell Level: Level 8
 School: Illusion

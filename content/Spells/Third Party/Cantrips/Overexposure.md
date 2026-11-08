@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-14T05:15:00.907Z
-modified: 2026-10-14T05:17:20.491Z
-published: 2026-10-14T05:17:20.491Z
+modified: 2026-11-08T05:44:44.779Z
+published: 2026-11-08T05:44:44.779Z
 Name: "[[Overexposure]]"
 Spell Level: Cantrip
 School: Divination

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-13T06:11:36.096Z
-modified: 2026-10-13T06:15:12.533Z
-published: 2026-10-13T06:15:12.533Z
+modified: 2026-11-08T05:44:23.175Z
+published: 2026-11-08T05:44:23.175Z
 Name: "[[Animate Weapon]]"
 Spell Level: Level 2
 School: Transmutation

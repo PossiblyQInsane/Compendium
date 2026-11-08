@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-22T02:58:50.920Z
-modified: 2026-10-08T04:14:23.882Z
-published: 2026-10-08T04:14:23.882Z
+modified: 2026-11-08T05:44:43.297Z
+published: 2026-11-08T05:44:43.297Z
 Name: "[[Mind Sliver]]"
 Spell Level: Cantrip
 School: Enchantment

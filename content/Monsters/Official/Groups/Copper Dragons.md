@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - copper dragon
 created: 2026-09-06T04:49:19.588Z
-modified: 2026-10-10T05:46:57.858Z
-published: 2026-10-10T05:46:57.858Z
+modified: 2026-11-08T05:43:19.342Z
+published: 2026-11-08T05:43:19.342Z
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

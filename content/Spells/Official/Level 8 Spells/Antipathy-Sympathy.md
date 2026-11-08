@@ -1,11 +1,11 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Antipathy/Sympathy
 title: Antipathy/Sympathy
 created: 2026-08-03T06:22:24.368Z
-modified: 2026-10-09T05:38:13.633Z
-published: 2026-10-09T05:38:13.633Z
+modified: 2026-11-08T05:44:23.365Z
+published: 2026-11-08T05:44:23.365Z
 Name: "[[Antipathy-Sympathy|Antipathy/Sympathy]]"
 Spell Level: Level 8
 School: Enchantment

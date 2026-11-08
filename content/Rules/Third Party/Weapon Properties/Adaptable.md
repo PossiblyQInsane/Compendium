@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-11-01T04:13:45.237Z
-modified: 2026-11-01T04:14:41.892Z
-published: 2026-11-01T04:14:41.892Z
+modified: 2026-11-08T05:43:42.102Z
+published: 2026-11-08T05:43:42.102Z
 Source: L'Arsene's Ledger of Treasures and Trinkets
 Official: false
 Publisher: Loot Tavern

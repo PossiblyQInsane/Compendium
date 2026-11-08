@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-13T14:37:08.000Z
-modified: 2026-09-13T14:39:33.492Z
-published: 2026-09-13T14:39:33.492Z
+modified: 2026-11-08T05:44:58.111Z
+published: 2026-11-08T05:44:58.111Z
 Name: "[[Wrathful Smite]]"
 Spell Level: Level 1
 School: Necromancy

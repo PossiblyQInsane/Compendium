@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-06T00:18:14.904Z
-modified: 2026-10-06T00:26:16.532Z
-published: 2026-10-06T00:26:16.532Z
+modified: 2026-11-08T05:44:29.797Z
+published: 2026-11-08T05:44:29.797Z
 Name: "[[Create Magen]]"
 Spell Level: Level 7
 School: Transmutation

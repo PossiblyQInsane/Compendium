@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-24T04:49:42.576Z
-modified: 2026-08-17T20:03:57.429Z
-published: 2026-08-17T20:03:57.429Z
+modified: 2026-11-08T05:42:16.824Z
+published: 2026-11-08T05:42:16.824Z
 Category: Artisan's Tools
 Cost: 50 GP
 Weight: 10 lb.

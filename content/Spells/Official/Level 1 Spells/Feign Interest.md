@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-04T13:33:36.800Z
-modified: 2026-09-04T13:37:20.231Z
-published: 2026-09-04T13:37:20.231Z
+modified: 2026-11-08T05:44:34.465Z
+published: 2026-11-08T05:44:34.465Z
 Name: "[[Feign Interest]]"
 Spell Level: Level 1
 School: Illusion

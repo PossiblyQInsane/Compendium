@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-23T15:42:02.080Z
-modified: 2026-10-09T05:41:59.719Z
-published: 2026-10-09T05:41:59.719Z
+modified: 2026-11-08T05:44:30.057Z
+published: 2026-11-08T05:44:30.057Z
 Name: "[[Creeping Death]]"
 Spell Level: Level 8
 School: Necromancy

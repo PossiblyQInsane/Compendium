@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T02:55:51.488Z
-modified: 2026-10-08T15:37:11.362Z
-published: 2026-10-08T15:37:11.362Z
+modified: 2026-11-08T05:44:30.900Z
+published: 2026-11-08T05:44:30.900Z
 Name: "[[Daylight]]"
 Spell Level: Level 3
 School: Evocation

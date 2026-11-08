@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-20T16:08:40.591Z
-modified: 2026-10-08T05:16:33.151Z
-published: 2026-10-08T05:16:33.151Z
+modified: 2026-11-08T05:44:57.897Z
+published: 2026-11-08T05:44:57.897Z
 Name: "[[Wither and Bloom]]"
 Spell Level: Level 2
 School: Necromancy

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T21:42:28.807Z
-modified: 2026-10-09T05:06:28.141Z
-published: 2026-10-09T05:06:28.141Z
+modified: 2026-11-08T05:44:51.456Z
+published: 2026-11-08T05:44:51.456Z
 Name: "[[Summon Greater Demon]]"
 Spell Level: Level 4
 School: Conjuration

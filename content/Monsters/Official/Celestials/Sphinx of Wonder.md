@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T20:24:28.589Z
-modified: 2026-10-10T05:20:32.815Z
-published: 2026-10-10T05:20:32.815Z
+modified: 2026-11-08T05:43:25.602Z
+published: 2026-11-08T05:43:25.602Z
 Creature Type: Celestial
 Size: Tiny
 Alignment: Lawful Good

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-15T05:58:36.442Z
-modified: 2026-10-15T06:28:39.551Z
-published: 2026-10-15T06:28:39.551Z
+modified: 2026-11-08T05:42:15.941Z
+published: 2026-11-08T05:42:15.941Z
 Category: Martial Ranged Weapons
 Damage: 1d4 Piercing
 Properties: Finesse, Light, Thrown (Range 20/60)

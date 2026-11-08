@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-15T17:23:02.757Z
-modified: 2026-10-15T17:26:29.272Z
-published: 2026-10-15T17:26:29.272Z
+modified: 2026-11-08T05:44:57.735Z
+published: 2026-11-08T05:44:57.735Z
 Name: "[[Wind Strike]]"
 Spell Level: Level 2
 School: Transmutation

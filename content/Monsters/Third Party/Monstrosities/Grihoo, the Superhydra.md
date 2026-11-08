@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-11T02:18:19.155Z
-modified: 2026-10-11T02:24:24.780Z
-published: 2026-10-11T02:24:24.780Z
+modified: 2026-11-08T05:43:20.668Z
+published: 2026-11-08T05:43:20.668Z
 Creature Type: Monstrosity
 Size:
   - Gargantuan

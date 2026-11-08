@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T05:04:05.736Z
-modified: 2026-10-08T16:10:48.348Z
-published: 2026-10-08T16:10:48.348Z
+modified: 2026-11-08T05:44:38.747Z
+published: 2026-11-08T05:44:38.747Z
 Name: "[[Homunculus Servant]]"
 Spell Level: Level 2
 School: Conjuration

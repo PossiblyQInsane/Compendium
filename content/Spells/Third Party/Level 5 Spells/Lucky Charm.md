@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-10T17:09:24.712Z
-modified: 2026-10-09T05:24:55.019Z
-published: 2026-10-09T05:24:55.019Z
+modified: 2026-11-08T05:44:42.004Z
+published: 2026-11-08T05:44:42.004Z
 Name: "[[Lucky Charm]]"
 Spell Level: Level 5
 School: Transmutation

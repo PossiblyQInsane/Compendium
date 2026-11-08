@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-26T20:37:37.073Z
-modified: 2026-10-11T21:35:27.144Z
-published: 2026-10-11T21:35:27.144Z
+modified: 2026-11-08T02:11:49.530Z
+published: 2026-11-08T02:11:49.530Z
 Name: "[[Monster Hunter]]"
 Source: "Grim Hollow: Player's Guide"
 Official: false
@@ -190,9 +190,9 @@ A Monster Hunter subclass is a specialization that grants you features at certai
 
 Hunting guilds are groups of Monster Hunters who use the same teachings and techniques. Some guilds are formally organised like a mercenary company, while others are more loosely organized but have inherited similar knowledge.
 
-| Name                                                                          | Source                      | Publisher        | Edition |
-| ----------------------------------------------------------------------------- | --------------------------- | ---------------- | ------- |
-| [[Subclasses/Third Party/Monster Hunter/Carver Guild.md\|Carver Guild]]       | Grim Hollow: Player's Guide | Ghostfire Gaming | 5.5e    |
-| [[Subclasses/Third Party/Monster Hunter/Devourer Guild.md\|Devourer Guild]]   | Grim Hollow: Player's Guide | Ghostfire Gaming | 5.5e    |
-| [[Subclasses/Third Party/Monster Hunter/Occultist Guild.md\|Occultist Guild]] | Grim Hollow: Player's Guide | Ghostfire Gaming | 5.5e    |
-| [[Subclasses/Third Party/Monster Hunter/Trapper Guild.md\|Trapper Guild]]     | Grim Hollow: Player's Guide | Ghostfire Gaming | 5.5e    |
+| Name                                                              | Source                      | Publisher        | Edition |
+| ----------------------------------------------------------------- | --------------------------- | ---------------- | ------- |
+| [[Subclasses/Monster Hunter/Carver Guild.md\|Carver Guild]]       | Grim Hollow: Player's Guide | Ghostfire Gaming | 5.5e    |
+| [[Subclasses/Monster Hunter/Devourer Guild.md\|Devourer Guild]]   | Grim Hollow: Player's Guide | Ghostfire Gaming | 5.5e    |
+| [[Subclasses/Monster Hunter/Occultist Guild.md\|Occultist Guild]] | Grim Hollow: Player's Guide | Ghostfire Gaming | 5.5e    |
+| [[Subclasses/Monster Hunter/Trapper Guild.md\|Trapper Guild]]     | Grim Hollow: Player's Guide | Ghostfire Gaming | 5.5e    |

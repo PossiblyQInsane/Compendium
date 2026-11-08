@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T05:52:38.196Z
-modified: 2026-10-16T05:56:38.271Z
-published: 2026-10-16T05:56:38.271Z
+modified: 2026-11-08T05:44:49.706Z
+published: 2026-11-08T05:44:49.706Z
 Name: "[[Spark]]"
 Spell Level: Cantrip
 School: Evocation

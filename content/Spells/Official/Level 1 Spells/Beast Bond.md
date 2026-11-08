@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-20T15:38:29.941Z
-modified: 2026-10-08T04:22:51.141Z
-published: 2026-10-08T04:22:51.141Z
+modified: 2026-11-08T05:44:24.952Z
+published: 2026-11-08T05:44:24.952Z
 Name: "[[Beast Bond]]"
 Spell Level: Level 1
 School: Divination

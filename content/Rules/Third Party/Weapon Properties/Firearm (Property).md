@@ -1,9 +1,9 @@
 ---
-publish: true
+publish: "true"
 title: Firearm
 created: 2026-09-03T05:24:55.840Z
-modified: 2026-09-03T05:26:57.809Z
-published: 2026-09-03T05:26:57.809Z
+modified: 2026-11-08T05:43:44.147Z
+published: 2026-11-08T05:43:44.147Z
 Source: Valda's Spire of Secrets
 Official: false
 Publisher: Mage Hand Press

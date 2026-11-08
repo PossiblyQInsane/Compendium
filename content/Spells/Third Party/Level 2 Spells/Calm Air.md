@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-15T17:09:00.634Z
-modified: 2026-10-15T17:14:29.850Z
-published: 2026-10-15T17:14:29.850Z
+modified: 2026-11-08T05:44:26.889Z
+published: 2026-11-08T05:44:26.889Z
 Name: "[[Calm Air]]"
 Spell Level: Level 2
 School: Transmutation

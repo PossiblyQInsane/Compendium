@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-11T05:18:47.099Z
-modified: 2026-10-11T05:23:24.608Z
-published: 2026-10-11T05:23:24.608Z
+modified: 2026-11-08T05:44:41.506Z
+published: 2026-11-08T05:44:41.506Z
 Name: "[[Lifesap Aura]]"
 Spell Level: Level 2
 School: Necromancy

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-27T06:01:43.338Z
-modified: 2026-10-27T06:03:59.773Z
-published: 2026-10-27T06:03:59.773Z
+modified: 2026-11-08T05:44:28.921Z
+published: 2026-11-08T05:44:28.921Z
 Name: "[[Conjure Plants]]"
 Spell Level: Level 3
 School: Conjuration

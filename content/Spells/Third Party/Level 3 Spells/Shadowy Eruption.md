@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T03:33:45.231Z
-modified: 2026-10-10T17:25:36.599Z
-published: 2026-10-10T17:25:36.599Z
+modified: 2026-11-08T05:44:48.317Z
+published: 2026-11-08T05:44:48.317Z
 Name: "[[Shadowy Eruption]]"
 Spell Level: Level 3
 School: Conjuration

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-01T20:48:11.776Z
-modified: 2026-08-17T20:08:02.268Z
-published: 2026-08-17T20:08:02.268Z
+modified: 2026-11-08T05:42:07.806Z
+published: 2026-11-08T05:42:07.806Z
 Category: Simple Melee Weapons
 Damage: 1d8 Bludgeoning
 Properties: Two-Handed

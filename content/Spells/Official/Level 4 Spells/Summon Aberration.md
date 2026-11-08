@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-05T17:00:19.651Z
-modified: 2026-10-09T05:06:03.534Z
-published: 2026-10-09T05:06:03.534Z
+modified: 2026-11-08T05:44:51.151Z
+published: 2026-11-08T05:44:51.151Z
 Name: "[[Summon Aberration]]"
 Spell Level: Level 4
 School: Conjuration

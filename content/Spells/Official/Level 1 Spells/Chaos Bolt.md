@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T04:27:13.384Z
-modified: 2026-09-27T04:30:30.805Z
-published: 2026-09-27T04:30:30.805Z
+modified: 2026-11-08T05:44:27.703Z
+published: 2026-11-08T05:44:27.703Z
 Name: "[[Chaos Bolt]]"
 Spell Level: Level 1
 School: Evocation

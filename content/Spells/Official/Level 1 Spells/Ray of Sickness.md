@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T23:56:01.590Z
-modified: 2026-10-08T04:44:09.168Z
-published: 2026-10-08T04:44:09.168Z
+modified: 2026-11-08T05:44:46.742Z
+published: 2026-11-08T05:44:46.742Z
 Name: "[[Ray of Sickness]]"
 Spell Level: Level 1
 School: Necromancy

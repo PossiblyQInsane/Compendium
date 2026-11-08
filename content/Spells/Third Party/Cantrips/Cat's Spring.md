@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-10T17:14:04.171Z
-modified: 2026-10-10T17:17:52.306Z
-published: 2026-10-10T17:17:52.306Z
+modified: 2026-11-08T05:44:27.175Z
+published: 2026-11-08T05:44:27.175Z
 Name: "[[Cat's Spring]]"
 Spell Level: Cantrip
 School: Conjuration

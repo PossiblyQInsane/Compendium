@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T22:14:20.807Z
-modified: 2026-10-09T05:12:25.352Z
-published: 2026-10-09T05:12:25.352Z
+modified: 2026-11-08T05:44:22.641Z
+published: 2026-11-08T05:44:22.641Z
 Name: "[[Alustriel's Mooncloak]]"
 Spell Level: Level 5
 School: Abjuration

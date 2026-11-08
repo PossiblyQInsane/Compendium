@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-14T03:46:26.399Z
-modified: 2026-10-08T05:26:58.499Z
-published: 2026-10-08T05:26:58.499Z
+modified: 2026-11-08T05:44:49.891Z
+published: 2026-11-08T05:44:49.891Z
 Name: "[[Spectral Slash]]"
 Spell Level: Level 1
 School: Conjuration

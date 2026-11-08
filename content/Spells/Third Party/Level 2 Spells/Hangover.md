@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-14T03:32:05.662Z
-modified: 2026-10-08T05:31:41.376Z
-published: 2026-10-08T05:31:41.376Z
+modified: 2026-11-08T05:44:37.963Z
+published: 2026-11-08T05:44:37.963Z
 Name: "[[Hangover]]"
 Spell Level: Level 2
 School: Enchantment

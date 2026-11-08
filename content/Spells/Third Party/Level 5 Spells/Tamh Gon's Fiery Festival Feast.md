@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-11T00:53:28.267Z
-modified: 2026-10-11T01:00:12.576Z
-published: 2026-10-11T01:00:12.576Z
+modified: 2026-11-08T05:44:52.073Z
+published: 2026-11-08T05:44:52.073Z
 Name: "[[Tamh Gon's Fiery Festival Feast]]"
 Spell Level: Level 5
 School: Abjuration

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-25T22:51:22.005Z
-modified: 2026-08-17T20:11:14.217Z
-published: 2026-08-17T20:11:14.217Z
+modified: 2026-11-08T05:42:58.413Z
+published: 2026-11-08T05:42:58.413Z
 Category: Ring
 Rarity: Rare
 Attunement: true

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T20:27:21.827Z
-modified: 2026-10-10T05:36:45.125Z
-published: 2026-10-10T05:36:45.125Z
+modified: 2026-11-08T05:43:25.657Z
+published: 2026-11-08T05:43:25.657Z
 Creature Type: Fey
 Size: Tiny
 Alignment: Neutral Good

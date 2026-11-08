@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T23:55:02.697Z
-modified: 2026-10-06T00:00:25.434Z
-published: 2026-10-06T00:00:25.434Z
+modified: 2026-11-08T05:44:29.767Z
+published: 2026-11-08T05:44:29.767Z
 Name: "[[Create Homunculus]]"
 Spell Level: Level 6
 School: Transmutation

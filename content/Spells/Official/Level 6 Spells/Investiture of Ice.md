@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-24T02:48:53.517Z
-modified: 2026-10-09T05:28:55.899Z
-published: 2026-10-09T05:28:55.899Z
+modified: 2026-11-08T05:44:40.351Z
+published: 2026-11-08T05:44:40.351Z
 Name: "[[Investiture of Ice]]"
 Spell Level: Level 6
 School: Transmutation

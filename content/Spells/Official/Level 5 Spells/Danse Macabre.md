@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T21:54:03.054Z
-modified: 2026-10-09T05:14:50.030Z
-published: 2026-10-09T05:14:50.030Z
+modified: 2026-11-08T05:44:30.514Z
+published: 2026-11-08T05:44:30.514Z
 Name: "[[Danse Macabre]]"
 Spell Level: Level 5
 School: Necromancy

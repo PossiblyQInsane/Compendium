@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T04:58:25.567Z
-modified: 2026-10-09T05:17:56.585Z
-published: 2026-10-09T05:17:56.585Z
+modified: 2026-11-08T05:44:41.156Z
+published: 2026-11-08T05:44:41.156Z
 Name: "[[Legend Lore]]"
 Spell Level: Level 5
 School: Divination

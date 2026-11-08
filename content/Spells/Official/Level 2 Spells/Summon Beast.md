@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-07T14:45:18.583Z
-modified: 2026-10-08T16:11:54.404Z
-published: 2026-10-08T16:11:54.404Z
+modified: 2026-11-08T05:44:51.178Z
+published: 2026-11-08T05:44:51.178Z
 Name: "[[Summon Beast]]"
 Spell Level: Level 2
 School: Conjuration

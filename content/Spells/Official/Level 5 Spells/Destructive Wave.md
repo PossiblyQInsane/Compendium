@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-18T02:12:55.377Z
-modified: 2026-08-31T19:23:04.280Z
-published: 2026-08-31T19:23:04.280Z
+modified: 2026-11-08T05:44:31.256Z
+published: 2026-11-08T05:44:31.256Z
 Name: "[[Destructive Wave]]"
 Spell Level: Level 5
 School: Evocation

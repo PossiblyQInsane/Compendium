@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T05:30:28.089Z
-modified: 2026-10-09T05:28:36.119Z
-published: 2026-10-09T05:28:36.119Z
+modified: 2026-11-08T05:44:38.449Z
+published: 2026-11-08T05:44:38.449Z
 Name: "[[Heroes' Feast]]"
 Spell Level: Level 6
 School: Conjuration

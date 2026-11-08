@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-17T23:52:33.389Z
-modified: 2026-10-18T00:09:49.572Z
-published: 2026-10-18T00:09:49.572Z
+modified: 2026-11-08T05:44:35.879Z
+published: 2026-11-08T05:44:35.879Z
 Name: "[[Flipperform]]"
 Spell Level: Level 1
 School: Biomancy

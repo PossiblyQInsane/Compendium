@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T01:40:45.203Z
-modified: 2026-10-08T04:09:30.509Z
-published: 2026-10-08T04:09:30.509Z
+modified: 2026-11-08T05:44:36.622Z
+published: 2026-11-08T05:44:36.622Z
 Name: "[[Frostbite]]"
 Spell Level: Cantrip
 School: Evocation

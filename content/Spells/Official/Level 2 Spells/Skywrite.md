@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T02:49:00.776Z
-modified: 2026-10-08T16:11:40.912Z
-published: 2026-10-08T16:11:40.912Z
+modified: 2026-11-08T05:44:49.102Z
+published: 2026-11-08T05:44:49.102Z
 Name: "[[Skywrite]]"
 Spell Level: Level 2
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T04:56:04.284Z
-modified: 2026-10-08T05:11:56.804Z
-published: 2026-10-08T05:11:56.804Z
+modified: 2026-11-08T05:44:48.267Z
+published: 2026-11-08T05:44:48.267Z
 Name: "[[Shadow Blade]]"
 Spell Level: Level 2
 School: Illusion

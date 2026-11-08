@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T16:46:07.351Z
-modified: 2026-10-08T05:06:44.656Z
-published: 2026-10-08T05:06:44.656Z
+modified: 2026-11-08T05:44:42.550Z
+published: 2026-11-08T05:44:42.550Z
 Name: "[[Magic Weapon]]"
 Spell Level: Level 2
 School: Transmutation

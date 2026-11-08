@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-14T02:49:47.576Z
-modified: 2026-10-08T16:02:44.226Z
-published: 2026-10-08T16:02:44.226Z
+modified: 2026-11-08T05:44:50.992Z
+published: 2026-11-08T05:44:50.992Z
 Name: "[[Suffocate]]"
 Spell Level: Level 3
 School: Conjuration

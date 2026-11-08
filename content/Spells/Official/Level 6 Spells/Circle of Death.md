@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-09T14:47:24.259Z
-modified: 2026-10-09T05:26:40.205Z
-published: 2026-10-09T05:26:40.205Z
+modified: 2026-11-08T05:44:27.914Z
+published: 2026-11-08T05:44:27.914Z
 Name: "[[Circle of Death]]"
 Spell Level: Level 6
 School: Necromancy

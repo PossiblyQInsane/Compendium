@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T06:34:09.196Z
-modified: 2026-10-09T05:41:08.252Z
-published: 2026-10-09T05:41:08.252Z
+modified: 2026-11-08T05:44:43.262Z
+published: 2026-11-08T05:44:43.262Z
 Name: "[[Mind Blank]]"
 Spell Level: Level 8
 School: Abjuration

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-01T23:47:43.953Z
-modified: 2026-08-17T19:59:20.614Z
-published: 2026-08-17T19:59:20.614Z
+modified: 2026-11-08T05:42:03.383Z
+published: 2026-11-08T05:42:03.383Z
 Category: Heavy Armor
 Armor Class (AC): "16"
 Strength: Str 13

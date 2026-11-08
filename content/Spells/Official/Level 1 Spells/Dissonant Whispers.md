@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-02T23:51:04.372Z
-modified: 2026-08-31T16:04:49.911Z
-published: 2026-08-31T16:04:49.911Z
+modified: 2026-11-08T05:44:31.869Z
+published: 2026-11-08T05:44:31.869Z
 Name: "[[Dissonant Whispers]]"
 Spell Level: Level 1
 School: Enchantment

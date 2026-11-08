@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-27T05:54:14.348Z
-modified: 2026-10-27T05:57:39.962Z
-published: 2026-10-27T05:57:39.962Z
+modified: 2026-11-08T05:44:26.805Z
+published: 2026-11-08T05:44:26.805Z
 Name: "[[Call the Rabid Beast]]"
 Spell Level: Level 3
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-06T06:29:04.189Z
-modified: 2026-10-09T05:27:08.905Z
-published: 2026-10-09T05:27:08.905Z
+modified: 2026-11-08T05:44:31.554Z
+published: 2026-11-08T05:44:31.554Z
 Name: "[[Disintegrate]]"
 Spell Level: Level 6
 School: Transmutation

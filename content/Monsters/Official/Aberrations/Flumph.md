@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-30T15:20:12.001Z
-modified: 2026-09-30T15:34:07.190Z
-published: 2026-09-30T15:34:07.190Z
+modified: 2026-11-08T05:43:19.865Z
+published: 2026-11-08T05:43:19.865Z
 Creature Type: Aberration
 Size: Small
 Alignment: Lawful Good

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T02:37:54.050Z
-modified: 2026-10-08T04:33:33.201Z
-published: 2026-10-08T04:33:33.201Z
+modified: 2026-11-08T05:44:31.533Z
+published: 2026-11-08T05:44:31.533Z
 Name: "[[Disguise Self|Disguise Self]]"
 Spell Level: Level 1
 School: Illusion

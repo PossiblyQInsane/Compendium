@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-07T14:18:15.972Z
-modified: 2026-10-02T21:45:06.504Z
-published: 2026-10-02T21:45:06.504Z
+modified: 2026-11-08T05:44:48.681Z
+published: 2026-11-08T05:44:48.681Z
 Name: "[[Shillelagh]]"
 Spell Level: Cantrip
 School: Transmutation

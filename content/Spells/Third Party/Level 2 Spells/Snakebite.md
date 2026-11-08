@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T05:25:30.014Z
-modified: 2026-10-16T05:30:54.363Z
-published: 2026-10-16T05:30:54.363Z
+modified: 2026-11-08T05:44:49.331Z
+published: 2026-11-08T05:44:49.331Z
 Name: "[[Snakebite]]"
 Spell Level: Level 2
 School: Conjuration

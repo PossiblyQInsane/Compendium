@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-29T14:25:54.048Z
-modified: 2026-10-08T05:11:14.683Z
-published: 2026-10-08T05:11:14.683Z
+modified: 2026-11-08T05:44:47.964Z
+published: 2026-11-08T05:44:47.964Z
 Name: "[[Scorching Ray]]"
 Spell Level: Level 2
 School: Evocation

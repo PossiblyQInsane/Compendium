@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T03:16:02.829Z
-modified: 2026-08-31T19:16:31.485Z
-published: 2026-08-31T19:16:31.485Z
+modified: 2026-11-08T05:44:37.665Z
+published: 2026-11-08T05:44:37.665Z
 Name: "[[Guardian of Faith]]"
 Spell Level: Level 4
 School: Conjuration

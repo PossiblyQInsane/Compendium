@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-02T17:22:59.475Z
-modified: 2026-10-17T23:49:16.270Z
-published: 2026-10-17T23:49:16.270Z
+modified: 2026-11-08T05:44:22.827Z
+published: 2026-11-08T05:44:22.827Z
 Name: "[[Animal Friendship]]"
 Spell Level: Level 1
 School: Enchantment

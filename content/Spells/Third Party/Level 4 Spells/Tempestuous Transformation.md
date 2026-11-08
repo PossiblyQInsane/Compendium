@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T04:54:54.957Z
-modified: 2026-10-16T04:59:23.922Z
-published: 2026-10-16T04:59:23.922Z
+modified: 2026-11-08T05:44:52.501Z
+published: 2026-11-08T05:44:52.501Z
 Name: "[[Tempestuous Transformation]]"
 Spell Level: Level 4
 School: Transmutation

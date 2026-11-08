@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T03:19:39.159Z
-modified: 2026-10-20T03:22:03.011Z
-published: 2026-10-20T03:22:03.011Z
+modified: 2026-11-08T05:44:26.355Z
+published: 2026-11-08T05:44:26.355Z
 Name: "[[Breath of the Deep]]"
 Spell Level: Level 2
 School: Conjuration

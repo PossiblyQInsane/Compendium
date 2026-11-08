@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T15:24:59.148Z
-modified: 2026-10-16T15:30:53.785Z
-published: 2026-10-16T15:30:53.785Z
+modified: 2026-11-08T05:44:33.422Z
+published: 2026-11-08T05:44:33.422Z
 Name: "[[Endure]]"
 Spell Level: Level 5
 School: Necromancy

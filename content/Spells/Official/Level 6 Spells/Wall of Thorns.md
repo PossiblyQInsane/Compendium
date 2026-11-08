@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-08T04:42:56.641Z
-modified: 2026-08-31T23:48:14.259Z
-published: 2026-08-31T23:48:14.259Z
+modified: 2026-11-08T05:44:56.998Z
+published: 2026-11-08T05:44:56.998Z
 Name: "[[Wall of Thorns]]"
 Spell Level: Level 6
 School: Conjuration

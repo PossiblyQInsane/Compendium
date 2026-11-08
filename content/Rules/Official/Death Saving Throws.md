@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Death Saving Throw
 created: 2026-08-02T18:08:08.121Z
-modified: 2026-09-13T04:43:01.069Z
-published: 2026-09-13T04:43:01.069Z
+modified: 2026-11-08T05:43:43.688Z
+published: 2026-11-08T05:43:43.688Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-27T05:40:04.143Z
-modified: 2026-10-27T05:42:34.808Z
-published: 2026-10-27T05:42:34.808Z
+modified: 2026-11-08T05:44:24.000Z
+published: 2026-11-08T05:44:24.000Z
 Name: "[[Assisted Aim]]"
 Spell Level: Level 1
 School: Enchantment

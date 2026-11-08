@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-01T17:09:53.278Z
-modified: 2026-08-31T16:02:42.672Z
-published: 2026-08-31T16:02:42.672Z
+modified: 2026-11-08T05:44:23.810Z
+published: 2026-11-08T05:44:23.810Z
 Name: "[[Armor of Agathys]]"
 Spell Level: Level 1
 School: Abjuration

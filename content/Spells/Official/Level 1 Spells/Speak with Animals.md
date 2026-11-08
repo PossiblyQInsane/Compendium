@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-02T15:34:48.575Z
-modified: 2026-10-08T04:46:47.554Z
-published: 2026-10-08T04:46:47.554Z
+modified: 2026-11-08T05:44:49.735Z
+published: 2026-11-08T05:44:49.735Z
 Name: "[[Speak with Animals]]"
 Spell Level: Level 1
 School: Divination

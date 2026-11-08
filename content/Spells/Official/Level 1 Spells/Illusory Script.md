@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T00:37:40.873Z
-modified: 2026-10-08T16:07:15.191Z
-published: 2026-10-08T16:07:15.191Z
+modified: 2026-11-08T05:44:39.153Z
+published: 2026-11-08T05:44:39.153Z
 Name: "[[Illusory Script]]"
 Spell Level: Level 1
 School: Illusion

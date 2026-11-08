@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T21:27:31.434Z
-modified: 2026-10-09T04:59:10.634Z
-published: 2026-10-09T04:59:10.634Z
+modified: 2026-11-08T05:44:36.652Z
+published: 2026-11-08T05:44:36.652Z
 Name: "[[Galder's Speedy Courier]]"
 Spell Level: Level 4
 School: Conjuration

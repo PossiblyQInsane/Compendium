@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - bronze dragon
 created: 2026-09-06T04:49:19.588Z
-modified: 2026-10-10T05:46:53.205Z
-published: 2026-10-10T05:46:53.205Z
+modified: 2026-11-08T05:43:19.103Z
+published: 2026-11-08T05:43:19.103Z
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

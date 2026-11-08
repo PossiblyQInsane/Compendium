@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T02:51:16.867Z
-modified: 2026-10-20T02:57:12.473Z
-published: 2026-10-20T02:57:12.473Z
+modified: 2026-11-08T05:44:30.846Z
+published: 2026-11-08T05:44:30.846Z
 Name: "[[Daydreamer's Curse]]"
 Spell Level: Level 4
 School: Enchantment

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-24T15:59:48.097Z
-modified: 2026-10-08T04:13:15.441Z
-published: 2026-10-08T04:13:15.441Z
+modified: 2026-11-08T05:44:43.125Z
+published: 2026-11-08T05:44:43.125Z
 Name: "[[Mending|Mending]]"
 Spell Level: Cantrip
 School: Transmutation

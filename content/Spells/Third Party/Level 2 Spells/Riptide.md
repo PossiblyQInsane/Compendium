@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T06:54:12.818Z
-modified: 2026-10-16T06:57:55.286Z
-published: 2026-10-16T06:57:55.286Z
+modified: 2026-11-08T05:44:47.429Z
+published: 2026-11-08T05:44:47.429Z
 Name: "[[Riptide]]"
 Spell Level: Level 2
 School: Transmutation

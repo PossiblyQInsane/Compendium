@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T03:48:18.500Z
-modified: 2026-10-08T05:27:20.153Z
-published: 2026-10-08T05:27:20.153Z
+modified: 2026-11-08T05:44:52.959Z
+published: 2026-11-08T05:44:52.959Z
 Name: "[[Tide of Darkness]]"
 Spell Level: Level 1
 School: Conjuration

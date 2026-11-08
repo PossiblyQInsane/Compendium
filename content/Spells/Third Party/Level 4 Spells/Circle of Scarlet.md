@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-09T13:37:45.513Z
-modified: 2026-10-09T05:07:45.516Z
-published: 2026-10-09T05:07:45.516Z
+modified: 2026-11-08T05:44:27.976Z
+published: 2026-11-08T05:44:27.976Z
 Name: "[[Circle of Scarlet]]"
 Spell Level: Level 4
 School: Evocation

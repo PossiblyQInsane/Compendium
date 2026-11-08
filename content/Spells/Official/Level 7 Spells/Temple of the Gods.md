@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-18T01:33:52.975Z
-modified: 2026-08-31T23:50:59.938Z
-published: 2026-08-31T23:50:59.938Z
+modified: 2026-11-08T05:44:52.538Z
+published: 2026-11-08T05:44:52.538Z
 Name: "[[Temple of the Gods]]"
 Spell Level: Level 7
 School: Conjuration

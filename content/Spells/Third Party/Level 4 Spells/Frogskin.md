@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T05:31:29.789Z
-modified: 2026-10-09T05:09:06.690Z
-published: 2026-10-09T05:09:06.690Z
+modified: 2026-11-08T05:44:36.564Z
+published: 2026-11-08T05:44:36.564Z
 Name: "[[Frogskin]]"
 Spell Level: Level 4
 School: Biomancy

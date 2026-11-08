@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-22T15:46:40.640Z
-modified: 2026-10-08T05:22:02.901Z
-published: 2026-10-08T05:22:02.901Z
+modified: 2026-11-08T05:44:25.873Z
+published: 2026-11-08T05:44:25.873Z
 Name: "[[Bloodbane Rune]]"
 Spell Level: Level 1
 School: Transmutation

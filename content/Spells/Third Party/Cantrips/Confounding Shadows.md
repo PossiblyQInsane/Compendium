@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T03:28:08.463Z
-modified: 2026-10-08T05:19:28.796Z
-published: 2026-10-08T05:19:28.796Z
+modified: 2026-11-08T05:44:28.627Z
+published: 2026-11-08T05:44:28.627Z
 Name: "[[Confounding Shadows]]"
 Spell Level: Cantrip
 School: Conjuration

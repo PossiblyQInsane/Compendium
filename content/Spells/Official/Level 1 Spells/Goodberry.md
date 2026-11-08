@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T15:18:14.147Z
-modified: 2026-10-08T04:38:19.731Z
-published: 2026-10-08T04:38:19.731Z
+modified: 2026-11-08T05:44:37.250Z
+published: 2026-11-08T05:44:37.250Z
 Name: "[[Goodberry]]"
 Spell Level: Level 1
 School: Conjuration

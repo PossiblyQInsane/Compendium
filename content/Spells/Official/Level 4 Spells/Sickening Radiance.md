@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T05:35:55.583Z
-modified: 2026-10-09T05:04:00.609Z
-published: 2026-10-09T05:04:00.609Z
+modified: 2026-11-08T05:44:48.812Z
+published: 2026-11-08T05:44:48.812Z
 Name: "[[Sickening Radiance]]"
 Spell Level: Level 4
 School: Evocation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T05:01:35.718Z
-modified: 2026-10-08T05:13:11.417Z
-published: 2026-10-08T05:13:11.417Z
+modified: 2026-11-08T05:44:49.396Z
+published: 2026-11-08T05:44:49.396Z
 Name: "[[Snilloc's Snowball Swarm]]"
 Spell Level: Level 2
 School: Evocation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T23:50:53.533Z
-modified: 2026-10-08T04:39:02.179Z
-published: 2026-10-08T04:39:02.179Z
+modified: 2026-11-08T05:44:38.251Z
+published: 2026-11-08T05:44:38.251Z
 Name: "[[Healing Word]]"
 Spell Level: Level 1
 School: Abjuration

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T22:30:22.628Z
-modified: 2026-10-09T05:33:15.011Z
-published: 2026-10-09T05:33:15.011Z
+modified: 2026-11-08T05:44:32.454Z
+published: 2026-11-08T05:44:32.454Z
 Name: "[[Dream of the Blue Veil]]"
 Spell Level: Level 7
 School: Conjuration

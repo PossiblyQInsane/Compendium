@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T02:27:58.335Z
-modified: 2026-10-08T04:21:56.411Z
-published: 2026-10-08T04:21:56.411Z
+modified: 2026-11-08T05:44:22.488Z
+published: 2026-11-08T05:44:22.488Z
 Name: "[[Alarm|Alarm]]"
 Spell Level: Level 1
 School: Abjuration

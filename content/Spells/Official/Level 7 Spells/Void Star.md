@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-04T13:47:01.217Z
-modified: 2026-10-09T05:36:38.272Z
-published: 2026-10-09T05:36:38.272Z
+modified: 2026-11-08T05:44:56.600Z
+published: 2026-11-08T05:44:56.600Z
 Name: "[[Void Star]]"
 Spell Level: Level 7
 School: Necromancy

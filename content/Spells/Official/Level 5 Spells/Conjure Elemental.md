@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-07T16:00:02.750Z
-modified: 2026-10-09T05:14:00.975Z
-published: 2026-10-09T05:14:00.975Z
+modified: 2026-11-08T05:44:28.831Z
+published: 2026-11-08T05:44:28.831Z
 Name: "[[Conjure Elemental]]"
 Spell Level: Level 5
 School: Conjuration

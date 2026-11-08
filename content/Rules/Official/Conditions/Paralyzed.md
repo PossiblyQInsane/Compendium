@@ -1,12 +1,12 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - paralyzed
   - paralysed
   - Paralysed
 created: 2026-07-29T16:19:35.624Z
-modified: 2026-10-03T21:40:08.096Z
-published: 2026-10-03T21:40:08.096Z
+modified: 2026-11-08T05:43:45.689Z
+published: 2026-11-08T05:43:45.689Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

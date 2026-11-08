@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T02:40:12.595Z
-modified: 2026-10-08T16:07:35.395Z
-published: 2026-10-08T16:07:35.395Z
+modified: 2026-11-08T05:44:46.160Z
+published: 2026-11-08T05:44:46.160Z
 Name: "[[Protection from Evil and Good]]"
 Spell Level: Level 1
 School: Abjuration

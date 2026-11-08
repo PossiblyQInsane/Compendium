@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-13T14:15:48.449Z
-modified: 2026-09-13T14:18:50.429Z
-published: 2026-09-13T14:18:50.429Z
+modified: 2026-11-08T05:44:32.069Z
+published: 2026-11-08T05:44:32.069Z
 Name: "[[Divine Smite]]"
 Spell Level: Level 1
 School: Evocation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T05:05:43.237Z
-modified: 2026-10-16T05:11:02.525Z
-published: 2026-10-16T05:11:02.525Z
+modified: 2026-11-08T05:44:39.223Z
+published: 2026-11-08T05:44:39.223Z
 Name: "[[Iminada's Umigiri]]"
 Spell Level: Level 5
 School: Illusion

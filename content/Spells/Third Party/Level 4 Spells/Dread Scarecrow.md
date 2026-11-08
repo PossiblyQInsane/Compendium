@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-10T17:47:30.381Z
-modified: 2026-10-09T05:08:52.963Z
-published: 2026-10-09T05:08:52.963Z
+modified: 2026-11-08T05:44:32.399Z
+published: 2026-11-08T05:44:32.399Z
 Name: "[[Dread Scarecrow]]"
 Spell Level: Level 4
 School: Illusion

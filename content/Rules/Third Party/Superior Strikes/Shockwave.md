@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-04T18:14:34.645Z
-modified: 2026-10-04T18:16:14.918Z
-published: 2026-10-04T18:16:14.918Z
+modified: 2026-11-08T05:43:46.467Z
+published: 2026-11-08T05:43:46.467Z
 Source: Ryoko's Guide to the Yokai Realms
 Official: false
 Publisher: Loot Tavern

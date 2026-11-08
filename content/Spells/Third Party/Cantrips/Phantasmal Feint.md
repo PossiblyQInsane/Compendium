@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-13T05:41:58.506Z
-modified: 2026-10-13T05:45:15.772Z
-published: 2026-10-13T05:45:15.772Z
+modified: 2026-11-08T05:44:44.997Z
+published: 2026-11-08T05:44:44.997Z
 Name: "[[Phantasmal Feint]]"
 Spell Level: Cantrip
 School: Illusion

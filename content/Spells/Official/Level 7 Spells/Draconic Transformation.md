@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-24T03:05:58.508Z
-modified: 2026-10-09T05:33:06.810Z
-published: 2026-10-09T05:33:06.810Z
+modified: 2026-11-08T05:44:32.289Z
+published: 2026-11-08T05:44:32.289Z
 Name: "[[Draconic Transformation]]"
 Spell Level: Level 7
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-27T03:14:07.232Z
-modified: 2026-10-08T04:47:43.883Z
-published: 2026-10-08T04:47:43.883Z
+modified: 2026-11-08T05:44:52.905Z
+published: 2026-11-08T05:44:52.905Z
 Name: "[[Thunderwave]]"
 Spell Level: Level 1
 School: Evocation

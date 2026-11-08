@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T03:12:40.381Z
-modified: 2026-10-20T03:15:09.316Z
-published: 2026-10-20T03:15:09.316Z
+modified: 2026-11-08T05:44:57.993Z
+published: 2026-11-08T05:44:57.993Z
 Name: "[[Worm's Repast]]"
 Spell Level: Level 2
 School: Necromancy

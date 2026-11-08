@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T02:29:50.561Z
-modified: 2026-10-08T04:28:12.410Z
-published: 2026-10-08T04:28:12.410Z
+modified: 2026-11-08T05:44:29.867Z
+published: 2026-11-08T05:44:29.867Z
 Name: "[[Create or Destroy Water]]"
 Spell Level: Level 1
 School: Transmutation

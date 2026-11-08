@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T02:49:54.306Z
-modified: 2026-10-08T04:37:01.405Z
-published: 2026-10-08T04:37:01.405Z
+modified: 2026-11-08T05:44:34.254Z
+published: 2026-11-08T05:44:34.254Z
 Name: "[[False Life|False Life]]"
 Spell Level: Level 1
 School: Necromancy

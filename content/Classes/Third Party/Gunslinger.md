@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-02T14:54:24.605Z
-modified: 2026-10-13T16:05:41.119Z
-published: 2026-10-13T16:05:41.119Z
+modified: 2026-11-08T02:11:23.294Z
+published: 2026-11-08T02:11:23.294Z
 Name: "[[Gunslinger]]"
 Source: Valda's Spire of Secrets
 Official: false
@@ -199,12 +199,12 @@ When a creature you can see hits you with an attack roll, you can take a [[React
 
 A Gunslinger subclass is a specialization that grants you features at certain levels, as specified in the subclass.
 
-| Name                                                                | Source                   | Publisher       | Edition |
-| ------------------------------------------------------------------- | ------------------------ | --------------- | ------- |
-| [[Subclasses/Third Party/Gunslinger/Deadeye.md\|Deadeye]]           | Valda's Spire of Secrets | Mage Hand Press | 5.5e    |
-| [[Subclasses/Third Party/Gunslinger/High Roller.md\|High Roller]]   | Valda's Spire of Secrets | Mage Hand Press | 5.5e    |
-| [[Subclasses/Third Party/Gunslinger/Pistolero.md\|Pistolero]]       | Valda's Spire of Secrets | Mage Hand Press | 5.5e    |
-| [[Subclasses/Third Party/Gunslinger/Secret Agent.md\|Secret Agent]] | Valda's Spire of Secrets | Mage Hand Press | 5.5e    |
-| [[Subclasses/Third Party/Gunslinger/Spellslinger.md\|Spellslinger]] | Valda's Spire of Secrets | Mage Hand Press | 5.5e    |
-| [[Subclasses/Third Party/Gunslinger/Trick Shot.md\|Trick Shot]]     | Valda's Spire of Secrets | Mage Hand Press | 5.5e    |
-| [[Subclasses/Third Party/Gunslinger/White Hat.md\|White Hat]]       | Valda's Spire of Secrets | Mage Hand Press | 5.5e    |
+| Name                                                    | Source                   | Publisher       | Edition |
+| ------------------------------------------------------- | ------------------------ | --------------- | ------- |
+| [[Subclasses/Gunslinger/Deadeye.md\|Deadeye]]           | Valda's Spire of Secrets | Mage Hand Press | 5.5e    |
+| [[Subclasses/Gunslinger/High Roller.md\|High Roller]]   | Valda's Spire of Secrets | Mage Hand Press | 5.5e    |
+| [[Subclasses/Gunslinger/Pistolero.md\|Pistolero]]       | Valda's Spire of Secrets | Mage Hand Press | 5.5e    |
+| [[Subclasses/Gunslinger/Secret Agent.md\|Secret Agent]] | Valda's Spire of Secrets | Mage Hand Press | 5.5e    |
+| [[Subclasses/Gunslinger/Spellslinger.md\|Spellslinger]] | Valda's Spire of Secrets | Mage Hand Press | 5.5e    |
+| [[Subclasses/Gunslinger/Trick Shot.md\|Trick Shot]]     | Valda's Spire of Secrets | Mage Hand Press | 5.5e    |
+| [[Subclasses/Gunslinger/White Hat.md\|White Hat]]       | Valda's Spire of Secrets | Mage Hand Press | 5.5e    |

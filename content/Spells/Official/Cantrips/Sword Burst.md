@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T02:00:35.330Z
-modified: 2026-10-08T04:19:18.548Z
-published: 2026-10-08T04:19:18.548Z
+modified: 2026-11-08T05:44:51.884Z
+published: 2026-11-08T05:44:51.884Z
 Name: "[[Sword Burst]]"
 Spell Level: Cantrip
 School: Conjuration

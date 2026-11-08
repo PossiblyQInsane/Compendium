@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T03:25:44.246Z
-modified: 2026-10-20T03:27:58.260Z
-published: 2026-10-20T03:27:58.260Z
+modified: 2026-11-08T05:44:27.670Z
+published: 2026-11-08T05:44:27.670Z
 Name: "[[Chant of Thoth]]"
 Spell Level: Cantrip
 School: Divination

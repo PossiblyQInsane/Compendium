@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T05:59:29.391Z
-modified: 2026-10-16T06:04:10.545Z
-published: 2026-10-16T06:04:10.545Z
+modified: 2026-11-08T05:44:35.405Z
+published: 2026-11-08T05:44:35.405Z
 Name: "[[Flash]]"
 Spell Level: Level 1
 School: Evocation

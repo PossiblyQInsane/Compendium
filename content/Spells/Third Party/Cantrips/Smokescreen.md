@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-04T20:24:51.024Z
-modified: 2026-10-08T05:20:37.513Z
-published: 2026-10-08T05:20:37.513Z
+modified: 2026-11-08T05:44:49.277Z
+published: 2026-11-08T05:44:49.277Z
 Name: "[[Smokescreen]]"
 Spell Level: Cantrip
 School: Conjuration

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-23T04:34:52.804Z
-modified: 2026-10-07T15:50:18.038Z
-published: 2026-10-07T15:50:18.038Z
+modified: 2026-11-08T02:09:26.083Z
+published: 2026-11-08T02:09:26.083Z
 Name: "[[Artificer]]"
 Source: "Eberron: Forge of the Artificer"
 Official: true
@@ -477,16 +477,16 @@ An Artificer subclass is a specialization that grants you features at certain Ar
 
 | Name                                                            | Source                          | Edition |
 | --------------------------------------------------------------- | ------------------------------- | ------- |
-| [[Subclasses/Official/Artificer/Alchemist.md\|Alchemist]]       | Eberron: Forge of the Artificer | 5.5e    |
-| [[Subclasses/Official/Artificer/Armorer.md\|Armorer]]           | Eberron: Forge of the Artificer | 5.5e    |
-| [[Subclasses/Official/Artificer/Artillerist.md\|Artillerist]]   | Eberron: Forge of the Artificer | 5.5e    |
-| [[Subclasses/Official/Artificer/Battle Smith.md\|Battle Smith]] | Eberron: Forge of the Artificer | 5.5e    |
-| [[Subclasses/Official/Artificer/Cartographer.md\|Cartographer]] | Eberron: Forge of the Artificer | 5.5e    |
-| [[Subclasses/Official/Artificer/Reanimator.md\|Reanimator]]     | Ravenloft: The Horrors Within   | 5.5e    |
+| [[Subclasses/Artificer/Official/Alchemist.md\|Alchemist]]       | Eberron: Forge of the Artificer | 5.5e    |
+| [[Subclasses/Artificer/Official/Armorer.md\|Armorer]]           | Eberron: Forge of the Artificer | 5.5e    |
+| [[Subclasses/Artificer/Official/Artillerist.md\|Artillerist]]   | Eberron: Forge of the Artificer | 5.5e    |
+| [[Subclasses/Artificer/Official/Battle Smith.md\|Battle Smith]] | Eberron: Forge of the Artificer | 5.5e    |
+| [[Subclasses/Artificer/Official/Cartographer.md\|Cartographer]] | Eberron: Forge of the Artificer | 5.5e    |
+| [[Subclasses/Artificer/Official/Reanimator.md\|Reanimator]]     | Ravenloft: The Horrors Within   | 5.5e    |
 
 ### Third Party Artificer Subclasses
 
 | Name                                                             | Source            | Publisher | Edition |
 | ---------------------------------------------------------------- | ----------------- | --------- | ------- |
-| [[Subclasses/Third Party/Artificer/Forge Adept.md\|Forge Adept]] | Exploring Eberron | Visionary | 5.5e    |
-| [[Subclasses/Third Party/Artificer/Maverick.md\|Maverick]]       | Exploring Eberron | Visionary | 5.5e    |
+| [[Subclasses/Artificer/Third Party/Forge Adept.md\|Forge Adept]] | Exploring Eberron | Visionary | 5.5e    |
+| [[Subclasses/Artificer/Third Party/Maverick.md\|Maverick]]       | Exploring Eberron | Visionary | 5.5e    |

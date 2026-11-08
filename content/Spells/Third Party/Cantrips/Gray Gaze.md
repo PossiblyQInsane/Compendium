@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T04:35:47.201Z
-modified: 2026-10-20T04:38:37.347Z
-published: 2026-10-20T04:38:37.347Z
+modified: 2026-11-08T05:44:37.488Z
+published: 2026-11-08T05:44:37.488Z
 Name: "[[Gray Gaze]]"
 Spell Level: Cantrip
 School: Transmutation

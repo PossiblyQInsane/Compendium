@@ -1,13 +1,13 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Total Cover
   - Half Cover
   - Three-Quarters Cover
   - Total cover
 created: 2026-07-29T16:06:00.959Z
-modified: 2026-08-24T03:40:21.778Z
-published: 2026-08-24T03:40:21.778Z
+modified: 2026-11-08T05:43:43.156Z
+published: 2026-11-08T05:43:43.156Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

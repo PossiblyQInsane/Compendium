@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T04:51:01.995Z
-modified: 2026-10-09T05:16:11.045Z
-published: 2026-10-09T05:16:11.045Z
+modified: 2026-11-08T05:44:36.787Z
+published: 2026-11-08T05:44:36.787Z
 Name: "[[Geas]]"
 Spell Level: Level 5
 School: Enchantment

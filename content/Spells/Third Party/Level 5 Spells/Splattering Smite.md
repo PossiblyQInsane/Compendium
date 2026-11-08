@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-23T15:25:38.008Z
-modified: 2026-10-09T05:25:41.735Z
-published: 2026-10-09T05:25:41.735Z
+modified: 2026-11-08T05:44:50.363Z
+published: 2026-11-08T05:44:50.363Z
 Name: "[[Splattering Smite]]"
 Spell Level: Level 5
 School: Abjuration

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-18T02:43:10.088Z
-modified: 2026-08-31T16:08:36.537Z
-published: 2026-08-31T16:08:36.537Z
+modified: 2026-11-08T05:44:48.066Z
+published: 2026-11-08T05:44:48.066Z
 Name: "[[Searing Smite]]"
 Spell Level: Level 1
 School: Evocation

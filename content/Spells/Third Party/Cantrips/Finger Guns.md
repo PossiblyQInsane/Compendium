@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-02T15:50:04.832Z
-modified: 2026-10-08T05:19:41.785Z
-published: 2026-10-08T05:19:41.785Z
+modified: 2026-11-08T05:44:34.921Z
+published: 2026-11-08T05:44:34.921Z
 Name: "[[Finger Guns]]"
 Spell Level: Cantrip
 School: Evocation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-12T03:34:27.541Z
-modified: 2026-10-12T03:38:21.917Z
-published: 2026-10-12T03:38:21.917Z
+modified: 2026-11-08T05:44:38.372Z
+published: 2026-11-08T05:44:38.372Z
 Name: "[[Hellfire]]"
 Spell Level: Cantrip
 School: Evocation

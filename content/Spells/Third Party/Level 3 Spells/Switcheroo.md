@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-04T19:16:46.951Z
-modified: 2026-10-08T16:03:11.216Z
-published: 2026-10-08T16:03:11.216Z
+modified: 2026-11-08T05:44:51.841Z
+published: 2026-11-08T05:44:51.841Z
 Name: "[[Switcheroo]]"
 Spell Level: Level 3
 School: Transmutation

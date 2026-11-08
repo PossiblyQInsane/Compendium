@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-04T03:11:25.120Z
-modified: 2026-10-10T05:57:04.093Z
-published: 2026-10-10T05:57:04.093Z
+modified: 2026-11-08T05:43:24.927Z
+published: 2026-11-08T05:43:24.927Z
 Creature Type: Celestial
 Subtype: Yokai
 Size: Large

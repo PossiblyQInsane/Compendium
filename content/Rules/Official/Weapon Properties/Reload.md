@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T05:29:42.685Z
-modified: 2026-09-03T05:31:18.936Z
-published: 2026-09-03T05:31:18.936Z
+modified: 2026-11-08T05:43:46.195Z
+published: 2026-11-08T05:43:46.195Z
 Source: Dungeon Master's Guide 5.5e
 Official: true
 Edition: 5.5e

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-01T21:58:44.735Z
-modified: 2026-08-17T20:08:34.341Z
-published: 2026-08-17T20:08:34.341Z
+modified: 2026-11-08T05:42:15.970Z
+published: 2026-11-08T05:42:15.970Z
 Category: Simple Melee Weapons
 Damage: 1d4 Slashing
 Properties: Light

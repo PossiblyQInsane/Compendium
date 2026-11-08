@@ -1,3 +1,10 @@
+---
+publish: "true"
+created: 2026-10-06T14:50:57.495Z
+modified: 2026-11-08T05:45:16.098Z
+published: 2026-11-08T05:45:16.098Z
+---
+
 | Spell Level | Name                                                                       | School        | Special | Source                         |
 | ----------- | -------------------------------------------------------------------------- | ------------- | ------- | ------------------------------ |
 | Cantrip     | _[[Spells/Official/Cantrips/Sapping Sting.md\|Sapping Sting]]_             | Necromancy    | —       | Explorer's Guide to Wildemount |

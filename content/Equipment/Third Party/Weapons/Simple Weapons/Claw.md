@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-11-01T05:08:58.109Z
-modified: 2026-11-01T05:15:06.424Z
-published: 2026-11-01T05:15:06.424Z
+modified: 2026-11-08T05:42:03.591Z
+published: 2026-11-08T05:42:03.591Z
 Category: Simple Melee Weapons
 Damage: 1d6 Slashing
 Properties: Attached, Light

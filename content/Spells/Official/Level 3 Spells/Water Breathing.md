@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T18:38:05.010Z
-modified: 2026-10-08T15:56:26.158Z
-published: 2026-10-08T15:56:26.158Z
+modified: 2026-11-08T05:44:57.198Z
+published: 2026-11-08T05:44:57.198Z
 Name: "[[Water Breathing]]"
 Spell Level: Level 3
 School: Transmutation

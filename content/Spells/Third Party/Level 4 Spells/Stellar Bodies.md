@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-19T14:31:54.300Z
-modified: 2026-10-09T05:11:22.803Z
-published: 2026-10-09T05:11:22.803Z
+modified: 2026-11-08T05:44:50.607Z
+published: 2026-11-08T05:44:50.607Z
 Name: "[[Stellar Bodies]]"
 Spell Level: Level 4
 School: Evocation

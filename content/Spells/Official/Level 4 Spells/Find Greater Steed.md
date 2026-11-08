@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-13T14:51:41.054Z
-modified: 2026-09-13T14:58:36.690Z
-published: 2026-09-13T14:58:36.690Z
+modified: 2026-11-08T05:44:34.787Z
+published: 2026-11-08T05:44:34.787Z
 Name: "[[Find Greater Steed]]"
 Spell Level: Level 4
 School: Conjuration

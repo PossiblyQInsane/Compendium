@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T05:16:43.839Z
-modified: 2026-10-09T05:21:07.362Z
-published: 2026-10-09T05:21:07.362Z
+modified: 2026-11-08T05:44:52.018Z
+published: 2026-11-08T05:44:52.018Z
 Name: "[[Synaptic Static]]"
 Spell Level: Level 5
 School: Enchantment

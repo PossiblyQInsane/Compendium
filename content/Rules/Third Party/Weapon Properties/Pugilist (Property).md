@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Pugilist
 created: 2026-11-01T05:19:07.127Z
-modified: 2026-11-01T05:22:09.079Z
-published: 2026-11-01T05:22:09.079Z
+modified: 2026-11-08T05:43:45.934Z
+published: 2026-11-08T05:43:45.934Z
 Source: L'Arsene's Ledger of Treasures and Trinkets
 Official: false
 Publisher: Loot Tavern

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-30T04:35:22.669Z
-modified: 2026-08-31T19:05:45.212Z
-published: 2026-08-31T19:05:45.212Z
+modified: 2026-11-08T05:44:28.736Z
+published: 2026-11-08T05:44:28.736Z
 Name: "[[Conjure Barrage]]"
 Spell Level: Level 3
 School: Conjuration

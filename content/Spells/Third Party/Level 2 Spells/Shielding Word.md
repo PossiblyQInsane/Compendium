@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-15T15:40:49.122Z
-modified: 2026-10-15T15:47:27.395Z
-published: 2026-10-15T15:47:27.395Z
+modified: 2026-11-08T05:44:48.651Z
+published: 2026-11-08T05:44:48.651Z
 Name: "[[Shielding Word]]"
 Spell Level: Level 2
 School: Abjuration

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-08T04:25:08.043Z
-modified: 2026-10-09T05:29:51.654Z
-published: 2026-10-09T05:29:51.654Z
+modified: 2026-11-08T05:44:44.192Z
+published: 2026-11-08T05:44:44.192Z
 Name: "[[Move Earth]]"
 Spell Level: Level 6
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T14:37:29.402Z
-modified: 2026-09-03T14:39:34.043Z
-published: 2026-09-03T14:39:34.043Z
+modified: 2026-11-08T05:44:43.829Z
+published: 2026-11-08T05:44:43.829Z
 Name: "[[Moment of Prescience]]"
 Spell Level: Level 8
 School: Divination

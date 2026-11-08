@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-29T05:31:08.059Z
-modified: 2026-10-08T15:54:09.821Z
-published: 2026-10-08T15:54:09.821Z
+modified: 2026-11-08T05:44:51.580Z
+published: 2026-11-08T05:44:51.580Z
 Name: "[[Summon Shadowspawn]]"
 Spell Level: Level 3
 School: Conjuration

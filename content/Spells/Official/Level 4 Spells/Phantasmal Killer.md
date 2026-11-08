@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T04:30:59.488Z
-modified: 2026-10-09T05:03:19.619Z
-published: 2026-10-09T05:03:19.619Z
+modified: 2026-11-08T05:44:45.063Z
+published: 2026-11-08T05:44:45.063Z
 Name: "[[Phantasmal Killer]]"
 Spell Level: Level 4
 School: Illusion

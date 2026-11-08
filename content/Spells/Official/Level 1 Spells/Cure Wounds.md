@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-24T15:46:46.797Z
-modified: 2026-10-08T04:28:35.720Z
-published: 2026-10-08T04:28:35.720Z
+modified: 2026-11-08T05:44:30.324Z
+published: 2026-11-08T05:44:30.324Z
 Name: "[[Cure Wounds|Cure Wounds]]"
 Spell Level: Level 1
 School: Abjuration

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-16T16:21:38.406Z
-modified: 2026-10-08T05:31:59.675Z
-published: 2026-10-08T05:31:59.675Z
+modified: 2026-11-08T05:44:45.707Z
+published: 2026-11-08T05:44:45.707Z
 Name: "[[Preserve (Loot Tavern)|Preserve]]"
 Spell Level: Level 2
 School: Biomancy

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T23:11:42.619Z
-modified: 2026-10-05T23:15:46.669Z
-published: 2026-10-05T23:15:46.669Z
+modified: 2026-11-08T05:44:36.586Z
+published: 2026-11-08T05:44:36.586Z
 Name: "[[Frost Fingers]]"
 Spell Level: Level 1
 School: Evocation

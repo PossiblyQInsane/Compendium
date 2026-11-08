@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-06T00:10:07.687Z
-modified: 2026-10-06T00:12:55.278Z
-published: 2026-10-06T00:12:55.278Z
+modified: 2026-11-08T05:44:42.319Z
+published: 2026-11-08T05:44:42.319Z
 Name: "[[Magic Jar]]"
 Spell Level: Level 6
 School: Necromancy

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-06T05:35:06.380Z
-modified: 2026-08-17T19:20:23.304Z
-published: 2026-08-17T19:20:23.304Z
+modified: 2026-11-08T02:30:58.022Z
+published: 2026-11-08T02:30:58.022Z
 Weight: 1 lb.
 Cost: 25 GP
 Source: Player's Handbook 5.5e
@@ -10,7 +10,7 @@ Official: true
 Edition: 5.5e
 ---
 
-<div align="right" style="font-style: italic; margin-top: 0;">Player's Handbook 5.5e</div>
+<div class="source">Player's Handbook 5.5e</div>
 
 **Cost:** 25 GP
 **Weight:** 1 lb.

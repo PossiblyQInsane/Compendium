@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T13:07:45.139Z
-modified: 2026-10-08T05:15:19.749Z
-published: 2026-10-08T05:15:19.749Z
+modified: 2026-11-08T05:44:55.659Z
+published: 2026-11-08T05:44:55.659Z
 Name: "[[Uncertain Footing]]"
 Spell Level: Level 2
 School: Illusion

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-04T13:27:23.905Z
-modified: 2026-10-08T04:53:53.293Z
-published: 2026-10-08T04:53:53.293Z
+modified: 2026-11-08T05:44:28.952Z
+published: 2026-11-08T05:44:28.952Z
 Name: "[[Conjure Tools]]"
 Spell Level: Level 2
 School: Conjuration

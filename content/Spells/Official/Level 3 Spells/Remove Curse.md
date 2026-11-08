@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-01T17:34:42.435Z
-modified: 2026-10-08T15:50:06.804Z
-published: 2026-10-08T15:50:06.804Z
+modified: 2026-11-08T05:44:47.152Z
+published: 2026-11-08T05:44:47.152Z
 Name: "[[Remove Curse]]"
 Spell Level: Level 3
 School: Abjuration

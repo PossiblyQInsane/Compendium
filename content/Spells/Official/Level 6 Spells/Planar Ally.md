@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T04:14:49.400Z
-modified: 2026-08-31T23:47:21.163Z
-published: 2026-08-31T23:47:21.163Z
+modified: 2026-11-08T05:44:45.263Z
+published: 2026-11-08T05:44:45.263Z
 Name: "[[Planar Ally]]"
 Spell Level: Level 6
 School: Conjuration

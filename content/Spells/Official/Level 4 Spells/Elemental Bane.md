@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T03:40:49.661Z
-modified: 2026-10-09T04:57:35.962Z
-published: 2026-10-09T04:57:35.962Z
+modified: 2026-11-08T05:44:33.084Z
+published: 2026-11-08T05:44:33.084Z
 Name: "[[Elemental Bane]]"
 Spell Level: Level 4
 School: Transmutation

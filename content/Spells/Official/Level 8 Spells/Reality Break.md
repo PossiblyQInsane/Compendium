@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-06T15:46:34.905Z
-modified: 2026-10-09T05:50:00.807Z
-published: 2026-10-09T05:50:00.807Z
+modified: 2026-11-08T05:44:46.770Z
+published: 2026-11-08T05:44:46.770Z
 Name: "[[Reality Break]]"
 Spell Level: Level 8
 School: Conjuration

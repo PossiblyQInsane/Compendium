@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-14T03:56:55.878Z
-modified: 2026-09-30T04:58:34.505Z
-published: 2026-09-30T04:58:34.505Z
+modified: 2026-11-08T05:44:33.916Z
+published: 2026-11-08T05:44:33.916Z
 Name: "[[Evard's Black Tentacles]]"
 Spell Level: Level 4
 School: Conjuration

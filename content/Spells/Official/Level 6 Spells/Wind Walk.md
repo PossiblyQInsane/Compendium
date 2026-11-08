@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-08T04:45:54.685Z
-modified: 2026-08-31T23:48:20.145Z
-published: 2026-08-31T23:48:20.145Z
+modified: 2026-11-08T05:44:57.767Z
+published: 2026-11-08T05:44:57.767Z
 Name: "[[Wind Walk]]"
 Spell Level: Level 6
 School: Transmutation

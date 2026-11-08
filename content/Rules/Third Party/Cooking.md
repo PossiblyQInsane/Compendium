@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-24T23:14:59.677Z
-modified: 2026-08-27T03:47:25.963Z
-published: 2026-08-27T03:47:25.963Z
+modified: 2026-11-08T05:43:43.131Z
+published: 2026-11-08T05:43:43.131Z
 Source: Heliana's Guide to Monster Hunting
 Official: false
 Publisher: Loot Tavern

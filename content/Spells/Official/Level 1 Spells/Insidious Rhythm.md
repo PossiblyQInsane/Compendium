@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T20:28:27.102Z
-modified: 2026-08-31T16:07:29.358Z
-published: 2026-08-31T16:07:29.358Z
+modified: 2026-11-08T05:44:40.080Z
+published: 2026-11-08T05:44:40.080Z
 Name: "[[Insidious Rhythm]]"
 Spell Level: Level 1
 School: Enchantment

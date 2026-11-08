@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T04:26:28.927Z
-modified: 2026-10-20T04:28:49.212Z
-published: 2026-10-20T04:28:49.212Z
+modified: 2026-11-08T05:44:36.072Z
+published: 2026-11-08T05:44:36.072Z
 Name: "[[Force Blast]]"
 Spell Level: Cantrip
 School: Evocation

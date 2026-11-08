@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-25T15:51:10.076Z
-modified: 2026-08-17T19:36:11.879Z
-published: 2026-08-17T19:36:11.879Z
+modified: 2026-11-08T05:41:34.281Z
+published: 2026-11-08T05:41:34.281Z
 Cost: 1 GP
 Source: Player's Handbook 5.5e
 Weight: —

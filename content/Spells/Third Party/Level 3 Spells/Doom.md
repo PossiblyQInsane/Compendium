@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-05T05:21:49.456Z
-modified: 2026-08-31T19:12:26.628Z
-published: 2026-08-31T19:12:26.628Z
+modified: 2026-11-08T05:44:32.224Z
+published: 2026-11-08T05:44:32.224Z
 Name: "[[Doom]]"
 Spell Level: Level 3
 School: Necromancy

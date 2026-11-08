@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-31T14:17:42.432Z
-modified: 2026-09-21T20:45:18.104Z
-published: 2026-09-21T20:45:18.104Z
+modified: 2026-11-08T05:44:23.274Z
+published: 2026-11-08T05:44:23.274Z
 Name: "[[Antilife Shell]]"
 Spell Level: Level 5
 School: Abjuration

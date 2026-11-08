@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T05:31:45.270Z
-modified: 2026-10-16T05:35:56.282Z
-published: 2026-10-16T05:35:56.282Z
+modified: 2026-11-08T05:44:21.977Z
+published: 2026-11-08T05:44:21.977Z
 Name: "[[Acid Rain]]"
 Spell Level: Level 3
 School: Conjuration

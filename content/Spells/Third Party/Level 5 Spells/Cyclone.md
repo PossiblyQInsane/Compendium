@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T05:00:13.595Z
-modified: 2026-10-16T05:05:05.783Z
-published: 2026-10-16T05:05:05.783Z
+modified: 2026-11-08T05:44:30.397Z
+published: 2026-11-08T05:44:30.397Z
 Name: "[[Cyclone]]"
 Spell Level: Level 5
 School: Evocation

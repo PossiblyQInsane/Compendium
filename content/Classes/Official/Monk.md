@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-11T04:27:40.302Z
-modified: 2026-10-07T15:51:09.930Z
-published: 2026-10-07T15:51:09.930Z
+modified: 2026-11-08T02:10:34.672Z
+published: 2026-11-08T02:10:34.672Z
 Name: "[[Monk]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -210,35 +210,35 @@ A Monk subclass is a specialization that grants you features at certain Monk lev
 
 ### Official Monk Subclasses
 
-| Name                                                                                     | Source                         | Edition |
-| ---------------------------------------------------------------------------------------- | ------------------------------ | ------- |
-| [[Subclasses/Official/Monk/Warrior of Mercy.md\|Warrior of Mercy]]                       | Player's Handbook 5.5e         | 5.5e    |
-| [[Subclasses/Official/Monk/Warrior of Shadow.md\|Warrior of Shadow]]                     | Player's Handbook 5.5e         | 5.5e    |
-| [[Subclasses/Official/Monk/Warrior of the Elements.md\|Warrior of the Elements]]         | Player's Handbook 5.5e         | 5.5e    |
-| [[Subclasses/Official/Monk/Warrior of the Mystic Arts.md\|Warrior of the Mystic Arts]]   | Arcana Unleashed               | 5.5e    |
-| [[Subclasses/Official/Monk/Warrior of the Open Hand.md\|Warrior of the Open Hand]]       | Player's Handbook 5.5e         | 5.5e    |
-| [[Subclasses/Official/Monk/Way of the Ascendant Dragon.md\|Way of the Ascendant Dragon]] | Fizban's Treasury of Dragons   | 5e      |
-| [[Subclasses/Official/Monk/Way of the Astral Self.md\|Way of the Astral Self]]           | Tasha's Cauldron of Everything | 5e      |
-| [[Subclasses/Official/Monk/Way of the Drunken Master.md\|Way of the Drunken Master]]     | Xanathar's Guide to Everything | 5e      |
-| [[Subclasses/Official/Monk/Way of the Kensei.md\|Way of the Kensei]]                     | Xanathar's Guide to Everything | 5e      |
-| [[Subclasses/Official/Monk/Way of the Long Death.md\|Way of the Long Death]]             | Sword Coast Adventurer's Guide | 5e      |
-| [[Subclasses/Official/Monk/Way of the Sun Soul.md\|Way of the Sun Soul]]                 | Sword Coast Adventurer's Guide | 5e      |
+| Name                                                                                                   | Source                         | Edition |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------ | ------- |
+| [[Subclasses/Monk/Official/Warrior of Mercy.md\|Warrior of Mercy]]                                     | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Monk/Official/Warrior of Shadow.md\|Warrior of Shadow]]                                   | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Monk/Official/Warrior of the Elements.md\|Warrior of the Elements]]                       | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Monk/Official/Warrior of the Mystic Arts.md\|Warrior of the Mystic Arts]]                 | Arcana Unleashed               | 5.5e    |
+| [[Subclasses/Monk/Official/Warrior of the Open Hand.md\|Warrior of the Open Hand]]                     | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Monk/Official/Way of the Ascendant Dragon.md\|Way of the Ascendant Dragon]]               | Fizban's Treasury of Dragons   | 5e      |
+| [[Subclasses/Monk/Official/Way of the Astral Self.md\|Way of the Astral Self]]                         | Tasha's Cauldron of Everything | 5e      |
+| [[Subclasses/Monk/Official/Way of the Drunken Master (Legacy).md\|Way of the Drunken Master (Legacy)]] | Xanathar's Guide to Everything | 5e      |
+| [[Subclasses/Monk/Official/Way of the Kensei.md\|Way of the Kensei]]                                   | Xanathar's Guide to Everything | 5e      |
+| [[Subclasses/Monk/Official/Way of the Long Death.md\|Way of the Long Death]]                           | Sword Coast Adventurer's Guide | 5e      |
+| [[Subclasses/Monk/Official/Way of the Sun Soul.md\|Way of the Sun Soul]]                               | Sword Coast Adventurer's Guide | 5e      |
 
 ### Third Party Monk Subclasses
 
 | Name                                                                                            | Source                                      | Publisher               | Edition |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------- | ------- |
-| [[Subclasses/Third Party/Monk/Sheep Dragon Shepherd.md\|Sheep Dragon Shepherd]]                 | Obojima: Tales from the Tall Grass          | 1985 Games              | 5.5e    |
-| [[Subclasses/Third Party/Monk/Warrior of Cosmic Balance.md\|Warrior of Cosmic Balance]]         | Cthulhu by Torchlight                       | Chaosium                | 5.5e    |
-| [[Subclasses/Third Party/Monk/Warrior of Pride.md\|Warrior of Pride]]                           | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Monk/Warrior of Regret.md\|Warrior of Regret]]                         | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Monk/Warrior of the Celestial.md\|Warrior of the Celestial]]           | The Griffon's Saddlebag: Book One           | The Griffon's Saddlebag | 5.5e    |
-| [[Subclasses/Third Party/Monk/Warrior of the Leaden Crown.md\|Warrior of the Leaden Crown]]     | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Monk/Warrior of the Living Weapon.md\|Warrior of the Living Weapon]]   | Exploring Eberron                           | Visionary               | 5.5e    |
-| [[Subclasses/Third Party/Monk/Warrior of the Pestilent Haze.md\|Warrior of the Pestilent Haze]] | The Crooked Moon                            | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Monk/Warrior of the Street.md\|Warrior of the Street]]                 | Valda's Spire of Secrets                    | Mage Hand Press         | 5.5e    |
-| [[Subclasses/Third Party/Monk/Way of the Aether.md\|Way of the Aether]]                         | The Griffon's Saddlebag: Book Two           | The Griffon's Saddlebag | 5e      |
-| [[Subclasses/Third Party/Monk/Way of the Artisan.md\|Way of the Artisan]]                       | L'Arsene's Ledger of Treasures and Trinkets | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Monk/Way of the Cobalt Soul.md\|Way of the Cobalt Soul]]               | Tal'Dorei Campaign Setting Reborn           | Darrington Press        | 5e      |
-| [[Subclasses/Third Party/Monk/Way of the Eight Gates.md\|Way of the Eight Gates]]               | Ryoko's Guide to the Yokai Realms           | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Monk/Way of the Specter.md\|Way of the Specter]]                       | Hexbound                                    | Hit Point Press         | 5e      |
+| [[Subclasses/Monk/Third Party/Sheep Dragon Shepherd.md\|Sheep Dragon Shepherd]]                 | Obojima: Tales from the Tall Grass          | 1985 Games              | 5.5e    |
+| [[Subclasses/Monk/Third Party/Warrior of Cosmic Balance.md\|Warrior of Cosmic Balance]]         | Cthulhu by Torchlight                       | Chaosium                | 5.5e    |
+| [[Subclasses/Monk/Third Party/Warrior of Pride.md\|Warrior of Pride]]                           | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Monk/Third Party/Warrior of Regret.md\|Warrior of Regret]]                         | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Monk/Third Party/Warrior of the Celestial.md\|Warrior of the Celestial]]           | The Griffon's Saddlebag: Book One           | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Monk/Third Party/Warrior of the Leaden Crown.md\|Warrior of the Leaden Crown]]     | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Monk/Third Party/Warrior of the Living Weapon.md\|Warrior of the Living Weapon]]   | Exploring Eberron                           | Visionary               | 5.5e    |
+| [[Subclasses/Monk/Third Party/Warrior of the Pestilent Haze.md\|Warrior of the Pestilent Haze]] | The Crooked Moon                            | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Monk/Third Party/Warrior of the Street.md\|Warrior of the Street]]                 | Valda's Spire of Secrets                    | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Monk/Third Party/Way of the Aether.md\|Way of the Aether]]                         | The Griffon's Saddlebag: Book Two           | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Monk/Third Party/Way of the Artisan.md\|Way of the Artisan]]                       | L'Arsene's Ledger of Treasures and Trinkets | Loot Tavern             | 5e      |
+| [[Subclasses/Monk/Third Party/Way of the Cobalt Soul.md\|Way of the Cobalt Soul]]               | Tal'Dorei Campaign Setting Reborn           | Darrington Press        | 5e      |
+| [[Subclasses/Monk/Third Party/Way of the Eight Gates.md\|Way of the Eight Gates]]               | Ryoko's Guide to the Yokai Realms           | Loot Tavern             | 5e      |
+| [[Subclasses/Monk/Third Party/Way of the Specter.md\|Way of the Specter]]                       | Hexbound                                    | Hit Point Press         | 5e      |

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T00:21:20.959Z
-modified: 2026-10-08T04:14:53.407Z
-published: 2026-10-08T04:14:53.407Z
+modified: 2026-11-08T05:44:43.393Z
+published: 2026-11-08T05:44:43.393Z
 Name: "[[Minor Illusion]]"
 Spell Level: Cantrip
 School: Illusion

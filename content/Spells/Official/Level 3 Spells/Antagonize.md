@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T21:15:23.707Z
-modified: 2026-10-08T15:31:23.063Z
-published: 2026-10-08T15:31:23.063Z
+modified: 2026-11-08T05:44:23.238Z
+published: 2026-11-08T05:44:23.238Z
 Name: "[[Antagonize]]"
 Spell Level: Level 3
 School: Enchantment

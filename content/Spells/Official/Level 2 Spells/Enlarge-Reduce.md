@@ -1,11 +1,11 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Enlarge/Reduce
 title: Enlarge/Reduce
 created: 2026-07-26T04:55:07.457Z
-modified: 2026-10-08T04:59:11.460Z
-published: 2026-10-08T04:59:11.460Z
+modified: 2026-11-08T05:44:33.573Z
+published: 2026-11-08T05:44:33.573Z
 Name: "[[Enlarge-Reduce|Enlarge/Reduce]]"
 Spell Level: Level 2
 School: Transmutation

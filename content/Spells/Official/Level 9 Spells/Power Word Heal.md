@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T00:07:24.096Z
-modified: 2026-10-09T05:43:55.676Z
-published: 2026-10-09T05:43:55.676Z
+modified: 2026-11-08T05:44:45.514Z
+published: 2026-11-08T05:44:45.514Z
 Name: "[[Power Word Heal]]"
 Spell Level: Level 9
 School: Enchantment

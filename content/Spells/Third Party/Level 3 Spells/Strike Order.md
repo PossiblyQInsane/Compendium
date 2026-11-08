@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-13T06:21:04.648Z
-modified: 2026-10-13T06:23:37.227Z
-published: 2026-10-13T06:23:37.227Z
+modified: 2026-11-08T05:44:50.883Z
+published: 2026-11-08T05:44:50.883Z
 Name: "[[Strike Order]]"
 Spell Level: Level 3
 School: Enchantment

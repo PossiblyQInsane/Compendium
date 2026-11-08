@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T00:18:26.169Z
-modified: 2026-10-08T04:09:07.491Z
-published: 2026-10-08T04:09:07.491Z
+modified: 2026-11-08T05:44:36.482Z
+published: 2026-11-08T05:44:36.482Z
 Name: "[[Friends]]"
 Spell Level: Cantrip
 School: Enchantment

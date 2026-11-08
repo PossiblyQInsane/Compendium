@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T04:04:24.384Z
-modified: 2026-10-20T04:07:09.874Z
-published: 2026-10-20T04:07:09.874Z
+modified: 2026-11-08T05:44:33.943Z
+published: 2026-11-08T05:44:33.943Z
 Name: "[[Evil Eye]]"
 Spell Level: Cantrip
 School: Enchantment

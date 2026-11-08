@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T14:17:45.050Z
-modified: 2026-10-09T05:35:40.805Z
-published: 2026-10-09T05:35:40.805Z
+modified: 2026-11-08T05:44:47.336Z
+published: 2026-11-08T05:44:47.336Z
 Name: "[[Reweave Fate]]"
 Spell Level: Level 7
 School: Divination

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-02T01:47:31.337Z
-modified: 2026-08-17T20:00:59.952Z
-published: 2026-08-17T20:00:59.952Z
+modified: 2026-11-08T05:42:03.235Z
+published: 2026-11-08T05:42:03.235Z
 Category: Artisan's Tools
 Ability: Strength
 Weight: 6 lb.

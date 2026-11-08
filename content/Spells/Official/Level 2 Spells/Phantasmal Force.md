@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T01:22:20.466Z
-modified: 2026-10-08T05:08:58.238Z
-published: 2026-10-08T05:08:58.238Z
+modified: 2026-11-08T05:44:45.036Z
+published: 2026-11-08T05:44:45.036Z
 Name: "[[Phantasmal Force]]"
 Spell Level: Level 2
 School: Illusion

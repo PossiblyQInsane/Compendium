@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T13:17:18.221Z
-modified: 2026-10-08T15:44:33.700Z
-published: 2026-10-08T15:44:33.700Z
+modified: 2026-11-08T05:44:39.740Z
+published: 2026-11-08T05:44:39.740Z
 Name: "[[Inflict Doubt]]"
 Spell Level: Level 3
 School: Enchantment

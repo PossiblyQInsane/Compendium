@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-19T02:09:43.569Z
-modified: 2026-10-19T02:14:12.683Z
-published: 2026-10-19T02:14:12.683Z
+modified: 2026-11-08T05:44:33.553Z
+published: 2026-11-08T05:44:33.553Z
 Name: "[[Enhance Talent]]"
 Spell Level: Level 4
 School: Abjuration

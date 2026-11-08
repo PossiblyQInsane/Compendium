@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-07T04:30:16.137Z
-modified: 2026-10-08T16:06:27.978Z
-published: 2026-10-08T16:06:27.978Z
+modified: 2026-11-08T05:44:34.755Z
+published: 2026-11-08T05:44:34.755Z
 Name: "[[Find Familiar]]"
 Spell Level: Level 1
 School: Conjuration

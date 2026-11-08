@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-24T02:56:52.033Z
-modified: 2026-10-09T05:29:15.971Z
-published: 2026-10-09T05:29:15.971Z
+modified: 2026-11-08T05:44:40.495Z
+published: 2026-11-08T05:44:40.495Z
 Name: "[[Investiture of Wind]]"
 Spell Level: Level 6
 School: Transmutation

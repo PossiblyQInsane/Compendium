@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T06:12:02.926Z
-modified: 2026-10-09T05:35:21.273Z
-published: 2026-10-09T05:35:21.273Z
+modified: 2026-11-08T05:44:47.245Z
+published: 2026-11-08T05:44:47.245Z
 Name: "[[Resurrection]]"
 Spell Level: Level 7
 School: Necromancy

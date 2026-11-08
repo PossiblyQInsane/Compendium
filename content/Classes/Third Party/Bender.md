@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-02T22:28:24.078Z
-modified: 2026-10-17T11:21:42.309Z
-published: 2026-10-17T11:21:42.309Z
+modified: 2026-11-08T02:11:16.118Z
+published: 2026-11-08T02:11:16.118Z
 Name: "[[Bender]]"
 Source: Ryoko's Guide to the Yokai Realms
 Official: false
@@ -370,7 +370,7 @@ Benders control the primordial forces through manipulation of the Weave. The spe
 | ------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- |
 | _[[Spells/Third Party/Level 3 Spells/Acid Rain.md\|Acid Rain]]_           | Conjuration   | C       | Heliana's Guide to Monster Hunting |
 | _[[Spells/Official/Level 3 Spells/Meld into Stone.md\|Meld into Stone]]_  | Transmutation | R       | Player's Handbook 5.5e             |
-| _[[Spells/Official/Level 3 Spells/Mireball.md\|Mireball]]_                | Conjuration   | —       | Heliana's Guide to Monster Hunting |
+| _[[Spells/Third Party/Level 3 Spells/Mireball.md\|Mireball]]_             | Conjuration   | —       | Heliana's Guide to Monster Hunting |
 
 #### Level 4 Earth Spells
 
@@ -553,9 +553,9 @@ Benders control the primordial forces through manipulation of the Weave. The spe
 
 The elements are every bender’s tool, the instrument with which they dazzle an audience, save souls from natural disaster, or strike down foes. As varied as the myriad ways in which nature manifests, different benders find inspiration from different facets of nature. Some feast on the catastrophic eruption of a volcano, a tumultuous torrent of fire and earth. Others are roused by stoic glaciers and the impenetrable teeth of high mountains. And the bountiful creche of gentle winds and clean water provides succour for those who nurture values of growth and wellbeing. At 3rd level, you choose the aspects of nature that inspire your command of the elements.
 
-| Name                                                                                      | Source                            | Publisher   | Edition |
-| ----------------------------------------------------------------------------------------- | --------------------------------- | ----------- | ------- |
-| [[Subclasses/Third Party/Bender/Disciple of Ferocity.md\|Disciple of Ferocity]]           | Ryoko's Guide to the Yokai Realms | Loot Tavern | 5e      |
-| [[Subclasses/Third Party/Bender/Disciple of Fortification.md\|Disciple of Fortification]] | Ryoko's Guide to the Yokai Realms | Loot Tavern | 5e      |
-| [[Subclasses/Third Party/Bender/Disciple of Fusion.md\|Disciple of Fusion]]               | Ryoko's Guide to the Yokai Realms | Loot Tavern | 5e      |
-| [[Subclasses/Third Party/Bender/Disciple of Invigoration.md\|Disciple of Invigoration]]   | Ryoko's Guide to the Yokai Realms | Loot Tavern | 5e      |
+| Name                                                                          | Source                            | Publisher   | Edition |
+| ----------------------------------------------------------------------------- | --------------------------------- | ----------- | ------- |
+| [[Subclasses/Bender/Disciple of Ferocity.md\|Disciple of Ferocity]]           | Ryoko's Guide to the Yokai Realms | Loot Tavern | 5e      |
+| [[Subclasses/Bender/Disciple of Fortification.md\|Disciple of Fortification]] | Ryoko's Guide to the Yokai Realms | Loot Tavern | 5e      |
+| [[Subclasses/Bender/Disciple of Fusion.md\|Disciple of Fusion]]               | Ryoko's Guide to the Yokai Realms | Loot Tavern | 5e      |
+| [[Subclasses/Bender/Disciple of Invigoration.md\|Disciple of Invigoration]]   | Ryoko's Guide to the Yokai Realms | Loot Tavern | 5e      |

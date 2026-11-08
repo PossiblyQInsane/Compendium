@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T06:27:46.970Z
-modified: 2026-10-16T06:31:23.605Z
-published: 2026-10-16T06:31:23.605Z
+modified: 2026-11-08T05:44:45.181Z
+published: 2026-11-08T05:44:45.181Z
 Name: "[[Pins & Needles]]"
 Spell Level: Cantrip
 School: Biomancy

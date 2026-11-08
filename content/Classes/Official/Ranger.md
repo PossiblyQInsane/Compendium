@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-15T01:40:46.588Z
-modified: 2026-10-07T15:51:26.253Z
-published: 2026-10-07T15:51:26.253Z
+modified: 2026-11-08T02:10:45.687Z
+published: 2026-11-08T02:10:45.687Z
 Name: "[[Ranger]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -295,34 +295,34 @@ A Ranger subclass is a specialization that grants you features at certain Ranger
 
 | Name                                                             | Source                             | Edition |
 | ---------------------------------------------------------------- | ---------------------------------- | ------- |
-| [[Subclasses/Official/Ranger/Beast Master.md\|Beast Master]]     | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Ranger/Drakewarden.md\|Drakewarden]]       | Fizban's Treasury of Dragons       | 5e      |
-| [[Subclasses/Official/Ranger/Fey Wanderer.md\|Fey Wanderer]]     | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Ranger/Gloom Stalker.md\|Gloom Stalker]]   | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Ranger/Hollow Warden.md\|Hollow Warden]]   | Ravenloft: The Horrors Within      | 5.5e    |
-| [[Subclasses/Official/Ranger/Horizon Walker.md\|Horizon Walker]] | Xanathar's Guide to Everything     | 5e      |
-| [[Subclasses/Official/Ranger/Hunter.md\|Hunter]]                 | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Ranger/Monster Slayer.md\|Monster Slayer]] | Xanathar's Guide to Everything     | 5e      |
-| [[Subclasses/Official/Ranger/Swarmkeeper.md\|Swarmkeeper]]       | Tasha's Cauldron of Everything     | 5e      |
-| [[Subclasses/Official/Ranger/Winter Walker.md\|Winter Walker]]   | Forgotten Realms: Heroes of Faerûn | 5.5e    |
+| [[Subclasses/Ranger/Official/Beast Master.md\|Beast Master]]     | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Ranger/Official/Drakewarden.md\|Drakewarden]]       | Fizban's Treasury of Dragons       | 5e      |
+| [[Subclasses/Ranger/Official/Fey Wanderer.md\|Fey Wanderer]]     | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Ranger/Official/Gloom Stalker.md\|Gloom Stalker]]   | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Ranger/Official/Hollow Warden.md\|Hollow Warden]]   | Ravenloft: The Horrors Within      | 5.5e    |
+| [[Subclasses/Ranger/Official/Horizon Walker.md\|Horizon Walker]] | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Ranger/Official/Hunter.md\|Hunter]]                 | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Ranger/Official/Monster Slayer.md\|Monster Slayer]] | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Ranger/Official/Swarmkeeper.md\|Swarmkeeper]]       | Tasha's Cauldron of Everything     | 5e      |
+| [[Subclasses/Ranger/Official/Winter Walker.md\|Winter Walker]]   | Forgotten Realms: Heroes of Faerûn | 5.5e    |
 
 ### Third Party Ranger Subclasses
 
 | Name                                                                      | Source                                  | Publisher               | Edition |
 | ------------------------------------------------------------------------- | --------------------------------------- | ----------------------- | ------- |
-| [[Subclasses/Third Party/Ranger/Beastborne.md\|Beastborne]]               | Valda's Spire of Secrets                | Mage Hand Press         | 5.5e    |
-| [[Subclasses/Third Party/Ranger/Big Game Hunter.md\|Big Game Hunter]]     | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games            | 5.5e    |
-| [[Subclasses/Third Party/Ranger/Bloodhound.md\|Bloodhound]]               | Frontiers of Eberron: Quickstone        | Visionary               | 5.5e    |
-| [[Subclasses/Third Party/Ranger/Corrupted Ranger.md\|Corrupted Ranger]]   | Obojima: Tales from the Tall Grass      | 1985 Games              | 5.5e    |
-| [[Subclasses/Third Party/Ranger/Coven Conclave.md\|Coven Conclave]]       | Hexbound                                | Hit Point Press         | 5e      |
-| [[Subclasses/Third Party/Ranger/Field Researcher.md\|Field Researcher]]   | The Field Guide to Floral Dragons       | Hit Point Press         | 5.5e    |
-| [[Subclasses/Third Party/Ranger/Green Reaper.md\|Green Reaper]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Ranger/Grim Harbinger.md\|Grim Harbinger]]       | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Ranger/Primordial Archer.md\|Primordial Archer]] | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Ranger/Rocborne.md\|Rocborne]]                   | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
-| [[Subclasses/Third Party/Ranger/Rōnin.md\|Rōnin]]                         | Ryoko's Guide to the Yokai Realms       | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Ranger/Torturer Conclave.md\|Torturer Conclave]] | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
-| [[Subclasses/Third Party/Ranger/Trail Warden.md\|Trail Warden]]           | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
-| [[Subclasses/Third Party/Ranger/Trapper.md\|Trapper]]                     | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Ranger/Vermin Lord.md\|Vermin Lord]]             | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Ranger/Winter Trapper.md\|Winter Trapper]]       | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Ranger/Third Party/Beastborne.md\|Beastborne]]               | Valda's Spire of Secrets                | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Ranger/Third Party/Big Game Hunter.md\|Big Game Hunter]]     | Dr. Dhrolin's Dictionary of Dinosaurs   | Palaeo Games            | 5.5e    |
+| [[Subclasses/Ranger/Third Party/Bloodhound.md\|Bloodhound]]               | Frontiers of Eberron: Quickstone        | Visionary               | 5.5e    |
+| [[Subclasses/Ranger/Third Party/Corrupted Ranger.md\|Corrupted Ranger]]   | Obojima: Tales from the Tall Grass      | 1985 Games              | 5.5e    |
+| [[Subclasses/Ranger/Third Party/Coven Conclave.md\|Coven Conclave]]       | Hexbound                                | Hit Point Press         | 5e      |
+| [[Subclasses/Ranger/Third Party/Field Researcher.md\|Field Researcher]]   | The Field Guide to Floral Dragons       | Hit Point Press         | 5.5e    |
+| [[Subclasses/Ranger/Third Party/Green Reaper.md\|Green Reaper]]           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Ranger/Third Party/Grim Harbinger.md\|Grim Harbinger]]       | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Ranger/Third Party/Primordial Archer.md\|Primordial Archer]] | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Ranger/Third Party/Rocborne.md\|Rocborne]]                   | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Ranger/Third Party/Rōnin.md\|Rōnin]]                         | Ryoko's Guide to the Yokai Realms       | Loot Tavern             | 5e      |
+| [[Subclasses/Ranger/Third Party/Torturer Conclave.md\|Torturer Conclave]] | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
+| [[Subclasses/Ranger/Third Party/Trail Warden.md\|Trail Warden]]           | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
+| [[Subclasses/Ranger/Third Party/Trapper.md\|Trapper]]                     | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |
+| [[Subclasses/Ranger/Third Party/Vermin Lord.md\|Vermin Lord]]             | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Ranger/Third Party/Winter Trapper.md\|Winter Trapper]]       | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |

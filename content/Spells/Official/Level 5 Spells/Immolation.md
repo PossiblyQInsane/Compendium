@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T06:21:43.147Z
-modified: 2026-10-09T05:17:19.813Z
-published: 2026-10-09T05:17:19.813Z
+modified: 2026-11-08T05:44:39.260Z
+published: 2026-11-08T05:44:39.260Z
 Name: "[[Immolation]]"
 Spell Level: Level 5
 School: Evocation

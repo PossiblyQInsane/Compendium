@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-06T15:43:36.782Z
-modified: 2026-10-06T15:46:00.244Z
-published: 2026-10-06T15:46:00.244Z
+modified: 2026-11-08T05:44:52.640Z
+published: 2026-11-08T05:44:52.640Z
 Name: "[[Tether Essence]]"
 Spell Level: Level 7
 School: Necromancy

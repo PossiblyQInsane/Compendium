@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T05:08:07.297Z
-modified: 2026-10-09T05:19:06.218Z
-published: 2026-10-09T05:19:06.218Z
+modified: 2026-11-08T05:44:45.285Z
+published: 2026-11-08T05:44:45.285Z
 Name: "[[Planar Binding]]"
 Spell Level: Level 5
 School: Abjuration

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T18:50:38.647Z
-modified: 2026-10-09T04:51:28.748Z
-published: 2026-10-09T04:51:28.748Z
+modified: 2026-11-08T05:44:23.573Z
+published: 2026-11-08T05:44:23.573Z
 Name: "[[Arcane Eye]]"
 Spell Level: Level 4
 School: Divination

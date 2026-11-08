@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-18T01:04:19.946Z
-modified: 2026-10-18T01:12:39.916Z
-published: 2026-10-18T01:12:39.916Z
+modified: 2026-11-08T05:44:39.569Z
+published: 2026-11-08T05:44:39.569Z
 Name: "[[Incorporeality]]"
 Spell Level: Level 5
 School: Transmutation

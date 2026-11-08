@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - incapacitated
 created: 2026-07-30T04:56:06.563Z
-modified: 2026-09-28T23:09:34.356Z
-published: 2026-09-28T23:09:34.356Z
+modified: 2026-11-08T05:43:44.903Z
+published: 2026-11-08T05:43:44.903Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

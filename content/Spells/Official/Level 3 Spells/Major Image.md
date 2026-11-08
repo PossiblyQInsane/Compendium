@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T03:36:32.246Z
-modified: 2026-10-08T15:47:01.426Z
-published: 2026-10-08T15:47:01.426Z
+modified: 2026-11-08T05:44:42.650Z
+published: 2026-11-08T05:44:42.650Z
 Name: "[[Major Image]]"
 Spell Level: Level 3
 School: Illusion

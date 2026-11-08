@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T07:16:24.982Z
-modified: 2026-10-16T07:21:52.268Z
-published: 2026-10-16T07:21:52.268Z
+modified: 2026-11-08T05:44:57.656Z
+published: 2026-11-08T05:44:57.656Z
 Name: "[[White Water Wall]]"
 Spell Level: Level 5
 School: Conjuration

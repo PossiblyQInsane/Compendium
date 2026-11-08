@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T13:33:51.071Z
-modified: 2026-09-03T13:36:08.195Z
-published: 2026-09-03T13:36:08.195Z
+modified: 2026-11-08T05:44:43.965Z
+published: 2026-11-08T05:44:43.965Z
 Name: "[[Mordenkainen's Lucubration]]"
 Spell Level: Level 5
 School: Divination

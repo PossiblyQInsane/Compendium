@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-27T00:01:12.755Z
-modified: 2026-11-01T03:55:46.988Z
-published: 2026-11-01T03:55:46.988Z
+modified: 2026-11-08T05:44:35.319Z
+published: 2026-11-08T05:44:35.319Z
 Name: "[[Flaming Sphere]]"
 Spell Level: Level 2
 School: Evocation

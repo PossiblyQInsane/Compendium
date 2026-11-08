@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-15T16:07:39.725Z
-modified: 2026-10-15T16:11:24.338Z
-published: 2026-10-15T16:11:24.338Z
+modified: 2026-11-08T05:44:47.123Z
+published: 2026-11-08T05:44:47.123Z
 Name: "[[Reinforce]]"
 Spell Level: Cantrip
 School: Transmutation

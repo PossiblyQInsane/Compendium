@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - restrained
 created: 2026-08-06T04:57:18.262Z
-modified: 2026-09-28T23:16:33.171Z
-published: 2026-09-28T23:16:33.171Z
+modified: 2026-11-08T05:43:46.301Z
+published: 2026-11-08T05:43:46.301Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

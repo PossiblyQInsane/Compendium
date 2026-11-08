@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-24T01:15:45.595Z
-modified: 2026-10-08T15:54:53.804Z
-published: 2026-10-08T15:54:53.804Z
+modified: 2026-11-08T05:44:52.933Z
+published: 2026-11-08T05:44:52.933Z
 Name: "[[Tidal Wave]]"
 Spell Level: Level 3
 School: Conjuration

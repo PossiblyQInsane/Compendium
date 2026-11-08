@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T21:30:01.937Z
-modified: 2026-10-08T15:39:12.758Z
-published: 2026-10-08T15:39:12.758Z
+modified: 2026-11-08T05:44:33.467Z
+published: 2026-11-08T05:44:33.467Z
 Name: "[[Enemies Abound]]"
 Spell Level: Level 3
 School: Enchantment

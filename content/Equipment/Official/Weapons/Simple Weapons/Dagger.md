@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-24T05:35:32.711Z
-modified: 2026-08-17T20:07:54.202Z
-published: 2026-08-17T20:07:54.202Z
+modified: 2026-11-08T05:42:04.126Z
+published: 2026-11-08T05:42:04.126Z
 Category: Simple Melee Weapons
 Damage: 1d4 Piercing
 Properties: Finesse, Light, Thrown (Range 20/60)

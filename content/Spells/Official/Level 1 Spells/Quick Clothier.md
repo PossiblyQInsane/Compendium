@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-04T13:42:53.383Z
-modified: 2026-10-08T04:43:58.826Z
-published: 2026-10-08T04:43:58.826Z
+modified: 2026-11-08T05:44:46.408Z
+published: 2026-11-08T05:44:46.408Z
 Name: "[[Quick Clothier]]"
 Spell Level: Level 1
 School: Transmutation

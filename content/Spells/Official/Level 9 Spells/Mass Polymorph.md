@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T22:36:56.681Z
-modified: 2026-10-09T05:43:43.026Z
-published: 2026-10-09T05:43:43.026Z
+modified: 2026-11-08T05:44:42.881Z
+published: 2026-11-08T05:44:42.881Z
 Name: "[[Mass Polymorph]]"
 Spell Level: Level 9
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T03:55:28.118Z
-modified: 2026-10-08T15:51:55.569Z
-published: 2026-10-08T15:51:55.569Z
+modified: 2026-11-08T05:44:49.766Z
+published: 2026-11-08T05:44:49.766Z
 Name: "[[Speak with Dead]]"
 Spell Level: Level 3
 School: Necromancy

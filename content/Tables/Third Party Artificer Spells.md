@@ -1,3 +1,10 @@
+---
+publish: "true"
+created: 2026-08-16T19:48:51.249Z
+modified: 2026-11-08T05:45:16.303Z
+published: 2026-11-08T05:45:16.303Z
+---
+
 ### Cantrips (Level 0 Artificer Spells)
 
 | Name                                                                                    | School     | Special | Source            | Publisher |

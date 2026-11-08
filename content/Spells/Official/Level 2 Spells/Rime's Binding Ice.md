@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T04:51:15.236Z
-modified: 2026-10-08T05:10:43.679Z
-published: 2026-10-08T05:10:43.679Z
+modified: 2026-11-08T05:44:47.403Z
+published: 2026-11-08T05:44:47.403Z
 Name: "[[Rime's Binding Ice]]"
 Spell Level: Level 2
 School: Evocation

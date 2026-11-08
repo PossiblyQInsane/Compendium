@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T14:52:21.022Z
-modified: 2026-10-09T05:45:13.908Z
-published: 2026-10-09T05:45:13.908Z
+modified: 2026-11-08T05:44:55.909Z
+published: 2026-11-08T05:44:55.909Z
 Name: "[[Vision of Elapsing Eons]]"
 Spell Level: Level 9
 School: Illusion

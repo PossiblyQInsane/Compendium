@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T04:40:23.947Z
-modified: 2026-10-08T05:35:21.415Z
-published: 2026-10-08T05:35:21.415Z
+modified: 2026-11-08T05:44:53.997Z
+published: 2026-11-08T05:44:53.997Z
 Name: "[[Transparency]]"
 Spell Level: Level 2
 School: Illusion

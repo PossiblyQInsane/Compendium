@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-23T15:41:37.987Z
-modified: 2026-10-09T05:37:40.445Z
-published: 2026-10-09T05:37:40.445Z
+modified: 2026-11-08T05:44:47.764Z
+published: 2026-11-08T05:44:47.764Z
 Name: "[[Sanguine Fusillade]]"
 Spell Level: Level 7
 School: Evocation

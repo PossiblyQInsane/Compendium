@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T03:11:44.016Z
-modified: 2026-10-08T05:19:52.540Z
-published: 2026-10-08T05:19:52.540Z
+modified: 2026-11-08T05:44:36.538Z
+published: 2026-11-08T05:44:36.538Z
 Name: "[[Frigid Blade]]"
 Spell Level: Cantrip
 School: Evocation

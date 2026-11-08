@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-15T17:16:09.584Z
-modified: 2026-10-15T17:21:30.691Z
-published: 2026-10-15T17:21:30.691Z
+modified: 2026-11-08T05:44:46.994Z
+published: 2026-11-08T05:44:46.994Z
 Name: "[[Redirect Lightning]]"
 Spell Level: Level 2
 School: Abjuration

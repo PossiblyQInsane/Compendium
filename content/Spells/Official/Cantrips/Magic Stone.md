@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T01:55:33.515Z
-modified: 2026-10-08T04:12:55.850Z
-published: 2026-10-08T04:12:55.850Z
+modified: 2026-11-08T05:44:42.491Z
+published: 2026-11-08T05:44:42.491Z
 Name: "[[Magic Stone]]"
 Spell Level: Cantrip
 School: Transmutation

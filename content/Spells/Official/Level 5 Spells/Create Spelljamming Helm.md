@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T03:46:32.400Z
-modified: 2026-10-09T05:14:35.464Z
-published: 2026-10-09T05:14:35.464Z
+modified: 2026-11-08T05:44:29.920Z
+published: 2026-11-08T05:44:29.920Z
 Name: "[[Create Spelljamming Helm]]"
 Spell Level: Level 5
 School: Transmutation

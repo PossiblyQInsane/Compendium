@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-06T15:36:24.634Z
-modified: 2026-10-09T05:49:31.612Z
-published: 2026-10-09T05:49:31.612Z
+modified: 2026-11-08T05:44:52.561Z
+published: 2026-11-08T05:44:52.561Z
 Name: "[[Temporal Shunt]]"
 Spell Level: Level 5
 School: Transmutation

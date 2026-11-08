@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T04:01:02.995Z
-modified: 2026-10-08T15:52:45.052Z
-published: 2026-10-08T15:52:45.052Z
+modified: 2026-11-08T05:44:50.669Z
+published: 2026-11-08T05:44:50.669Z
 Name: "[[Stinking Cloud]]"
 Spell Level: Level 3
 School: Conjuration

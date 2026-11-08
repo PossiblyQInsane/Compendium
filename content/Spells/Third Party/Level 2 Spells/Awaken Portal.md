@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T02:45:31.434Z
-modified: 2026-10-20T02:49:54.584Z
-published: 2026-10-20T02:49:54.584Z
+modified: 2026-11-08T05:44:24.507Z
+published: 2026-11-08T05:44:24.507Z
 Name: "[[Awaken Portal]]"
 Spell Level: Level 2
 School: Conjuration

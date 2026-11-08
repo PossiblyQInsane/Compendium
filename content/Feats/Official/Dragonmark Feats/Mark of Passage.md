@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T04:41:28.378Z
-modified: 2026-10-20T04:47:41.650Z
-published: 2026-10-20T04:47:41.650Z
+modified: 2026-11-08T05:42:41.568Z
+published: 2026-11-08T05:42:41.568Z
 Feat Category: Dragonmark Feat
 Prerequisite:
   - Eberron Campaign

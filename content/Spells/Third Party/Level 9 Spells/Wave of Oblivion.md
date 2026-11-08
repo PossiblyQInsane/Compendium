@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T04:14:49.044Z
-modified: 2026-10-20T04:17:25.352Z
-published: 2026-10-20T04:17:25.352Z
+modified: 2026-11-08T05:44:57.378Z
+published: 2026-11-08T05:44:57.378Z
 Name: "[[Wave of Oblivion]]"
 Spell Level: Level 9
 School: Evocation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-08T04:22:53.880Z
-modified: 2026-08-31T23:44:07.505Z
-published: 2026-08-31T23:44:07.505Z
+modified: 2026-11-08T05:44:28.853Z
+published: 2026-11-08T05:44:28.853Z
 Name: "[[Conjure Fey]]"
 Spell Level: Level 6
 School: Conjuration

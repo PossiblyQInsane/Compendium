@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T03:40:36.723Z
-modified: 2026-10-20T03:43:11.204Z
-published: 2026-10-20T03:43:11.204Z
+modified: 2026-11-08T05:44:29.840Z
+published: 2026-11-08T05:44:29.840Z
 Name: "[[Create Mist of R'lyeh]]"
 Spell Level: Level 1
 School: Conjuration

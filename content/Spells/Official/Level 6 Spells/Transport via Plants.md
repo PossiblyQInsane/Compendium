@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-08T04:32:19.764Z
-modified: 2026-08-31T23:47:59.756Z
-published: 2026-08-31T23:47:59.756Z
+modified: 2026-11-08T05:44:54.167Z
+published: 2026-11-08T05:44:54.167Z
 Name: "[[Transport via Plants]]"
 Spell Level: Level 6
 School: Conjuration

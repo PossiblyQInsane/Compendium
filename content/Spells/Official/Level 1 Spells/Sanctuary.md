@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T03:08:13.572Z
-modified: 2026-10-08T04:44:18.866Z
-published: 2026-10-08T04:44:18.866Z
+modified: 2026-11-08T05:44:47.709Z
+published: 2026-11-08T05:44:47.709Z
 Name: "[[Sanctuary|Sanctuary]]"
 Spell Level: Level 1
 School: Abjuration

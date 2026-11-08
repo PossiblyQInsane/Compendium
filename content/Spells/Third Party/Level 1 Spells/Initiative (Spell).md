@@ -1,9 +1,9 @@
 ---
-publish: true
+publish: "true"
 title: Initiative
 created: 2026-10-18T00:10:33.615Z
-modified: 2026-10-18T00:14:48.314Z
-published: 2026-10-18T00:14:48.314Z
+modified: 2026-11-08T05:44:39.881Z
+published: 2026-11-08T05:44:39.881Z
 Name: "[[Initiative (Spell)|Initiative]]"
 Spell Level: Level 1
 School: Enchantment

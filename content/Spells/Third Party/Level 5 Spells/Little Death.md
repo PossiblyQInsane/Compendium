@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T00:44:48.041Z
-modified: 2026-10-05T00:48:42.319Z
-published: 2026-10-05T00:48:42.319Z
+modified: 2026-11-08T05:44:41.815Z
+published: 2026-11-08T05:44:41.815Z
 Name: "[[Little Death]]"
 Spell Level: Level 5
 School: Necromancy

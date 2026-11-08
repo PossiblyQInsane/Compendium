@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-18T01:05:16.087Z
-modified: 2026-10-08T15:45:38.115Z
-published: 2026-10-08T15:45:38.115Z
+modified: 2026-11-08T05:44:41.477Z
+published: 2026-11-08T05:44:41.477Z
 Name: "[[Life Transference]]"
 Spell Level: Level 3
 School: Necromancy

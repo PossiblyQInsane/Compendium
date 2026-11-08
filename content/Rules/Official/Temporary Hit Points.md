@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Temporary Hit Point
 created: 2026-07-28T14:54:44.618Z
-modified: 2026-08-24T03:34:42.325Z
-published: 2026-08-24T03:34:42.325Z
+modified: 2026-11-08T05:43:47.072Z
+published: 2026-11-08T05:43:47.072Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

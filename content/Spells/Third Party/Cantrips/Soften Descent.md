@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-15T15:55:37.901Z
-modified: 2026-10-15T16:00:21.442Z
-published: 2026-10-15T16:00:21.442Z
+modified: 2026-11-08T05:44:49.430Z
+published: 2026-11-08T05:44:49.430Z
 Name: "[[Soften Descent]]"
 Spell Level: Cantrip
 School: Transmutation

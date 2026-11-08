@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T03:39:52.723Z
-modified: 2026-10-08T15:48:35.644Z
-published: 2026-10-08T15:48:35.644Z
+modified: 2026-11-08T05:44:44.377Z
+published: 2026-11-08T05:44:44.377Z
 Name: "[[Nondetection]]"
 Spell Level: Level 3
 School: Abjuration

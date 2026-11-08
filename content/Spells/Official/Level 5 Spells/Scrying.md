@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-30T14:45:58.019Z
-modified: 2026-10-09T05:19:47.373Z
-published: 2026-10-09T05:19:47.373Z
+modified: 2026-11-08T05:44:48.014Z
+published: 2026-11-08T05:44:48.014Z
 Name: "[[Scrying]]"
 Spell Level: Level 5
 School: Divination

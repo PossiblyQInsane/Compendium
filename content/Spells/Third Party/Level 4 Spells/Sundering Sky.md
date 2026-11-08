@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T04:44:55.437Z
-modified: 2026-10-16T04:53:55.634Z
-published: 2026-10-16T04:53:55.634Z
+modified: 2026-11-08T05:44:51.700Z
+published: 2026-11-08T05:44:51.700Z
 Name: "[[Sundering Sky]]"
 Spell Level: Level 4
 School: Evocation

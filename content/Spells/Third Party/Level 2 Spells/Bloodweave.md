@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T06:37:08.864Z
-modified: 2026-10-16T06:41:24.254Z
-published: 2026-10-16T06:41:24.254Z
+modified: 2026-11-08T05:44:25.970Z
+published: 2026-11-08T05:44:25.970Z
 Name: "[[Bloodweave]]"
 Spell Level: Level 2
 School: Enchantment

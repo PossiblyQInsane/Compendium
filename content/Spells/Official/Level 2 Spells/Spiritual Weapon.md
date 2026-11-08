@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-01T17:25:04.628Z
-modified: 2026-08-31T16:24:55.993Z
-published: 2026-08-31T16:24:55.993Z
+modified: 2026-11-08T05:44:50.328Z
+published: 2026-11-08T05:44:50.328Z
 Name: "[[Spiritual Weapon]]"
 Spell Level: Level 2
 School: Evocation

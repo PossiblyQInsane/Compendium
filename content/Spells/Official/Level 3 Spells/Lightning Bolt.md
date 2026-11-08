@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-27T03:30:11.735Z
-modified: 2026-10-08T15:46:05.722Z
-published: 2026-10-08T15:46:05.722Z
+modified: 2026-11-08T05:44:41.655Z
+published: 2026-11-08T05:44:41.655Z
 Name: "[[Lightning Bolt]]"
 Spell Level: Level 3
 School: Evocation

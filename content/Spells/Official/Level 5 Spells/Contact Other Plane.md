@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T14:42:22.794Z
-modified: 2026-10-09T05:14:12.746Z
-published: 2026-10-09T05:14:12.746Z
+modified: 2026-11-08T05:44:29.369Z
+published: 2026-11-08T05:44:29.369Z
 Name: "[[Contact Other Plane]]"
 Spell Level: Level 5
 School: Divination

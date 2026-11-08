@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T16:51:56.162Z
-modified: 2026-10-09T05:42:58.093Z
-published: 2026-10-09T05:42:58.093Z
+modified: 2026-11-08T05:44:25.292Z
+published: 2026-11-08T05:44:25.292Z
 Name: "[[Blade of Disaster]]"
 Spell Level: Level 9
 School: Conjuration

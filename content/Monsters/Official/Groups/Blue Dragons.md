@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - blue dragon
 created: 2026-09-06T00:24:56.274Z
-modified: 2026-10-10T05:46:44.057Z
-published: 2026-10-10T05:46:44.057Z
+modified: 2026-11-08T05:43:18.955Z
+published: 2026-11-08T05:43:18.955Z
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

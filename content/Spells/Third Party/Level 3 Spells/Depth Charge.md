@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T04:33:18.692Z
-modified: 2026-10-16T04:37:40.857Z
-published: 2026-10-16T04:37:40.857Z
+modified: 2026-11-08T05:44:31.208Z
+published: 2026-11-08T05:44:31.208Z
 Name: "[[Depth Charge]]"
 Spell Level: Level 3
 School: Evocation

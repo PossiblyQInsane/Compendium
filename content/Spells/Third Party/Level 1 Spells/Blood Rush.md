@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-09T13:11:00.125Z
-modified: 2026-10-08T05:21:44.384Z
-published: 2026-10-08T05:21:44.384Z
+modified: 2026-11-08T05:44:25.720Z
+published: 2026-11-08T05:44:25.720Z
 Name: "[[Blood Rush]]"
 Spell Level: Level 1
 School: Transmutation

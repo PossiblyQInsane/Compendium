@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - red dragon
 created: 2026-09-08T02:48:58.597Z
-modified: 2026-10-10T05:47:37.482Z
-published: 2026-10-10T05:47:37.482Z
+modified: 2026-11-08T05:43:24.832Z
+published: 2026-11-08T05:43:24.832Z
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

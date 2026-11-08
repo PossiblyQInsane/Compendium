@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T22:13:32.200Z
-modified: 2026-10-09T05:45:41.432Z
-published: 2026-10-09T05:45:41.432Z
+modified: 2026-11-08T05:44:57.554Z
+published: 2026-11-08T05:44:57.554Z
 Name: "[[Weird]]"
 Spell Level: Level 9
 School: Illusion

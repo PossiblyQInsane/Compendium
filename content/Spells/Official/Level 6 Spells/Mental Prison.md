@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T06:45:16.000Z
-modified: 2026-10-09T05:29:44.559Z
-published: 2026-10-09T05:29:44.559Z
+modified: 2026-11-08T05:44:43.146Z
+published: 2026-11-08T05:44:43.146Z
 Name: "[[Mental Prison]]"
 Spell Level: Level 6
 School: Illusion

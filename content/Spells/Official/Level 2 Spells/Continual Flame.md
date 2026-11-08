@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T03:28:03.232Z
-modified: 2026-10-08T04:54:09.862Z
-published: 2026-10-08T04:54:09.862Z
+modified: 2026-11-08T05:44:29.473Z
+published: 2026-11-08T05:44:29.473Z
 Name: "[[Continual Flame|Continual Flame]]"
 Spell Level: Level 2
 School: Evocation

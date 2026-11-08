@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T17:48:34.301Z
-modified: 2026-10-08T15:42:23.615Z
-published: 2026-10-08T15:42:23.615Z
+modified: 2026-11-08T05:44:37.204Z
+published: 2026-11-08T05:44:37.204Z
 Name: "[[Glyph of Warding]]"
 Spell Level: Level 3
 School: Abjuration

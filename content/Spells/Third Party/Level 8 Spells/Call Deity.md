@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T03:22:33.454Z
-modified: 2026-10-20T03:25:17.884Z
-published: 2026-10-20T03:25:17.884Z
+modified: 2026-11-08T05:44:26.716Z
+published: 2026-11-08T05:44:26.716Z
 Name: "[[Call Deity]]"
 Spell Level: Level 8
 School: Conjuration

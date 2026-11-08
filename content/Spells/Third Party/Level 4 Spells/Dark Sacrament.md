@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-09T13:43:28.776Z
-modified: 2026-10-09T05:08:32.403Z
-published: 2026-10-09T05:08:32.403Z
+modified: 2026-11-08T05:44:30.563Z
+published: 2026-11-08T05:44:30.563Z
 Name: "[[Dark Sacrament]]"
 Spell Level: Level 4
 School: Evocation

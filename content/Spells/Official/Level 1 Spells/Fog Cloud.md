@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-07T14:24:31.778Z
-modified: 2026-10-08T04:37:52.790Z
-published: 2026-10-08T04:37:52.790Z
+modified: 2026-11-08T05:44:35.987Z
+published: 2026-11-08T05:44:35.987Z
 Name: "[[Fog Cloud]]"
 Spell Level: Level 1
 School: Conjuration

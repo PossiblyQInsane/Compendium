@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-11-01T05:24:06.250Z
-modified: 2026-11-01T05:29:09.113Z
-published: 2026-11-01T05:29:09.113Z
+modified: 2026-11-08T05:42:16.165Z
+published: 2026-11-08T05:42:16.165Z
 Category: Simple Melee Weapons
 Damage: 1d6 Bludgeoning
 Properties: Adaptable (piercing), Attached, Pugilist

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T05:48:03.540Z
-modified: 2026-10-09T05:04:18.532Z
-published: 2026-10-09T05:04:18.532Z
+modified: 2026-11-08T05:44:50.263Z
+published: 2026-11-08T05:44:50.263Z
 Name: "[[Spirit of Death]]"
 Spell Level: Level 4
 School: Necromancy

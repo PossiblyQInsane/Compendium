@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - jade vine dragons
 created: 2026-08-29T22:12:10.727Z
-modified: 2026-09-10T14:53:30.106Z
-published: 2026-09-10T14:53:30.106Z
+modified: 2026-11-08T05:43:21.064Z
+published: 2026-11-08T05:43:21.064Z
 Creature Type: Dragon
 Size: Tiny
 Alignment: Unaligned

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-11-01T03:50:02.160Z
-modified: 2026-11-01T03:54:22.604Z
-published: 2026-11-01T03:54:22.604Z
+modified: 2026-11-08T05:44:38.804Z
+published: 2026-11-08T05:44:38.804Z
 Name: "[[Humperdink's Irrestible Revelry]]"
 Spell Level: Level 4
 School: Enchantment

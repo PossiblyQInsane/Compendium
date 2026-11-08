@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T02:52:49.622Z
-modified: 2026-10-08T04:37:28.356Z
-published: 2026-10-08T04:37:28.356Z
+modified: 2026-11-08T05:44:34.418Z
+published: 2026-11-08T05:44:34.418Z
 Name: "[[Feather Fall|Feather Fall]]"
 Spell Level: Level 1
 School: Transmutation

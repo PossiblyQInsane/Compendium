@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T01:45:28.546Z
-modified: 2026-10-08T04:09:52.889Z
-published: 2026-10-08T04:09:52.889Z
+modified: 2026-11-08T05:44:37.640Z
+published: 2026-11-08T05:44:37.640Z
 Name: "[[Green-Flame Blade]]"
 Spell Level: Cantrip
 School: Evocation

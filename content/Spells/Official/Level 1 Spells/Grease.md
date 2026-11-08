@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-24T15:55:05.495Z
-modified: 2026-10-08T04:38:42.703Z
-published: 2026-10-08T04:38:42.703Z
+modified: 2026-11-08T05:44:37.528Z
+published: 2026-11-08T05:44:37.528Z
 Name: "[[Grease|Grease]]"
 Spell Level: Level 1
 School: Conjuration

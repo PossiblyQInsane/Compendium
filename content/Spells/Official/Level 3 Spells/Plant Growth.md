@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T03:42:38.359Z
-modified: 2026-10-08T15:49:02.131Z
-published: 2026-10-08T15:49:02.131Z
+modified: 2026-11-08T05:44:45.346Z
+published: 2026-11-08T05:44:45.346Z
 Name: "[[Plant Growth]]"
 Spell Level: Level 3
 School: Transmutation

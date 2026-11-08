@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-27T05:58:12.868Z
-modified: 2026-10-27T06:01:12.415Z
-published: 2026-10-27T06:01:12.415Z
+modified: 2026-11-08T05:44:27.557Z
+published: 2026-11-08T05:44:27.557Z
 Name: "[[Chains of Beleth]]"
 Spell Level: Level 6
 School: Conjuration

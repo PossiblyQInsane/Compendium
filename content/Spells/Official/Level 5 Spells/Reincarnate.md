@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-07T16:02:57.367Z
-modified: 2026-08-31T19:25:15.206Z
-published: 2026-08-31T19:25:15.206Z
+modified: 2026-11-08T05:44:47.082Z
+published: 2026-11-08T05:44:47.082Z
 Name: "[[Reincarnate]]"
 Spell Level: Level 5
 School: Necromancy

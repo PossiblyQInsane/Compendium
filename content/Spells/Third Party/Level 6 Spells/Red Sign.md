@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T04:08:06.743Z
-modified: 2026-10-20T04:10:57.301Z
-published: 2026-10-20T04:10:57.301Z
+modified: 2026-11-08T05:44:46.953Z
+published: 2026-11-08T05:44:46.953Z
 Name: "[[Red Sign]]"
 Spell Level: Level 6
 School: Conjuration

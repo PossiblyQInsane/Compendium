@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T03:35:52.146Z
-modified: 2026-10-09T05:20:42.207Z
-published: 2026-10-09T05:20:42.207Z
+modified: 2026-11-08T05:44:51.218Z
+published: 2026-11-08T05:44:51.218Z
 Name: "[[Summon Celestial]]"
 Spell Level: Level 5
 School: Conjuration

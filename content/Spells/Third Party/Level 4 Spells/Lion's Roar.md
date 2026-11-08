@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-03T20:57:12.796Z
-modified: 2026-10-09T05:09:33.956Z
-published: 2026-10-09T05:09:33.956Z
+modified: 2026-11-08T05:44:41.782Z
+published: 2026-11-08T05:44:41.782Z
 Name: "[[Lion's Roar]]"
 Spell Level: Level 4
 School: Conjuration

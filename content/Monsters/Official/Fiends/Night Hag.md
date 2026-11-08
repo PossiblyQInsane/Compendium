@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-19T19:23:58.433Z
-modified: 2026-10-19T19:27:29.740Z
-published: 2026-10-19T19:27:29.740Z
+modified: 2026-11-08T05:43:23.653Z
+published: 2026-11-08T05:43:23.653Z
 Creature Type: Fiend
 Size:
   - Medium

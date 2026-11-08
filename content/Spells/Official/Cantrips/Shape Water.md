@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-20T15:32:42.045Z
-modified: 2026-10-08T04:17:39.146Z
-published: 2026-10-08T04:17:39.146Z
+modified: 2026-11-08T05:44:48.377Z
+published: 2026-11-08T05:44:48.377Z
 Name: "[[Shape Water]]"
 Spell Level: Cantrip
 School: Transmutation

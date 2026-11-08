@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T21:37:49.679Z
-modified: 2026-10-09T05:13:08.664Z
-published: 2026-10-09T05:13:08.664Z
+modified: 2026-11-08T05:44:27.949Z
+published: 2026-11-08T05:44:27.949Z
 Name: "[[Circle of Power]]"
 Spell Level: Level 5
 School: Abjuration

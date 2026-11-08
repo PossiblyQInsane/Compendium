@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-04T19:24:04.014Z
-modified: 2026-10-09T05:11:09.828Z
-published: 2026-10-09T05:11:09.828Z
+modified: 2026-11-08T05:44:50.582Z
+published: 2026-11-08T05:44:50.582Z
 Name: "[[Steelskin]]"
 Spell Level: Level 4
 School: Biomancy

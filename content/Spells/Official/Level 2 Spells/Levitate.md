@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T16:38:21.698Z
-modified: 2026-10-08T05:05:35.631Z
-published: 2026-10-08T05:05:35.631Z
+modified: 2026-11-08T05:44:41.397Z
+published: 2026-11-08T05:44:41.397Z
 Name: "[[Levitate]]"
 Spell Level: Level 2
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-12T03:55:26.823Z
-modified: 2026-10-12T04:01:50.031Z
-published: 2026-10-12T04:01:50.031Z
+modified: 2026-11-08T05:44:39.677Z
+published: 2026-11-08T05:44:39.677Z
 Name: "[[Infernal Challenge]]"
 Spell Level: Level 2
 School: Enchantment

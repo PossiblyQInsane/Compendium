@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-02T16:29:53.039Z
-modified: 2026-10-12T19:55:36.677Z
-published: 2026-10-12T19:55:36.677Z
+modified: 2026-11-08T05:42:58.279Z
+published: 2026-11-08T05:42:58.279Z
 Category: Potion
 Rarity:
   - Common

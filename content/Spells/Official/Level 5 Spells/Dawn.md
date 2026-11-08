@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-18T01:21:21.518Z
-modified: 2026-10-09T05:14:59.198Z
-published: 2026-10-09T05:14:59.198Z
+modified: 2026-11-08T05:44:30.771Z
+published: 2026-11-08T05:44:30.771Z
 Name: "[[Dawn]]"
 Spell Level: Level 5
 School: Evocation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T02:42:28.137Z
-modified: 2026-10-08T04:35:38.677Z
-published: 2026-10-08T04:35:38.677Z
+modified: 2026-11-08T05:44:34.020Z
+published: 2026-11-08T05:44:34.020Z
 Name: "[[Expeditious Retreat|Expeditious Retreat]]"
 Spell Level: Level 1
 School: Transmutation

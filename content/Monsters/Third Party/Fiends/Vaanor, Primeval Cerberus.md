@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-11T02:33:33.892Z
-modified: 2026-10-11T02:38:58.836Z
-published: 2026-10-11T02:38:58.836Z
+modified: 2026-11-08T05:43:26.030Z
+published: 2026-11-08T05:43:26.030Z
 Creature Type: Fiend
 Size:
   - Gargantuan

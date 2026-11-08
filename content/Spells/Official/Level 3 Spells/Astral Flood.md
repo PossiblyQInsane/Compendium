@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T21:21:45.074Z
-modified: 2026-10-08T15:32:07.281Z
-published: 2026-10-08T15:32:07.281Z
+modified: 2026-11-08T05:44:24.028Z
+published: 2026-11-08T05:44:24.028Z
 Name: "[[Astral Flood]]"
 Spell Level: Level 3
 School: Evocation

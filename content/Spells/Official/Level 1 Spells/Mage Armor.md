@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-13T04:13:06.093Z
-modified: 2026-10-08T04:42:07.580Z
-published: 2026-10-08T04:42:07.580Z
+modified: 2026-11-08T05:44:42.166Z
+published: 2026-11-08T05:44:42.166Z
 Name: "[[Mage Armor]]"
 Spell Level: Level 1
 School: Abjuration

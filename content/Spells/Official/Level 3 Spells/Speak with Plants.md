@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T03:58:02.206Z
-modified: 2026-10-08T15:52:08.785Z
-published: 2026-10-08T15:52:08.785Z
+modified: 2026-11-08T05:44:49.811Z
+published: 2026-11-08T05:44:49.811Z
 Name: "[[Speak with Plants]]"
 Spell Level: Level 3
 School: Transmutation

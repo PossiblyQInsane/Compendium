@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-07T15:24:33.211Z
-modified: 2026-10-09T04:55:06.758Z
-published: 2026-10-09T04:55:06.758Z
+modified: 2026-11-08T05:44:29.006Z
+published: 2026-11-08T05:44:29.006Z
 Name: "[[Conjure Woodland Beings]]"
 Spell Level: Level 4
 School: Conjuration

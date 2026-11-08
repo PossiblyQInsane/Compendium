@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T14:14:06.071Z
-modified: 2026-10-09T05:34:52.164Z
-published: 2026-10-09T05:34:52.164Z
+modified: 2026-11-08T05:44:45.609Z
+published: 2026-11-08T05:44:45.609Z
 Name: "[[Power Word Pain]]"
 Spell Level: Level 7
 School: Enchantment

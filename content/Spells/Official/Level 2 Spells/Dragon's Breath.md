@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T03:35:37.108Z
-modified: 2026-10-08T04:56:34.318Z
-published: 2026-10-08T04:56:34.318Z
+modified: 2026-11-08T05:44:32.317Z
+published: 2026-11-08T05:44:32.317Z
 Name: "[[Dragon's Breath|Dragon's Breath]]"
 Spell Level: Level 2
 School: Transmutation

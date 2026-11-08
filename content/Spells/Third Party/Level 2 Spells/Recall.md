@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-10T19:10:32.764Z
-modified: 2026-10-10T19:14:19.840Z
-published: 2026-10-10T19:14:19.840Z
+modified: 2026-11-08T05:44:46.889Z
+published: 2026-11-08T05:44:46.889Z
 Name: "[[Recall]]"
 Spell Level: Level 2
 School: Conjuration

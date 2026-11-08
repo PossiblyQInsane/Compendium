@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T03:47:32.690Z
-modified: 2026-10-20T03:49:43.955Z
-published: 2026-10-20T03:49:43.955Z
+modified: 2026-11-08T05:44:31.576Z
+published: 2026-11-08T05:44:31.576Z
 Name: "[[Dismiss Deity]]"
 Spell Level: Level 5
 School: Abjuration

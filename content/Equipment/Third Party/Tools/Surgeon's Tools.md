@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-23T21:28:08.450Z
-modified: 2026-09-22T04:19:43.233Z
-published: 2026-09-22T04:19:43.233Z
+modified: 2026-11-08T05:42:16.726Z
+published: 2026-11-08T05:42:16.726Z
 Category: Other Tools
 Cost: 10 GP
 Weight: 5 lb.

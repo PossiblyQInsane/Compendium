@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T03:57:54.019Z
-modified: 2026-10-20T04:01:03.265Z
-published: 2026-10-20T04:01:03.265Z
+modified: 2026-11-08T05:44:35.170Z
+published: 2026-11-08T05:44:35.170Z
 Name: "[[Fist of Yog-Sothoth]]"
 Spell Level: Level 4
 School: Conjuration

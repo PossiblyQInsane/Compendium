@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T00:29:25.121Z
-modified: 2026-10-08T04:22:33.526Z
-published: 2026-10-08T04:22:33.526Z
+modified: 2026-11-08T05:44:24.657Z
+published: 2026-11-08T05:44:24.657Z
 Name: "[[Bane]]"
 Spell Level: Level 1
 School: Enchantment

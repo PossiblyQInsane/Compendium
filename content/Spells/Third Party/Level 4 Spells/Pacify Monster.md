@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-30T15:11:16.839Z
-modified: 2026-10-30T15:14:46.676Z
-published: 2026-10-30T15:14:46.676Z
+modified: 2026-11-08T05:44:44.821Z
+published: 2026-11-08T05:44:44.821Z
 Name: "[[Pacify Monster]]"
 Spell Level: Level 4
 School: Enchantment

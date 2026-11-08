@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T01:47:52.388Z
-modified: 2026-10-08T05:17:19.683Z
-published: 2026-10-08T05:17:19.683Z
+modified: 2026-11-08T05:44:25.649Z
+published: 2026-11-08T05:44:25.649Z
 Name: "[[Blood Bolt]]"
 Spell Level: Cantrip
 School: Necromancy

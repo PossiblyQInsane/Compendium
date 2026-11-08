@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-19T14:12:34.131Z
-modified: 2026-10-08T05:27:38.718Z
-published: 2026-10-08T05:27:38.718Z
+modified: 2026-11-08T05:44:55.746Z
+published: 2026-11-08T05:44:55.746Z
 Name: "[[Veil of Dusk]]"
 Spell Level: Level 1
 School: Abjuration

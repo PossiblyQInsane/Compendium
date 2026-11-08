@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T04:29:06.028Z
-modified: 2026-10-20T04:31:43.107Z
-published: 2026-10-20T04:31:43.107Z
+modified: 2026-11-08T05:44:42.270Z
+published: 2026-11-08T05:44:42.270Z
 Name: "[[Magecraft]]"
 Spell Level: Cantrip
 School: Divination

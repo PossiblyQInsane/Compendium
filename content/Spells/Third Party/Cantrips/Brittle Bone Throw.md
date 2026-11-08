@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-22T03:20:55.422Z
-modified: 2026-10-08T05:17:50.669Z
-published: 2026-10-08T05:17:50.669Z
+modified: 2026-11-08T05:44:26.391Z
+published: 2026-11-08T05:44:26.391Z
 Name: "[[Brittle Bone Throw]]"
 Spell Level: Cantrip
 School: Conjuration

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-27T03:22:26.665Z
-modified: 2026-10-08T05:12:08.267Z
-published: 2026-10-08T05:12:08.267Z
+modified: 2026-11-08T05:44:48.495Z
+published: 2026-11-08T05:44:48.495Z
 Name: "[[Shatter]]"
 Spell Level: Level 2
 School: Evocation

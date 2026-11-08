@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T03:28:42.190Z
-modified: 2026-10-20T03:31:38.982Z
-published: 2026-10-20T03:31:38.982Z
+modified: 2026-11-08T05:44:28.189Z
+published: 2026-11-08T05:44:28.189Z
 Name: "[[Clutch of Darkness]]"
 Spell Level: Level 2
 School: Conjuration

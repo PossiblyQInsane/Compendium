@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T14:55:29.620Z
-modified: 2026-10-09T05:45:22.117Z
-published: 2026-10-09T05:45:22.117Z
+modified: 2026-11-08T05:44:56.787Z
+published: 2026-11-08T05:44:56.787Z
 Name: "[[Wail of the Banshee]]"
 Spell Level: Level 9
 School: Necromancy

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-13T15:13:31.404Z
-modified: 2026-10-10T05:48:42.781Z
-published: 2026-10-10T05:48:42.781Z
+modified: 2026-11-08T05:43:24.353Z
+published: 2026-11-08T05:43:24.353Z
 Creature Type: Monstrosity
 Size: Medium
 Alignment: Chaotic Evil

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T20:15:13.295Z
-modified: 2026-10-10T05:30:55.893Z
-published: 2026-10-10T05:30:55.893Z
+modified: 2026-11-08T05:43:24.378Z
+published: 2026-11-08T05:43:24.378Z
 Creature Type: Dragon
 Size: Tiny
 Alignment: Neutral Good

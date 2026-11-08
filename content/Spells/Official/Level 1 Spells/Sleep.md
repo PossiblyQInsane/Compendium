@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T00:44:31.684Z
-modified: 2026-10-08T04:46:15.342Z
-published: 2026-10-08T04:46:15.342Z
+modified: 2026-11-08T05:44:49.180Z
+published: 2026-11-08T05:44:49.180Z
 Name: "[[Sleep]]"
 Spell Level: Level 1
 School: Enchantment

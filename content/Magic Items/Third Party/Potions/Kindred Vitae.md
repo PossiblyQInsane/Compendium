@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-12T19:54:01.193Z
-modified: 2026-10-12T19:59:23.215Z
-published: 2026-10-12T19:59:23.215Z
+modified: 2026-11-08T05:42:58.034Z
+published: 2026-11-08T05:42:58.034Z
 Category: Potion
 Rarity: Uncommon
 Attunement: false

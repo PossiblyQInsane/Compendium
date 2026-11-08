@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - silver dragon
 created: 2026-09-08T02:48:58.597Z
-modified: 2026-10-10T05:47:42.347Z
-published: 2026-10-10T05:47:42.347Z
+modified: 2026-11-08T05:43:25.438Z
+published: 2026-11-08T05:43:25.438Z
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

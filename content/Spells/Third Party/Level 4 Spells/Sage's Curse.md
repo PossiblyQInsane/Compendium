@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T03:09:40.287Z
-modified: 2026-10-20T03:12:08.464Z
-published: 2026-10-20T03:12:08.464Z
+modified: 2026-11-08T05:44:47.675Z
+published: 2026-11-08T05:44:47.675Z
 Name: "[[Sage's Curse]]"
 Spell Level: Level 4
 School: Enchantment

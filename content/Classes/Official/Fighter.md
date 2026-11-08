@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-11T15:24:50.805Z
-modified: 2026-10-07T15:51:01.577Z
-published: 2026-10-07T15:51:01.577Z
+modified: 2026-11-08T02:10:29.463Z
+published: 2026-11-08T02:10:29.463Z
 Name: "[[Fighter]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -157,37 +157,37 @@ A Fighter subclass is a specialization that grants you features at certain Fight
 
 | Name                                                                | Source                             | Edition |
 | ------------------------------------------------------------------- | ---------------------------------- | ------- |
-| [[Subclasses/Official/Fighter/Arcane Archer.md\|Arcane Archer]]     | Arcana Unleashed                   | 5.5e    |
-| [[Subclasses/Official/Fighter/Banneret.md\|Banneret]]               | Forgotten Realms: Heroes of Faerûn | 5.5e    |
-| [[Subclasses/Official/Fighter/Battle Master.md\|Battle Master]]     | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Fighter/Cavalier.md\|Cavalier]]               | Xanathar's Guide to Everything     | 5e      |
-| [[Subclasses/Official/Fighter/Champion.md\|Champion]]               | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Fighter/Echo Knight.md\|Echo Knight]]         | Explorer's Guide to Wildemount     | 5e      |
-| [[Subclasses/Official/Fighter/Eldritch Knight.md\|Eldritch Knight]] | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Fighter/Psi Warrior.md\|Psi Warrior]]         | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Fighter/Rune Knight.md\|Rune Knight]]         | Tasha's Cauldron of Everything     | 5e      |
-| [[Subclasses/Official/Fighter/Samurai.md\|Samurai]]                 | Xanathar's Guide to Everything     | 5e      |
-| [[Subclasses/Official/Fighter/Sorrow Knight.md\|Sorrow Knight]]     | D\&D Beyond Drops                   | 5.5e    |
+| [[Subclasses/Fighter/Official/Arcane Archer.md\|Arcane Archer]]     | Arcana Unleashed                   | 5.5e    |
+| [[Subclasses/Fighter/Official/Banneret.md\|Banneret]]               | Forgotten Realms: Heroes of Faerûn | 5.5e    |
+| [[Subclasses/Fighter/Official/Battle Master.md\|Battle Master]]     | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Fighter/Official/Cavalier.md\|Cavalier]]               | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Fighter/Official/Champion.md\|Champion]]               | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Fighter/Official/Echo Knight.md\|Echo Knight]]         | Explorer's Guide to Wildemount     | 5e      |
+| [[Subclasses/Fighter/Official/Eldritch Knight.md\|Eldritch Knight]] | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Fighter/Official/Psi Warrior.md\|Psi Warrior]]         | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Fighter/Official/Rune Knight.md\|Rune Knight]]         | Tasha's Cauldron of Everything     | 5e      |
+| [[Subclasses/Fighter/Official/Samurai.md\|Samurai]]                 | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Fighter/Official/Sorrow Knight.md\|Sorrow Knight]]     | D\&D Beyond Drops                   | 5.5e    |
 
 ### Third Party Fighter Subclasses
 
 | Name                                                                             | Source                                      | Publisher               | Edition |
 | -------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------- | ------- |
-| [[Subclasses/Third Party/Fighter/Barrow Guard.md\|Barrow Guard]]                 | The Crooked Moon                            | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Blade Breaker.md\|Blade Breaker]]               | Grim Hollow: The Raider's Guide to Valika   | Ghostfire Gaming        | 5e      |
-| [[Subclasses/Third Party/Fighter/Blood Hound.md\|Blood Hound]]                   | Steinhardt's Guide to the Eldritch Hunt     | MonkeyDM                | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Bonesmith.md\|Bonesmith]]                       | Dr. Dhrolin's Dictionary of Dinosaurs       | Palaeo Games            | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Bulwark Warrior.md\|Bulwark Warrior]]           | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Couatl Herald.md\|Couatl Herald]]               | The Griffon's Saddlebag: Book One           | The Griffon's Saddlebag | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Dungeoneer.md\|Dungeoneer]]                     | Valda's Spire of Secrets                    | Mage Hand Press         | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Hero.md\|Hero]]                                 | Cthulhu by Torchlight                       | Chaosium                | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Living Crucible.md\|Living Crucible]]           | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Neko Duelist.md\|Neko Duelist]]                 | Obojima: Tales from Yatamon                 | 1985 Games              | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Nightwatcher.md\|Nightwatcher]]                 | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Scofflaw.md\|Scofflaw]]                         | Humblewood Campaign Setting                 | Hit Point Press         | 5e      |
-| [[Subclasses/Third Party/Fighter/Skeletal Blade.md\|Skeletal Blade]]             | Ryoko's Guide to the Yokai Realms           | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Fighter/Spirit-Fused Fighter.md\|Spirit-Fused Fighter]] | Obojima: Tales from the Tall Grass          | 1985 Games              | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Steel Hawk.md\|Steel Hawk]]                     | The Griffon's Saddlebag: Book Two           | The Griffon's Saddlebag | 5e      |
-| [[Subclasses/Third Party/Fighter/Tavern Brawler (Subclass).md\|Tavern Brawler]]  | L'Arsene's Ledger of Treasures and Trinkets | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Fighter/Viking.md\|Viking]]                             | Northlands Worldbook                        | Kobold Press            | 5.5e    |
-| [[Subclasses/Third Party/Fighter/Witchblade.md\|The Witchblade]]                 | Hexbound                                    | Hit Point Press         | 5e      |
+| [[Subclasses/Fighter/Third Party/Barrow Guard.md\|Barrow Guard]]                 | The Crooked Moon                            | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Fighter/Third Party/Blade Breaker.md\|Blade Breaker]]               | Grim Hollow: The Raider's Guide to Valika   | Ghostfire Gaming        | 5e      |
+| [[Subclasses/Fighter/Third Party/Blood Hound.md\|Blood Hound]]                   | Steinhardt's Guide to the Eldritch Hunt     | MonkeyDM                | 5.5e    |
+| [[Subclasses/Fighter/Third Party/Bonesmith.md\|Bonesmith]]                       | Dr. Dhrolin's Dictionary of Dinosaurs       | Palaeo Games            | 5.5e    |
+| [[Subclasses/Fighter/Third Party/Bulwark Warrior.md\|Bulwark Warrior]]           | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Fighter/Third Party/Couatl Herald.md\|Couatl Herald]]               | The Griffon's Saddlebag: Book One           | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Fighter/Third Party/Dungeoneer.md\|Dungeoneer]]                     | Valda's Spire of Secrets                    | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Fighter/Third Party/Hero.md\|Hero]]                                 | Cthulhu by Torchlight                       | Chaosium                | 5.5e    |
+| [[Subclasses/Fighter/Third Party/Living Crucible.md\|Living Crucible]]           | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Fighter/Third Party/Neko Duelist.md\|Neko Duelist]]                 | Obojima: Tales from Yatamon                 | 1985 Games              | 5.5e    |
+| [[Subclasses/Fighter/Third Party/Nightwatcher.md\|Nightwatcher]]                 | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Fighter/Third Party/Scofflaw.md\|Scofflaw]]                         | Humblewood Campaign Setting                 | Hit Point Press         | 5e      |
+| [[Subclasses/Fighter/Third Party/Skeletal Blade.md\|Skeletal Blade]]             | Ryoko's Guide to the Yokai Realms           | Loot Tavern             | 5e      |
+| [[Subclasses/Fighter/Third Party/Spirit-Fused Fighter.md\|Spirit-Fused Fighter]] | Obojima: Tales from the Tall Grass          | 1985 Games              | 5.5e    |
+| [[Subclasses/Fighter/Third Party/Steel Hawk.md\|Steel Hawk]]                     | The Griffon's Saddlebag: Book Two           | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Fighter/Third Party/Tavern Brawler (Subclass).md\|Tavern Brawler]]  | L'Arsene's Ledger of Treasures and Trinkets | Loot Tavern             | 5e      |
+| [[Subclasses/Fighter/Third Party/Viking.md\|Viking]]                             | Northlands Worldbook                        | Kobold Press            | 5.5e    |
+| [[Subclasses/Fighter/Third Party/Witchblade.md\|The Witchblade]]                 | Hexbound                                    | Hit Point Press         | 5e      |

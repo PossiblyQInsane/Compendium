@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-11-01T05:15:17.789Z
-modified: 2026-11-01T05:26:15.207Z
-published: 2026-11-01T05:26:15.207Z
+modified: 2026-11-08T05:42:09.726Z
+published: 2026-11-08T05:42:09.726Z
 Category: Simple Melee Weapons
 Damage: 1d4 Bludgeoning
 Properties: Attached, Light, Pugilist

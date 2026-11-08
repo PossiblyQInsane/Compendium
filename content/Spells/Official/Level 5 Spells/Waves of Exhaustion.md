@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T13:56:15.499Z
-modified: 2026-10-09T05:22:26.890Z
-published: 2026-10-09T05:22:26.890Z
+modified: 2026-11-08T05:44:57.416Z
+published: 2026-11-08T05:44:57.416Z
 Name: "[[Waves of Exhaustion]]"
 Spell Level: Level 5
 School: Necromancy

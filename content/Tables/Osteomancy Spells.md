@@ -1,3 +1,10 @@
+---
+publish: "true"
+created: 2026-09-22T03:12:58.360Z
+modified: 2026-11-08T05:45:16.178Z
+published: 2026-11-08T05:45:16.178Z
+---
+
 | Spell Level | Name                                                                              | School        | Class                     | Special | Source                                  | Publisher |
 | ----------- | --------------------------------------------------------------------------------- | ------------- | ------------------------- | ------- | --------------------------------------- | --------- |
 | Cantrip     | _[[Spells/Third Party/Cantrips/Brittle Bone Throw.md\|Brittle Bone Throw]]_       | Conjuration   | Sorcerer, Warlock, Wizard | —       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM  |

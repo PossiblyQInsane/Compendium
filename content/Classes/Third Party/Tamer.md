@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-26T20:37:37.073Z
-modified: 2026-10-18T04:08:23.568Z
-published: 2026-10-18T04:08:23.568Z
+modified: 2026-11-08T02:11:59.584Z
+published: 2026-11-08T02:11:59.584Z
 Name: "[[Tamer]]"
 Source: Heliana's Guide to Monster Hunting
 Official: false
@@ -524,11 +524,11 @@ Tamer spellcasting stems from the magical connection between tamer and companion
 
 Tamers follow various Training Paradigms that define their bond with their companions or the companions themselves. The paradigm you choose reflects your approach.
 
-| Name                                                           | Source                                      | Publisher   | Edition |
-| -------------------------------------------------------------- | ------------------------------------------- | ----------- | ------- |
-| [[Subclasses/Third Party/Tamer/Infuser.md\|Infuser]]           | Heliana's Guide to Monster Hunting          | Loot Tavern | 5e      |
-| [[Subclasses/Third Party/Tamer/Leader.md\|Leader]]             | Heliana's Guide to Monster Hunting          | Loot Tavern | 5e      |
-| [[Subclasses/Third Party/Tamer/Necromancer.md\|Necromancer]]   | Heliana's Guide to Monster Hunting          | Loot Tavern | 5e      |
-| [[Subclasses/Third Party/Tamer/Sensei.md\|Sensei]]             | Ryoko's Guide to the Yokai Realms           | Loot Tavern | 5e      |
-| [[Subclasses/Third Party/Tamer/Splicer.md\|Splicer]]           | Heliana's Guide to Monster Hunting          | Loot Tavern | 5e      |
-| [[Subclasses/Third Party/Tamer/Swarmslinger.md\|Swarmslinger]] | L'Arsene's Ledger of Treasures and Trinkets | Loot Tavern | 5e      |
+| Name                                               | Source                                      | Publisher   | Edition |
+| -------------------------------------------------- | ------------------------------------------- | ----------- | ------- |
+| [[Subclasses/Tamer/Infuser.md\|Infuser]]           | Heliana's Guide to Monster Hunting          | Loot Tavern | 5e      |
+| [[Subclasses/Tamer/Leader.md\|Leader]]             | Heliana's Guide to Monster Hunting          | Loot Tavern | 5e      |
+| [[Subclasses/Tamer/Necromancer.md\|Necromancer]]   | Heliana's Guide to Monster Hunting          | Loot Tavern | 5e      |
+| [[Subclasses/Tamer/Sensei.md\|Sensei]]             | Ryoko's Guide to the Yokai Realms           | Loot Tavern | 5e      |
+| [[Subclasses/Tamer/Splicer.md\|Splicer]]           | Heliana's Guide to Monster Hunting          | Loot Tavern | 5e      |
+| [[Subclasses/Tamer/Swarmslinger.md\|Swarmslinger]] | L'Arsene's Ledger of Treasures and Trinkets | Loot Tavern | 5e      |

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T06:39:22.675Z
-modified: 2026-10-09T05:43:15.122Z
-published: 2026-10-09T05:43:15.122Z
+modified: 2026-11-08T05:44:36.185Z
+published: 2026-11-08T05:44:36.185Z
 Name: "[[Foresight]]"
 Spell Level: Level 9
 School: Divination

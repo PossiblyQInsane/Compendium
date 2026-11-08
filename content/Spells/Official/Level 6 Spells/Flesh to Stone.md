@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-06T06:25:55.800Z
-modified: 2026-10-09T05:27:54.083Z
-published: 2026-10-09T05:27:54.083Z
+modified: 2026-11-08T05:44:35.518Z
+published: 2026-11-08T05:44:35.518Z
 Name: "[[Flesh to Stone]]"
 Spell Level: Level 6
 School: Transmutation

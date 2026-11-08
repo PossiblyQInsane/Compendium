@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T04:38:33.021Z
-modified: 2026-10-09T05:03:35.152Z
-published: 2026-10-09T05:03:35.152Z
+modified: 2026-11-08T05:44:45.458Z
+published: 2026-11-08T05:44:45.458Z
 Name: "[[Polymorph]]"
 Spell Level: Level 4
 School: Transmutation

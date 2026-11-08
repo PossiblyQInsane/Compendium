@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T04:56:26.391Z
-modified: 2026-10-09T05:45:04.111Z
-published: 2026-10-09T05:45:04.111Z
+modified: 2026-11-08T05:44:54.483Z
+published: 2026-11-08T05:44:54.483Z
 Name: "[[True Resurrection]]"
 Spell Level: Level 9
 School: Necromancy

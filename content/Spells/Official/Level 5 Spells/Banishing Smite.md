@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-30T04:43:54.117Z
-modified: 2026-08-31T19:21:23.382Z
-published: 2026-08-31T19:21:23.382Z
+modified: 2026-11-08T05:44:24.688Z
+published: 2026-11-08T05:44:24.688Z
 Name: "[[Banishing Smite]]"
 Spell Level: Level 5
 School: Conjuration

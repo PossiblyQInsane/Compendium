@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-09T13:48:09.740Z
-modified: 2026-10-09T05:25:25.815Z
-published: 2026-10-09T05:25:25.815Z
+modified: 2026-11-08T05:44:44.116Z
+published: 2026-11-08T05:44:44.116Z
 Name: "[[Mortality]]"
 Spell Level: Level 5
 School: Transmutation

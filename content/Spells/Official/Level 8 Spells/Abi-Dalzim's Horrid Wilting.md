@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T16:38:38.810Z
-modified: 2026-10-09T05:37:58.287Z
-published: 2026-10-09T05:37:58.287Z
+modified: 2026-11-08T05:44:21.776Z
+published: 2026-11-08T05:44:21.776Z
 Name: "[[Abi-Dalzim's Horrid Wilting]]"
 Spell Level: Level 8
 School: Necromancy

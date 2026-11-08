@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-02T00:51:03.887Z
-modified: 2026-08-17T20:07:27.771Z
-published: 2026-08-17T20:07:27.771Z
+modified: 2026-11-08T05:42:14.666Z
+published: 2026-11-08T05:42:14.666Z
 Category: Martial Melee Weapons
 Damage: 1d6 Slashing
 Properties: Finesse, Light

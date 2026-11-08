@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T02:56:36.721Z
-modified: 2026-10-08T05:15:33.969Z
-published: 2026-10-08T05:15:33.969Z
+modified: 2026-11-08T05:44:56.749Z
+published: 2026-11-08T05:44:56.749Z
 Name: "[[Vortex Warp]]"
 Spell Level: Level 2
 School: Conjuration

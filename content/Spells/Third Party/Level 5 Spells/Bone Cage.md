@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-18T02:07:39.274Z
-modified: 2026-10-18T02:11:30.824Z
-published: 2026-10-18T02:11:30.824Z
+modified: 2026-11-08T05:44:26.150Z
+published: 2026-11-08T05:44:26.150Z
 Name: "[[Bone Cage]]"
 Spell Level: Level 5
 School: Biomancy

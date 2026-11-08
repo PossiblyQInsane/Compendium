@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T14:09:31.136Z
-modified: 2026-08-31T19:06:05.133Z
-published: 2026-08-31T19:06:05.133Z
+modified: 2026-11-08T05:44:30.254Z
+published: 2026-11-08T05:44:30.254Z
 Name: "[[Crusader's Mantle]]"
 Spell Level: Level 3
 School: Evocation

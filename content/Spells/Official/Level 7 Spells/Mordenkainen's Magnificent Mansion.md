@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T05:54:47.833Z
-modified: 2026-10-09T05:34:14.941Z
-published: 2026-10-09T05:34:14.941Z
+modified: 2026-11-08T05:44:43.985Z
+published: 2026-11-08T05:44:43.985Z
 Name: "[[Mordenkainen's Magnificent Mansion]]"
 Spell Level: Level 7
 School: Conjuration

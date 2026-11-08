@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-23T15:03:49.288Z
-modified: 2026-10-08T16:14:31.807Z
-published: 2026-10-08T16:14:31.807Z
+modified: 2026-11-08T05:44:57.676Z
+published: 2026-11-08T05:44:57.676Z
 Name: "[[Wilting Smite]]"
 Spell Level: Level 2
 School: Transmutation

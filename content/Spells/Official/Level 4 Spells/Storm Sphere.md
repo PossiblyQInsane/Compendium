@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T06:09:03.874Z
-modified: 2026-10-09T05:05:56.730Z
-published: 2026-10-09T05:05:56.730Z
+modified: 2026-11-08T05:44:50.857Z
+published: 2026-11-08T05:44:50.857Z
 Name: "[[Storm Sphere]]"
 Spell Level: Level 4
 School: Evocation

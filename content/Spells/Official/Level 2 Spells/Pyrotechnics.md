@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T02:44:32.603Z
-modified: 2026-10-08T05:10:12.086Z
-published: 2026-10-08T05:10:12.086Z
+modified: 2026-11-08T05:44:46.385Z
+published: 2026-11-08T05:44:46.385Z
 Name: "[[Pyrotechnics]]"
 Spell Level: Level 2
 School: Transmutation

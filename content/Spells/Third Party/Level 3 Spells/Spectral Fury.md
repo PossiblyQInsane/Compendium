@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-14T03:53:21.126Z
-modified: 2026-10-08T16:02:30.188Z
-published: 2026-10-08T16:02:30.188Z
+modified: 2026-11-08T05:44:49.862Z
+published: 2026-11-08T05:44:49.862Z
 Name: "[[Spectral Fury]]"
 Spell Level: Level 3
 School: Conjuration

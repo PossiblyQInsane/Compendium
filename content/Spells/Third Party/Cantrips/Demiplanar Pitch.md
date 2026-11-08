@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-13T05:36:40.020Z
-modified: 2026-10-13T05:39:44.976Z
-published: 2026-10-13T05:39:44.976Z
+modified: 2026-11-08T05:44:31.145Z
+published: 2026-11-08T05:44:31.145Z
 Name: "[[Demiplanar Pitch]]"
 Spell Level: Cantrip
 School: Conjuration

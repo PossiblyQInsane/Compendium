@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T05:11:34.248Z
-modified: 2026-10-09T05:19:28.424Z
-published: 2026-10-09T05:19:28.424Z
+modified: 2026-11-08T05:44:46.553Z
+published: 2026-11-08T05:44:46.553Z
 Name: "[[Rary's Telepathic Bond]]"
 Spell Level: Level 5
 School: Divination

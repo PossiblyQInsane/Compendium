@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-27T00:13:16.410Z
-modified: 2026-10-08T15:42:07.944Z
-published: 2026-10-08T15:42:07.944Z
+modified: 2026-11-08T05:44:36.705Z
+published: 2026-11-08T05:44:36.705Z
 Name: "[[Gaseous Form]]"
 Spell Level: Level 3
 School: Transmutation

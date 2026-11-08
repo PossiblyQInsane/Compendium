@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T02:04:54.056Z
-modified: 2026-10-08T04:21:37.888Z
-published: 2026-10-08T04:21:37.888Z
+modified: 2026-11-08T05:44:21.838Z
+published: 2026-11-08T05:44:21.838Z
 Name: "[[Absorb Elements]]"
 Spell Level: Level 1
 School: Abjuration

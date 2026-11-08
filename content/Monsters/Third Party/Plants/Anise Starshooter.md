@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-04T04:12:14.758Z
-modified: 2026-10-10T06:04:27.782Z
-published: 2026-10-10T06:04:27.782Z
+modified: 2026-11-08T05:43:18.223Z
+published: 2026-11-08T05:43:18.223Z
 Creature Type: Plant
 Subtype: Yokai
 Size: Medium

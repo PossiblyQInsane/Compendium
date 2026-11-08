@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-27T05:37:33.017Z
-modified: 2026-10-27T05:39:40.962Z
-published: 2026-10-27T05:39:40.962Z
+modified: 2026-11-08T05:44:23.525Z
+published: 2026-11-08T05:44:23.525Z
 Name: "[[Arcane Aegis]]"
 Spell Level: Level 1
 School: Abjuration

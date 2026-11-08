@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T05:48:48.364Z
-modified: 2026-10-09T05:33:51.866Z
-published: 2026-10-09T05:33:51.866Z
+modified: 2026-11-08T05:44:36.116Z
+published: 2026-11-08T05:44:36.116Z
 Name: "[[Forcecage]]"
 Spell Level: Level 7
 School: Evocation

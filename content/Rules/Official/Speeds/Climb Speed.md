@@ -1,12 +1,12 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - climbing speed
   - Climb
   - climb
 created: 2026-07-31T14:35:30.557Z
-modified: 2026-09-28T22:37:41.757Z
-published: 2026-09-28T22:37:41.757Z
+modified: 2026-11-08T05:43:43.004Z
+published: 2026-11-08T05:43:43.004Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-18T01:15:15.391Z
-modified: 2026-10-09T05:04:30.331Z
-published: 2026-10-09T05:04:30.331Z
+modified: 2026-11-08T05:44:50.631Z
+published: 2026-11-08T05:44:50.631Z
 Name: "[[Sticks to Snakes]]"
 Spell Level: Level 4
 School: Transmutation

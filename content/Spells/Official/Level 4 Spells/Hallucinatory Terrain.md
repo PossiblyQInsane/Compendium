@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T04:27:54.704Z
-modified: 2026-10-09T05:01:36.224Z
-published: 2026-10-09T05:01:36.224Z
+modified: 2026-11-08T05:44:37.922Z
+published: 2026-11-08T05:44:37.922Z
 Name: "[[Hallucinatory Terrain]]"
 Spell Level: Level 4
 School: Illusion

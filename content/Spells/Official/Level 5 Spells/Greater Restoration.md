@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T21:46:33.922Z
-modified: 2026-10-09T05:16:40.813Z
-published: 2026-10-09T05:16:40.813Z
+modified: 2026-11-08T05:44:37.605Z
+published: 2026-11-08T05:44:37.605Z
 Name: "[[Greater Restoration]]"
 Spell Level: Level 5
 School: Abjuration

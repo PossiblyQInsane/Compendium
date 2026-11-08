@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T15:29:23.525Z
-modified: 2026-10-08T15:58:13.259Z
-published: 2026-10-08T15:58:13.259Z
+modified: 2026-11-08T05:44:30.299Z
+published: 2026-11-08T05:44:30.299Z
 Name: "[[Culling Sickle]]"
 Spell Level: Level 3
 School: Necromancy

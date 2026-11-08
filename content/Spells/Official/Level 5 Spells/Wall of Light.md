@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T06:27:21.797Z
-modified: 2026-10-09T05:22:06.883Z
-published: 2026-10-09T05:22:06.883Z
+modified: 2026-11-08T05:44:56.945Z
+published: 2026-11-08T05:44:56.945Z
 Name: "[[Wall of Light]]"
 Spell Level: Level 5
 School: Evocation

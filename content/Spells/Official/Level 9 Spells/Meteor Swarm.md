@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T16:55:49.157Z
-modified: 2026-10-09T05:43:48.984Z
-published: 2026-10-09T05:43:48.984Z
+modified: 2026-11-08T05:44:43.213Z
+published: 2026-11-08T05:44:43.213Z
 Name: "[[Meteor Swarm]]"
 Spell Level: Level 9
 School: Evocation

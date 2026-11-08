@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T13:26:57.730Z
-modified: 2026-10-09T05:07:10.901Z
-published: 2026-10-09T05:07:10.901Z
+modified: 2026-11-08T05:44:58.296Z
+published: 2026-11-08T05:44:58.296Z
 Name: "[[Zone of Amicability]]"
 Spell Level: Level 4
 School: Enchantment

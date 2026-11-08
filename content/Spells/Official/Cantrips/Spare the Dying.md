@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T02:15:54.693Z
-modified: 2026-10-08T04:18:45.116Z
-published: 2026-10-08T04:18:45.116Z
+modified: 2026-11-08T05:44:49.645Z
+published: 2026-11-08T05:44:49.645Z
 Name: "[[Spare the Dying|Spare the Dying]]"
 Spell Level: Cantrip
 School: Necromancy

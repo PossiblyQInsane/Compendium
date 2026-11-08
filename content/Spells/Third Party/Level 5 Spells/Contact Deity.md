@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T03:32:10.205Z
-modified: 2026-10-20T03:39:59.722Z
-published: 2026-10-20T03:39:59.722Z
+modified: 2026-11-08T05:44:29.146Z
+published: 2026-11-08T05:44:29.146Z
 Name: "[[Contact Deity]]"
 Spell Level: Level 5
 School: Divination

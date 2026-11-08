@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-11-01T03:54:55.046Z
-modified: 2026-11-01T04:01:24.273Z
-published: 2026-11-01T04:01:24.273Z
+modified: 2026-11-08T05:44:46.364Z
+published: 2026-11-08T05:44:46.364Z
 Name: "[[Purple Rain]]"
 Spell Level: Level 5
 School: Conjuration

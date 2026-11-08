@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T16:33:14.969Z
-modified: 2026-10-08T05:05:16.066Z
-published: 2026-10-08T05:05:16.066Z
+modified: 2026-11-08T05:44:41.315Z
+published: 2026-11-08T05:44:41.315Z
 Name: "[[Lesser Restoration]]"
 Spell Level: Level 2
 School: Abjuration

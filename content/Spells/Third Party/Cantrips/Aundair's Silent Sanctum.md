@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T04:18:53.119Z
-modified: 2026-10-20T04:23:04.761Z
-published: 2026-10-20T04:23:04.761Z
+modified: 2026-11-08T05:44:24.170Z
+published: 2026-11-08T05:44:24.170Z
 Name: "[[Aundair's Silent Sanctum]]"
 Spell Level: Cantrip
 School: Illusion

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T05:12:02.240Z
-modified: 2026-10-16T05:16:58.129Z
-published: 2026-10-16T05:16:58.129Z
+modified: 2026-11-08T05:44:46.448Z
+published: 2026-11-08T05:44:46.448Z
 Name: "[[Raiko's Rending Rage]]"
 Spell Level: Level 5
 School: Transmutation

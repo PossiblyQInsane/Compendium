@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T01:24:57.503Z
-modified: 2026-10-08T16:11:34.063Z
-published: 2026-10-08T16:11:34.063Z
+modified: 2026-11-08T05:44:48.835Z
+published: 2026-11-08T05:44:48.835Z
 Name: "[[Silence]]"
 Spell Level: Level 2
 School: Illusion

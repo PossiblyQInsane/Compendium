@@ -1,11 +1,11 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Light
 title: Light
 created: 2026-07-26T01:37:23.511Z
-modified: 2026-09-11T04:42:41.574Z
-published: 2026-09-11T04:42:41.574Z
+modified: 2026-11-08T05:43:45.119Z
+published: 2026-11-08T05:43:45.119Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

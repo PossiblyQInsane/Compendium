@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-24T01:33:13.116Z
-modified: 2026-10-09T05:07:03.672Z
-published: 2026-10-09T05:07:03.672Z
+modified: 2026-11-08T05:44:57.354Z
+published: 2026-11-08T05:44:57.354Z
 Name: "[[Watery Sphere]]"
 Spell Level: Level 4
 School: Conjuration

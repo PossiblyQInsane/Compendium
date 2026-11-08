@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T22:20:02.778Z
-modified: 2026-10-09T05:27:02.871Z
-published: 2026-10-09T05:27:02.871Z
+modified: 2026-11-08T05:44:31.491Z
+published: 2026-11-08T05:44:31.491Z
 Name: "[[Dirge]]"
 Spell Level: Level 6
 School: Enchantment

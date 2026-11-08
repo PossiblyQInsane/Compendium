@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T04:23:21.862Z
-modified: 2026-10-20T04:25:57.172Z
-published: 2026-10-20T04:25:57.172Z
+modified: 2026-11-08T05:44:28.560Z
+published: 2026-11-08T05:44:28.560Z
 Name: "[[Concussive Burst]]"
 Spell Level: Level 1
 School: Evocation

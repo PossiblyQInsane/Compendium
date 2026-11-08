@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-22T04:15:00.039Z
-modified: 2026-09-22T04:19:18.023Z
-published: 2026-09-22T04:19:18.023Z
+modified: 2026-11-08T05:42:06.657Z
+published: 2026-11-08T05:42:06.657Z
 Category: Other Tools
 Ability: Dexterity
 Weight: 5 lb.

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T03:29:18.511Z
-modified: 2026-10-08T15:40:22.548Z
-published: 2026-10-08T15:40:22.548Z
+modified: 2026-11-08T05:44:34.438Z
+published: 2026-11-08T05:44:34.438Z
 Name: "[[Feign Death]]"
 Spell Level: Level 3
 School: Necromancy

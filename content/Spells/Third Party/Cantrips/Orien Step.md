@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T04:39:08.180Z
-modified: 2026-10-20T04:41:05.650Z
-published: 2026-10-20T04:41:05.650Z
+modified: 2026-11-08T05:44:44.543Z
+published: 2026-11-08T05:44:44.543Z
 Name: "[[Orien Step]]"
 Spell Level: Cantrip
 School: Transmutation

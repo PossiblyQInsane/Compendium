@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T04:34:39.809Z
-modified: 2026-10-08T05:08:38.026Z
-published: 2026-10-08T05:08:38.026Z
+modified: 2026-11-08T05:44:44.464Z
+published: 2026-11-08T05:44:44.464Z
 Name: "[[Nystul's Magic Aura]]"
 Spell Level: Level 2
 School: Illusion

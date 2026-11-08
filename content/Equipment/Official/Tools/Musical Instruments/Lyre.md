@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-02T22:58:48.377Z
-modified: 2026-08-17T20:04:33.689Z
-published: 2026-08-17T20:04:33.689Z
+modified: 2026-11-08T05:42:10.395Z
+published: 2026-11-08T05:42:10.395Z
 Category: Musical Instrument
 Ability: Charisma
 Weight: 2 lb.

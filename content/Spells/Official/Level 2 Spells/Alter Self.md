@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T03:15:57.094Z
-modified: 2026-10-08T04:49:54.966Z
-published: 2026-10-08T04:49:54.966Z
+modified: 2026-11-08T05:44:22.554Z
+published: 2026-11-08T05:44:22.554Z
 Name: "[[Alter Self|Alter Self]]"
 Spell Level: Level 2
 School: Transmutation

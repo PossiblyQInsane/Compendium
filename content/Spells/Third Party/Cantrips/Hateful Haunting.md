@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-13T15:07:38.666Z
-modified: 2026-10-13T15:09:34.345Z
-published: 2026-10-13T15:09:34.345Z
+modified: 2026-11-08T05:44:38.094Z
+published: 2026-11-08T05:44:38.094Z
 Name: "[[Hateful Haunting]]"
 Spell Level: Cantrip
 School: Necromancy

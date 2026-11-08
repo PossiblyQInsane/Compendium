@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-02T22:43:16.799Z
-modified: 2026-08-17T20:05:49.604Z
-published: 2026-08-17T20:05:49.604Z
+modified: 2026-11-08T05:42:11.229Z
+published: 2026-11-08T05:42:11.229Z
 Category: Other Tools
 Ability: Charisma
 Weight: Varies

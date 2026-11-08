@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T01:03:55.807Z
-modified: 2026-10-08T04:54:27.292Z
-published: 2026-10-08T04:54:27.292Z
+modified: 2026-11-08T05:44:30.153Z
+published: 2026-11-08T05:44:30.153Z
 Name: "[[Crown of Madness]]"
 Spell Level: Level 2
 School: Enchantment

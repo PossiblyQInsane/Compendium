@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-30T14:30:58.023Z
-modified: 2026-10-02T22:13:14.618Z
-published: 2026-10-02T22:13:14.618Z
+modified: 2026-11-08T05:44:26.765Z
+published: 2026-11-08T05:44:26.765Z
 Name: "[[Call Lightning]]"
 Spell Level: Level 3
 School: Conjuration

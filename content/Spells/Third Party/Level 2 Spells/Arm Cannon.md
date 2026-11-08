@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-10T17:24:52.214Z
-modified: 2026-10-08T05:29:11.528Z
-published: 2026-10-08T05:29:11.528Z
+modified: 2026-11-08T05:44:23.750Z
+published: 2026-11-08T05:44:23.750Z
 Name: "[[Arm Cannon]]"
 Spell Level: Level 2
 School: Evocation

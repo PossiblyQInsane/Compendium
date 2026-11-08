@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-06T00:51:37.513Z
-modified: 2026-10-06T00:53:09.096Z
-published: 2026-10-06T00:53:09.096Z
+modified: 2026-11-08T05:44:52.355Z
+published: 2026-11-08T05:44:52.355Z
 Name: "[[Telepathy]]"
 Spell Level: Level 8
 School: Divination

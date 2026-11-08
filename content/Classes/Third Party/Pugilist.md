@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-26T20:37:37.073Z
-modified: 2026-10-14T05:50:38.616Z
-published: 2026-10-14T05:50:38.616Z
+modified: 2026-11-08T02:11:54.806Z
+published: 2026-11-08T02:11:54.806Z
 Name: "[[Pugilist]]"
 Source: The Pugilist Class
 Official: false
@@ -223,11 +223,11 @@ _**Vim and Vigor.**_ When you finish a [[Short Rest]], you regain Hit Points equ
 
 A Pugilist subclass is a specialization that grants you features at certain levels, as specified in the subclass.
 
-| Name                                                                      | Source             | Publisher                       | Edition |
-| ------------------------------------------------------------------------- | ------------------ | ------------------------------- | ------- |
-| [[Subclasses/Third Party/Pugilist/Dog and Hound.md\|Dog and Hound]]       | The Pugilist Class | Sterling Vermin Adventuring Co. | 5.5e    |
-| [[Subclasses/Third Party/Pugilist/Hand of Dread.md\|Hand of Dread]]       | The Pugilist Class | Sterling Vermin Adventuring Co. | 5.5e    |
-| [[Subclasses/Third Party/Pugilist/Piss and Vinegar.md\|Piss and Vinegar]] | The Pugilist Class | Sterling Vermin Adventuring Co. | 5.5e    |
-| [[Subclasses/Third Party/Pugilist/Squared Circle.md\|Squared Circle]]     | The Pugilist Class | Sterling Vermin Adventuring Co. | 5.5e    |
-| [[Subclasses/Third Party/Pugilist/Street Saint.md\|Street Saint]]         | The Pugilist Class | Sterling Vermin Adventuring Co. | 5.5e    |
-| [[Subclasses/Third Party/Pugilist/Sweet Science.md\|Sweet Science]]       | The Pugilist Class | Sterling Vermin Adventuring Co. | 5.5e    |
+| Name                                                          | Source             | Publisher                       | Edition |
+| ------------------------------------------------------------- | ------------------ | ------------------------------- | ------- |
+| [[Subclasses/Pugilist/Dog and Hound.md\|Dog and Hound]]       | The Pugilist Class | Sterling Vermin Adventuring Co. | 5.5e    |
+| [[Subclasses/Pugilist/Hand of Dread.md\|Hand of Dread]]       | The Pugilist Class | Sterling Vermin Adventuring Co. | 5.5e    |
+| [[Subclasses/Pugilist/Piss and Vinegar.md\|Piss and Vinegar]] | The Pugilist Class | Sterling Vermin Adventuring Co. | 5.5e    |
+| [[Subclasses/Pugilist/Squared Circle.md\|Squared Circle]]     | The Pugilist Class | Sterling Vermin Adventuring Co. | 5.5e    |
+| [[Subclasses/Pugilist/Street Saint.md\|Street Saint]]         | The Pugilist Class | Sterling Vermin Adventuring Co. | 5.5e    |
+| [[Subclasses/Pugilist/Sweet Science.md\|Sweet Science]]       | The Pugilist Class | Sterling Vermin Adventuring Co. | 5.5e    |

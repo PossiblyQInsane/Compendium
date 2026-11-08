@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T03:21:05.448Z
-modified: 2026-10-09T05:14:20.201Z
-published: 2026-10-09T05:14:20.201Z
+modified: 2026-11-08T05:44:29.398Z
+published: 2026-11-08T05:44:29.398Z
 Name: "[[Contagion]]"
 Spell Level: Level 5
 School: Necromancy

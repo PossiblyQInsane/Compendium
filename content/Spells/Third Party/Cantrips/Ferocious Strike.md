@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-17T23:29:45.665Z
-modified: 2026-10-17T23:33:37.357Z
-published: 2026-10-17T23:33:37.357Z
+modified: 2026-11-08T05:44:34.561Z
+published: 2026-11-08T05:44:34.561Z
 Name: "[[Ferocious Strike]]"
 Spell Level: Cantrip
 School: Biomancy

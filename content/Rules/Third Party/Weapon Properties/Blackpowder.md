@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-22T05:31:04.814Z
-modified: 2026-09-22T05:32:20.493Z
-published: 2026-09-22T05:32:20.493Z
+modified: 2026-11-08T05:43:42.603Z
+published: 2026-11-08T05:43:42.603Z
 Source: "Grim Hollow: Player's Guide"
 Official: false
 Publisher: Ghostfire Gaming

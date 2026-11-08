@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-14T05:02:22.602Z
-modified: 2026-10-14T05:04:01.739Z
-published: 2026-10-14T05:04:01.739Z
+modified: 2026-11-08T05:41:18.396Z
+published: 2026-11-08T05:41:18.396Z
 Weight: 1 lb.
 Cost: 10 GP
 Source: The Magus Class

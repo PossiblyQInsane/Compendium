@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T15:23:00.010Z
-modified: 2026-10-08T05:34:43.549Z
-published: 2026-10-08T05:34:43.549Z
+modified: 2026-11-08T05:44:51.127Z
+published: 2026-11-08T05:44:51.127Z
 Name: "[[Summer Winds]]"
 Spell Level: Level 2
 School: Evocation

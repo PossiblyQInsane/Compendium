@@ -1,3 +1,10 @@
+---
+publish: "true"
+created: 2026-08-18T00:26:05.812Z
+modified: 2026-11-08T05:45:16.386Z
+published: 2026-11-08T05:45:16.386Z
+---
+
 ### Cantrips (Level 0 Cleric Spells)
 
 | Name                                                                            | School        | Special | Source                             | Publisher                       |
@@ -6,6 +13,7 @@
 | _[[Spells/Third Party/Cantrips/Can't Trip.md\|Can't Trip]]_                     | Abjuration    | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Flare.md\|Flare]]_                               | Evocation     | —       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Hateful Haunting.md\|Hateful Haunting]]_         | Necromancy    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Cantrips/Holy Word.md\|Holy Word]]_                       | Evocation     | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
 | _[[Spells/Third Party/Cantrips/Moment to Think.md\|Moment to Think]]_           | Transmutation | —       | Valda's Spire of Secrets           | Mage Hand Press                 |
 | _[[Spells/Third Party/Cantrips/Overexposure.md\|Overexposure]]_                 | Divination    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Cantrips/Reinforce.md\|Reinforce]]_                       | Transmutation | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
@@ -23,8 +31,10 @@
 | _[[Spells/Third Party/Level 1 Spells/Boil Blood.md\|Boil Blood]]_                       | Transmutation | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 1 Spells/Elevated Sight.md\|Elevated Sight]]_               | Divination    | C       | Humblewood Campaign Setting        | Hit Point Press                 |
 | _[[Spells/Third Party/Level 1 Spells/Flash.md\|Flash]]_                                 | Evocation     | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
+| _[[Spells/Third Party/Level 1 Spells/Ghost Light.md\|Ghost Light]]_                     | Evocation     | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 1 Spells/Grave Bolt.md\|Grave Bolt]]_                       | Necromancy    | —       | The Magus Class                    | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Level 1 Spells/Inner Flame.md\|Inner Flame]]_                     | Abjuration    | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
+| _[[Spells/Third Party/Level 1 Spells/Intaglio.md\|Intaglio]]_                           | Transmutation | C, R    | Grim Hollow: Player's Guide        | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 1 Spells/Peppermint Plate.md\|Peppermint Plate]]_           | Abjuration    | C       | Heliana's Guide to Monster Hunting | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/Repulsing Palm.md\|Repulsing Palm]]_               | Evocation     | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/See Future Death.md\|See Future Death]]_           | Divination    | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern                     |
@@ -32,20 +42,22 @@
 
 ### Level 2 Cleric Spells
 
-| Name                                                                                  | School      | Special | Source                             | Publisher              |
-| ------------------------------------------------------------------------------------- | ----------- | ------- | ---------------------------------- | ---------------------- |
-| _[[Spells/Third Party/Level 2 Spells/Bloat.md\|Bloat]]_                               | Necromancy  | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 2 Spells/Bloodletter.md\|Bloodletter]]_                   | Necromancy  | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
-| _[[Spells/Third Party/Level 2 Spells/Inequality.md\|Inequality]]_                     | Enchantment | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
-| _[[Spells/Third Party/Level 2 Spells/Lifesap Aura.md\|Lifesap Aura]]_                 | Necromancy  | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
-| _[[Spells/Third Party/Level 2 Spells/Mirror of Reflection.md\|Mirror of Reflection]]_ | Conjuration | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
-| _[[Spells/Third Party/Level 2 Spells/Preserve (Loot Tavern).md\|Preserve]]_           | Biomancy    | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
-| _[[Spells/Third Party/Level 2 Spells/Protection (Spell).md\|Protection]]_             | Abjuration  | C, M    | Heliana's Guide to Monster Hunting | Loot Tavern            |
-| _[[Spells/Third Party/Level 2 Spells/Shared Vision.md\|Shared Vision]]_               | Divination  | C       | Obojima: Tales from the Tall Grass | 1985 Games             |
-| _[[Spells/Third Party/Level 2 Spells/Shielding Word.md\|Shielding Word]]_             | Abjuration  | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
-| _[[Spells/Third Party/Level 2 Spells/Spell Signature.md\|Spell Signature]]_           | Divination  | —       | Obojima: Tales from the Tall Grass | 1985 Games             |
-| _[[Spells/Third Party/Level 2 Spells/Sugar Rush.md\|Sugar Rush]]_                     | Biomancy    | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
-| _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_                 | Evocation   | —       | The Crooked Moon                   | Avantris Entertainment |
+| Name                                                                                  | School        | Special | Source                             | Publisher              |
+| ------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ---------------------- |
+| _[[Spells/Third Party/Level 2 Spells/Bloat.md\|Bloat]]_                               | Necromancy    | —       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 2 Spells/Bloodletter.md\|Bloodletter]]_                   | Necromancy    | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 2 Spells/Fiend Flesh.md\|Fiend Flesh]]_                   | Transmutation | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 2 Spells/Inequality.md\|Inequality]]_                     | Enchantment   | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| _[[Spells/Third Party/Level 2 Spells/Life Tether.md\|Life Tether]]_                   | Necromancy    | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
+| _[[Spells/Third Party/Level 2 Spells/Lifesap Aura.md\|Lifesap Aura]]_                 | Necromancy    | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
+| _[[Spells/Third Party/Level 2 Spells/Mirror of Reflection.md\|Mirror of Reflection]]_ | Conjuration   | —       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
+| _[[Spells/Third Party/Level 2 Spells/Preserve (Loot Tavern).md\|Preserve]]_           | Biomancy      | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| _[[Spells/Third Party/Level 2 Spells/Protection (Spell).md\|Protection]]_             | Abjuration    | C, M    | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| _[[Spells/Third Party/Level 2 Spells/Shared Vision.md\|Shared Vision]]_               | Divination    | C       | Obojima: Tales from the Tall Grass | 1985 Games             |
+| _[[Spells/Third Party/Level 2 Spells/Shielding Word.md\|Shielding Word]]_             | Abjuration    | —       | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| _[[Spells/Third Party/Level 2 Spells/Spell Signature.md\|Spell Signature]]_           | Divination    | —       | Obojima: Tales from the Tall Grass | 1985 Games             |
+| _[[Spells/Third Party/Level 2 Spells/Sugar Rush.md\|Sugar Rush]]_                     | Biomancy      | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
+| _[[Spells/Third Party/Level 2 Spells/Summer Winds.md\|Summer Winds]]_                 | Evocation     | —       | The Crooked Moon                   | Avantris Entertainment |
 
 ### Level 3 Cleric Spells
 
@@ -90,6 +102,7 @@
 | _[[Spells/Third Party/Level 5 Spells/Endure.md\|Endure]]_                                                   | Necromancy    | M       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Feverskin.md\|Feverskin]]_                                             | Biomancy      | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Field of Reaping.md\|Field of Reaping]]_                               | Necromancy    | C       | The Crooked Moon                   | Avantris Entertainment |
+| _[[Spells/Third Party/Level 5 Spells/Greater Animate Dead.md\|Greater Animate Dead]]_                       | Necromancy    | M       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 5 Spells/Iminada's Umigiri.md\|Iminada's Umigiri]]_                             | Illusion      | C       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Incorporeality.md\|Incorporeality]]_                                   | Transmutation | C       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Nomi's Adamantine Carapace.md\|Nomi's Adamantine Carapace]]_           | Biomancy      | C, M    | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
@@ -97,10 +110,11 @@
 
 ### Level 6 Cleric Spells
 
-| Name                                                                            | School      | Special | Source                      | Publisher        |
-| ------------------------------------------------------------------------------- | ----------- | ------- | --------------------------- | ---------------- |
-| _[[Spells/Third Party/Level 6 Spells/Chains of Beleth.md\|Chains of Beleth]]_   | Conjuration | C       | Grim Hollow: Player's Guide | Ghostfire Gaming |
-| _[[Spells/Third Party/Level 6 Spells/Crown of Radiance.md\|Crown of Radiance]]_ | Evocation   | —       | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| Name                                                                            | School        | Special | Source                      | Publisher        |
+| ------------------------------------------------------------------------------- | ------------- | ------- | --------------------------- | ---------------- |
+| _[[Spells/Third Party/Level 6 Spells/Chains of Beleth.md\|Chains of Beleth]]_   | Conjuration   | C       | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| _[[Spells/Third Party/Level 6 Spells/Crown of Radiance.md\|Crown of Radiance]]_ | Evocation     | —       | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| _[[Spells/Third Party/Level 6 Spells/Melting Curse.md\|Melting Curse]]_         | Transmutation | —       | Grim Hollow: Player's Guide | Ghostfire Gaming |
 
 ### Level 7 Cleric Spells
 
@@ -112,6 +126,8 @@
 | Name                                                              | School      | Special | Source                      | Publisher        |
 | ----------------------------------------------------------------- | ----------- | ------- | --------------------------- | ---------------- |
 | _[[Spells/Third Party/Level 8 Spells/Call Deity.md\|Call Deity]]_ | Conjuration | —       | Cthulhu by Torchlight       | Chaosium         |
+| _[[Spells/Third Party/Level 8 Spells/Flense.md\|Flense]]_         | Necromancy  | C       | Grim Hollow: Player's Guide | Ghostfire Gaming |
+| _[[Spells/Third Party/Level 8 Spells/Lifesink.md\|Lifesink]]_     | Necromancy  | C       | Grim Hollow: Player's Guide | Ghostfire Gaming |
 | _[[Spells/Third Party/Level 8 Spells/Red Rain.md\|Red Rain]]_     | Conjuration | C       | Grim Hollow: Player's Guide | Ghostfire Gaming |
 
 ### Level 9 Cleric Spells

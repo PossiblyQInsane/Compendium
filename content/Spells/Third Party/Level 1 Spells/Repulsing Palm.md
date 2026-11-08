@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-15T16:57:04.592Z
-modified: 2026-10-15T17:01:28.327Z
-published: 2026-10-15T17:01:28.327Z
+modified: 2026-11-08T05:44:47.177Z
+published: 2026-11-08T05:44:47.177Z
 Name: "[[Repulsing Palm]]"
 Spell Level: Level 1
 School: Evocation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-18T00:24:00.951Z
-modified: 2026-10-18T00:29:49.647Z
-published: 2026-10-18T00:29:49.647Z
+modified: 2026-11-08T05:44:33.009Z
+published: 2026-11-08T05:44:33.009Z
 Name: "[[Eelskin]]"
 Spell Level: Level 2
 School: Biomancy

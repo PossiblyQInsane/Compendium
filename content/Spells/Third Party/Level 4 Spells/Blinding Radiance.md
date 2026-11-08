@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-04T20:56:14.553Z
-modified: 2026-10-09T05:07:27.352Z
-published: 2026-10-09T05:07:27.352Z
+modified: 2026-11-08T05:44:25.458Z
+published: 2026-11-08T05:44:25.458Z
 Name: "[[Blinding Radiance]]"
 Spell Level: Level 4
 School: Evocation

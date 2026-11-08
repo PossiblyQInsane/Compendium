@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T06:09:56.914Z
-modified: 2026-10-16T06:15:44.014Z
-published: 2026-10-16T06:15:44.014Z
+modified: 2026-11-08T05:44:27.006Z
+published: 2026-11-08T05:44:27.006Z
 Name: "[[Calm Flames]]"
 Spell Level: Level 2
 School: Transmutation

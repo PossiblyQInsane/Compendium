@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-28T14:31:28.005Z
-modified: 2026-10-09T04:58:25.701Z
-published: 2026-10-09T04:58:25.701Z
+modified: 2026-11-08T05:44:35.012Z
+published: 2026-11-08T05:44:35.012Z
 Name: "[[Fire Shield]]"
 Spell Level: Level 4
 School: Evocation

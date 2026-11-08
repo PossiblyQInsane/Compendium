@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T13:43:48.280Z
-modified: 2026-10-08T04:23:56.132Z
-published: 2026-10-08T04:23:56.132Z
+modified: 2026-11-08T05:44:26.470Z
+published: 2026-11-08T05:44:26.470Z
 Name: "[[Burning Hands]]"
 Spell Level: Level 1
 School: Evocation

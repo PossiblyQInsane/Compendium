@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-18T00:54:28.648Z
-modified: 2026-10-18T00:57:52.720Z
-published: 2026-10-18T00:57:52.720Z
+modified: 2026-11-08T05:44:42.850Z
+published: 2026-11-08T05:44:42.850Z
 Name: "[[Mass Leech]]"
 Spell Level: Level 3
 School: Necromancy

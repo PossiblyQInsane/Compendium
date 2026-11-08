@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-19T01:58:22.635Z
-modified: 2026-10-19T02:03:46.349Z
-published: 2026-10-19T02:03:46.349Z
+modified: 2026-11-08T05:44:53.471Z
+published: 2026-11-08T05:44:53.471Z
 Name: "[[Toil and Trouble]]"
 Spell Level: Level 1
 School: Necromancy

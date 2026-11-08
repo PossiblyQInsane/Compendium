@@ -1,3 +1,10 @@
+---
+publish: "true"
+created: 2026-09-22T03:12:58.360Z
+modified: 2026-11-08T05:45:16.254Z
+published: 2026-11-08T05:45:16.254Z
+---
+
 | Spell Level | Name                                                                              | School        | Class                                    | Special | Source                      | Publisher        |
 | ----------- | --------------------------------------------------------------------------------- | ------------- | ---------------------------------------- | ------- | --------------------------- | ---------------- |
 | Level 1     | _[[Spells/Third Party/Level 1 Spells/Blood Rush.md\|Blood Rush]]_                 | Transmutation | Druid, Ranger                            | —       | Grim Hollow: Player's Guide | Ghostfire Gaming |

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T01:32:41.127Z
-modified: 2026-10-08T04:10:22.052Z
-published: 2026-10-08T04:10:22.052Z
+modified: 2026-11-08T05:44:37.750Z
+published: 2026-11-08T05:44:37.750Z
 Name: "[[Guidance|Guidance]]"
 Spell Level: Cantrip
 School: Divination

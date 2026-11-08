@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-21T16:58:39.599Z
-modified: 2026-09-21T17:04:59.267Z
-published: 2026-09-21T17:04:59.267Z
+modified: 2026-11-08T05:43:46.358Z
+published: 2026-11-08T05:43:46.358Z
 Ability: Intelligence
 Source: "Obojima: Tales from the Tall Grass"
 Official: false

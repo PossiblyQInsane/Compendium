@@ -1,11 +1,11 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Spellcasting
 title: Spellcasting
 created: 2026-07-28T00:53:04.987Z
-modified: 2026-09-11T15:00:21.418Z
-published: 2026-09-11T15:00:21.418Z
+modified: 2026-11-08T05:43:46.716Z
+published: 2026-11-08T05:43:46.716Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

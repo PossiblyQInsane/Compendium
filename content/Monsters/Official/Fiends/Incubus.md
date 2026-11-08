@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T01:21:24.177Z
-modified: 2026-10-10T05:41:37.088Z
-published: 2026-10-10T05:41:37.088Z
+modified: 2026-11-08T05:43:21.000Z
+published: 2026-11-08T05:43:21.000Z
 Creature Type: Fiend
 Size: Medium
 Alignment: Neutral Evil

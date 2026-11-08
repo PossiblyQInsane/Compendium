@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T05:04:34.017Z
-modified: 2026-10-09T05:18:32.144Z
-published: 2026-10-09T05:18:32.144Z
+modified: 2026-11-08T05:44:43.761Z
+published: 2026-11-08T05:44:43.761Z
 Name: "[[Modify Memory]]"
 Spell Level: Level 5
 School: Enchantment

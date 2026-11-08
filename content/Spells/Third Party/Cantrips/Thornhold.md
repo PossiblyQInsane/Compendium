@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-14T05:34:13.746Z
-modified: 2026-10-14T05:36:14.136Z
-published: 2026-10-14T05:36:14.136Z
+modified: 2026-11-08T05:44:52.789Z
+published: 2026-11-08T05:44:52.789Z
 Name: "[[Thornhold]]"
 Spell Level: Cantrip
 School: Abjuration

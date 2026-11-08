@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-29T15:51:36.592Z
-modified: 2026-10-09T05:13:34.848Z
-published: 2026-10-09T05:13:34.848Z
+modified: 2026-11-08T05:44:28.598Z
+published: 2026-11-08T05:44:28.598Z
 Name: "[[Cone of Cold]]"
 Spell Level: Level 5
 School: Evocation

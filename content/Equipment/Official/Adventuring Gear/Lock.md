@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-06T06:03:37.490Z
-modified: 2026-08-17T19:51:50.611Z
-published: 2026-08-17T19:51:50.611Z
+modified: 2026-11-08T05:42:10.232Z
+published: 2026-11-08T05:42:10.232Z
 Weight: 1 lb.
 Cost: 10 GP
 Source: Player's Handbook 5.5e

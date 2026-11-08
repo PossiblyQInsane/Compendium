@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T22:15:56.412Z
-modified: 2026-10-09T05:17:26.515Z
-published: 2026-10-09T05:17:26.515Z
+modified: 2026-11-08T05:44:39.651Z
+published: 2026-11-08T05:44:39.651Z
 Name: "[[Infernal Calling]]"
 Spell Level: Level 5
 School: Conjuration

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T15:32:16.611Z
-modified: 2026-10-09T05:10:49.049Z
-published: 2026-10-09T05:10:49.049Z
+modified: 2026-11-08T05:44:47.732Z
+published: 2026-11-08T05:44:47.732Z
 Name: "[[Sanctum of the Shepherd]]"
 Spell Level: Level 4
 School: Abjuration

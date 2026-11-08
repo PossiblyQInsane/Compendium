@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T07:04:47.740Z
-modified: 2026-10-16T07:08:16.618Z
-published: 2026-10-16T07:08:16.618Z
+modified: 2026-11-08T05:44:52.707Z
+published: 2026-11-08T05:44:52.707Z
 Name: "[[The Bends]]"
 Spell Level: Level 3
 School: Biomancy

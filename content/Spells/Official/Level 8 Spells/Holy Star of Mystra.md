@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-18T01:40:04.267Z
-modified: 2026-10-09T05:40:27.159Z
-published: 2026-10-09T05:40:27.159Z
+modified: 2026-11-08T05:44:38.656Z
+published: 2026-11-08T05:44:38.656Z
 Name: "[[Holy Star of Mystra]]"
 Spell Level: Level 8
 School: Evocation

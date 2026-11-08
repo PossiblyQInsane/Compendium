@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T03:52:09.719Z
-modified: 2026-10-08T05:27:30.676Z
-published: 2026-10-08T05:27:30.676Z
+modified: 2026-11-08T05:44:55.525Z
+published: 2026-11-08T05:44:55.525Z
 Name: "[[Umbral Tendril]]"
 Spell Level: Level 1
 School: Evocation

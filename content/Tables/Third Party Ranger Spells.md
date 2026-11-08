@@ -1,3 +1,10 @@
+---
+publish: "true"
+created: 2026-09-15T02:03:19.236Z
+modified: 2026-11-08T05:45:16.568Z
+published: 2026-11-08T05:45:16.568Z
+---
+
 ### Level 1 Ranger Spells
 
 | Name                                                                                | School        | Special | Source                                  | Publisher                       |
@@ -80,6 +87,7 @@
 | ------------------------------------------------------------------------------------------------- | ------------- | ------- | ---------------------------------- | ---------------------- |
 | _[[Spells/Third Party/Level 5 Spells/Endure.md\|Endure]]_                                         | Necromancy    | M       | Heliana's Guide to Monster Hunting | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Freedom of the Winds.md\|Freedom of the Winds]]_             | Abjuration    | C       | Tal'Dorei Campaign Setting Reborn  | Darrington Press       |
+| _[[Spells/Third Party/Level 5 Spells/Investiture of Venom.md\|Investiture of Venom]]_             | Transmutation | C       | Grim Hollow: Player's Guide        | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 5 Spells/Lucky Charm.md\|Lucky Charm]]_                               | Transmutation | C       | The Crooked Moon                   | Avantris Entertainment |
 | _[[Spells/Third Party/Level 5 Spells/Magatsuchi’s Lantern.md\|Magatsuchi’s Lantern]]_             | Illusion      | C       | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |
 | _[[Spells/Third Party/Level 5 Spells/Nomi's Adamantine Carapace.md\|Nomi's Adamantine Carapace]]_ | Biomancy      | C, M    | Ryoko's Guide to the Yokai Realms  | Loot Tavern            |

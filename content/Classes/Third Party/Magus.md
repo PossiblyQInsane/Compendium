@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-30T16:07:03.544Z
-modified: 2026-10-17T04:55:52.235Z
-published: 2026-10-17T04:55:52.235Z
+modified: 2026-11-08T02:11:44.545Z
+published: 2026-11-08T02:11:44.545Z
 Name: "[[Magus]]"
 Source: The Magus Class
 Official: false
@@ -325,11 +325,11 @@ This section presents the Magus spell list. The spells are organized by spell le
 
 A Magus subclass is a specialization that grants you features at certain Magus levels, as specified in the subclass.
 
-| Name                                                                 | Source          | Publisher                       | Edition |
-| -------------------------------------------------------------------- | --------------- | ------------------------------- | ------- |
-| [[Subclasses/Third Party/Magus/Arcane Order.md\|Arcane Order]]       | The Magus Class | Sterling Vermin Adventuring Co. | 5.5e    |
-| [[Subclasses/Third Party/Magus/Heaven's Guard.md\|Heaven's Guard]]   | The Magus Class | Sterling Vermin Adventuring Co. | 5.5e    |
-| [[Subclasses/Third Party/Magus/Knights Stygian.md\|Knights Stygian]] | The Magus Class | Sterling Vermin Adventuring Co. | 5.5e    |
-| [[Subclasses/Third Party/Magus/Shadow Court.md\|Shadow Court]]       | The Magus Class | Sterling Vermin Adventuring Co. | 5.5e    |
-| [[Subclasses/Third Party/Magus/Sidereal Cabal.md\|Sidereal Cabal]]   | The Magus Class | Sterling Vermin Adventuring Co. | 5.5e    |
-| [[Subclasses/Third Party/Magus/Sylvan Circle.md\|Sylvan Circle]]     | The Magus Class | Sterling Vermin Adventuring Co. | 5.5e    |
+| Name                                                     | Source          | Publisher                       | Edition |
+| -------------------------------------------------------- | --------------- | ------------------------------- | ------- |
+| [[Subclasses/Magus/Arcane Order.md\|Arcane Order]]       | The Magus Class | Sterling Vermin Adventuring Co. | 5.5e    |
+| [[Subclasses/Magus/Heaven's Guard.md\|Heaven's Guard]]   | The Magus Class | Sterling Vermin Adventuring Co. | 5.5e    |
+| [[Subclasses/Magus/Knights Stygian.md\|Knights Stygian]] | The Magus Class | Sterling Vermin Adventuring Co. | 5.5e    |
+| [[Subclasses/Magus/Shadow Court.md\|Shadow Court]]       | The Magus Class | Sterling Vermin Adventuring Co. | 5.5e    |
+| [[Subclasses/Magus/Sidereal Cabal.md\|Sidereal Cabal]]   | The Magus Class | Sterling Vermin Adventuring Co. | 5.5e    |
+| [[Subclasses/Magus/Sylvan Circle.md\|Sylvan Circle]]     | The Magus Class | Sterling Vermin Adventuring Co. | 5.5e    |

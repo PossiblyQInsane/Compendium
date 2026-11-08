@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T05:24:57.988Z
-modified: 2026-10-08T15:54:39.135Z
-published: 2026-10-08T15:54:39.135Z
+modified: 2026-11-08T05:44:52.825Z
+published: 2026-11-08T05:44:52.825Z
 Name: "[[Thunder Step]]"
 Spell Level: Level 3
 School: Conjuration

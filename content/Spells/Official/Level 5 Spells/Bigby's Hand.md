@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T21:32:43.309Z
-modified: 2026-10-09T05:12:56.710Z
-published: 2026-10-09T05:12:56.710Z
+modified: 2026-11-08T05:44:25.119Z
+published: 2026-11-08T05:44:25.119Z
 Name: "[[Bigby's Hand]]"
 Spell Level: Level 5
 School: Evocation

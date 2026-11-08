@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T01:59:13.650Z
-modified: 2026-10-09T05:10:37.964Z
-published: 2026-10-09T05:10:37.964Z
+modified: 2026-11-08T05:44:47.650Z
+published: 2026-11-08T05:44:47.650Z
 Name: "[[Sacrificial Siphon]]"
 Spell Level: Level 4
 School: Necromancy

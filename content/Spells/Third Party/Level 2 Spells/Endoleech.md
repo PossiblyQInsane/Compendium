@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T06:42:18.458Z
-modified: 2026-10-16T06:46:41.649Z
-published: 2026-10-16T06:46:41.649Z
+modified: 2026-11-08T05:44:33.401Z
+published: 2026-11-08T05:44:33.401Z
 Name: "[[Endoleech]]"
 Spell Level: Level 2
 School: Biomancy

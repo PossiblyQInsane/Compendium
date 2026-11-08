@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-27T05:43:06.422Z
-modified: 2026-10-27T05:45:14.641Z
-published: 2026-10-27T05:45:14.641Z
+modified: 2026-11-08T05:44:25.167Z
+published: 2026-11-08T05:44:25.167Z
 Name: "[[Binding Pledge]]"
 Spell Level: Level 1
 School: Divination

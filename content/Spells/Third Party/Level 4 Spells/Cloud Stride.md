@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T04:38:51.941Z
-modified: 2026-10-16T04:43:58.903Z
-published: 2026-10-16T04:43:58.903Z
+modified: 2026-11-08T05:44:28.115Z
+published: 2026-11-08T05:44:28.115Z
 Name: "[[Cloud Stride]]"
 Spell Level: Level 4
 School: Transmutation

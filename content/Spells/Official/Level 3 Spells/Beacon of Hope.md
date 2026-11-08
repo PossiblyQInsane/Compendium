@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-01T17:31:37.409Z
-modified: 2026-08-31T19:04:54.378Z
-published: 2026-08-31T19:04:54.378Z
+modified: 2026-11-08T05:44:24.921Z
+published: 2026-11-08T05:44:24.921Z
 Name: "[[Beacon of Hope]]"
 Spell Level: Level 3
 School: Abjuration

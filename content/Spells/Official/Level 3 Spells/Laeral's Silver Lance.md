@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-18T01:01:00.063Z
-modified: 2026-10-08T15:45:06.171Z
-published: 2026-10-08T15:45:06.171Z
+modified: 2026-11-08T05:44:41.119Z
+published: 2026-11-08T05:44:41.119Z
 Name: "[[Laeral's Silver Lance]]"
 Spell Level: Level 3
 School: Evocation

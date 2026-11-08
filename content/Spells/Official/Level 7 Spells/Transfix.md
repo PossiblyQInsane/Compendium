@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T14:21:27.550Z
-modified: 2026-10-09T05:36:29.805Z
-published: 2026-10-09T05:36:29.805Z
+modified: 2026-11-08T05:44:53.924Z
+published: 2026-11-08T05:44:53.924Z
 Name: "[[Transfix]]"
 Spell Level: Level 7
 School: Enchantment

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-23T15:07:41.197Z
-modified: 2026-10-08T15:59:39.013Z
-published: 2026-10-08T15:59:39.013Z
+modified: 2026-11-08T05:44:34.050Z
+published: 2026-11-08T05:44:34.050Z
 Name: "[[Extract Iron]]"
 Spell Level: Level 3
 School: Transmutation

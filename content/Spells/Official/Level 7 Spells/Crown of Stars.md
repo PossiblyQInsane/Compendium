@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T16:22:47.761Z
-modified: 2026-10-09T05:32:53.730Z
-published: 2026-10-09T05:32:53.730Z
+modified: 2026-11-08T05:44:30.225Z
+published: 2026-11-08T05:44:30.225Z
 Name: "[[Crown of Stars]]"
 Spell Level: Level 7
 School: Evocation

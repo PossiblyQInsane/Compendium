@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T00:31:45.478Z
-modified: 2026-10-08T04:27:08.112Z
-published: 2026-10-08T04:27:08.112Z
+modified: 2026-11-08T05:44:28.295Z
+published: 2026-11-08T05:44:28.295Z
 Name: "[[Command]]"
 Spell Level: Level 1
 School: Enchantment

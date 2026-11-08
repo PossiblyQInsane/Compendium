@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T01:55:27.902Z
-modified: 2026-10-08T15:57:59.446Z
-published: 2026-10-08T15:57:59.446Z
+modified: 2026-11-08T05:44:30.100Z
+published: 2026-11-08T05:44:30.100Z
 Name: "[[Crimson Harvest]]"
 Spell Level: Level 3
 School: Necromancy

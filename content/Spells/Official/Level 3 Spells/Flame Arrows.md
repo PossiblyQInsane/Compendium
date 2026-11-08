@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T03:12:03.692Z
-modified: 2026-10-08T15:41:15.433Z
-published: 2026-10-08T15:41:15.433Z
+modified: 2026-11-08T05:44:35.236Z
+published: 2026-11-08T05:44:35.236Z
 Name: "[[Flame Arrows]]"
 Spell Level: Level 3
 School: Transmutation

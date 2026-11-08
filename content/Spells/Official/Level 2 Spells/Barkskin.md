@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-07T14:33:48.465Z
-modified: 2026-10-08T04:51:17.302Z
-published: 2026-10-08T04:51:17.302Z
+modified: 2026-11-08T05:44:24.832Z
+published: 2026-11-08T05:44:24.832Z
 Name: "[[Barkskin]]"
 Spell Level: Level 2
 School: Transmutation

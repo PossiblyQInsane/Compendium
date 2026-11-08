@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-24T03:12:24.426Z
-modified: 2026-10-09T05:36:45.250Z
-published: 2026-10-09T05:36:45.250Z
+modified: 2026-11-08T05:44:57.616Z
+published: 2026-11-08T05:44:57.616Z
 Name: "[[Whirlwind]]"
 Spell Level: Level 7
 School: Evocation

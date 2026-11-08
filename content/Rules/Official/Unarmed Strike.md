@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Unarmed Strikes
 created: 2026-08-01T17:39:22.965Z
-modified: 2026-09-11T04:54:40.617Z
-published: 2026-09-11T04:54:40.617Z
+modified: 2026-11-08T05:43:47.265Z
+published: 2026-11-08T05:43:47.265Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

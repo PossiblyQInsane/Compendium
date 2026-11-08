@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T18:50:17.014Z
-modified: 2026-08-31T16:06:49.924Z
-published: 2026-08-31T16:06:49.924Z
+modified: 2026-11-08T05:44:38.896Z
+published: 2026-11-08T05:44:38.896Z
 Name: "[[Hunter's Mark]]"
 Spell Level: Level 1
 School: Divination

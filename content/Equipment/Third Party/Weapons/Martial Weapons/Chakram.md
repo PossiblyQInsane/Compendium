@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-15T05:58:36.442Z
-modified: 2026-10-15T06:36:16.234Z
-published: 2026-10-15T06:36:16.234Z
+modified: 2026-11-08T05:42:03.485Z
+published: 2026-11-08T05:42:03.485Z
 Category: Martial Melee Weapons
 Damage: 1d4 Slashing
 Properties: Finesse, Light, Thrown (Range 30/90), Thrown Versatililty (1d6)

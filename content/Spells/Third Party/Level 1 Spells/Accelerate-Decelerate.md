@@ -1,11 +1,11 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Accelerate/Decelerate
 title: Accelerate/Decelerate
 created: 2026-10-10T18:50:11.135Z
-modified: 2026-10-10T18:57:38.307Z
-published: 2026-10-10T18:57:38.307Z
+modified: 2026-11-08T05:44:21.907Z
+published: 2026-11-08T05:44:21.907Z
 Name: "[[Accelerate-Decelerate|Accelerate/Decelerate]]"
 Spell Level: Level 1
 School: Transmutation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T06:32:23.431Z
-modified: 2026-10-16T06:36:23.367Z
-published: 2026-10-16T06:36:23.367Z
+modified: 2026-11-08T05:44:38.985Z
+published: 2026-11-08T05:44:38.985Z
 Name: "[[Ice Moon]]"
 Spell Level: Level 1
 School: Conjuration

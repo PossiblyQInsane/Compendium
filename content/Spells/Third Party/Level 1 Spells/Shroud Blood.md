@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-22T15:54:20.194Z
-modified: 2026-10-08T05:26:17.267Z
-published: 2026-10-08T05:26:17.267Z
+modified: 2026-11-08T05:44:48.769Z
+published: 2026-11-08T05:44:48.769Z
 Name: "[[Shroud Blood]]"
 Spell Level: Level 1
 School: Illusion

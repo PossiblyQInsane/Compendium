@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-30T15:08:11.062Z
-modified: 2026-10-30T15:11:14.722Z
-published: 2026-10-30T15:11:14.722Z
+modified: 2026-11-08T05:44:26.272Z
+published: 2026-11-08T05:44:26.272Z
 Name: "[[Borrow Magic]]"
 Spell Level: Cantrip
 School: Transmutation

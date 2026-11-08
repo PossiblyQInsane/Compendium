@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-23T15:42:22.271Z
-modified: 2026-10-09T05:46:17.814Z
-published: 2026-10-09T05:46:17.814Z
+modified: 2026-11-08T05:44:50.516Z
+published: 2026-11-08T05:44:50.516Z
 Name: "[[Steal Immortality]]"
 Spell Level: Level 9
 School: Transmutation

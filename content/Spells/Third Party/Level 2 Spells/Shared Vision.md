@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-30T15:15:16.832Z
-modified: 2026-10-30T15:18:47.573Z
-published: 2026-10-30T15:18:47.573Z
+modified: 2026-11-08T05:44:48.461Z
+published: 2026-11-08T05:44:48.461Z
 Name: "[[Shared Vision]]"
 Spell Level: Level 2
 School: Divination

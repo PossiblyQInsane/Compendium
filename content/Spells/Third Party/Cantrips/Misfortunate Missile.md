@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-14T05:11:36.322Z
-modified: 2026-10-14T05:14:48.372Z
-published: 2026-10-14T05:14:48.372Z
+modified: 2026-11-08T05:44:43.645Z
+published: 2026-11-08T05:44:43.645Z
 Name: "[[Misfortunate Missile]]"
 Spell Level: Cantrip
 School: Divination

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-26T20:37:37.073Z
-modified: 2026-10-13T04:54:04.503Z
-published: 2026-10-13T04:54:04.503Z
+modified: 2026-11-08T02:11:36.735Z
+published: 2026-11-08T02:11:36.735Z
 Name: "[[Kindred]]"
 Source: "Vampire: The Masquerade - Bound by Blood"
 Official: false
@@ -209,11 +209,11 @@ A Kindred subclass is a specialization that grants you features at certain Kindr
 
 **Note:** Kindred subclasses give you a subclass-specific Bane feature. This is a thematic weakness attached to that specific clan or bloodline.
 
-| Name                                                       | Source                                   | Publisher        | Edition |
-| ---------------------------------------------------------- | ---------------------------------------- | ---------------- | ------- |
-| [[Subclasses/Third Party/Kindred/Brujah.md\|Brujah]]       | Vampire: The Masquerade - Bound by Blood | Ghostfire Gaming | 5.5e    |
-| [[Subclasses/Third Party/Kindred/Gangrel.md\|Gangrel]]     | Vampire: The Masquerade - Bound by Blood | Ghostfire Gaming | 5.5e    |
-| [[Subclasses/Third Party/Kindred/Lasombra.md\|Lasombra]]   | Vampire: The Masquerade - Bound by Blood | Ghostfire Gaming | 5.5e    |
-| [[Subclasses/Third Party/Kindred/Nosferatu.md\|Nosferatu]] | Vampire: The Masquerade - Bound by Blood | Ghostfire Gaming | 5.5e    |
-| [[Subclasses/Third Party/Kindred/Toreador.md\|Toreador]]   | Vampire: The Masquerade - Bound by Blood | Ghostfire Gaming | 5.5e    |
-| [[Subclasses/Third Party/Kindred/Ventrue.md\|Ventrue]]     | Vampire: The Masquerade - Bound by Blood | Ghostfire Gaming | 5.5e    |
+| Name                                           | Source                                   | Publisher        | Edition |
+| ---------------------------------------------- | ---------------------------------------- | ---------------- | ------- |
+| [[Subclasses/Kindred/Brujah.md\|Brujah]]       | Vampire: The Masquerade - Bound by Blood | Ghostfire Gaming | 5.5e    |
+| [[Subclasses/Kindred/Gangrel.md\|Gangrel]]     | Vampire: The Masquerade - Bound by Blood | Ghostfire Gaming | 5.5e    |
+| [[Subclasses/Kindred/Lasombra.md\|Lasombra]]   | Vampire: The Masquerade - Bound by Blood | Ghostfire Gaming | 5.5e    |
+| [[Subclasses/Kindred/Nosferatu.md\|Nosferatu]] | Vampire: The Masquerade - Bound by Blood | Ghostfire Gaming | 5.5e    |
+| [[Subclasses/Kindred/Toreador.md\|Toreador]]   | Vampire: The Masquerade - Bound by Blood | Ghostfire Gaming | 5.5e    |
+| [[Subclasses/Kindred/Ventrue.md\|Ventrue]]     | Vampire: The Masquerade - Bound by Blood | Ghostfire Gaming | 5.5e    |

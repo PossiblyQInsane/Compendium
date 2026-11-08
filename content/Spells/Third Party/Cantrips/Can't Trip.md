@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-17T23:24:51.320Z
-modified: 2026-10-17T23:29:03.578Z
-published: 2026-10-17T23:29:03.578Z
+modified: 2026-11-08T05:44:27.059Z
+published: 2026-11-08T05:44:27.059Z
 Name: "[[Can't Trip]]"
 Spell Level: Cantrip
 School: Abjuration

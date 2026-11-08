@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T03:09:45.282Z
-modified: 2026-10-09T04:55:26.413Z
-published: 2026-10-09T04:55:26.413Z
+modified: 2026-11-08T05:44:29.547Z
+published: 2026-11-08T05:44:29.547Z
 Name: "[[Control Water]]"
 Spell Level: Level 4
 School: Transmutation

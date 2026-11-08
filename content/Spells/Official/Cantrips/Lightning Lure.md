@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T01:50:35.163Z
-modified: 2026-10-08T04:12:15.088Z
-published: 2026-10-08T04:12:15.088Z
+modified: 2026-11-08T05:44:41.700Z
+published: 2026-11-08T05:44:41.700Z
 Name: "[[Lightning Lure]]"
 Spell Level: Cantrip
 School: Evocation

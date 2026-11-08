@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T17:43:50.590Z
-modified: 2026-10-08T15:41:45.409Z
-published: 2026-10-08T15:41:45.409Z
+modified: 2026-11-08T05:44:35.952Z
+published: 2026-11-08T05:44:35.952Z
 Name: "[[Fly]]"
 Spell Level: Level 3
 School: Transmutation

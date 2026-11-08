@@ -1,3 +1,10 @@
+---
+publish: "true"
+created: 2026-08-06T04:42:55.301Z
+modified: 2026-11-08T05:43:43.752Z
+published: 2026-11-08T05:43:43.752Z
+---
+
 A creature requires an amount of water per day based on its size, as shown in the Water Needs per Day table. A creature that drinks less than half the required water for a day gains 1 [[Exhaustion]] level at the day’s end. Exhaustion caused by dehydration can’t be removed until the creature drinks the full amount of water required for a day.
 
 ##### Water Needs per Day

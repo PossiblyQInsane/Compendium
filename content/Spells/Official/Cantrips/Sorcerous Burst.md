@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T04:14:53.953Z
-modified: 2026-09-27T04:17:09.183Z
-published: 2026-09-27T04:17:09.183Z
+modified: 2026-11-08T05:44:49.534Z
+published: 2026-11-08T05:44:49.534Z
 Name: "[[Sorcerous Burst]]"
 Spell Level: Cantrip
 School: Evocation

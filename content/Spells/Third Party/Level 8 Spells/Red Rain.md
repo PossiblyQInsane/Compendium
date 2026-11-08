@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-23T15:42:02.080Z
-modified: 2026-10-09T05:42:20.869Z
-published: 2026-10-09T05:42:20.869Z
+modified: 2026-11-08T05:44:46.919Z
+published: 2026-11-08T05:44:46.919Z
 Name: "[[Red Rain]]"
 Spell Level: Level 8
 School: Conjuration

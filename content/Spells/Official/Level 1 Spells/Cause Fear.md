@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T20:57:30.920Z
-modified: 2026-10-08T04:24:44.776Z
-published: 2026-10-08T04:24:44.776Z
+modified: 2026-11-08T05:44:27.325Z
+published: 2026-11-08T05:44:27.325Z
 Name: "[[Cause Fear]]"
 Spell Level: Level 1
 School: Necromancy

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T01:00:44.529Z
-modified: 2026-10-08T04:53:36.285Z
-published: 2026-10-08T04:53:36.285Z
+modified: 2026-11-08T05:44:28.091Z
+published: 2026-11-08T05:44:28.091Z
 Name: "[[Cloud of Daggers]]"
 Spell Level: Level 2
 School: Conjuration

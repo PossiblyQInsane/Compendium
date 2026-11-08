@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - prone
 created: 2026-08-02T15:47:05.873Z
-modified: 2026-09-28T23:16:12.870Z
-published: 2026-09-28T23:16:12.870Z
+modified: 2026-11-08T05:43:45.911Z
+published: 2026-11-08T05:43:45.911Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-26T20:36:28.992Z
-modified: 2026-10-08T16:05:27.542Z
-published: 2026-10-08T16:05:27.542Z
+modified: 2026-11-08T02:11:09.406Z
+published: 2026-11-08T02:11:09.406Z
 Name: "[[Wizard]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -629,37 +629,37 @@ A Wizard subclass is a specialization that grants you features at certain Wizard
 
 | Name                                                                 | Source                             | Edition |
 | -------------------------------------------------------------------- | ---------------------------------- | ------- |
-| [[Subclasses/Official/Wizard/Abjurer.md\|Abjurer]]                   | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Wizard/Bladesinger.md\|Bladesinger]]           | Forgotten Realms: Heroes of Faerûn | 5.5e    |
-| [[Subclasses/Official/Wizard/Chronurgy Magic.md\|Chronurgy Magic]]   | Explorer's Guide to Wildemount     | 5e      |
-| [[Subclasses/Official/Wizard/Conjurer.md\|Conjurer]]                 | Arcana Unleashed                   | 5.5e    |
-| [[Subclasses/Official/Wizard/Diviner.md\|Diviner]]                   | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Wizard/Enchanter.md\|Enchanter]]               | Arcana Unleashed                   | 5.5e    |
-| [[Subclasses/Official/Wizard/Evoker.md\|Evoker]]                     | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Wizard/Graviturgy Magic.md\|Graviturgy Magic]] | Explorer's Guide to Wildemount     | 5e      |
-| [[Subclasses/Official/Wizard/Illusionist.md\|Illusionist]]           | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Wizard/Necromancer.md\|Necromancer]]           | Arcana Unleashed                   | 5.5e    |
-| [[Subclasses/Official/Wizard/Order of Scribes.md\|Order of Scribes]] | Tasha's Cauldron of Everything     | 5e      |
-| [[Subclasses/Official/Wizard/Transmuter.md\|Transmuter]]             | Arcana Unleashed                   | 5.5e    |
-| [[Subclasses/Official/Wizard/War Magic.md\|War Magic]]               | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Wizard/Official/Abjurer.md\|Abjurer]]                   | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Wizard/Official/Bladesinger.md\|Bladesinger]]           | Forgotten Realms: Heroes of Faerûn | 5.5e    |
+| [[Subclasses/Wizard/Official/Chronurgy Magic.md\|Chronurgy Magic]]   | Explorer's Guide to Wildemount     | 5e      |
+| [[Subclasses/Wizard/Official/Conjurer.md\|Conjurer]]                 | Arcana Unleashed                   | 5.5e    |
+| [[Subclasses/Wizard/Official/Diviner.md\|Diviner]]                   | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Wizard/Official/Enchanter.md\|Enchanter]]               | Arcana Unleashed                   | 5.5e    |
+| [[Subclasses/Wizard/Official/Evoker.md\|Evoker]]                     | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Wizard/Official/Graviturgy Magic.md\|Graviturgy Magic]] | Explorer's Guide to Wildemount     | 5e      |
+| [[Subclasses/Wizard/Official/Illusionist.md\|Illusionist]]           | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Wizard/Official/Necromancer.md\|Necromancer]]           | Arcana Unleashed                   | 5.5e    |
+| [[Subclasses/Wizard/Official/Order of Scribes.md\|Order of Scribes]] | Tasha's Cauldron of Everything     | 5e      |
+| [[Subclasses/Wizard/Official/Transmuter.md\|Transmuter]]             | Arcana Unleashed                   | 5.5e    |
+| [[Subclasses/Wizard/Official/War Magic.md\|War Magic]]               | Xanathar's Guide to Everything     | 5e      |
 
 ### Third Party Wizard Subclasses
 
 | Name                                                                            | Source                                  | Publisher               | Edition |
 | ------------------------------------------------------------------------------- | --------------------------------------- | ----------------------- | ------- |
-| [[Subclasses/Third Party/Wizard/Bibliomancy.md\|Bibliomancy]]                   | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Blood Magic.md\|Blood Magic]]                   | Tal'Dorei Campaign Setting Reborn       | Darrington Press        | 5e      |
-| [[Subclasses/Third Party/Wizard/Daemonologist.md\|Daemonologist]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Leyline Magic.md\|Leyline Magic]]               | Humblewood Tales                        | Hit Point Press         | 5e      |
-| [[Subclasses/Third Party/Wizard/Magic Missile Mage.md\|Magic Missile Mage]]     | Valda's Spire of Secrets                | Mage Hand Press         | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Materializer.md\|Materializer]]                 | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Occultist.md\|Occultist]]                       | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Origami Mage.md\|Origami Mage]]                 | Obojima: Tales from the Tall Grass      | 1985 Games              | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Osteomancer.md\|Osteomancer]]                   | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Philosopher.md\|Philosopher]]                   | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Plague Doctor.md\|Plague Doctor]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Wizard/Sangromancer.md\|Sangromancer]]                 | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Wizard/School of Biomancy.md\|School of Biomancy]]     | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Wizard/School of Witchcraft.md\|School of Witchcraft]] | Hexbound                                | Hit Point Press         | 5e      |
-| [[Subclasses/Third Party/Wizard/Shinobi.md\|Shinobi]]                           | Ryoko's Guide to the Yokai Realms       | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Wizard/Wand Lore.md\|Wand Lore]]                       | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Wizard/Third Party/Bibliomancy.md\|Bibliomancy]]                   | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
+| [[Subclasses/Wizard/Third Party/Blood Magic.md\|Blood Magic]]                   | Tal'Dorei Campaign Setting Reborn       | Darrington Press        | 5e      |
+| [[Subclasses/Wizard/Third Party/Daemonologist.md\|Daemonologist]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Wizard/Third Party/Leyline Magic.md\|Leyline Magic]]               | Humblewood Tales                        | Hit Point Press         | 5e      |
+| [[Subclasses/Wizard/Third Party/Magic Missile Mage.md\|Magic Missile Mage]]     | Valda's Spire of Secrets                | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Wizard/Third Party/Materializer.md\|Materializer]]                 | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Wizard/Third Party/Occultist.md\|Occultist]]                       | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Wizard/Third Party/Origami Mage.md\|Origami Mage]]                 | Obojima: Tales from the Tall Grass      | 1985 Games              | 5.5e    |
+| [[Subclasses/Wizard/Third Party/Osteomancer.md\|Osteomancer]]                   | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
+| [[Subclasses/Wizard/Third Party/Philosopher.md\|Philosopher]]                   | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Wizard/Third Party/Plague Doctor.md\|Plague Doctor]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Wizard/Third Party/Sangromancer.md\|Sangromancer]]                 | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Wizard/Third Party/School of Biomancy.md\|School of Biomancy]]     | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |
+| [[Subclasses/Wizard/Third Party/School of Witchcraft.md\|School of Witchcraft]] | Hexbound                                | Hit Point Press         | 5e      |
+| [[Subclasses/Wizard/Third Party/Shinobi.md\|Shinobi]]                           | Ryoko's Guide to the Yokai Realms       | Loot Tavern             | 5e      |
+| [[Subclasses/Wizard/Third Party/Wand Lore.md\|Wand Lore]]                       | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |

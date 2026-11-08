@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T13:40:13.349Z
-modified: 2026-10-09T05:20:23.050Z
-published: 2026-10-09T05:20:23.050Z
+modified: 2026-11-08T05:44:50.234Z
+published: 2026-11-08T05:44:50.234Z
 Name: "[[Spirit Lantern]]"
 Spell Level: Level 5
 School: Necromancy

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T06:16:12.604Z
-modified: 2026-10-16T06:19:45.777Z
-published: 2026-10-16T06:19:45.777Z
+modified: 2026-11-08T05:44:27.033Z
+published: 2026-11-08T05:44:27.033Z
 Name: "[[Calm Waters]]"
 Spell Level: Level 2
 School: Transmutation

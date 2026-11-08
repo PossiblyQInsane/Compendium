@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - grappled
 created: 2026-08-02T18:06:02.562Z
-modified: 2026-09-28T23:15:53.146Z
-published: 2026-09-28T23:15:53.146Z
+modified: 2026-11-08T05:43:44.366Z
+published: 2026-11-08T05:43:44.366Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

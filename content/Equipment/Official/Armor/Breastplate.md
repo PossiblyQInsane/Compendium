@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-01T23:31:55.894Z
-modified: 2026-08-17T19:59:15.551Z
-published: 2026-08-17T19:59:15.551Z
+modified: 2026-11-08T05:41:40.084Z
+published: 2026-11-08T05:41:40.084Z
 Category: Medium Armor
 Armor Class (AC): 14 + Dex modifier (max 2)
 Stealth: —

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-07T17:37:02.762Z
-modified: 2026-10-10T05:27:00.390Z
-published: 2026-10-10T05:27:00.390Z
+modified: 2026-11-08T05:43:17.900Z
+published: 2026-11-08T05:43:17.900Z
 Creature Type: Dragon
 Subtype: Metallic
 Size: Gargantuan

@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - charmed
 created: 2026-07-30T04:59:56.740Z
-modified: 2026-09-28T23:06:21.947Z
-published: 2026-09-28T23:06:21.947Z
+modified: 2026-11-08T05:43:42.897Z
+published: 2026-11-08T05:43:42.897Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

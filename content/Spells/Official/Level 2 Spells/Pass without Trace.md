@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T14:01:23.101Z
-modified: 2026-10-08T05:08:47.282Z
-published: 2026-10-08T05:08:47.282Z
+modified: 2026-11-08T05:44:44.858Z
+published: 2026-11-08T05:44:44.858Z
 Name: "[[Pass without Trace]]"
 Spell Level: Level 2
 School: Abjuration

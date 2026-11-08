@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - poisoned
 created: 2026-07-26T05:25:07.111Z
-modified: 2026-09-28T23:07:26.786Z
-published: 2026-09-28T23:07:26.786Z
+modified: 2026-11-08T05:43:45.881Z
+published: 2026-11-08T05:43:45.881Z
 Source: Player's Handbook 5.5e
 Attunement: true
 Edition: 5.5e

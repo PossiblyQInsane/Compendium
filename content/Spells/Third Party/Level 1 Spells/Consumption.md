@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-31T15:12:27.327Z
-modified: 2026-10-08T05:23:38.437Z
-published: 2026-10-08T05:23:38.437Z
+modified: 2026-11-08T05:44:29.093Z
+published: 2026-11-08T05:44:29.093Z
 Name: "[[Consumption]]"
 Spell Level: Level 1
 School: Evocation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T07:09:27.013Z
-modified: 2026-10-16T07:14:52.351Z
-published: 2026-10-16T07:14:52.351Z
+modified: 2026-11-08T05:44:26.654Z
+published: 2026-11-08T05:44:26.654Z
 Name: "[[Cage of Frozen Tears]]"
 Spell Level: Level 4
 School: Conjuration

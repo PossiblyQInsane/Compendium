@@ -1,11 +1,11 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Evolution/Devolution
 title: Evolution/Devolution
 created: 2026-08-09T14:40:50.625Z
-modified: 2026-09-11T14:27:41.471Z
-published: 2026-09-11T14:27:41.471Z
+modified: 2026-11-08T05:44:33.978Z
+published: 2026-11-08T05:44:33.978Z
 Name: "[[Evolution-Devolution|Evolution/Devolution]]"
 Spell Level: Level 2
 School: Transmutation

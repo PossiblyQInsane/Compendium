@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Awakened Plants
 created: 2026-08-17T02:49:33.950Z
-modified: 2026-10-10T05:46:34.307Z
-published: 2026-10-10T05:46:34.307Z
+modified: 2026-11-08T05:43:18.260Z
+published: 2026-11-08T05:43:18.260Z
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

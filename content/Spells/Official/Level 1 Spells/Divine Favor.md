@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-13T14:30:09.882Z
-modified: 2026-09-13T14:32:37.107Z
-published: 2026-09-13T14:32:37.107Z
+modified: 2026-11-08T05:44:32.047Z
+published: 2026-11-08T05:44:32.047Z
 Name: "[[Divine Favor]]"
 Spell Level: Level 1
 School: Transmutation

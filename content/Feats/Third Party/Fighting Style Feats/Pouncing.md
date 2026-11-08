@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-30T14:37:24.610Z
-modified: 2026-10-30T14:40:28.164Z
-published: 2026-10-30T14:40:28.164Z
+modified: 2026-11-08T05:51:15.564Z
+published: 2026-11-08T05:51:15.564Z
 Feat Category: Fighting Style Feat
 Prerequisite:
   - Fighting Style Feature
@@ -15,7 +15,7 @@ Edition: 5.5e
 
 <div class="source">Obojima: Tales from Yatamon<br>1985 Games</div>
 
-_Fighting Style Feat_ _(Prerequisite: Fighting Style Feature)_
+_Fighting Style Feat_ _(Prerequisite: Fighting Style Feature, [[Neko Duelist]] subclass)_
 
 ---
 

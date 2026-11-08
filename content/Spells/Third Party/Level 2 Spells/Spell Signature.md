@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T04:26:11.992Z
-modified: 2026-10-08T05:34:22.981Z
-published: 2026-10-08T05:34:22.981Z
+modified: 2026-11-08T05:44:49.975Z
+published: 2026-11-08T05:44:49.975Z
 Name: "[[Spell Signature]]"
 Spell Level: Level 2
 School: Divination

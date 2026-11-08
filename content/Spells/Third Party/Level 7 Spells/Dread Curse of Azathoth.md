@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T04:01:22.752Z
-modified: 2026-10-20T04:04:02.246Z
-published: 2026-10-20T04:04:02.246Z
+modified: 2026-11-08T05:44:32.374Z
+published: 2026-11-08T05:44:32.374Z
 Name: "[[Dread Curse of Azathoth]]"
 Spell Level: Level 7
 School: Evocation

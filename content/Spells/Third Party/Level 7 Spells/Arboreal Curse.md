@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-27T05:33:14.345Z
-modified: 2026-10-27T05:38:40.393Z
-published: 2026-10-27T05:38:40.393Z
+modified: 2026-11-08T05:44:23.436Z
+published: 2026-11-08T05:44:23.436Z
 Name: "[[Arboreal Curse]]"
 Spell Level: Level 7
 School: Transmutation

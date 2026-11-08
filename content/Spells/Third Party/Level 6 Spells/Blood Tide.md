@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-23T15:30:42.783Z
-modified: 2026-10-09T05:32:00.202Z
-published: 2026-10-09T05:32:00.202Z
+modified: 2026-11-08T05:44:25.791Z
+published: 2026-11-08T05:44:25.791Z
 Name: "[[Blood Tide]]"
 Spell Level: Level 6
 School: Conjuration

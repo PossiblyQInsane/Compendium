@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-05T14:44:46.072Z
-modified: 2026-08-31T15:53:14.729Z
-published: 2026-08-31T15:53:14.729Z
+modified: 2026-11-08T05:44:45.997Z
+published: 2026-11-08T05:44:45.997Z
 Name: "[[Produce Flame]]"
 Spell Level: Cantrip
 School: Conjuration

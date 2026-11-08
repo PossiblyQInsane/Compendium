@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Arrows
   - Bolts
@@ -12,8 +12,8 @@ aliases:
   - Firearm Bullets
   - Sling Bullets
 created: 2026-08-06T05:38:59.412Z
-modified: 2026-09-15T02:23:09.890Z
-published: 2026-09-15T02:23:09.890Z
+modified: 2026-11-08T05:41:14.660Z
+published: 2026-11-08T05:41:14.660Z
 Weight: Varies
 Cost: Varies
 Source: Player's Handbook 5.5e

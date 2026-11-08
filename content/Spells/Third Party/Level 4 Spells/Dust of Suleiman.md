@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T03:50:15.894Z
-modified: 2026-10-20T03:57:26.478Z
-published: 2026-10-20T03:57:26.478Z
+modified: 2026-11-08T05:44:32.621Z
+published: 2026-11-08T05:44:32.621Z
 Name: "[[Dust of Suleiman]]"
 Spell Level: Level 4
 School: Conjuration

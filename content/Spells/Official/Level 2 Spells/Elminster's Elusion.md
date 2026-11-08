@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T23:24:22.758Z
-modified: 2026-10-05T23:27:02.621Z
-published: 2026-10-05T23:27:02.621Z
+modified: 2026-11-08T05:44:33.268Z
+published: 2026-11-08T05:44:33.268Z
 Name: "[[Elminster's Elusion]]"
 Spell Level: Level 2
 School: Abjuration

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-24T01:52:07.191Z
-modified: 2026-08-31T19:24:23.357Z
-published: 2026-08-31T19:24:23.357Z
+modified: 2026-11-08T05:44:42.104Z
+published: 2026-11-08T05:44:42.104Z
 Name: "[[Maelstrom]]"
 Spell Level: Level 5
 School: Evocation

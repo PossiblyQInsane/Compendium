@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-30T16:07:03.544Z
-modified: 2026-10-17T11:21:15.408Z
-published: 2026-10-17T11:21:15.408Z
+modified: 2026-11-08T02:11:31.652Z
+published: 2026-11-08T02:11:31.652Z
 Name: "[[Illrigger]]"
 Source: The Illrigger Revised
 Official: false
@@ -340,10 +340,10 @@ At some point on the illrigger’s journey, be it through ritual or deed, they f
 
 Though this experience can be intimidating, the rulers of Hell are usually easy masters and ask little from their chosen. The busy rulers of the Seven Cities pay little heed to the daily lives of their illriggers. Even breaches of precepts are overlooked; as long as the knight sows discord and opposes the Celestial Host, they successfully advance Hell’s agenda.
 
-| Name                                                                         | Source                | Publisher | Edition |
-| ---------------------------------------------------------------------------- | --------------------- | --------- | ------- |
-| [[Subclasses/Third Party/Illrigger/Architect of Ruin.md\|Architect of Ruin]] | The Illrigger Revised | MCDM      | 5e      |
-| [[Subclasses/Third Party/Illrigger/Hellspeaker.md\|Hellspeaker]]             | The Illrigger Revised | MCDM      | 5e      |
-| [[Subclasses/Third Party/Illrigger/Painkiller.md\|Painkiller]]               | The Illrigger Revised | MCDM      | 5e      |
-| [[Subclasses/Third Party/Illrigger/Sanguine Knight.md\|Sanguine Knight]]     | The Illrigger Revised | MCDM      | 5e      |
-| [[Subclasses/Third Party/Illrigger/Shadowmaster.md\|Shadowmaster]]           | The Illrigger Revised | MCDM      | 5e      |
+| Name                                                             | Source                | Publisher | Edition |
+| ---------------------------------------------------------------- | --------------------- | --------- | ------- |
+| [[Subclasses/Illrigger/Architect of Ruin.md\|Architect of Ruin]] | The Illrigger Revised | MCDM      | 5e      |
+| [[Subclasses/Illrigger/Hellspeaker.md\|Hellspeaker]]             | The Illrigger Revised | MCDM      | 5e      |
+| [[Subclasses/Illrigger/Painkiller.md\|Painkiller]]               | The Illrigger Revised | MCDM      | 5e      |
+| [[Subclasses/Illrigger/Sanguine Knight.md\|Sanguine Knight]]     | The Illrigger Revised | MCDM      | 5e      |
+| [[Subclasses/Illrigger/Shadowmaster.md\|Shadowmaster]]           | The Illrigger Revised | MCDM      | 5e      |

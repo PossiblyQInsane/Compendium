@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-19T02:04:33.594Z
-modified: 2026-10-19T02:09:04.875Z
-published: 2026-10-19T02:09:04.875Z
+modified: 2026-11-08T05:44:55.856Z
+published: 2026-11-08T05:44:55.856Z
 Name: "[[Vile Visage]]"
 Spell Level: Level 2
 School: Illusion

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T13:30:36.890Z
-modified: 2026-10-09T05:16:25.206Z
-published: 2026-10-09T05:16:25.206Z
+modified: 2026-11-08T05:44:37.386Z
+published: 2026-11-08T05:44:37.386Z
 Name: "[[Grave Ground]]"
 Spell Level: Level 5
 School: Necromancy

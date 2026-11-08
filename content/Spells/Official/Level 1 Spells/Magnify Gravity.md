@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-06T15:18:08.213Z
-modified: 2026-10-09T05:48:44.821Z
-published: 2026-10-09T05:48:44.821Z
+modified: 2026-11-08T05:44:42.580Z
+published: 2026-11-08T05:44:42.580Z
 Name: "[[Magnify Gravity]]"
 Spell Level: Level 1
 School: Transmutation

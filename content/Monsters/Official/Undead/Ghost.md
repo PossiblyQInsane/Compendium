@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T00:48:44.825Z
-modified: 2026-10-10T05:50:20.405Z
-published: 2026-10-10T05:50:20.405Z
+modified: 2026-11-08T05:43:20.104Z
+published: 2026-11-08T05:43:20.104Z
 Creature Type: Undead
 Size: Medium
 Alignment: Neutral

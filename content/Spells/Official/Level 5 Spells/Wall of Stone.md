@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T21:51:35.263Z
-modified: 2026-10-09T05:22:17.889Z
-published: 2026-10-09T05:22:17.889Z
+modified: 2026-11-08T05:44:56.981Z
+published: 2026-11-08T05:44:56.981Z
 Name: "[[Wall of Stone]]"
 Spell Level: Level 5
 School: Evocation

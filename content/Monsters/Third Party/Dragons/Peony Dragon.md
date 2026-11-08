@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - peony dragons
 created: 2026-08-29T22:15:19.530Z
-modified: 2026-09-10T15:11:43.715Z
-published: 2026-09-10T15:11:43.715Z
+modified: 2026-11-08T05:43:24.136Z
+published: 2026-11-08T05:43:24.136Z
 Creature Type: Dragon
 Size: Large
 Alignment: Any Alignment

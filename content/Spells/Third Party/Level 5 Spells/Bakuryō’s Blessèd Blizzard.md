@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-03T06:19:11.906Z
-modified: 2026-10-09T05:23:15.610Z
-published: 2026-10-09T05:23:15.610Z
+modified: 2026-11-08T05:44:24.617Z
+published: 2026-11-08T05:44:24.617Z
 Name: "[[Bakuryō’s Blessèd Blizzard]]"
 Spell Level: Level 5
 School: Conjuration

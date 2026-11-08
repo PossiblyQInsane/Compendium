@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T00:40:22.822Z
-modified: 2026-10-08T04:45:47.218Z
-published: 2026-10-08T04:45:47.218Z
+modified: 2026-11-08T05:44:48.884Z
+published: 2026-11-08T05:44:48.884Z
 Name: "[[Silent Image]]"
 Spell Level: Level 1
 School: Illusion

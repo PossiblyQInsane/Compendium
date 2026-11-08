@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-14T06:40:50.889Z
-modified: 2026-10-09T05:26:32.751Z
-published: 2026-10-09T05:26:32.751Z
+modified: 2026-11-08T05:44:27.489Z
+published: 2026-11-08T05:44:27.489Z
 Name: "[[Chain Lightning]]"
 Spell Level: Level 6
 School: Evocation

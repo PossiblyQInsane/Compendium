@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - rhododendron dragons
 created: 2026-08-29T22:10:52.475Z
-modified: 2026-09-10T14:20:32.211Z
-published: 2026-09-10T14:20:32.211Z
+modified: 2026-11-08T05:43:24.886Z
+published: 2026-11-08T05:43:24.886Z
 Creature Type: Dragon
 Size: Medium
 Alignment: Any Lawful Alignment

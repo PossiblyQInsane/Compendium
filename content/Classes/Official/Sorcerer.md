@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-26T20:36:28.992Z
-modified: 2026-10-07T15:51:42.847Z
-published: 2026-10-07T15:51:42.847Z
+modified: 2026-11-08T02:10:58.565Z
+published: 2026-11-08T02:10:58.565Z
 Name: "[[Sorcerer]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -556,32 +556,32 @@ A Sorcerer subclass is a specialization that grants you features at certain Sorc
 
 | Name                                                                       | Source                                  | Edition |
 | -------------------------------------------------------------------------- | --------------------------------------- | ------- |
-| [[Subclasses/Official/Sorcerer/Aberrant Sorcery.md\|Aberrant Sorcery]]     | Player's Handbook 5.5e                  | 5.5e    |
-| [[Subclasses/Official/Sorcerer/Clockwork Sorcery.md\|Clockwork Sorcery]]   | Player's Handbook 5.5e                  | 5.5e    |
-| [[Subclasses/Official/Sorcerer/Divine Soul.md\|Divine Soul]]               | Xanathar's Guide to Everything          | 5e      |
-| [[Subclasses/Official/Sorcerer/Draconic Sorcery.md\|Draconic Sorcery]]     | Player's Handbook 5.5e                  | 5.5e    |
-| [[Subclasses/Official/Sorcerer/Lunar Sorcery.md\|Lunar Sorcery]]           | Dragonlance: Shadow of the Dragon Queen | 5e      |
-| [[Subclasses/Official/Sorcerer/Shadow Sorcery.md\|Shadow Sorcery]]         | Ravenloft: The Horrors Within           | 5.5e    |
-| [[Subclasses/Official/Sorcerer/Spellfire Sorcery.md\|Spellfire Sorcery]]   | Forgotten Realms: Heroes of Faerûn      | 5.5e    |
-| [[Subclasses/Official/Sorcerer/Storm Sorcery.md\|Storm Sorcery]]           | Sword Coast Adventurer's Guide          | 5e      |
-| [[Subclasses/Official/Sorcerer/Wild Magic Sorcery.md\|Wild Magic Sorcery]] | Player's Handbook 5.5e                  | 5.5e    |
+| [[Subclasses/Sorcerer/Official/Aberrant Sorcery.md\|Aberrant Sorcery]]     | Player's Handbook 5.5e                  | 5.5e    |
+| [[Subclasses/Sorcerer/Official/Clockwork Sorcery.md\|Clockwork Sorcery]]   | Player's Handbook 5.5e                  | 5.5e    |
+| [[Subclasses/Sorcerer/Official/Divine Soul.md\|Divine Soul]]               | Xanathar's Guide to Everything          | 5e      |
+| [[Subclasses/Sorcerer/Official/Draconic Sorcery.md\|Draconic Sorcery]]     | Player's Handbook 5.5e                  | 5.5e    |
+| [[Subclasses/Sorcerer/Official/Lunar Sorcery.md\|Lunar Sorcery]]           | Dragonlance: Shadow of the Dragon Queen | 5e      |
+| [[Subclasses/Sorcerer/Official/Shadow Sorcery.md\|Shadow Sorcery]]         | Ravenloft: The Horrors Within           | 5.5e    |
+| [[Subclasses/Sorcerer/Official/Spellfire Sorcery.md\|Spellfire Sorcery]]   | Forgotten Realms: Heroes of Faerûn      | 5.5e    |
+| [[Subclasses/Sorcerer/Official/Storm Sorcery.md\|Storm Sorcery]]           | Sword Coast Adventurer's Guide          | 5e      |
+| [[Subclasses/Sorcerer/Official/Wild Magic Sorcery.md\|Wild Magic Sorcery]] | Player's Handbook 5.5e                  | 5.5e    |
 
 ### Third Party Sorcerer Subclasses
 
 | Name                                                                                          | Source                             | Publisher               | Edition |
 | --------------------------------------------------------------------------------------------- | ---------------------------------- | ----------------------- | ------- |
-| [[Subclasses/Third Party/Sorcerer/Apocalypse Sorcery.md\|Apocalypse Sorcery]]                 | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Sorcerer/Coven of Spirits.md\|Coven of Spirits]]                     | Hexbound                           | Hit Point Press         | 5e      |
-| [[Subclasses/Third Party/Sorcerer/Crimson Sorcery.md\|Crimson Sorcery]]                       | The Crooked Moon                   | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Sorcerer/Desert Soul.md\|Desert Soul]]                               | The Griffon's Saddlebag: Book Two  | The Griffon's Saddlebag | 5e      |
-| [[Subclasses/Third Party/Sorcerer/Frost Sorcery.md\|Frost Sorcery]]                           | The Griffon's Saddlebag: Book One  | The Griffon's Saddlebag | 5.5e    |
-| [[Subclasses/Third Party/Sorcerer/Haunted Sorcery.md\|Haunted Sorcery]]                       | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Sorcerer/Heroic Sorcery.md\|Heroic Sorcery]]                         | Valda's Spire of Secrets           | Mage Hand Press         | 5.5e    |
-| [[Subclasses/Third Party/Sorcerer/Hungering Dark.md\|Hungering Dark]]                         | Cthulhu by Torchlight              | Chaosium                | 5.5e    |
-| [[Subclasses/Third Party/Sorcerer/Nemesis Sorcery.md\|Nemesis Sorcery]]                       | Frontiers of Eberron: Quickstone   | Visionary               | 5.5e    |
-| [[Subclasses/Third Party/Sorcerer/Oni Kin Sorcery.md\|Oni Kin Sorcery]]                       | Obojima: Tales from the Tall Grass | 1985 Games              | 5.5e    |
-| [[Subclasses/Third Party/Sorcerer/Runechild.md\|Runechild]]                                   | Tal'Dorei Campaign Setting Reborn  | Darrington Press        | 5e      |
-| [[Subclasses/Third Party/Sorcerer/Skinshifter.md\|Skinshifter]]                               | Heliana's Guide to Monster Hunting | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Sorcerer/Spirit Caller (Kobold Press).md\|Spirit Caller]]            | Northlands Worldbook               | Kobold Press            | 5.5e    |
-| [[Subclasses/Third Party/Sorcerer/Spirit Caller (Loot Tavern).md\|Spirit Caller]]             | Ryoko's Guide to the Yokai Realms  | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Sorcerer/Wretched Bloodline Sorcery.md\|Wretched Bloodline Sorcery]] | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Sorcerer/Third Party/Apocalypse Sorcery.md\|Apocalypse Sorcery]]                 | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Sorcerer/Third Party/Coven of Spirits.md\|Coven of Spirits]]                     | Hexbound                           | Hit Point Press         | 5e      |
+| [[Subclasses/Sorcerer/Third Party/Crimson Sorcery.md\|Crimson Sorcery]]                       | The Crooked Moon                   | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Sorcerer/Third Party/Desert Soul.md\|Desert Soul]]                               | The Griffon's Saddlebag: Book Two  | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Sorcerer/Third Party/Frost Sorcery.md\|Frost Sorcery]]                           | The Griffon's Saddlebag: Book One  | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Sorcerer/Third Party/Haunted Sorcery.md\|Haunted Sorcery]]                       | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Sorcerer/Third Party/Heroic Sorcery.md\|Heroic Sorcery]]                         | Valda's Spire of Secrets           | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Sorcerer/Third Party/Hungering Dark.md\|Hungering Dark]]                         | Cthulhu by Torchlight              | Chaosium                | 5.5e    |
+| [[Subclasses/Sorcerer/Third Party/Nemesis Sorcery.md\|Nemesis Sorcery]]                       | Frontiers of Eberron: Quickstone   | Visionary               | 5.5e    |
+| [[Subclasses/Sorcerer/Third Party/Oni Kin Sorcery.md\|Oni Kin Sorcery]]                       | Obojima: Tales from the Tall Grass | 1985 Games              | 5.5e    |
+| [[Subclasses/Sorcerer/Third Party/Runechild.md\|Runechild]]                                   | Tal'Dorei Campaign Setting Reborn  | Darrington Press        | 5e      |
+| [[Subclasses/Sorcerer/Third Party/Skinshifter.md\|Skinshifter]]                               | Heliana's Guide to Monster Hunting | Loot Tavern             | 5e      |
+| [[Subclasses/Sorcerer/Third Party/Spirit Caller (Kobold Press).md\|Spirit Caller]]            | Northlands Worldbook               | Kobold Press            | 5.5e    |
+| [[Subclasses/Sorcerer/Third Party/Spirit Caller (Loot Tavern).md\|Spirit Caller]]             | Ryoko's Guide to the Yokai Realms  | Loot Tavern             | 5e      |
+| [[Subclasses/Sorcerer/Third Party/Wretched Bloodline Sorcery.md\|Wretched Bloodline Sorcery]] | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |

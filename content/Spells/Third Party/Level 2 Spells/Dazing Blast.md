@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-27T06:10:45.019Z
-modified: 2026-10-27T06:12:56.819Z
-published: 2026-10-27T06:12:56.819Z
+modified: 2026-11-08T05:44:30.934Z
+published: 2026-11-08T05:44:30.934Z
 Name: "[[Dazing Blast]]"
 Spell Level: Level 2
 School: Evocation

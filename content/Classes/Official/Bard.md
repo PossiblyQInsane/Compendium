@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-02T22:31:37.539Z
-modified: 2026-10-07T15:50:35.777Z
-published: 2026-10-07T15:50:35.777Z
+modified: 2026-11-08T02:10:12.654Z
+published: 2026-11-08T02:10:12.654Z
 Name: "[[Bard]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -764,38 +764,38 @@ A Bard subclass is a specialization that grants you features at certain Bard lev
 
 | Name                                                                       | Source                             | Edition |
 | -------------------------------------------------------------------------- | ---------------------------------- | ------- |
-| [[Subclasses/Official/Bard/College of Creation.md\|College of Creation]]   | Tasha's Cauldron of Everything     | 5e      |
-| [[Subclasses/Official/Bard/College of Dance.md\|College of Dance]]         | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Bard/College of Eloquence.md\|College of Eloquence]] | Mythic Odysseys of Theros          | 5e      |
-| [[Subclasses/Official/Bard/College of Glamour.md\|College of Glamour]]     | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Bard/College of Lore.md\|College of Lore]]           | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Bard/College of Spirits.md\|College of Spirits]]     | Ravenloft: The Horrors Within      | 5.5e    |
-| [[Subclasses/Official/Bard/College of Swords.md\|College of Swords]]       | Xanathar's Guide to Everything     | 5e      |
-| [[Subclasses/Official/Bard/College of the Moon.md\|College of the Moon]]   | Forgotten Realms: Heroes of Faerûn | 5.5e    |
-| [[Subclasses/Official/Bard/College of Valor.md\|College of Valor]]         | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Bard/College of Whispers.md\|College of Whispers]]   | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Bard/Official/College of Creation.md\|College of Creation]]   | Tasha's Cauldron of Everything     | 5e      |
+| [[Subclasses/Bard/Official/College of Dance.md\|College of Dance]]         | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Bard/Official/College of Eloquence.md\|College of Eloquence]] | Mythic Odysseys of Theros          | 5e      |
+| [[Subclasses/Bard/Official/College of Glamour.md\|College of Glamour]]     | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Bard/Official/College of Lore.md\|College of Lore]]           | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Bard/Official/College of Spirits.md\|College of Spirits]]     | Ravenloft: The Horrors Within      | 5.5e    |
+| [[Subclasses/Bard/Official/College of Swords.md\|College of Swords]]       | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Bard/Official/College of the Moon.md\|College of the Moon]]   | Forgotten Realms: Heroes of Faerûn | 5.5e    |
+| [[Subclasses/Bard/Official/College of Valor.md\|College of Valor]]         | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Bard/Official/College of Whispers.md\|College of Whispers]]   | Xanathar's Guide to Everything     | 5e      |
 
 ### Third Party Bard Subclasses
 
 | Name                                                                                        | Source                                      | Publisher               | Edition |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------- | ------- |
-| [[Subclasses/Third Party/Bard/College of Adventurers.md\|College of Adventurers]]           | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of Choreography.md\|College of Choreography]]         | The Griffon's Saddlebag: Book One           | The Griffon's Saddlebag | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of Cuisine.md\|College of Cuisine]]                   | Heliana's Guide to Monster Hunting          | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Bard/College of Drama.md\|College of Drama]]                       | Cthulhu by Torchlight                       | Chaosium                | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of Fleshweaving.md\|College of Fleshweaving]]         | Heliana's Guide to Monster Hunting          | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Bard/College of Fools.md\|College of Fools]]                       | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of Hanabi.md\|College of Hanabi]]                     | Ryoko's Guide to the Yokai Realms           | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Bard/College of Masks (1985 Games).md\|College of Masks]]          | Obojima: Tales from the Tall Grass          | 1985 Games              | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of Masks (Loot Tavern).md\|College of Masks]]         | Ryoko's Guide to the Yokai Realms           | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Bard/College of Masks (Mage Hand Press).md\|College of Masks]]     | Valda's Spire of Secrets                    | Mage Hand Press         | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of Mercantile.md\|College of Mercantile]]             | The Griffon's Saddlebag: Book Two           | The Griffon's Saddlebag | 5e      |
-| [[Subclasses/Third Party/Bard/College of Mixology.md\|College of Mixology]]                 | L'Arsene's Ledger of Treasures and Trinkets | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Bard/College of Requiems.md\|College of Requiems]]                 | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of the Dirge Singer.md\|College of the Dirge Singer]] | Exploring Eberron                           | Visionary               | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of the Road.md\|College of the Road]]                 | Humblewood Campaign Setting                 | Hit Point Press         | 5e      |
-| [[Subclasses/Third Party/Bard/College of Tragedy.md\|College of Tragedy]]                   | Tal'Dorei Campaign Setting Reborn           | Darrington Press        | 5e      |
-| [[Subclasses/Third Party/Bard/College of Wands.md\|College of Wands]]                       | Frontiers of Eberron: Quickstone            | Visionary               | 5.5e    |
-| [[Subclasses/Third Party/Bard/College of Whistles.md\|College of Whistles]]                 | The Crooked Moon                            | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Bard/Intoner.md\|The Intoner]]                                     | Hexbound                                    | Hit Point Press         | 5e      |
-| [[Subclasses/Third Party/Bard/Skald.md\|Skald]]                                             | Northlands Worldbook                        | Kobold Press            | 5.5e    |
+| [[Subclasses/Bard/Third Party/College of Adventurers.md\|College of Adventurers]]           | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Bard/Third Party/College of Choreography.md\|College of Choreography]]         | The Griffon's Saddlebag: Book One           | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Bard/Third Party/College of Cuisine.md\|College of Cuisine]]                   | Heliana's Guide to Monster Hunting          | Loot Tavern             | 5e      |
+| [[Subclasses/Bard/Third Party/College of Drama.md\|College of Drama]]                       | Cthulhu by Torchlight                       | Chaosium                | 5.5e    |
+| [[Subclasses/Bard/Third Party/College of Fleshweaving.md\|College of Fleshweaving]]         | Heliana's Guide to Monster Hunting          | Loot Tavern             | 5e      |
+| [[Subclasses/Bard/Third Party/College of Fools.md\|College of Fools]]                       | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Bard/Third Party/College of Hanabi.md\|College of Hanabi]]                     | Ryoko's Guide to the Yokai Realms           | Loot Tavern             | 5e      |
+| [[Subclasses/Bard/Third Party/College of Masks (1985 Games).md\|College of Masks]]          | Obojima: Tales from the Tall Grass          | 1985 Games              | 5.5e    |
+| [[Subclasses/Bard/Third Party/College of Masks (Loot Tavern).md\|College of Masks]]         | Ryoko's Guide to the Yokai Realms           | Loot Tavern             | 5e      |
+| [[Subclasses/Bard/Third Party/College of Masks (Mage Hand Press).md\|College of Masks]]     | Valda's Spire of Secrets                    | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Bard/Third Party/College of Mercantile.md\|College of Mercantile]]             | The Griffon's Saddlebag: Book Two           | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Bard/Third Party/College of Mixology.md\|College of Mixology]]                 | L'Arsene's Ledger of Treasures and Trinkets | Loot Tavern             | 5e      |
+| [[Subclasses/Bard/Third Party/College of Requiems.md\|College of Requiems]]                 | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Bard/Third Party/College of the Dirge Singer.md\|College of the Dirge Singer]] | Exploring Eberron                           | Visionary               | 5.5e    |
+| [[Subclasses/Bard/Third Party/College of the Road.md\|College of the Road]]                 | Humblewood Campaign Setting                 | Hit Point Press         | 5e      |
+| [[Subclasses/Bard/Third Party/College of Tragedy.md\|College of Tragedy]]                   | Tal'Dorei Campaign Setting Reborn           | Darrington Press        | 5e      |
+| [[Subclasses/Bard/Third Party/College of Wands.md\|College of Wands]]                       | Frontiers of Eberron: Quickstone            | Visionary               | 5.5e    |
+| [[Subclasses/Bard/Third Party/College of Whistles.md\|College of Whistles]]                 | The Crooked Moon                            | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Bard/Third Party/Intoner.md\|The Intoner]]                                     | Hexbound                                    | Hit Point Press         | 5e      |
+| [[Subclasses/Bard/Third Party/Skald.md\|Skald]]                                             | Northlands Worldbook                        | Kobold Press            | 5.5e    |

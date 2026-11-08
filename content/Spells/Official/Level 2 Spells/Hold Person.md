@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T01:13:33.348Z
-modified: 2026-10-08T05:03:12.234Z
-published: 2026-10-08T05:03:12.234Z
+modified: 2026-11-08T05:44:38.607Z
+published: 2026-11-08T05:44:38.607Z
 Name: "[[Hold Person]]"
 Spell Level: Level 2
 School: Enchantment

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T01:31:08.716Z
-modified: 2026-10-08T05:16:50.759Z
-published: 2026-10-08T05:16:50.759Z
+modified: 2026-11-08T05:44:58.357Z
+published: 2026-11-08T05:44:58.357Z
 Name: "[[Zone of Truth]]"
 Spell Level: Level 2
 School: Enchantment

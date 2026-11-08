@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-06T06:23:22.028Z
-modified: 2026-10-08T05:02:07.178Z
-published: 2026-10-08T05:02:07.178Z
+modified: 2026-11-08T05:44:37.837Z
+published: 2026-11-08T05:44:37.837Z
 Name: "[[Gust of Wind]]"
 Spell Level: Level 2
 School: Evocation

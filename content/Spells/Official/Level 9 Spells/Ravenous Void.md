@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-06T15:50:25.833Z
-modified: 2026-10-09T05:50:08.630Z
-published: 2026-10-09T05:50:08.630Z
+modified: 2026-11-08T05:44:46.632Z
+published: 2026-11-08T05:44:46.632Z
 Name: "[[Ravenous Void]]"
 Spell Level: Level 9
 School: Evocation

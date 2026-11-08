@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T16:51:02.504Z
-modified: 2026-10-08T05:09:53.984Z
-published: 2026-10-08T05:09:53.984Z
+modified: 2026-11-08T05:44:46.191Z
+published: 2026-11-08T05:44:46.191Z
 Name: "[[Protection from Poison]]"
 Spell Level: Level 2
 School: Abjuration

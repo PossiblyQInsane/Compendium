@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-03T06:01:22.178Z
-modified: 2026-10-09T05:43:05.984Z
-published: 2026-10-09T05:43:05.984Z
+modified: 2026-11-08T05:44:31.407Z
+published: 2026-11-08T05:44:31.407Z
 Name: "[[Detonate]]"
 Spell Level: Level 9
 School: Evocation

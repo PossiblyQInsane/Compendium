@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T15:16:09.755Z
-modified: 2026-10-08T04:05:53.543Z
-published: 2026-10-08T04:05:53.543Z
+modified: 2026-11-08T05:44:27.808Z
+published: 2026-11-08T05:44:27.808Z
 Name: "[[Chill Touch]]"
 Spell Level: Cantrip
 School: Necromancy

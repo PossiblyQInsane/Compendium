@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T02:58:18.183Z
-modified: 2026-10-08T04:41:17.026Z
-published: 2026-10-08T04:41:17.026Z
+modified: 2026-11-08T05:44:40.992Z
+published: 2026-11-08T05:44:40.992Z
 Name: "[[Jump|Jump]]"
 Spell Level: Level 1
 School: Transmutation

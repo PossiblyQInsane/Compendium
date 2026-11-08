@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T17:39:21.531Z
-modified: 2026-10-08T15:38:55.352Z
-published: 2026-10-08T15:38:55.352Z
+modified: 2026-11-08T05:44:33.151Z
+published: 2026-11-08T05:44:33.151Z
 Name: "[[Elemental Weapon]]"
 Spell Level: Level 3
 School: Transmutation

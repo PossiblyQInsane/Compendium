@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T19:18:58.490Z
-modified: 2026-10-09T05:02:57.022Z
-published: 2026-10-09T05:02:57.022Z
+modified: 2026-11-08T05:44:44.019Z
+published: 2026-11-08T05:44:44.019Z
 Name: "[[Mordenkainen's Private Sanctum]]"
 Spell Level: Level 4
 School: Abjuration

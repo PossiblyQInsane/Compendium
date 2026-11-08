@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-14T04:49:59.609Z
-modified: 2026-10-08T16:00:38.876Z
-published: 2026-10-08T16:00:38.876Z
+modified: 2026-11-08T05:44:36.428Z
+published: 2026-11-08T05:44:36.428Z
 Name: "[[Freedom of the Waves]]"
 Spell Level: Level 3
 School: Conjuration

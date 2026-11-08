@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T03:43:59.274Z
-modified: 2026-10-20T03:56:24.141Z
-published: 2026-10-20T03:56:24.141Z
+modified: 2026-11-08T05:44:30.368Z
+published: 2026-11-08T05:44:30.368Z
 Name: "[[Curse of the Putrid Husk]]"
 Spell Level: Level 3
 School: Illusion

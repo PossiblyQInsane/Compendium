@@ -1,3 +1,10 @@
+---
+publish: "true"
+created: 2026-09-27T04:00:15.494Z
+modified: 2026-11-08T05:45:16.720Z
+published: 2026-11-08T05:45:16.720Z
+---
+
 ### Cantrips (Level 0 Sorcerer Spells)
 
 | Name                                                                                    | School        | Special | Source                                  | Publisher                       |
@@ -22,6 +29,7 @@
 | _[[Spells/Third Party/Cantrips/Finger Guns.md\|Finger Guns]]_                           | Evocation     | —       | Valda's Spire of Secrets                | Mage Hand Press                 |
 | _[[Spells/Third Party/Cantrips/Flare.md\|Flare]]_                                       | Evocation     | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
 | _[[Spells/Third Party/Cantrips/Force Blast.md\|Force Blast]]_                           | Evocation     | —       | Exploring Eberron                       | Visionary                       |
+| _[[Spells/Third Party/Cantrips/Frightful Start.md\|Frightful Start]]_                   | Illusion      | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Cantrips/Frigid Blade.md\|Frigid Blade]]_                         | Evocation     | M       | Valda's Spire of Secrets                | Mage Hand Press                 |
 | _[[Spells/Third Party/Cantrips/Gray Gaze.md\|Gray Gaze]]_                               | Transmutation | —       | Frontiers of Eberron: Quickstone        | Visionary                       |
 | _[[Spells/Third Party/Cantrips/Hellfire.md\|Hellfire]]_                                 | Evocation     | —       | The Illrigger Revised                   | MCDM                            |
@@ -56,6 +64,7 @@
 | _[[Spells/Third Party/Level 1 Spells/Duplicate.md\|Duplicate]]_                                 | Conjuration   | —       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
 | _[[Spells/Third Party/Level 1 Spells/Flash.md\|Flash]]_                                         | Evocation     | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/Flipperform.md\|Flipperform]]_                             | Biomancy      | R       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
+| _[[Spells/Third Party/Level 1 Spells/Ghost Light.md\|Ghost Light]]_                             | Evocation     | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 1 Spells/Hell's Lash.md\|Hell's Lash]]_                             | Evocation     | C       | The Illrigger Revised                   | MCDM                            |
 | _[[Spells/Third Party/Level 1 Spells/Ice Moon.md\|Ice Moon]]_                                   | Conjuration   | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
 | _[[Spells/Third Party/Level 1 Spells/Initiative (Spell).md\|Initiative]]_                       | Enchantment   | —       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
@@ -87,8 +96,11 @@
 | _[[Spells/Third Party/Level 2 Spells/Eelskin.md\|Eelskin]]_                       | Biomancy      | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Level 2 Spells/Ember Belly.md\|Ember Belly]]_               | Evocation     | M       | Obojima: Tales from the Tall Grass      | 1985 Games             |
 | _[[Spells/Third Party/Level 2 Spells/Endoleech.md\|Endoleech]]_                   | Biomancy      | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| _[[Spells/Third Party/Level 2 Spells/Enspelled Armament.md\|Enspelled Armament]]_ | Conjuration   | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 2 Spells/Feline Grace.md\|Feline Grace]]_             | Transmutation | —       | Cthulhu by Torchlight                   | Chaosium               |
+| _[[Spells/Third Party/Level 2 Spells/Fiend Flesh.md\|Fiend Flesh]]_               | Transmutation | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 2 Spells/Hangover.md\|Hangover]]_                     | Enchantment   | —       | Valda's Spire of Secrets                | Mage Hand Press        |
+| _[[Spells/Third Party/Level 2 Spells/Life Tether.md\|Life Tether]]_               | Necromancy    | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 2 Spells/Recall.md\|Recall]]_                         | Conjuration   | —       | Valda's Spire of Secrets                | Mage Hand Press        |
 | _[[Spells/Third Party/Level 2 Spells/Redirect Lightning.md\|Redirect Lightning]]_ | Abjuration    | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 | _[[Spells/Third Party/Level 2 Spells/Riptide.md\|Riptide]]_                       | Transmutation | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
@@ -107,15 +119,17 @@
 
 | Name                                                                                          | School        | Special | Source                                  | Publisher              |
 | --------------------------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ---------------------- |
-| _[[Spells/Official/Level 3 Spells/Mireball.md\|Mireball]]_                                    | Conjuration   | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Level 3 Spells/Acid Rain.md\|Acid Rain]]_                               | Conjuration   | C       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
 | _[[Spells/Third Party/Level 3 Spells/Crimson Harvest.md\|Crimson Harvest]]_                   | Necromancy    | —       | The Crooked Moon                        | Avantris Entertainment |
 | _[[Spells/Third Party/Level 3 Spells/Culling Sickle.md\|Culling Sickle]]_                     | Necromancy    | C       | The Crooked Moon                        | Avantris Entertainment |
 | _[[Spells/Third Party/Level 3 Spells/Curse of the Putrid Husk.md\|Curse of the Putrid Husk]]_ | Illusion      | C       | Cthulhu by Torchlight                   | Chaosium               |
 | _[[Spells/Third Party/Level 3 Spells/Depth Charge.md\|Depth Charge]]_                         | Evocation     | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| _[[Spells/Third Party/Level 3 Spells/Elemental Exhalation.md\|Elemental Exhalation]]_         | Evocation     | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 3 Spells/Flaming Tiger Leap.md\|Flaming Tiger Leap]]_             | Transmutation | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 | _[[Spells/Third Party/Level 3 Spells/Flashbang.md\|Flashbang]]_                               | Evocation     | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern            |
 | _[[Spells/Third Party/Level 3 Spells/Freedom of the Waves.md\|Freedom of the Waves]]_         | Conjuration   | —       | Tal'Dorei Campaign Setting Reborn       | Darrington Press       |
+| _[[Spells/Third Party/Level 3 Spells/Mireball.md\|Mireball]]_                                 | Conjuration   | —       | Heliana's Guide to Monster Hunting      | Loot Tavern            |
+| _[[Spells/Third Party/Level 3 Spells/Mirror Spell.md\|Mirror Spell]]_                         | Abjuration    | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming       |
 | _[[Spells/Third Party/Level 3 Spells/Mote of Hell.md\|Mote of Hell]]_                         | Conjuration   | C       | The Illrigger Revised                   | MCDM                   |
 | _[[Spells/Third Party/Level 3 Spells/Osseous Impalement.md\|Osseous Impalement]]_             | Conjuration   | C       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM               |
 | _[[Spells/Third Party/Level 3 Spells/Phantom Panther.md\|Phantom Panther]]_                   | Conjuration   | C       | Cthulhu by Torchlight                   | Chaosium               |
@@ -164,6 +178,7 @@
 | _[[Spells/Third Party/Level 5 Spells/Freedom of the Winds.md\|Freedom of the Winds]]_         | Abjuration    | C       | Tal'Dorei Campaign Setting Reborn       | Darrington Press                |
 | _[[Spells/Third Party/Level 5 Spells/Incite Riot.md\|Incite Riot]]_                           | Enchantment   | C       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 5 Spells/Incorporeality.md\|Incorporeality]]_                     | Transmutation | C       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
+| _[[Spells/Third Party/Level 5 Spells/Magic Mirror.md\|Magic Mirror]]_                         | Abjuration    | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 5 Spells/Mortality.md\|Mortality]]_                               | Transmutation | C, M    | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
 | _[[Spells/Third Party/Level 5 Spells/Reflect Magic.md\|Reflect Magic]]_                       | Abjuration    | M       | The Magus Class                         | Sterling Vermin Adventuring Co. |
 | _[[Spells/Third Party/Level 5 Spells/Submerge.md\|Submerge]]_                                 | Conjuration   | —       | Obojima: Tales from the Tall Grass      | 1985 Games                      |
@@ -173,13 +188,14 @@
 
 ### Level 6 Sorcerer Spells
 
-| Name                                                                          | School      | Special | Source                      | Publisher                       |
-| ----------------------------------------------------------------------------- | ----------- | ------- | --------------------------- | ------------------------------- |
-| _[[Spells/Third Party/Level 6 Spells/Blood Tide.md\|Blood Tide]]_             | Conjuration | —       | Grim Hollow: Player's Guide | Ghostfire Gaming                |
-| _[[Spells/Third Party/Level 6 Spells/Chains of Beleth.md\|Chains of Beleth]]_ | Conjuration | C       | Grim Hollow: Player's Guide | Ghostfire Gaming                |
-| _[[Spells/Third Party/Level 6 Spells/First Speech.md\|First Speech]]_         | Divination  | —       | The Magus Class             | Sterling Vermin Adventuring Co. |
-| _[[Spells/Third Party/Level 6 Spells/Heartseeker.md\|Heartseeker]]_           | Evocation   | C, M    | Grim Hollow: Player's Guide | Ghostfire Gaming                |
-| _[[Spells/Third Party/Level 6 Spells/Red Sign.md\|Red Sign]]_                 | Conjuration | C       | Cthulhu by Torchlight       | Chaosium                        |
+| Name                                                                          | School        | Special | Source                      | Publisher                       |
+| ----------------------------------------------------------------------------- | ------------- | ------- | --------------------------- | ------------------------------- |
+| _[[Spells/Third Party/Level 6 Spells/Blood Tide.md\|Blood Tide]]_             | Conjuration   | —       | Grim Hollow: Player's Guide | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 6 Spells/Chains of Beleth.md\|Chains of Beleth]]_ | Conjuration   | C       | Grim Hollow: Player's Guide | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 6 Spells/First Speech.md\|First Speech]]_         | Divination    | —       | The Magus Class             | Sterling Vermin Adventuring Co. |
+| _[[Spells/Third Party/Level 6 Spells/Heartseeker.md\|Heartseeker]]_           | Evocation     | C, M    | Grim Hollow: Player's Guide | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 6 Spells/Melting Curse.md\|Melting Curse]]_       | Transmutation | —       | Grim Hollow: Player's Guide | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 6 Spells/Red Sign.md\|Red Sign]]_                 | Conjuration   | C       | Cthulhu by Torchlight       | Chaosium                        |
 
 ### Level 7 Sorcerer Spells
 
@@ -190,9 +206,10 @@
 
 ### Level 8 Sorcerer Spells
 
-| Name                                                              | School      | Special | Source                | Publisher |
-| ----------------------------------------------------------------- | ----------- | ------- | --------------------- | --------- |
-| _[[Spells/Third Party/Level 8 Spells/Call Deity.md\|Call Deity]]_ | Conjuration | —       | Cthulhu by Torchlight | Chaosium  |
+| Name                                                              | School      | Special | Source                      | Publisher        |
+| ----------------------------------------------------------------- | ----------- | ------- | --------------------------- | ---------------- |
+| _[[Spells/Third Party/Level 8 Spells/Call Deity.md\|Call Deity]]_ | Conjuration | —       | Cthulhu by Torchlight       | Chaosium         |
+| _[[Spells/Third Party/Level 8 Spells/Lifesink.md\|Lifesink]]_     | Necromancy  | C       | Grim Hollow: Player's Guide | Ghostfire Gaming |
 
 ### Level 9 Sorcerer Spells
 

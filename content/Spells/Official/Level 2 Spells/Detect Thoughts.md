@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T01:06:45.139Z
-modified: 2026-10-08T04:56:00.255Z
-published: 2026-10-08T04:56:00.255Z
+modified: 2026-11-08T05:44:31.380Z
+published: 2026-11-08T05:44:31.380Z
 Name: "[[Detect Thoughts]]"
 Spell Level: Level 2
 School: Divination

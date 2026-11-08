@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T04:40:39.175Z
-modified: 2026-10-08T04:55:28.645Z
-published: 2026-10-08T04:55:28.645Z
+modified: 2026-11-08T05:44:30.972Z
+published: 2026-11-08T05:44:30.972Z
 Name: "[[Death Armor]]"
 Spell Level: Level 2
 School: Necromancy

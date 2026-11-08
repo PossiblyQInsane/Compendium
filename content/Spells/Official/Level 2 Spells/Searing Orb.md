@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-18T00:50:35.973Z
-modified: 2026-10-08T05:11:27.498Z
-published: 2026-10-08T05:11:27.498Z
+modified: 2026-11-08T05:44:48.040Z
+published: 2026-11-08T05:44:48.040Z
 Name: "[[Searing Orb]]"
 Spell Level: Level 2
 School: Evocation

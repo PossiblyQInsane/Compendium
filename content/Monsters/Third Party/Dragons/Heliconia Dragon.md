@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Heliconia dragons
 created: 2026-08-29T22:13:31.995Z
-modified: 2026-09-10T14:45:25.990Z
-published: 2026-09-10T14:45:25.990Z
+modified: 2026-11-08T05:43:20.749Z
+published: 2026-11-08T05:43:20.749Z
 Creature Type: Dragon
 Size: Small
 Alignment: Typically Neutral Good

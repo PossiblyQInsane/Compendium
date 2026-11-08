@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - Short
 created: 2026-07-26T01:04:59.425Z
-modified: 2026-08-24T03:39:44.181Z
-published: 2026-08-24T03:39:44.181Z
+modified: 2026-11-08T05:43:46.491Z
+published: 2026-11-08T05:43:46.491Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-02T00:27:22.304Z
-modified: 2026-08-17T20:06:48.780Z
-published: 2026-08-17T20:06:48.780Z
+modified: 2026-11-08T05:42:09.848Z
+published: 2026-11-08T05:42:09.848Z
 Category: Martial Melee Weapons
 Damage: 1d10 Piercing
 Properties: Heavy, Reach, Two-Handed (unless mounted)

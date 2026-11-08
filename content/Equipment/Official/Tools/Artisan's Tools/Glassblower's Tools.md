@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-02T02:01:28.575Z
-modified: 2026-08-17T20:03:29.518Z
-published: 2026-08-17T20:03:29.518Z
+modified: 2026-11-08T05:42:07.693Z
+published: 2026-11-08T05:42:07.693Z
 Category: Artisan's Tools
 Ability: Intelligence
 Weight: 5 lb.

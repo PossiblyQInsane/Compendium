@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T02:49:46.348Z
-modified: 2026-10-08T16:10:36.400Z
-published: 2026-10-08T16:10:36.400Z
+modified: 2026-11-08T05:44:36.812Z
+published: 2026-11-08T05:44:36.812Z
 Name: "[[Gentle Repose]]"
 Spell Level: Level 2
 School: Necromancy

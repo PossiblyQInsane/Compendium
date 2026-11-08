@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-09T13:27:49.136Z
-modified: 2026-10-08T15:57:39.051Z
-published: 2026-10-08T15:57:39.051Z
+modified: 2026-11-08T05:44:25.677Z
+published: 2026-11-08T05:44:25.677Z
 Name: "[[Blood Bond]]"
 Spell Level: Level 3
 School: Enchantment

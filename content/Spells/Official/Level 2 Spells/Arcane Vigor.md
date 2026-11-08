@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T03:22:08.658Z
-modified: 2026-10-08T04:50:32.004Z
-published: 2026-10-08T04:50:32.004Z
+modified: 2026-11-08T05:44:23.721Z
+published: 2026-11-08T05:44:23.721Z
 Name: "[[Arcane Vigor|Arcane Vigor]]"
 Spell Level: Level 2
 School: Abjuration

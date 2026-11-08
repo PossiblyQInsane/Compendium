@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - larkspur dragons
 created: 2026-08-29T22:13:31.995Z
-modified: 2026-09-10T15:01:40.619Z
-published: 2026-09-10T15:01:40.619Z
+modified: 2026-11-08T05:43:21.590Z
+published: 2026-11-08T05:43:21.590Z
 Creature Type: Dragon
 Size: Large
 Alignment: Any Chaotic Alignment

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T20:50:56.342Z
-modified: 2026-10-08T05:01:42.245Z
-published: 2026-10-08T05:01:42.245Z
+modified: 2026-11-08T05:44:37.007Z
+published: 2026-11-08T05:44:37.007Z
 Name: "[[Gift of Gab]]"
 Spell Level: Level 2
 School: Enchantment

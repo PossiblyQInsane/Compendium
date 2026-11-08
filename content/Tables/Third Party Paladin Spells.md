@@ -1,14 +1,22 @@
+---
+publish: "true"
+created: 2026-09-13T14:14:56.230Z
+modified: 2026-11-08T05:45:16.463Z
+published: 2026-11-08T05:45:16.463Z
+---
+
 ### Level 1 Paladin Spells
 
-| Name                                                                          | School      | Special | Source                                  | Publisher                       |
-| ----------------------------------------------------------------------------- | ----------- | ------- | --------------------------------------- | ------------------------------- |
-| _[[Spells/Third Party/Level 1 Spells/Assisted Aim.md\|Assisted Aim]]_         | Enchantment | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
-| _[[Spells/Third Party/Level 1 Spells/Flash.md\|Flash]]_                       | Evocation   | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
-| _[[Spells/Third Party/Level 1 Spells/Inner Flame.md\|Inner Flame]]_           | Abjuration  | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
-| _[[Spells/Third Party/Level 1 Spells/Peppermint Plate.md\|Peppermint Plate]]_ | Abjuration  | C       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
-| _[[Spells/Third Party/Level 1 Spells/Repulsing Palm.md\|Repulsing Palm]]_     | Evocation   | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
-| _[[Spells/Third Party/Level 1 Spells/Spectral Slash.md\|Spectral Slash]]_     | Conjuration | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
-| _[[Spells/Third Party/Level 1 Spells/Weapon Aegis.md\|Weapon Aegis]]_         | Abjuration  | C       | The Magus Class                         | Sterling Vermin Adventuring Co. |
+| Name                                                                          | School        | Special | Source                                  | Publisher                       |
+| ----------------------------------------------------------------------------- | ------------- | ------- | --------------------------------------- | ------------------------------- |
+| _[[Spells/Third Party/Level 1 Spells/Assisted Aim.md\|Assisted Aim]]_         | Enchantment   | —       | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 1 Spells/Flash.md\|Flash]]_                       | Evocation     | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
+| _[[Spells/Third Party/Level 1 Spells/Inner Flame.md\|Inner Flame]]_           | Abjuration    | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
+| _[[Spells/Third Party/Level 1 Spells/Intaglio.md\|Intaglio]]_                 | Transmutation | C, R    | Grim Hollow: Player's Guide             | Ghostfire Gaming                |
+| _[[Spells/Third Party/Level 1 Spells/Peppermint Plate.md\|Peppermint Plate]]_ | Abjuration    | C       | Heliana's Guide to Monster Hunting      | Loot Tavern                     |
+| _[[Spells/Third Party/Level 1 Spells/Repulsing Palm.md\|Repulsing Palm]]_     | Evocation     | —       | Ryoko's Guide to the Yokai Realms       | Loot Tavern                     |
+| _[[Spells/Third Party/Level 1 Spells/Spectral Slash.md\|Spectral Slash]]_     | Conjuration   | M       | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                        |
+| _[[Spells/Third Party/Level 1 Spells/Weapon Aegis.md\|Weapon Aegis]]_         | Abjuration    | C       | The Magus Class                         | Sterling Vermin Adventuring Co. |
 
 ### Level 2 Paladin Spells
 

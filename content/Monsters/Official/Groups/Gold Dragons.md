@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - gold dragon
 created: 2026-09-07T18:20:01.209Z
-modified: 2026-10-10T05:47:11.423Z
-published: 2026-10-10T05:47:11.423Z
+modified: 2026-11-08T05:43:20.516Z
+published: 2026-11-08T05:43:20.516Z
 Source: Monster Manual 5.5e
 Official: true
 Edition: 5.5e

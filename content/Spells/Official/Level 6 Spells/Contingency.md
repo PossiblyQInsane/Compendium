@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-09T14:43:21.620Z
-modified: 2026-09-30T05:04:13.393Z
-published: 2026-09-30T05:04:13.393Z
+modified: 2026-11-08T05:44:29.439Z
+published: 2026-11-08T05:44:29.439Z
 Name: "[[Contingency]]"
 Spell Level: Level 6
 School: Abjuration

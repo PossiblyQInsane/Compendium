@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-18T00:55:37.687Z
-modified: 2026-10-08T16:12:54.518Z
-published: 2026-10-08T16:12:54.518Z
+modified: 2026-11-08T05:44:39.489Z
+published: 2026-11-08T05:44:39.489Z
 Name: "[[Incite Greed]]"
 Spell Level: Level 3
 School: Enchantment

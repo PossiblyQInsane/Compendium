@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T02:57:59.881Z
-modified: 2026-10-20T03:05:45.073Z
-published: 2026-10-20T03:05:45.073Z
+modified: 2026-11-08T05:44:32.949Z
+published: 2026-11-08T05:44:32.949Z
 Name: "[[Ectoplasmic Expulsion]]"
 Spell Level: Level 5
 School: Necromancy

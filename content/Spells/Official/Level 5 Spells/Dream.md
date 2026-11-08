@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T04:48:17.325Z
-modified: 2026-10-09T05:15:39.720Z
-published: 2026-10-09T05:15:39.720Z
+modified: 2026-11-08T05:44:32.419Z
+published: 2026-11-08T05:44:32.419Z
 Name: "[[Dream]]"
 Spell Level: Level 5
 School: Illusion

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T03:59:08.144Z
-modified: 2026-10-09T05:26:53.240Z
-published: 2026-10-09T05:26:53.240Z
+modified: 2026-11-08T05:44:29.992Z
+published: 2026-11-08T05:44:29.992Z
 Name: "[[Create Undead]]"
 Spell Level: Level 6
 School: Necromancy

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T19:10:54.856Z
-modified: 2026-10-09T05:02:08.165Z
-published: 2026-10-09T05:02:08.165Z
+modified: 2026-11-08T05:44:41.222Z
+published: 2026-11-08T05:44:41.222Z
 Name: "[[Leomund's Secret Chest]]"
 Spell Level: Level 4
 School: Conjuration

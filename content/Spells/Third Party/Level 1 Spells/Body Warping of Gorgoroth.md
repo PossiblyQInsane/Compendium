@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-20T03:16:15.336Z
-modified: 2026-10-20T03:54:41.971Z
-published: 2026-10-20T03:54:41.971Z
+modified: 2026-11-08T05:44:26.067Z
+published: 2026-11-08T05:44:26.067Z
 Name: "[[Body Warping of Gorgoroth]]"
 Spell Level: Level 1
 School: Transmutation

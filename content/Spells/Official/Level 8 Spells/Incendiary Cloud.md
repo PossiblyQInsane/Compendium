@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-08T04:54:04.207Z
-modified: 2026-10-09T05:40:35.823Z
-published: 2026-10-09T05:40:35.823Z
+modified: 2026-11-08T05:44:39.402Z
+published: 2026-11-08T05:44:39.402Z
 Name: "[[Incendiary Cloud]]"
 Spell Level: Level 8
 School: Conjuration

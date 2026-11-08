@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T22:42:01.381Z
-modified: 2026-10-09T05:44:19.772Z
-published: 2026-10-09T05:44:19.772Z
+modified: 2026-11-08T05:44:46.245Z
+published: 2026-11-08T05:44:46.245Z
 Name: "[[Psychic Scream]]"
 Spell Level: Level 9
 School: Enchantment

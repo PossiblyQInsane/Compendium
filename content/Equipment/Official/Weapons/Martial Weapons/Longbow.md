@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-02T01:26:44.072Z
-modified: 2026-08-23T20:40:39.717Z
-published: 2026-08-23T20:40:39.717Z
+modified: 2026-11-08T05:42:10.289Z
+published: 2026-11-08T05:42:10.289Z
 Category: Martial Ranged Weapons
 Damage: 1d8 Piercing
 Properties: Ammunition (Range 150/600; Arrow), Heavy, Two-Handed

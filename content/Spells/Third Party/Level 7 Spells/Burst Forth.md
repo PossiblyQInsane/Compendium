@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-23T15:41:37.987Z
-modified: 2026-10-09T05:37:12.394Z
-published: 2026-10-09T05:37:12.394Z
+modified: 2026-11-08T05:44:26.520Z
+published: 2026-11-08T05:44:26.520Z
 Name: "[[Burst Forth]]"
 Spell Level: Level 7
 School: Conjuration

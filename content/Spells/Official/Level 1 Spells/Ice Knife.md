@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-07T14:29:21.185Z
-modified: 2026-10-08T04:39:52.614Z
-published: 2026-10-08T04:39:52.614Z
+modified: 2026-11-08T05:44:38.955Z
+published: 2026-11-08T05:44:38.955Z
 Name: "[[Ice Knife]]"
 Spell Level: Level 1
 School: Conjuration

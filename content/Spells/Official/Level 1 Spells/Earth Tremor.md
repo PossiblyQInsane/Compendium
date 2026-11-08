@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T20:23:36.836Z
-modified: 2026-10-08T04:35:04.182Z
-published: 2026-10-08T04:35:04.182Z
+modified: 2026-11-08T05:44:32.655Z
+published: 2026-11-08T05:44:32.655Z
 Name: "[[Earth Tremor]]"
 Spell Level: Level 1
 School: Evocation

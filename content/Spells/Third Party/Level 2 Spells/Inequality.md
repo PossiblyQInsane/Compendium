@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-18T00:31:49.905Z
-modified: 2026-10-18T00:36:57.256Z
-published: 2026-10-18T00:36:57.256Z
+modified: 2026-11-08T05:44:39.603Z
+published: 2026-11-08T05:44:39.603Z
 Name: "[[Inequality]]"
 Spell Level: Level 2
 School: Enchantment

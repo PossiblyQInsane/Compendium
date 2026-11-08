@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-06T05:21:17.392Z
-modified: 2026-08-17T19:46:50.395Z
-published: 2026-08-17T19:46:50.395Z
+modified: 2026-11-08T05:43:43.400Z
+published: 2026-11-08T05:43:43.400Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e

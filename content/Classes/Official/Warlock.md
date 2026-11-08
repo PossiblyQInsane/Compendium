@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-26T20:36:28.992Z
-modified: 2026-10-11T04:11:25.262Z
-published: 2026-10-11T04:11:25.262Z
+modified: 2026-11-08T07:23:39.149Z
+published: 2026-11-08T07:23:39.149Z
 Name: "[[Warlock]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -147,203 +147,55 @@ When you use your Magical Cunning feature, you regain all your expended Pact Mag
 
 ## Eldritch Invocation Options
 
-Eldritch Invocation options appear in alphabetical order. For unofficial invocations, see [[Third Party Eldritch Invocations]].
-
-### Agonizing Blast
-
-_Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage_
-
-Choose one of your known Warlock cantrips that deals damage. You can add your Charisma modifier to that spell’s damage rolls.
-
-_**Repeatable.**_ You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
-
-### Armor of Shadows
-
-You can cast _[[Mage Armor]]_ on yourself without expending a spell slot.
-
-### Ascendant Step
-
-_Prerequisite: Level 5+ Warlock_
-
-You can cast _[[Levitate]]_ on yourself without expending a spell slot.
-
-### Devil’s Sight
-
-_Prerequisite: Level 2+ Warlock_
-
-You can see normally in [[Dim Light]] and [[Darkness]]—both magical and nonmagical—within 120 feet of yourself.
-
-### Devouring Blade
-
-_Prerequisite: Level 12+ Warlock, Thirsting Blade Invocation_
-
-The Extra Attack of your Thirsting Blade invocation confers two extra attacks rather than one.
-
-### Eldritch Mind
-
-You have [[Advantage]] on Constitution saving throws that you make to maintain [[Concentration]].
-
-### Eldritch Smite
-
-_Prerequisite: Level 5+ Warlock, Pact of the Blade Invocation_
-
-Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra 1d8 Force damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the [[Prone]] condition if it is Huge or smaller.
-
-### Eldritch Spear
-
-_Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage_
-
-Choose one of your known Warlock cantrips that deals damage and has a range of 10+ feet. When you cast that spell, its range increases by a number of feet equal to 30 times your Warlock level.
-
-_**Repeatable.**_ You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
-
-### Fiendish Vigor
-
-_Prerequisite: Level 2+ Warlock_
-
-You can cast _[[False Life]]_ on yourself without expending a spell slot. When you cast the spell with this feature, you don’t roll the die for the [[Temporary Hit Points]]; you automatically get the highest number on the die.
-
-### Gaze of Two Minds
-
-_Prerequisite: Level 5+ Warlock_
-
-You can use a [[Bonus Action]] to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a Bonus Action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don’t maintain it in this way.
-
-While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature’s space if the two of you are within 60 feet of each other.
-
-### Gift of the Depths
-
-_Prerequisite: Level 5+ Warlock_
-
-You can breathe underwater, and you gain a [[Swim Speed]] equal to your Speed.
-
-You can also cast _[[Water Breathing]]_ once without expending a spell slot. You regain the ability to cast it in this way again when you finish a [[Long Rest]].
-
-### Gift of the Protectors
-
-_Prerequisite: Level 9+ Warlock, Pact of the Tome Invocation_
-
-A new page appears in your Book of Shadows when you conjure it. With your permission, a creature can take an action to write its name on that page, which can contain a number of names equal to your Charisma modifier (minimum of one name).
-
-When any creature whose name is on the page is reduced to 0 Hit Points but not killed outright, the creature magically drops to 1 Hit Point instead. Once this magic is triggered, no creature can benefit from it until you finish a [[Long Rest]].
-
-As a [[Magic]] action, you can erase a name on the page by touching it.
-
-### Investment of the Chain Master
-
-_Prerequisite: Level 5+ Warlock, Pact of the Chain Invocation_
-
-When you cast _[[Find Familiar]]_, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
-
-_**Aerial or Aquatic.**_ The familiar gains either a [[Fly Speed]] or a [[Swim Speed]] (your choice) of 40 feet.
-
-_**Quick Attack.**_ As a [[Bonus Action]], you can command the familiar to take the Attack action.
-
-_**Necrotic or Radiant Damage.**_ Whenever the familiar deals Bludgeoning, Piercing, or Slashing damage, you can make it deal Necrotic or Radiant damage instead.
-
-_**Your Save DC.**_ If the familiar forces a creature to make a saving throw, it uses your spell save DC.
-
-_**Resistance.**_ When the familiar takes damage, you can take a [[Reaction]] to grant it [[Resistance]] against that damage.
-
-### Lessons of the First Ones
-
-_Prerequisite: Level 2+ Warlock_
-
-You have received knowledge from an elder entity of the multiverse, allowing you to gain one [[Feats.base#Origin Feats|Origin feat]] of your choice.
-
-_**Repeatable.**_ You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
-
-### Lifedrinker
-
-_Prerequisite: Level 9+ Warlock, Pact of the Blade Invocation_
-
-Once per turn when you hit a creature with your pact weapon, you can deal an extra 1d6 Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your [[Hit Point Dice]] to roll it and regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
-
-### Mask of Many Faces
-
-_Prerequisite: Level 2+ Warlock_
-
-You can cast _[[Disguise Self]]_ without expending a spell slot.
-
-### Master of Myriad Forms
-
-_Prerequisite: Level 5+ Warlock_
-
-You can cast _[[Alter Self]]_ without expending a spell slot.
-
-### Misty Visions
-
-_Prerequisite: Level 2+ Warlock_
-
-You can cast _[[Silent Image]]_ without expending a spell slot.
-
-### One with Shadows
-
-_Prerequisite: Level 5+ Warlock_
-
-While you’re in an area of [[Dim Light]] or [[Darkness]], you can cast _[[Invisibility]]_ on yourself without expending a spell slot.
-
-### Otherworldly Leap
-
-_Prerequisite: Level 2+ Warlock_
-
-You can cast _[[Jump]]_ on yourself without expending a spell slot.
-
-### Pact of the Blade
-
-As a [[Bonus Action]], you can conjure a pact weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can’t bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a [[Spellcasting Focus]].
-
-Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
-
-Your bond with the weapon ends if you use this feature’s Bonus Action again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
-
-### Pact of the Chain
-
-You learn the _[[Find Familiar]]_ spell and can cast it as a [[Magic]] action without expending a spell slot.
-
-When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: **[[Imp]]**, **[[Pseudodragon]]**, **[[Quasit]]**, **[[Skeleton]]**, **[[Slaad Tadpole]]**, **[[Sphinx of Wonder]]**, **[[Sprite]]**, or **[[Venomous Snake]]**.
-
-Additionally, when you take the [[Attack]] action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its [[Reaction]].
-
-### Pact of the Tome
-
-Stitching together strands of shadow, you conjure forth a book in your hand at the end of a [[Short Rest|Short]] or [[Long Rest]]. This Book of Shadows (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
-
-_**Cantrips and Rituals.**_ When the book appears, choose three cantrips, and choose two level 1 spells that have the [[Ritual]] tag. The spells can be from any class’s spell list, and they must be spells you don’t already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
-
-_**Spellcasting Focus.**_ You can use the book as a [[Spellcasting Focus]].
-
-### Repelling Blast
-
-_Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an Attack Roll_
-
-Choose one of your known Warlock cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.
-
-_**Repeatable.**_ You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
-
-### Thirsting Blade
-
-_Prerequisite: Level 5+ Warlock, Pact of the Blade Invocation_
-
-You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the [[Attack]] action on your turn.
-
-### Visions of Distant Realms
-
-_Prerequisite: Level 9+ Warlock_
-
-You can cast _[[Arcane Eye]]_ without expending a spell slot.
-
-### Whispers of the Grave
-
-_Prerequisite: Level 7+ Warlock_
-
-You can cast _[[Speak with Dead]]_ without expending a spell slot.
-
-### Witch Sight
-
-_Prerequisite: Level 15+ Warlock_
-
-You have [[Truesight]] with a range of 30 feet.
+### Official Invocations
+
+| Name                                                                                                              | Prerequisite                                                             | Source                 |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------- |
+| [[Miscellaneous/Eldritch Invocations/Official/Agonizing Blast.md\|Agonizing Blast]]                               | Level 2+ Warlock, a Warlock Cantrip That Deals Damage                    | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Armor of Shadows.md\|Armor of Shadows]]                             | —                                                                        | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Ascendant Step.md\|Ascendant Step]]                                 | Level 5+ Warlock                                                         | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Call of the Void.md\|Call of the Void]]                             | Level 5+ Warlock, Pact of the Legion Invocation                          | D\&D: World of Warcraft |
+| [[Miscellaneous/Eldritch Invocations/Official/Curse of Corruption.md\|Curse of Corruption]]                       | Level 2+ Warlock                                                         | D\&D: World of Warcraft |
+| [[Miscellaneous/Eldritch Invocations/Official/Devil's Sight.md\|Devil's Sight]]                                   | Level 2+ Warlock                                                         | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Devouring Blade.md\|Devouring Blade]]                               | Level 12+ Warlock, Thirsting Blade Invocation                            | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Eldritch Mind.md\|Eldritch Mind]]                                   | —                                                                        | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Eldritch Smite.md\|Eldritch Smite]]                                 | Level 5+ Warlock, Pact of the Blade Invocation                           | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Eldritch Spear.md\|Eldritch Spear]]                                 | Level 2+ Warlock, a Warlock Cantrip That Deals Damage                    | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Expendable Minions.md\|Expendable Minions]]                         | Level 9+ Warlock                                                         | D\&D: World of Warcraft |
+| [[Miscellaneous/Eldritch Invocations/Official/Fiendish Vigor.md\|Fiendish Vigor]]                                 | Level 2+ Warlock                                                         | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Gaze of Two Minds.md\|Gaze of Two Minds]]                           | Level 5+ Warlock                                                         | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Gift of the Depths.md\|Gift of the Depths]]                         | Level 5+ Warlock                                                         | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Gift of the Protectors.md\|Gift of the Protectors]]                 | Level 9+ Warlock, Pact of the Tome Invocation                            | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Health Funnel.md\|Health Funnel]]                                   | Level 2+ Warlock                                                         | D\&D: World of Warcraft |
+| [[Miscellaneous/Eldritch Invocations/Official/Investment of the Chain Master.md\|Investment of the Chain Master]] | Level 5+ Warlock, Pact of the Chain Invocation                           | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Legion Summoning.md\|Legion Summoning]]                             | Level 9+ Warlock, Pact of the Legion Invocation                          | D\&D: World of Warcraft |
+| [[Miscellaneous/Eldritch Invocations/Official/Lessons of the First Ones.md\|Lessons of the First Ones]]           | Level 2+ Warlock                                                         | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Lifedrinker.md\|Lifedrinker]]                                       | Level 9+ Warlock, Pact of the Blade Invocation                           | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Mask of Many Faces.md\|Mask of Many Faces]]                         | Level 2+ Warlock                                                         | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Master Demonologist.md\|Master Demonologist]]                       | Level 5+ Warlock                                                         | D\&D: World of Warcraft |
+| [[Miscellaneous/Eldritch Invocations/Official/Master of Myriad Forms.md\|Master of Myriad Forms]]                 | Level 5+ Warlock                                                         | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Misty Visions.md\|Misty Visions]]                                   | Level 2+ Warlock                                                         | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/One with Shadows.md\|One with Shadows]]                             | Level 5+ Warlock                                                         | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Otherworldly Leap.md\|Otherworldly Leap]]                           | Level 2+ Warlock                                                         | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Pact of the Blade.md\|Pact of the Blade]]                           | —                                                                        | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Pact of the Chain.md\|Pact of the Chain]]                           | —                                                                        | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Pact of the Legion.md\|Pact of the Legion]]                         | —                                                                        | D\&D: World of Warcraft |
+| [[Miscellaneous/Eldritch Invocations/Official/Pact of the Tome.md\|Pact of the Tome]]                             | —                                                                        | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Repelling Blast.md\|Repelling Blast]]                               | Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an Attack Roll | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Thirsting Blade.md\|Thirsting Blade]]                               | Level 5+ Warlock, Pact of the Blade Invocation                           | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Visions of Distant Realms.md\|Visions of Distant Realms]]           | Level 9+ Warlock                                                         | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Whispers of the Grave.md\|Whispers of the Grave]]                   | Level 7+ Warlock                                                         | Player's Handbook 5.5e |
+| [[Miscellaneous/Eldritch Invocations/Official/Witch Sight.md\|Witch Sight]]                                       | Level 15+ Warlock                                                        | Player's Handbook 5.5e |
+
+### Third Party Invocations
+
+| Name                                                                                             | Prerequisite                 | Source                             | Publisher       |
+| ------------------------------------------------------------------------------------------------ | ---------------------------- | ---------------------------------- | --------------- |
+| [[Miscellaneous/Eldritch Invocations/Third Party/Feral Transformation.md\|Feral Transformation]] | Level 7+ Warlock             | Humblewood Tales                   | Hit Point Press |
+| [[Miscellaneous/Eldritch Invocations/Third Party/Hexshredder.md\|Hexshredder]]                   | Pact of the Blade Invocation | Humblewood Tales                   | Hit Point Press |
+| [[Miscellaneous/Eldritch Invocations/Third Party/Hunter's Grimoire.md\|Hunter's Grimoire]]       | Pact of the Tome Invocation  | Humblewood Tales                   | Hit Point Press |
+| [[Miscellaneous/Eldritch Invocations/Third Party/Parasitic Leech.md\|Parasitic Leech]]           | Parasite patron              | Heliana's Guide to Monster Hunting | Loot Tavern     |
+| [[Miscellaneous/Eldritch Invocations/Third Party/Primal Summoner.md\|Primal Summoner]]           | Pact of the Chain Invocation | Humblewood Tales                   | Hit Point Press |
 
 ## Warlock Spell List
 
@@ -574,36 +426,36 @@ A Warlock subclass is a specialization that grants you features at certain Warlo
 
 | Name                                                                          | Source                         | Edition |
 | ----------------------------------------------------------------------------- | ------------------------------ | ------- |
-| [[Subclasses/Official/Warlock/Archfey Patron.md\|Archfey Patron]]             | Player's Handbook 5.5e         | 5.5e    |
-| [[Subclasses/Official/Warlock/Celestial Patron.md\|Celestial Patron]]         | Player's Handbook 5.5e         | 5.5e    |
-| [[Subclasses/Official/Warlock/Fathomless.md\|The Fathomless]]                 | Tasha's Cauldron of Everything | 5e      |
-| [[Subclasses/Official/Warlock/Fiend Patron.md\|Fiend Patron]]                 | Player's Handbook 5.5e         | 5.5e    |
-| [[Subclasses/Official/Warlock/Genie.md\|The Genie]]                           | Tasha's Cauldron of Everything | 5e      |
-| [[Subclasses/Official/Warlock/Great Old One Patron.md\|Great Old One Patron]] | Player's Handbook 5.5e         | 5.5e    |
-| [[Subclasses/Official/Warlock/Hexblade.md\|The Hexblade]]                     | Xanathar's Guide to Everything | 5e      |
-| [[Subclasses/Official/Warlock/Undead Patron.md\|Undead Patron]]               | Ravenloft: The Horrors Within  | 5.5e    |
-| [[Subclasses/Official/Warlock/Undying.md\|The Undying]]                       | Sword Coast Adventurer's Guide | 5e      |
-| [[Subclasses/Official/Warlock/Vestige Patron.md\|Vestige Patron]]             | Arcana Unleashed               | 5.5e    |
+| [[Subclasses/Warlock/Official/Archfey Patron.md\|Archfey Patron]]             | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Warlock/Official/Celestial Patron.md\|Celestial Patron]]         | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Warlock/Official/Fathomless.md\|The Fathomless]]                 | Tasha's Cauldron of Everything | 5e      |
+| [[Subclasses/Warlock/Official/Fiend Patron.md\|Fiend Patron]]                 | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Warlock/Official/Genie.md\|The Genie]]                           | Tasha's Cauldron of Everything | 5e      |
+| [[Subclasses/Warlock/Official/Great Old One Patron.md\|Great Old One Patron]] | Player's Handbook 5.5e         | 5.5e    |
+| [[Subclasses/Warlock/Official/Hexblade.md\|The Hexblade]]                     | Xanathar's Guide to Everything | 5e      |
+| [[Subclasses/Warlock/Official/Undead Patron.md\|Undead Patron]]               | Ravenloft: The Horrors Within  | 5.5e    |
+| [[Subclasses/Warlock/Official/Undying.md\|The Undying]]                       | Sword Coast Adventurer's Guide | 5e      |
+| [[Subclasses/Warlock/Official/Vestige Patron.md\|Vestige Patron]]             | Arcana Unleashed               | 5.5e    |
 
 ### Third Party Warlock Subclasses
 
 | Name                                                                                                             | Source                             | Publisher               | Edition |
 | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ----------------------- | ------- |
-| [[Subclasses/Third Party/Warlock/Astral Griffon Patron.md\|The Astral Griffon Patron]]                           | The Griffon's Saddlebag: Book One  | The Griffon's Saddlebag | 5.5e    |
-| [[Subclasses/Third Party/Warlock/Coven (Ghostfire Gaming).md\|The Coven]]                                        | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Warlock/Coven Patron (1985 Games).md\|Coven Patron]]                                    | Obojima: Tales from Yatamon        | 1985 Games              | 5.5e    |
-| [[Subclasses/Third Party/Warlock/Exalted Assembly of the Feline Court.md\|Exalted Assembly of the Feline Court]] | Cthulhu by Torchlight              | Chaosium                | 5.5e    |
-| [[Subclasses/Third Party/Warlock/First Vampire Patron.md\|The First Vampire Patron]]                             | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Warlock/Fungus Patron.md\|Fungus Patron]]                                               | The Field Guide to Floral Dragons  | Hit Point Press         | 5.5e    |
-| [[Subclasses/Third Party/Warlock/Future You Patron.md\|Future You Patron]]                                       | Valda's Spire of Secrets           | Mage Hand Press         | 5.5e    |
-| [[Subclasses/Third Party/Warlock/Great Fool Patron.md\|Great Fool Patron]]                                       | The Crooked Moon                   | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Warlock/Horned King Patron.md\|Horned King Patron]]                                     | The Crooked Moon                   | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Warlock/Lantern Patron.md\|Lantern Patron]]                                             | Obojima: Tales from the Tall Grass | 1985 Games              | 5.5e    |
-| [[Subclasses/Third Party/Warlock/Many.md\|The Many]]                                                             | The Griffon's Saddlebag: Book Two  | The Griffon's Saddlebag | 5e      |
-| [[Subclasses/Third Party/Warlock/Parasite (Loot Tavern).md\|The Parasite]]                                       | Heliana's Guide to Monster Hunting | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Warlock/Parasite Patron (Ghostfire Gaming).md\|The Parasite Patron]]                    | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Warlock/Predator.md\|The Predator]]                                                     | Humblewood Tales                   | Hit Point Press         | 5e      |
-| [[Subclasses/Third Party/Warlock/Shinigami.md\|The Shinigami]]                                                   | Ryoko's Guide to the Yokai Realms  | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Warlock/Stone Sovereign Patron.md\|Stone Sovereign Patron]]                             | Frontiers of Eberron: Quickstone   | Visionary               | 5.5e    |
-| [[Subclasses/Third Party/Warlock/Trickster.md\|Trickster]]                                                       | Northlands Worldbook               | Kobold Press            | 5.5e    |
-| [[Subclasses/Third Party/Warlock/Witch Patron.md\|Witch Patron]]                                                 | Hexbound                           | Hit Point Press         | 5e      |
+| [[Subclasses/Warlock/Third Party/Astral Griffon Patron.md\|The Astral Griffon Patron]]                           | The Griffon's Saddlebag: Book One  | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Warlock/Third Party/Coven (Ghostfire Gaming).md\|The Coven]]                                        | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Warlock/Third Party/Coven Patron (1985 Games).md\|Coven Patron]]                                    | Obojima: Tales from Yatamon        | 1985 Games              | 5.5e    |
+| [[Subclasses/Warlock/Third Party/Exalted Assembly of the Feline Court.md\|Exalted Assembly of the Feline Court]] | Cthulhu by Torchlight              | Chaosium                | 5.5e    |
+| [[Subclasses/Warlock/Third Party/First Vampire Patron.md\|The First Vampire Patron]]                             | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Warlock/Third Party/Fungus Patron.md\|Fungus Patron]]                                               | The Field Guide to Floral Dragons  | Hit Point Press         | 5.5e    |
+| [[Subclasses/Warlock/Third Party/Future You Patron.md\|Future You Patron]]                                       | Valda's Spire of Secrets           | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Warlock/Third Party/Great Fool Patron.md\|Great Fool Patron]]                                       | The Crooked Moon                   | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Warlock/Third Party/Horned King Patron.md\|Horned King Patron]]                                     | The Crooked Moon                   | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Warlock/Third Party/Lantern Patron.md\|Lantern Patron]]                                             | Obojima: Tales from the Tall Grass | 1985 Games              | 5.5e    |
+| [[Subclasses/Warlock/Third Party/Many.md\|The Many]]                                                             | The Griffon's Saddlebag: Book Two  | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Warlock/Third Party/Parasite (Loot Tavern).md\|The Parasite]]                                       | Heliana's Guide to Monster Hunting | Loot Tavern             | 5e      |
+| [[Subclasses/Warlock/Third Party/Parasite Patron (Ghostfire Gaming).md\|The Parasite Patron]]                    | Grim Hollow: Player's Guide        | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Warlock/Third Party/Predator.md\|The Predator]]                                                     | Humblewood Tales                   | Hit Point Press         | 5e      |
+| [[Subclasses/Warlock/Third Party/Shinigami.md\|The Shinigami]]                                                   | Ryoko's Guide to the Yokai Realms  | Loot Tavern             | 5e      |
+| [[Subclasses/Warlock/Third Party/Stone Sovereign Patron.md\|Stone Sovereign Patron]]                             | Frontiers of Eberron: Quickstone   | Visionary               | 5.5e    |
+| [[Subclasses/Warlock/Third Party/Trickster.md\|Trickster]]                                                       | Northlands Worldbook               | Kobold Press            | 5.5e    |
+| [[Subclasses/Warlock/Third Party/Witch Patron.md\|Witch Patron]]                                                 | Hexbound                           | Hit Point Press         | 5e      |

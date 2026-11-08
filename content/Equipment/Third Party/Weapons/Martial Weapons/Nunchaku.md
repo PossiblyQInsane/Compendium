@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-15T05:42:49.615Z
-modified: 2026-10-15T06:09:59.209Z
-published: 2026-10-15T06:09:59.209Z
+modified: 2026-11-08T05:42:11.684Z
+published: 2026-11-08T05:42:11.684Z
 Category: Martial Melee Weapons
 Damage: 1d6 Bludgeoning
 Properties: "Finesse, Special: Flourish, Versatile (1d8)"

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-22T05:21:26.222Z
-modified: 2026-09-22T05:33:50.556Z
-published: 2026-09-22T05:33:50.556Z
+modified: 2026-11-08T05:41:35.030Z
+published: 2026-11-08T05:41:35.030Z
 Category: Advanced Ranged Weapons
 Damage: 2d4 Piercing
 Properties: Ammunition (Range 20/80; Paper Cartridge Bullet), Blackpowder, Light, Loading

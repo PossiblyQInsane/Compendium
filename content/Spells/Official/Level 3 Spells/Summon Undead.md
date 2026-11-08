@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-05T20:29:03.616Z
-modified: 2026-10-08T15:54:17.241Z
-published: 2026-10-08T15:54:17.241Z
+modified: 2026-11-08T05:44:51.607Z
+published: 2026-11-08T05:44:51.607Z
 Name: "[[Summon Undead]]"
 Spell Level: Level 3
 School: Necromancy

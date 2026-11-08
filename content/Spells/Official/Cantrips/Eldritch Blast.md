@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-05T19:55:00.971Z
-modified: 2026-10-05T19:56:49.446Z
-published: 2026-10-05T19:56:49.446Z
+modified: 2026-11-08T05:44:33.049Z
+published: 2026-11-08T05:44:33.049Z
 Name: "[[Eldritch Blast]]"
 Spell Level: Cantrip
 School: Evocation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-02T00:46:14.770Z
-modified: 2026-08-17T20:07:23.998Z
-published: 2026-08-17T20:07:23.998Z
+modified: 2026-11-08T05:42:13.505Z
+published: 2026-11-08T05:42:13.505Z
 Category: Martial Melee Weapons
 Damage: 1d8 Piercing
 Properties: Finesse

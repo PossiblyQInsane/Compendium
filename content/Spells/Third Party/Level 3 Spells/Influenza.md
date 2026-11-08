@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-18T02:02:25.712Z
-modified: 2026-10-18T02:06:56.745Z
-published: 2026-10-18T02:06:56.745Z
+modified: 2026-11-08T05:44:39.817Z
+published: 2026-11-08T05:44:39.817Z
 Name: "[[Influenza]]"
 Spell Level: Level 3
 School: Biomancy

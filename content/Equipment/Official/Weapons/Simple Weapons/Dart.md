@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-01T22:07:21.257Z
-modified: 2026-08-17T20:07:58.582Z
-published: 2026-08-17T20:07:58.582Z
+modified: 2026-11-08T05:42:04.185Z
+published: 2026-11-08T05:42:04.185Z
 Category: Simple Ranged Weapons
 Damage: 1d4 Piercing
 Properties: Finesse, Thrown (Range 20/60)

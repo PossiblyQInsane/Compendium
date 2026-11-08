@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T15:58:22.464Z
-modified: 2026-10-09T05:21:15.037Z
-published: 2026-10-09T05:21:15.037Z
+modified: 2026-11-08T05:44:52.311Z
+published: 2026-11-08T05:44:52.311Z
 Name: "[[Telekinesis]]"
 Spell Level: Level 5
 School: Transmutation

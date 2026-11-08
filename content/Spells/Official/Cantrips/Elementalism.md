@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T01:22:26.674Z
-modified: 2026-10-08T04:07:59.258Z
-published: 2026-10-08T04:07:59.258Z
+modified: 2026-11-08T05:44:33.190Z
+published: 2026-11-08T05:44:33.190Z
 Name: "[[Elementalism|Elementalism]]"
 Spell Level: Cantrip
 School: Transmutation

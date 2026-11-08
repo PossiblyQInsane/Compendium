@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-21T17:59:49.506Z
-modified: 2026-09-21T18:10:35.883Z
-published: 2026-09-21T18:10:35.883Z
+modified: 2026-11-08T05:42:15.332Z
+published: 2026-11-08T05:42:15.332Z
 Category: Martial Melee Weapons
 Damage: 1d6 Bludgeoning
 Properties: Reach, Special

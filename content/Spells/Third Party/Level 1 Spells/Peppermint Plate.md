@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-18T00:16:17.592Z
-modified: 2026-10-18T00:21:59.136Z
-published: 2026-10-18T00:21:59.136Z
+modified: 2026-11-08T05:44:44.933Z
+published: 2026-11-08T05:44:44.933Z
 Name: "[[Peppermint Plate]]"
 Spell Level: Level 1
 School: Abjuration

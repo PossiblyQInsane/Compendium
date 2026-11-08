@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-04T19:09:40.886Z
-modified: 2026-10-08T05:31:22.815Z
-published: 2026-10-08T05:31:22.815Z
+modified: 2026-11-08T05:44:32.902Z
+published: 2026-11-08T05:44:32.902Z
 Name: "[[Earthskin]]"
 Spell Level: Level 2
 School: Biomancy

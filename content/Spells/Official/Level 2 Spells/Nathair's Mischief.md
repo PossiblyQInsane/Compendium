@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T20:58:39.084Z
-modified: 2026-10-08T05:08:28.251Z
-published: 2026-10-08T05:08:28.251Z
+modified: 2026-11-08T05:44:44.258Z
+published: 2026-11-08T05:44:44.258Z
 Name: "[[Nathair's Mischief]]"
 Spell Level: Level 2
 School: Illusion

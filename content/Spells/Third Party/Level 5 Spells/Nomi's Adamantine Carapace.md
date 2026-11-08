@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T05:42:21.988Z
-modified: 2026-10-16T05:47:21.977Z
-published: 2026-10-16T05:47:21.977Z
+modified: 2026-11-08T05:44:44.312Z
+published: 2026-11-08T05:44:44.312Z
 Name: "[[Nomi's Adamantine Carapace]]"
 Spell Level: Level 5
 School: Biomancy

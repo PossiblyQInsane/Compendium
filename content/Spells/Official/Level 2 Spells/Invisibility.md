@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T16:28:09.983Z
-modified: 2026-10-08T05:04:05.814Z
-published: 2026-10-08T05:04:05.814Z
+modified: 2026-11-08T05:44:40.537Z
+published: 2026-11-08T05:44:40.537Z
 Name: "[[Invisibility]]"
 Spell Level: Level 2
 School: Illusion

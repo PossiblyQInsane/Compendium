@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-14T05:08:50.396Z
-modified: 2026-10-14T05:11:11.208Z
-published: 2026-10-14T05:11:11.208Z
+modified: 2026-11-08T05:44:27.126Z
+published: 2026-11-08T05:44:27.126Z
 Name: "[[Cascade of Hours]]"
 Spell Level: Level 4
 School: Transmutation

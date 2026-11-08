@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-29T15:43:49.832Z
-modified: 2026-10-09T05:01:58.443Z
-published: 2026-10-09T05:01:58.443Z
+modified: 2026-11-08T05:44:39.017Z
+published: 2026-11-08T05:44:39.017Z
 Name: "[[Ice Storm]]"
 Spell Level: Level 4
 School: Evocation

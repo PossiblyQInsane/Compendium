@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-27T05:45:34.869Z
-modified: 2026-10-27T05:48:34.718Z
-published: 2026-10-27T05:48:34.718Z
+modified: 2026-11-08T05:44:25.605Z
+published: 2026-11-08T05:44:25.605Z
 Name: "[[Bloat]]"
 Spell Level: Level 2
 School: Necromancy

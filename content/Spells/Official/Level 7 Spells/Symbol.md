@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T06:15:21.254Z
-modified: 2026-10-09T05:36:00.284Z
-published: 2026-10-09T05:36:00.284Z
+modified: 2026-11-08T05:44:51.976Z
+published: 2026-11-08T05:44:51.976Z
 Name: "[[Symbol]]"
 Spell Level: Level 7
 School: Abjuration

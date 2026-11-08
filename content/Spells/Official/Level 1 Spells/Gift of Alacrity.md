@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-06T15:01:25.487Z
-modified: 2026-10-09T05:48:33.226Z
-published: 2026-10-09T05:48:33.226Z
+modified: 2026-11-08T05:44:36.968Z
+published: 2026-11-08T05:44:36.968Z
 Name: "[[Gift of Alacrity]]"
 Spell Level: Level 1
 School: Divination

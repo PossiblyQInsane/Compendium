@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-01T20:44:31.821Z
-modified: 2026-08-23T20:40:39.937Z
-published: 2026-08-23T20:40:39.937Z
+modified: 2026-11-08T05:42:03.758Z
+published: 2026-11-08T05:42:03.758Z
 Category: Simple Melee Weapons
 Damage: 1d4 Bludgeoning
 Properties: Light

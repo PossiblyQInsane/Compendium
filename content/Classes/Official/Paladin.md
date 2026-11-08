@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-13T13:48:32.277Z
-modified: 2026-10-07T15:51:17.913Z
-published: 2026-10-07T15:51:17.913Z
+modified: 2026-11-08T02:10:39.894Z
+published: 2026-11-08T02:10:39.894Z
 Name: "[[Paladin]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -293,33 +293,33 @@ Each of these subclasses represents a body of oaths that a Paladin begins taking
 
 | Name                                                                                  | Source                             | Edition |
 | ------------------------------------------------------------------------------------- | ---------------------------------- | ------- |
-| [[Subclasses/Official/Paladin/Oath of Conquest.md\|Oath of Conquest]]                 | Xanathar's Guide to Everything     | 5e      |
-| [[Subclasses/Official/Paladin/Oath of Devotion.md\|Oath of Devotion]]                 | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Paladin/Oath of Glory.md\|Oath of Glory]]                       | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Paladin/Oath of Redemption.md\|Oath of Redemption]]             | Xanathar's Guide to Everything     | 5e      |
-| [[Subclasses/Official/Paladin/Oath of the Ancients.md\|Oath of the Ancients]]         | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Paladin/Oath of the Crown.md\|Oath of the Crown]]               | Sword Coast Adventurer's Guide     | 5e      |
-| [[Subclasses/Official/Paladin/Oath of the Noble Genies.md\|Oath of the Noble Genies]] | Forgotten Realms: Heroes of Faerûn | 5.5e    |
-| [[Subclasses/Official/Paladin/Oath of the Watchers.md\|Oath of the Watchers]]         | Tasha's Cauldron of Everything     | 5e      |
-| [[Subclasses/Official/Paladin/Oath of Vengeance.md\|Oath of Vengeance]]               | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Paladin/Oathbreaker.md\|Oathbreaker]]                           | Dungeon Master's Guide 5e          | 5e      |
+| [[Subclasses/Paladin/Official/Oath of Conquest.md\|Oath of Conquest]]                 | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Paladin/Official/Oath of Devotion.md\|Oath of Devotion]]                 | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Paladin/Official/Oath of Glory.md\|Oath of Glory]]                       | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Paladin/Official/Oath of Redemption.md\|Oath of Redemption]]             | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Paladin/Official/Oath of the Ancients.md\|Oath of the Ancients]]         | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Paladin/Official/Oath of the Crown.md\|Oath of the Crown]]               | Sword Coast Adventurer's Guide     | 5e      |
+| [[Subclasses/Paladin/Official/Oath of the Noble Genies.md\|Oath of the Noble Genies]] | Forgotten Realms: Heroes of Faerûn | 5.5e    |
+| [[Subclasses/Paladin/Official/Oath of the Watchers.md\|Oath of the Watchers]]         | Tasha's Cauldron of Everything     | 5e      |
+| [[Subclasses/Paladin/Official/Oath of Vengeance.md\|Oath of Vengeance]]               | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Paladin/Official/Oathbreaker.md\|Oathbreaker]]                           | Dungeon Master's Guide 5e          | 5e      |
 
 ### Third Party Paladin Subclasses
 
 | Name                                                                                       | Source                                  | Publisher               | Edition |
 | ------------------------------------------------------------------------------------------ | --------------------------------------- | ----------------------- | ------- |
-| [[Subclasses/Third Party/Paladin/Oath of Castigation.md\|Oath of Castigation]]             | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Paladin/Oath of Pestilence.md\|Oath of Pestilence]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Paladin/Oath of Revelry.md\|Oath of Revelry]]                     | Valda's Spire of Secrets                | Mage Hand Press         | 5.5e    |
-| [[Subclasses/Third Party/Paladin/Oath of Slaughter.md\|Oath of Slaughter]]                 | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Paladin/Oath of the Coven.md\|Oath of the Coven]]                 | Hexbound                                | Hit Point Press         | 5e      |
-| [[Subclasses/Third Party/Paladin/Oath of the Eldritch Hunt.md\|Oath of the Eldritch Hunt]] | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
-| [[Subclasses/Third Party/Paladin/Oath of the Guardian.md\|Oath of the Guardian]]           | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
-| [[Subclasses/Third Party/Paladin/Oath of the Harvest.md\|Oath of the Harvest]]             | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Paladin/Oath of the Hearth.md\|Oath of the Hearth]]               | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |
-| [[Subclasses/Third Party/Paladin/Oath of the Open Sea.md\|Oath of the Open Sea]]           | Tal'Dorei Campaign Setting Reborn       | Darrington Press        | 5e      |
-| [[Subclasses/Third Party/Paladin/Oath of the River.md\|Oath of the River]]                 | Obojima: Tales from the Tall Grass      | 1985 Games              | 5.5e    |
-| [[Subclasses/Third Party/Paladin/Oath of the Spelldrinker.md\|Oath of the Spelldrinker]]   | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
-| [[Subclasses/Third Party/Paladin/Oath of the Yojimbo.md\|Oath of the Yojimbo]]             | Ryoko's Guide to the Yokai Realms       | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Paladin/Oath of Valhalla.md\|Oath of Valhalla]]                   | Northlands Worldbook                    | Kobold Press            | 5.5e    |
-| [[Subclasses/Third Party/Paladin/Oath of Zeal.md\|Oath of Zeal]]                           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Paladin/Third Party/Oath of Castigation.md\|Oath of Castigation]]             | The Crooked Moon                        | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Paladin/Third Party/Oath of Pestilence.md\|Oath of Pestilence]]               | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Paladin/Third Party/Oath of Revelry.md\|Oath of Revelry]]                     | Valda's Spire of Secrets                | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Paladin/Third Party/Oath of Slaughter.md\|Oath of Slaughter]]                 | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Paladin/Third Party/Oath of the Coven.md\|Oath of the Coven]]                 | Hexbound                                | Hit Point Press         | 5e      |
+| [[Subclasses/Paladin/Third Party/Oath of the Eldritch Hunt.md\|Oath of the Eldritch Hunt]] | Steinhardt's Guide to the Eldritch Hunt | MonkeyDM                | 5.5e    |
+| [[Subclasses/Paladin/Third Party/Oath of the Guardian.md\|Oath of the Guardian]]           | Cthulhu by Torchlight                   | Chaosium                | 5.5e    |
+| [[Subclasses/Paladin/Third Party/Oath of the Harvest.md\|Oath of the Harvest]]             | Heliana's Guide to Monster Hunting      | Loot Tavern             | 5e      |
+| [[Subclasses/Paladin/Third Party/Oath of the Hearth.md\|Oath of the Hearth]]               | The Griffon's Saddlebag: Book One       | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Paladin/Third Party/Oath of the Open Sea.md\|Oath of the Open Sea]]           | Tal'Dorei Campaign Setting Reborn       | Darrington Press        | 5e      |
+| [[Subclasses/Paladin/Third Party/Oath of the River.md\|Oath of the River]]                 | Obojima: Tales from the Tall Grass      | 1985 Games              | 5.5e    |
+| [[Subclasses/Paladin/Third Party/Oath of the Spelldrinker.md\|Oath of the Spelldrinker]]   | The Griffon's Saddlebag: Book Two       | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Paladin/Third Party/Oath of the Yojimbo.md\|Oath of the Yojimbo]]             | Ryoko's Guide to the Yokai Realms       | Loot Tavern             | 5e      |
+| [[Subclasses/Paladin/Third Party/Oath of Valhalla.md\|Oath of Valhalla]]                   | Northlands Worldbook                    | Kobold Press            | 5.5e    |
+| [[Subclasses/Paladin/Third Party/Oath of Zeal.md\|Oath of Zeal]]                           | Grim Hollow: Player's Guide             | Ghostfire Gaming        | 5.5e    |

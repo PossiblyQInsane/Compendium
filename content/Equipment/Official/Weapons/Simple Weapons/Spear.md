@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-01T22:01:51.960Z
-modified: 2026-08-17T20:08:41.982Z
-published: 2026-08-17T20:08:41.982Z
+modified: 2026-11-08T05:42:16.097Z
+published: 2026-11-08T05:42:16.097Z
 Category: Simple Melee Weapons
 Damage: 1d6 Piercing
 Properties: Thrown (Range 20/60), Versatile (1d8)

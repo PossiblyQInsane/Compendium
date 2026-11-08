@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T05:37:25.596Z
-modified: 2026-10-16T05:41:30.017Z
-published: 2026-10-16T05:41:30.017Z
+modified: 2026-11-08T05:44:49.134Z
+published: 2026-11-08T05:44:49.134Z
 Name: "[[Slatestorm]]"
 Spell Level: Level 4
 School: Conjuration

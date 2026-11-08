@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-25T18:08:49.594Z
-modified: 2026-08-17T19:52:56.038Z
-published: 2026-08-17T19:52:56.038Z
+modified: 2026-11-08T05:42:12.409Z
+published: 2026-11-08T05:42:12.409Z
 Weight: 7 lb.
 Cost: 5 CP
 Source: Player's Handbook 5.5e

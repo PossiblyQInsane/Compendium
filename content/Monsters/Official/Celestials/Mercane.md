@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T04:33:55.358Z
-modified: 2026-09-27T20:33:21.852Z
-published: 2026-09-27T20:33:21.852Z
+modified: 2026-11-08T05:43:21.738Z
+published: 2026-11-08T05:43:21.738Z
 Creature Type: Celestial
 Size: Large
 Alignment: Typically Lawful Neutral

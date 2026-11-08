@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-15T15:50:37.294Z
-modified: 2026-10-15T15:54:12.133Z
-published: 2026-10-15T15:54:12.133Z
+modified: 2026-11-08T05:44:30.737Z
+published: 2026-11-08T05:44:30.737Z
 Name: "[[Dash Strike]]"
 Spell Level: Cantrip
 School: Transmutation

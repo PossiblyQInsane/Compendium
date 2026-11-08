@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-11-01T04:20:37.458Z
-modified: 2026-11-01T04:24:44.819Z
-published: 2026-11-01T04:24:44.819Z
+modified: 2026-11-08T05:44:35.380Z
+published: 2026-11-08T05:44:35.380Z
 Name: "[[Flare]]"
 Spell Level: Cantrip
 School: Evocation

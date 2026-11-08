@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-17T23:39:56.109Z
-modified: 2026-10-17T23:42:44.096Z
-published: 2026-10-17T23:42:44.096Z
+modified: 2026-11-08T05:44:45.820Z
+published: 2026-11-08T05:44:45.820Z
 Name: "[[Primal Scent]]"
 Spell Level: Cantrip
 School: Divination

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T05:48:41.990Z
-modified: 2026-10-16T05:51:58.183Z
-published: 2026-10-16T05:51:58.183Z
+modified: 2026-11-08T05:44:39.455Z
+published: 2026-11-08T05:44:39.455Z
 Name: "[[Incendiary Strike]]"
 Spell Level: Cantrip
 School: Evocation

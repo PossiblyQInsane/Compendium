@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-21T21:20:40.639Z
-modified: 2026-10-07T15:51:34.556Z
-published: 2026-10-07T15:51:34.556Z
+modified: 2026-11-08T02:10:53.355Z
+published: 2026-11-08T02:10:53.355Z
 Name: "[[Rogue]]"
 Source: Player's Handbook 5.5e
 Official: true
@@ -180,34 +180,34 @@ A Rogue subclass is a specialization that grants you features at certain Rogue l
 
 ### Official Rogue Subclasses
 
-| Name                                                                    | Source                             | Edition |
-| ----------------------------------------------------------------------- | ---------------------------------- | ------- |
-| [[Subclasses/Official/Rogue/Arcane Trickster.md\|Arcane Trickster]]     | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Rogue/Assassin.md\|Assassin]]                     | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Rogue/Inquisitive.md\|Inquisitive]]               | Xanathar's Guide to Everything     | 5e      |
-| [[Subclasses/Official/Rogue/Mastermind.md\|Mastermind]]                 | Sword Coast Adventurer's Guide     | 5e      |
-| [[Subclasses/Official/Rogue/Phantom.md\|Phantom]]                       | Ravenloft: The Horrors Within      | 5.5e    |
-| [[Subclasses/Official/Rogue/Scion of the Three.md\|Scion of the Three]] | Forgotten Realms: Heroes of Faerûn | 5.5e    |
-| [[Subclasses/Official/Rogue/Scout.md\|Scout]]                           | Xanathar's Guide to Everything     | 5e      |
-| [[Subclasses/Official/Rogue/Soulknife.md\|Soulknife]]                   | Player's Handbook 5.5e             | 5.5e    |
-| [[Subclasses/Official/Rogue/Swashbuckler.md\|Swashbuckler]]             | Sword Coast Adventurer's Guide     | 5e      |
-| [[Subclasses/Official/Rogue/Thief.md\|Thief]]                           | Player's Handbook 5.5e             | 5.5e    |
+| Name                                                                          | Source                             | Edition |
+| ----------------------------------------------------------------------------- | ---------------------------------- | ------- |
+| [[Subclasses/Rogue/Official/Arcane Trickster.md\|Arcane Trickster]]           | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Rogue/Official/Assassin.md\|Assassin]]                           | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Rogue/Official/Inquisitive.md\|Inquisitive]]                     | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Rogue/Official/Mastermind.md\|Mastermind]]                       | Sword Coast Adventurer's Guide     | 5e      |
+| [[Subclasses/Rogue/Official/Phantom.md\|Phantom]]                             | Ravenloft: The Horrors Within      | 5.5e    |
+| [[Subclasses/Rogue/Official/Scion of the Three.md\|Scion of the Three]]       | Forgotten Realms: Heroes of Faerûn | 5.5e    |
+| [[Subclasses/Rogue/Official/Scout.md\|Scout]]                                 | Xanathar's Guide to Everything     | 5e      |
+| [[Subclasses/Rogue/Official/Soulknife.md\|Soulknife]]                         | Player's Handbook 5.5e             | 5.5e    |
+| [[Subclasses/Rogue/Official/Swashbuckler (Legacy).md\|Swashbuckler (Legacy)]] | Sword Coast Adventurer's Guide     | 5e      |
+| [[Subclasses/Rogue/Official/Thief.md\|Thief]]                                 | Player's Handbook 5.5e             | 5.5e    |
 
 ### Third Party Rogue Subclasses
 
 | Name                                                                           | Source                                      | Publisher               | Edition |
 | ------------------------------------------------------------------------------ | ------------------------------------------- | ----------------------- | ------- |
-| [[Subclasses/Third Party/Rogue/Arachnoid Stalker.md\|Arachnoid Stalker]]       | Valda's Spire of Secrets                    | Mage Hand Press         | 5.5e    |
-| [[Subclasses/Third Party/Rogue/Blade of Radiance.md\|Blade of Radiance]]       | Steinhardt's Guide to the Eldritch Hunt     | MonkeyDM                | 5.5e    |
-| [[Subclasses/Third Party/Rogue/Charlatan (Subclass).md\|Charlatan]]            | L'Arsene's Ledger of Treasures and Trinkets | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Rogue/Duskwalker Archetype.md\|Duskwalker Archetype]] | Hexbound                                    | Hit Point Press         | 5e      |
-| [[Subclasses/Third Party/Rogue/Fortune Rogue.md\|Fortune Rogue]]               | Obojima: Tales from Yatamon                 | 1985 Games              | 5.5e    |
-| [[Subclasses/Third Party/Rogue/Grim Surgeon.md\|Grim Surgeon]]                 | The Griffon's Saddlebag: Book Two           | The Griffon's Saddlebag | 5e      |
-| [[Subclasses/Third Party/Rogue/Highway Rider.md\|Highway Rider]]               | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Rogue/Misfortune Bringer.md\|Misfortune Bringer]]     | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Rogue/Runetagger.md\|Runetagger]]                     | The Griffon's Saddlebag: Book One           | The Griffon's Saddlebag | 5.5e    |
-| [[Subclasses/Third Party/Rogue/Sanguine Thief.md\|Sanguine Thief]]             | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
-| [[Subclasses/Third Party/Rogue/Shadow Stalker.md\|Shadow Stalker]]             | Cthulhu by Torchlight                       | Chaosium                | 5.5e    |
-| [[Subclasses/Third Party/Rogue/Sinner.md\|Sinner]]                             | The Crooked Moon                            | Avantris Entertainment  | 5.5e    |
-| [[Subclasses/Third Party/Rogue/Tamaya.md\|Tamaya]]                             | Ryoko's Guide to the Yokai Realms           | Loot Tavern             | 5e      |
-| [[Subclasses/Third Party/Rogue/Waxwork Rogue.md\|Waxwork Rogue]]               | Obojima: Tales from the Tall Grass          | 1985 Games              | 5.5e    |
+| [[Subclasses/Rogue/Third Party/Arachnoid Stalker.md\|Arachnoid Stalker]]       | Valda's Spire of Secrets                    | Mage Hand Press         | 5.5e    |
+| [[Subclasses/Rogue/Third Party/Blade of Radiance.md\|Blade of Radiance]]       | Steinhardt's Guide to the Eldritch Hunt     | MonkeyDM                | 5.5e    |
+| [[Subclasses/Rogue/Third Party/Charlatan (Subclass).md\|Charlatan]]            | L'Arsene's Ledger of Treasures and Trinkets | Loot Tavern             | 5e      |
+| [[Subclasses/Rogue/Third Party/Duskwalker Archetype.md\|Duskwalker Archetype]] | Hexbound                                    | Hit Point Press         | 5e      |
+| [[Subclasses/Rogue/Third Party/Fortune Rogue.md\|Fortune Rogue]]               | Obojima: Tales from Yatamon                 | 1985 Games              | 5.5e    |
+| [[Subclasses/Rogue/Third Party/Grim Surgeon.md\|Grim Surgeon]]                 | The Griffon's Saddlebag: Book Two           | The Griffon's Saddlebag | 5e      |
+| [[Subclasses/Rogue/Third Party/Highway Rider.md\|Highway Rider]]               | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Rogue/Third Party/Misfortune Bringer.md\|Misfortune Bringer]]     | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Rogue/Third Party/Runetagger.md\|Runetagger]]                     | The Griffon's Saddlebag: Book One           | The Griffon's Saddlebag | 5.5e    |
+| [[Subclasses/Rogue/Third Party/Sanguine Thief.md\|Sanguine Thief]]             | Grim Hollow: Player's Guide                 | Ghostfire Gaming        | 5.5e    |
+| [[Subclasses/Rogue/Third Party/Shadow Stalker.md\|Shadow Stalker]]             | Cthulhu by Torchlight                       | Chaosium                | 5.5e    |
+| [[Subclasses/Rogue/Third Party/Sinner.md\|Sinner]]                             | The Crooked Moon                            | Avantris Entertainment  | 5.5e    |
+| [[Subclasses/Rogue/Third Party/Tamaya.md\|Tamaya]]                             | Ryoko's Guide to the Yokai Realms           | Loot Tavern             | 5e      |
+| [[Subclasses/Rogue/Third Party/Waxwork Rogue.md\|Waxwork Rogue]]               | Obojima: Tales from the Tall Grass          | 1985 Games              | 5.5e    |

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-25T22:48:49.472Z
-modified: 2026-08-17T20:10:47.439Z
-published: 2026-08-17T20:10:47.439Z
+modified: 2026-11-08T05:42:57.513Z
+published: 2026-11-08T05:42:57.513Z
 Category: Armor
 Rarity: Rare
 Attunement: false

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-10T17:35:48.675Z
-modified: 2026-10-08T05:25:43.197Z
-published: 2026-10-08T05:25:43.197Z
+modified: 2026-11-08T05:44:44.975Z
+published: 2026-11-08T05:44:44.975Z
 Name: "[[Phalangeal Shot]]"
 Spell Level: Level 1
 School: Evocation

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-13T05:33:13.758Z
-modified: 2026-10-13T05:36:00.448Z
-published: 2026-10-13T05:36:00.448Z
+modified: 2026-11-08T05:44:27.359Z
+published: 2026-11-08T05:44:27.359Z
 Name: "[[Caustic Claw]]"
 Spell Level: Cantrip
 School: Transmutation

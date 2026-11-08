@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-16T02:52:20.088Z
-modified: 2026-10-08T05:15:05.153Z
-published: 2026-10-08T05:15:05.153Z
+modified: 2026-11-08T05:44:53.784Z
+published: 2026-11-08T05:44:53.784Z
 Name: "[[Tortoise Shell]]"
 Spell Level: Level 2
 School: Abjuration

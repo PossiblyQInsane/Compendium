@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-14T06:44:21.772Z
-modified: 2026-10-09T05:33:36.314Z
-published: 2026-10-09T05:33:36.314Z
+modified: 2026-11-08T05:44:34.945Z
+published: 2026-11-08T05:44:34.945Z
 Name: "[[Finger of Death]]"
 Spell Level: Level 7
 School: Necromancy

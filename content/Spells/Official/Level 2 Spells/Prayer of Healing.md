@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-04T02:52:44.941Z
-modified: 2026-10-08T05:09:26.185Z
-published: 2026-10-08T05:09:26.185Z
+modified: 2026-11-08T05:44:45.664Z
+published: 2026-11-08T05:44:45.664Z
 Name: "[[Prayer of Healing]]"
 Spell Level: Level 2
 School: Abjuration

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-08-03T05:14:06.929Z
-modified: 2026-10-09T05:19:55.611Z
-published: 2026-10-09T05:19:55.611Z
+modified: 2026-11-08T05:44:48.149Z
+published: 2026-11-08T05:44:48.149Z
 Name: "[[Seeming]]"
 Spell Level: Level 5
 School: Illusion

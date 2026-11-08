@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-13T14:46:45.529Z
-modified: 2026-09-13T14:50:18.209Z
-published: 2026-09-13T14:50:18.209Z
+modified: 2026-11-08T05:44:50.421Z
+published: 2026-11-08T05:44:50.421Z
 Name: "[[Staggering Smite]]"
 Spell Level: Level 4
 School: Enchantment

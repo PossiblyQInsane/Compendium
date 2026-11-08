@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-16T06:04:59.560Z
-modified: 2026-10-16T06:09:07.136Z
-published: 2026-10-16T06:09:07.136Z
+modified: 2026-11-08T05:44:39.939Z
+published: 2026-11-08T05:44:39.939Z
 Name: "[[Inner Flame]]"
 Spell Level: Level 1
 School: Abjuration

@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-26T17:13:41.567Z
-modified: 2026-10-08T05:13:25.330Z
-published: 2026-10-08T05:13:25.330Z
+modified: 2026-11-08T05:44:50.102Z
+published: 2026-11-08T05:44:50.102Z
 Name: "[[Spider Climb]]"
 Spell Level: Level 2
 School: Transmutation

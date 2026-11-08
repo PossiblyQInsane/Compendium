@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-09-27T05:30:40.238Z
-modified: 2026-10-09T05:00:16.239Z
-published: 2026-10-09T05:00:16.239Z
+modified: 2026-11-08T05:44:36.751Z
+published: 2026-11-08T05:44:36.751Z
 Name: "[[Gate Seal]]"
 Spell Level: Level 4
 School: Abjuration

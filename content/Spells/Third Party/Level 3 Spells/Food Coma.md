@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-10-18T00:48:30.221Z
-modified: 2026-10-18T00:52:48.592Z
-published: 2026-10-18T00:52:48.592Z
+modified: 2026-11-08T05:44:36.021Z
+published: 2026-11-08T05:44:36.021Z
 Name: "[[Food Coma]]"
 Spell Level: Level 3
 School: Enchantment

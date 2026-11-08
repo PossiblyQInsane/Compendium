@@ -1,8 +1,8 @@
 ---
-publish: true
+publish: "true"
 created: 2026-07-27T03:10:47.074Z
-modified: 2026-10-08T04:42:16.391Z
-published: 2026-10-08T04:42:16.391Z
+modified: 2026-11-08T05:44:42.418Z
+published: 2026-11-08T05:44:42.418Z
 Name: "[[Magic Missile]]"
 Spell Level: Level 1
 School: Evocation

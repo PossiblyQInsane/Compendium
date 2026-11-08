@@ -1,10 +1,10 @@
 ---
-publish: true
+publish: "true"
 aliases:
   - deafened
 created: 2026-07-29T16:18:05.881Z
-modified: 2026-09-29T00:08:56.658Z
-published: 2026-09-29T00:08:56.658Z
+modified: 2026-11-08T05:43:43.646Z
+published: 2026-11-08T05:43:43.646Z
 Source: Player's Handbook 5.5e
 Official: true
 Edition: 5.5e
